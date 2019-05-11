@@ -57,6 +57,7 @@ create table atletas_mercado (
     variacao_num numeric not null,
     media_num numeric not null,
     jogos_num integer not null,
+    status_id integer not null references status(id),
     rb numeric,
     g numeric,
     a numeric,

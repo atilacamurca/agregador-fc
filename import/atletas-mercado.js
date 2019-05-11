@@ -13,9 +13,9 @@ const UPSERT_ATLETAS = `INSERT INTO public.atletas(id, nome, slug, apelido, foto
     posicao_id=EXCLUDED.posicao_id`
 const UPSERT_ATLETAS_MERCADO = `INSERT INTO public.atletas_mercado (atleta_id, rodada_id,
     ano, pontos_num, preco_num, variacao_num, media_num, jogos_num, rb, g, a, sg, fs, ff,
-    fd, ft, dd, dp, gc, cv, ca, pp, gs, fc, i, pe)
+    fd, ft, dd, dp, gc, cv, ca, pp, gs, fc, i, pe, status_id)
 VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10, $11, $12, $13, $14, $15, $16, $17, $18,
-    $19, $20, $21, $22, $23, $24, $25, $26)
+    $19, $20, $21, $22, $23, $24, $25, $26, $27)
     ON CONFLICT ON CONSTRAINT atletas_mercado_pkey DO
     UPDATE
     SET pontos_num=EXCLUDED.pontos_num,
@@ -40,7 +40,8 @@ VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10, $11, $12, $13, $14, $15, $16, $
         gs=EXCLUDED.gs,
         fc=EXCLUDED.fc,
         i=EXCLUDED.i,
-        pe=EXCLUDED.pe`
+        pe=EXCLUDED.pe,
+        status_id=EXCLUDED.status_id`
 const CURRENT_YEAR = new Date().getFullYear()
 
 async function fetch() {
@@ -133,7 +134,8 @@ async function save(data) {
                 orZero(a.scout, 'gs'),
                 orZero(a.scout, 'fc'),
                 orZero(a.scout, 'i'),
-                orZero(a.scout, 'pe')
+                orZero(a.scout, 'pe'),
+                a.status_id
             ]))
         }
         Promise.all(batchAtletas)
@@ -153,7 +155,7 @@ function orZero(obj, key) {
 }
 
 // const data = await fetch()
-const data = require('./mercado.json')
+const data = require('./atletas-mercado.json')
 
 client.connect()
     .then(() => save(data))

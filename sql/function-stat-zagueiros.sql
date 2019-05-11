@@ -5,7 +5,7 @@ RETURNS json AS
 $$
     SELECT row_to_json(t) AS json FROM (
         select coalesce(sum(rb), 0) as sum_rb, coalesce(sum(g), 0) as sum_g,
-        coalesce(sum(sg), 0) as sum_sg, coalesce(sum(gc), 0) as sum_gc
+        coalesce(sum(gc), 0) as sum_gc
         from atletas_mercado am
         inner join atletas a on am.atleta_id = a.id
         inner join clubes c on a.clube_id = c.id

@@ -1,40 +1,48 @@
 <template>
-  <Layout>
-    Dicas para Rodada
-    <ul>
-      <li v-for="item in $page.rodadas.edges" :key="item.node.rodada">
-        <g-link :to="item.node.path">
-          Rodada {{ item.node.rodada }}
-        </g-link>
-      </li>
-    </ul>
+    <Layout>
+        <b-row class="mt-2">
+            <b-col md="6" offset-md="3">
+                <b-card no-body>
+                    <b-list-group flush>
+                        <b-list-group-item v-for="(item, index) in $page.rodadas.edges"
+                            :key="item.node.rodada"
+                            :href="item.node.path"
+                            class="flex-column align-items-start">
+                            <div class="d-flex w-100 justify-content-between">
+                                <h5 class="mb-1">Rodada {{ item.node.rodada }}</h5>
+                                <small>{{ item.node.inicio_rodada | fromNow }}</small>
+                            </div>
 
-  </Layout>
+                            <p class="m-1 lead" v-if="index === 0">
+                                <span class="text-warning">&starf;</span>
+                                Prepare-se para a próxima rodada aqui
+                            </p>
+                        </b-list-group-item>
+                    </b-list-group>
+                </b-card>
+            </b-col>
+        </b-row>
+    </Layout>
 </template>
 
 <page-query>
 query TodasRodadas {
-  rodadas: allRodadaTemplate (perPage: 10, order: DESC) {
-    edges {
-      node {
-        path,
-        rodada
-      }
-    }
+    rodadas: allRodadaTemplate (perPage: 10, order: DESC, sortBy: "rodada") {
+        edges {
+            node {
+                path,
+                rodada,
+                inicio_rodada
+            }
+        }
 	}
 }
 </page-query>
 
 <script>
 export default {
-  metaInfo: {
-    title: 'Dicas para Rodada'
-  }
+    metaInfo: {
+        title: 'Dicas para Rodada'
+    }
 }
 </script>
-
-<style>
-.home-links a {
-  margin-right: 1rem;
-}
-</style>
