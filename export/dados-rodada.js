@@ -3,15 +3,28 @@ const client = require('../import/database').client
 const path = require('path')
 const fs = require('fs')
 
+const args = process.argv.slice(2)
+let rodadaAtual = process.env.RODADA_ATUAL_ID
+// override RODADA ATUAL
+if (args[0]) {
+    rodadaAtual = new Number(args[0])
+}
+
 const CURRENT_YEAR = new Date().getFullYear()
 const SQL_PARTIDAS_RODADA = `
     SELECT partida_id,
+        stat_destaques_defesa(pr.rodada_id, pr.ano, pr.clube_casa_id) as destaques_defesa_casa,
+        stat_destaques_defesa(pr.rodada_id, pr.ano, pr.clube_visitante_id) as destaques_defesa_visitante,
         stat_goleiros(pr.rodada_id, pr.ano, pr.clube_casa_id) AS goleiros_casa,
         stat_goleiros(pr.rodada_id, pr.ano, pr.clube_visitante_id) AS goleiros_visitante,
         stat_zagueiros(pr.rodada_id, pr.ano, pr.clube_casa_id) AS zagueiros_casa,
         stat_zagueiros(pr.rodada_id, pr.ano, pr.clube_visitante_id) AS zagueiros_visitante,
+        stat_meias(pr.rodada_id, pr.ano, pr.clube_casa_id) as meias_casa,
+        stat_meias(pr.rodada_id, pr.ano, pr.clube_visitante_id) as meias_visitante,
         stat_atacantes(pr.rodada_id, pr.ano, pr.clube_casa_id) AS atacantes_casa,
         stat_atacantes(pr.rodada_id, pr.ano, pr.clube_visitante_id) AS atacantes_visitante,
+        stat_destaques_ataque(pr.rodada_id, pr.ano, pr.clube_casa_id) AS destaques_ataque_casa,
+        stat_destaques_ataque(pr.rodada_id, pr.ano, pr.clube_visitante_id) AS destaques_ataque_visitante,
         clube_casa_id,
         cc.nome_fantasia as clube_casa,
         cc.escudo_60 as escudo_casa,
@@ -65,14 +78,15 @@ async function queryPartidasRodada(rodada_id, ano) {
 }
 
 client.connect()
-    .then(() => queryPartidasRodada(process.env.RODADA_ATUAL_ID, CURRENT_YEAR))
+    .then(() => queryPartidasRodada(rodadaAtual, CURRENT_YEAR))
     .then(async partidas => {
-        const inicio_rodada = await queryInicioRodada(process.env.RODADA_ATUAL_ID, CURRENT_YEAR)
+        console.log(`Exportando JSON da Rodada ${rodadaAtual}/${CURRENT_YEAR} ...`)
+        const inicio_rodada = await queryInicioRodada(rodadaAtual, CURRENT_YEAR)
 
         const pathRodada = path.resolve(__dirname, '../rodada', `${CURRENT_YEAR}`)
-        const filename = `${pathRodada}/${process.env.RODADA_ATUAL_ID}.json`
+        const filename = `${pathRodada}/${rodadaAtual}.json`
         fs.writeFileSync(filename, JSON.stringify({
-            rodada: process.env.RODADA_ATUAL_ID,
+            rodada: rodadaAtual,
             inicio_rodada,
             partidas
         }, null, 2))

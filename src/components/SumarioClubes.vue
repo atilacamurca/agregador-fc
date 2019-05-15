@@ -8,7 +8,11 @@
                     <div class="mx-4">
                         <b-img width="40px" :src="escudoCasa" alt="escudo-casa"></b-img>
                     </div>
-                    <div class="text-center lead">X</div>
+                    <div class="text-center d-flex flex-direction-column lead">
+                        <span>{{ placarMandante }}</span>
+                        <span class="mx-2">X</span>
+                        <span>{{ placarVisitante }}</span>
+                    </div>
                     <div class="mx-4">
                         <b-img width="40px" :src="escudoVisitante" alt="escudo-visitante"></b-img>
                     </div>
@@ -43,6 +47,8 @@ export default {
             type: String,
             required: true
         },
+        placarMandante: null,
+        placarVisitante: null
     }
 }
 </script>

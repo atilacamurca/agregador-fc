@@ -111,3 +111,4 @@ create table partidas_rodada (
 - <https://github.com/menegazzo/cartola-opexe/blob/master/cartola.py>
 - <https://github.com/wgenial/cartrolandofc/blob/master/nova-api.md>
 - <https://www.timescale.com/>
+- <https://cssgradient.io/>

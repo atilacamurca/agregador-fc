@@ -6,6 +6,8 @@
 
 module.exports = {
   siteName: 'Agregador FC',
+  siteUrl: 'https://atilacamurca.github.io',
+  pathPrefix: '/agregador-fc',
   plugins: [
     {
       use: '@gridsome/source-filesystem',

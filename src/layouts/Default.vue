@@ -20,7 +20,7 @@ export default {
 <style>
 body {
     font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
-    background: #fff;
+    background: #009FFF;
     background: -webkit-linear-gradient(to left, #009FFF, #EC2F4C);
     background: -moz-linear-gradient(to left, #009FFF, #EC2F4C);
     background: linear-gradient(to left, #009FFF, #EC2F4C);

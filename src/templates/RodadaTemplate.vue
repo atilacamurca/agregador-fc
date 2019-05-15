@@ -16,6 +16,8 @@
                                 :clube-visitante="partida.clube_visitante"
                                 :escudo-casa="partida.escudo_casa"
                                 :escudo-visitante="partida.escudo_visitante"
+                                :placar-mandante="partida.placar_oficial_mandante"
+                                :placar-visitante="partida.placar_oficial_visitante"
                             ></sumario-clubes>
                         </div>
                         <b-collapse :id="`accordion-${partida.partida_id}`"
@@ -41,6 +43,28 @@ query Rodada ($path: String!) {
             escudo_visitante,
             partida_data,
             local,
+            placar_oficial_mandante,
+            placar_oficial_visitante,
+            destaques_defesa_casa {
+                atleta_id,
+                apelido,
+                jogos_num,
+                preco_num,
+                media_num,
+                foto,
+                nome_posicao,
+                abreviacao_posicao
+            },
+            destaques_defesa_visitante {
+                atleta_id,
+                apelido,
+                jogos_num,
+                preco_num,
+                media_num,
+                foto,
+                nome_posicao,
+                abreviacao_posicao
+            }
             goleiros_casa {
                 sum_sg,
                 sum_dd,
@@ -63,6 +87,28 @@ query Rodada ($path: String!) {
                 sum_gc,
                 sum_g
             },
+            meias_casa {
+                sum_g
+                sum_a
+                sum_fs
+                sum_ff
+                sum_fc
+                sum_rb
+                sum_fd
+                sum_ca
+                sum_pe
+            },
+            meias_visitante {
+                sum_g
+                sum_a
+                sum_fs
+                sum_ff
+                sum_fc
+                sum_rb
+                sum_fd
+                sum_ca
+                sum_pe
+            },
             atacantes_casa {
                 sum_g,
                 sum_a,
@@ -82,6 +128,26 @@ query Rodada ($path: String!) {
                 sum_pp,
                 sum_fc,
                 sum_i,
+            },
+            destaques_ataque_casa {
+                atleta_id,
+                apelido,
+                jogos_num,
+                preco_num,
+                media_num,
+                foto,
+                nome_posicao,
+                abreviacao_posicao
+            },
+            destaques_ataque_visitante {
+                atleta_id,
+                apelido,
+                jogos_num,
+                preco_num,
+                media_num,
+                foto,
+                nome_posicao,
+                abreviacao_posicao
             }
         }
     }
@@ -89,6 +155,34 @@ query Rodada ($path: String!) {
 </page-query>
 
 <script>
+/**
+ * destaques_defesa_casa {
+                edges {
+                    node {
+                        atleta_id,
+                        apelido,
+                        jogos_num,
+                        preco_num,
+                        foto,
+                        nome_posicao,
+                        abreviacao_posicao
+                    }
+                }
+            },
+            destaques_defesa_visitante {
+                edges {
+                    node {
+                        atleta_id,
+                        apelido,
+                        jogos_num,
+                        preco_num,
+                        foto,
+                        nome_posicao,
+                        abreviacao_posicao
+                    }
+                }
+            },
+ */
 import SumarioPartida from '~/components/SumarioPartida'
 import SumarioClubes from '~/components/SumarioClubes'
 import SumarioEstatisticas from '~/components/SumarioEstatisticas'

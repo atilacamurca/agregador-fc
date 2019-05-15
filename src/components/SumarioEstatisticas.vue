@@ -39,9 +39,48 @@
                 </b-row>
             </b-col>
         </b-row>
+        <container-destaques posicao-em-campo="defesa">
+            <row-destaques slot="casa"
+                :destaques="partida.destaques_defesa_casa"
+            ></row-destaques>
+            <row-destaques slot="visitante"
+                :destaques="partida.destaques_defesa_visitante"
+            ></row-destaques>
+        </container-destaques>
         <hr>
+        <b-row class="mt-2">
+            <b-col md="6" class="border-right">
+                <b-row>
+                    <col-meias :g="partida.meias_casa.sum_g"
+                        :a="partida.meias_casa.sum_a"
+                        :fd="partida.meias_casa.sum_fd"
+                        :ff="partida.meias_casa.sum_ff"
+                        :fs="partida.meias_casa.sum_fs"
+                        :fc="partida.meias_casa.sum_fc"
+                        :rb="partida.meias_casa.sum_rb"
+                        :pe="partida.meias_casa.sum_pe"
+                        :ca="partida.meias_casa.sum_ca"
+                        class="ml-4"
+                    ></col-meias>
+                </b-row>
+            </b-col>
+            <b-col>
+                <b-row>
+                    <col-meias :g="partida.meias_visitante.sum_g"
+                        :a="partida.meias_visitante.sum_a"
+                        :fd="partida.meias_visitante.sum_fd"
+                        :ff="partida.meias_visitante.sum_ff"
+                        :fs="partida.meias_visitante.sum_fs"
+                        :fc="partida.meias_visitante.sum_fc"
+                        :rb="partida.meias_visitante.sum_rb"
+                        :pe="partida.meias_visitante.sum_pe"
+                        :ca="partida.meias_visitante.sum_ca"
+                    ></col-meias>
+                </b-row>
+            </b-col>
+        </b-row>
         <b-row class="mt-4">
-            <b-col md="5" offset-md="1" class="border-right">
+            <b-col md="6" class="border-right">
                 <b-row>
                     <col-atacantes :g="partida.atacantes_casa.sum_g"
                         :a="partida.atacantes_casa.sum_a"
@@ -50,6 +89,7 @@
                         :pp="partida.atacantes_casa.sum_pp"
                         :i="partida.atacantes_casa.sum_i"
                         :fc="partida.atacantes_casa.sum_fc"
+                        class="ml-4"
                     ></col-atacantes>
                 </b-row>
             </b-col>
@@ -66,6 +106,14 @@
                 </b-row>
             </b-col>
         </b-row>
+        <container-destaques posicao-em-campo="ataque">
+            <row-destaques slot="casa"
+                :destaques="partida.destaques_ataque_casa"
+            ></row-destaques>
+            <row-destaques slot="visitante"
+                :destaques="partida.destaques_ataque_visitante"
+            ></row-destaques>
+        </container-destaques>
     </div>
 </template>
 
@@ -74,6 +122,9 @@ import ColDefesa from '~/components/partida/ColDefesa'
 import ColGoleiros from '~/components/partida/ColGoleiros'
 import ColZagueiros from '~/components/partida/ColZagueiros'
 import ColAtacantes from '~/components/partida/ColAtacantes'
+import ColMeias from '~/components/partida/ColMeias'
+import ContainerDestaques from '~/components/partida/ContainerDestaques'
+import RowDestaques from '~/components/partida/RowDestaques'
 
 export default {
     props: {
@@ -86,7 +137,10 @@ export default {
         ColDefesa,
         ColGoleiros,
         ColZagueiros,
-        ColAtacantes
+        ColAtacantes,
+        ColMeias,
+        ContainerDestaques,
+        RowDestaques
     }
 }
 </script>
