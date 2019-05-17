@@ -1,31 +1,23 @@
-<template>
-    <b-col md="12">
+<template functional>
+    <b-col md="12" :class="data.staticClass || ''">
         <div>ATACANTES</div>
         <b-row>
-            <b-col md="6">
-                <gol :g="g"></gol>
-                <finalizacao-fora :ff="ff"></finalizacao-fora>
-                <falta-cometida :fc="fc"></falta-cometida>
+            <b-col md="3">
+                <gol :g="props.g"></gol>
+                <finalizacao-fora :ff="props.ff"></finalizacao-fora>
+                <falta-cometida :fc="props.fc"></falta-cometida>
             </b-col>
-            <b-col md="6">
-                <assistencia :a="a"></assistencia>
-                <finalizacao-defendida :fd="fd"></finalizacao-defendida>
-                <impedimento :i="i"></impedimento>
-                <penalti-perdido :pp="pp"></penalti-perdido>
+            <b-col md="3" offset-md="2">
+                <assistencia :a="props.a"></assistencia>
+                <finalizacao-defendida :fd="props.fd"></finalizacao-defendida>
+                <impedimento :i="props.i"></impedimento>
+                <penalti-perdido :pp="props.pp"></penalti-perdido>
             </b-col>
         </b-row>
     </b-col>
 </template>
 
 <script>
-import Gol from '../scouts/Gol'
-import FinalizacaoFora from '../scouts/FinalizacaoFora'
-import FaltaCometida from '../scouts/FaltaCometida'
-import Assistencia from '../scouts/Assistencia'
-import FinalizacaoDefendida from '../scouts/FinalizacaoDefendida'
-import Impedimento from '../scouts/Impedimento'
-import PenaltiPerdido from '../scouts/PenaltiPerdido'
-
 export default {
     props: {
         g: {
@@ -56,15 +48,6 @@ export default {
             type: Number,
             required: true
         }
-    },
-    components: {
-        Gol,
-        FinalizacaoFora,
-        FaltaCometida,
-        Assistencia,
-        FinalizacaoDefendida,
-        Impedimento,
-        PenaltiPerdido
     }
 }
 </script>

@@ -1,8 +1,9 @@
-<template>
-    <div class="pl-3" v-b-tooltip.hover.left="'Finalização para fora'">
-        FF
-        <b-badge variant="success" class="ml-2">{{ ff }}</b-badge>
-    </div>
+<template functional>
+    <scout :scout="props.ff"
+        tooltip="Finalização para fora"
+        label="FF"
+        variant="success"
+    ></scout>
 </template>
 
 <script>

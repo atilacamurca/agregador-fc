@@ -1,8 +1,8 @@
 <template>
     <div class="py-2 bg-light mt-3">
         <b-row>
-            <b-col md="5" offset-md="1" class="border-right">
-                <b-row>
+            <b-col md="6" class="border-right">
+                <b-row class="ml-2">
                     <col-defesa :sg="partida.goleiros_casa.sum_sg"></col-defesa>
                     <col-goleiros :dd="partida.goleiros_casa.sum_dd"
                         :gs="partida.goleiros_casa.sum_gs"
@@ -22,11 +22,16 @@
             </b-col>
         </b-row>
         <b-row class="mt-2">
-            <b-col md="5" offset-md="1" class="border-right">
+            <b-col md="6" class="border-right">
                 <b-row>
                     <col-zagueiros :rb="partida.zagueiros_casa.sum_rb"
                         :gc="partida.zagueiros_casa.sum_gc"
                         :g="partida.zagueiros_casa.sum_g"
+                        :pe="partida.zagueiros_casa.sum_pe"
+                        :fs="partida.zagueiros_casa.sum_fs"
+                        :fc="partida.zagueiros_casa.sum_fc"
+                        :ca="partida.zagueiros_casa.sum_ca"
+                        class="ml-4"
                     ></col-zagueiros>
                 </b-row>
             </b-col>
@@ -35,7 +40,40 @@
                     <col-zagueiros :rb="partida.zagueiros_visitante.sum_rb"
                         :gc="partida.zagueiros_visitante.sum_gc"
                         :g="partida.zagueiros_visitante.sum_g"
+                        :pe="partida.zagueiros_visitante.sum_pe"
+                        :fs="partida.zagueiros_visitante.sum_fs"
+                        :fc="partida.zagueiros_visitante.sum_fc"
+                        :ca="partida.zagueiros_visitante.sum_ca"
                     ></col-zagueiros>
+                </b-row>
+            </b-col>
+        </b-row>
+        <b-row class="mt-4">
+            <b-col md="6" class="border-right">
+                <b-row>
+                    <col-laterais :g="partida.laterais_casa.sum_g"
+                        :a="partida.laterais_casa.sum_a"
+                        :fd="partida.laterais_casa.sum_fd"
+                        :ff="partida.laterais_casa.sum_ff"
+                        :pe="partida.laterais_casa.sum_pe"
+                        :rb="partida.laterais_casa.sum_rb"
+                        :fc="partida.laterais_casa.sum_fc"
+                        :fs="partida.laterais_casa.sum_fs"
+                        class="ml-4"
+                    ></col-laterais>
+                </b-row>
+            </b-col>
+            <b-col md="6">
+                <b-row>
+                    <col-laterais :g="partida.laterais_visitante.sum_g"
+                        :a="partida.laterais_visitante.sum_a"
+                        :fd="partida.laterais_visitante.sum_fd"
+                        :ff="partida.laterais_visitante.sum_ff"
+                        :pe="partida.laterais_visitante.sum_pe"
+                        :rb="partida.laterais_visitante.sum_rb"
+                        :fc="partida.laterais_visitante.sum_fc"
+                        :fs="partida.laterais_visitante.sum_fs"
+                    ></col-laterais>
                 </b-row>
             </b-col>
         </b-row>
@@ -121,6 +159,7 @@
 import ColDefesa from '~/components/partida/ColDefesa'
 import ColGoleiros from '~/components/partida/ColGoleiros'
 import ColZagueiros from '~/components/partida/ColZagueiros'
+import ColLaterais from '~/components/partida/ColLaterais'
 import ColAtacantes from '~/components/partida/ColAtacantes'
 import ColMeias from '~/components/partida/ColMeias'
 import ContainerDestaques from '~/components/partida/ContainerDestaques'
@@ -137,6 +176,7 @@ export default {
         ColDefesa,
         ColGoleiros,
         ColZagueiros,
+        ColLaterais,
         ColAtacantes,
         ColMeias,
         ContainerDestaques,

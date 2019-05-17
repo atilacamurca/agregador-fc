@@ -1,10 +1,7 @@
-<template>
-    <b-col md="6">
+<template functional>
+    <b-col md="3">
         <div>DEFESA</div>
-        <div class="pl-3">
-            SG
-            <b-badge variant="success" class="ml-2">{{ sg }}</b-badge>
-        </div>
+        <saldo-gol :sg="props.sg"></saldo-gol>
     </b-col>
 </template>
 

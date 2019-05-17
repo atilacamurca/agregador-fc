@@ -46,23 +46,25 @@ query Rodada ($path: String!) {
             placar_oficial_mandante,
             placar_oficial_visitante,
             destaques_defesa_casa {
-                atleta_id,
-                apelido,
-                jogos_num,
-                preco_num,
-                media_num,
-                foto,
-                nome_posicao,
+                atleta_id
+                apelido
+                jogos_num
+                preco_num
+                media_num
+                variacao_num
+                foto
+                nome_posicao
                 abreviacao_posicao
-            },
+            }
             destaques_defesa_visitante {
-                atleta_id,
-                apelido,
-                jogos_num,
-                preco_num,
-                media_num,
-                foto,
-                nome_posicao,
+                atleta_id
+                apelido
+                jogos_num
+                preco_num
+                media_num
+                variacao_num
+                foto
+                nome_posicao
                 abreviacao_posicao
             }
             goleiros_casa {
@@ -78,15 +80,43 @@ query Rodada ($path: String!) {
                 sum_gs
             },
             zagueiros_casa {
-                sum_rb,
-                sum_gc,
+                sum_rb
+                sum_gc
                 sum_g
-            },
+                sum_fs
+                sum_ca
+                sum_fc
+                sum_pe
+            }
             zagueiros_visitante {
-                sum_rb,
-                sum_gc,
+                sum_rb
+                sum_gc
                 sum_g
-            },
+                sum_fs
+                sum_ca
+                sum_fc
+                sum_pe
+            }
+            laterais_casa {
+                sum_rb
+                sum_g
+                sum_a
+                sum_fs
+                sum_pe
+                sum_ff
+                sum_fd
+                sum_fc
+            }
+            laterais_visitante {
+                sum_rb
+                sum_g
+                sum_a
+                sum_fs
+                sum_pe
+                sum_ff
+                sum_fd
+                sum_fc
+            }
             meias_casa {
                 sum_g
                 sum_a
@@ -130,23 +160,25 @@ query Rodada ($path: String!) {
                 sum_i,
             },
             destaques_ataque_casa {
-                atleta_id,
-                apelido,
-                jogos_num,
-                preco_num,
-                media_num,
-                foto,
-                nome_posicao,
+                atleta_id
+                apelido
+                jogos_num
+                preco_num
+                media_num
+                variacao_num
+                foto
+                nome_posicao
                 abreviacao_posicao
-            },
+            }
             destaques_ataque_visitante {
-                atleta_id,
-                apelido,
-                jogos_num,
-                preco_num,
-                media_num,
-                foto,
-                nome_posicao,
+                atleta_id
+                apelido
+                jogos_num
+                preco_num
+                media_num
+                variacao_num
+                foto
+                nome_posicao
                 abreviacao_posicao
             }
         }

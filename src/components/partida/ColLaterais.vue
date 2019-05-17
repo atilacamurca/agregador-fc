@@ -1,17 +1,18 @@
 <template functional>
     <b-col md="12" :class="data.staticClass || ''">
-        <div>ZAGUEIROS</div>
+        <div>LATERAIS</div>
         <b-row>
             <b-col md="3">
-                <roubada-bola :rb="props.rb"></roubada-bola>
                 <gol :g="props.g"></gol>
+                <finalizacao-fora :ff="props.ff"></finalizacao-fora>
+                <roubada-bola :rb="props.rb"></roubada-bola>
                 <falta-sofrida :fs="props.fs"></falta-sofrida>
             </b-col>
             <b-col md="3" offset-md="2">
+                <assistencia :a="props.a"></assistencia>
+                <finalizacao-defendida :fd="props.fd"></finalizacao-defendida>
                 <passe-errado :pe="props.pe"></passe-errado>
-                <gol-contra :gc="props.gc"></gol-contra>
                 <falta-cometida :fc="props.fc"></falta-cometida>
-                <cartao-amarelo :ca="props.ca"></cartao-amarelo>
             </b-col>
         </b-row>
     </b-col>
@@ -28,15 +29,15 @@ export default {
             type: Number,
             required: true
         },
-        gc: {
+        a: {
             type: Number,
             required: true
         },
-        pe: {
+        ff: {
             type: Number,
             required: true
         },
-        fs: {
+        fd: {
             type: Number,
             required: true
         },
@@ -44,7 +45,11 @@ export default {
             type: Number,
             required: true
         },
-        ca: {
+        fs: {
+            type: Number,
+            required: true
+        },
+        pe: {
             type: Number,
             required: true
         }

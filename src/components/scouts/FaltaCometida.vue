@@ -1,8 +1,9 @@
-<template>
-    <div class="pl-3" v-b-tooltip.hover.left="'Falta cometida'">
-        FC
-        <b-badge variant="danger" class="ml-2">{{ fc }}</b-badge>
-    </div>
+<template functional>
+    <scout :scout="props.fc"
+        tooltip="Falta cometida"
+        label="FC"
+        variant="danger"
+    ></scout>
 </template>
 
 <script>

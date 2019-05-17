@@ -14,6 +14,23 @@ const dateOptions = { addSuffix: true, locale }
 export default function (Vue, { router, head, isClient }) {
     // Set default layout as a global component
     Vue.component('Layout', DefaultLayout)
+    Vue.component('scout', () => import('~/components/scouts/Scout'))
+    Vue.component('roubada-bola', () => import('~/components/scouts/RoubadaBola'))
+    Vue.component('gol', () => import('~/components/scouts/Gol'))
+    Vue.component('gol-contra', () => import('~/components/scouts/GolContra'))
+    Vue.component('passe-errado', () => import('~/components/scouts/PasseErrado'))
+    Vue.component('falta-sofrida', () => import('~/components/scouts/FaltaSofrida'))
+    Vue.component('falta-cometida', () => import('~/components/scouts/FaltaCometida'))
+    Vue.component('cartao-amarelo', () => import('~/components/scouts/CartaoAmarelo'))
+    Vue.component('saldo-gol', () => import('~/components/scouts/SaldoGol'))
+    Vue.component('defesa-dificil', () => import('~/components/scouts/DefesaDificil'))
+    Vue.component('gol-sofrido', () => import('~/components/scouts/GolSofrido'))
+    Vue.component('defesa-penalti', () => import('~/components/scouts/DefesaPenalti'))
+    Vue.component('finalizacao-fora', () => import('~/components/scouts/FinalizacaoFora'))
+    Vue.component('assistencia', () => import('~/components/scouts/Assistencia'))
+    Vue.component('finalizacao-defendida', () => import('~/components/scouts/FinalizacaoDefendida'))
+    Vue.component('impedimento', () => import('~/components/scouts/Impedimento'))
+    Vue.component('penalti-perdido', () => import('~/components/scouts/PenaltiPerdido'))
     Vue.use(BootstrapVue)
     Vue.filter('fromNow', (value) => {
         if (!value) return ''

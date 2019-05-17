@@ -6,13 +6,24 @@
             <div class="d-flex flex-column align-items-center">
                 <div>
                     <b-img-lazy :src="atleta.foto" width="64"
+                        blank-width="64"
                         thumbnail rounded="circle" :alt="atleta.apelido"></b-img-lazy>
                 </div>
                 <div>{{ atleta.apelido }}</div>
-                <div>{{ atleta.nome_posicao }}</div>
+                <div>
+                    {{ atleta.nome_posicao }}
+                    <b-badge variant="light" :class="{
+                        'text-success': atleta.variacao_num > 0,
+                        'text-danger': atleta.variacao_num < 0
+                    }" v-b-tooltip.hover.right="'Variação $'">
+                        <span v-if="atleta.variacao_num > 0">&nearr;</span>
+                        <span v-else-if="atleta.variacao_num < 0">&searr;</span>
+                        {{ atleta.variacao_num }}
+                    </b-badge>
+                </div>
                 <div>
                     Méd. <b-badge variant="warning">{{atleta.media_num }}</b-badge>
-                    em <b-badge variant="light">{{ atleta.jogos_num }} jogos</b-badge>
+                    em <b-badge variant="light">{{ atleta.jogos_num }} J</b-badge>
                 </div>
             </div>
         </b-col>

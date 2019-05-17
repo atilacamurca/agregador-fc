@@ -1,15 +1,16 @@
 <template functional>
-    <scout :scout="props.a"
-        tooltip="Assistência"
-        label="A"
-        variant="success"
+    <scout :scout="props.gc"
+        tooltip="Gol contra"
+        label="GC"
+        variant="danger"
     ></scout>
 </template>
 
 <script>
 export default {
+    functional: true,
     props: {
-        a: {
+        gc: {
             type: Number,
             required: true
         }

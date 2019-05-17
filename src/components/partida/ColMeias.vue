@@ -1,46 +1,19 @@
-<template>
-    <b-col md="12">
+<template functional>
+    <b-col md="12" :class="data.staticClass || ''">
         <div>MEIAS</div>
         <b-row>
-            <b-col md="6">
-                <div class="pl-3">
-                    FS
-                    <b-badge variant="success" class="ml-2">{{ fs }}</b-badge>
-                </div>
-                <div class="pl-3">
-                    &nbsp;&nbsp;G
-                    <b-badge variant="success" class="ml-2">{{ g }}</b-badge>
-                </div>
-                <div class="pl-3">
-                    FF
-                    <b-badge variant="success" class="ml-2">{{ ff }}</b-badge>
-                </div>
-                <div class="pl-3">
-                    RB
-                    <b-badge variant="success" class="ml-2">{{ rb }}</b-badge>
-                </div>
-                <div class="pl-3">
-                    CA
-                    <b-badge variant="danger" class="ml-2">{{ ca }}</b-badge>
-                </div>
+            <b-col md="3">
+                <falta-sofrida :fs="props.fs"></falta-sofrida>
+                <gol :g="props.g"></gol>
+                <finalizacao-fora :ff="props.ff"></finalizacao-fora>
+                <roubada-bola :rb="props.rb"></roubada-bola>
+                <cartao-amarelo :ca="props.ca"></cartao-amarelo>
             </b-col>
-            <b-col md="6">
-                <div class="pl-3">
-                    FC
-                    <b-badge variant="danger" class="ml-2">{{ fc }}</b-badge>
-                </div>
-                <div class="pl-3">
-                    &nbsp;&nbsp;A
-                    <b-badge variant="success" class="ml-2">{{ a }}</b-badge>
-                </div>
-                <div class="pl-3">
-                    FD
-                    <b-badge variant="success" class="ml-2">{{ fd }}</b-badge>
-                </div>
-                <div class="pl-3">
-                    PE
-                    <b-badge variant="danger" class="ml-2">{{ pe }}</b-badge>
-                </div>
+            <b-col md="3" offset-md="2">
+                <falta-cometida :fc="props.fc"></falta-cometida>
+                <assistencia :a="props.a"></assistencia>
+                <finalizacao-defendida :fd="props.fd"></finalizacao-defendida>
+                <passe-errado :pe="props.pe"></passe-errado>
             </b-col>
         </b-row>
     </b-col>

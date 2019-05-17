@@ -19,6 +19,8 @@ const SQL_PARTIDAS_RODADA = `
         stat_goleiros(pr.rodada_id, pr.ano, pr.clube_visitante_id) AS goleiros_visitante,
         stat_zagueiros(pr.rodada_id, pr.ano, pr.clube_casa_id) AS zagueiros_casa,
         stat_zagueiros(pr.rodada_id, pr.ano, pr.clube_visitante_id) AS zagueiros_visitante,
+        stat_laterais(pr.rodada_id, pr.ano, pr.clube_casa_id) as laterais_casa,
+        stat_laterais(pr.rodada_id, pr.ano, pr.clube_visitante_id) as laterais_visitante,
         stat_meias(pr.rodada_id, pr.ano, pr.clube_casa_id) as meias_casa,
         stat_meias(pr.rodada_id, pr.ano, pr.clube_visitante_id) as meias_visitante,
         stat_atacantes(pr.rodada_id, pr.ano, pr.clube_casa_id) AS atacantes_casa,

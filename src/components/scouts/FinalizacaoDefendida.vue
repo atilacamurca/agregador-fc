@@ -1,8 +1,9 @@
-<template>
-    <div class="pl-3" v-b-tooltip.hover.left="'Finalização defendida'">
-        FD
-        <b-badge variant="success" class="ml-2">{{ fd }}</b-badge>
-    </div>
+<template functional>
+    <scout :scout="props.fd"
+        tooltip="Finalização defendida"
+        label="FD"
+        variant="success"
+    ></scout>
 </template>
 
 <script>
@@ -15,7 +16,3 @@ export default {
     }
 }
 </script>
-
-<style>
-
-</style>

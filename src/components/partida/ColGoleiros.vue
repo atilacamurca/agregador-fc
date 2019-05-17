@@ -1,18 +1,9 @@
-<template>
-    <b-col md="6">
+<template functional>
+    <b-col md="3" offset-md="2">
         <div>GOLEIROS</div>
-        <div class="pl-3">
-            DD
-            <b-badge variant="success" class="ml-2">{{ dd }}</b-badge>
-        </div>
-        <div class="pl-3">
-            GS
-            <b-badge variant="danger" class="ml-2">{{ gs }}</b-badge>
-        </div>
-        <div class="pl-3">
-            DP
-            <b-badge variant="success" class="ml-2">{{ dp }}</b-badge>
-        </div>
+        <defesa-dificil :dd="props.dd"></defesa-dificil>
+        <gol-sofrido :gs="props.gs"></gol-sofrido>
+        <defesa-penalti :dp="props.dp"></defesa-penalti>
     </b-col>
 </template>
 

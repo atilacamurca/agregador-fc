@@ -1,8 +1,9 @@
-<template>
-    <div class="pl-3" v-b-tooltip.hover.left="'Impedimento'">
-        &nbsp;&nbsp;&nbsp;&nbsp;I
-        <b-badge variant="danger" class="ml-2">{{ i }}</b-badge>
-    </div>
+<template functional>
+    <scout :scout="props.i"
+        tooltip="Impedimento"
+        label="I"
+        variant="danger"
+    ></scout>
 </template>
 
 <script>
