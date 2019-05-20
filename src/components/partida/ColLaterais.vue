@@ -2,13 +2,13 @@
     <b-col md="12" :class="data.staticClass || ''">
         <div>LATERAIS</div>
         <b-row>
-            <b-col md="3">
+            <b-col md="4">
                 <gol :g="props.g"></gol>
                 <finalizacao-fora :ff="props.ff"></finalizacao-fora>
                 <roubada-bola :rb="props.rb"></roubada-bola>
                 <falta-sofrida :fs="props.fs"></falta-sofrida>
             </b-col>
-            <b-col md="3" offset-md="2">
+            <b-col md="4" offset-md="1">
                 <assistencia :a="props.a"></assistencia>
                 <finalizacao-defendida :fd="props.fd"></finalizacao-defendida>
                 <passe-errado :pe="props.pe"></passe-errado>

@@ -1,5 +1,5 @@
 <template functional>
-    <b-col md="3" offset-md="2">
+    <b-col sm="6" md="5" offset-md="1">
         <div>GOLEIROS</div>
         <defesa-dificil :dd="props.dd"></defesa-dificil>
         <gol-sofrido :gs="props.gs"></gol-sofrido>

@@ -2,14 +2,14 @@
     <b-col md="12" :class="data.staticClass || ''">
         <div>MEIAS</div>
         <b-row>
-            <b-col md="3">
+            <b-col md="4">
                 <falta-sofrida :fs="props.fs"></falta-sofrida>
                 <gol :g="props.g"></gol>
                 <finalizacao-fora :ff="props.ff"></finalizacao-fora>
                 <roubada-bola :rb="props.rb"></roubada-bola>
                 <cartao-amarelo :ca="props.ca"></cartao-amarelo>
             </b-col>
-            <b-col md="3" offset-md="2">
+            <b-col md="4" offset-md="1">
                 <falta-cometida :fc="props.fc"></falta-cometida>
                 <assistencia :a="props.a"></assistencia>
                 <finalizacao-defendida :fd="props.fd"></finalizacao-defendida>

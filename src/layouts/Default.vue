@@ -1,9 +1,11 @@
 <template>
     <div>
         <main-nav></main-nav>
-        <b-container class="shadow pt-4 pb-5 mb-5 rounded-lg bg-white">
-            <slot></slot>
-        </b-container>
+        <transition name="fade" appear>
+            <b-container class="shadow pt-4 pb-5 mb-5 rounded-lg bg-white">
+                <slot></slot>
+            </b-container>
+        </transition>
     </div>
 </template>
 
@@ -24,5 +26,12 @@ body {
     background: -webkit-linear-gradient(to left, #009FFF, #EC2F4C);
     background: -moz-linear-gradient(to left, #009FFF, #EC2F4C);
     background: linear-gradient(to left, #009FFF, #EC2F4C);
+}
+.fade-enter-active {
+    transition: opacity .5s;
+}
+
+.fade-enter {
+    opacity: 0;
 }
 </style>

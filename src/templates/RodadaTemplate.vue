@@ -187,34 +187,6 @@ query Rodada ($path: String!) {
 </page-query>
 
 <script>
-/**
- * destaques_defesa_casa {
-                edges {
-                    node {
-                        atleta_id,
-                        apelido,
-                        jogos_num,
-                        preco_num,
-                        foto,
-                        nome_posicao,
-                        abreviacao_posicao
-                    }
-                }
-            },
-            destaques_defesa_visitante {
-                edges {
-                    node {
-                        atleta_id,
-                        apelido,
-                        jogos_num,
-                        preco_num,
-                        foto,
-                        nome_posicao,
-                        abreviacao_posicao
-                    }
-                }
-            },
- */
 import SumarioPartida from '~/components/SumarioPartida'
 import SumarioClubes from '~/components/SumarioClubes'
 import SumarioEstatisticas from '~/components/SumarioEstatisticas'

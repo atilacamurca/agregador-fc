@@ -22,7 +22,7 @@
                     </b-badge>
                 </div>
                 <div>
-                    Méd. <b-badge variant="warning">{{atleta.media_num }}</b-badge>
+                    <b-badge variant="warning">M {{atleta.media_num }}</b-badge>
                     em <b-badge variant="light">{{ atleta.jogos_num }} J</b-badge>
                 </div>
             </div>
@@ -43,8 +43,8 @@ export default {
 
 <style scoped>
 .badge-preco {
-    top: 10px;
-    left: 35px;
+    top: 0px;
+    left: 15px;
     position: absolute;
     display: block;
     z-index: 10;
@@ -53,5 +53,23 @@ export default {
     color: #fff;
     font-weight: bold;
     border-radius: 4px;
+}
+@media (min-width: 576px) {
+    .badge-preco {
+        top: 5px;
+        left: 15px;
+    }
+}
+@media (min-width: 768px) {
+    .badge-preco {
+        top: 5px;
+        left: 15px;
+    }
+}
+@media (min-width: 992px) {
+    .badge-preco {
+        top: 10px;
+        left: 35px;
+    }
 }
 </style>

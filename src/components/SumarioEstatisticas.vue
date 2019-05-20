@@ -1,7 +1,7 @@
 <template>
     <div class="py-2 bg-light mt-3">
         <b-row>
-            <b-col md="6" class="border-right">
+            <b-col cols="6" md="6" class="border-right">
                 <b-row class="ml-2">
                     <col-defesa :sg="partida.goleiros_casa.sum_sg"></col-defesa>
                     <col-goleiros :dd="partida.goleiros_casa.sum_dd"
@@ -10,7 +10,7 @@
                     ></col-goleiros>
                 </b-row>
             </b-col>
-            <b-col md="6">
+            <b-col cols="6" md="6">
                 <b-row>
                     <col-defesa :sg="partida.goleiros_visitante.sum_sg"></col-defesa>
                     <col-goleiros :dd="partida.goleiros_visitante.sum_dd"
@@ -22,7 +22,7 @@
             </b-col>
         </b-row>
         <b-row class="mt-2">
-            <b-col md="6" class="border-right">
+            <b-col cols="6" md="6" class="border-right">
                 <b-row>
                     <col-zagueiros :rb="partida.zagueiros_casa.sum_rb"
                         :gc="partida.zagueiros_casa.sum_gc"
@@ -35,7 +35,7 @@
                     ></col-zagueiros>
                 </b-row>
             </b-col>
-            <b-col md="6">
+            <b-col cols="6" md="6">
                 <b-row>
                     <col-zagueiros :rb="partida.zagueiros_visitante.sum_rb"
                         :gc="partida.zagueiros_visitante.sum_gc"
@@ -49,7 +49,7 @@
             </b-col>
         </b-row>
         <b-row class="mt-4">
-            <b-col md="6" class="border-right">
+            <b-col cols="6" md="6" class="border-right">
                 <b-row>
                     <col-laterais :g="partida.laterais_casa.sum_g"
                         :a="partida.laterais_casa.sum_a"
@@ -63,7 +63,7 @@
                     ></col-laterais>
                 </b-row>
             </b-col>
-            <b-col md="6">
+            <b-col cols=6 md="6">
                 <b-row>
                     <col-laterais :g="partida.laterais_visitante.sum_g"
                         :a="partida.laterais_visitante.sum_a"
@@ -87,7 +87,7 @@
         </container-destaques>
         <hr>
         <b-row class="mt-2">
-            <b-col md="6" class="border-right">
+            <b-col cols="6" md="6" class="border-right">
                 <b-row>
                     <col-meias :g="partida.meias_casa.sum_g"
                         :a="partida.meias_casa.sum_a"
@@ -102,7 +102,7 @@
                     ></col-meias>
                 </b-row>
             </b-col>
-            <b-col>
+            <b-col cols="6" md="6">
                 <b-row>
                     <col-meias :g="partida.meias_visitante.sum_g"
                         :a="partida.meias_visitante.sum_a"
@@ -118,7 +118,7 @@
             </b-col>
         </b-row>
         <b-row class="mt-4">
-            <b-col md="6" class="border-right">
+            <b-col cols="6" md="6" class="border-right">
                 <b-row>
                     <col-atacantes :g="partida.atacantes_casa.sum_g"
                         :a="partida.atacantes_casa.sum_a"
@@ -131,7 +131,7 @@
                     ></col-atacantes>
                 </b-row>
             </b-col>
-            <b-col md="6">
+            <b-col cols="6" md="6">
                 <b-row>
                     <col-atacantes :g="partida.atacantes_visitante.sum_g"
                         :a="partida.atacantes_visitante.sum_a"

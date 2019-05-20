@@ -1,7 +1,8 @@
 <template>
-    <b-col md="5"
-        class="d-flex align-items-center justify-content-center">
-        <div class="lead mr-3 text-right">{{ nome }}</div>
+    <b-col cols="6" md="5"
+        class="d-flex align-items-center justify-content-center"
+        v-bind="$attrs">
+        <div class="lead mr-sm-3 text-center">{{ nome }}</div>
     </b-col>
 </template>
 
@@ -15,7 +16,3 @@ export default {
     }
 }
 </script>
-
-<style>
-
-</style>

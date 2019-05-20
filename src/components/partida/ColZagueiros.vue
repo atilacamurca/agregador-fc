@@ -2,12 +2,12 @@
     <b-col md="12" :class="data.staticClass || ''">
         <div>ZAGUEIROS</div>
         <b-row>
-            <b-col md="3">
+            <b-col md="4">
                 <roubada-bola :rb="props.rb"></roubada-bola>
                 <gol :g="props.g"></gol>
                 <falta-sofrida :fs="props.fs"></falta-sofrida>
             </b-col>
-            <b-col md="3" offset-md="2">
+            <b-col md="4" offset-md="1">
                 <passe-errado :pe="props.pe"></passe-errado>
                 <gol-contra :gc="props.gc"></gol-contra>
                 <falta-cometida :fc="props.fc"></falta-cometida>

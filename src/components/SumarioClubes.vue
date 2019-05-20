@@ -2,9 +2,11 @@
     <b-row>
         <b-col md="12">
             <b-row>
-                <col-nome :nome="clubeCasa"></col-nome>
-                <b-col md="2"
-                    class="d-flex align-items-center justify-content-center">
+                <col-nome :nome="clubeCasa" order="2" order-md="1"></col-nome>
+                <b-col cols="12" md="2"
+                    class="d-flex align-items-center justify-content-sm-center justify-content-around"
+                    order="1"
+                    order-md="2">
                     <div class="mx-4">
                         <b-img width="40px" :src="escudoCasa" alt="escudo-casa"></b-img>
                     </div>
@@ -17,7 +19,7 @@
                         <b-img width="40px" :src="escudoVisitante" alt="escudo-visitante"></b-img>
                     </div>
                 </b-col>
-                <col-nome :nome="clubeVisitante"></col-nome>
+                <col-nome :nome="clubeVisitante" order="3" order-md="3"></col-nome>
             </b-row>
         </b-col>
     </b-row>
@@ -52,7 +54,3 @@ export default {
     }
 }
 </script>
-
-<style>
-
-</style>

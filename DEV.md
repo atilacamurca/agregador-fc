@@ -112,3 +112,4 @@ create table partidas_rodada (
 - <https://github.com/wgenial/cartrolandofc/blob/master/nova-api.md>
 - <https://www.timescale.com/>
 - <https://cssgradient.io/>
+- <https://github.com/Akryum/vue-9-perf-secrets/blob/master/src/components/benchmarks/deferred/DeferredOn.vue>
