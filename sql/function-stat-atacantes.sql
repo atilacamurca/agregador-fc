@@ -1,6 +1,6 @@
 ﻿DROP FUNCTION public.stat_atacantes(integer, integer, integer);
 
-CREATE FUNCTION stat_atacantes(_rodada_id integer, _ano integer, _clube_id integer) 
+CREATE FUNCTION stat_atacantes(_rodada_id integer, _ano integer, _clube_id integer)
 RETURNS json AS
 $$
     SELECT row_to_json(t) AS json FROM (

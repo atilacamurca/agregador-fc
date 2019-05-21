@@ -5,12 +5,13 @@
             <b-col md="4">
                 <gol :g="props.g"></gol>
                 <finalizacao-fora :ff="props.ff"></finalizacao-fora>
-                <falta-cometida :fc="props.fc"></falta-cometida>
+                <falta-sofrida :fs="props.fs"></falta-sofrida>
+                <impedimento :i="props.i"></impedimento>
             </b-col>
             <b-col md="4" offset-md="1">
                 <assistencia :a="props.a"></assistencia>
                 <finalizacao-defendida :fd="props.fd"></finalizacao-defendida>
-                <impedimento :i="props.i"></impedimento>
+                <falta-cometida :fc="props.fc"></falta-cometida>
                 <penalti-perdido :pp="props.pp"></penalti-perdido>
             </b-col>
         </b-row>
@@ -45,6 +46,10 @@ export default {
             required: true
         },
         pp: {
+            type: Number,
+            required: true
+        },
+        fs: {
             type: Number,
             required: true
         }

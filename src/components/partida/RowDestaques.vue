@@ -7,6 +7,7 @@
                 <div>
                     <b-img-lazy :src="atleta.foto" width="64"
                         blank-width="64"
+                        blank-height="64"
                         thumbnail rounded="circle" :alt="atleta.apelido"></b-img-lazy>
                 </div>
                 <div>{{ atleta.apelido }}</div>

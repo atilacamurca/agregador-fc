@@ -4,7 +4,7 @@
             <b-col md="10" offset-md="1">
                 <h3 class="mb-4">Rodada {{ $page.rodada.rodada }}</h3>
                 <b-card no-body border-variant="light" class="shadow-sm">
-                    <b-card-body v-for="partida in $page.rodada.partidas"
+                    <b-card-body v-for="(partida, index) in $page.rodada.partidas"
                         :key="partida.partida_id"
                         class="card-body-sumario border-bottom-light">
                         <div v-b-toggle="`accordion-${partida.partida_id}`"
@@ -22,7 +22,8 @@
                         </div>
                         <b-collapse :id="`accordion-${partida.partida_id}`"
                             :accordion="`accordion-${partida.partida_id}`" role="tabpanel">
-                            <sumario-estatisticas :partida="partida"></sumario-estatisticas>
+                            <sumario-estatisticas v-if="defer(index)"
+                                :partida="partida"></sumario-estatisticas>
                         </b-collapse>
                     </b-card-body>
                 </b-card>
@@ -138,26 +139,28 @@ query Rodada ($path: String!) {
                 sum_fd
                 sum_ca
                 sum_pe
-            },
+            }
             atacantes_casa {
-                sum_g,
-                sum_a,
-                sum_ff,
-                sum_fd,
-                sum_fs,
-                sum_pp,
-                sum_fc,
-                sum_i,
-            },
+                sum_g
+                sum_a
+                sum_ff
+                sum_fd
+                sum_fs
+                sum_pp
+                sum_fc
+                sum_i
+                sum_fs
+            }
             atacantes_visitante {
-                sum_g,
-                sum_a,
-                sum_ff,
-                sum_fd,
-                sum_fs,
-                sum_pp,
-                sum_fc,
-                sum_i,
+                sum_g
+                sum_a
+                sum_ff
+                sum_fd
+                sum_fs
+                sum_pp
+                sum_fc
+                sum_i
+                sum_fs
             },
             destaques_ataque_casa {
                 atleta_id
@@ -190,13 +193,17 @@ query Rodada ($path: String!) {
 import SumarioPartida from '~/components/SumarioPartida'
 import SumarioClubes from '~/components/SumarioClubes'
 import SumarioEstatisticas from '~/components/SumarioEstatisticas'
+import Defer from '~/mixins/Defer'
 
 export default {
     components: {
         SumarioClubes,
         SumarioPartida,
         SumarioEstatisticas
-    }
+    },
+    mixins: [
+        new Defer()
+    ]
 }
 </script>
 

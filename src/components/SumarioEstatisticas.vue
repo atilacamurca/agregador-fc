@@ -127,6 +127,7 @@
                         :pp="partida.atacantes_casa.sum_pp"
                         :i="partida.atacantes_casa.sum_i"
                         :fc="partida.atacantes_casa.sum_fc"
+                        :fs="partida.atacantes_casa.sum_fs"
                         class="ml-4"
                     ></col-atacantes>
                 </b-row>
@@ -140,6 +141,7 @@
                         :pp="partida.atacantes_visitante.sum_pp"
                         :i="partida.atacantes_visitante.sum_i"
                         :fc="partida.atacantes_visitante.sum_fc"
+                        :fs="partida.atacantes_visitante.sum_fs"
                     ></col-atacantes>
                 </b-row>
             </b-col>
