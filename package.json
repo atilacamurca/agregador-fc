@@ -7,7 +7,9 @@
     "dev": "gridsome develop",
     "explore": "gridsome explore",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
+    "deploy": "gh-pages -d dist",
+    "data:import": "./import/import.sh",
+    "data:export": "./export/export.sh"
   },
   "dependencies": {
     "@gridsome/source-filesystem": "^0.3.0",
@@ -21,6 +23,7 @@
     "axios": "^0.18.0",
     "dotenv": "^8.0.0",
     "gh-pages": "^2.0.1",
+    "mkdirp": "^0.5.1",
     "node-sass": "^4.12.0",
     "pg": "^7.10.0",
     "sass-loader": "^7.1.0"

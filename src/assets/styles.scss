@@ -5,3 +5,7 @@ body {
 
 @import 'node_modules/bootstrap/scss/bootstrap';
 @import 'node_modules/bootstrap-vue/src/index.scss';
+
+.border-bottom-light {
+    border-bottom: 1px solid rgba(0, 0, 0, 0.05);
+}

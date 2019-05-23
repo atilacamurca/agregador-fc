@@ -113,3 +113,4 @@ create table partidas_rodada (
 - <https://www.timescale.com/>
 - <https://cssgradient.io/>
 - <https://github.com/Akryum/vue-9-perf-secrets/blob/master/src/components/benchmarks/deferred/DeferredOn.vue>
+- <https://medium.com/@js_tut/the-complete-css-flex-box-tutorial-d17971950bdc>

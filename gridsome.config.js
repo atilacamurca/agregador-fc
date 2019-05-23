@@ -15,6 +15,13 @@ module.exports = {
         path: 'rodada/**/*.json',
         typeName: 'RodadaTemplate',
       }
+    },
+    {
+      use: '@gridsome/source-filesystem',
+      options: {
+        path: 'melhores/**/ah-ladrao.json',
+        typeName: 'AhLadraoTemplate',
+      }
     }
   ]
 }

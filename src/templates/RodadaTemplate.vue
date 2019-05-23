@@ -29,17 +29,37 @@
                 </b-card>
             </b-col>
         </b-row>
+        <b-row>
+            <b-col md="10" offset-md="1">
+                <h3 class="my-4">Melhores no quesito...</h3>
+                <b-row>
+                    <b-col md="4">
+                        <b-card>
+                            <b-card-title><em>Ah, ladrão!</em></b-card-title>
+                            <b-card-text>
+                                25 melhores nas Roubadas de bola com poucas faltas
+                            </b-card-text>
+                            <g-link :to="`/melhores${$page.rodada.path}/ah-ladrao`"
+                                class="card-link">
+                                Conferir
+                            </g-link>
+                        </b-card>
+                    </b-col>
+                </b-row>
+            </b-col>
+        </b-row>
     </Layout>
 </template>
 
 <page-query>
 query Rodada ($path: String!) {
     rodada: rodadaTemplate (path: $path) {
-        rodada,
+        path
+        rodada
         partidas {
-            partida_id,
-            clube_casa,
-            clube_visitante,
+            partida_id
+            clube_casa
+            clube_visitante
             escudo_casa,
             escudo_visitante,
             partida_data,
@@ -210,10 +230,6 @@ export default {
 <style scoped>
 .cursor-pointer {
     cursor: pointer;
-}
-
-.border-bottom-light {
-    border-bottom: 1px solid var(--light);
 }
 
 .card-body.card-body-sumario {

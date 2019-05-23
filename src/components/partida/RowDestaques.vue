@@ -13,14 +13,7 @@
                 <div>{{ atleta.apelido }}</div>
                 <div>
                     {{ atleta.nome_posicao }}
-                    <b-badge variant="light" :class="{
-                        'text-success': atleta.variacao_num > 0,
-                        'text-danger': atleta.variacao_num < 0
-                    }" v-b-tooltip.hover.right="'Variação $'">
-                        <span v-if="atleta.variacao_num > 0">&nearr;</span>
-                        <span v-else-if="atleta.variacao_num < 0">&searr;</span>
-                        {{ atleta.variacao_num }}
-                    </b-badge>
+                    <variacao-num :variacao_num="atleta.variacao_num"></variacao-num>
                 </div>
                 <div>
                     <b-badge variant="warning">M {{atleta.media_num }}</b-badge>
