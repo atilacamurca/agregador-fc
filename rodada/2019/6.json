@@ -1,5 +1,5 @@
 {
-  "rodada": "6",
+  "rodada": 6,
   "inicio_rodada": "2019-05-25T19:00:00.000Z",
   "partidas": [
     {
@@ -195,22 +195,22 @@
       "escudo_casa": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/botafogo_60x60.png",
       "clube_casa_posicao": 7,
       "aproveitamento_mandante": [
+        "v",
+        "v",
+        "v",
         "d",
-        "v",
-        "v",
-        "v",
-        "d"
+        "e"
       ],
       "clube_visitante_id": 275,
       "clube_visitante": "Palmeiras",
       "escudo_visitante": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/palmeiras_60x60.png",
       "clube_visitante_posicao": 1,
       "aproveitamento_visitante": [
-        "v",
         "e",
         "v",
         "v",
-        "v"
+        "v",
+        "e"
       ],
       "partida_data": "2019-05-25T19:00:00.000Z",
       "local": "Mané Garrincha",
@@ -503,11 +503,11 @@
       "escudo_casa": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/gremio_60x60.png",
       "clube_casa_posicao": 19,
       "aproveitamento_mandante": [
-        "d",
         "e",
         "d",
         "e",
-        "d"
+        "d",
+        "e"
       ],
       "clube_visitante_id": 282,
       "clube_visitante": "Atlético-MG",
@@ -516,9 +516,9 @@
       "aproveitamento_visitante": [
         "v",
         "v",
-        "v",
         "d",
-        "v"
+        "v",
+        "e"
       ],
       "partida_data": "2019-05-25T22:00:00.000Z",
       "local": "Arena do Grêmio",
@@ -1530,7 +1530,7 @@
           "jogos_num": 5,
           "preco_num": 8.56,
           "variacao_num": 2.58,
-          "foto": "https://s.glbimg.com/es/sde/f/2018/09/27/8b63cdcb68dc035fb9be678fc9c4b4e7_140x140.png",
+          "foto": "https://s.glbimg.com/es/sde/f/2019/05/22/83cc3161d01d982a7f019f88e1a24064_140x140.png",
           "nome_posicao": "Zagueiro",
           "abreviacao_posicao": "zag"
         },
@@ -1781,7 +1781,7 @@
           "jogos_num": 1,
           "preco_num": 5.9,
           "variacao_num": 0,
-          "foto": "https://s.glbimg.com/es/sde/f/2019/02/06/e29c0106aa1974e4cd90a90ef59b4195_140x140.png",
+          "foto": "https://s.glbimg.com/es/sde/f/2019/05/23/cc67b417a66e6a7ded54115b595d3620_140x140.png",
           "nome_posicao": "Zagueiro",
           "abreviacao_posicao": "zag"
         },
@@ -1792,7 +1792,7 @@
           "jogos_num": 2,
           "preco_num": 6.92,
           "variacao_num": 0.42,
-          "foto": "https://s.glbimg.com/es/sde/f/2019/02/06/b4161a8d9e42934abe47084d766a4281_140x140.png",
+          "foto": "https://s.glbimg.com/es/sde/f/2019/05/23/3838256f970424f3a26f7cf5a433287b_140x140.png",
           "nome_posicao": "Lateral",
           "abreviacao_posicao": "lat"
         },
@@ -1803,7 +1803,7 @@
           "jogos_num": 4,
           "preco_num": 10.89,
           "variacao_num": 0.19,
-          "foto": "https://s.glbimg.com/es/sde/f/2019/02/06/7a29ceb9ee49fa81fe21cb9050fbb645_140x140.png",
+          "foto": "https://s.glbimg.com/es/sde/f/2019/05/23/8ef54147edc589e8e177c09584065867_140x140.png",
           "nome_posicao": "Zagueiro",
           "abreviacao_posicao": "zag"
         }
@@ -1928,12 +1928,12 @@
       },
       "atacantes_casa": {
         "sum_g": 2,
-        "sum_a": 0,
-        "sum_fs": 12,
-        "sum_ff": 3,
+        "sum_a": 1,
+        "sum_fs": 16,
+        "sum_ff": 4,
         "sum_pp": 0,
-        "sum_fc": 14,
-        "sum_i": 3,
+        "sum_fc": 18,
+        "sum_i": 5,
         "sum_fd": 6
       },
       "atacantes_visitante": {
@@ -1954,7 +1954,7 @@
           "jogos_num": 4,
           "preco_num": 10.86,
           "variacao_num": 1.26,
-          "foto": "https://s.glbimg.com/es/sde/f/2019/02/06/369fae65d5f486ba841885487ea7101e_140x140.png",
+          "foto": "https://s.glbimg.com/es/sde/f/2019/05/23/107e15af982bc755cfbd17f0349f4584_140x140.png",
           "nome_posicao": "Meia",
           "abreviacao_posicao": "mei"
         },
@@ -1965,7 +1965,7 @@
           "jogos_num": 4,
           "preco_num": 11.8,
           "variacao_num": 0,
-          "foto": "https://s.glbimg.com/es/sde/f/2019/02/06/077539db6d686eb07bf2ca8639d9dc01_140x140.png",
+          "foto": "https://s.glbimg.com/es/sde/f/2019/05/23/4eeb5e5d8c27f4298bba05b91526868c_140x140.png",
           "nome_posicao": "Atacante",
           "abreviacao_posicao": "ata"
         },
@@ -1976,7 +1976,7 @@
           "jogos_num": 5,
           "preco_num": 9.6,
           "variacao_num": -1.81,
-          "foto": "https://s.glbimg.com/es/sde/f/2019/02/06/4e5beab65201f8f8c1735830d6a02dcc_140x140.png",
+          "foto": "https://s.glbimg.com/es/sde/f/2019/05/23/6bb1b3455b09de07ffee5ece7a922ca8_140x140.png",
           "nome_posicao": "Meia",
           "abreviacao_posicao": "mei"
         },
@@ -1987,7 +1987,7 @@
           "jogos_num": 5,
           "preco_num": 6.31,
           "variacao_num": 0.93,
-          "foto": "https://s.glbimg.com/es/sde/f/2019/02/06/d982583e35582285e375b0a64a8c7c65_140x140.png",
+          "foto": "https://s.glbimg.com/es/sde/f/2019/05/23/3173cd42fd63f03aecc0aa9d2b3fb706_140x140.png",
           "nome_posicao": "Meia",
           "abreviacao_posicao": "mei"
         }

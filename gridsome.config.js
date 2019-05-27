@@ -22,6 +22,13 @@ module.exports = {
         path: 'melhores/**/ah-ladrao.json',
         typeName: 'AhLadraoTemplate',
       }
+    },
+    {
+      use: '@gridsome/source-filesystem',
+      options: {
+        path: 'melhores/**/acima-media.json',
+        typeName: 'AcimaMediaTemplate',
+      }
     }
   ]
 }

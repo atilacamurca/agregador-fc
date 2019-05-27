@@ -21,7 +21,9 @@ import Impedimento from '~/components/scouts/Impedimento'
 import PenaltiPerdido from '~/components/scouts/PenaltiPerdido'
 import ColNome from '~/components/clubes/ColNome'
 import RowAhLadrao from '~/components/melhores/RowAhLadrao'
+import RowAcimaMedia from '~/components/melhores/RowAcimaMedia'
 import VariacaoNum from '~/components/atleta/VariacaoNum'
+import DadosAtleta from '~/components/atleta/DadosAtleta'
 
 import BootstrapVue from 'bootstrap-vue'
 import distanceInWords from 'date-fns/distance_in_words'
@@ -72,7 +74,9 @@ export default function (Vue, { router, head, isClient }) {
     Vue.component('penalti-perdido', PenaltiPerdido)
     Vue.component('col-nome', ColNome)
     Vue.component('row-ah-ladrao', RowAhLadrao)
+    Vue.component('row-acima-media', RowAcimaMedia)
     Vue.component('variacao-num', VariacaoNum)
+    Vue.component('dados-atleta', DadosAtleta)
 
     Vue.use(BootstrapVue)
     Vue.filter('fromNow', (value) => {

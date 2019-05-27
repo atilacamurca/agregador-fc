@@ -34,10 +34,3 @@ export default {
     }
 }
 </script>
-
-<style>
-/* https://coolors.co/126259-07a0c3-f0c808-084c61-dd1c1a */
-.bg-green-field {
-    background-color: #0b6e4f;
-}
-</style>

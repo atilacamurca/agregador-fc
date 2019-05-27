@@ -33,16 +33,32 @@
             <b-col md="10" offset-md="1">
                 <h3 class="my-4">Melhores no quesito...</h3>
                 <b-row>
-                    <b-col md="4">
+                    <b-col md="4" class="d-flex align-items-stretch">
                         <b-card>
                             <b-card-title><em>Ah, ladrão!</em></b-card-title>
                             <b-card-text>
                                 25 melhores nas Roubadas de bola com poucas faltas
                             </b-card-text>
-                            <g-link :to="`/melhores${$page.rodada.path}/ah-ladrao`"
-                                class="card-link">
-                                Conferir
-                            </g-link>
+                            <div slot="footer">
+                                <g-link :to="`/melhores${$page.rodada.path}/ah-ladrao`"
+                                    class="card-link">
+                                    Conferir
+                                </g-link>
+                            </div>
+                        </b-card>
+                    </b-col>
+                    <b-col md="4" class="d-flex align-items-stretch">
+                        <b-card>
+                            <b-card-title>Acima da média</b-card-title>
+                            <b-card-text>
+                                10 jogadores de cada posição com as melhores médias por jogos.
+                            </b-card-text>
+                            <div slot="footer">
+                                <g-link :to="`/melhores${$page.rodada.path}/acima-media`"
+                                    class="card-link">
+                                    Conferir
+                                </g-link>
+                            </div>
                         </b-card>
                     </b-col>
                 </b-row>

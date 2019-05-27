@@ -63,22 +63,37 @@ source .env
 YEAR=$(date +"%Y")
 echo "Rodada atual: ${RODADA_ATUAL_ID} / ${YEAR}"
 
+dados_rodada() {
+    local rodada_id=${1:-$RODADA_ATUAL_ID}
+    echo "Exportando rodada ${rodada_id} ..."
+    node export/dados-rodada.js ${rodada_id}
+}
+
+ah_ladrao() {
+    local rodada_id=${1:-$RODADA_ATUAL_ID}
+    echo "Exportando melhores rodada ${rodada_id}: Ah, ladrão! ..."
+    node export/ah-ladrao.js ${rodada_id}
+}
+
+acima_media() {
+    local rodada_id=${1:-$RODADA_ATUAL_ID}
+    echo "Exportando melhores rodada ${rodada_id}: Acima da média ..."
+    node export/acima-media.js ${rodada_id}
+}
+
 typeset -i i END
 let END=${RODADA_ATUAL_ID}-1 i=4
 while ((i<=END)); do
     echo "Verificando rodada ${i} ..."
     if [[ ! -f "rodada/${YEAR}/${i}.json" || ${OVERRIDE} = true ]]; then
-        echo "Exportando rodada ${i} ..."
-        node export/dados-rodada.js ${i}
-
-        echo "Exportando melhores: Ah, ladrão! ..."
-        node export/ah-ladrao.js ${i}
+        dados_rodada $i
+        ah_ladrao $i
+        acima_media $i
     fi
 
     let i++
 done
 
-echo "Exportando rodada atual ..."
-node export/dados-rodada.js
-echo "Exportando melhores: Ah, ladrão! ..."
-node export/ah-ladrao.js
+dados_rodada
+ah_ladrao
+acima_media
