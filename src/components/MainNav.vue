@@ -1,8 +1,8 @@
 <template>
-    <b-navbar type="primary" variant="light" fixed="top">
+    <b-navbar type="primary" variant="light" fixed="top" class="shadow">
         <b-container>
             <b-navbar-brand href="#" to="/">
-                <g-image class="color-brand-logo" src="~/assets/img/logo.svg" width="30"/>
+                <g-image class="color-brand-logo" alt="logo" src="~/assets/img/logo.svg" width="30"/>
                 {{ $static.metaData.siteName }}
             </b-navbar-brand>
             <b-navbar-toggle target="nav-collapse"></b-navbar-toggle>

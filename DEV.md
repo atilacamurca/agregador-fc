@@ -114,3 +114,6 @@ create table partidas_rodada (
 - <https://cssgradient.io/>
 - <https://github.com/Akryum/vue-9-perf-secrets/blob/master/src/components/benchmarks/deferred/DeferredOn.vue>
 - <https://medium.com/@js_tut/the-complete-css-flex-box-tutorial-d17971950bdc>
+- <https://timdeschryver.dev/posts/gridsome-social-cards>
+- <https://developer.twitter.com/en/docs/tweets/optimize-with-cards/guides/getting-started.html>
+- <https://developers.facebook.com/docs/sharing/webmasters?locale=pt_BR>

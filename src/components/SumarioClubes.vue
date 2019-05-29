@@ -2,7 +2,12 @@
     <b-row>
         <b-col md="12">
             <b-row>
-                <col-nome :nome="props.clubeCasa" order="2" order-md="1"></col-nome>
+                <col-nome
+                    :nome="props.clubeCasa"
+                    :posicao="props.clubeCasaPosicao"
+                    order="2"
+                    order-md="1"
+                ></col-nome>
                 <b-col cols="12" md="2"
                     class="d-flex align-items-center justify-content-sm-center justify-content-around"
                     order="1"
@@ -23,7 +28,12 @@
                             alt="escudo-visitante"></b-img-lazy>
                     </div>
                 </b-col>
-                <col-nome :nome="props.clubeVisitante" order="3" order-md="3"></col-nome>
+                <col-nome
+                    :nome="props.clubeVisitante"
+                    :posicao="props.clubeVisitantePosicao"
+                    order="3"
+                    order-md="3"
+                ></col-nome>
             </b-row>
         </b-col>
     </b-row>
@@ -49,7 +59,15 @@ export default {
             required: true
         },
         placarMandante: null,
-        placarVisitante: null
+        placarVisitante: null,
+        clubeCasaPosicao: {
+            type: Number,
+            required: true
+        },
+        clubeVisitantePosicao: {
+            type: Number,
+            required: true
+        }
     }
 }
 </script>

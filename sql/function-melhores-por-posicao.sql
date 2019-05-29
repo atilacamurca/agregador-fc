@@ -24,7 +24,7 @@ $$
 	WHERE am.rodada_id = _rodada_id
 	  AND am.ano = _ano
 	  AND posicao_id = _posicao_id
-	ORDER BY jogos_num DESC, media_num DESC
+	ORDER BY media_num * jogos_num DESC, media_num DESC
 	LIMIT 10
     ) t
 $$ LANGUAGE sql;

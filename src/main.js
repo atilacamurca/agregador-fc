@@ -26,6 +26,8 @@ import VariacaoNum from '~/components/atleta/VariacaoNum'
 import DadosAtleta from '~/components/atleta/DadosAtleta'
 
 import BootstrapVue from 'bootstrap-vue'
+import TwitterButton from "@/components/social-media/TwitterButton";
+import FacebookButton from "@/components/social-media/FacebookButton";
 import distanceInWords from 'date-fns/distance_in_words'
 import format from 'date-fns/format'
 var locale = require('date-fns/locale/pt')
@@ -35,8 +37,51 @@ import '~/assets/styles.scss'
 const dateOptions = { addSuffix: true, locale }
 
 export default function (Vue, { router, head, isClient }) {
+    head.meta.push({
+        name: 'robots',
+        content: 'index,follow'
+    })
+    head.meta.push({
+        name: 'keywords',
+        content: [
+            'cartola',
+            'cartola-fc',
+            'agregador',
+            'estatísticas',
+            'campeonato-brasileiro',
+            'brasileirão',
+            'serie-a'
+        ].join(',')
+    })
+
+    // Twitter
+    head.meta.push({
+        name: 'twitter:card',
+        content: 'summary'
+    })
+    head.meta.push({
+        name: 'twitter:creator',
+        content: '@atilacamurca'
+    })
+
+    // Open Graph
+    head.meta.push({
+        key: 'og:image',
+        name: 'og:image',
+        content: process.env.GRIDSOME_SITE_URL + '/img/og-img.png'
+    })
+
+    head.meta.push({
+        key: 'og:locale',
+        name: 'og:locale',
+        content: 'pt_BR'
+    })
+
     // Set default layout as a global component
     Vue.component('Layout', DefaultLayout)
+    Vue.component('twitter-button', TwitterButton)
+    Vue.component('facebook-button', FacebookButton)
+
     /*Vue.component('scout', () => import('~/components/scouts/Scout'))
     Vue.component('roubada-bola', () => import('~/components/scouts/RoubadaBola'))
     Vue.component('gol', () => import('~/components/scouts/Gol'))
@@ -93,5 +138,14 @@ export default function (Vue, { router, head, isClient }) {
         if (!value) return ''
         value = value.toString()
         return format(value, 'HH:mm', { locale })
+    })
+
+    router.beforeEach((to, _from, next) => {
+        head.meta.push({
+            key: 'og:url',
+            name: 'og:url',
+            content: process.env.GRIDSOME_SITE_URL + to.path,
+        })
+        next()
     })
 }

@@ -1,21 +1,39 @@
 <template>
     <Layout>
         <b-row>
-            <b-col md="10" offset-md="1">
+            <b-col md="6" lg="7" offset-md="1">
                 <h3 class="mb-4">Rodada {{ $page.rodada.rodada }}</h3>
+            </b-col>
+            <b-col md="5" lg="3" class="text-light mb-4 mb-sm-0">
+                <twitter-button
+                    :page_url="pageUrl"
+                    :page_title="pageTitle"
+                ></twitter-button>
+                <facebook-button
+                    :page_url="pageUrl"
+                    :page_title="pageTitle"
+                ></facebook-button>
+            </b-col>
+        </b-row>
+        <b-row>
+            <b-col md="10" offset-md="1">
                 <b-card no-body border-variant="light" class="shadow-sm">
                     <b-card-body v-for="(partida, index) in $page.rodada.partidas"
                         :key="partida.partida_id"
-                        class="card-body-sumario border-bottom-light">
+                        class="card-body-sumario border-bottom-light"
+                        :class="[partida.valida ? '' : 'alert-warning']">
                         <div v-b-toggle="`accordion-${partida.partida_id}`"
-                            class="cursor-pointer">
+                            class="cursor-pointer"
+                            :title="partida.valida ? '' : 'Partida inválida para a rodada'">
                             <sumario-partida :partida-data="partida.partida_data"
                                 :local="partida.local"
                             ></sumario-partida>
                             <sumario-clubes :clube-casa="partida.clube_casa"
                                 :clube-visitante="partida.clube_visitante"
                                 :escudo-casa="partida.escudo_casa"
+                                :clube-casa-posicao="partida.clube_casa_posicao"
                                 :escudo-visitante="partida.escudo_visitante"
+                                :clube-visitante-posicao="partida.clube_visitante_posicao"
                                 :placar-mandante="partida.placar_oficial_mandante"
                                 :placar-visitante="partida.placar_oficial_visitante"
                             ></sumario-clubes>
@@ -68,160 +86,163 @@
 </template>
 
 <page-query>
-query Rodada ($path: String!) {
-    rodada: rodadaTemplate (path: $path) {
-        path
-        rodada
-        partidas {
-            partida_id
-            clube_casa
-            clube_visitante
-            escudo_casa,
-            escudo_visitante,
-            partida_data,
-            local,
-            placar_oficial_mandante,
-            placar_oficial_visitante,
-            destaques_defesa_casa {
-                atleta_id
-                apelido
-                jogos_num
-                preco_num
-                media_num
-                variacao_num
-                foto
-                nome_posicao
-                abreviacao_posicao
-            }
-            destaques_defesa_visitante {
-                atleta_id
-                apelido
-                jogos_num
-                preco_num
-                media_num
-                variacao_num
-                foto
-                nome_posicao
-                abreviacao_posicao
-            }
-            goleiros_casa {
-                sum_sg,
-                sum_dd,
-                sum_dp,
-                sum_gs
-            },
-            goleiros_visitante {
-                sum_sg,
-                sum_dd,
-                sum_dp,
-                sum_gs
-            },
-            zagueiros_casa {
-                sum_rb
-                sum_gc
-                sum_g
-                sum_fs
-                sum_ca
-                sum_fc
-                sum_pe
-            }
-            zagueiros_visitante {
-                sum_rb
-                sum_gc
-                sum_g
-                sum_fs
-                sum_ca
-                sum_fc
-                sum_pe
-            }
-            laterais_casa {
-                sum_rb
-                sum_g
-                sum_a
-                sum_fs
-                sum_pe
-                sum_ff
-                sum_fd
-                sum_fc
-            }
-            laterais_visitante {
-                sum_rb
-                sum_g
-                sum_a
-                sum_fs
-                sum_pe
-                sum_ff
-                sum_fd
-                sum_fc
-            }
-            meias_casa {
-                sum_g
-                sum_a
-                sum_fs
-                sum_ff
-                sum_fc
-                sum_rb
-                sum_fd
-                sum_ca
-                sum_pe
-            },
-            meias_visitante {
-                sum_g
-                sum_a
-                sum_fs
-                sum_ff
-                sum_fc
-                sum_rb
-                sum_fd
-                sum_ca
-                sum_pe
-            }
-            atacantes_casa {
-                sum_g
-                sum_a
-                sum_ff
-                sum_fd
-                sum_fs
-                sum_pp
-                sum_fc
-                sum_i
-                sum_fs
-            }
-            atacantes_visitante {
-                sum_g
-                sum_a
-                sum_ff
-                sum_fd
-                sum_fs
-                sum_pp
-                sum_fc
-                sum_i
-                sum_fs
-            },
-            destaques_ataque_casa {
-                atleta_id
-                apelido
-                jogos_num
-                preco_num
-                media_num
-                variacao_num
-                foto
-                nome_posicao
-                abreviacao_posicao
-            }
-            destaques_ataque_visitante {
-                atleta_id
-                apelido
-                jogos_num
-                preco_num
-                media_num
-                variacao_num
-                foto
-                nome_posicao
-                abreviacao_posicao
-            }
-        }
+query Rodada($path: String!) {
+  rodada: rodadaTemplate(path: $path) {
+    path
+    rodada
+    partidas {
+      partida_id
+      clube_casa
+      clube_visitante
+      escudo_casa
+      clube_casa_posicao
+      escudo_visitante
+      clube_visitante_posicao
+      partida_data
+      local
+      placar_oficial_mandante
+      placar_oficial_visitante
+      valida
+      destaques_defesa_casa {
+        atleta_id
+        apelido
+        jogos_num
+        preco_num
+        media_num
+        variacao_num
+        foto
+        nome_posicao
+        abreviacao_posicao
+      }
+      destaques_defesa_visitante {
+        atleta_id
+        apelido
+        jogos_num
+        preco_num
+        media_num
+        variacao_num
+        foto
+        nome_posicao
+        abreviacao_posicao
+      }
+      goleiros_casa {
+        sum_sg
+        sum_dd
+        sum_dp
+        sum_gs
+      }
+      goleiros_visitante {
+        sum_sg
+        sum_dd
+        sum_dp
+        sum_gs
+      }
+      zagueiros_casa {
+        sum_rb
+        sum_gc
+        sum_g
+        sum_fs
+        sum_ca
+        sum_fc
+        sum_pe
+      }
+      zagueiros_visitante {
+        sum_rb
+        sum_gc
+        sum_g
+        sum_fs
+        sum_ca
+        sum_fc
+        sum_pe
+      }
+      laterais_casa {
+        sum_rb
+        sum_g
+        sum_a
+        sum_fs
+        sum_pe
+        sum_ff
+        sum_fd
+        sum_fc
+      }
+      laterais_visitante {
+        sum_rb
+        sum_g
+        sum_a
+        sum_fs
+        sum_pe
+        sum_ff
+        sum_fd
+        sum_fc
+      }
+      meias_casa {
+        sum_g
+        sum_a
+        sum_fs
+        sum_ff
+        sum_fc
+        sum_rb
+        sum_fd
+        sum_ca
+        sum_pe
+      }
+      meias_visitante {
+        sum_g
+        sum_a
+        sum_fs
+        sum_ff
+        sum_fc
+        sum_rb
+        sum_fd
+        sum_ca
+        sum_pe
+      }
+      atacantes_casa {
+        sum_g
+        sum_a
+        sum_ff
+        sum_fd
+        sum_fs
+        sum_pp
+        sum_fc
+        sum_i
+        sum_fs
+      }
+      atacantes_visitante {
+        sum_g
+        sum_a
+        sum_ff
+        sum_fd
+        sum_fs
+        sum_pp
+        sum_fc
+        sum_i
+        sum_fs
+      }
+      destaques_ataque_casa {
+        atleta_id
+        apelido
+        jogos_num
+        preco_num
+        media_num
+        variacao_num
+        foto
+        nome_posicao
+        abreviacao_posicao
+      }
+      destaques_ataque_visitante {
+        atleta_id
+        apelido
+        jogos_num
+        preco_num
+        media_num
+        variacao_num
+        foto
+        nome_posicao
+        abreviacao_posicao
+      }
     }
+  }
 }
 </page-query>
 
@@ -239,7 +260,29 @@ export default {
     },
     mixins: [
         new Defer()
-    ]
+    ],
+    computed: {
+        pageUrl() {
+            return `${process.env.GRIDSOME_SITE_URL}${this.$page.rodada.path}`
+        },
+        pageTitle() {
+            return `Dicas para rodada ${this.$page.rodada.rodada} do Cartola FC.`
+        }
+    },
+    metaInfo() {
+        return {
+            meta: [
+                {
+                    name: 'og:title',
+                    content: this.pageTitle
+                },
+                {
+                    name: 'og:description',
+                    content: `Veja as estatísticas de todos os confrontos da rodada ${this.$page.rodada.rodada} do Cartola FC. Compare os times e escale seu esquadrão.`
+                }
+            ]
+        }
+    }
 }
 </script>
 

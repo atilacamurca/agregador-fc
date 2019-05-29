@@ -17,19 +17,22 @@
     cc.nome_fantasia as clube_casa,
     cc.escudo_60 as escudo_casa,
     clube_casa_posicao,
+    clube_casa_posicao,
     aproveitamento_mandante,
     clube_visitante_id,
     cv.nome_fantasia as clube_visitante,
     cv.escudo_60 as escudo_visitante,
     clube_visitante_posicao,
     aproveitamento_visitante,
+    clube_visitante_posicao,
     partida_data,
     "local",
     valida,
     placar_oficial_mandante,
     placar_oficial_visitante,
     url_confronto,
-    url_transmissao
+    url_transmissao,
+    valida
 FROM partidas_rodada pr
 INNER JOIN clubes cc ON pr.clube_casa_id = cc.id
 INNER JOIN clubes cv ON pr.clube_visitante_id = cv.id
