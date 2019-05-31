@@ -9,7 +9,8 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
     "data:import": "./import/import.sh",
-    "data:export": "./export/export.sh"
+    "data:export": "./export/export.sh",
+    "webdash": "webdash serve"
   },
   "dependencies": {
     "@gridsome/source-filesystem": "^0.3.0",
@@ -29,6 +30,8 @@
     "mkdirp": "^0.5.1",
     "node-sass": "^4.12.0",
     "pg": "^7.10.0",
-    "sass-loader": "^7.1.0"
+    "sass-loader": "^7.1.0",
+    "webdash": "^1.5.0",
+    "webdash-pwa-manifest": "^1.3.0"
   }
 }

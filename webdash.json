@@ -1,0 +1,17 @@
+{
+    "src": "./src/",
+    "dist": "./dist/",
+    "jsBudgetLimit": 200,
+    "jsBudgetPath": "./dist/assets/js/*.js",
+    "manifestPath": "./static/manifest.json",
+    "readableAssets": {
+        "./static/img/": "/img/"
+    },
+    "serverScripts": [
+        "start",
+        "dev",
+        "serve",
+        "server",
+        "watch"
+    ]
+}

@@ -148,4 +148,16 @@ export default function (Vue, { router, head, isClient }) {
         })
         next()
     })
+
+    head.link.push({
+        key: 'manifest',
+        rel: 'manifest',
+        href: 'manifest.json'
+    })
+
+    head.meta.push({
+        key: 'theme-color',
+        name: 'theme-color',
+        content: '#f8f9fa'
+    })
 }
