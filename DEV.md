@@ -117,3 +117,6 @@ create table partidas_rodada (
 - <https://timdeschryver.dev/posts/gridsome-social-cards>
 - <https://developer.twitter.com/en/docs/tweets/optimize-with-cards/guides/getting-started.html>
 - <https://developers.facebook.com/docs/sharing/webmasters?locale=pt_BR>
+- <https://developers.google.com/web/tools/workbox/modules/workbox-build#full_generatesw_config>
+- <https://github.com/gridsome/gridsome/blob/feat%2Fplugin-pwa/packages/plugin-pwa/gridsome.client.js>
+- <https://github.com/hemanth/awesome-pwa>

@@ -160,4 +160,12 @@ export default function (Vue, { router, head, isClient }) {
         name: 'theme-color',
         content: '#f8f9fa'
     })
+
+    if (isClient && process.env.NODE_ENV === 'production') {
+        if ('serviceWorker' in navigator) {
+            window.addEventListener('load', function () {
+                navigator.serviceWorker.register('/service-worker.js')
+            })
+        }
+    }
 }
