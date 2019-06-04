@@ -1,6 +1,6 @@
 ﻿DROP FUNCTION public.stat_destaques_ataque(integer, integer, integer);
 
-CREATE FUNCTION stat_destaques_ataque(_rodada_id integer, _ano integer, _clube_id integer) 
+CREATE FUNCTION stat_destaques_ataque(_rodada_id integer, _ano integer, _clube_id integer)
 RETURNS json AS
 $$
     SELECT array_to_json(array_agg(t)) AS JSON FROM (
@@ -23,7 +23,7 @@ $$
             AND _clube_id = a.clube_id
             AND posicao_id IN (4,
                      5)-- Meia, Atacante
-        ORDER BY media_num DESC,
+        ORDER BY media_num * jogos_num DESC,
             preco_num ASC
         LIMIT 4
     ) t
