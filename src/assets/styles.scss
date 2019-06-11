@@ -7,7 +7,11 @@ $theme-colors: (
 );
 
 @import 'node_modules/bootstrap/scss/bootstrap';
-@import 'node_modules/bootstrap-vue/src/index.scss';
+@import 'node_modules/bootstrap-vue/src/_variables.scss';
+@import 'node_modules/bootstrap-vue/src/_utilities.scss';
+@import 'node_modules/bootstrap-vue/src/components/card/index.scss';
+@import 'node_modules/bootstrap-vue/src/components/nav/index.scss';
+@import 'node_modules/bootstrap-vue/src/components/navbar/index.scss';
 
 .border-bottom-light {
     border-bottom: 1px solid rgba(0, 0, 0, 0.05);
