@@ -1,4 +1,6 @@
 ﻿SELECT partida_id,
+    sumario_gols(pr.rodada_id, pr.ano, pr.clube_casa_id) as sumario_gols_casa,
+    sumario_gols(pr.rodada_id, pr.ano, pr.clube_visitante_id) as sumario_gols_visitante,
     stat_destaques_defesa(pr.rodada_id, pr.ano, pr.clube_casa_id) as destaques_defesa_casa,
     stat_destaques_defesa(pr.rodada_id, pr.ano, pr.clube_visitante_id) as destaques_defesa_visitante,
     stat_goleiros(pr.rodada_id, pr.ano, pr.clube_casa_id) AS goleiros_casa,

@@ -1,5 +1,5 @@
 <template>
-    <div class="py-2 bg-light mt-3">
+    <div class="py-2 bg-light">
         <b-row>
             <b-col cols="6" md="6" class="border-right">
                 <b-row class="ml-2">

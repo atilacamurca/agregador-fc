@@ -40,6 +40,16 @@
                         </div>
                         <b-collapse :id="`accordion-${partida.partida_id}`"
                             :accordion="`accordion-${partida.partida_id}`" role="tabpanel">
+                            <b-row class="mt-2 py-2 bg-light">
+                                <b-col cols="6" class="border-right">
+                                    <row-sumario-gols v-bind="partida.sumario_gols_casa">
+                                    </row-sumario-gols>
+                                </b-col>
+                                <b-col cols="6">
+                                    <row-sumario-gols v-bind="partida.sumario_gols_visitante">
+                                    </row-sumario-gols>
+                                </b-col>
+                            </b-row>
                             <sumario-estatisticas v-if="defer(index)"
                                 :partida="partida"></sumario-estatisticas>
                         </b-collapse>
@@ -103,6 +113,22 @@ query Rodada($path: String!) {
       placar_oficial_mandante
       placar_oficial_visitante
       valida
+      sumario_gols_casa {
+        gols_marcados_total
+        gols_marcados_casa
+        gols_marcados_fora
+        gols_sofridos_total
+        gols_sofridos_casa
+        gols_sofridos_fora
+      }
+      sumario_gols_visitante {
+        gols_marcados_total
+        gols_marcados_casa
+        gols_marcados_fora
+        gols_sofridos_total
+        gols_sofridos_casa
+        gols_sofridos_fora
+      }
       destaques_defesa_casa {
         atleta_id
         apelido
@@ -250,13 +276,15 @@ query Rodada($path: String!) {
 import SumarioPartida from '~/components/SumarioPartida'
 import SumarioClubes from '~/components/SumarioClubes'
 import SumarioEstatisticas from '~/components/SumarioEstatisticas'
+import RowSumarioGols from '~/components/RowSumarioGols'
 import Defer from '~/mixins/Defer'
 
 export default {
     components: {
         SumarioClubes,
         SumarioPartida,
-        SumarioEstatisticas
+        SumarioEstatisticas,
+        RowSumarioGols
     },
     mixins: [
         new Defer()
@@ -266,7 +294,7 @@ export default {
             return `${process.env.GRIDSOME_SITE_URL}${this.$page.rodada.path}`
         },
         pageTitle() {
-            return `Dicas para rodada ${this.$page.rodada.rodada} do Cartola FC.`
+            return `Dicas para rodada ${this.$page.rodada.rodada} do @cartolafc no Agregador FC.`
         }
     },
     metaInfo() {

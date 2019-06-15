@@ -2,7 +2,7 @@
     <b-row :id="props.id">
         <b-col col cols="12">
             <h3 class="pb-4 pt-5 pl-4">{{ props.title }}</h3>
-            <b-row class="justify-content-center py-2 bg-green-field text-light rounded">
+            <b-row class="justify-content-center py-2 bg-green-field text-light">
                 <b-col v-for="atleta in props.atletas" :key="atleta.atleta_id"
                     cols="6" md="3" sm="4" lg="2" class="mb-2 mx-lg-3">
                     <dados-atleta
