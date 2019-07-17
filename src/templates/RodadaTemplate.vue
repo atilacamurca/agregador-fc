@@ -294,7 +294,7 @@ export default {
             return `${process.env.GRIDSOME_SITE_URL}${this.$page.rodada.path}`
         },
         pageTitle() {
-            return `Dicas para rodada ${this.$page.rodada.rodada} do @cartolafc no Agregador FC.`
+            return `Estatísticas para rodada ${this.$page.rodada.rodada} do @cartolafc no Agregador FC.`
         }
     },
     metaInfo() {

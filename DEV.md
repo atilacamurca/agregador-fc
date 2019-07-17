@@ -117,3 +117,5 @@ create table partidas_rodada (
 - <https://timdeschryver.dev/posts/gridsome-social-cards>
 - <https://developer.twitter.com/en/docs/tweets/optimize-with-cards/guides/getting-started.html>
 - <https://developers.facebook.com/docs/sharing/webmasters?locale=pt_BR>
+- <https://github.com/BKWLD/vue-in-viewport-directive>
+- <https://github.com/mike-prince/vue-animate-scroll>

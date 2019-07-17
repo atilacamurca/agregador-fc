@@ -27,15 +27,15 @@
 
 <page-query>
 query TodasRodadas {
-    rodadas: allRodadaTemplate (perPage: 10, order: DESC, sortBy: "rodada") {
-        edges {
-            node {
-                path,
-                rodada,
-                inicio_rodada
-            }
-        }
-	}
+  rodadas: allRodadaTemplate(perPage: 10, order: DESC, sortBy: "rodada") {
+    edges {
+      node {
+        path
+        rodada
+        inicio_rodada
+      }
+    }
+  }
 }
 </page-query>
 
