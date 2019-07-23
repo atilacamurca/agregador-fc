@@ -57,124 +57,124 @@
 </template>
 
 <page-query>
-query ($path: String!) {
-    dados: acimaMediaTemplate(path: $path) {
-        rodada
-        goleiros {
-            atleta_id
-            apelido
-            foto
-            clube
-            jogos_num
-            media_num
-            preco_num
-            pontos_num
-            variacao_num
-            abreviacao_posicao
-            nome_posicao
-            partida {
-                clube_casa
-                clube_casa_escudo
-                clube_visitante
-                clube_visitante_escudo
-            }
-        }
-        laterais {
-            atleta_id
-            apelido
-            foto
-            clube
-            jogos_num
-            media_num
-            preco_num
-            pontos_num
-            variacao_num
-            abreviacao_posicao
-            nome_posicao
-            partida {
-                clube_casa
-                clube_casa_escudo
-                clube_visitante
-                clube_visitante_escudo
-            }
-        }
-        zagueiros {
-            atleta_id
-            apelido
-            foto
-            clube
-            jogos_num
-            media_num
-            preco_num
-            pontos_num
-            variacao_num
-            abreviacao_posicao
-            nome_posicao
-            partida {
-                clube_casa
-                clube_casa_escudo
-                clube_visitante
-                clube_visitante_escudo
-            }
-        }
-        meias {
-            atleta_id
-            apelido
-            foto
-            clube
-            jogos_num
-            media_num
-            preco_num
-            pontos_num
-            variacao_num
-            abreviacao_posicao
-            nome_posicao
-            partida {
-                clube_casa
-                clube_casa_escudo
-                clube_visitante
-                clube_visitante_escudo
-            }
-        }
-        atacantes {
-            atleta_id
-            apelido
-            foto
-            clube
-            jogos_num
-            media_num
-            preco_num
-            pontos_num
-            variacao_num
-            abreviacao_posicao
-            nome_posicao
-            partida {
-                clube_casa
-                clube_casa_escudo
-                clube_visitante
-                clube_visitante_escudo
-            }
-        }
-        tecnicos {
-            atleta_id
-            apelido
-            foto
-            clube
-            jogos_num
-            media_num
-            preco_num
-            pontos_num
-            variacao_num
-            abreviacao_posicao
-            nome_posicao
-            partida {
-                clube_casa
-                clube_casa_escudo
-                clube_visitante
-                clube_visitante_escudo
-            }
-        }
+query($path: String!) {
+  dados: acimaMediaTemplate(path: $path) {
+    rodada
+    goleiros {
+      atleta_id
+      apelido
+      foto
+      clube
+      jogos_num
+      media_num
+      preco_num
+      pontos_num
+      variacao_num
+      abreviacao_posicao
+      nome_posicao
+      partida {
+        clube_casa
+        clube_casa_escudo
+        clube_visitante
+        clube_visitante_escudo
+      }
     }
+    laterais {
+      atleta_id
+      apelido
+      foto
+      clube
+      jogos_num
+      media_num
+      preco_num
+      pontos_num
+      variacao_num
+      abreviacao_posicao
+      nome_posicao
+      partida {
+        clube_casa
+        clube_casa_escudo
+        clube_visitante
+        clube_visitante_escudo
+      }
+    }
+    zagueiros {
+      atleta_id
+      apelido
+      foto
+      clube
+      jogos_num
+      media_num
+      preco_num
+      pontos_num
+      variacao_num
+      abreviacao_posicao
+      nome_posicao
+      partida {
+        clube_casa
+        clube_casa_escudo
+        clube_visitante
+        clube_visitante_escudo
+      }
+    }
+    meias {
+      atleta_id
+      apelido
+      foto
+      clube
+      jogos_num
+      media_num
+      preco_num
+      pontos_num
+      variacao_num
+      abreviacao_posicao
+      nome_posicao
+      partida {
+        clube_casa
+        clube_casa_escudo
+        clube_visitante
+        clube_visitante_escudo
+      }
+    }
+    atacantes {
+      atleta_id
+      apelido
+      foto
+      clube
+      jogos_num
+      media_num
+      preco_num
+      pontos_num
+      variacao_num
+      abreviacao_posicao
+      nome_posicao
+      partida {
+        clube_casa
+        clube_casa_escudo
+        clube_visitante
+        clube_visitante_escudo
+      }
+    }
+    tecnicos {
+      atleta_id
+      apelido
+      foto
+      clube
+      jogos_num
+      media_num
+      preco_num
+      pontos_num
+      variacao_num
+      abreviacao_posicao
+      nome_posicao
+      partida {
+        clube_casa
+        clube_casa_escudo
+        clube_visitante
+        clube_visitante_escudo
+      }
+    }
+  }
 }
 </page-query>
 

@@ -32,30 +32,30 @@
 </template>
 
 <page-query>
-query ($path: String!) {
-    scouts: ahLadraoTemplate (path: $path) {
-        rodada
-        lista {
-            atleta_id
-            apelido
-            posicao
-            posicao_abrev
-            escudo
-            clube
-            foto
-            rb
-            fc
-            ca
-            tot_rb
-            tot_fc
-            tot_ca
-            tot_pontuacao
-            preco_num
-            variacao_num
-            media_num
-            jogos_num
-        }
+query($path: String!) {
+  scouts: ahLadraoTemplate(path: $path) {
+    rodada
+    lista {
+      atleta_id
+      apelido
+      posicao
+      posicao_abrev
+      escudo
+      clube
+      foto
+      rb
+      fc
+      ca
+      tot_rb
+      tot_fc
+      tot_ca
+      tot_pontuacao
+      preco_num
+      variacao_num
+      media_num
+      jogos_num
     }
+  }
 }
 </page-query>
 
