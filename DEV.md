@@ -119,3 +119,7 @@ create table partidas_rodada (
 - <https://developers.facebook.com/docs/sharing/webmasters?locale=pt_BR>
 - <https://github.com/BKWLD/vue-in-viewport-directive>
 - <https://github.com/mike-prince/vue-animate-scroll>
+- <https://stackoverflow.com/questions/37005297/custom-legend-with-chartjs-v2-0>
+- <https://www.chartjs.org/docs/latest/configuration/legend.html>
+- <http://prettyminimal.com/flexbox/>
+- <https://alligator.io/css/collapsible/>

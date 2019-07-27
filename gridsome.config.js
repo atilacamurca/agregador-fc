@@ -30,6 +30,13 @@ module.exports = {
         path: 'melhores/**/acima-media.json',
         typeName: 'AcimaMediaTemplate',
       }
+    },
+    {
+      use: '@gridsome/source-filesystem',
+      options: {
+        path: 'pontuacoes/**/*.json',
+        typeName: 'PontuacaoesTemplate',
+      }
     }
   ]
 }

@@ -3,12 +3,19 @@
         <span class="badge-preco bg-danger text-center">$ {{ props.preco_num }}</span>
         <div class="d-flex flex-column align-items-center">
             <div>
-                <b-img-lazy :src="props.foto" width="64"
-                    blank-width="64"
-                    blank-height="64"
-                    thumbnail rounded="circle" :alt="props.apelido"></b-img-lazy>
+                <g-link :to="props.urlPontuacao">
+                    <g-image :src="props.foto" width="64"
+                        :alt="props.apelido"
+                        class="img-thumbnail rounded-circle"
+                        style="width: 64px; height: 64px;"
+                    ></g-image>
+                </g-link>
             </div>
-            <div>{{ props.apelido }}</div>
+            <div>
+                <g-link :to="props.urlPontuacao" class="text-light">
+                    {{ props.apelido }}
+                </g-link>
+            </div>
             <div v-if="props.clube">{{ props.clube }}</div>
             <div>
                 <span v-show="!props.esconderPosicao">
@@ -59,6 +66,14 @@ export default {
         esconderPosicao: {
             type: Boolean,
             default: false
+        },
+        atleta_id: {
+            type: Number,
+            required: true
+        },
+        urlPontuacao: {
+            type: String,
+            required: true
         }
     }
 }

@@ -1,9 +1,9 @@
-<template>
+<template functional>
     <b-col cols="6" md="5"
         class="d-flex align-items-center justify-content-center"
-        v-bind="$attrs">
+        v-bind="data.attrs">
         <div class="lead mr-sm-3 text-center">
-            {{ posicao }} &deg; &bull; {{ nome }}
+            {{ props.posicao }} &deg; &bull; {{ props.nome }}
         </div>
     </b-col>
 </template>

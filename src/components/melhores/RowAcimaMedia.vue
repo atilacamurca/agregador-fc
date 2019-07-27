@@ -7,6 +7,7 @@
                     cols="6" md="3" sm="4" lg="2" class="mb-2 mx-lg-3">
                     <dados-atleta
                         v-bind="atleta"
+                        :urlPontuacao="props.urlPontuacao(atleta.atleta_id)"
                         class="mx-3 my-2"
                         esconder-posicao>
                     </dados-atleta>
@@ -50,6 +51,10 @@ export default {
         },
         atletas: {
             type: Array,
+            required: true
+        },
+        urlPontuacao: {
+            type: Function,
             required: true
         }
     }

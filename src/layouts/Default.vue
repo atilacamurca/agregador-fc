@@ -23,10 +23,11 @@ export default {
 body {
     font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
     background: #009FFF;
-    background: -webkit-linear-gradient(to left, #009FFF, #EC2F4C);
-    background: -moz-linear-gradient(to left, #009FFF, #EC2F4C);
-    background: linear-gradient(to left, #009FFF, #EC2F4C);
+    background: -webkit-linear-gradient(135deg, #009FFF, #EC2F4C) fixed;
+    background: -moz-linear-gradient(135deg, #009FFF, #EC2F4C) fixed;
+    background: linear-gradient(135deg, #009FFF, #EC2F4C) fixed;
 }
+
 .fade-enter-active {
     transition: opacity .5s;
 }

@@ -1,11 +1,11 @@
-<template>
+<template functional>
     <b-row class="mt-4 py-2 bg-green-field text-light rounded">
         <b-col cols="6" md="6" class="border-right">
-            <div class="ml-4 mb-2">{{ title }}</div>
+            <div class="ml-4 mb-2">{{ props.title }}</div>
             <slot name="casa"></slot>
         </b-col>
         <b-col cols="6" md="6">
-            <div class="ml-4 mb-2">{{ title }}</div>
+            <div class="ml-4 mb-2">{{ props.title }}</div>
             <slot name="visitante"></slot>
         </b-col>
     </b-row>
@@ -14,22 +14,9 @@
 <script>
 export default {
     props: {
-        posicaoEmCampo: {
+        title: {
             type: String,
-            required: true,
-            validator: function (value) {
-                return ['defesa', 'ataque'].indexOf(value) !== -1
-            }
-        }
-    },
-    computed: {
-        title () {
-            switch (this.posicaoEmCampo) {
-                case 'defesa':
-                    return 'DETAQUES DA DEFESA'
-                case 'ataque':
-                    return 'DESTAQUES DO ATAQUE'
-            }
+            required: true
         }
     }
 }
