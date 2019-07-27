@@ -15,7 +15,10 @@
                     <b-card-body v-for="item in $page.scouts.lista"
                         :key="item.atleta_id"
                         class="card-body-sumario border-bottom-light">
-                        <row-ah-ladrao v-bind="item"></row-ah-ladrao>
+                        <row-ah-ladrao
+                            v-bind="item"
+                            :urlPontuacao="urlPontuacao()(item.atleta_id)"
+                        ></row-ah-ladrao>
                     </b-card-body>
                 </b-card>
             </b-col>
@@ -60,5 +63,11 @@ query($path: String!) {
 </page-query>
 
 <script>
-export default {}
+import UrlPontuacao from '~/mixins/UrlPontuacao'
+
+export default {
+    mixins: [
+        new UrlPontuacao()
+    ]
+}
 </script>

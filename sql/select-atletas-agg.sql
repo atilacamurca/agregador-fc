@@ -39,6 +39,7 @@ FROM t
 INNER JOIN atletas a ON t.atleta_id = a.id
 INNER JOIN clubes c ON a.clube_id = c.id
 INNER JOIN posicoes p ON a.posicao_id = p.id
+WHERE clube_id <> 1
 GROUP BY atleta_id,
          ano,
          apelido,
@@ -48,4 +49,4 @@ GROUP BY atleta_id,
          foto,
          escudo_60
 ORDER BY atleta_id
-LIMIT 100
+LIMIT 1000

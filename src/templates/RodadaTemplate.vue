@@ -18,41 +18,42 @@
         <b-row>
             <b-col md="10" offset-md="1">
                 <b-card no-body border-variant="light" class="shadow-sm">
-                    <b-card-body v-for="(partida, index) in $page.rodada.partidas"
+                    <b-card-body v-for="partida in $page.rodada.partidas"
                         :key="partida.partida_id"
                         class="card-body-sumario border-bottom-light"
                         :class="[partida.valida ? '' : 'alert-warning']">
-                        <div v-b-toggle="`accordion-${partida.partida_id}`"
-                            class="cursor-pointer"
-                            :title="partida.valida ? '' : 'Partida inválida para a rodada'">
-                            <sumario-partida :partida-data="partida.partida_data"
-                                :local="partida.local"
-                            ></sumario-partida>
-                            <sumario-clubes :clube-casa="partida.clube_casa"
-                                :clube-visitante="partida.clube_visitante"
-                                :escudo-casa="partida.escudo_casa"
-                                :clube-casa-posicao="partida.clube_casa_posicao"
-                                :escudo-visitante="partida.escudo_visitante"
-                                :clube-visitante-posicao="partida.clube_visitante_posicao"
-                                :placar-mandante="partida.placar_oficial_mandante"
-                                :placar-visitante="partida.placar_oficial_visitante"
-                            ></sumario-clubes>
-                        </div>
-                        <b-collapse :id="`accordion-${partida.partida_id}`"
-                            :accordion="`accordion-${partida.partida_id}`" role="tabpanel">
-                            <b-row class="mt-2 py-2 bg-light">
-                                <b-col cols="6" class="border-right">
-                                    <row-sumario-gols v-bind="partida.sumario_gols_casa">
-                                    </row-sumario-gols>
-                                </b-col>
-                                <b-col cols="6">
-                                    <row-sumario-gols v-bind="partida.sumario_gols_visitante">
-                                    </row-sumario-gols>
-                                </b-col>
-                            </b-row>
-                            <sumario-estatisticas v-if="defer(index)"
-                                :partida="partida"></sumario-estatisticas>
-                        </b-collapse>
+                        <fc-collapsible :id="partida.partida_id">
+                            <div slot="title"
+                                :title="partida.valida ? '' : 'Partida inválida para a rodada'">
+                                <sumario-partida :partida-data="partida.partida_data"
+                                    :local="partida.local"
+                                ></sumario-partida>
+                                <sumario-clubes :clube-casa="partida.clube_casa"
+                                    :clube-visitante="partida.clube_visitante"
+                                    :escudo-casa="partida.escudo_casa"
+                                    :clube-casa-posicao="partida.clube_casa_posicao"
+                                    :escudo-visitante="partida.escudo_visitante"
+                                    :clube-visitante-posicao="partida.clube_visitante_posicao"
+                                    :placar-mandante="partida.placar_oficial_mandante"
+                                    :placar-visitante="partida.placar_oficial_visitante"
+                                ></sumario-clubes>
+                            </div>
+                            <div slot="content">
+                                <b-row class="mt-2 py-2 bg-light">
+                                    <b-col cols="6" class="border-right">
+                                        <row-sumario-gols v-bind="partida.sumario_gols_casa">
+                                        </row-sumario-gols>
+                                    </b-col>
+                                    <b-col cols="6">
+                                        <row-sumario-gols v-bind="partida.sumario_gols_visitante">
+                                        </row-sumario-gols>
+                                    </b-col>
+                                </b-row>
+                                <sumario-estatisticas
+                                    :partida="partida"
+                                    :urlPontuacao="urlPontuacao()"></sumario-estatisticas>
+                            </div>
+                        </fc-collapsible>
                     </b-card-body>
                 </b-card>
             </b-col>
@@ -273,21 +274,11 @@ query Rodada($path: String!) {
 </page-query>
 
 <script>
-import SumarioPartida from '~/components/SumarioPartida'
-import SumarioClubes from '~/components/SumarioClubes'
-import SumarioEstatisticas from '~/components/SumarioEstatisticas'
-import RowSumarioGols from '~/components/RowSumarioGols'
-import Defer from '~/mixins/Defer'
+import UrlPontuacao from '~/mixins/UrlPontuacao'
 
 export default {
-    components: {
-        SumarioClubes,
-        SumarioPartida,
-        SumarioEstatisticas,
-        RowSumarioGols
-    },
     mixins: [
-        new Defer()
+        new UrlPontuacao()
     ],
     computed: {
         pageUrl() {
@@ -315,10 +306,6 @@ export default {
 </script>
 
 <style scoped>
-.cursor-pointer {
-    cursor: pointer;
-}
-
 .card-body.card-body-sumario {
     padding: 1.25rem 0 !important;
 }

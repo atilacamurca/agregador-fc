@@ -6,11 +6,9 @@ export default function (count = 10) {
                 displayPriority: 0,
             }
         },
-
         mounted () {
             this.runDisplayPriority()
         },
-
         methods: {
             runDisplayPriority () {
                 const step = () => {
@@ -23,10 +21,9 @@ export default function (count = 10) {
                 }
                 step()
             },
-
             defer (priority) {
                 return this.displayPriority >= priority
-            },
-        },
+            }
+        }
     }
 }

@@ -122,3 +122,4 @@ create table partidas_rodada (
 - <https://stackoverflow.com/questions/37005297/custom-legend-with-chartjs-v2-0>
 - <https://www.chartjs.org/docs/latest/configuration/legend.html>
 - <http://prettyminimal.com/flexbox/>
+- <https://alligator.io/css/collapsible/>

@@ -10,18 +10,21 @@
                     blank-height="40px"
                     :alt="props.clube"
                 ></b-img-lazy>
-                <b-img-lazy :src="props.foto"
-                    width="64"
-                    height="64"
-                    blank-width="64px"
-                    blank-height="64px"
-                    thumbnail rounded="circle"
-                    :alt="props.apelido"
-                ></b-img-lazy>
+                <g-link :to="props.urlPontuacao">
+                    <g-image :src="props.foto" width="64"
+                        :alt="props.apelido"
+                        class="img-thumbnail rounded-circle w-64 h-64"
+                        style="width: 64px; height: 64px;"
+                    ></g-image>
+                </g-link>
             </div>
         </b-col>
         <b-col cols="6" md="3" class="d-flex flex-column justify-content-center">
-            <div class="lead">{{ props.apelido }}</div>
+            <div class="lead">
+                <g-link :to="props.urlPontuacao" class="text-primary">
+                    {{ props.apelido }}
+                </g-link>
+            </div>
             <div>{{ props.posicao }} do {{ props.clube }}</div>
         </b-col>
         <b-col>
@@ -129,6 +132,10 @@ export default {
         },
         variacao_num: {
             type: Number,
+            required: true
+        },
+        urlPontuacao: {
+            type: String,
             required: true
         }
     }

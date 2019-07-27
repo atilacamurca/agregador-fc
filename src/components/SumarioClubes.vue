@@ -13,9 +13,11 @@
                     order="1"
                     order-md="2">
                     <div class="mx-4">
-                        <b-img-lazy width="40px"
+                        <g-image width="40px"
                             :src="props.escudoCasa"
-                            alt="escudo-casa"></b-img-lazy>
+                            alt="escudo-casa"
+                            style="width: 40px; height: 40px;"
+                        ></g-image>
                     </div>
                     <div class="text-center d-flex flex-direction-column lead">
                         <span>{{ props.placarMandante }}</span>
@@ -23,9 +25,11 @@
                         <span>{{ props.placarVisitante }}</span>
                     </div>
                     <div class="mx-4">
-                        <b-img-lazy width="40px"
+                        <g-image width="40px"
                             :src="props.escudoVisitante"
-                            alt="escudo-visitante"></b-img-lazy>
+                            alt="escudo-visitante"
+                            style="width: 40px; height: 40px;"
+                        ></g-image>
                     </div>
                 </b-col>
                 <col-nome

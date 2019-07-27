@@ -24,19 +24,34 @@ import RowAhLadrao from '~/components/melhores/RowAhLadrao'
 import RowAcimaMedia from '~/components/melhores/RowAcimaMedia'
 import VariacaoNum from '~/components/atleta/VariacaoNum'
 import DadosAtleta from '~/components/atleta/DadosAtleta'
+import ContainerDestaques from '~/components/partida/ContainerDestaques'
+import RowDestaques from '~/components/partida/RowDestaques'
+import FcCollapsible from '~/components/common/FcCollapsible'
+import ColGoleiros from '~/components/partida/ColGoleiros'
+import ColDefesa from '~/components/partida/ColDefesa'
+import ColZagueiros from '~/components/partida/ColZagueiros'
+import ColLaterais from '~/components/partida/ColLaterais'
+import ColMeias from '~/components/partida/ColMeias'
+import ColAtacantes from '~/components/partida/ColAtacantes'
+import SumarioEstatisticas from '~/components/SumarioEstatisticas'
+import SumarioClubes from '~/components/SumarioClubes'
+import SumarioPartida from '~/components/SumarioPartida'
+import RowSumarioGols from '~/components/RowSumarioGols'
 
 import BootstrapVue from 'bootstrap-vue'
 import TwitterButton from "@/components/social-media/TwitterButton";
 import FacebookButton from "@/components/social-media/FacebookButton";
 import distanceInWords from 'date-fns/distance_in_words'
 import format from 'date-fns/format'
-var locale = require('date-fns/locale/pt')
+const locale = require('date-fns/locale/pt')
 
 import '~/assets/styles.scss'
 
 const dateOptions = { addSuffix: true, locale }
 
 export default function (Vue, { router, head, isClient }) {
+    Vue.prototype.$year = new Date().getFullYear()
+
     head.meta.push({
         name: 'robots',
         content: 'index,follow'
@@ -122,6 +137,19 @@ export default function (Vue, { router, head, isClient }) {
     Vue.component('row-acima-media', RowAcimaMedia)
     Vue.component('variacao-num', VariacaoNum)
     Vue.component('dados-atleta', DadosAtleta)
+    Vue.component('container-destaques', ContainerDestaques)
+    Vue.component('row-destaques', RowDestaques)
+    Vue.component('fc-collapsible', FcCollapsible)
+    Vue.component('col-goleiros', ColGoleiros)
+    Vue.component('col-defesa', ColDefesa)
+    Vue.component('col-zagueiros', ColZagueiros)
+    Vue.component('col-laterais', ColLaterais)
+    Vue.component('col-meias', ColMeias)
+    Vue.component('col-atacantes', ColAtacantes)
+    Vue.component('sumario-estatisticas', SumarioEstatisticas)
+    Vue.component('sumario-clubes', SumarioClubes)
+    Vue.component('sumario-partida', SumarioPartida)
+    Vue.component('row-sumario-gols', RowSumarioGols)
 
     Vue.use(BootstrapVue)
     Vue.filter('fromNow', (value) => {
@@ -152,7 +180,7 @@ export default function (Vue, { router, head, isClient }) {
     head.link.push({
         key: 'manifest',
         rel: 'manifest',
-        href: 'manifest.json'
+        href: Vue.prototype.$url('/manifest.json')
     })
 
     head.meta.push({

@@ -1,8 +1,8 @@
 <template>
     <Layout>
         <b-row>
-            <b-col cols="4" lg="2">
-                <div class="d-lg-flex justify-content-lg-end">
+            <b-col cols="4" lg="2" md="3">
+                <div class="d-md-flex justify-content-md-end">
                     <b-img-lazy :src="pontuacao.foto" width="96"
                         blank-width="96"
                         blank-height="96"
@@ -30,7 +30,7 @@
             </b-col>
         </b-row>
         <b-row>
-            <b-col class="h-25">
+            <b-col class="h-25 mt-2">
                 <bar-chart :data="data" :options="options"></bar-chart>
             </b-col>
         </b-row>
@@ -54,10 +54,10 @@ query Pontuacao($path: String!) {
     variacoes
     medias
     partidas {
-      clube_casa
+      clube_casa_abrev
       clube_casa_id
       clube_casa_escudo
-      clube_visitante
+      clube_visitante_abrev
       clube_visitante_id
       clube_visitante_escudo
     }
@@ -77,20 +77,39 @@ export default {
             return this.$page.pontuacao
         },
         data() {
+            const { partidas, clube_id } = this.pontuacao
             return {
-                labels: this.pontuacao.rodadas,
+                labels: this.pontuacao.rodadas.map((value, index) => {
+                    const partida = partidas[index]
+                    const emCasa = clube_id === partida.clube_casa_id
+                    const abrev = emCasa ?
+                        partida.clube_visitante_abrev : partida.clube_casa_abrev
+                    return [
+                        `Rod. ${value}`,
+                        abrev,
+                        emCasa ? 'CASA' : 'VISIT'
+                    ]
+                }),
                 datasets: [
                     {
                         label: 'Média',
                         data: this.pontuacao.medias,
                         type: 'line',
-                        backgroundColor: '#dc3545',
-                        fill: false
+                        pointBorderColor: '#34495e',
+                        pointBorderWidth: 3,
+                        backgroundColor: 'whitesmoke',
+                        pointHoverBackgroundColor: 'whitesmoke',
+                        pointHoverBorderColor: '#34495e',
+                        pointHoverBorderWidth: 4,
+                        fill: false,
+                        pointRadius: 6,
+                        pointHoverRadius: 8,
+                        borderColor: '#bdc3c7'
                     },
                     {
                         label: 'Pontos',
                         data: this.pontuacao.pontos,
-                        backgroundColor: '#28a745'
+                        backgroundColor: this.pontuacao.pontos.map((value) => (value >= 0 ? '#28a745' : '#dc3545'))
                     }
                 ]
             }
@@ -106,26 +125,16 @@ export default {
 				hover: {
 					mode: 'nearest',
 					intersect: true
-				},
+                },
+                scales: {
+                    yAxes: [{
+                        ticks: {
+                            beginAtZero: true
+                        }
+                    }]
+                },
                 legend: {
-                    display: true
-                },
-                title: {
-                    display: true
-                },
-                legendCallback: function (chart) {
-                    var text = [];
-  text.push('<ul class="' + chart.id + '-legend">');
-  for (var i = 0; i < chart.data.datasets[0].data.length; i++) {
-    text.push('<li><span style="background-color:' +
-    chart.data.datasets[0].backgroundColor[i] + '">');
-      if (chart.data.labels[i]) {
-      text.push(chart.data.labels[i] + ' teste');
-    }
-    text.push('</span></li>');
-  }
-  text.push('</ul>');
-  return text.join("");
+                    display: false
                 }
             }
         }

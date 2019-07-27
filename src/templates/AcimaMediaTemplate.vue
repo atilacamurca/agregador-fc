@@ -26,32 +26,38 @@
             title="Goleiros"
             id="goleiros"
             :atletas="$page.dados.goleiros"
+            :urlPontuacao="urlPontuacao()"
         ></row-acima-media>
         <row-acima-media
             title="Laterais"
             id="laterais"
             :atletas="$page.dados.laterais"
+            :urlPontuacao="urlPontuacao()"
         ></row-acima-media>
         <row-acima-media
             title="Zagueiros"
             id="zagueiros"
             :atletas="$page.dados.zagueiros"
+            :urlPontuacao="urlPontuacao()"
         ></row-acima-media>
         <hr>
         <row-acima-media
             title="Meias"
             id="meias"
             :atletas="$page.dados.meias"
+            :urlPontuacao="urlPontuacao()"
         ></row-acima-media>
         <row-acima-media
             title="Atacantes"
             id="atacantes"
             :atletas="$page.dados.atacantes"
+            :urlPontuacao="urlPontuacao()"
         ></row-acima-media>
         <row-acima-media
             title="Técnicos"
             id="tecnicos"
             :atletas="$page.dados.tecnicos"
+            :urlPontuacao="urlPontuacao()"
         ></row-acima-media>
     </Layout>
 </template>
@@ -179,7 +185,11 @@ query($path: String!) {
 </page-query>
 
 <script>
-export default {
+import UrlPontuacao from '~/mixins/UrlPontuacao'
 
+export default {
+    mixins: [
+        new UrlPontuacao()
+    ]
 }
 </script>

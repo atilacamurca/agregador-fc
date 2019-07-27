@@ -16,7 +16,6 @@ export default {
     },
     mounted () {
         this.renderChart(this.data, this.options)
-        this.generateLegend()
     }
 }
 </script>
