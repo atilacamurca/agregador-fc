@@ -81,6 +81,11 @@ acima_media() {
     node export/acima-media.js ${rodada_id}
 }
 
+atletas_pontuacao() {
+    echo "Exportando pontuação dos atletas ..."
+    node export/atletas-pontuacao.js
+}
+
 typeset -i i END
 let END=${RODADA_ATUAL_ID}-1 i=4
 while ((i<=END)); do
@@ -97,3 +102,4 @@ done
 dados_rodada
 ah_ladrao
 acima_media
+atletas_pontuacao
