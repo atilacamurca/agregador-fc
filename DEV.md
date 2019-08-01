@@ -106,6 +106,7 @@ create table partidas_rodada (
 
 - <https://www.npmjs.com/package/convert-csv-to-json>
 - <https://github.com/henriquepgomide/caRtola/blob/master/data/2019/rodada-3.csv>
+- <https://github.com/henriquepgomide/caRtola/blob/master/data/2019/rodada-11.csv>
 - <https://github.com/gridsome/gridsome-starter-blog>
 - <https://api.cartolafc.globo.com/partidas/3>
 - <https://github.com/menegazzo/cartola-opexe/blob/master/cartola.py>
@@ -123,3 +124,4 @@ create table partidas_rodada (
 - <https://www.chartjs.org/docs/latest/configuration/legend.html>
 - <http://prettyminimal.com/flexbox/>
 - <https://alligator.io/css/collapsible/>
+- <https://www.npmjs.com/package/csvtojson>

@@ -5,7 +5,9 @@ const client = require('./database').client
 const UPSERT_STATUS = 'INSERT INTO status(id, nome) VALUES($1, $2) ON CONFLICT DO NOTHING'
 const UPSERT_POSICOES = 'INSERT INTO public.posicoes (id, nome, abreviacao) VALUES($1, $2, $3) ON CONFLICT DO NOTHING'
 const UPSERT_CLUBES = `INSERT INTO public.clubes (id, nome, nome_fantasia,
-    abreviacao, posicao, escudo_60) VALUES ($1, $2, $3, $4, $5, $6) ON CONFLICT DO NOTHING`
+    abreviacao, posicao, escudo_60) VALUES ($1, $2, $3, $4, $5, $6)
+    ON CONFLICT ON CONSTRAINT clubes_pkey DO
+    UPDATE SET posicao=EXCLUDED.posicao, escudo_60=EXCLUDED.escudo_60`
 const UPSERT_ATLETAS = `INSERT INTO public.atletas(id, nome, slug, apelido, foto, clube_id, posicao_id)
     VALUES ($1, $2, $3, $4, $5, $6, $7)
     ON CONFLICT (id) DO UPDATE SET nome=EXCLUDED.nome, slug=EXCLUDED.slug,
@@ -151,7 +153,7 @@ async function save(data) {
 }
 
 function orZero(obj, key) {
-    return obj[key.toUpperCase()] ? obj[key.toUpperCase()] : 0
+    return obj && obj[key.toUpperCase()] ? obj[key.toUpperCase()] : 0
 }
 
 // const data = await fetch()

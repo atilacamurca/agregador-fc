@@ -37,6 +37,13 @@ module.exports = {
         path: 'pontuacoes/**/*.json',
         typeName: 'PontuacaoesTemplate',
       }
+    },
+    {
+      use: '@gridsome/source-filesystem',
+      options: {
+        path: 'clubes/**/*.json',
+        typeName: 'ClubesTemplate',
+      }
     }
   ]
 }
