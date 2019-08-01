@@ -1,5 +1,5 @@
 <template functional>
-    <b-badge variant="light" :class="{
+    <b-badge :variant="props.variant" :class="{
         'text-success': props.variacao_num > 0,
         'text-danger': props.variacao_num < 0
     }" v-b-tooltip="{
@@ -9,6 +9,7 @@
     }">
         <span v-if="props.variacao_num > 0">&nearr;</span>
         <span v-else-if="props.variacao_num < 0">&searr;</span>
+        <span v-else>&equals;</span>
         {{ props.variacao_num }}
     </b-badge>
 </template>
@@ -23,6 +24,10 @@ export default {
         placement: {
             type: String,
             default: 'right'
+        },
+        variant: {
+            type: String,
+            default: 'light'
         }
     }
 }

@@ -110,7 +110,6 @@ async function save(data) {
                 a.posicao_id
             ]))
 
-            console.log('atleta', a.atleta_id)
             batchAtletasMercado.push(client.query(UPSERT_ATLETAS_MERCADO, [
                 a.atleta_id,
                 a.rodada_id,
@@ -154,7 +153,6 @@ async function save(data) {
 }
 
 function orZero(obj, key) {
-    console.log(obj);
     return obj && obj[key.toUpperCase()] ? obj[key.toUpperCase()] : 0
 }
 

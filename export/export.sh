@@ -86,6 +86,11 @@ atletas_pontuacao() {
     node export/atletas-pontuacao.js
 }
 
+clubes_atletas() {
+    echo "Exportando clubes ..."
+    node export/clubes-atletas.js
+}
+
 typeset -i i END
 let END=${RODADA_ATUAL_ID}-1 i=4
 while ((i<=END)); do
@@ -103,3 +108,4 @@ dados_rodada
 ah_ladrao
 acima_media
 atletas_pontuacao
+clubes_atletas
