@@ -10,7 +10,7 @@ const BundleAnalyzerPlugin = require('webpack-bundle-analyzer')
 module.exports = {
   siteName: 'Agregador FC',
   siteUrl: 'https://atilacamurca.github.io',
-  pathPrefix: '/agregador-fc',
+  //pathPrefix: '/agregador-fc',
   siteDescription: 'Agregador FC é um site para te ajudar a decidir seu time para o Cartola FC.',
   plugins: [
     {
@@ -46,6 +46,14 @@ module.exports = {
       options: {
         path: 'clubes/**/*.json',
         typeName: 'ClubesTemplate',
+      }
+    },
+    {
+      use: '@gridsome/plugin-critical',
+      options: {
+        paths: ['/'],
+        width: 1300,
+        height: 900
       }
     }
   ],
