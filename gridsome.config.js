@@ -4,6 +4,9 @@
 // Changes here require a server restart.
 // To restart press CTRL + C in terminal and run `gridsome develop`
 
+const BundleAnalyzerPlugin = require('webpack-bundle-analyzer')
+  .BundleAnalyzerPlugin
+
 module.exports = {
   siteName: 'Agregador FC',
   siteUrl: 'https://atilacamurca.github.io',
@@ -45,5 +48,15 @@ module.exports = {
         typeName: 'ClubesTemplate',
       }
     }
-  ]
+  ],
+  chainWebpack: config => {
+    config
+      .plugin('BundleAnalyzerPlugin')
+      .use(BundleAnalyzerPlugin, [{ analyzerMode: 'static', openAnalyzer: false }])
+  },
+  configureWebpack: {
+    externals: {
+      moment: 'moment'
+    }
+  }
 }
