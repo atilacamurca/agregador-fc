@@ -10,6 +10,7 @@ import PasseErrado from '~/components/scouts/PasseErrado'
 import FaltaSofrida from '~/components/scouts/FaltaSofrida'
 import FaltaCometida from '~/components/scouts/FaltaCometida'
 import CartaoAmarelo from '~/components/scouts/CartaoAmarelo'
+import CartaoVermelho from '~/components/scouts/CartaoVermelho'
 import SaldoGol from '~/components/scouts/SaldoGol'
 import DefesaDificil from '~/components/scouts/DefesaDificil'
 import GolSofrido from '~/components/scouts/GolSofrido'
@@ -24,6 +25,12 @@ import RowAhLadrao from '~/components/melhores/RowAhLadrao'
 import RowAcimaMedia from '~/components/melhores/RowAcimaMedia'
 import VariacaoNum from '~/components/atleta/VariacaoNum'
 import DadosAtleta from '~/components/atleta/DadosAtleta'
+import ScoutsAta from '~/components/atleta/ScoutsAta'
+import ScoutsGol from '~/components/atleta/ScoutsGol'
+import ScoutsLat from '~/components/atleta/ScoutsLat'
+import ScoutsMei from '~/components/atleta/ScoutsMei'
+import ScoutsTec from '~/components/atleta/ScoutsTec'
+import ScoutsZag from '~/components/atleta/ScoutsZag'
 import ContainerDestaques from '~/components/partida/ContainerDestaques'
 import RowDestaques from '~/components/partida/RowDestaques'
 import FcCollapsible from '~/components/common/FcCollapsible'
@@ -123,6 +130,7 @@ export default function (Vue, { router, head, isClient }) {
     Vue.component('falta-sofrida', FaltaSofrida)
     Vue.component('falta-cometida', FaltaCometida)
     Vue.component('cartao-amarelo', CartaoAmarelo)
+    Vue.component('cartao-vermelho', CartaoVermelho)
     Vue.component('saldo-gol', SaldoGol)
     Vue.component('defesa-dificil', DefesaDificil)
     Vue.component('gol-sofrido', GolSofrido)
@@ -137,6 +145,12 @@ export default function (Vue, { router, head, isClient }) {
     Vue.component('row-acima-media', RowAcimaMedia)
     Vue.component('variacao-num', VariacaoNum)
     Vue.component('dados-atleta', DadosAtleta)
+    Vue.component('scouts-ata', ScoutsAta)
+    Vue.component('scouts-gol', ScoutsGol)
+    Vue.component('scouts-lat', ScoutsLat)
+    Vue.component('scouts-mei', ScoutsMei)
+    Vue.component('scouts-tec', ScoutsTec)
+    Vue.component('scouts-zag', ScoutsZag)
     Vue.component('container-destaques', ContainerDestaques)
     Vue.component('row-destaques', RowDestaques)
     Vue.component('fc-collapsible', FcCollapsible)

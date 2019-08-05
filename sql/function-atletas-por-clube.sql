@@ -1,6 +1,6 @@
 ﻿-- DROP FUNCTION public.atletas_por_clube(integer, integer, integer);
- 
-CREATE OR REPLACE FUNCTION atletas_por_clube(_rodada_id integer, _ano integer, _clube_id integer) 
+
+CREATE OR REPLACE FUNCTION atletas_por_clube(_rodada_id integer, _ano integer, _clube_id integer)
 RETURNS json AS
 $BODY$
   SELECT array_to_json(array_agg(t)) AS json FROM (

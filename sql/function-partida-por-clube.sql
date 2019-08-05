@@ -1,6 +1,6 @@
 ﻿DROP FUNCTION public.partida_por_clube(integer, integer, integer);
- 
-CREATE FUNCTION partida_por_clube(_rodada_id integer, _ano integer, _clube_id integer) 
+
+CREATE OR REPLACE FUNCTION partida_por_clube(_rodada_id integer, _ano integer, _clube_id integer)
 RETURNS json AS
 $$
     SELECT row_to_json(t) AS json FROM (
@@ -11,7 +11,10 @@ $$
 	       clube_visitante_id,
 	       cv.nome_fantasia AS clube_visitante,
 	       cv.escudo_60 AS clube_visitante_escudo,
-	       cv.abreviacao AS clube_visitante_abrev
+	       cv.abreviacao AS clube_visitante_abrev,
+		   placar_oficial_mandante,
+		   placar_oficial_visitante,
+		   pr.rodada_id
 	FROM partidas_rodada pr
 	INNER JOIN clubes cc ON pr.clube_casa_id = cc.id
 	INNER JOIN clubes cv ON pr.clube_visitante_id = cv.id

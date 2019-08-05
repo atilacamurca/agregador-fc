@@ -48,7 +48,8 @@ SELECT ano,
        jsonb_agg(media_num ORDER BY rodada_id) as medias,
        jsonb_agg(partida_por_clube ORDER BY rodada_id) as partidas,
        foto,
-       escudo_60
+       escudo_60,
+       atleta_ultimos_scouts($3, t.atleta_id) as scouts
 FROM t
 INNER JOIN atletas a ON t.atleta_id = a.id
 INNER JOIN clubes c ON a.clube_id = c.id
@@ -67,7 +68,7 @@ ORDER BY atleta_id
 
 async function queryPontuacoes(ano) {
     try {
-        const res = await client.query(SQL_PONTUACOES, [ano, ano])
+        const res = await client.query(SQL_PONTUACOES, [ano, ano, ano])
         return res.rows
     } catch (err) {
         console.log(err)
