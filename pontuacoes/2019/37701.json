@@ -15,7 +15,8 @@
     9,
     10,
     11,
-    12
+    12,
+    13
   ],
   "pontos": [
     1.4,
@@ -27,7 +28,8 @@
     0,
     4.6,
     2.9,
-    4.9
+    4.9,
+    0
   ],
   "precos": [
     5.55,
@@ -39,6 +41,7 @@
     6.12,
     6.04,
     -0.13,
+    6.34,
     6.34
   ],
   "variacoes": [
@@ -51,7 +54,8 @@
     0,
     -0.08,
     3.93,
-    0.43
+    0.43,
+    0
   ],
   "medias": [
     1.4,
@@ -63,6 +67,7 @@
     4.1,
     4.27,
     3.93,
+    4.12,
     4.12
   ],
   "partidas": [
@@ -195,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/gremio_60x60.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 13,
+      "clube_casa": "Grêmio",
+      "clube_casa_id": 284,
+      "clube_visitante": "Chapecoense",
+      "clube_casa_abrev": "GRE",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/gremio_60x60.png",
+      "clube_visitante_id": 315,
+      "clube_visitante_abrev": "CHA",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2015/08/03/Escudo-Chape-165.png",
+      "placar_oficial_mandante": 3,
+      "placar_oficial_visitante": 3
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2018/05/21/7d6781295f86c2cbf0d78d936349c8c8_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/gremio_60x60.png",
   "scouts": {
-    "rodada_id": 12,
+    "rodada_id": 13,
     "rb": 5,
     "g": 0,
     "a": 1,
@@ -219,9 +237,9 @@
     "fc": 2,
     "i": 0,
     "pe": 13,
-    "pontos_num": 4.9,
+    "pontos_num": 0,
     "preco_num": 6.34,
-    "variacao_num": 0.43,
+    "variacao_num": 0,
     "media_num": 4.12,
     "jogos_num": 5,
     "posicao_abrev": "lat",

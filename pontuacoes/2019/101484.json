@@ -15,7 +15,8 @@
     9,
     10,
     11,
-    12
+    12,
+    13
   ],
   "pontos": [
     0,
@@ -27,7 +28,8 @@
     0,
     0,
     8.7,
-    0.7
+    0.7,
+    0
   ],
   "precos": [
     4,
@@ -39,6 +41,7 @@
     2.57,
     2.65,
     1.76,
+    3.23,
     3.23
   ],
   "variacoes": [
@@ -51,7 +54,8 @@
     0,
     0.08,
     1.86,
-    -1.18
+    -1.18,
+    0
   ],
   "medias": [
     0,
@@ -63,6 +67,7 @@
     0.2,
     0.15,
     1.86,
+    1.67,
     1.67
   ],
   "partidas": [
@@ -195,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/12/13/escudo65.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 13,
+      "clube_casa": "Athlético-PR",
+      "clube_casa_id": 293,
+      "clube_visitante": "São Paulo",
+      "clube_casa_abrev": "ATL",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/12/13/escudo65.png",
+      "clube_visitante_id": 276,
+      "clube_visitante_abrev": "SAO",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/sao_paulo_60x60.png",
+      "placar_oficial_mandante": null,
+      "placar_oficial_visitante": null
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2019/05/18/9c926f399fb16f3629089771a4b5a9b6_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2018/12/13/escudo65.png",
   "scouts": {
-    "rodada_id": 12,
+    "rodada_id": 13,
     "rb": 2,
     "g": 1,
     "a": 0,
@@ -219,9 +237,9 @@
     "fc": 9,
     "i": 2,
     "pe": 8,
-    "pontos_num": 0.7,
+    "pontos_num": 0,
     "preco_num": 3.23,
-    "variacao_num": -1.18,
+    "variacao_num": 0,
     "media_num": 1.67,
     "jogos_num": 6,
     "posicao_abrev": "mei",

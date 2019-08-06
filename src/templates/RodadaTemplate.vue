@@ -16,7 +16,7 @@
             </b-col>
         </b-row>
         <b-row>
-            <b-col md="10" offset-md="1">
+            <b-col lg="10" offset-lg="1">
                 <b-card no-body border-variant="light" class="shadow-sm">
                     <b-card-body v-for="partida in $page.rodada.partidas"
                         :key="partida.partida_id"
@@ -59,7 +59,7 @@
             </b-col>
         </b-row>
         <b-row>
-            <b-col md="10" offset-md="1">
+            <b-col lg="10" offset-lg="1">
                 <h3 class="my-4">Melhores no quesito...</h3>
                 <b-row>
                     <b-col md="4" class="d-flex align-items-stretch">

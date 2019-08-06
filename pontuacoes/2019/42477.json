@@ -8,27 +8,32 @@
   "rodadas": [
     10,
     11,
-    12
+    12,
+    13
   ],
   "pontos": [
     0,
     0,
-    7
+    7,
+    -0.8
   ],
   "precos": [
     4,
     0,
-    5.17
+    5.17,
+    3.93
   ],
   "variacoes": [
     0,
     0,
-    1.17
+    1.17,
+    -1.24
   ],
   "medias": [
     0,
     0,
-    7
+    7,
+    3.1
   ],
   "partidas": [
     {
@@ -69,12 +74,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/bahia_60x60.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 13,
+      "clube_casa": "Grêmio",
+      "clube_casa_id": 284,
+      "clube_visitante": "Chapecoense",
+      "clube_casa_abrev": "GRE",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/gremio_60x60.png",
+      "clube_visitante_id": 315,
+      "clube_visitante_abrev": "CHA",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2015/08/03/Escudo-Chape-165.png",
+      "placar_oficial_mandante": 3,
+      "placar_oficial_visitante": 3
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2019/07/17/05a9d651cb796c5d2534c1ea1b32a903_140x140.jpeg",
   "escudo_60": "https://s.glbimg.com/es/sde/f/equipes/2015/08/03/Escudo-Chape-165.png",
   "scouts": {
-    "rodada_id": 12,
+    "rodada_id": 13,
     "rb": 1,
     "g": 0,
     "a": 0,
@@ -90,14 +108,14 @@
     "ca": 0,
     "pp": 0,
     "gs": 0,
-    "fc": 0,
+    "fc": 1,
     "i": 0,
-    "pe": 0,
-    "pontos_num": 7,
-    "preco_num": 5.17,
-    "variacao_num": 1.17,
-    "media_num": 7,
-    "jogos_num": 1,
+    "pe": 1,
+    "pontos_num": -0.8,
+    "preco_num": 3.93,
+    "variacao_num": -1.24,
+    "media_num": 3.1,
+    "jogos_num": 2,
     "posicao_abrev": "zag",
     "posicao": "Zagueiro"
   }

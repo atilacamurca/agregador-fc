@@ -13,7 +13,8 @@
     9,
     10,
     11,
-    12
+    12,
+    13
   ],
   "pontos": [
     0,
@@ -23,7 +24,8 @@
     0,
     0,
     9.2,
-    0
+    0,
+    0.8
   ],
   "precos": [
     11,
@@ -33,7 +35,8 @@
     10.57,
     10.57,
     0.22,
-    10.79
+    10.79,
+    9.34
   ],
   "variacoes": [
     0,
@@ -43,7 +46,8 @@
     0,
     0,
     7.1,
-    0
+    0,
+    -1.45
   ],
   "medias": [
     0,
@@ -53,7 +57,8 @@
     5,
     5,
     7.1,
-    7.1
+    7.1,
+    5
   ],
   "partidas": [
     {
@@ -159,19 +164,32 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2016/07/29/Vasco-65.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 13,
+      "clube_casa": "Corinthians",
+      "clube_casa_id": 264,
+      "clube_visitante": "Palmeiras",
+      "clube_casa_abrev": "COR",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/corinthians_60x60.png",
+      "clube_visitante_id": 275,
+      "clube_visitante_abrev": "PAL",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2019/01/14/a90df5771f9066a2c5babe59b575790d_140x140.jpeg",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
   "scouts": {
-    "rodada_id": 12,
-    "rb": 4,
+    "rodada_id": 13,
+    "rb": 5,
     "g": 0,
     "a": 0,
     "sg": 1,
-    "fs": 4,
+    "fs": 5,
     "ff": 1,
-    "fd": 1,
+    "fd": 2,
     "ft": 0,
     "dd": 0,
     "dp": 0,
@@ -180,14 +198,14 @@
     "ca": 0,
     "pp": 0,
     "gs": 0,
-    "fc": 1,
+    "fc": 4,
     "i": 0,
-    "pe": 1,
-    "pontos_num": 0,
-    "preco_num": 10.79,
-    "variacao_num": 0,
-    "media_num": 7.1,
-    "jogos_num": 2,
+    "pe": 4,
+    "pontos_num": 0.8,
+    "preco_num": 9.34,
+    "variacao_num": -1.45,
+    "media_num": 5,
+    "jogos_num": 3,
     "posicao_abrev": "zag",
     "posicao": "Zagueiro"
   }

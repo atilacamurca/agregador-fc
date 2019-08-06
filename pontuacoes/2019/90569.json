@@ -15,7 +15,8 @@
     9,
     10,
     11,
-    12
+    12,
+    13
   ],
   "pontos": [
     0,
@@ -27,7 +28,8 @@
     -1.1,
     0.8,
     2.7,
-    0.9
+    0.9,
+    0
   ],
   "precos": [
     3,
@@ -39,6 +41,7 @@
     1.84,
     2.13,
     0.41,
+    2.28,
     2.28
   ],
   "variacoes": [
@@ -51,7 +54,8 @@
     -0.51,
     0.29,
     0.6,
-    -0.26
+    -0.26,
+    0
   ],
   "medias": [
     0,
@@ -63,6 +67,7 @@
     0.02,
     0.18,
     0.6,
+    0.64,
     0.64
   ],
   "partidas": [
@@ -195,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/sao_paulo_60x60.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 13,
+      "clube_casa": "Fluminense",
+      "clube_casa_id": 266,
+      "clube_visitante": "Internacional",
+      "clube_casa_abrev": "FLU",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/equipes/2015/07/21/fluminense_60x60.png",
+      "clube_visitante_id": 285,
+      "clube_visitante_abrev": "INT",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2016/05/03/inter65.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 1
     }
   ],
-  "foto": "https://s.glbimg.com/es/sde/f/2019/05/08/61da0aba54dc5264e04da63e8e98e78d_140x140.png",
+  "foto": "https://s.glbimg.com/es/sde/f/2019/08/06/16f2189da0bf99090e0ae2773d4076eb_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/equipes/2015/07/21/fluminense_60x60.png",
   "scouts": {
-    "rodada_id": 12,
+    "rodada_id": 13,
     "rb": 9,
     "g": 0,
     "a": 0,
@@ -219,9 +237,9 @@
     "fc": 13,
     "i": 0,
     "pe": 11,
-    "pontos_num": 0.9,
+    "pontos_num": 0,
     "preco_num": 2.28,
-    "variacao_num": -0.26,
+    "variacao_num": 0,
     "media_num": 0.64,
     "jogos_num": 7,
     "posicao_abrev": "mei",

@@ -15,7 +15,8 @@
     9,
     10,
     11,
-    12
+    12,
+    13
   ],
   "pontos": [
     -0.9,
@@ -27,7 +28,8 @@
     2.2,
     -0.6,
     0,
-    0
+    0,
+    1.5
   ],
   "precos": [
     3.8,
@@ -39,7 +41,8 @@
     5.64,
     5.14,
     0.01,
-    5.15
+    5.15,
+    5.28
   ],
   "variacoes": [
     -0.94,
@@ -51,7 +54,8 @@
     -0.44,
     -0.5,
     2.17,
-    0
+    0,
+    0.13
   ],
   "medias": [
     1.33,
@@ -63,7 +67,8 @@
     2.72,
     2.39,
     2.17,
-    2.17
+    2.17,
+    2.11
   ],
   "partidas": [
     {
@@ -195,13 +200,26 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2018/05/11/ceara-65x65.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 13,
+      "clube_casa": "Ceará",
+      "clube_casa_id": 354,
+      "clube_visitante": "Fortaleza",
+      "clube_casa_abrev": "CEA",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/equipes/2018/05/11/ceara-65x65.png",
+      "clube_visitante_id": 356,
+      "clube_visitante_abrev": "FOR",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/06/10/fortaleza-ec-65px.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2019/03/28/2036fe932766e953f14ef5fc5ed37a53_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/equipes/2018/05/11/ceara-65x65.png",
   "scouts": {
-    "rodada_id": 12,
-    "rb": 19,
+    "rodada_id": 13,
+    "rb": 20,
     "g": 0,
     "a": 0,
     "sg": 0,
@@ -219,11 +237,11 @@
     "fc": 14,
     "i": 1,
     "pe": 22,
-    "pontos_num": 0,
-    "preco_num": 5.15,
-    "variacao_num": 0,
-    "media_num": 2.17,
-    "jogos_num": 11,
+    "pontos_num": 1.5,
+    "preco_num": 5.28,
+    "variacao_num": 0.13,
+    "media_num": 2.11,
+    "jogos_num": 12,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }

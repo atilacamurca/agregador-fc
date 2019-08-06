@@ -15,7 +15,8 @@
     9,
     10,
     11,
-    12
+    12,
+    13
   ],
   "pontos": [
     1,
@@ -27,7 +28,8 @@
     3.5,
     -0.1,
     -0.8,
-    -0.3
+    -0.3,
+    -1.8
   ],
   "precos": [
     5.42,
@@ -39,7 +41,8 @@
     6.39,
     5.81,
     -0.25,
-    5.46
+    5.46,
+    5.09
   ],
   "variacoes": [
     -1.58,
@@ -51,7 +54,8 @@
     0.4,
     -0.58,
     1.86,
-    -0.1
+    -0.1,
+    -0.37
   ],
   "medias": [
     1,
@@ -63,7 +67,8 @@
     2.63,
     2.24,
     1.86,
-    1.62
+    1.62,
+    1.28
   ],
   "partidas": [
     {
@@ -195,35 +200,48 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2017/11/23/Atletico-Mineiro-escudo65px.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 13,
+      "clube_casa": "Santos",
+      "clube_casa_id": 277,
+      "clube_visitante": "Goiás",
+      "clube_casa_abrev": "SAN",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/santos_60x60.png",
+      "clube_visitante_id": 290,
+      "clube_visitante_abrev": "GOI",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/05/01/Goias_65px.png",
+      "placar_oficial_mandante": 6,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2019/03/26/b8ec528564308c15c0bb71bc4f8a95ab_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2019/05/01/Goias_65px.png",
   "scouts": {
-    "rodada_id": 12,
+    "rodada_id": 13,
     "rb": 3,
     "g": 1,
     "a": 0,
     "sg": 0,
-    "fs": 5,
-    "ff": 1,
+    "fs": 6,
+    "ff": 2,
     "fd": 0,
     "ft": 1,
     "dd": 0,
     "dp": 0,
     "gc": 0,
     "cv": 0,
-    "ca": 0,
+    "ca": 1,
     "pp": 0,
     "gs": 0,
-    "fc": 3,
+    "fc": 4,
     "i": 0,
-    "pe": 9,
-    "pontos_num": -0.3,
-    "preco_num": 5.46,
-    "variacao_num": -0.1,
-    "media_num": 1.62,
-    "jogos_num": 9,
+    "pe": 11,
+    "pontos_num": -1.8,
+    "preco_num": 5.09,
+    "variacao_num": -0.37,
+    "media_num": 1.28,
+    "jogos_num": 10,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }

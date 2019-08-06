@@ -81,8 +81,8 @@ export default {
 
 <style scoped>
 .badge-preco {
-    top: 0px;
-    left: 15px;
+    top: .75rem;
+    left: 1.5rem;
     position: absolute;
     display: block;
     z-index: 10;
@@ -93,22 +93,10 @@ export default {
     border-radius: 4px;
     min-width: 48px;
 }
-@media (min-width: 576px) {
-    .badge-preco {
-        top: 5px;
-        left: 15px;
-    }
-}
-@media (min-width: 768px) {
-    .badge-preco {
-        top: 5px;
-        left: 15px;
-    }
-}
 @media (min-width: 992px) {
     .badge-preco {
-        top: 10px;
-        left: 35px;
+        top: .75rem;
+        left: 1.75rem;
     }
 }
 </style>

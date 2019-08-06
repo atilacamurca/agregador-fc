@@ -15,7 +15,8 @@
     9,
     10,
     11,
-    12
+    12,
+    13
   ],
   "pontos": [
     1.1,
@@ -27,7 +28,8 @@
     2.4,
     6.5,
     -0.8,
-    1
+    1,
+    -1.2
   ],
   "precos": [
     2.22,
@@ -39,7 +41,8 @@
     2.73,
     3.75,
     -1.12,
-    2.88
+    2.88,
+    2.47
   ],
   "variacoes": [
     0.08,
@@ -51,7 +54,8 @@
     0.36,
     1.02,
     1.27,
-    0.25
+    0.25,
+    -0.41
   ],
   "medias": [
     0.17,
@@ -63,7 +67,8 @@
     0.92,
     1.48,
     1.27,
-    1.25
+    1.25,
+    1.06
   ],
   "partidas": [
     {
@@ -195,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/corinthians_60x60.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 3
+    },
+    {
+      "rodada_id": 13,
+      "clube_casa": "Ceará",
+      "clube_casa_id": 354,
+      "clube_visitante": "Fortaleza",
+      "clube_casa_abrev": "CEA",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/equipes/2018/05/11/ceara-65x65.png",
+      "clube_visitante_id": 356,
+      "clube_visitante_abrev": "FOR",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/06/10/fortaleza-ec-65px.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2019/03/22/df21f8c767acbe98de2f1a88be61c8e8_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2018/06/10/fortaleza-ec-65px.png",
   "scouts": {
-    "rodada_id": 12,
+    "rodada_id": 13,
     "rb": 9,
     "g": 0,
     "a": 0,
@@ -218,12 +236,12 @@
     "gs": 0,
     "fc": 4,
     "i": 0,
-    "pe": 15,
-    "pontos_num": 1,
-    "preco_num": 2.88,
-    "variacao_num": 0.25,
-    "media_num": 1.25,
-    "jogos_num": 12,
+    "pe": 19,
+    "pontos_num": -1.2,
+    "preco_num": 2.47,
+    "variacao_num": -0.41,
+    "media_num": 1.06,
+    "jogos_num": 13,
     "posicao_abrev": "zag",
     "posicao": "Zagueiro"
   }

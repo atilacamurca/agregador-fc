@@ -15,7 +15,8 @@
     9,
     10,
     11,
-    12
+    12,
+    13
   ],
   "pontos": [
     0,
@@ -27,7 +28,8 @@
     1,
     0,
     1.4,
-    1.5
+    1.5,
+    10
   ],
   "precos": [
     9.96,
@@ -39,7 +41,8 @@
     8.23,
     8.23,
     -0.08,
-    8.04
+    8.04,
+    9.75
   ],
   "variacoes": [
     0,
@@ -51,7 +54,8 @@
     0.12,
     0,
     1.61,
-    -0.11
+    -0.11,
+    1.71
   ],
   "medias": [
     1.9,
@@ -63,7 +67,8 @@
     1.65,
     1.65,
     1.61,
-    1.6
+    1.6,
+    2.53
   ],
   "partidas": [
     {
@@ -195,19 +200,32 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/gremio_60x60.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 13,
+      "clube_casa": "Grêmio",
+      "clube_casa_id": 284,
+      "clube_visitante": "Chapecoense",
+      "clube_casa_abrev": "GRE",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/gremio_60x60.png",
+      "clube_visitante_id": 315,
+      "clube_visitante_abrev": "CHA",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2015/08/03/Escudo-Chape-165.png",
+      "placar_oficial_mandante": 3,
+      "placar_oficial_visitante": 3
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2019/06/20/b08c001d25a758214f1ef1618a1818fb_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/gremio_60x60.png",
   "scouts": {
-    "rodada_id": 12,
+    "rodada_id": 13,
     "rb": 6,
-    "g": 0,
+    "g": 1,
     "a": 0,
     "sg": 0,
-    "fs": 7,
-    "ff": 2,
-    "fd": 7,
+    "fs": 8,
+    "ff": 3,
+    "fd": 8,
     "ft": 0,
     "dd": 0,
     "dp": 0,
@@ -217,13 +235,13 @@
     "pp": 0,
     "gs": 0,
     "fc": 3,
-    "i": 2,
+    "i": 3,
     "pe": 24,
-    "pontos_num": 1.5,
-    "preco_num": 8.04,
-    "variacao_num": -0.11,
-    "media_num": 1.6,
-    "jogos_num": 8,
+    "pontos_num": 10,
+    "preco_num": 9.75,
+    "variacao_num": 1.71,
+    "media_num": 2.53,
+    "jogos_num": 9,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }

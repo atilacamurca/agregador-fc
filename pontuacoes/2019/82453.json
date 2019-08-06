@@ -15,7 +15,8 @@
     9,
     10,
     11,
-    12
+    12,
+    13
   ],
   "pontos": [
     5.5,
@@ -27,7 +28,8 @@
     6.4,
     9,
     16.7,
-    5
+    5,
+    -9
   ],
   "precos": [
     12.29,
@@ -39,7 +41,8 @@
     13.55,
     14.42,
     2.02,
-    14.71
+    14.71,
+    12.08
   ],
   "variacoes": [
     0.93,
@@ -51,7 +54,8 @@
     0.86,
     0.87,
     7.08,
-    -1.73
+    -1.73,
+    -2.63
   ],
   "medias": [
     5.37,
@@ -63,7 +67,8 @@
     5.64,
     6.01,
     7.08,
-    6.89
+    6.89,
+    5.57
   ],
   "partidas": [
     {
@@ -195,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2017/11/23/Atletico-Mineiro-escudo65px.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 13,
+      "clube_casa": "Santos",
+      "clube_casa_id": 277,
+      "clube_visitante": "Goiás",
+      "clube_casa_abrev": "SAN",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/santos_60x60.png",
+      "clube_visitante_id": 290,
+      "clube_visitante_abrev": "GOI",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/05/01/Goias_65px.png",
+      "placar_oficial_mandante": 6,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2019/04/04/2c3f9d22de0dfd11ee1e9331d5fd85d9_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2019/05/01/Goias_65px.png",
   "scouts": {
-    "rodada_id": 12,
+    "rodada_id": 13,
     "rb": 0,
     "g": 0,
     "a": 0,
@@ -209,21 +227,21 @@
     "ff": 0,
     "fd": 0,
     "ft": 0,
-    "dd": 26,
+    "dd": 27,
     "dp": 1,
     "gc": 0,
     "cv": 0,
     "ca": 0,
     "pp": 0,
-    "gs": 14,
+    "gs": 20,
     "fc": 0,
     "i": 0,
     "pe": 9,
-    "pontos_num": 5,
-    "preco_num": 14.71,
-    "variacao_num": -1.73,
-    "media_num": 6.89,
-    "jogos_num": 11,
+    "pontos_num": -9,
+    "preco_num": 12.08,
+    "variacao_num": -2.63,
+    "media_num": 5.57,
+    "jogos_num": 12,
     "posicao_abrev": "gol",
     "posicao": "Goleiro"
   }

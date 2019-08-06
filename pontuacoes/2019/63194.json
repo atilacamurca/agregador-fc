@@ -15,7 +15,8 @@
     9,
     10,
     11,
-    12
+    12,
+    13
   ],
   "pontos": [
     4.9,
@@ -27,7 +28,8 @@
     10.1,
     12.1,
     8.1,
-    1.1
+    1.1,
+    -4.8
   ],
   "precos": [
     5.06,
@@ -39,7 +41,8 @@
     6.82,
     7.95,
     -0.1,
-    6.75
+    6.75,
+    5.58
   ],
   "variacoes": [
     0.89,
@@ -51,7 +54,8 @@
     1.82,
     1.13,
     4.61,
-    -1.1
+    -1.1,
+    -1.17
   ],
   "medias": [
     2.63,
@@ -63,7 +67,8 @@
     3.24,
     4.22,
     4.61,
-    4.29
+    4.29,
+    3.53
   ],
   "partidas": [
     {
@@ -195,35 +200,48 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/corinthians_60x60.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 3
+    },
+    {
+      "rodada_id": 13,
+      "clube_casa": "Ceará",
+      "clube_casa_id": 354,
+      "clube_visitante": "Fortaleza",
+      "clube_casa_abrev": "CEA",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/equipes/2018/05/11/ceara-65x65.png",
+      "clube_visitante_id": 356,
+      "clube_visitante_abrev": "FOR",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/06/10/fortaleza-ec-65px.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2019/03/22/7da6584b8edbee8649acb25931c97e1e_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2018/06/10/fortaleza-ec-65px.png",
   "scouts": {
-    "rodada_id": 12,
-    "rb": 25,
+    "rodada_id": 13,
+    "rb": 26,
     "g": 1,
     "a": 1,
     "sg": 1,
     "fs": 9,
     "ff": 6,
-    "fd": 2,
+    "fd": 3,
     "ft": 0,
     "dd": 0,
     "dp": 0,
     "gc": 0,
-    "cv": 0,
+    "cv": 1,
     "ca": 2,
     "pp": 0,
     "gs": 0,
-    "fc": 17,
-    "i": 0,
+    "fc": 21,
+    "i": 1,
     "pe": 25,
-    "pontos_num": 1.1,
-    "preco_num": 6.75,
-    "variacao_num": -1.1,
-    "media_num": 4.29,
-    "jogos_num": 11,
+    "pontos_num": -4.8,
+    "preco_num": 5.58,
+    "variacao_num": -1.17,
+    "media_num": 3.53,
+    "jogos_num": 12,
     "posicao_abrev": "lat",
     "posicao": "Lateral"
   }

@@ -23,11 +23,16 @@ const UPSERT_PARTIDAS_RODADA = `
     url_confronto=EXCLUDED.url_confronto, url_transmissao=EXCLUDED.url_transmissao
 `
 
+const UPDATE_CLUBES = `
+    UPDATE clubes SET posicao = $1 WHERE id = $2
+`
+
 async function save(data) {
     try {
         await client.query('BEGIN')
         const rodada_id = data.rodada
         const batch = []
+        const batchClubes = []
         for (let id = 0; id < data.partidas.length; id++) {
             const partida = data.partidas[id];
             batch.push(client.query(UPSERT_PARTIDAS_RODADA, [
@@ -48,8 +53,19 @@ async function save(data) {
                 partida.url_confronto,
                 partida.url_transmissao
             ]))
+
+            batchClubes.push(client.query(UPDATE_CLUBES, [
+                partida.clube_casa_posicao,
+                partida.clube_casa_id
+            ]))
+
+            batchClubes.push(client.query(UPDATE_CLUBES, [
+                partida.clube_visitante_posicao,
+                partida.clube_visitante_id
+            ]))
         }
         Promise.all(batch)
+        Promise.all(batchClubes)
 
         await client.query('COMMIT')
         return client.end()

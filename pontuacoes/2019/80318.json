@@ -15,7 +15,8 @@
     9,
     10,
     11,
-    12
+    12,
+    13
   ],
   "pontos": [
     0,
@@ -27,7 +28,8 @@
     0,
     -0.8,
     1.1,
-    0.4
+    0.4,
+    0
   ],
   "precos": [
     4,
@@ -39,6 +41,7 @@
     4.11,
     3.19,
     0.28,
+    3.3,
     3.3
   ],
   "variacoes": [
@@ -51,7 +54,8 @@
     0,
     -0.92,
     1.57,
-    -0.17
+    -0.17,
+    0
   ],
   "medias": [
     0,
@@ -63,6 +67,7 @@
     4.4,
     1.8,
     1.57,
+    1.28,
     1.28
   ],
   "partidas": [
@@ -195,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/bahia_60x60.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 13,
+      "clube_casa": "Bahia",
+      "clube_casa_id": 265,
+      "clube_visitante": "Flamengo",
+      "clube_casa_abrev": "BAH",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/bahia_60x60.png",
+      "clube_visitante_id": 262,
+      "clube_visitante_abrev": "FLA",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2018/04/09/Flamengo-65.png",
+      "placar_oficial_mandante": 3,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2019/05/07/9db851eba6d52f43af59baaf6fc0aa8e_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/bahia_60x60.png",
   "scouts": {
-    "rodada_id": 12,
+    "rodada_id": 13,
     "rb": 1,
     "g": 0,
     "a": 0,
@@ -219,9 +237,9 @@
     "fc": 11,
     "i": 1,
     "pe": 8,
-    "pontos_num": 0.4,
+    "pontos_num": 0,
     "preco_num": 3.3,
-    "variacao_num": -0.17,
+    "variacao_num": 0,
     "media_num": 1.28,
     "jogos_num": 4,
     "posicao_abrev": "lat",

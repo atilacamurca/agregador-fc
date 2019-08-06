@@ -47,7 +47,7 @@ module.exports = {
         path: 'clubes/**/*.json',
         typeName: 'ClubesTemplate',
       }
-    },
+    }/*,
     {
       use: '@gridsome/plugin-critical',
       options: {
@@ -55,7 +55,7 @@ module.exports = {
         width: 1300,
         height: 900
       }
-    }
+    }*/
   ],
   chainWebpack: config => {
     config

@@ -7,7 +7,7 @@ const UPSERT_POSICOES = 'INSERT INTO public.posicoes (id, nome, abreviacao) VALU
 const UPSERT_CLUBES = `INSERT INTO public.clubes (id, nome, nome_fantasia,
     abreviacao, posicao, escudo_60) VALUES ($1, $2, $3, $4, $5, $6)
     ON CONFLICT ON CONSTRAINT clubes_pkey DO
-    UPDATE SET posicao=EXCLUDED.posicao, escudo_60=EXCLUDED.escudo_60`
+    UPDATE SET escudo_60=EXCLUDED.escudo_60`
 const UPSERT_ATLETAS = `INSERT INTO public.atletas(id, nome, slug, apelido, foto, clube_id, posicao_id)
     VALUES ($1, $2, $3, $4, $5, $6, $7)
     ON CONFLICT (id) DO UPDATE SET nome=EXCLUDED.nome, slug=EXCLUDED.slug,
@@ -59,10 +59,6 @@ async function fetch() {
 async function save(data) {
     try {
         await client.query('BEGIN')
-        // atletas
-        // clubes
-        // posicoes
-        // status
         const { status, posicoes, clubes, atletas } = data
         const batchStatus = []
         for (id in status) {

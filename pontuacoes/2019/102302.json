@@ -15,7 +15,8 @@
     9,
     10,
     11,
-    12
+    12,
+    13
   ],
   "pontos": [
     0,
@@ -27,7 +28,8 @@
     0,
     1.2,
     0,
-    -0.3
+    -0.3,
+    0
   ],
   "precos": [
     1.45,
@@ -39,7 +41,8 @@
     1.45,
     1.45,
     0,
-    1.18
+    1.18,
+    1.21
   ],
   "variacoes": [
     -0.55,
@@ -51,7 +54,8 @@
     0,
     0,
     0.6,
-    -0.27
+    -0.27,
+    0.03
   ],
   "medias": [
     0,
@@ -63,7 +67,8 @@
     0,
     0.6,
     0.6,
-    0.3
+    0.3,
+    0.22
   ],
   "partidas": [
     {
@@ -195,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2017/11/23/Atletico-Mineiro-escudo65px.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 13,
+      "clube_casa": "Atlético-MG",
+      "clube_casa_id": 282,
+      "clube_visitante": "Cruzeiro",
+      "clube_casa_abrev": "ATL",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/equipes/2017/11/23/Atletico-Mineiro-escudo65px.png",
+      "clube_visitante_id": 283,
+      "clube_visitante_abrev": "CRU",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2015/04/29/cruzeiro_65.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2019/03/29/6cce9b5a37d0722657f590f8d01229f4_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/equipes/2017/11/23/Atletico-Mineiro-escudo65px.png",
   "scouts": {
-    "rodada_id": 12,
+    "rodada_id": 13,
     "rb": 1,
     "g": 0,
     "a": 0,
@@ -219,11 +237,11 @@
     "fc": 2,
     "i": 0,
     "pe": 2,
-    "pontos_num": -0.3,
-    "preco_num": 1.18,
-    "variacao_num": -0.27,
-    "media_num": 0.3,
-    "jogos_num": 3,
+    "pontos_num": 0,
+    "preco_num": 1.21,
+    "variacao_num": 0.03,
+    "media_num": 0.22,
+    "jogos_num": 4,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }
