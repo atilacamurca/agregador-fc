@@ -45,7 +45,7 @@ import SumarioClubes from '~/components/SumarioClubes'
 import SumarioPartida from '~/components/SumarioPartida'
 import RowSumarioGols from '~/components/RowSumarioGols'
 
-import BootstrapVue from 'bootstrap-vue'
+import Plugins from './plugins'
 import TwitterButton from "@/components/social-media/TwitterButton";
 import FacebookButton from "@/components/social-media/FacebookButton";
 import distanceInWords from 'date-fns/distance_in_words'
@@ -99,6 +99,7 @@ export default function (Vue, { router, head, isClient }) {
         content: 'pt_BR'
     })
 
+    Vue.use(Plugins)
     // Set default layout as a global component
     Vue.component('Layout', DefaultLayout)
     Vue.component('twitter-button', TwitterButton)
@@ -165,7 +166,6 @@ export default function (Vue, { router, head, isClient }) {
     Vue.component('sumario-partida', SumarioPartida)
     Vue.component('row-sumario-gols', RowSumarioGols)
 
-    Vue.use(BootstrapVue)
     Vue.filter('fromNow', (value) => {
         if (!value) return ''
         value = value.toString()

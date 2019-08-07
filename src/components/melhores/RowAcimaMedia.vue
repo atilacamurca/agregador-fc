@@ -15,19 +15,21 @@
                         <b-card-text class="text-dark py-1">
                             <div class="d-flex flex-columns justify-content-around">
                                 <div>
-                                    <b-img-lazy width="24px"
+                                    <g-image width="24px"
                                         :src="atleta.partida.clube_casa_escudo"
                                         :alt="atleta.partida.clube_casa"
                                         :title="atleta.partida.clube_casa"
-                                    ></b-img-lazy>
+                                        style="width: 24px; height: 24px;"
+                                    ></g-image>
                                 </div>
                                 <div class="">X</div>
                                 <div>
-                                    <b-img-lazy width="24px"
+                                    <g-image width="24px"
                                         :src="atleta.partida.clube_visitante_escudo"
                                         :alt="atleta.partida.clube_visitante"
                                         :title="atleta.partida.clube_visitante"
-                                    ></b-img-lazy>
+                                        style="width: 24px; height: 24px;"
+                                    ></g-image>
                                 </div>
                             </div>
                         </b-card-text>

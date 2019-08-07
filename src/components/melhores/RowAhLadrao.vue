@@ -2,18 +2,17 @@
     <b-row>
         <b-col cols="6" md="2">
             <div class="d-flex flex-row justify-content-between align-items-center">
-                <b-img-lazy
+                <g-image
                     :src="props.escudo"
                     width="40"
                     height="40"
-                    blank-width="40px"
-                    blank-height="40px"
                     :alt="props.clube"
-                ></b-img-lazy>
+                    style="width: 40px; height: 40px;"
+                ></g-image>
                 <g-link :to="props.urlPontuacao">
                     <g-image :src="props.foto" width="64"
                         :alt="props.apelido"
-                        class="img-thumbnail rounded-circle w-64 h-64"
+                        class="img-thumbnail rounded-circle"
                         style="width: 64px; height: 64px;"
                     ></g-image>
                 </g-link>

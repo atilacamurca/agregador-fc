@@ -3,23 +3,20 @@
         <b-row>
             <b-col cols="4" sm="3" lg="2">
                 <div class="d-md-flex justify-content-md-end">
-                    <b-img-lazy :src="pontuacao.foto" width="96"
-                        blank-width="96"
-                        blank-height="96"
-                        thumbnail
-                        rounded="circle"
+                    <g-image :src="pontuacao.foto" width="96"
+                        class="img-thumbnail rounded-circle"
                         :alt="pontuacao.apelido"
-                    ></b-img-lazy>
+                        style="width: 96px; height: 96px"
+                    ></g-image>
                 </div>
-                <b-img-lazy
+                <g-image
                     :src="pontuacao.escudo_60"
                     width="32px"
                     height="32px"
-                    blank-width="32px"
-                    blank-height="32px"
                     :alt="pontuacao.clube"
                     class="atleta-escudo"
-                ></b-img-lazy>
+                        style="width: 32px; height: 32px"
+                ></g-image>
             </b-col>
             <b-col cols="8" sm="4" lg="3">
                 <h4>{{ pontuacao.apelido }}</h4>
@@ -67,11 +64,12 @@
                             <div class="d-flex flex-columns justify-content-around">
                                 <div>Rod. {{ item.rodada_id }}</div>
                                 <div>
-                                    <b-img-lazy width="24px"
+                                    <g-image width="24px"
                                         :src="item.clube_casa_escudo"
                                         :alt="item.clube_casa_abrev"
                                         :title="item.clube_casa_abrev"
-                                    ></b-img-lazy>
+                                        style="width: 24px; height: 24px"
+                                    ></g-image>
                                 </div>
                                 <div class="">
                                     {{ item.placar_oficial_mandante }}
@@ -79,11 +77,12 @@
                                     {{ item.placar_oficial_visitante }}
                                 </div>
                                 <div>
-                                    <b-img-lazy width="24px"
+                                    <g-image width="24px"
                                         :src="item.clube_visitante_escudo"
                                         :alt="item.clube_visitante_abrev"
                                         :title="item.clube_visitante_abrev"
-                                    ></b-img-lazy>
+                                        style="width: 24px; height: 24px"
+                                    ></g-image>
                                 </div>
                             </div>
                         </b-list-group-item>
