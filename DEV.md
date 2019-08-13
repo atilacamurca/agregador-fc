@@ -125,3 +125,6 @@ create table partidas_rodada (
 - <http://prettyminimal.com/flexbox/>
 - <https://alligator.io/css/collapsible/>
 - <https://www.npmjs.com/package/csvtojson>
+- <https://github.com/RobinCK/vue-ls>
+- <https://universidadedocartola.com.br/como-ganhar-cartoletas-cartola-fc/>
+- <https://github.com/joaoabcoelho/ModeloCartoletas>

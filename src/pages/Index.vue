@@ -1,5 +1,10 @@
 <template>
-    <Layout>
+    <HeroLayout>
+        <b-row slot="hero" class="mt-4">
+            <b-col lg="8" offset-lg="2">
+                <b-card></b-card>
+            </b-col>
+        </b-row>
         <b-row class="mt-2">
             <b-col md="6" offset-md="3">
                 <b-card no-body>
@@ -22,7 +27,7 @@
                 </b-card>
             </b-col>
         </b-row>
-    </Layout>
+    </HeroLayout>
 </template>
 
 <page-query>
