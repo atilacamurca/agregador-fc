@@ -6,7 +6,6 @@
   "clube_id": 282,
   "posicao": "Goleiro",
   "rodadas": [
-    3,
     4,
     5,
     6,
@@ -16,10 +15,10 @@
     10,
     11,
     12,
-    13
+    13,
+    14
   ],
   "pontos": [
-    0,
     0,
     0,
     0,
@@ -29,10 +28,10 @@
     1,
     -1.3,
     5,
-    8
+    8,
+    0.7
   ],
   "precos": [
-    2,
     2,
     2,
     2,
@@ -42,10 +41,10 @@
     1.73,
     -0.44,
     2.45,
-    3.33
+    3.33,
+    2.3
   ],
   "variacoes": [
-    0,
     0,
     0,
     0,
@@ -55,10 +54,10 @@
     -0.27,
     -0.15,
     1.16,
-    0.88
+    0.88,
+    -1.03
   ],
   "medias": [
-    0,
     0,
     0,
     0,
@@ -68,22 +67,10 @@
     1,
     -0.15,
     1.57,
-    3.18
+    3.18,
+    2.68
   ],
   "partidas": [
-    {
-      "rodada_id": 3,
-      "clube_casa": "Ceará",
-      "clube_casa_id": 354,
-      "clube_visitante": "Atlético-MG",
-      "clube_casa_abrev": "CEA",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/equipes/2018/05/11/ceara-65x65.png",
-      "clube_visitante_id": 282,
-      "clube_visitante_abrev": "ATL",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2017/11/23/Atletico-Mineiro-escudo65px.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 2
-    },
     {
       "rodada_id": 4,
       "clube_casa": "Atlético-MG",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2015/04/29/cruzeiro_65.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 14,
+      "clube_casa": "Atlético-MG",
+      "clube_casa_id": 282,
+      "clube_visitante": "Fluminense",
+      "clube_casa_abrev": "ATL",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/equipes/2017/11/23/Atletico-Mineiro-escudo65px.png",
+      "clube_visitante_id": 266,
+      "clube_visitante_abrev": "FLU",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2015/07/21/fluminense_60x60.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2018/05/07/8a0462ed1a379da917d8f4b4fa8cc04a_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/equipes/2017/11/23/Atletico-Mineiro-escudo65px.png",
   "scouts": {
-    "rodada_id": 13,
+    "rodada_id": 14,
     "rb": 0,
     "g": 0,
     "a": 0,
@@ -227,21 +227,21 @@
     "ff": 0,
     "fd": 0,
     "ft": 0,
-    "dd": 3,
+    "dd": 4,
     "dp": 0,
     "gc": 0,
     "cv": 0,
     "ca": 0,
     "pp": 0,
-    "gs": 3,
+    "gs": 4,
     "fc": 0,
     "i": 0,
-    "pe": 1,
-    "pontos_num": 8,
-    "preco_num": 3.33,
-    "variacao_num": 0.88,
-    "media_num": 3.18,
-    "jogos_num": 4,
+    "pe": 2,
+    "pontos_num": 0.7,
+    "preco_num": 2.3,
+    "variacao_num": -1.03,
+    "media_num": 2.68,
+    "jogos_num": 5,
     "posicao_abrev": "gol",
     "posicao": "Goleiro"
   }

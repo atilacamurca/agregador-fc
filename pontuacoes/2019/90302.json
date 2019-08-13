@@ -6,7 +6,6 @@
   "clube_id": 283,
   "posicao": "Atacante",
   "rodadas": [
-    3,
     4,
     5,
     6,
@@ -16,10 +15,10 @@
     10,
     11,
     12,
-    13
+    13,
+    14
   ],
   "pontos": [
-    5.9,
     0.3,
     3.3,
     0.1,
@@ -29,10 +28,10 @@
     -0.1,
     0,
     0,
-    1.8
+    1.8,
+    9.7
   ],
   "precos": [
-    12.87,
     11.56,
     11.79,
     11.16,
@@ -42,10 +41,10 @@
     10.35,
     0,
     10.35,
-    10.22
+    10.22,
+    11.82
   ],
   "variacoes": [
-    0.31,
     -1.31,
     0.23,
     -0.63,
@@ -55,10 +54,10 @@
     -0.62,
     2.99,
     0,
-    -0.13
+    -0.13,
+    1.6
   ],
   "medias": [
-    7.5,
     5.1,
     4.65,
     3.74,
@@ -68,22 +67,10 @@
     2.99,
     2.99,
     2.99,
-    2.86
+    2.86,
+    3.54
   ],
   "partidas": [
-    {
-      "rodada_id": 3,
-      "clube_casa": "Cruzeiro",
-      "clube_casa_id": 283,
-      "clube_visitante": "Goiás",
-      "clube_casa_abrev": "CRU",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/equipes/2015/04/29/cruzeiro_65.png",
-      "clube_visitante_id": 290,
-      "clube_visitante_abrev": "GOI",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/05/01/Goias_65px.png",
-      "placar_oficial_mandante": 2,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 4,
       "clube_casa": "Internacional",
@@ -213,19 +200,32 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2015/04/29/cruzeiro_65.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 14,
+      "clube_casa": "Avaí",
+      "clube_casa_id": 314,
+      "clube_visitante": "Cruzeiro",
+      "clube_casa_abrev": "AVA",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/09/04/escudo-avai-65x65.png",
+      "clube_visitante_id": 283,
+      "clube_visitante_abrev": "CRU",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2015/04/29/cruzeiro_65.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 2
     }
   ],
-  "foto": "https://s.glbimg.com/es/sde/f/2019/06/20/c63d135b627f95a3b3002b8eccaf04f5_140x140.png",
+  "foto": "https://s.glbimg.com/es/sde/f/2019/08/10/ee42a8e4d56c93201de03d1c37091827_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/equipes/2015/04/29/cruzeiro_65.png",
   "scouts": {
-    "rodada_id": 13,
-    "rb": 7,
-    "g": 1,
+    "rodada_id": 14,
+    "rb": 8,
+    "g": 2,
     "a": 2,
     "sg": 0,
-    "fs": 13,
+    "fs": 15,
     "ff": 3,
-    "fd": 3,
+    "fd": 4,
     "ft": 0,
     "dd": 0,
     "dp": 0,
@@ -234,14 +234,14 @@
     "ca": 1,
     "pp": 0,
     "gs": 0,
-    "fc": 7,
+    "fc": 8,
     "i": 1,
-    "pe": 31,
-    "pontos_num": 1.8,
-    "preco_num": 10.22,
-    "variacao_num": -0.13,
-    "media_num": 2.86,
-    "jogos_num": 9,
+    "pe": 36,
+    "pontos_num": 9.7,
+    "preco_num": 11.82,
+    "variacao_num": 1.6,
+    "media_num": 3.54,
+    "jogos_num": 10,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }

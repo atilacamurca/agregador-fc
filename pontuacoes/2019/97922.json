@@ -6,7 +6,6 @@
   "clube_id": 282,
   "posicao": "Técnico",
   "rodadas": [
-    3,
     4,
     5,
     6,
@@ -16,10 +15,10 @@
     10,
     11,
     12,
-    13
+    13,
+    14
   ],
   "pontos": [
-    5.42,
     1.78,
     3.46,
     2.48,
@@ -29,10 +28,10 @@
     3.95,
     2.24,
     3.55,
-    6
+    6,
+    4.53
   ],
   "precos": [
-    10.24,
     9.63,
     9.87,
     9.87,
@@ -42,10 +41,10 @@
     10.88,
     -0.25,
     10.76,
-    11.37
+    11.37,
+    11.34
   ],
   "variacoes": [
-    0.6,
     -0.61,
     0.24,
     0,
@@ -55,10 +54,10 @@
     -0.01,
     4.17,
     0.13,
-    0.61
+    0.61,
+    -0.03
   ],
   "medias": [
-    4.97,
     4.17,
     4.03,
     3.77,
@@ -68,22 +67,10 @@
     4.36,
     4.17,
     4.12,
-    4.26
+    4.26,
+    4.28
   ],
   "partidas": [
-    {
-      "rodada_id": 3,
-      "clube_casa": "Ceará",
-      "clube_casa_id": 354,
-      "clube_visitante": "Atlético-MG",
-      "clube_casa_abrev": "CEA",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/equipes/2018/05/11/ceara-65x65.png",
-      "clube_visitante_id": 282,
-      "clube_visitante_abrev": "ATL",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2017/11/23/Atletico-Mineiro-escudo65px.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 2
-    },
     {
       "rodada_id": 4,
       "clube_casa": "Atlético-MG",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2015/04/29/cruzeiro_65.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 14,
+      "clube_casa": "Atlético-MG",
+      "clube_casa_id": 282,
+      "clube_visitante": "Fluminense",
+      "clube_casa_abrev": "ATL",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/equipes/2017/11/23/Atletico-Mineiro-escudo65px.png",
+      "clube_visitante_id": 266,
+      "clube_visitante_abrev": "FLU",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2015/07/21/fluminense_60x60.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2019/04/11/5607c63c174a35d72ef59210e61712a6_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/equipes/2017/11/23/Atletico-Mineiro-escudo65px.png",
   "scouts": {
-    "rodada_id": 13,
+    "rodada_id": 14,
     "rb": 0,
     "g": 0,
     "a": 0,
@@ -237,11 +237,11 @@
     "fc": 0,
     "i": 0,
     "pe": 0,
-    "pontos_num": 6,
-    "preco_num": 11.37,
-    "variacao_num": 0.61,
-    "media_num": 4.26,
-    "jogos_num": 13,
+    "pontos_num": 4.53,
+    "preco_num": 11.34,
+    "variacao_num": -0.03,
+    "media_num": 4.28,
+    "jogos_num": 14,
     "posicao_abrev": "tec",
     "posicao": "Técnico"
   }

@@ -6,7 +6,6 @@
   "clube_id": 285,
   "posicao": "Goleiro",
   "rodadas": [
-    3,
     4,
     5,
     6,
@@ -16,10 +15,10 @@
     10,
     11,
     12,
-    13
+    13,
+    14
   ],
   "pontos": [
-    4.5,
     4,
     14,
     12,
@@ -29,10 +28,10 @@
     4.5,
     0,
     8,
+    5,
     5
   ],
   "precos": [
-    8.11,
     8.29,
     11.12,
     12.24,
@@ -42,10 +41,10 @@
     11.06,
     0,
     11.67,
-    11.45
+    11.45,
+    11.66
   ],
   "variacoes": [
-    0.57,
     0.18,
     2.83,
     1.12,
@@ -55,10 +54,10 @@
     1.11,
     4.7,
     0.61,
-    -0.22
+    -0.22,
+    0.21
   ],
   "medias": [
-    2.5,
     2.88,
     5.1,
     6.25,
@@ -68,22 +67,10 @@
     4.7,
     4.7,
     5,
+    5,
     5
   ],
   "partidas": [
-    {
-      "rodada_id": 3,
-      "clube_casa": "Palmeiras",
-      "clube_casa_id": 275,
-      "clube_visitante": "Internacional",
-      "clube_casa_abrev": "PAL",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
-      "clube_visitante_id": 285,
-      "clube_visitante_abrev": "INT",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2016/05/03/inter65.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 4,
       "clube_casa": "Internacional",
@@ -213,16 +200,29 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2016/05/03/inter65.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 14,
+      "clube_casa": "Internacional",
+      "clube_casa_id": 285,
+      "clube_visitante": "Corinthians",
+      "clube_casa_abrev": "INT",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/equipes/2016/05/03/inter65.png",
+      "clube_visitante_id": 264,
+      "clube_visitante_abrev": "COR",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/corinthians_60x60.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2018/04/08/c6db42e2a46652d39dfdaf203267d223_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/equipes/2016/05/03/inter65.png",
   "scouts": {
-    "rodada_id": 13,
+    "rodada_id": 14,
     "rb": 0,
     "g": 0,
     "a": 0,
-    "sg": 4,
+    "sg": 5,
     "fs": 4,
     "ff": 0,
     "fd": 0,
@@ -238,10 +238,10 @@
     "i": 0,
     "pe": 0,
     "pontos_num": 5,
-    "preco_num": 11.45,
-    "variacao_num": -0.22,
+    "preco_num": 11.66,
+    "variacao_num": 0.21,
     "media_num": 5,
-    "jogos_num": 12,
+    "jogos_num": 13,
     "posicao_abrev": "gol",
     "posicao": "Goleiro"
   }

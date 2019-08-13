@@ -6,7 +6,6 @@
   "clube_id": 276,
   "posicao": "Meia",
   "rodadas": [
-    3,
     4,
     5,
     6,
@@ -16,10 +15,10 @@
     10,
     11,
     12,
-    13
+    13,
+    14
   ],
   "pontos": [
-    6.3,
     12.8,
     -0.8,
     -1,
@@ -29,10 +28,10 @@
     8.4,
     4.7,
     3.5,
-    0
+    0,
+    5.4
   ],
   "precos": [
-    14.77,
     16.89,
     14.4,
     13.94,
@@ -42,10 +41,10 @@
     14.79,
     -0.42,
     14.05,
-    14.05
+    14.05,
+    14.45
   ],
   "variacoes": [
-    0.48,
     2.12,
     -2.49,
     -0.46,
@@ -55,10 +54,10 @@
     1.14,
     4.28,
     -0.32,
-    0
+    0,
+    0.4
   ],
   "medias": [
-    4.43,
     6.52,
     5.06,
     4.05,
@@ -68,22 +67,10 @@
     4.23,
     4.28,
     4.21,
-    4.21
+    4.21,
+    4.31
   ],
   "partidas": [
-    {
-      "rodada_id": 3,
-      "clube_casa": "São Paulo",
-      "clube_casa_id": 276,
-      "clube_visitante": "Flamengo",
-      "clube_casa_abrev": "SAO",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/sao_paulo_60x60.png",
-      "clube_visitante_id": 262,
-      "clube_visitante_abrev": "FLA",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2018/04/09/Flamengo-65.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 4,
       "clube_casa": "Fortaleza",
@@ -213,19 +200,32 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/sao_paulo_60x60.png",
       "placar_oficial_mandante": null,
       "placar_oficial_visitante": null
+    },
+    {
+      "rodada_id": 14,
+      "clube_casa": "São Paulo",
+      "clube_casa_id": 276,
+      "clube_visitante": "Santos",
+      "clube_casa_abrev": "SAO",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/sao_paulo_60x60.png",
+      "clube_visitante_id": 277,
+      "clube_visitante_abrev": "SAN",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/santos_60x60.png",
+      "placar_oficial_mandante": 3,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2019/04/01/9de4879116fa3172f964c37907406613_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/sao_paulo_60x60.png",
   "scouts": {
-    "rodada_id": 13,
+    "rodada_id": 14,
     "rb": 9,
     "g": 1,
-    "a": 3,
+    "a": 4,
     "sg": 0,
     "fs": 13,
     "ff": 8,
-    "fd": 7,
+    "fd": 8,
     "ft": 0,
     "dd": 0,
     "dp": 0,
@@ -234,14 +234,14 @@
     "ca": 2,
     "pp": 0,
     "gs": 0,
-    "fc": 8,
+    "fc": 9,
     "i": 1,
-    "pe": 10,
-    "pontos_num": 0,
-    "preco_num": 14.05,
-    "variacao_num": 0,
-    "media_num": 4.21,
-    "jogos_num": 11,
+    "pe": 11,
+    "pontos_num": 5.4,
+    "preco_num": 14.45,
+    "variacao_num": 0.4,
+    "media_num": 4.31,
+    "jogos_num": 12,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }

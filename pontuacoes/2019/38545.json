@@ -14,7 +14,8 @@
     10,
     11,
     12,
-    13
+    13,
+    14
   ],
   "pontos": [
     0,
@@ -25,7 +26,8 @@
     0,
     2.9,
     0,
-    5.7
+    5.7,
+    -5
   ],
   "precos": [
     10,
@@ -36,7 +38,8 @@
     6.49,
     0.24,
     6.73,
-    7.29
+    7.29,
+    5.31
   ],
   "variacoes": [
     0,
@@ -47,7 +50,8 @@
     0,
     0.72,
     0,
-    0.56
+    0.56,
+    -1.98
   ],
   "medias": [
     0,
@@ -58,7 +62,8 @@
     0,
     0.72,
     0.72,
-    1.72
+    1.72,
+    0.6
   ],
   "partidas": [
     {
@@ -177,35 +182,48 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 14,
+      "clube_casa": "Palmeiras",
+      "clube_casa_id": 275,
+      "clube_visitante": "Bahia",
+      "clube_casa_abrev": "PAL",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
+      "clube_visitante_id": 265,
+      "clube_visitante_abrev": "BAH",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/bahia_60x60.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2019/01/14/77b041717dd4a70bd6537a299732619b_140x140.jpeg",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
   "scouts": {
-    "rodada_id": 13,
+    "rodada_id": 14,
     "rb": 4,
     "g": 1,
     "a": 0,
     "sg": 0,
-    "fs": 9,
-    "ff": 4,
+    "fs": 10,
+    "ff": 5,
     "fd": 2,
     "ft": 0,
     "dd": 0,
     "dp": 0,
     "gc": 0,
-    "cv": 0,
+    "cv": 1,
     "ca": 4,
     "pp": 0,
     "gs": 0,
-    "fc": 9,
+    "fc": 11,
     "i": 0,
-    "pe": 10,
-    "pontos_num": 5.7,
-    "preco_num": 7.29,
-    "variacao_num": 0.56,
-    "media_num": 1.72,
-    "jogos_num": 5,
+    "pe": 11,
+    "pontos_num": -5,
+    "preco_num": 5.31,
+    "variacao_num": -1.98,
+    "media_num": 0.6,
+    "jogos_num": 6,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }

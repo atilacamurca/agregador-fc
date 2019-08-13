@@ -9,30 +9,35 @@
     10,
     11,
     12,
-    13
+    13,
+    14
   ],
   "pontos": [
     0.2,
     1.5,
     4.9,
-    -1.5
+    -1.5,
+    0
   ],
   "precos": [
     4.65,
     0,
     5.62,
+    4.41,
     4.41
   ],
   "variacoes": [
     -1.35,
     0.85,
     0.97,
-    -1.21
+    -1.21,
+    0
   ],
   "medias": [
     0.2,
     0.85,
     2.2,
+    1.27,
     1.27
   ],
   "partidas": [
@@ -87,12 +92,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2016/05/03/inter65.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 14,
+      "clube_casa": "Internacional",
+      "clube_casa_id": 285,
+      "clube_visitante": "Corinthians",
+      "clube_casa_abrev": "INT",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/equipes/2016/05/03/inter65.png",
+      "clube_visitante_id": 264,
+      "clube_visitante_abrev": "COR",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/corinthians_60x60.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2019/07/02/0f6012cd35603a1b0d4256fb91ed6709_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/equipes/2016/05/03/inter65.png",
   "scouts": {
-    "rodada_id": 13,
+    "rodada_id": 14,
     "rb": 7,
     "g": 0,
     "a": 0,
@@ -111,9 +129,9 @@
     "fc": 6,
     "i": 0,
     "pe": 9,
-    "pontos_num": -1.5,
+    "pontos_num": 0,
     "preco_num": 4.41,
-    "variacao_num": -1.21,
+    "variacao_num": 0,
     "media_num": 1.27,
     "jogos_num": 4,
     "posicao_abrev": "lat",
