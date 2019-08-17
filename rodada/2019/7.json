@@ -61,7 +61,7 @@
           "jogos_num": 2,
           "preco_num": 5.56,
           "variacao_num": 0,
-          "foto": "https://s.glbimg.com/es/sde/f/2019/04/26/92bd61710e21808fbbecfb022cfe34e7_140x140.png",
+          "foto": "https://s.glbimg.com/es/sde/f/2019/07/01/cf90eedab7d54130c02d7d1fffddd137_140x140.png",
           "nome_posicao": "Lateral",
           "abreviacao_posicao": "lat"
         }
@@ -164,14 +164,14 @@
       },
       "meias_casa": {
         "sum_g": 1,
-        "sum_a": 7,
-        "sum_fs": 35,
+        "sum_a": 6,
+        "sum_fs": 34,
         "sum_ff": 8,
-        "sum_fc": 32,
-        "sum_rb": 54,
+        "sum_fc": 24,
+        "sum_rb": 46,
         "sum_fd": 3,
-        "sum_ca": 7,
-        "sum_pe": 60
+        "sum_ca": 5,
+        "sum_pe": 56
       },
       "meias_visitante": {
         "sum_g": 1,
@@ -299,6 +299,7 @@
       "clube_casa_id": 262,
       "clube_casa": "Flamengo",
       "escudo_casa": "https://s.glbimg.com/es/sde/f/equipes/2018/04/09/Flamengo-65.png",
+      "clube_casa_abreviacao": "FLA",
       "clube_casa_posicao": 4,
       "aproveitamento_mandante": [
         "e",
@@ -310,6 +311,7 @@
       "clube_visitante_id": 356,
       "clube_visitante": "Fortaleza",
       "escudo_visitante": "https://s.glbimg.com/es/sde/f/organizacoes/2018/06/10/fortaleza-ec-65px.png",
+      "clube_visitante_abreviacao": "FOR",
       "clube_visitante_posicao": 14,
       "aproveitamento_visitante": [
         "d",
@@ -449,13 +451,13 @@
         "sum_gs": 10
       },
       "zagueiros_casa": {
-        "sum_rb": 7,
+        "sum_rb": 10,
         "sum_g": 1,
         "sum_gc": 0,
-        "sum_fs": 4,
+        "sum_fs": 8,
         "sum_ca": 0,
         "sum_fc": 3,
-        "sum_pe": 16
+        "sum_pe": 18
       },
       "zagueiros_visitante": {
         "sum_rb": 22,
@@ -467,12 +469,12 @@
         "sum_pe": 12
       },
       "laterais_casa": {
-        "sum_rb": 7,
+        "sum_rb": 10,
         "sum_g": 1,
         "sum_a": 0,
-        "sum_fs": 4,
-        "sum_pe": 16,
-        "sum_ff": 0,
+        "sum_fs": 8,
+        "sum_pe": 18,
+        "sum_ff": 1,
         "sum_fd": 1,
         "sum_fc": 3
       },
@@ -488,14 +490,14 @@
       },
       "meias_casa": {
         "sum_g": 0,
-        "sum_a": 1,
-        "sum_fs": 20,
+        "sum_a": 2,
+        "sum_fs": 21,
         "sum_ff": 11,
-        "sum_fc": 52,
-        "sum_rb": 63,
+        "sum_fc": 60,
+        "sum_rb": 71,
         "sum_fd": 4,
-        "sum_ca": 3,
-        "sum_pe": 39
+        "sum_ca": 5,
+        "sum_pe": 43
       },
       "meias_visitante": {
         "sum_g": 2,
@@ -519,14 +521,14 @@
         "sum_fd": 19
       },
       "atacantes_visitante": {
-        "sum_g": 5,
-        "sum_a": 2,
-        "sum_fs": 26,
-        "sum_ff": 9,
-        "sum_pp": 1,
-        "sum_fc": 15,
-        "sum_i": 2,
-        "sum_fd": 14
+        "sum_g": 7,
+        "sum_a": 3,
+        "sum_fs": 33,
+        "sum_ff": 15,
+        "sum_pp": 2,
+        "sum_fc": 24,
+        "sum_i": 5,
+        "sum_fd": 18
       },
       "destaques_ataque_casa": [
         {
@@ -582,7 +584,7 @@
           "jogos_num": 6,
           "preco_num": 17.31,
           "variacao_num": 0.34,
-          "foto": "https://s.glbimg.com/es/sde/f/2018/05/18/997feae679bb584848d2ef5197f0b406_140x140.png",
+          "foto": "https://s.glbimg.com/es/sde/f/2019/07/01/ac71f3ebf82fb819599967ea8bff8513_140x140.png",
           "nome_posicao": "Atacante",
           "abreviacao_posicao": "ata"
         },
@@ -598,6 +600,17 @@
           "abreviacao_posicao": "ata"
         },
         {
+          "media_num": 4.28,
+          "atleta_id": 80287,
+          "apelido": "Luciano",
+          "jogos_num": 5,
+          "preco_num": 7.06,
+          "variacao_num": 0,
+          "foto": "https://s.glbimg.com/es/sde/f/2019/07/30/6d045d7809171c7ff080a09196c9b11d_140x140.png",
+          "nome_posicao": "Atacante",
+          "abreviacao_posicao": "ata"
+        },
+        {
           "media_num": 4.6,
           "atleta_id": 81845,
           "apelido": "Alisson",
@@ -607,22 +620,12 @@
           "foto": "https://s.glbimg.com/es/sde/f/2018/05/18/eeeced6e37969b2b8161eb83c56d069e_140x140.png",
           "nome_posicao": "Meia",
           "abreviacao_posicao": "mei"
-        },
-        {
-          "media_num": 5.57,
-          "atleta_id": 98832,
-          "apelido": "Jean Pyerre",
-          "jogos_num": 3,
-          "preco_num": 8.6,
-          "variacao_num": -0.71,
-          "foto": "https://s.glbimg.com/es/sde/f/2019/05/28/8d48c0a56b2e5448d42d4e66649d976d_140x140.png",
-          "nome_posicao": "Meia",
-          "abreviacao_posicao": "mei"
         }
       ],
       "clube_casa_id": 265,
       "clube_casa": "Bahia",
       "escudo_casa": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/bahia_60x60.png",
+      "clube_casa_abreviacao": "BAH",
       "clube_casa_posicao": 6,
       "aproveitamento_mandante": [
         "v",
@@ -634,6 +637,7 @@
       "clube_visitante_id": 284,
       "clube_visitante": "Grêmio",
       "escudo_visitante": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/gremio_60x60.png",
+      "clube_visitante_abreviacao": "GRE",
       "clube_visitante_posicao": 18,
       "aproveitamento_visitante": [
         "d",
@@ -773,13 +777,13 @@
         "sum_gs": 6
       },
       "zagueiros_casa": {
-        "sum_rb": 17,
+        "sum_rb": 9,
         "sum_g": 0,
         "sum_gc": 0,
-        "sum_fs": 7,
+        "sum_fs": 0,
         "sum_ca": 1,
         "sum_fc": 4,
-        "sum_pe": 19
+        "sum_pe": 12
       },
       "zagueiros_visitante": {
         "sum_rb": 11,
@@ -791,12 +795,12 @@
         "sum_pe": 17
       },
       "laterais_casa": {
-        "sum_rb": 17,
+        "sum_rb": 9,
         "sum_g": 0,
         "sum_a": 0,
-        "sum_fs": 7,
-        "sum_pe": 19,
-        "sum_ff": 4,
+        "sum_fs": 0,
+        "sum_pe": 12,
+        "sum_ff": 2,
         "sum_fd": 0,
         "sum_fc": 4
       },
@@ -813,13 +817,13 @@
       "meias_casa": {
         "sum_g": 4,
         "sum_a": 2,
-        "sum_fs": 51,
+        "sum_fs": 49,
         "sum_ff": 13,
-        "sum_fc": 37,
-        "sum_rb": 41,
+        "sum_fc": 35,
+        "sum_rb": 38,
         "sum_fd": 6,
         "sum_ca": 8,
-        "sum_pe": 62
+        "sum_pe": 60
       },
       "meias_visitante": {
         "sum_g": 1,
@@ -947,6 +951,7 @@
       "clube_casa_id": 264,
       "clube_casa": "Corinthians",
       "escudo_casa": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/corinthians_60x60.png",
+      "clube_casa_abreviacao": "COR",
       "clube_casa_posicao": 9,
       "aproveitamento_mandante": [
         "v",
@@ -958,6 +963,7 @@
       "clube_visitante_id": 290,
       "clube_visitante": "Goiás",
       "escudo_visitante": "https://s.glbimg.com/es/sde/f/organizacoes/2019/05/01/Goias_65px.png",
+      "clube_visitante_abreviacao": "GOI",
       "clube_visitante_posicao": 12,
       "aproveitamento_visitante": [
         "d",
@@ -1137,24 +1143,24 @@
       "meias_casa": {
         "sum_g": 4,
         "sum_a": 1,
-        "sum_fs": 57,
-        "sum_ff": 11,
-        "sum_fc": 20,
+        "sum_fs": 53,
+        "sum_ff": 10,
+        "sum_fc": 19,
         "sum_rb": 28,
-        "sum_fd": 8,
-        "sum_ca": 9,
-        "sum_pe": 68
+        "sum_fd": 6,
+        "sum_ca": 8,
+        "sum_pe": 64
       },
       "meias_visitante": {
         "sum_g": 2,
         "sum_a": 0,
-        "sum_fs": 34,
+        "sum_fs": 36,
         "sum_ff": 23,
-        "sum_fc": 35,
-        "sum_rb": 49,
+        "sum_fc": 37,
+        "sum_rb": 52,
         "sum_fd": 6,
         "sum_ca": 5,
-        "sum_pe": 58
+        "sum_pe": 60
       },
       "atacantes_casa": {
         "sum_g": 1,
@@ -1230,7 +1236,7 @@
           "jogos_num": 5,
           "preco_num": 12.63,
           "variacao_num": -0.04,
-          "foto": "https://s.glbimg.com/es/sde/f/2019/06/06/12302f7cea2b3f83dbae79f9d804d551_140x140.png",
+          "foto": "https://s.glbimg.com/es/sde/f/2019/07/27/1f96b9040f1eff51cb593c7919068c8d_140x140.png",
           "nome_posicao": "Atacante",
           "abreviacao_posicao": "ata"
         },
@@ -1271,6 +1277,7 @@
       "clube_casa_id": 263,
       "clube_casa": "Botafogo",
       "escudo_casa": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/botafogo_60x60.png",
+      "clube_casa_abreviacao": "BOT",
       "clube_casa_posicao": 7,
       "aproveitamento_mandante": [
         "v",
@@ -1282,6 +1289,7 @@
       "clube_visitante_id": 267,
       "clube_visitante": "Vasco",
       "escudo_visitante": "https://s.glbimg.com/es/sde/f/equipes/2016/07/29/Vasco-65.png",
+      "clube_visitante_abreviacao": "VAS",
       "clube_visitante_posicao": 20,
       "aproveitamento_visitante": [
         "e",
@@ -1329,6 +1337,17 @@
           "abreviacao_posicao": "zag"
         },
         {
+          "media_num": 4.43,
+          "atleta_id": 87225,
+          "apelido": "Pedro Henrique",
+          "jogos_num": 3,
+          "preco_num": 8.82,
+          "variacao_num": 0,
+          "foto": "https://s.glbimg.com/es/sde/f/2019/06/29/43b11555e62d7cd38934e44d0fccb5c9_140x140.png",
+          "nome_posicao": "Zagueiro",
+          "abreviacao_posicao": "zag"
+        },
+        {
           "media_num": 2.26,
           "atleta_id": 42491,
           "apelido": "Márcio Azevedo",
@@ -1349,17 +1368,6 @@
           "foto": "https://s.glbimg.com/es/sde/f/2019/03/30/e7ce05ddde9ec166606e95d579a152ba_140x140.png",
           "nome_posicao": "Goleiro",
           "abreviacao_posicao": "gol"
-        },
-        {
-          "media_num": 2.07,
-          "atleta_id": 96591,
-          "apelido": "Renan Lodi",
-          "jogos_num": 3,
-          "preco_num": 7.57,
-          "variacao_num": 0,
-          "foto": "https://s.glbimg.com/es/sde/f/2019/03/30/a69ce7a8dc1b05284bf5a5c9e7341f26_140x140.png",
-          "nome_posicao": "Lateral",
-          "abreviacao_posicao": "lat"
         }
       ],
       "destaques_defesa_visitante": [
@@ -1421,13 +1429,13 @@
         "sum_gs": 12
       },
       "zagueiros_casa": {
-        "sum_rb": 10,
+        "sum_rb": 15,
         "sum_g": 1,
         "sum_gc": 0,
-        "sum_fs": 4,
+        "sum_fs": 7,
         "sum_ca": 5,
         "sum_fc": 17,
-        "sum_pe": 21
+        "sum_pe": 26
       },
       "zagueiros_visitante": {
         "sum_rb": 16,
@@ -1439,12 +1447,12 @@
         "sum_pe": 10
       },
       "laterais_casa": {
-        "sum_rb": 10,
+        "sum_rb": 15,
         "sum_g": 1,
         "sum_a": 0,
-        "sum_fs": 4,
-        "sum_pe": 21,
-        "sum_ff": 4,
+        "sum_fs": 7,
+        "sum_pe": 26,
+        "sum_ff": 5,
         "sum_fd": 6,
         "sum_fc": 17
       },
@@ -1472,13 +1480,13 @@
       "meias_visitante": {
         "sum_g": 0,
         "sum_a": 1,
-        "sum_fs": 28,
-        "sum_ff": 10,
-        "sum_fc": 41,
-        "sum_rb": 34,
-        "sum_fd": 14,
+        "sum_fs": 21,
+        "sum_ff": 8,
+        "sum_fc": 37,
+        "sum_rb": 25,
+        "sum_fd": 13,
         "sum_ca": 8,
-        "sum_pe": 57
+        "sum_pe": 52
       },
       "atacantes_casa": {
         "sum_g": 5,
@@ -1491,14 +1499,14 @@
         "sum_fd": 10
       },
       "atacantes_visitante": {
-        "sum_g": 10,
-        "sum_a": 3,
-        "sum_fs": 27,
-        "sum_ff": 19,
-        "sum_pp": 1,
-        "sum_fc": 18,
-        "sum_i": 7,
-        "sum_fd": 6
+        "sum_g": 8,
+        "sum_a": 2,
+        "sum_fs": 20,
+        "sum_ff": 13,
+        "sum_pp": 0,
+        "sum_fc": 9,
+        "sum_i": 4,
+        "sum_fd": 2
       },
       "destaques_ataque_casa": [
         {
@@ -1581,13 +1589,13 @@
           "abreviacao_posicao": "ata"
         },
         {
-          "media_num": 4.28,
-          "atleta_id": 80287,
-          "apelido": "Luciano",
-          "jogos_num": 5,
-          "preco_num": 7.06,
-          "variacao_num": 0,
-          "foto": "https://s.glbimg.com/es/sde/f/2018/07/05/1283cc320b56be7f4661388346c1aeba_140x140.png",
+          "media_num": 5.5,
+          "atleta_id": 103645,
+          "apelido": "Marcos Paulo",
+          "jogos_num": 2,
+          "preco_num": 3.09,
+          "variacao_num": -1.03,
+          "foto": "https://s.glbimg.com/es/sde/f/2019/04/28/6b67724f0df358a59b19d910a740b005_140x140.png",
           "nome_posicao": "Atacante",
           "abreviacao_posicao": "ata"
         }
@@ -1595,6 +1603,7 @@
       "clube_casa_id": 293,
       "clube_casa": "Athlético-PR",
       "escudo_casa": "https://s.glbimg.com/es/sde/f/organizacoes/2018/12/13/escudo65.png",
+      "clube_casa_abreviacao": "ATL",
       "clube_casa_posicao": 10,
       "aproveitamento_mandante": [
         "e",
@@ -1606,6 +1615,7 @@
       "clube_visitante_id": 266,
       "clube_visitante": "Fluminense",
       "escudo_visitante": "https://s.glbimg.com/es/sde/f/equipes/2015/07/21/fluminense_60x60.png",
+      "clube_visitante_abreviacao": "FLU",
       "clube_visitante_posicao": 16,
       "aproveitamento_visitante": [
         "v",
@@ -1791,7 +1801,7 @@
         "sum_rb": 29,
         "sum_fd": 15,
         "sum_ca": 4,
-        "sum_pe": 45
+        "sum_pe": 44
       },
       "meias_visitante": {
         "sum_g": 4,
@@ -1900,7 +1910,7 @@
           "jogos_num": 5,
           "preco_num": 11.16,
           "variacao_num": -0.63,
-          "foto": "https://s.glbimg.com/es/sde/f/2019/04/30/f119889a4c40913f4b21088f371f6333_140x140.png",
+          "foto": "https://s.glbimg.com/es/sde/f/2019/08/10/ee42a8e4d56c93201de03d1c37091827_140x140.png",
           "nome_posicao": "Atacante",
           "abreviacao_posicao": "ata"
         },
@@ -1919,6 +1929,7 @@
       "clube_casa_id": 276,
       "clube_casa": "São Paulo",
       "escudo_casa": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/sao_paulo_60x60.png",
+      "clube_casa_abreviacao": "SAO",
       "clube_casa_posicao": 8,
       "aproveitamento_mandante": [
         "e",
@@ -1930,6 +1941,7 @@
       "clube_visitante_id": 283,
       "clube_visitante": "Cruzeiro",
       "escudo_visitante": "https://s.glbimg.com/es/sde/f/equipes/2015/04/29/cruzeiro_65.png",
+      "clube_visitante_abreviacao": "CRU",
       "clube_visitante_posicao": 15,
       "aproveitamento_visitante": [
         "v",
@@ -2129,14 +2141,14 @@
         "sum_pe": 89
       },
       "atacantes_casa": {
-        "sum_g": 4,
-        "sum_a": 2,
-        "sum_fs": 19,
-        "sum_ff": 16,
-        "sum_pp": 1,
-        "sum_fc": 19,
-        "sum_i": 8,
-        "sum_fd": 7
+        "sum_g": 1,
+        "sum_a": 0,
+        "sum_fs": 17,
+        "sum_ff": 11,
+        "sum_pp": 0,
+        "sum_fc": 11,
+        "sum_i": 3,
+        "sum_fd": 5
       },
       "atacantes_visitante": {
         "sum_g": 3,
@@ -2161,17 +2173,6 @@
           "abreviacao_posicao": "mei"
         },
         {
-          "media_num": 6.9,
-          "atleta_id": 69141,
-          "apelido": "Ricardo Bueno",
-          "jogos_num": 5,
-          "preco_num": 18.4,
-          "variacao_num": 0.71,
-          "foto": "https://s.glbimg.com/es/sde/f/2019/03/28/3d70fd82e49aca88abe94015a45abb9d_140x140.png",
-          "nome_posicao": "Atacante",
-          "abreviacao_posicao": "ata"
-        },
-        {
           "media_num": 3.35,
           "atleta_id": 78577,
           "apelido": "Ricardinho",
@@ -2192,6 +2193,17 @@
           "foto": "https://s.glbimg.com/es/sde/f/2019/03/28/2036fe932766e953f14ef5fc5ed37a53_140x140.png",
           "nome_posicao": "Meia",
           "abreviacao_posicao": "mei"
+        },
+        {
+          "media_num": 3.14,
+          "atleta_id": 88669,
+          "apelido": "Leandro Carvalho",
+          "jogos_num": 5,
+          "preco_num": 10.17,
+          "variacao_num": -0.65,
+          "foto": "https://s.glbimg.com/es/sde/f/2019/05/30/7d4922940f5a9f9151b4ed1421f520e9_140x140.png",
+          "nome_posicao": "Atacante",
+          "abreviacao_posicao": "ata"
         }
       ],
       "destaques_ataque_visitante": [
@@ -2243,6 +2255,7 @@
       "clube_casa_id": 354,
       "clube_casa": "Ceará",
       "escudo_casa": "https://s.glbimg.com/es/sde/f/equipes/2018/05/11/ceara-65x65.png",
+      "clube_casa_abreviacao": "CEA",
       "clube_casa_posicao": 11,
       "aproveitamento_mandante": [
         "d",
@@ -2254,6 +2267,7 @@
       "clube_visitante_id": 277,
       "clube_visitante": "Santos",
       "escudo_visitante": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/santos_60x60.png",
+      "clube_visitante_abreviacao": "SAN",
       "clube_visitante_posicao": 3,
       "aproveitamento_visitante": [
         "e",
@@ -2463,14 +2477,14 @@
         "sum_fd": 8
       },
       "atacantes_visitante": {
-        "sum_g": 1,
-        "sum_a": 1,
-        "sum_fs": 18,
-        "sum_ff": 7,
-        "sum_pp": 0,
-        "sum_fc": 19,
-        "sum_i": 4,
-        "sum_fd": 6
+        "sum_g": 4,
+        "sum_a": 3,
+        "sum_fs": 20,
+        "sum_ff": 12,
+        "sum_pp": 1,
+        "sum_fc": 27,
+        "sum_i": 9,
+        "sum_fd": 8
       },
       "destaques_ataque_casa": [
         {
@@ -2520,6 +2534,17 @@
       ],
       "destaques_ataque_visitante": [
         {
+          "media_num": 6.9,
+          "atleta_id": 69141,
+          "apelido": "Ricardo Bueno",
+          "jogos_num": 5,
+          "preco_num": 18.4,
+          "variacao_num": 0.71,
+          "foto": "https://s.glbimg.com/es/sde/f/2019/07/08/1f73cdfaf6d211abebbace364f7e2da6_140x140.png",
+          "nome_posicao": "Atacante",
+          "abreviacao_posicao": "ata"
+        },
+        {
           "media_num": 4.92,
           "atleta_id": 91264,
           "apelido": "Matheus Savio",
@@ -2551,22 +2576,12 @@
           "foto": "https://s.glbimg.com/es/sde/f/2019/03/23/6be5b8e0ec5727594d30e1a2b17e8f16_140x140.png",
           "nome_posicao": "Meia",
           "abreviacao_posicao": "mei"
-        },
-        {
-          "media_num": 1.86,
-          "atleta_id": 42467,
-          "apelido": "Madson",
-          "jogos_num": 5,
-          "preco_num": 6.46,
-          "variacao_num": 0,
-          "foto": "https://s.glbimg.com/es/sde/f/2019/05/08/c9bb1f5c1ae81ac847abefc7ea36f736_140x140.png",
-          "nome_posicao": "Meia",
-          "abreviacao_posicao": "mei"
         }
       ],
       "clube_casa_id": 282,
       "clube_casa": "Atlético-MG",
       "escudo_casa": "https://s.glbimg.com/es/sde/f/equipes/2017/11/23/Atletico-Mineiro-escudo65px.png",
+      "clube_casa_abreviacao": "ATL",
       "clube_casa_posicao": 2,
       "aproveitamento_mandante": [
         "v",
@@ -2578,6 +2593,7 @@
       "clube_visitante_id": 341,
       "clube_visitante": "CSA",
       "escudo_visitante": "https://s.glbimg.com/es/sde/f/equipes/2013/09/18/CSA_65.png",
+      "clube_visitante_abreviacao": "CSA",
       "clube_visitante_posicao": 17,
       "aproveitamento_visitante": [
         "e",
@@ -2642,7 +2658,7 @@
           "jogos_num": 6,
           "preco_num": 7.14,
           "variacao_num": 0.08,
-          "foto": "https://s.glbimg.com/es/sde/f/2019/03/26/488951a254180fbde4b0bad80672f6f8_140x140.png",
+          "foto": "https://s.glbimg.com/es/sde/f/2019/06/20/61b536c18d17747b369b6037b3390866_140x140.png",
           "nome_posicao": "Zagueiro",
           "abreviacao_posicao": "zag"
         },
@@ -2688,7 +2704,7 @@
           "jogos_num": 1,
           "preco_num": 11.41,
           "variacao_num": 2.41,
-          "foto": "https://s.glbimg.com/es/sde/f/2019/06/05/c68ca1e3beca5f7ef515490e1446798c_140x140.png",
+          "foto": "https://s.glbimg.com/es/sde/f/2019/07/17/7b62744c1b953b4b9efd8b0e0fb8d099_140x140.png",
           "nome_posicao": "Lateral",
           "abreviacao_posicao": "lat"
         },
@@ -2891,6 +2907,7 @@
       "clube_casa_id": 315,
       "clube_casa": "Chapecoense",
       "escudo_casa": "https://s.glbimg.com/es/sde/f/equipes/2015/08/03/Escudo-Chape-165.png",
+      "clube_casa_abreviacao": "CHA",
       "clube_casa_posicao": 13,
       "aproveitamento_mandante": [
         "e",
@@ -2901,7 +2918,8 @@
       ],
       "clube_visitante_id": 275,
       "clube_visitante": "Palmeiras",
-      "escudo_visitante": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/palmeiras_60x60.png",
+      "escudo_visitante": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
+      "clube_visitante_abreviacao": "PAL",
       "clube_visitante_posicao": 1,
       "aproveitamento_visitante": [
         "v",
@@ -3081,24 +3099,24 @@
       "meias_casa": {
         "sum_g": 4,
         "sum_a": 3,
-        "sum_fs": 20,
-        "sum_ff": 10,
-        "sum_fc": 29,
-        "sum_rb": 44,
-        "sum_fd": 7,
+        "sum_fs": 27,
+        "sum_ff": 12,
+        "sum_fc": 33,
+        "sum_rb": 53,
+        "sum_fd": 8,
         "sum_ca": 3,
-        "sum_pe": 58
+        "sum_pe": 64
       },
       "meias_visitante": {
         "sum_g": 0,
         "sum_a": 1,
-        "sum_fs": 41,
-        "sum_ff": 16,
-        "sum_fc": 40,
+        "sum_fs": 45,
+        "sum_ff": 17,
+        "sum_fc": 41,
         "sum_rb": 32,
-        "sum_fd": 8,
-        "sum_ca": 3,
-        "sum_pe": 72
+        "sum_fd": 10,
+        "sum_ca": 4,
+        "sum_pe": 76
       },
       "atacantes_casa": {
         "sum_g": 2,
@@ -3139,7 +3157,7 @@
           "jogos_num": 5,
           "preco_num": 13.76,
           "variacao_num": -0.42,
-          "foto": "https://s.glbimg.com/es/sde/f/2018/08/14/11a728603cfca7e8c71e3fadccee1148_140x140.png",
+          "foto": "https://s.glbimg.com/es/sde/f/2019/07/01/1eecca318970c97227763ef6d9c7a67b_140x140.png",
           "nome_posicao": "Atacante",
           "abreviacao_posicao": "ata"
         },
@@ -3215,6 +3233,7 @@
       "clube_casa_id": 285,
       "clube_casa": "Internacional",
       "escudo_casa": "https://s.glbimg.com/es/sde/f/equipes/2016/05/03/inter65.png",
+      "clube_casa_abreviacao": "INT",
       "clube_casa_posicao": 5,
       "aproveitamento_mandante": [
         "d",
@@ -3226,6 +3245,7 @@
       "clube_visitante_id": 314,
       "clube_visitante": "Avaí",
       "escudo_visitante": "https://s.glbimg.com/es/sde/f/organizacoes/2018/09/04/escudo-avai-65x65.png",
+      "clube_visitante_abreviacao": "AVA",
       "clube_visitante_posicao": 19,
       "aproveitamento_visitante": [
         "d",

@@ -12,7 +12,7 @@
                     class="d-flex align-items-center justify-content-sm-center justify-content-around"
                     order="1"
                     order-md="2">
-                    <div class="mx-4">
+                    <div class="mx-2">
                         <g-image width="40px"
                             :src="props.escudoCasa"
                             alt="escudo-casa"
@@ -24,7 +24,7 @@
                         <span class="mx-2">X</span>
                         <span>{{ props.placarVisitante }}</span>
                     </div>
-                    <div class="mx-4">
+                    <div class="mx-2">
                         <g-image width="40px"
                             :src="props.escudoVisitante"
                             alt="escudo-visitante"

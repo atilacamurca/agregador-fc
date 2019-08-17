@@ -128,3 +128,4 @@ create table partidas_rodada (
 - <https://github.com/RobinCK/vue-ls>
 - <https://universidadedocartola.com.br/como-ganhar-cartoletas-cartola-fc/>
 - <https://github.com/joaoabcoelho/ModeloCartoletas>
+- <https://speakerdeck.com/steveschoger/practical-solutions-to-common-ui-design-problems?slide=73>

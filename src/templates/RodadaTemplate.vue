@@ -28,8 +28,8 @@
                                 <sumario-partida :partida-data="partida.partida_data"
                                     :local="partida.local"
                                 ></sumario-partida>
-                                <sumario-clubes :clube-casa="partida.clube_casa"
-                                    :clube-visitante="partida.clube_visitante"
+                                <sumario-clubes :clube-casa="partida.clube_casa_abreviacao"
+                                    :clube-visitante="partida.clube_visitante_abreviacao"
                                     :escudo-casa="partida.escudo_casa"
                                     :clube-casa-posicao="partida.clube_casa_posicao"
                                     :escudo-visitante="partida.escudo_visitante"
@@ -104,7 +104,9 @@ query Rodada($path: String!) {
     partidas {
       partida_id
       clube_casa
+      clube_casa_abreviacao
       clube_visitante
+      clube_visitante_abreviacao
       escudo_casa
       clube_casa_posicao
       escudo_visitante
