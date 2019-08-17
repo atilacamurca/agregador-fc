@@ -172,6 +172,9 @@ export default {
             return this.$page.pontuacao
         },
         partidasReverse() {
+            if (process.isServer) {
+                return this.pontuacao.partidas
+            }
             return this.pontuacao.partidas.reverse()
         },
         data() {

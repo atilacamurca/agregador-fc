@@ -13,6 +13,17 @@
             </p>
         </b-col>
       </b-row>
+      <b-row class="mt-4">
+        <b-col md="6" offset-md="3">
+            <h2>Código-fonte</h2><hr>
+            <p>
+                <strong>Agregador FC</strong> é um projeto de código-fonte livre e pode ser acessado em
+                <a href="https://github.com/atilacamurca/agregador-fc" target="_blank" rel="noopener noreferrer">
+                  github.com/atilacamurca/agregador-fc
+                </a>.
+            </p>
+        </b-col>
+      </b-row>
     </Layout>
 </template>
 
