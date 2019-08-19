@@ -6,7 +6,6 @@
   "clube_id": 285,
   "posicao": "Atacante",
   "rodadas": [
-    4,
     5,
     6,
     7,
@@ -16,10 +15,10 @@
     11,
     12,
     13,
-    14
+    14,
+    15
   ],
   "pontos": [
-    0,
     0,
     0,
     0,
@@ -29,10 +28,10 @@
     4,
     3.1,
     2.8,
-    -0.3
+    -0.3,
+    12.2
   ],
   "precos": [
-    6,
     6,
     6,
     6,
@@ -42,10 +41,10 @@
     0.62,
     5.21,
     5.28,
-    4.78
+    4.78,
+    7.16
   ],
   "variacoes": [
-    0,
     0,
     0,
     0,
@@ -55,10 +54,10 @@
     1.73,
     -0.07,
     0.07,
-    -0.5
+    -0.5,
+    2.38
   ],
   "medias": [
-    0,
     0,
     0,
     0,
@@ -68,22 +67,10 @@
     1.73,
     2.07,
     2.22,
-    1.8
+    1.8,
+    3.29
   ],
   "partidas": [
-    {
-      "rodada_id": 4,
-      "clube_casa": "Internacional",
-      "clube_casa_id": 285,
-      "clube_visitante": "Cruzeiro",
-      "clube_casa_abrev": "INT",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/equipes/2016/05/03/inter65.png",
-      "clube_visitante_id": 283,
-      "clube_visitante_abrev": "CRU",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2015/04/29/cruzeiro_65.png",
-      "placar_oficial_mandante": 3,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 5,
       "clube_casa": "Internacional",
@@ -213,17 +200,30 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/corinthians_60x60.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 15,
+      "clube_casa": "Fortaleza",
+      "clube_casa_id": 356,
+      "clube_visitante": "Internacional",
+      "clube_casa_abrev": "FOR",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/06/10/fortaleza-ec-65px.png",
+      "clube_visitante_id": 285,
+      "clube_visitante_abrev": "INT",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2016/05/03/inter65.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2018/04/08/37fba0582d79360263206da6e9868169_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/equipes/2016/05/03/inter65.png",
   "scouts": {
-    "rodada_id": 14,
-    "rb": 3,
-    "g": 0,
+    "rodada_id": 15,
+    "rb": 4,
+    "g": 1,
     "a": 0,
     "sg": 0,
-    "fs": 10,
+    "fs": 16,
     "ff": 3,
     "fd": 3,
     "ft": 0,
@@ -236,12 +236,12 @@
     "gs": 0,
     "fc": 1,
     "i": 0,
-    "pe": 14,
-    "pontos_num": -0.3,
-    "preco_num": 4.78,
-    "variacao_num": -0.5,
-    "media_num": 1.8,
-    "jogos_num": 6,
+    "pe": 15,
+    "pontos_num": 12.2,
+    "preco_num": 7.16,
+    "variacao_num": 2.38,
+    "media_num": 3.29,
+    "jogos_num": 7,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }

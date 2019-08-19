@@ -13,7 +13,8 @@
     11,
     12,
     13,
-    14
+    14,
+    15
   ],
   "pontos": [
     0,
@@ -23,7 +24,8 @@
     0,
     0.2,
     0,
-    3.7
+    3.7,
+    1.2
   ],
   "precos": [
     0.75,
@@ -33,7 +35,8 @@
     0,
     1.35,
     1.35,
-    2.11
+    2.11,
+    1.81
   ],
   "variacoes": [
     -0.25,
@@ -43,7 +46,8 @@
     1.2,
     -0.17,
     0,
-    0.76
+    0.76,
+    -0.3
   ],
   "medias": [
     0,
@@ -53,7 +57,8 @@
     1.2,
     0.95,
     0.95,
-    1.5
+    1.5,
+    1.45
   ],
   "partidas": [
     {
@@ -159,18 +164,31 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/gremio_60x60.png",
       "placar_oficial_mandante": 3,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 15,
+      "clube_casa": "Grêmio",
+      "clube_casa_id": 284,
+      "clube_visitante": "Palmeiras",
+      "clube_casa_abrev": "GRE",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/gremio_60x60.png",
+      "clube_visitante_id": 275,
+      "clube_visitante_abrev": "PAL",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2017/08/16/34305aca84639e95caaf29addb016bab_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/gremio_60x60.png",
   "scouts": {
-    "rodada_id": 14,
+    "rodada_id": 15,
     "rb": 3,
     "g": 0,
     "a": 0,
     "sg": 0,
-    "fs": 3,
-    "ff": 0,
+    "fs": 5,
+    "ff": 1,
     "fd": 2,
     "ft": 0,
     "dd": 0,
@@ -182,12 +200,12 @@
     "gs": 0,
     "fc": 0,
     "i": 0,
-    "pe": 3,
-    "pontos_num": 3.7,
-    "preco_num": 2.11,
-    "variacao_num": 0.76,
-    "media_num": 1.5,
-    "jogos_num": 5,
+    "pe": 5,
+    "pontos_num": 1.2,
+    "preco_num": 1.81,
+    "variacao_num": -0.3,
+    "media_num": 1.45,
+    "jogos_num": 6,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }

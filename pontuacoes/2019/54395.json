@@ -6,7 +6,6 @@
   "clube_id": 282,
   "posicao": "Meia",
   "rodadas": [
-    4,
     5,
     6,
     7,
@@ -16,10 +15,10 @@
     11,
     12,
     13,
-    14
+    14,
+    15
   ],
   "pontos": [
-    2.6,
     -2.8,
     0,
     -0.9,
@@ -29,10 +28,10 @@
     -1.2,
     1.7,
     -0.4,
-    7.4
+    7.4,
+    -1.9
   ],
   "precos": [
-    11.75,
     10.12,
     10.12,
     9.55,
@@ -42,10 +41,10 @@
     -0.76,
     9.26,
     8.85,
-    10.32
+    10.32,
+    8.74
   ],
   "variacoes": [
-    0.13,
     -1.63,
     0,
     -0.57,
@@ -55,10 +54,10 @@
     2.11,
     0.27,
     -0.41,
-    1.47
+    1.47,
+    -1.58
   ],
   "medias": [
-    4.78,
     3.26,
     3.26,
     2.57,
@@ -68,22 +67,10 @@
     2.11,
     2.07,
     1.85,
-    2.31
+    2.31,
+    1.99
   ],
   "partidas": [
-    {
-      "rodada_id": 4,
-      "clube_casa": "Atlético-MG",
-      "clube_casa_id": 282,
-      "clube_visitante": "Palmeiras",
-      "clube_casa_abrev": "ATL",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/equipes/2017/11/23/Atletico-Mineiro-escudo65px.png",
-      "clube_visitante_id": 275,
-      "clube_visitante_abrev": "PAL",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 2
-    },
     {
       "rodada_id": 5,
       "clube_casa": "Atlético-MG",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2015/07/21/fluminense_60x60.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 15,
+      "clube_casa": "Athlético-PR",
+      "clube_casa_id": 293,
+      "clube_visitante": "Atlético-MG",
+      "clube_casa_abrev": "ATL",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/12/13/escudo65.png",
+      "clube_visitante_id": 282,
+      "clube_visitante_abrev": "ATL",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2017/11/23/Atletico-Mineiro-escudo65px.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2018/05/07/9cae85100fc013bc0d503fb2e82577ce_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/equipes/2017/11/23/Atletico-Mineiro-escudo65px.png",
   "scouts": {
-    "rodada_id": 14,
+    "rodada_id": 15,
     "rb": 18,
     "g": 1,
     "a": 1,
@@ -234,14 +234,14 @@
     "ca": 1,
     "pp": 0,
     "gs": 0,
-    "fc": 13,
+    "fc": 15,
     "i": 0,
-    "pe": 38,
-    "pontos_num": 7.4,
-    "preco_num": 10.32,
-    "variacao_num": 1.47,
-    "media_num": 2.31,
-    "jogos_num": 12,
+    "pe": 41,
+    "pontos_num": -1.9,
+    "preco_num": 8.74,
+    "variacao_num": -1.58,
+    "media_num": 1.99,
+    "jogos_num": 13,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }

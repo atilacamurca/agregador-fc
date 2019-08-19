@@ -6,7 +6,6 @@
   "clube_id": 315,
   "posicao": "Meia",
   "rodadas": [
-    4,
     5,
     6,
     7,
@@ -16,10 +15,10 @@
     11,
     12,
     13,
-    14
+    14,
+    15
   ],
   "pontos": [
-    0,
     0,
     3,
     2.7,
@@ -29,10 +28,10 @@
     1.8,
     3.9,
     10.7,
-    17.2
+    17.2,
+    6.6
   ],
   "precos": [
-    3.64,
     3.64,
     3.73,
     3.83,
@@ -42,10 +41,10 @@
     0.11,
     4.37,
     5.93,
-    7.79
+    7.79,
+    6.51
   ],
   "variacoes": [
-    0,
     0,
     0.09,
     0.1,
@@ -55,10 +54,10 @@
     2.05,
     0.44,
     1.56,
-    1.86
+    1.86,
+    -1.28
   ],
   "medias": [
-    2.1,
     2.1,
     2.33,
     2.4,
@@ -68,22 +67,10 @@
     2.05,
     2.23,
     3,
-    4.18
+    4.18,
+    4.37
   ],
   "partidas": [
-    {
-      "rodada_id": 4,
-      "clube_casa": "Flamengo",
-      "clube_casa_id": 262,
-      "clube_visitante": "Chapecoense",
-      "clube_casa_abrev": "FLA",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/equipes/2018/04/09/Flamengo-65.png",
-      "clube_visitante_id": 315,
-      "clube_visitante_abrev": "CHA",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2015/08/03/Escudo-Chape-165.png",
-      "placar_oficial_mandante": 2,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 5,
       "clube_casa": "Chapecoense",
@@ -213,18 +200,31 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2015/08/03/Escudo-Chape-165.png",
       "placar_oficial_mandante": 4,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 15,
+      "clube_casa": "Chapecoense",
+      "clube_casa_id": 315,
+      "clube_visitante": "Avaí",
+      "clube_casa_abrev": "CHA",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/equipes/2015/08/03/Escudo-Chape-165.png",
+      "clube_visitante_id": 314,
+      "clube_visitante_abrev": "AVA",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/09/04/escudo-avai-65x65.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2019/03/26/9799555064b37105b45b0acc0e54c2b7_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/equipes/2015/08/03/Escudo-Chape-165.png",
   "scouts": {
-    "rodada_id": 14,
-    "rb": 22,
+    "rodada_id": 15,
+    "rb": 26,
     "g": 1,
     "a": 1,
     "sg": 0,
-    "fs": 17,
-    "ff": 5,
+    "fs": 19,
+    "ff": 7,
     "fd": 2,
     "ft": 0,
     "dd": 0,
@@ -234,14 +234,14 @@
     "ca": 0,
     "pp": 0,
     "gs": 0,
-    "fc": 13,
+    "fc": 14,
     "i": 0,
-    "pe": 14,
-    "pontos_num": 17.2,
-    "preco_num": 7.79,
-    "variacao_num": 1.86,
-    "media_num": 4.18,
-    "jogos_num": 12,
+    "pe": 19,
+    "pontos_num": 6.6,
+    "preco_num": 6.51,
+    "variacao_num": -1.28,
+    "media_num": 4.37,
+    "jogos_num": 13,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }

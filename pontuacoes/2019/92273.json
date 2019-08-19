@@ -6,7 +6,6 @@
   "clube_id": 285,
   "posicao": "Técnico",
   "rodadas": [
-    4,
     5,
     6,
     7,
@@ -16,10 +15,10 @@
     11,
     12,
     13,
-    14
+    14,
+    15
   ],
   "pontos": [
-    5.85,
     7.72,
     4.4,
     7.46,
@@ -29,10 +28,10 @@
     2.39,
     6.15,
     1.88,
-    3.9
+    3.9,
+    5.51
   ],
   "precos": [
-    9.07,
     10.02,
     10,
     10.79,
@@ -42,10 +41,10 @@
     0.18,
     10.88,
     10.3,
-    10.74
+    10.74,
+    11.13
   ],
   "variacoes": [
-    0.96,
     0.95,
     -0.02,
     0.79,
@@ -55,10 +54,10 @@
     4.31,
     0.65,
     -0.58,
-    0.44
+    0.44,
+    0.39
   ],
   "medias": [
-    4.07,
     4.8,
     4.73,
     5.12,
@@ -68,22 +67,10 @@
     4.31,
     4.46,
     4.26,
-    4.23
+    4.23,
+    4.32
   ],
   "partidas": [
-    {
-      "rodada_id": 4,
-      "clube_casa": "Internacional",
-      "clube_casa_id": 285,
-      "clube_visitante": "Cruzeiro",
-      "clube_casa_abrev": "INT",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/equipes/2016/05/03/inter65.png",
-      "clube_visitante_id": 283,
-      "clube_visitante_abrev": "CRU",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2015/04/29/cruzeiro_65.png",
-      "placar_oficial_mandante": 3,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 5,
       "clube_casa": "Internacional",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/corinthians_60x60.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 15,
+      "clube_casa": "Fortaleza",
+      "clube_casa_id": 356,
+      "clube_visitante": "Internacional",
+      "clube_casa_abrev": "FOR",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/06/10/fortaleza-ec-65px.png",
+      "clube_visitante_id": 285,
+      "clube_visitante_abrev": "INT",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2016/05/03/inter65.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2019/05/16/f54cba4fa38d6b6985012bc37f16a698_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/equipes/2016/05/03/inter65.png",
   "scouts": {
-    "rodada_id": 14,
+    "rodada_id": 15,
     "rb": 0,
     "g": 0,
     "a": 0,
@@ -237,11 +237,11 @@
     "fc": 0,
     "i": 0,
     "pe": 0,
-    "pontos_num": 3.9,
-    "preco_num": 10.74,
-    "variacao_num": 0.44,
-    "media_num": 4.23,
-    "jogos_num": 14,
+    "pontos_num": 5.51,
+    "preco_num": 11.13,
+    "variacao_num": 0.39,
+    "media_num": 4.32,
+    "jogos_num": 15,
     "posicao_abrev": "tec",
     "posicao": "Técnico"
   }

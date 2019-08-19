@@ -10,35 +10,40 @@
     11,
     12,
     13,
-    14
+    14,
+    15
   ],
   "pontos": [
     0.2,
     1.5,
     4.9,
     -1.5,
-    0
+    0,
+    4.3
   ],
   "precos": [
     4.65,
     0,
     5.62,
     4.41,
-    4.41
+    4.41,
+    5.35
   ],
   "variacoes": [
     -1.35,
     0.85,
     0.97,
     -1.21,
-    0
+    0,
+    0.94
   ],
   "medias": [
     0.2,
     0.85,
     2.2,
     1.27,
-    1.27
+    1.27,
+    1.88
   ],
   "partidas": [
     {
@@ -105,17 +110,30 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/corinthians_60x60.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 15,
+      "clube_casa": "Fortaleza",
+      "clube_casa_id": 356,
+      "clube_visitante": "Internacional",
+      "clube_casa_abrev": "FOR",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/06/10/fortaleza-ec-65px.png",
+      "clube_visitante_id": 285,
+      "clube_visitante_abrev": "INT",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2016/05/03/inter65.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2019/07/02/0f6012cd35603a1b0d4256fb91ed6709_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/equipes/2016/05/03/inter65.png",
   "scouts": {
-    "rodada_id": 14,
-    "rb": 7,
+    "rodada_id": 15,
+    "rb": 9,
     "g": 0,
     "a": 0,
-    "sg": 1,
-    "fs": 3,
+    "sg": 2,
+    "fs": 4,
     "ff": 1,
     "fd": 0,
     "ft": 0,
@@ -123,17 +141,17 @@
     "dp": 0,
     "gc": 1,
     "cv": 0,
-    "ca": 1,
+    "ca": 2,
     "pp": 0,
     "gs": 0,
-    "fc": 6,
+    "fc": 8,
     "i": 0,
-    "pe": 9,
-    "pontos_num": 0,
-    "preco_num": 4.41,
-    "variacao_num": 0,
-    "media_num": 1.27,
-    "jogos_num": 4,
+    "pe": 13,
+    "pontos_num": 4.3,
+    "preco_num": 5.35,
+    "variacao_num": 0.94,
+    "media_num": 1.88,
+    "jogos_num": 5,
     "posicao_abrev": "lat",
     "posicao": "Lateral"
   }

@@ -6,7 +6,6 @@
   "clube_id": 284,
   "posicao": "Lateral",
   "rodadas": [
-    4,
     5,
     6,
     7,
@@ -16,10 +15,10 @@
     11,
     12,
     13,
-    14
+    14,
+    15
   ],
   "pontos": [
-    0,
     0,
     0,
     0,
@@ -29,10 +28,10 @@
     2.9,
     4.9,
     0,
-    -0.6
+    -0.6,
+    1
   ],
   "precos": [
-    5.55,
     5.55,
     5.55,
     5.55,
@@ -42,10 +41,10 @@
     -0.13,
     6.34,
     6.34,
-    5.48
+    5.48,
+    5.69
   ],
   "variacoes": [
-    0,
     0,
     0,
     0,
@@ -55,10 +54,10 @@
     3.93,
     0.43,
     0,
-    -0.86
+    -0.86,
+    0.21
   ],
   "medias": [
-    1.4,
     1.4,
     1.4,
     1.4,
@@ -68,22 +67,10 @@
     3.93,
     4.12,
     4.12,
-    3.33
+    3.33,
+    3
   ],
   "partidas": [
-    {
-      "rodada_id": 4,
-      "clube_casa": "Corinthians",
-      "clube_casa_id": 264,
-      "clube_visitante": "Grêmio",
-      "clube_casa_abrev": "COR",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/corinthians_60x60.png",
-      "clube_visitante_id": 284,
-      "clube_visitante_abrev": "GRE",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/gremio_60x60.png",
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 5,
       "clube_casa": "Ceará",
@@ -213,18 +200,31 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/gremio_60x60.png",
       "placar_oficial_mandante": 3,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 15,
+      "clube_casa": "Grêmio",
+      "clube_casa_id": 284,
+      "clube_visitante": "Palmeiras",
+      "clube_casa_abrev": "GRE",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/gremio_60x60.png",
+      "clube_visitante_id": 275,
+      "clube_visitante_abrev": "PAL",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2018/05/21/7d6781295f86c2cbf0d78d936349c8c8_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/gremio_60x60.png",
   "scouts": {
-    "rodada_id": 14,
-    "rb": 5,
+    "rodada_id": 15,
+    "rb": 6,
     "g": 0,
     "a": 1,
     "sg": 2,
-    "fs": 6,
-    "ff": 0,
+    "fs": 7,
+    "ff": 1,
     "fd": 0,
     "ft": 0,
     "dd": 0,
@@ -236,12 +236,12 @@
     "gs": 0,
     "fc": 2,
     "i": 0,
-    "pe": 15,
-    "pontos_num": -0.6,
-    "preco_num": 5.48,
-    "variacao_num": -0.86,
-    "media_num": 3.33,
-    "jogos_num": 6,
+    "pe": 21,
+    "pontos_num": 1,
+    "preco_num": 5.69,
+    "variacao_num": 0.21,
+    "media_num": 3,
+    "jogos_num": 7,
     "posicao_abrev": "lat",
     "posicao": "Lateral"
   }

@@ -6,7 +6,6 @@
   "clube_id": 341,
   "posicao": "Meia",
   "rodadas": [
-    4,
     5,
     6,
     7,
@@ -16,10 +15,10 @@
     11,
     12,
     13,
-    14
+    14,
+    15
   ],
   "pontos": [
-    1.9,
     1.5,
     2.5,
     -1.1,
@@ -29,10 +28,10 @@
     0,
     -0.3,
     0.2,
-    0
+    0,
+    -0.3
   ],
   "precos": [
-    2.9,
     2.94,
     3.33,
     2.62,
@@ -42,10 +41,10 @@
     -0.82,
     3.02,
     3.08,
-    3.08
+    3.08,
+    2.94
   ],
   "variacoes": [
-    0.08,
     0.04,
     0.39,
     -0.71,
@@ -55,10 +54,10 @@
     1.72,
     -0.15,
     0.06,
-    0
+    0,
+    -0.14
   ],
   "medias": [
-    1.57,
     1.55,
     1.74,
     1.27,
@@ -68,22 +67,10 @@
     1.72,
     1.52,
     1.4,
-    1.4
+    1.4,
+    1.26
   ],
   "partidas": [
-    {
-      "rodada_id": 4,
-      "clube_casa": "Avaí",
-      "clube_casa_id": 314,
-      "clube_visitante": "CSA",
-      "clube_casa_abrev": "AVA",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/09/04/escudo-avai-65x65.png",
-      "clube_visitante_id": 341,
-      "clube_visitante_abrev": "CSA",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2013/09/18/CSA_65.png",
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 5,
       "clube_casa": "Internacional",
@@ -213,17 +200,30 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/06/10/fortaleza-ec-65px.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 15,
+      "clube_casa": "Fluminense",
+      "clube_casa_id": 266,
+      "clube_visitante": "CSA",
+      "clube_casa_abrev": "FLU",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/equipes/2015/07/21/fluminense_60x60.png",
+      "clube_visitante_id": 341,
+      "clube_visitante_abrev": "CSA",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2013/09/18/CSA_65.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2019/03/23/aac48c4f03031bbaf833ecb77aaca2e3_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/equipes/2013/09/18/CSA_65.png",
   "scouts": {
-    "rodada_id": 14,
+    "rodada_id": 15,
     "rb": 18,
     "g": 0,
     "a": 0,
     "sg": 0,
-    "fs": 5,
+    "fs": 6,
     "ff": 4,
     "fd": 2,
     "ft": 0,
@@ -234,14 +234,14 @@
     "ca": 3,
     "pp": 0,
     "gs": 0,
-    "fc": 15,
+    "fc": 16,
     "i": 1,
-    "pe": 19,
-    "pontos_num": 0,
-    "preco_num": 3.08,
-    "variacao_num": 0,
-    "media_num": 1.4,
-    "jogos_num": 11,
+    "pe": 20,
+    "pontos_num": -0.3,
+    "preco_num": 2.94,
+    "variacao_num": -0.14,
+    "media_num": 1.26,
+    "jogos_num": 12,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }

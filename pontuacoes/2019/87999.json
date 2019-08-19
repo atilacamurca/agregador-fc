@@ -15,7 +15,8 @@
     11,
     12,
     13,
-    14
+    14,
+    15
   ],
   "pontos": [
     0,
@@ -27,7 +28,8 @@
     2.5,
     7.1,
     0.4,
-    1.2
+    1.2,
+    0
   ],
   "precos": [
     5,
@@ -39,6 +41,7 @@
     0.01,
     4.56,
     3.62,
+    3.78,
     3.78
   ],
   "variacoes": [
@@ -51,7 +54,8 @@
     1.02,
     1.16,
     -0.94,
-    0.16
+    0.16,
+    0
   ],
   "medias": [
     0,
@@ -63,6 +67,7 @@
     1.02,
     2.03,
     1.8,
+    1.73,
     1.73
   ],
   "partidas": [
@@ -195,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/bahia_60x60.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 15,
+      "clube_casa": "Grêmio",
+      "clube_casa_id": 284,
+      "clube_visitante": "Palmeiras",
+      "clube_casa_abrev": "GRE",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/gremio_60x60.png",
+      "clube_visitante_id": 275,
+      "clube_visitante_abrev": "PAL",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2019/01/14/ecfff46ca7c7e833694357f560f6c1c6_140x140.jpeg",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
   "scouts": {
-    "rodada_id": 14,
+    "rodada_id": 15,
     "rb": 3,
     "g": 1,
     "a": 0,
@@ -219,9 +237,9 @@
     "fc": 5,
     "i": 0,
     "pe": 18,
-    "pontos_num": 1.2,
+    "pontos_num": 0,
     "preco_num": 3.78,
-    "variacao_num": 0.16,
+    "variacao_num": 0,
     "media_num": 1.73,
     "jogos_num": 8,
     "posicao_abrev": "mei",

@@ -6,7 +6,6 @@
   "clube_id": 277,
   "posicao": "Zagueiro",
   "rodadas": [
-    4,
     5,
     6,
     7,
@@ -16,10 +15,10 @@
     11,
     12,
     13,
-    14
+    14,
+    15
   ],
   "pontos": [
-    0,
     0.5,
     0,
     4,
@@ -29,10 +28,10 @@
     7.7,
     3.4,
     0,
-    0.5
+    0.5,
+    0
   ],
   "precos": [
-    4.45,
     3.83,
     3.83,
     4.48,
@@ -42,10 +41,10 @@
     0.84,
     5.43,
     5.43,
+    5,
     5
   ],
   "variacoes": [
-    0,
     -0.62,
     0,
     0.65,
@@ -55,10 +54,10 @@
     3.02,
     -0.53,
     0,
-    -0.43
+    -0.43,
+    0
   ],
   "medias": [
-    1.73,
     1.42,
     1.42,
     1.94,
@@ -68,22 +67,10 @@
     3.02,
     3.06,
     3.06,
+    2.83,
     2.83
   ],
   "partidas": [
-    {
-      "rodada_id": 4,
-      "clube_casa": "Santos",
-      "clube_casa_id": 277,
-      "clube_visitante": "Vasco",
-      "clube_casa_abrev": "SAN",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/santos_60x60.png",
-      "clube_visitante_id": 267,
-      "clube_visitante_abrev": "VAS",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2016/07/29/Vasco-65.png",
-      "placar_oficial_mandante": 3,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 5,
       "clube_casa": "Palmeiras",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/santos_60x60.png",
       "placar_oficial_mandante": 3,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 15,
+      "clube_casa": "Cruzeiro",
+      "clube_casa_id": 283,
+      "clube_visitante": "Santos",
+      "clube_casa_abrev": "CRU",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/equipes/2015/04/29/cruzeiro_65.png",
+      "clube_visitante_id": 277,
+      "clube_visitante_abrev": "SAN",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/santos_60x60.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2019/03/28/938d6ad9b3c0aa9f3fa04ed1ae5193a6_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/santos_60x60.png",
   "scouts": {
-    "rodada_id": 14,
+    "rodada_id": 15,
     "rb": 13,
     "g": 0,
     "a": 0,
@@ -237,9 +237,9 @@
     "fc": 16,
     "i": 0,
     "pe": 8,
-    "pontos_num": 0.5,
+    "pontos_num": 0,
     "preco_num": 5,
-    "variacao_num": -0.43,
+    "variacao_num": 0,
     "media_num": 2.83,
     "jogos_num": 11,
     "posicao_abrev": "zag",
