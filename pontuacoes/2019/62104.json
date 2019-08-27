@@ -6,7 +6,6 @@
   "clube_id": 283,
   "posicao": "Meia",
   "rodadas": [
-    5,
     6,
     7,
     8,
@@ -16,10 +15,10 @@
     12,
     13,
     14,
-    15
+    15,
+    16
   ],
   "pontos": [
-    12.5,
     6.9,
     -4.7,
     -1.9,
@@ -29,10 +28,10 @@
     0,
     -0.7,
     -1.6,
-    -0.8
+    -0.8,
+    0.8
   ],
   "precos": [
-    9.73,
     9.75,
     7.36,
     7.34,
@@ -42,10 +41,10 @@
     6.26,
     6.27,
     6.01,
-    6
+    6,
+    6.15
   ],
   "variacoes": [
-    2.46,
     0.02,
     -2.39,
     -0.02,
@@ -55,10 +54,10 @@
     0,
     0.01,
     -0.26,
-    -0.01
+    -0.01,
+    0.15
   ],
   "medias": [
-    5.73,
     6.02,
     3.88,
     2.92,
@@ -68,22 +67,10 @@
     1.77,
     1.46,
     1.12,
-    0.93
+    0.93,
+    0.92
   ],
   "partidas": [
-    {
-      "rodada_id": 5,
-      "clube_casa": "Fluminense",
-      "clube_casa_id": 266,
-      "clube_visitante": "Cruzeiro",
-      "clube_casa_abrev": "FLU",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/equipes/2015/07/21/fluminense_60x60.png",
-      "clube_visitante_id": 283,
-      "clube_visitante_abrev": "CRU",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2015/04/29/cruzeiro_65.png",
-      "placar_oficial_mandante": 4,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 6,
       "clube_casa": "Cruzeiro",
@@ -213,19 +200,32 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/santos_60x60.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 16,
+      "clube_casa": "CSA",
+      "clube_casa_id": 341,
+      "clube_visitante": "Cruzeiro",
+      "clube_casa_abrev": "CSA",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/equipes/2013/09/18/CSA_65.png",
+      "clube_visitante_id": 283,
+      "clube_visitante_abrev": "CRU",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2015/04/29/cruzeiro_65.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2018/05/07/9ec32acd97931db6852cd1b099fca085_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/equipes/2015/04/29/cruzeiro_65.png",
   "scouts": {
-    "rodada_id": 15,
-    "rb": 10,
+    "rodada_id": 16,
+    "rb": 11,
     "g": 1,
     "a": 1,
     "sg": 0,
-    "fs": 11,
+    "fs": 12,
     "ff": 7,
-    "fd": 2,
+    "fd": 3,
     "ft": 0,
     "dd": 0,
     "dp": 0,
@@ -234,14 +234,14 @@
     "ca": 4,
     "pp": 0,
     "gs": 0,
-    "fc": 16,
+    "fc": 19,
     "i": 0,
-    "pe": 54,
-    "pontos_num": -0.8,
-    "preco_num": 6,
-    "variacao_num": -0.01,
-    "media_num": 0.93,
-    "jogos_num": 10,
+    "pe": 57,
+    "pontos_num": 0.8,
+    "preco_num": 6.15,
+    "variacao_num": 0.15,
+    "media_num": 0.92,
+    "jogos_num": 11,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }

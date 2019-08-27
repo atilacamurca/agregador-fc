@@ -6,7 +6,6 @@
   "clube_id": 293,
   "posicao": "Zagueiro",
   "rodadas": [
-    5,
     6,
     7,
     8,
@@ -16,7 +15,8 @@
     12,
     13,
     14,
-    15
+    15,
+    16
   ],
   "pontos": [
     0,
@@ -37,8 +37,8 @@
     1.27,
     1.27,
     1.27,
-    1.27,
     0,
+    1.27,
     1.27,
     1.27,
     1.27,
@@ -50,8 +50,8 @@
     0,
     0,
     0,
-    0,
     -2.1,
+    0,
     0,
     0,
     0,
@@ -71,19 +71,6 @@
     -2.1
   ],
   "partidas": [
-    {
-      "rodada_id": 5,
-      "clube_casa": "Athlético-PR",
-      "clube_casa_id": 293,
-      "clube_visitante": "Corinthians",
-      "clube_casa_abrev": "ATL",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/12/13/escudo65.png",
-      "clube_visitante_id": 264,
-      "clube_visitante_abrev": "COR",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/corinthians_60x60.png",
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 2
-    },
     {
       "rodada_id": 6,
       "clube_casa": "Flamengo",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2017/11/23/Atletico-Mineiro-escudo65px.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 16,
+      "clube_casa": "Grêmio",
+      "clube_casa_id": 284,
+      "clube_visitante": "Athlético-PR",
+      "clube_casa_abrev": "GRE",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/gremio_60x60.png",
+      "clube_visitante_id": 293,
+      "clube_visitante_abrev": "ATL",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/12/13/escudo65.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2019/03/30/d941b7a4bb640424918c02ce3d930666_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2018/12/13/escudo65.png",
   "scouts": {
-    "rodada_id": 15,
+    "rodada_id": 16,
     "rb": 0,
     "g": 0,
     "a": 0,

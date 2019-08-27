@@ -6,7 +6,6 @@
   "clube_id": 282,
   "posicao": "Técnico",
   "rodadas": [
-    5,
     6,
     7,
     8,
@@ -16,10 +15,10 @@
     12,
     13,
     14,
-    15
+    15,
+    16
   ],
   "pontos": [
-    3.46,
     2.48,
     8.94,
     2.83,
@@ -29,10 +28,10 @@
     3.55,
     6,
     4.53,
-    1.72
+    1.72,
+    3.14
   ],
   "precos": [
-    9.87,
     9.87,
     11.24,
     10.42,
@@ -42,10 +41,10 @@
     10.76,
     11.37,
     11.34,
-    10.88
+    10.88,
+    11.03
   ],
   "variacoes": [
-    0.24,
     0,
     1.37,
     -0.82,
@@ -55,10 +54,10 @@
     0.13,
     0.61,
     -0.03,
-    -0.46
+    -0.46,
+    0.15
   ],
   "medias": [
-    4.03,
     3.77,
     4.51,
     4.3,
@@ -68,22 +67,10 @@
     4.12,
     4.26,
     4.28,
-    4.11
+    4.11,
+    4.05
   ],
   "partidas": [
-    {
-      "rodada_id": 5,
-      "clube_casa": "Atlético-MG",
-      "clube_casa_id": 282,
-      "clube_visitante": "Flamengo",
-      "clube_casa_abrev": "ATL",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/equipes/2017/11/23/Atletico-Mineiro-escudo65px.png",
-      "clube_visitante_id": 262,
-      "clube_visitante_abrev": "FLA",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2018/04/09/Flamengo-65.png",
-      "placar_oficial_mandante": 2,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 6,
       "clube_casa": "Grêmio",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2017/11/23/Atletico-Mineiro-escudo65px.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 16,
+      "clube_casa": "Atlético-MG",
+      "clube_casa_id": 282,
+      "clube_visitante": "Bahia",
+      "clube_casa_abrev": "ATL",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/equipes/2017/11/23/Atletico-Mineiro-escudo65px.png",
+      "clube_visitante_id": 265,
+      "clube_visitante_abrev": "BAH",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/bahia_60x60.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2019/04/11/5607c63c174a35d72ef59210e61712a6_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/equipes/2017/11/23/Atletico-Mineiro-escudo65px.png",
   "scouts": {
-    "rodada_id": 15,
+    "rodada_id": 16,
     "rb": 0,
     "g": 0,
     "a": 0,
@@ -237,11 +237,11 @@
     "fc": 0,
     "i": 0,
     "pe": 0,
-    "pontos_num": 1.72,
-    "preco_num": 10.88,
-    "variacao_num": -0.46,
-    "media_num": 4.11,
-    "jogos_num": 15,
+    "pontos_num": 3.14,
+    "preco_num": 11.03,
+    "variacao_num": 0.15,
+    "media_num": 4.05,
+    "jogos_num": 16,
     "posicao_abrev": "tec",
     "posicao": "Técnico"
   }

@@ -129,3 +129,4 @@ create table partidas_rodada (
 - <https://universidadedocartola.com.br/como-ganhar-cartoletas-cartola-fc/>
 - <https://github.com/joaoabcoelho/ModeloCartoletas>
 - <https://speakerdeck.com/steveschoger/practical-solutions-to-common-ui-design-problems?slide=73>
+- <https://search.google.com/search-console/not-verified?original_url=/search-console/ownership&original_resource_id>

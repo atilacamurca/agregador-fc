@@ -6,7 +6,6 @@
   "clube_id": 264,
   "posicao": "Meia",
   "rodadas": [
-    5,
     6,
     7,
     8,
@@ -16,10 +15,10 @@
     12,
     13,
     14,
-    15
+    15,
+    16
   ],
   "pontos": [
-    8.7,
     9.6,
     0,
     0,
@@ -29,10 +28,10 @@
     10.6,
     2.9,
     2.7,
-    11.1
+    11.1,
+    0
   ],
   "precos": [
-    10.86,
     11.99,
     11.99,
     11.99,
@@ -42,10 +41,10 @@
     12.19,
     11.17,
     11.22,
+    12.87,
     12.87
   ],
   "variacoes": [
-    1.26,
     1.13,
     0,
     0,
@@ -55,10 +54,10 @@
     1.32,
     -1.02,
     0.05,
-    1.65
+    1.65,
+    0
   ],
   "medias": [
-    4.4,
     5.44,
     5.44,
     5.44,
@@ -68,22 +67,10 @@
     5.47,
     5.18,
     4.93,
+    5.49,
     5.49
   ],
   "partidas": [
-    {
-      "rodada_id": 5,
-      "clube_casa": "Athlético-PR",
-      "clube_casa_id": 293,
-      "clube_visitante": "Corinthians",
-      "clube_casa_abrev": "ATL",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/12/13/escudo65.png",
-      "clube_visitante_id": 264,
-      "clube_visitante_abrev": "COR",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/corinthians_60x60.png",
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 2
-    },
     {
       "rodada_id": 6,
       "clube_casa": "Corinthians",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/botafogo_60x60.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 16,
+      "clube_casa": "Avaí",
+      "clube_casa_id": 314,
+      "clube_visitante": "Corinthians",
+      "clube_casa_abrev": "AVA",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/09/04/escudo-avai-65x65.png",
+      "clube_visitante_id": 264,
+      "clube_visitante_abrev": "COR",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/corinthians_60x60.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2019/05/23/107e15af982bc755cfbd17f0349f4584_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/corinthians_60x60.png",
   "scouts": {
-    "rodada_id": 15,
+    "rodada_id": 16,
     "rb": 8,
     "g": 4,
     "a": 1,
@@ -237,9 +237,9 @@
     "fc": 2,
     "i": 1,
     "pe": 35,
-    "pontos_num": 11.1,
+    "pontos_num": 0,
     "preco_num": 12.87,
-    "variacao_num": 1.65,
+    "variacao_num": 0,
     "media_num": 5.49,
     "jogos_num": 11,
     "posicao_abrev": "mei",

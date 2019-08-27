@@ -6,7 +6,6 @@
   "clube_id": 314,
   "posicao": "Meia",
   "rodadas": [
-    5,
     6,
     7,
     8,
@@ -16,7 +15,8 @@
     12,
     13,
     14,
-    15
+    15,
+    16
   ],
   "pontos": [
     0,
@@ -37,8 +37,8 @@
     1,
     1,
     1,
-    1,
     0,
+    1,
     1,
     1,
     1,
@@ -71,19 +71,6 @@
     0
   ],
   "partidas": [
-    {
-      "rodada_id": 5,
-      "clube_casa": "Vasco",
-      "clube_casa_id": 267,
-      "clube_visitante": "Avaí",
-      "clube_casa_abrev": "VAS",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/equipes/2016/07/29/Vasco-65.png",
-      "clube_visitante_id": 314,
-      "clube_visitante_abrev": "AVA",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/09/04/escudo-avai-65x65.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 6,
       "clube_casa": "Avaí",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/09/04/escudo-avai-65x65.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 16,
+      "clube_casa": "Avaí",
+      "clube_casa_id": 314,
+      "clube_visitante": "Corinthians",
+      "clube_casa_abrev": "AVA",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/09/04/escudo-avai-65x65.png",
+      "clube_visitante_id": 264,
+      "clube_visitante_abrev": "COR",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/corinthians_60x60.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2019/02/18/802f542c5adf740551a1a6aec66a72ba_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2018/09/04/escudo-avai-65x65.png",
   "scouts": {
-    "rodada_id": 15,
+    "rodada_id": 16,
     "rb": 0,
     "g": 0,
     "a": 0,

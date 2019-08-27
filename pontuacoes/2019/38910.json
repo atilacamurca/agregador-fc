@@ -6,7 +6,6 @@
   "clube_id": 282,
   "posicao": "Atacante",
   "rodadas": [
-    5,
     6,
     7,
     8,
@@ -16,10 +15,10 @@
     12,
     13,
     14,
-    15
+    15,
+    16
   ],
   "pontos": [
-    7.4,
     1.2,
     0,
     0.7,
@@ -29,10 +28,10 @@
     0,
     4.2,
     13.9,
+    0,
     0
   ],
   "precos": [
-    16.49,
     15.53,
     15.53,
     14.5,
@@ -42,10 +41,10 @@
     13.22,
     13.78,
     15.85,
+    15.85,
     15.85
   ],
   "variacoes": [
-    1.12,
     -0.96,
     0,
     -1.03,
@@ -55,10 +54,10 @@
     0,
     0.56,
     2.07,
+    0,
     0
   ],
   "medias": [
-    4.6,
     4.03,
     4.03,
     3.55,
@@ -68,22 +67,10 @@
     2.6,
     2.76,
     3.77,
+    3.77,
     3.77
   ],
   "partidas": [
-    {
-      "rodada_id": 5,
-      "clube_casa": "Atlético-MG",
-      "clube_casa_id": 282,
-      "clube_visitante": "Flamengo",
-      "clube_casa_abrev": "ATL",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/equipes/2017/11/23/Atletico-Mineiro-escudo65px.png",
-      "clube_visitante_id": 262,
-      "clube_visitante_abrev": "FLA",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2018/04/09/Flamengo-65.png",
-      "placar_oficial_mandante": 2,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 6,
       "clube_casa": "Grêmio",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2017/11/23/Atletico-Mineiro-escudo65px.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 16,
+      "clube_casa": "Atlético-MG",
+      "clube_casa_id": 282,
+      "clube_visitante": "Bahia",
+      "clube_casa_abrev": "ATL",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/equipes/2017/11/23/Atletico-Mineiro-escudo65px.png",
+      "clube_visitante_id": 265,
+      "clube_visitante_abrev": "BAH",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/bahia_60x60.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2018/05/07/b853b7148bc822996c8074255a69a3c4_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/equipes/2017/11/23/Atletico-Mineiro-escudo65px.png",
   "scouts": {
-    "rodada_id": 15,
+    "rodada_id": 16,
     "rb": 4,
     "g": 2,
     "a": 2,

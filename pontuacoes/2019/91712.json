@@ -6,7 +6,6 @@
   "clube_id": 290,
   "posicao": "Goleiro",
   "rodadas": [
-    5,
     6,
     7,
     8,
@@ -16,7 +15,8 @@
     12,
     13,
     14,
-    15
+    15,
+    16
   ],
   "pontos": [
     0,
@@ -37,8 +37,8 @@
     1,
     1,
     1,
-    1,
     0,
+    1,
     1,
     1,
     1,
@@ -71,19 +71,6 @@
     0
   ],
   "partidas": [
-    {
-      "rodada_id": 5,
-      "clube_casa": "Goiás",
-      "clube_casa_id": 290,
-      "clube_visitante": "Botafogo",
-      "clube_casa_abrev": "GOI",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/05/01/Goias_65px.png",
-      "clube_visitante_id": 263,
-      "clube_visitante_abrev": "BOT",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/botafogo_60x60.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 6,
       "clube_casa": "CSA",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/05/01/Goias_65px.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 16,
+      "clube_casa": "Goiás",
+      "clube_casa_id": 290,
+      "clube_visitante": "Internacional",
+      "clube_casa_abrev": "GOI",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/05/01/Goias_65px.png",
+      "clube_visitante_id": 285,
+      "clube_visitante_abrev": "INT",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2016/05/03/inter65.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2019/03/26/de03c48f1b1b556b4876bcb937977dfa_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2019/05/01/Goias_65px.png",
   "scouts": {
-    "rodada_id": 15,
+    "rodada_id": 16,
     "rb": 0,
     "g": 0,
     "a": 0,

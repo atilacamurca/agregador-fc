@@ -91,6 +91,13 @@ export default function (Vue, { router, head, isClient }) {
         name: 'og:image',
         content: process.env.GRIDSOME_SITE_URL + '/img/og-img.png'
     })
+    
+    // Google Site Verification
+    head.meta.push({
+        key: 'google-site-verification',
+        name: 'google-site-verification',
+        content: process.env.GRIDSOME_GOOGLE_SITE_VERIFICATION
+    })
 
     head.meta.push({
         key: 'og:locale',

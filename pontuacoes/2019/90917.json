@@ -6,7 +6,6 @@
   "clube_id": 275,
   "posicao": "Atacante",
   "rodadas": [
-    5,
     6,
     7,
     8,
@@ -16,10 +15,10 @@
     12,
     13,
     14,
-    15
+    15,
+    16
   ],
   "pontos": [
-    0,
     0,
     0,
     0,
@@ -29,6 +28,7 @@
     2,
     0,
     0,
+    0,
     0
   ],
   "precos": [
@@ -36,9 +36,9 @@
     5,
     5,
     5,
-    5,
     3.17,
     0,
+    3.67,
     3.67,
     3.67,
     3.67,
@@ -49,10 +49,10 @@
     0,
     0,
     0,
-    0,
     -1.83,
     -2.5,
     0.5,
+    0,
     0,
     0,
     0
@@ -62,28 +62,15 @@
     0,
     0,
     0,
-    0,
     -2.5,
     -2.5,
+    -0.25,
     -0.25,
     -0.25,
     -0.25,
     -0.25
   ],
   "partidas": [
-    {
-      "rodada_id": 5,
-      "clube_casa": "Palmeiras",
-      "clube_casa_id": 275,
-      "clube_visitante": "Santos",
-      "clube_casa_abrev": "PAL",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
-      "clube_visitante_id": 277,
-      "clube_visitante_abrev": "SAN",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/santos_60x60.png",
-      "placar_oficial_mandante": 4,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 6,
       "clube_casa": "Botafogo",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 16,
+      "clube_casa": "Palmeiras",
+      "clube_casa_id": 275,
+      "clube_visitante": "Fluminense",
+      "clube_casa_abrev": "PAL",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
+      "clube_visitante_id": 266,
+      "clube_visitante_abrev": "FLU",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2015/07/21/fluminense_60x60.png",
+      "placar_oficial_mandante": null,
+      "placar_oficial_visitante": null
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2019/01/14/065996f5e53a936d45d1b737405dfb27_140x140.jpeg",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
   "scouts": {
-    "rodada_id": 15,
+    "rodada_id": 16,
     "rb": 1,
     "g": 0,
     "a": 0,

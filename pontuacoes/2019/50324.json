@@ -6,7 +6,6 @@
   "clube_id": 276,
   "posicao": "Meia",
   "rodadas": [
-    5,
     6,
     7,
     8,
@@ -16,10 +15,10 @@
     12,
     13,
     14,
-    15
+    15,
+    16
   ],
   "pontos": [
-    -0.5,
     3.1,
     2.1,
     0.9,
@@ -29,10 +28,10 @@
     0,
     0,
     -0.5,
+    0,
     0
   ],
   "precos": [
-    11.49,
     12.1,
     11.68,
     11.29,
@@ -42,10 +41,10 @@
     11.16,
     11.16,
     10.36,
+    10.36,
     10.36
   ],
   "variacoes": [
-    -1.85,
     0.61,
     -0.42,
     -0.39,
@@ -55,10 +54,10 @@
     0,
     0,
     -0.8,
+    0,
     0
   ],
   "medias": [
-    4.9,
     4.6,
     4.24,
     3.82,
@@ -68,22 +67,10 @@
     3.43,
     3.43,
     3.07,
+    3.07,
     3.07
   ],
   "partidas": [
-    {
-      "rodada_id": 5,
-      "clube_casa": "São Paulo",
-      "clube_casa_id": 276,
-      "clube_visitante": "Bahia",
-      "clube_casa_abrev": "SAO",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/sao_paulo_60x60.png",
-      "clube_visitante_id": 265,
-      "clube_visitante_abrev": "BAH",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/bahia_60x60.png",
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 6,
       "clube_casa": "Corinthians",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2018/05/11/ceara-65x65.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 16,
+      "clube_casa": "Vasco",
+      "clube_casa_id": 267,
+      "clube_visitante": "São Paulo",
+      "clube_casa_abrev": "VAS",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/equipes/2016/07/29/Vasco-65.png",
+      "clube_visitante_id": 276,
+      "clube_visitante_abrev": "SAO",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/sao_paulo_60x60.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2019/04/01/9e5f146e4b4c3975e459435a5ebde804_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/sao_paulo_60x60.png",
   "scouts": {
-    "rodada_id": 15,
+    "rodada_id": 16,
     "rb": 20,
     "g": 1,
     "a": 1,
