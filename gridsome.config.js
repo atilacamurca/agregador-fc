@@ -47,7 +47,7 @@ module.exports = {
         path: 'clubes/**/*.json',
         typeName: 'ClubesTemplate',
       }
-    }/*,
+    },/*,
     {
       use: '@gridsome/plugin-critical',
       options: {
@@ -56,6 +56,34 @@ module.exports = {
         height: 900
       }
     }*/
+    {
+      use: '@gridsome/plugin-sitemap',
+      options: {
+        cacheTime: 600000, // default
+        config: {
+          '/rodada/*': {
+            changefreq: 'weekly',
+            priority: 1.0
+          },
+          '/about': {
+            changefreq: 'monthly',
+            priority: 0.1
+          },
+          '/clubes/*': {
+            changefreq: 'weekly',
+            priority: 0.6
+          },
+          '/melhores/*': {
+            changefreq: 'weekly',
+            priority: 0.6
+          },
+          '/pontuacoes/*': {
+            changefreq: 'weekly',
+            priority: 0.7
+          }
+        }
+      }
+    }
   ],
   chainWebpack: config => {
     config
