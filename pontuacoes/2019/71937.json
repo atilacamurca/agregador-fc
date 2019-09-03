@@ -6,7 +6,6 @@
   "clube_id": 356,
   "posicao": "Meia",
   "rodadas": [
-    6,
     7,
     8,
     9,
@@ -16,10 +15,10 @@
     13,
     14,
     15,
-    16
+    16,
+    17
   ],
   "pontos": [
-    -2.3,
     3.7,
     3.8,
     5.4,
@@ -29,10 +28,10 @@
     9.4,
     7.4,
     6.4,
-    2.4
+    2.4,
+    0
   ],
   "precos": [
-    4.35,
     5.31,
     5.54,
     6.04,
@@ -42,10 +41,10 @@
     7.89,
     7.97,
     8.06,
+    7.45,
     7.45
   ],
   "variacoes": [
-    -1.5,
     0.96,
     0.23,
     0.5,
@@ -55,10 +54,10 @@
     1.37,
     0.08,
     0.09,
-    -0.61
+    -0.61,
+    0
   ],
   "medias": [
-    1.62,
     2.04,
     2.33,
     2.77,
@@ -68,22 +67,10 @@
     4.05,
     4.33,
     4.49,
+    4.34,
     4.34
   ],
   "partidas": [
-    {
-      "rodada_id": 6,
-      "clube_casa": "Fortaleza",
-      "clube_casa_id": 356,
-      "clube_visitante": "Vasco",
-      "clube_casa_abrev": "FOR",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/06/10/fortaleza-ec-65px.png",
-      "clube_visitante_id": 267,
-      "clube_visitante_abrev": "VAS",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2016/07/29/Vasco-65.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 7,
       "clube_casa": "Flamengo",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/06/10/fortaleza-ec-65px.png",
       "placar_oficial_mandante": 3,
       "placar_oficial_visitante": 3
+    },
+    {
+      "rodada_id": 17,
+      "clube_casa": "Fortaleza",
+      "clube_casa_id": 356,
+      "clube_visitante": "Goiás",
+      "clube_casa_abrev": "FOR",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/06/10/fortaleza-ec-65px.png",
+      "clube_visitante_id": 290,
+      "clube_visitante_abrev": "GOI",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/05/01/Goias_65px.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 0
     }
   ],
-  "foto": "https://s.glbimg.com/es/sde/f/2019/04/30/199fd043d747c68f3eb9ac7a9e21216f_140x140.png",
+  "foto": "https://s.glbimg.com/es/sde/f/2019/09/03/f3c44a346794fb67a9084ef89211cd1c_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2018/06/10/fortaleza-ec-65px.png",
   "scouts": {
-    "rodada_id": 16,
+    "rodada_id": 17,
     "rb": 26,
     "g": 2,
     "a": 3,
@@ -237,9 +237,9 @@
     "fc": 28,
     "i": 0,
     "pe": 33,
-    "pontos_num": 2.4,
+    "pontos_num": 0,
     "preco_num": 7.45,
-    "variacao_num": -0.61,
+    "variacao_num": 0,
     "media_num": 4.34,
     "jogos_num": 14,
     "posicao_abrev": "mei",

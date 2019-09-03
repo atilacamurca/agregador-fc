@@ -6,7 +6,6 @@
   "clube_id": 290,
   "posicao": "Técnico",
   "rodadas": [
-    6,
     7,
     8,
     9,
@@ -14,10 +13,10 @@
     11,
     14,
     15,
-    16
+    16,
+    17
   ],
   "pontos": [
-    3.74,
     1.99,
     0.41,
     3.89,
@@ -25,10 +24,10 @@
     1.11,
     2.55,
     3.04,
-    3.73
+    3.73,
+    0.51
   ],
   "precos": [
-    9.02,
     8.64,
     8.24,
     8.8,
@@ -36,10 +35,10 @@
     -0.52,
     8.63,
     8.75,
-    8.86
+    8.86,
+    8.31
   ],
   "variacoes": [
-    0.4,
     -0.38,
     -0.4,
     0.56,
@@ -47,10 +46,10 @@
     3.28,
     0.05,
     0.12,
-    0.11
+    0.11,
+    -0.55
   ],
   "medias": [
-    4.06,
     3.76,
     3.34,
     3.4,
@@ -58,22 +57,10 @@
     3.28,
     3.22,
     3.21,
-    3.25
+    3.25,
+    3.07
   ],
   "partidas": [
-    {
-      "rodada_id": 6,
-      "clube_casa": "CSA",
-      "clube_casa_id": 341,
-      "clube_visitante": "Goiás",
-      "clube_casa_abrev": "CSA",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/equipes/2013/09/18/CSA_65.png",
-      "clube_visitante_id": 290,
-      "clube_visitante_abrev": "GOI",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/05/01/Goias_65px.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 7,
       "clube_casa": "Corinthians",
@@ -177,12 +164,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2016/05/03/inter65.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 17,
+      "clube_casa": "Fortaleza",
+      "clube_casa_id": 356,
+      "clube_visitante": "Goiás",
+      "clube_casa_abrev": "FOR",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/06/10/fortaleza-ec-65px.png",
+      "clube_visitante_id": 290,
+      "clube_visitante_abrev": "GOI",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/05/01/Goias_65px.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2019/08/16/4fdb04d94b755837e1e0f7f90cf60442_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2019/05/01/Goias_65px.png",
   "scouts": {
-    "rodada_id": 16,
+    "rodada_id": 17,
     "rb": 0,
     "g": 0,
     "a": 0,
@@ -201,11 +201,11 @@
     "fc": 0,
     "i": 0,
     "pe": 0,
-    "pontos_num": 3.73,
-    "preco_num": 8.86,
-    "variacao_num": 0.11,
-    "media_num": 3.25,
-    "jogos_num": 14,
+    "pontos_num": 0.51,
+    "preco_num": 8.31,
+    "variacao_num": -0.55,
+    "media_num": 3.07,
+    "jogos_num": 15,
     "posicao_abrev": "tec",
     "posicao": "Técnico"
   }

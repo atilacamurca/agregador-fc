@@ -6,7 +6,6 @@
   "clube_id": 267,
   "posicao": "Meia",
   "rodadas": [
-    6,
     7,
     8,
     9,
@@ -16,10 +15,10 @@
     13,
     14,
     15,
-    16
+    16,
+    17
   ],
   "pontos": [
-    8.5,
     3.9,
     3.7,
     0.4,
@@ -29,10 +28,10 @@
     5.6,
     0.1,
     4.7,
-    1.6
+    1.6,
+    -2
   ],
   "precos": [
-    10.49,
     9.88,
     9.94,
     9.25,
@@ -42,10 +41,10 @@
     10.25,
     9.4,
     10.19,
-    9.62
+    9.62,
+    8.89
   ],
   "variacoes": [
-    1.65,
     -0.61,
     0.06,
     -0.69,
@@ -55,10 +54,10 @@
     1.08,
     -0.85,
     0.79,
-    -0.57
+    -0.57,
+    -0.73
   ],
   "medias": [
-    3.42,
     3.49,
     3.52,
     3.17,
@@ -68,22 +67,10 @@
     3.19,
     2.97,
     3.09,
-    3
+    3,
+    2.71
   ],
   "partidas": [
-    {
-      "rodada_id": 6,
-      "clube_casa": "Fortaleza",
-      "clube_casa_id": 356,
-      "clube_visitante": "Vasco",
-      "clube_casa_abrev": "FOR",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/06/10/fortaleza-ec-65px.png",
-      "clube_visitante_id": 267,
-      "clube_visitante_abrev": "VAS",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2016/07/29/Vasco-65.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 7,
       "clube_casa": "Botafogo",
@@ -213,18 +200,31 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/sao_paulo_60x60.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 17,
+      "clube_casa": "Cruzeiro",
+      "clube_casa_id": 283,
+      "clube_visitante": "Vasco",
+      "clube_casa_abrev": "CRU",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/equipes/2015/04/29/cruzeiro_65.png",
+      "clube_visitante_id": 267,
+      "clube_visitante_abrev": "VAS",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2016/07/29/Vasco-65.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2018/09/27/ade8af11f63aa15e4664fa86f8a48e0e_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/equipes/2016/07/29/Vasco-65.png",
   "scouts": {
-    "rodada_id": 16,
-    "rb": 14,
+    "rodada_id": 17,
+    "rb": 15,
     "g": 2,
     "a": 1,
     "sg": 0,
-    "fs": 30,
-    "ff": 8,
+    "fs": 31,
+    "ff": 9,
     "fd": 3,
     "ft": 1,
     "dd": 0,
@@ -232,16 +232,16 @@
     "gc": 0,
     "cv": 0,
     "ca": 2,
-    "pp": 1,
+    "pp": 2,
     "gs": 0,
     "fc": 9,
-    "i": 0,
-    "pe": 32,
-    "pontos_num": 1.6,
-    "preco_num": 9.62,
-    "variacao_num": -0.57,
-    "media_num": 3,
-    "jogos_num": 16,
+    "i": 1,
+    "pe": 33,
+    "pontos_num": -2,
+    "preco_num": 8.89,
+    "variacao_num": -0.73,
+    "media_num": 2.71,
+    "jogos_num": 17,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }
