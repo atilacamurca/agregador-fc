@@ -6,7 +6,6 @@
   "clube_id": 341,
   "posicao": "Meia",
   "rodadas": [
-    7,
     8,
     9,
     10,
@@ -16,10 +15,10 @@
     14,
     15,
     16,
-    17
+    17,
+    18
   ],
   "pontos": [
-    0,
     9.8,
     1.2,
     -0.3,
@@ -29,10 +28,10 @@
     1.8,
     7.9,
     3.1,
-    4.2
+    4.2,
+    13.9
   ],
   "precos": [
-    3,
     4.47,
     3.3,
     3.04,
@@ -42,10 +41,10 @@
     3.73,
     4.98,
     4.34,
-    4.64
+    4.64,
+    6.61
   ],
   "variacoes": [
-    0,
     1.47,
     -1.17,
     -0.26,
@@ -55,10 +54,10 @@
     -0.14,
     1.25,
     -0.64,
-    0.3
+    0.3,
+    1.97
   ],
   "medias": [
-    0,
     9.8,
     5.5,
     3.57,
@@ -68,22 +67,10 @@
     2.93,
     3.55,
     3.5,
-    3.57
+    3.57,
+    4.51
   ],
   "partidas": [
-    {
-      "rodada_id": 7,
-      "clube_casa": "Atlético-MG",
-      "clube_casa_id": 282,
-      "clube_visitante": "CSA",
-      "clube_casa_abrev": "ATL",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/equipes/2017/11/23/Atletico-Mineiro-escudo65px.png",
-      "clube_visitante_id": 341,
-      "clube_visitante_abrev": "CSA",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2013/09/18/CSA_65.png",
-      "placar_oficial_mandante": 4,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 8,
       "clube_casa": "CSA",
@@ -213,35 +200,48 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2013/09/18/CSA_65.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 18,
+      "clube_casa": "CSA",
+      "clube_casa_id": 341,
+      "clube_visitante": "Chapecoense",
+      "clube_casa_abrev": "CSA",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/equipes/2013/09/18/CSA_65.png",
+      "clube_visitante_id": 315,
+      "clube_visitante_abrev": "CHA",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2015/08/03/Escudo-Chape-165.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2019/06/05/9f3a5b8b8f548ddf62d596532896c337_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/equipes/2013/09/18/CSA_65.png",
   "scouts": {
-    "rodada_id": 17,
-    "rb": 7,
-    "g": 1,
-    "a": 1,
+    "rodada_id": 18,
+    "rb": 9,
+    "g": 2,
+    "a": 2,
     "sg": 0,
-    "fs": 31,
-    "ff": 8,
+    "fs": 32,
+    "ff": 9,
     "fd": 7,
     "ft": 0,
     "dd": 0,
     "dp": 0,
     "gc": 0,
     "cv": 0,
-    "ca": 2,
+    "ca": 3,
     "pp": 0,
     "gs": 0,
-    "fc": 11,
+    "fc": 12,
     "i": 1,
-    "pe": 27,
-    "pontos_num": 4.2,
-    "preco_num": 4.64,
-    "variacao_num": 0.3,
-    "media_num": 3.57,
-    "jogos_num": 10,
+    "pe": 30,
+    "pontos_num": 13.9,
+    "preco_num": 6.61,
+    "variacao_num": 1.97,
+    "media_num": 4.51,
+    "jogos_num": 11,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }

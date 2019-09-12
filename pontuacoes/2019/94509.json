@@ -6,7 +6,6 @@
   "clube_id": 275,
   "posicao": "Meia",
   "rodadas": [
-    7,
     8,
     9,
     10,
@@ -16,10 +15,10 @@
     14,
     15,
     16,
-    17
+    17,
+    18
   ],
   "pontos": [
-    0,
     9.5,
     0,
     0.7,
@@ -29,10 +28,10 @@
     0,
     4.5,
     0,
-    4.8
+    4.8,
+    0
   ],
   "precos": [
-    8,
     8.87,
     8.87,
     7.49,
@@ -42,10 +41,10 @@
     6.99,
     7.79,
     7.79,
+    7.88,
     7.88
   ],
   "variacoes": [
-    0,
     0.87,
     0,
     -1.38,
@@ -55,10 +54,10 @@
     0,
     0.8,
     0,
-    0.09
+    0.09,
+    0
   ],
   "medias": [
-    0,
     9.5,
     9.5,
     5.1,
@@ -68,22 +67,10 @@
     2.64,
     2.95,
     2.95,
+    3.21,
     3.21
   ],
   "partidas": [
-    {
-      "rodada_id": 7,
-      "clube_casa": "Chapecoense",
-      "clube_casa_id": 315,
-      "clube_visitante": "Palmeiras",
-      "clube_casa_abrev": "CHA",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/equipes/2015/08/03/Escudo-Chape-165.png",
-      "clube_visitante_id": 275,
-      "clube_visitante_abrev": "PAL",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 2
-    },
     {
       "rodada_id": 8,
       "clube_casa": "Palmeiras",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
       "placar_oficial_mandante": 3,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 18,
+      "clube_casa": "Goiás",
+      "clube_casa_id": 290,
+      "clube_visitante": "Palmeiras",
+      "clube_casa_abrev": "GOI",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/05/01/Goias_65px.png",
+      "clube_visitante_id": 275,
+      "clube_visitante_abrev": "PAL",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2019/01/14/e85d3259b80c8d878e2b07eae90749ee_140x140.jpeg",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
   "scouts": {
-    "rodada_id": 17,
+    "rodada_id": 18,
     "rb": 6,
     "g": 1,
     "a": 0,
@@ -237,9 +237,9 @@
     "fc": 6,
     "i": 0,
     "pe": 7,
-    "pontos_num": 4.8,
+    "pontos_num": 0,
     "preco_num": 7.88,
-    "variacao_num": 0.09,
+    "variacao_num": 0,
     "media_num": 3.21,
     "jogos_num": 7,
     "posicao_abrev": "mei",

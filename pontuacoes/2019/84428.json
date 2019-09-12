@@ -6,7 +6,6 @@
   "clube_id": 354,
   "posicao": "Meia",
   "rodadas": [
-    7,
     8,
     9,
     10,
@@ -16,10 +15,10 @@
     14,
     15,
     16,
-    17
+    17,
+    18
   ],
   "pontos": [
-    -0.4,
     5.7,
     2.2,
     -0.6,
@@ -29,10 +28,10 @@
     0,
     0,
     0,
-    2.5
+    2.5,
+    0
   ],
   "precos": [
-    4.87,
     6.08,
     5.64,
     5.14,
@@ -42,10 +41,10 @@
     5.28,
     5.28,
     5.28,
+    5.34,
     5.34
   ],
   "variacoes": [
-    -0.76,
     1.21,
     -0.44,
     -0.5,
@@ -55,10 +54,10 @@
     0,
     0,
     0,
-    0.06
+    0.06,
+    0
   ],
   "medias": [
-    2.36,
     2.78,
     2.72,
     2.39,
@@ -68,22 +67,10 @@
     2.11,
     2.11,
     2.11,
+    2.14,
     2.14
   ],
   "partidas": [
-    {
-      "rodada_id": 7,
-      "clube_casa": "Ceará",
-      "clube_casa_id": 354,
-      "clube_visitante": "Santos",
-      "clube_casa_abrev": "CEA",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/equipes/2018/05/11/ceara-65x65.png",
-      "clube_visitante_id": 277,
-      "clube_visitante_abrev": "SAN",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/santos_60x60.png",
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 8,
       "clube_casa": "Ceará",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2018/05/11/ceara-65x65.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 18,
+      "clube_casa": "Corinthians",
+      "clube_casa_id": 264,
+      "clube_visitante": "Ceará",
+      "clube_casa_abrev": "COR",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/corinthians_60x60.png",
+      "clube_visitante_id": 354,
+      "clube_visitante_abrev": "CEA",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2018/05/11/ceara-65x65.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2019/03/28/2036fe932766e953f14ef5fc5ed37a53_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/equipes/2018/05/11/ceara-65x65.png",
   "scouts": {
-    "rodada_id": 17,
+    "rodada_id": 18,
     "rb": 22,
     "g": 0,
     "a": 0,
@@ -237,9 +237,9 @@
     "fc": 17,
     "i": 1,
     "pe": 23,
-    "pontos_num": 2.5,
+    "pontos_num": 0,
     "preco_num": 5.34,
-    "variacao_num": 0.06,
+    "variacao_num": 0,
     "media_num": 2.14,
     "jogos_num": 13,
     "posicao_abrev": "mei",

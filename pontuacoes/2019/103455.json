@@ -6,7 +6,6 @@
   "clube_id": 276,
   "posicao": "Atacante",
   "rodadas": [
-    7,
     8,
     9,
     10,
@@ -16,10 +15,10 @@
     14,
     15,
     16,
-    17
+    17,
+    18
   ],
   "pontos": [
-    0,
     0,
     0,
     3.8,
@@ -29,10 +28,10 @@
     0,
     4.4,
     2.5,
-    -0.1
+    -0.1,
+    0
   ],
   "precos": [
-    11.31,
     11.31,
     11.31,
     11.19,
@@ -42,10 +41,10 @@
     12.46,
     12.11,
     11.73,
+    11.21,
     11.21
   ],
   "variacoes": [
-    0,
     0,
     0,
     -0.12,
@@ -55,10 +54,10 @@
     0,
     -0.35,
     -0.38,
-    -0.52
+    -0.52,
+    0
   ],
   "medias": [
-    4.32,
     4.32,
     4.32,
     4.25,
@@ -68,22 +67,10 @@
     5.48,
     5.37,
     5.11,
+    4.68,
     4.68
   ],
   "partidas": [
-    {
-      "rodada_id": 7,
-      "clube_casa": "São Paulo",
-      "clube_casa_id": 276,
-      "clube_visitante": "Cruzeiro",
-      "clube_casa_abrev": "SAO",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/sao_paulo_60x60.png",
-      "clube_visitante_id": 283,
-      "clube_visitante_abrev": "CRU",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2015/04/29/cruzeiro_65.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 8,
       "clube_casa": "Avaí",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/gremio_60x60.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 18,
+      "clube_casa": "Internacional",
+      "clube_casa_id": 285,
+      "clube_visitante": "São Paulo",
+      "clube_casa_abrev": "INT",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/equipes/2016/05/03/inter65.png",
+      "clube_visitante_id": 276,
+      "clube_visitante_abrev": "SAO",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/sao_paulo_60x60.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2019/04/01/8f7a82b4d2e116fcf5f4b7f1bf94080f_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/sao_paulo_60x60.png",
   "scouts": {
-    "rodada_id": 17,
+    "rodada_id": 18,
     "rb": 13,
     "g": 1,
     "a": 2,
@@ -237,9 +237,9 @@
     "fc": 8,
     "i": 0,
     "pe": 39,
-    "pontos_num": -0.1,
+    "pontos_num": 0,
     "preco_num": 11.21,
-    "variacao_num": -0.52,
+    "variacao_num": 0,
     "media_num": 4.68,
     "jogos_num": 12,
     "posicao_abrev": "ata",

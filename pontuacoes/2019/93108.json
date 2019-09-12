@@ -6,7 +6,6 @@
   "clube_id": 264,
   "posicao": "Meia",
   "rodadas": [
-    7,
     8,
     9,
     10,
@@ -16,10 +15,10 @@
     14,
     15,
     16,
-    17
+    17,
+    18
   ],
   "pontos": [
-    0,
     0,
     0,
     0,
@@ -29,10 +28,10 @@
     0,
     6.7,
     0,
-    12.4
+    12.4,
+    7.4
   ],
   "precos": [
-    6.56,
     6.56,
     6.56,
     6.56,
@@ -42,10 +41,10 @@
     6.58,
     7.44,
     7.44,
-    8.68
+    8.68,
+    8.17
   ],
   "variacoes": [
-    0,
     0,
     0,
     0,
@@ -55,10 +54,10 @@
     0,
     0.86,
     0,
-    1.24
+    1.24,
+    -0.51
   ],
   "medias": [
-    3.35,
     3.35,
     3.35,
     3.35,
@@ -68,22 +67,10 @@
     3.64,
     3.95,
     3.95,
-    4.72
+    4.72,
+    4.94
   ],
   "partidas": [
-    {
-      "rodada_id": 7,
-      "clube_casa": "Corinthians",
-      "clube_casa_id": 264,
-      "clube_visitante": "Goiás",
-      "clube_casa_abrev": "COR",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/corinthians_60x60.png",
-      "clube_visitante_id": 290,
-      "clube_visitante_abrev": "GOI",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/05/01/Goias_65px.png",
-      "placar_oficial_mandante": null,
-      "placar_oficial_visitante": null
-    },
     {
       "rodada_id": 8,
       "clube_casa": "Cruzeiro",
@@ -213,19 +200,32 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2017/11/23/Atletico-Mineiro-escudo65px.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 18,
+      "clube_casa": "Corinthians",
+      "clube_casa_id": 264,
+      "clube_visitante": "Ceará",
+      "clube_casa_abrev": "COR",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/corinthians_60x60.png",
+      "clube_visitante_id": 354,
+      "clube_visitante_abrev": "CEA",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2018/05/11/ceara-65x65.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2019/05/23/3173cd42fd63f03aecc0aa9d2b3fb706_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/corinthians_60x60.png",
   "scouts": {
-    "rodada_id": 17,
-    "rb": 11,
+    "rodada_id": 18,
+    "rb": 15,
     "g": 1,
     "a": 2,
     "sg": 0,
-    "fs": 25,
-    "ff": 8,
-    "fd": 4,
+    "fs": 27,
+    "ff": 9,
+    "fd": 5,
     "ft": 0,
     "dd": 0,
     "dp": 0,
@@ -234,14 +234,14 @@
     "ca": 1,
     "pp": 0,
     "gs": 0,
-    "fc": 2,
+    "fc": 4,
     "i": 0,
-    "pe": 11,
-    "pontos_num": 12.4,
-    "preco_num": 8.68,
-    "variacao_num": 1.24,
-    "media_num": 4.72,
-    "jogos_num": 11,
+    "pe": 13,
+    "pontos_num": 7.4,
+    "preco_num": 8.17,
+    "variacao_num": -0.51,
+    "media_num": 4.94,
+    "jogos_num": 12,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }

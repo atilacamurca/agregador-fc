@@ -6,7 +6,6 @@
   "clube_id": 263,
   "posicao": "Meia",
   "rodadas": [
-    7,
     8,
     9,
     10,
@@ -16,10 +15,10 @@
     14,
     15,
     16,
-    17
+    17,
+    18
   ],
   "pontos": [
-    -1.2,
     0,
     0,
     2.4,
@@ -29,10 +28,10 @@
     4.4,
     -0.4,
     2.3,
-    0
+    0,
+    0.5
   ],
   "precos": [
-    5.6,
     5.6,
     5.6,
     5.86,
@@ -42,10 +41,10 @@
     6.17,
     5.37,
     5.76,
-    5.76
+    5.76,
+    5.41
   ],
   "variacoes": [
-    -0.31,
     0,
     0,
     0.26,
@@ -55,10 +54,10 @@
     0.31,
     -0.8,
     0.39,
-    0
+    0,
+    -0.35
   ],
   "medias": [
-    0.32,
     0.32,
     0.32,
     0.62,
@@ -68,22 +67,10 @@
     1.09,
     0.92,
     1.06,
-    1.06
+    1.06,
+    1.01
   ],
   "partidas": [
-    {
-      "rodada_id": 7,
-      "clube_casa": "Botafogo",
-      "clube_casa_id": 263,
-      "clube_visitante": "Vasco",
-      "clube_casa_abrev": "BOT",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/botafogo_60x60.png",
-      "clube_visitante_id": 267,
-      "clube_visitante_abrev": "VAS",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2016/07/29/Vasco-65.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 8,
       "clube_casa": "CSA",
@@ -213,18 +200,31 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/botafogo_60x60.png",
       "placar_oficial_mandante": 3,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 18,
+      "clube_casa": "Botafogo",
+      "clube_casa_id": 263,
+      "clube_visitante": "Atlético-MG",
+      "clube_casa_abrev": "BOT",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/botafogo_60x60.png",
+      "clube_visitante_id": 282,
+      "clube_visitante_abrev": "ATL",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2017/11/23/Atletico-Mineiro-escudo65px.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2019/03/22/c6c604c007ddce9a6af2b1b8a98f99ff_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/botafogo_60x60.png",
   "scouts": {
-    "rodada_id": 17,
+    "rodada_id": 18,
     "rb": 14,
     "g": 0,
     "a": 0,
     "sg": 0,
     "fs": 12,
-    "ff": 4,
+    "ff": 5,
     "fd": 1,
     "ft": 0,
     "dd": 0,
@@ -236,12 +236,12 @@
     "gs": 0,
     "fc": 4,
     "i": 0,
-    "pe": 39,
-    "pontos_num": 0,
-    "preco_num": 5.76,
-    "variacao_num": 0,
-    "media_num": 1.06,
-    "jogos_num": 10,
+    "pe": 40,
+    "pontos_num": 0.5,
+    "preco_num": 5.41,
+    "variacao_num": -0.35,
+    "media_num": 1.01,
+    "jogos_num": 11,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }

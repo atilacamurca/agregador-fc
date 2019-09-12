@@ -6,7 +6,6 @@
   "clube_id": 290,
   "posicao": "Zagueiro",
   "rodadas": [
-    7,
     8,
     9,
     10,
@@ -16,10 +15,10 @@
     14,
     15,
     16,
-    17
+    17,
+    18
   ],
   "pontos": [
-    0,
     0,
     0,
     0,
@@ -29,10 +28,10 @@
     2,
     11.7,
     -0.3,
-    0
+    0,
+    0.2
   ],
   "precos": [
-    3,
     3,
     3,
     3,
@@ -42,10 +41,10 @@
     2.72,
     4.7,
     2.86,
-    2.87
+    2.87,
+    2.88
   ],
   "variacoes": [
-    0,
     0,
     0,
     0,
@@ -55,6 +54,7 @@
     -0.28,
     1.98,
     -1.84,
+    0.01,
     0.01
   ],
   "medias": [
@@ -64,26 +64,13 @@
     0,
     0,
     0,
-    0,
     2,
     6.85,
     4.47,
-    3.35
+    3.35,
+    2.72
   ],
   "partidas": [
-    {
-      "rodada_id": 7,
-      "clube_casa": "Corinthians",
-      "clube_casa_id": 264,
-      "clube_visitante": "Goiás",
-      "clube_casa_abrev": "COR",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/corinthians_60x60.png",
-      "clube_visitante_id": 290,
-      "clube_visitante_abrev": "GOI",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/05/01/Goias_65px.png",
-      "placar_oficial_mandante": null,
-      "placar_oficial_visitante": null
-    },
     {
       "rodada_id": 8,
       "clube_casa": "Goiás",
@@ -213,17 +200,30 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/05/01/Goias_65px.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 18,
+      "clube_casa": "Goiás",
+      "clube_casa_id": 290,
+      "clube_visitante": "Palmeiras",
+      "clube_casa_abrev": "GOI",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/05/01/Goias_65px.png",
+      "clube_visitante_id": 275,
+      "clube_visitante_abrev": "PAL",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2019/08/16/b5f403743092134524778b2bc6953aca_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2019/05/01/Goias_65px.png",
   "scouts": {
-    "rodada_id": 17,
+    "rodada_id": 18,
     "rb": 3,
     "g": 1,
     "a": 0,
     "sg": 0,
-    "fs": 7,
+    "fs": 9,
     "ff": 0,
     "fd": 0,
     "ft": 0,
@@ -234,14 +234,14 @@
     "ca": 0,
     "pp": 0,
     "gs": 0,
-    "fc": 1,
+    "fc": 2,
     "i": 0,
-    "pe": 7,
-    "pontos_num": 0,
-    "preco_num": 2.87,
+    "pe": 8,
+    "pontos_num": 0.2,
+    "preco_num": 2.88,
     "variacao_num": 0.01,
-    "media_num": 3.35,
-    "jogos_num": 4,
+    "media_num": 2.72,
+    "jogos_num": 5,
     "posicao_abrev": "zag",
     "posicao": "Zagueiro"
   }

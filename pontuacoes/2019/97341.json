@@ -6,7 +6,6 @@
   "clube_id": 283,
   "posicao": "Técnico",
   "rodadas": [
-    7,
     8,
     9,
     10,
@@ -16,10 +15,10 @@
     14,
     15,
     16,
-    17
+    17,
+    18
   ],
   "pontos": [
-    2.09,
     0.72,
     3.46,
     6.25,
@@ -29,10 +28,10 @@
     7.21,
     7.15,
     2.32,
-    4.97
+    4.97,
+    2.02
   ],
   "precos": [
-    6.97,
     6.68,
     7.14,
     7.91,
@@ -42,10 +41,10 @@
     8.42,
     8.68,
     7.93,
-    8.46
+    8.46,
+    8.01
   ],
   "variacoes": [
-    -0.14,
     -0.29,
     0.46,
     0.77,
@@ -55,10 +54,10 @@
     1.18,
     0.26,
     -0.75,
-    0.53
+    0.53,
+    -0.45
   ],
   "medias": [
-    3,
     2.71,
     2.79,
     3.14,
@@ -68,22 +67,10 @@
     3.16,
     3.43,
     3.36,
-    3.45
+    3.45,
+    3.37
   ],
   "partidas": [
-    {
-      "rodada_id": 7,
-      "clube_casa": "São Paulo",
-      "clube_casa_id": 276,
-      "clube_visitante": "Cruzeiro",
-      "clube_casa_abrev": "SAO",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/sao_paulo_60x60.png",
-      "clube_visitante_id": 283,
-      "clube_visitante_abrev": "CRU",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2015/04/29/cruzeiro_65.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 8,
       "clube_casa": "Cruzeiro",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2016/07/29/Vasco-65.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 18,
+      "clube_casa": "Cruzeiro",
+      "clube_casa_id": 283,
+      "clube_visitante": "Grêmio",
+      "clube_casa_abrev": "CRU",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/equipes/2015/04/29/cruzeiro_65.png",
+      "clube_visitante_id": 284,
+      "clube_visitante_abrev": "GRE",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/gremio_60x60.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 4
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2019/09/03/7e583d1f8f55ffb11a525a8e67589acd_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/equipes/2015/04/29/cruzeiro_65.png",
   "scouts": {
-    "rodada_id": 17,
+    "rodada_id": 18,
     "rb": 0,
     "g": 0,
     "a": 0,
@@ -237,11 +237,11 @@
     "fc": 0,
     "i": 0,
     "pe": 0,
-    "pontos_num": 4.97,
-    "preco_num": 8.46,
-    "variacao_num": 0.53,
-    "media_num": 3.45,
-    "jogos_num": 17,
+    "pontos_num": 2.02,
+    "preco_num": 8.01,
+    "variacao_num": -0.45,
+    "media_num": 3.37,
+    "jogos_num": 18,
     "posicao_abrev": "tec",
     "posicao": "Técnico"
   }
