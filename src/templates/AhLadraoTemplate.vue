@@ -63,11 +63,11 @@ query($path: String!) {
 </page-query>
 
 <script>
-import UrlPontuacao from '~/mixins/UrlPontuacao'
+import useLinks from '~/mixins/useLinks'
 
 export default {
     mixins: [
-        new UrlPontuacao()
+        new useLinks()
     ]
 }
 </script>

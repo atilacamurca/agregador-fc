@@ -3,7 +3,8 @@
         class="d-flex align-items-center justify-content-center"
         v-bind="data.attrs">
         <div class="lead mr-sm-3 text-center">
-            {{ props.posicao }} &deg; &bull; {{ props.nome }}
+            <span v-if="posicao">{{ props.posicao }} &deg; &bull;</span>
+            {{ props.nome }}
         </div>
     </b-col>
 </template>
@@ -17,7 +18,7 @@ export default {
         },
         posicao: {
             type: Number,
-            required: true
+            required: false
         }
     }
 }

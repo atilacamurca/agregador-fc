@@ -27,6 +27,7 @@
                                 :title="partida.valida ? '' : 'Partida inválida para a rodada'">
                                 <sumario-partida :partida-data="partida.partida_data"
                                     :local="partida.local"
+                                    class="mb-3"
                                 ></sumario-partida>
                                 <sumario-clubes :clube-casa="partida.clube_casa_abreviacao"
                                     :clube-visitante="partida.clube_visitante_abreviacao"
@@ -276,11 +277,11 @@ query Rodada($path: String!) {
 </page-query>
 
 <script>
-import UrlPontuacao from '~/mixins/UrlPontuacao'
+import useLinks from '~/mixins/useLinks'
 
 export default {
     mixins: [
-        new UrlPontuacao()
+        new useLinks()
     ],
     computed: {
         pageUrl() {

@@ -1,79 +1,85 @@
 <template>
     <Layout>
         <b-row class="mt-2">
-            <b-col md="6" offset-md="3">
-                <div class="d-flex w-100 justify-content-between">
-                    <div class="d-flex align-items-center">
-                        <g-image
-                            :src="$page.clube.escudo_60"
-                            :alt="$page.clube.clube_abrev"
-                            style="width: 40px;height: 40px"
-                        ></g-image>
-                        <h5 class="ml-4">{{ $page.clube.nome_fantasia }}</h5>
-                    </div>
-                    <div class="d-flex align-items-center">
-                        <h4><b-badge variant="success">{{ $page.clube.posicao }} &deg;</b-badge></h4>
-                    </div>
-                </div>
+            <b-col cols="12" sm="5">
+                <header-clube v-bind="$page.clube">
+                </header-clube>
+                <b-row>
+                    <b-col>
+                        <b-card no-body header="Pontuações Médias dos Adversários" class="mt-4">
+                            <b-list-group>
+                                <b-list-group-item
+                                    v-for="item in posicoes"
+                                    :key="item.abrev"
+                                    :href="urlPontuacaoAdversario($page.clube.id, item.abrev)">
+                                    {{ item.nome }}
+                                </b-list-group-item>
+                            </b-list-group>
+                        </b-card>
+                    </b-col>
+                </b-row>
+            </b-col>
+            <b-col cols="12" sm="7">
+                <b-row class="mt-4">
+                    <b-col cols="4">
+                        <h4>Atletas</h4>
+                    </b-col>
+                    <b-col cols="8">
+                        <input
+                            v-model.lazy="filter"
+                            v-debounce="delay"
+                            placeholder="Buscar atleta..."
+                            :autofocus="'autofocus'"
+                            class="form-control"
+                        />
+                    </b-col>
+                </b-row>
+                <b-row>
+                    <b-col cols="12">
+                            <hr>
+                            <b-card no-body>
+                                <b-list-group flush>
+                                    <b-list-group-item v-for="item in atletas"
+                                        :key="item.id"
+                                        :href="urlPontuacao()(item.id)">
+                                        <div class="d-flex justify-content-between">
+                                            <div class="d-flex flex-column align-items-center"
+                                                style="width: 120px">
+                                                <div>
+                                                    <g-image
+                                                        :src="item.foto"
+                                                        :alt="item.apelido"
+                                                        style="width: 64px;height: 64px"
+                                                        class="img-thumbnail rounded-circle"
+                                                    ></g-image>
+                                                </div>
+                                                <div class="lead text-center">{{ item.apelido }}</div>
+                                            </div>
+                                            <div class="d-flex flex-column align-items-center justify-content-center">
+                                                <div>
+                                                    <span>
+                                                        {{ item.posicao }}
+                                                    </span>
+                                                </div>
+                                                <div>
+                                                    <b-badge variant="dark">ULT. {{ item.pontos_num }}</b-badge>
+                                                    &nbsp;
+                                                    <variacao-num variant="light" :variacao_num="item.variacao_num"></variacao-num>
+                                                </div>
+                                                <div>
+                                                    <b-badge variant="warning">M {{ item.media_num }}</b-badge>
+                                                    em <b-badge variant="light">{{ item.jogos_num }} J</b-badge>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </b-list-group-item>
+                                </b-list-group>
+                            </b-card>
+                    </b-col>
+                </b-row>
             </b-col>
       </b-row>
-      <b-row class="mt-4">
-          <b-col cols="4" sm="2" offset-sm="3">
-            <h4>Atletas</h4>
-          </b-col>
-          <b-col cols="8" sm="4">
-              <input
-                v-model.lazy="filter"
-                v-debounce="delay"
-                placeholder="Buscar atleta..."
-                :autofocus="'autofocus'"
-                class="form-control"
-            />
-          </b-col>
-      </b-row>
-      <b-row>
-          <b-col sm="8" offset-sm="2" lg="6" offset-lg="3">
-                <hr>
-                <b-card no-body>
-                    <b-list-group flush>
-                        <b-list-group-item v-for="item in atletas"
-                            :key="item.id"
-                            :href="urlPontuacao()(item.id)">
-                            <div class="d-flex justify-content-between">
-                                <div class="d-flex flex-column align-items-center"
-                                    style="width: 120px">
-                                    <div>
-                                        <g-image
-                                            :src="item.foto"
-                                            :alt="item.apelido"
-                                            style="width: 64px;height: 64px"
-                                            class="img-thumbnail rounded-circle"
-                                        ></g-image>
-                                    </div>
-                                    <div class="lead text-center">{{ item.apelido }}</div>
-                                </div>
-                                <div class="d-flex flex-column align-items-center justify-content-center">
-                                    <div>
-                                        <span>
-                                            {{ item.posicao }}
-                                        </span>
-                                    </div>
-                                    <div>
-                                        <b-badge variant="dark">ULT. {{ item.pontos_num }}</b-badge>
-                                        &nbsp;
-                                        <variacao-num variant="light" :variacao_num="item.variacao_num"></variacao-num>
-                                    </div>
-                                    <div>
-                                        <b-badge variant="warning">M {{ item.media_num }}</b-badge>
-                                        em <b-badge variant="light">{{ item.jogos_num }} J</b-badge>
-                                    </div>
-                                </div>
-                            </div>
-                        </b-list-group-item>
-                    </b-list-group>
-                </b-card>
-          </b-col>
-      </b-row>
+
     </Layout>
 </template>
 
@@ -102,7 +108,8 @@ query($path: String!) {
 </page-query>
 
 <script>
-import UrlPontuacao from '~/mixins/UrlPontuacao'
+import useLinks from '~/mixins/useLinks'
+import posicoes from '~/mixins/posicoes'
 import Fuse from 'fuse.js'
 import debounce from 'v-debounce'
 
@@ -119,7 +126,8 @@ export default {
         }
     },
     mixins: [
-        new UrlPontuacao()
+        new useLinks(),
+        new posicoes()
     ],
     directives: {
         debounce
@@ -133,6 +141,9 @@ export default {
                 return this.$page.clube.atletas;
             }
             return this.fuse.search(this.filter)
+        },
+        urlPontuacaoAdversario() {
+            return this.makeUrlPontuacaoAdversario()
         }
     }
 }

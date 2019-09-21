@@ -9,7 +9,7 @@
                             alt="logo"
                             src="~/assets/img/logo-rounded.svg"
                             width="48"/>
-                        <span class="underline-from-center ml-2">{{ $static.metaData.siteName }}</span>
+                        <span class="underline-from-center ml-2">{{ $static.metadata.siteName }}</span>
                     </g-link>
                 </div>
                 <div class="d-flex justify-content-end">
@@ -33,7 +33,7 @@
 
 <static-query>
 query {
-  metaData {
+  metadata {
     siteName
   }
 }

@@ -37,7 +37,7 @@ module.exports = {
     {
       use: '@gridsome/source-filesystem',
       options: {
-        path: 'pontuacoes/**/*.json',
+        path: 'pontuacoes/atleta/**/*.json',
         typeName: 'PontuacaoesTemplate',
       }
     },
@@ -46,6 +46,13 @@ module.exports = {
       options: {
         path: 'clubes/**/*.json',
         typeName: 'ClubesTemplate',
+      }
+    },
+    {
+      use: '@gridsome/source-filesystem',
+      options: {
+        path: 'pontuacoes/adversario/**/*.json',
+        typeName: 'PontuacaoesAdversarioTemplate',
       }
     },/*,
     {

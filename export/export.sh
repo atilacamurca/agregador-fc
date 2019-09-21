@@ -91,6 +91,11 @@ clubes_atletas() {
     node export/clubes-atletas.js
 }
 
+pontuacao_adversario_posicao() {
+    echo "Exportando pontuações dos adversários por posição ..."
+    node export/pontuacao-adversario-posicao.js
+}
+
 typeset -i i END
 let END=${RODADA_ATUAL_ID}-1 i=4
 while ((i<=END)); do
@@ -109,3 +114,4 @@ ah_ladrao
 acima_media
 atletas_pontuacao
 clubes_atletas
+pontuacao_adversario_posicao

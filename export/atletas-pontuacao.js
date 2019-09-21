@@ -81,13 +81,11 @@ client.connect()
     .then(async atletas => {
         console.log(`Exportando pontuações do ano de ${CURRENT_YEAR} ...`)
 
-        const pathRodada = path.resolve(__dirname, '../pontuacoes', `${CURRENT_YEAR}`)
+        const pathRodada = path.resolve(__dirname, '../pontuacoes/atleta', `${CURRENT_YEAR}`)
         for (i in atletas) {
             const a = atletas[i]
             const filename = `${pathRodada}/${a.atleta_id}.json`
-            fs.writeFileSync(filename, JSON.stringify({
-                ... a
-            }, null, 2))
+            fs.writeFileSync(filename, JSON.stringify(a, null, 2))
         }
         await client.end()
     })

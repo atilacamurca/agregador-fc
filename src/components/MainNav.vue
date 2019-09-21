@@ -3,7 +3,7 @@
         <b-container>
             <b-navbar-brand href="#" to="/">
                 <g-image class="color-brand-logo" alt="logo" src="~/assets/img/logo.svg" width="30"/>
-                {{ $static.metaData.siteName }}
+                {{ $static.metadata.siteName }}
             </b-navbar-brand>
             <b-navbar-toggle target="nav-collapse"></b-navbar-toggle>
             <b-collapse id="nav-collapse" is-nav>
@@ -18,7 +18,7 @@
 
 <static-query>
 query {
-  metaData {
+  metadata {
     siteName
   }
 }

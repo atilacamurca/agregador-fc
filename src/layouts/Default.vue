@@ -22,6 +22,7 @@ export default {
 <style scoped>
 .app {
     padding-top: 80px;
+    padding-bottom: 80px;
     font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
     background: #009FFF;
     background: -webkit-linear-gradient(135deg, #009FFF, #EC2F4C) fixed;

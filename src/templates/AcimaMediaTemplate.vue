@@ -40,7 +40,6 @@
             :atletas="$page.dados.zagueiros"
             :urlPontuacao="urlPontuacao()"
         ></row-acima-media>
-        <hr>
         <row-acima-media
             title="Meias"
             id="meias"
@@ -185,11 +184,11 @@ query($path: String!) {
 </page-query>
 
 <script>
-import UrlPontuacao from '~/mixins/UrlPontuacao'
+import useLinks from '~/mixins/useLinks'
 
 export default {
     mixins: [
-        new UrlPontuacao()
+        new useLinks()
     ]
 }
 </script>

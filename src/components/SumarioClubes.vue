@@ -1,7 +1,7 @@
 <template functional>
-    <b-row>
+    <b-row class="h-100">
         <b-col md="12">
-            <b-row>
+            <b-row class="h-100">
                 <col-nome
                     :nome="props.clubeCasa"
                     :posicao="props.clubeCasaPosicao"
@@ -13,10 +13,10 @@
                     order="1"
                     order-md="2">
                     <div class="mx-2">
-                        <g-image width="40px"
+                        <g-image :width="props.escudoSize"
                             :src="props.escudoCasa"
                             alt="escudo-casa"
-                            style="width: 40px; height: 40px;"
+                            :style="{width: props.escudoSize, height: props.escudoSize}"
                         ></g-image>
                     </div>
                     <div class="text-center d-flex flex-direction-column lead">
@@ -25,10 +25,10 @@
                         <span>{{ props.placarVisitante }}</span>
                     </div>
                     <div class="mx-2">
-                        <g-image width="40px"
+                        <g-image :width="props.escudoSize"
                             :src="props.escudoVisitante"
                             alt="escudo-visitante"
-                            style="width: 40px; height: 40px;"
+                            :style="{width: props.escudoSize, height: props.escudoSize}"
                         ></g-image>
                     </div>
                 </b-col>
@@ -66,11 +66,16 @@ export default {
         placarVisitante: null,
         clubeCasaPosicao: {
             type: Number,
-            required: true
+            required: false
         },
         clubeVisitantePosicao: {
             type: Number,
-            required: true
+            required: false
+        },
+        escudoSize: {
+            type: String,
+            reqyured: false,
+            default: '40px'
         }
     }
 }

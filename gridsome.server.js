@@ -13,7 +13,7 @@ const rodadaAtual = require(`./rodada/${CURRENT_YEAR}/${RODADA_ATUAL_ID}.json`)
 module.exports = function (api) {
   api.loadSource(store => {
     // Use the Data store API here: https://gridsome.org/docs/data-store-api
-    const contentType = store.addContentType({
+    const contentType = store.addCollection({
       typeName: 'RodadaAtualTemplate'
     })
 
