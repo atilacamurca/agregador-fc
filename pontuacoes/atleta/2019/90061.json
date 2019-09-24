@@ -6,7 +6,6 @@
   "clube_id": 315,
   "posicao": "Lateral",
   "rodadas": [
-    9,
     10,
     11,
     12,
@@ -16,10 +15,10 @@
     16,
     17,
     18,
-    19
+    19,
+    20
   ],
   "pontos": [
-    0,
     4.2,
     1.9,
     6.9,
@@ -29,10 +28,10 @@
     9.6,
     5.7,
     -0.4,
-    6.9
+    6.9,
+    5.5
   ],
   "precos": [
-    12.2,
     13.18,
     -0.4,
     13.57,
@@ -42,10 +41,10 @@
     14.06,
     13.59,
     12.51,
-    13.68
+    13.68,
+    13.49
   ],
   "variacoes": [
-    0,
     0.98,
     3.43,
     0.79,
@@ -55,10 +54,10 @@
     1.14,
     -0.47,
     -1.08,
-    1.17
+    1.17,
+    -0.19
   ],
   "medias": [
-    3.53,
     3.6,
     3.43,
     3.75,
@@ -68,22 +67,10 @@
     3.69,
     3.82,
     3.57,
-    3.75
+    3.75,
+    3.84
   ],
   "partidas": [
-    {
-      "rodada_id": 9,
-      "clube_casa": "Chapecoense",
-      "clube_casa_id": 315,
-      "clube_visitante": "Fluminense",
-      "clube_casa_abrev": "CHA",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/equipes/2015/08/03/Escudo-Chape-165.png",
-      "clube_visitante_id": 266,
-      "clube_visitante_abrev": "FLU",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2015/07/21/fluminense_60x60.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 10,
       "clube_casa": "Chapecoense",
@@ -213,18 +200,31 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2016/07/29/Vasco-65.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 20,
+      "clube_casa": "Internacional",
+      "clube_casa_id": 285,
+      "clube_visitante": "Chapecoense",
+      "clube_casa_abrev": "INT",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/equipes/2016/05/03/inter65.png",
+      "clube_visitante_id": 315,
+      "clube_visitante_abrev": "CHA",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2015/08/03/Escudo-Chape-165.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2018/05/24/bcba131b890d61329d3dd3d53d25182e_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/equipes/2015/08/03/Escudo-Chape-165.png",
   "scouts": {
-    "rodada_id": 19,
-    "rb": 37,
+    "rodada_id": 20,
+    "rb": 40,
     "g": 0,
     "a": 2,
     "sg": 4,
-    "fs": 40,
-    "ff": 1,
+    "fs": 42,
+    "ff": 2,
     "fd": 0,
     "ft": 0,
     "dd": 0,
@@ -234,14 +234,14 @@
     "ca": 2,
     "pp": 0,
     "gs": 0,
-    "fc": 31,
+    "fc": 32,
     "i": 0,
-    "pe": 48,
-    "pontos_num": 6.9,
-    "preco_num": 13.68,
-    "variacao_num": 1.17,
-    "media_num": 3.75,
-    "jogos_num": 18,
+    "pe": 49,
+    "pontos_num": 5.5,
+    "preco_num": 13.49,
+    "variacao_num": -0.19,
+    "media_num": 3.84,
+    "jogos_num": 19,
     "posicao_abrev": "lat",
     "posicao": "Lateral"
   }

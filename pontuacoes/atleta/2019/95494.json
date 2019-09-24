@@ -6,7 +6,6 @@
   "clube_id": 277,
   "posicao": "Zagueiro",
   "rodadas": [
-    9,
     10,
     11,
     12,
@@ -16,10 +15,10 @@
     16,
     17,
     18,
-    19
+    19,
+    20
   ],
   "pontos": [
-    4.4,
     5,
     7.7,
     3.4,
@@ -29,10 +28,10 @@
     4,
     9.4,
     4,
+    0,
     0
   ],
   "precos": [
-    4.71,
     5.12,
     0.84,
     5.43,
@@ -42,10 +41,10 @@
     5.56,
     6.71,
     6.02,
+    6.02,
     6.02
   ],
   "variacoes": [
-    0.78,
     0.41,
     3.02,
     -0.53,
@@ -55,10 +54,10 @@
     0.56,
     1.15,
     -0.69,
+    0,
     0
   ],
   "medias": [
-    2.07,
     2.44,
     3.02,
     3.06,
@@ -68,22 +67,10 @@
     2.93,
     3.43,
     3.47,
+    3.47,
     3.47
   ],
   "partidas": [
-    {
-      "rodada_id": 9,
-      "clube_casa": "Santos",
-      "clube_casa_id": 277,
-      "clube_visitante": "Corinthians",
-      "clube_casa_abrev": "SAN",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/santos_60x60.png",
-      "clube_visitante_id": 264,
-      "clube_visitante_abrev": "COR",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/corinthians_60x60.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 10,
       "clube_casa": "Bahia",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/santos_60x60.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 20,
+      "clube_casa": "Santos",
+      "clube_casa_id": 277,
+      "clube_visitante": "Grêmio",
+      "clube_casa_abrev": "SAN",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/santos_60x60.png",
+      "clube_visitante_id": 284,
+      "clube_visitante_abrev": "GRE",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/gremio_60x60.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 3
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2019/03/28/938d6ad9b3c0aa9f3fa04ed1ae5193a6_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/santos_60x60.png",
   "scouts": {
-    "rodada_id": 19,
+    "rodada_id": 20,
     "rb": 21,
     "g": 0,
     "a": 0,

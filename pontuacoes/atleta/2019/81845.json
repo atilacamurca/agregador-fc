@@ -6,7 +6,6 @@
   "clube_id": 284,
   "posicao": "Meia",
   "rodadas": [
-    9,
     10,
     11,
     12,
@@ -16,10 +15,10 @@
     16,
     17,
     18,
-    19
+    19,
+    20
   ],
   "pontos": [
-    2.5,
     0,
     0,
     0,
@@ -29,10 +28,10 @@
     0,
     0,
     7.5,
-    15
+    15,
+    5.5
   ],
   "precos": [
-    6.86,
     6.86,
     0,
     6.86,
@@ -42,10 +41,10 @@
     7.5,
     7.5,
     7.79,
-    9.39
+    9.39,
+    8.08
   ],
   "variacoes": [
-    0.04,
     0,
     3.87,
     0,
@@ -55,10 +54,10 @@
     0,
     0,
     0.29,
-    1.6
+    1.6,
+    -1.31
   ],
   "medias": [
-    3.87,
     3.87,
     3.87,
     3.87,
@@ -68,22 +67,10 @@
     4.23,
     4.23,
     4.64,
-    5.79
+    5.79,
+    5.76
   ],
   "partidas": [
-    {
-      "rodada_id": 9,
-      "clube_casa": "Botafogo",
-      "clube_casa_id": 263,
-      "clube_visitante": "Grêmio",
-      "clube_casa_abrev": "BOT",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/botafogo_60x60.png",
-      "clube_visitante_id": 284,
-      "clube_visitante_abrev": "GRE",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/gremio_60x60.png",
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 10,
       "clube_casa": "Grêmio",
@@ -213,19 +200,32 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/05/01/Goias_65px.png",
       "placar_oficial_mandante": 3,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 20,
+      "clube_casa": "Santos",
+      "clube_casa_id": 277,
+      "clube_visitante": "Grêmio",
+      "clube_casa_abrev": "SAN",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/santos_60x60.png",
+      "clube_visitante_id": 284,
+      "clube_visitante_abrev": "GRE",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/gremio_60x60.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 3
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2018/05/18/eeeced6e37969b2b8161eb83c56d069e_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/gremio_60x60.png",
   "scouts": {
-    "rodada_id": 19,
-    "rb": 10,
+    "rodada_id": 20,
+    "rb": 11,
     "g": 2,
-    "a": 4,
+    "a": 5,
     "sg": 0,
-    "fs": 17,
+    "fs": 18,
     "ff": 4,
-    "fd": 5,
+    "fd": 6,
     "ft": 0,
     "dd": 0,
     "dp": 0,
@@ -234,14 +234,14 @@
     "ca": 4,
     "pp": 0,
     "gs": 0,
-    "fc": 10,
+    "fc": 13,
     "i": 0,
-    "pe": 12,
-    "pontos_num": 15,
-    "preco_num": 9.39,
-    "variacao_num": 1.6,
-    "media_num": 5.79,
-    "jogos_num": 9,
+    "pe": 16,
+    "pontos_num": 5.5,
+    "preco_num": 8.08,
+    "variacao_num": -1.31,
+    "media_num": 5.76,
+    "jogos_num": 10,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }

@@ -6,7 +6,6 @@
   "clube_id": 262,
   "posicao": "Técnico",
   "rodadas": [
-    9,
     10,
     11,
     12,
@@ -16,10 +15,10 @@
     16,
     17,
     18,
-    19
+    19,
+    20
   ],
   "pontos": [
-    0,
     9.75,
     1.66,
     4.22,
@@ -29,10 +28,10 @@
     9.05,
     7.31,
     9.45,
-    5.83
+    5.83,
+    4.36
   ],
   "precos": [
-    12.52,
     13.97,
     -1.26,
     12.94,
@@ -42,10 +41,10 @@
     14.38,
     14.45,
     15.17,
-    14.73
+    14.73,
+    14.49
   ],
   "variacoes": [
-    0,
     1.45,
     5.71,
     0.23,
@@ -55,10 +54,10 @@
     0.74,
     0.07,
     0.72,
-    -0.44
+    -0.44,
+    -0.24
   ],
   "medias": [
-    0,
     9.75,
     5.71,
     5.21,
@@ -68,22 +67,10 @@
     5.41,
     5.65,
     6.07,
-    6.05
+    6.05,
+    5.9
   ],
   "partidas": [
-    {
-      "rodada_id": 9,
-      "clube_casa": "CSA",
-      "clube_casa_id": 341,
-      "clube_visitante": "Flamengo",
-      "clube_casa_abrev": "CSA",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/equipes/2013/09/18/CSA_65.png",
-      "clube_visitante_id": 262,
-      "clube_visitante_abrev": "FLA",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2018/04/09/Flamengo-65.png",
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 2
-    },
     {
       "rodada_id": 10,
       "clube_casa": "Flamengo",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/santos_60x60.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 20,
+      "clube_casa": "Cruzeiro",
+      "clube_casa_id": 283,
+      "clube_visitante": "Flamengo",
+      "clube_casa_abrev": "CRU",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/equipes/2015/04/29/cruzeiro_65.png",
+      "clube_visitante_id": 262,
+      "clube_visitante_abrev": "FLA",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2018/04/09/Flamengo-65.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2019/07/09/26c25e5a9a9db587106dd377725a743a_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/equipes/2018/04/09/Flamengo-65.png",
   "scouts": {
-    "rodada_id": 19,
+    "rodada_id": 20,
     "rb": 0,
     "g": 0,
     "a": 0,
@@ -237,11 +237,11 @@
     "fc": 0,
     "i": 0,
     "pe": 0,
-    "pontos_num": 5.83,
-    "preco_num": 14.73,
-    "variacao_num": -0.44,
-    "media_num": 6.05,
-    "jogos_num": 10,
+    "pontos_num": 4.36,
+    "preco_num": 14.49,
+    "variacao_num": -0.24,
+    "media_num": 5.9,
+    "jogos_num": 11,
     "posicao_abrev": "tec",
     "posicao": "Técnico"
   }

@@ -6,7 +6,6 @@
   "clube_id": 264,
   "posicao": "Goleiro",
   "rodadas": [
-    9,
     10,
     11,
     12,
@@ -16,10 +15,10 @@
     16,
     17,
     18,
-    19
+    19,
+    20
   ],
   "pontos": [
-    0,
     8,
     4,
     -2,
@@ -29,10 +28,10 @@
     -2.3,
     11.5,
     1.4,
+    -2,
     -2
   ],
   "precos": [
-    8.71,
     8.97,
     -0.4,
     7.39,
@@ -42,10 +41,10 @@
     7.6,
     10.05,
     8.52,
-    7.81
+    7.81,
+    7.62
   ],
   "variacoes": [
-    0,
     0.26,
     5.51,
     -1.18,
@@ -55,10 +54,10 @@
     -1.49,
     2.45,
     -1.53,
-    -0.71
+    -0.71,
+    -0.19
   ],
   "medias": [
-    5.35,
     5.73,
     5.51,
     4.68,
@@ -68,22 +67,10 @@
     4.37,
     4.92,
     4.67,
-    4.23
+    4.23,
+    3.84
   ],
   "partidas": [
-    {
-      "rodada_id": 9,
-      "clube_casa": "Santos",
-      "clube_casa_id": 277,
-      "clube_visitante": "Corinthians",
-      "clube_casa_abrev": "SAN",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/santos_60x60.png",
-      "clube_visitante_id": 264,
-      "clube_visitante_abrev": "COR",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/corinthians_60x60.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 10,
       "clube_casa": "Corinthians",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/corinthians_60x60.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 20,
+      "clube_casa": "Corinthians",
+      "clube_casa_id": 264,
+      "clube_visitante": "Bahia",
+      "clube_casa_abrev": "COR",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/corinthians_60x60.png",
+      "clube_visitante_id": 265,
+      "clube_visitante_abrev": "BAH",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/bahia_60x60.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2019/05/18/a1c0088018f45c558e550b2e63d482e8_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/corinthians_60x60.png",
   "scouts": {
-    "rodada_id": 19,
+    "rodada_id": 20,
     "rb": 0,
     "g": 0,
     "a": 0,
@@ -233,15 +233,15 @@
     "cv": 0,
     "ca": 3,
     "pp": 0,
-    "gs": 11,
+    "gs": 12,
     "fc": 0,
     "i": 0,
     "pe": 7,
     "pontos_num": -2,
-    "preco_num": 7.81,
-    "variacao_num": -0.71,
-    "media_num": 4.23,
-    "jogos_num": 15,
+    "preco_num": 7.62,
+    "variacao_num": -0.19,
+    "media_num": 3.84,
+    "jogos_num": 16,
     "posicao_abrev": "gol",
     "posicao": "Goleiro"
   }

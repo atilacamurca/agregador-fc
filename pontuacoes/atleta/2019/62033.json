@@ -6,7 +6,6 @@
   "clube_id": 265,
   "posicao": "Atacante",
   "rodadas": [
-    9,
     10,
     11,
     12,
@@ -16,10 +15,10 @@
     16,
     17,
     18,
-    19
+    19,
+    20
   ],
   "pontos": [
-    11.1,
     0,
     0,
     1.5,
@@ -29,10 +28,10 @@
     0,
     0,
     0,
-    0.8
+    0.8,
+    0
   ],
   "precos": [
-    8.47,
     6.86,
     -0.1,
     6.89,
@@ -42,10 +41,10 @@
     6.43,
     6.35,
     6.27,
-    6.33
+    6.33,
+    6.12
   ],
   "variacoes": [
-    1.72,
     -1.61,
     3.09,
     0.13,
@@ -55,10 +54,10 @@
     -0.59,
     -0.08,
     -0.08,
-    0.06
+    0.06,
+    -0.21
   ],
   "medias": [
-    3.86,
     3.43,
     3.09,
     2.95,
@@ -68,22 +67,10 @@
     2.44,
     2.28,
     2.14,
-    2.06
+    2.06,
+    1.95
   ],
   "partidas": [
-    {
-      "rodada_id": 9,
-      "clube_casa": "Internacional",
-      "clube_casa_id": 285,
-      "clube_visitante": "Bahia",
-      "clube_casa_abrev": "INT",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/equipes/2016/05/03/inter65.png",
-      "clube_visitante_id": 265,
-      "clube_visitante_abrev": "BAH",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/bahia_60x60.png",
-      "placar_oficial_mandante": 3,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 10,
       "clube_casa": "Bahia",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/06/10/fortaleza-ec-65px.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 20,
+      "clube_casa": "Corinthians",
+      "clube_casa_id": 264,
+      "clube_visitante": "Bahia",
+      "clube_casa_abrev": "COR",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/corinthians_60x60.png",
+      "clube_visitante_id": 265,
+      "clube_visitante_abrev": "BAH",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/bahia_60x60.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2019/02/27/c71b608a8727463f7418750e4b406c48_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/bahia_60x60.png",
   "scouts": {
-    "rodada_id": 19,
+    "rodada_id": 20,
     "rb": 5,
     "g": 2,
     "a": 0,
@@ -237,11 +237,11 @@
     "fc": 5,
     "i": 4,
     "pe": 9,
-    "pontos_num": 0.8,
-    "preco_num": 6.33,
-    "variacao_num": 0.06,
-    "media_num": 2.06,
-    "jogos_num": 17,
+    "pontos_num": 0,
+    "preco_num": 6.12,
+    "variacao_num": -0.21,
+    "media_num": 1.95,
+    "jogos_num": 18,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }
