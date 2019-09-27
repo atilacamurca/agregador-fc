@@ -6,7 +6,6 @@
   "clube_id": 262,
   "posicao": "Zagueiro",
   "rodadas": [
-    10,
     11,
     12,
     13,
@@ -16,10 +15,10 @@
     17,
     18,
     19,
-    20
+    20,
+    21
   ],
   "pontos": [
-    0,
     0,
     1.2,
     0,
@@ -29,10 +28,10 @@
     5,
     0,
     0,
+    0,
     0
   ],
   "precos": [
-    3.47,
     0,
     2.7,
     2.5,
@@ -42,10 +41,10 @@
     3.28,
     3.28,
     3.28,
+    3.28,
     3.28
   ],
   "variacoes": [
-    0,
     1.4,
     -0.77,
     -0.2,
@@ -55,10 +54,10 @@
     1.03,
     0,
     0,
+    0,
     0
   ],
   "medias": [
-    1.4,
     1.4,
     1.36,
     1.13,
@@ -68,22 +67,10 @@
     1.21,
     1.21,
     1.21,
+    1.21,
     1.21
   ],
   "partidas": [
-    {
-      "rodada_id": 10,
-      "clube_casa": "Flamengo",
-      "clube_casa_id": 262,
-      "clube_visitante": "Goiás",
-      "clube_casa_abrev": "FLA",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/equipes/2018/04/09/Flamengo-65.png",
-      "clube_visitante_id": 290,
-      "clube_visitante_abrev": "GOI",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/05/01/Goias_65px.png",
-      "placar_oficial_mandante": 6,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 11,
       "clube_casa": "Corinthians",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2018/04/09/Flamengo-65.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 21,
+      "clube_casa": "Flamengo",
+      "clube_casa_id": 262,
+      "clube_visitante": "Internacional",
+      "clube_casa_abrev": "FLA",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/equipes/2018/04/09/Flamengo-65.png",
+      "clube_visitante_id": 285,
+      "clube_visitante_abrev": "INT",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2016/05/03/inter65.png",
+      "placar_oficial_mandante": 3,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2019/04/26/95196820b7c23e6db6715208a1fd4ea6_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/equipes/2018/04/09/Flamengo-65.png",
   "scouts": {
-    "rodada_id": 20,
+    "rodada_id": 21,
     "rb": 4,
     "g": 0,
     "a": 0,

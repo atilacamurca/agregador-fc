@@ -6,7 +6,6 @@
   "clube_id": 293,
   "posicao": "Zagueiro",
   "rodadas": [
-    10,
     11,
     12,
     13,
@@ -16,10 +15,10 @@
     17,
     18,
     19,
-    20
+    20,
+    21
   ],
   "pontos": [
-    0,
     0,
     0,
     0,
@@ -29,10 +28,10 @@
     0,
     0,
     0,
-    -0.3
+    -0.3,
+    1.5
   ],
   "precos": [
-    2.64,
     0,
     2.64,
     2.64,
@@ -42,10 +41,10 @@
     2.77,
     2.77,
     2.77,
-    2.37
+    2.37,
+    2.67
   ],
   "variacoes": [
-    0,
     1.85,
     0,
     0,
@@ -55,35 +54,23 @@
     0,
     0,
     0,
-    -0.4
+    -0.4,
+    0.3
   ],
   "medias": [
     1.85,
     1.85,
     1.85,
-    1.85,
     1.6,
     1.6,
     1.62,
     1.62,
     1.62,
     1.62,
-    1.35
+    1.35,
+    1.37
   ],
   "partidas": [
-    {
-      "rodada_id": 10,
-      "clube_casa": "Athlético-PR",
-      "clube_casa_id": 293,
-      "clube_visitante": "Internacional",
-      "clube_casa_abrev": "ATL",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/09/Athletico-PR-65x65.png",
-      "clube_visitante_id": 285,
-      "clube_visitante_abrev": "INT",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2016/05/03/inter65.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 11,
       "clube_casa": "CSA",
@@ -213,13 +200,26 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/09/Athletico-PR-65x65.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 21,
+      "clube_casa": "Athlético-PR",
+      "clube_casa_id": 293,
+      "clube_visitante": "Fortaleza",
+      "clube_casa_abrev": "ATL",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/09/Athletico-PR-65x65.png",
+      "clube_visitante_id": 356,
+      "clube_visitante_abrev": "FOR",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/06/10/fortaleza-ec-65px.png",
+      "placar_oficial_mandante": 4,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2019/05/18/8451dd8fd1ce139e8f57e002de068475_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/09/Athletico-PR-65x65.png",
   "scouts": {
-    "rodada_id": 20,
-    "rb": 5,
+    "rodada_id": 21,
+    "rb": 6,
     "g": 0,
     "a": 0,
     "sg": 1,
@@ -237,11 +237,11 @@
     "fc": 4,
     "i": 0,
     "pe": 8,
-    "pontos_num": -0.3,
-    "preco_num": 2.37,
-    "variacao_num": -0.4,
-    "media_num": 1.35,
-    "jogos_num": 7,
+    "pontos_num": 1.5,
+    "preco_num": 2.67,
+    "variacao_num": 0.3,
+    "media_num": 1.37,
+    "jogos_num": 8,
     "posicao_abrev": "zag",
     "posicao": "Zagueiro"
   }

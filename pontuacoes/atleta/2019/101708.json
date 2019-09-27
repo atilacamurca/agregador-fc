@@ -6,7 +6,6 @@
   "clube_id": 277,
   "posicao": "Lateral",
   "rodadas": [
-    10,
     11,
     12,
     13,
@@ -16,10 +15,10 @@
     17,
     18,
     19,
-    20
+    20,
+    21
   ],
   "pontos": [
-    0,
     5.7,
     16.6,
     -1.1,
@@ -29,10 +28,10 @@
     4,
     1.7,
     0,
-    1.5
+    1.5,
+    3
   ],
   "precos": [
-    8.64,
     0.38,
     11.36,
     8.7,
@@ -42,10 +41,10 @@
     9.31,
     8.94,
     8.56,
-    8.71
+    8.71,
+    9
   ],
   "variacoes": [
-    0,
     3.68,
     2.34,
     -2.66,
@@ -55,10 +54,10 @@
     0.47,
     -0.37,
     -0.38,
-    0.15
+    0.15,
+    0.29
   ],
   "medias": [
-    3.28,
     3.68,
     5.53,
     4.7,
@@ -68,22 +67,10 @@
     4.01,
     3.82,
     3.53,
-    3.38
+    3.38,
+    3.35
   ],
   "partidas": [
-    {
-      "rodada_id": 10,
-      "clube_casa": "Bahia",
-      "clube_casa_id": 265,
-      "clube_visitante": "Santos",
-      "clube_casa_abrev": "BAH",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/bahia_60x60.png",
-      "clube_visitante_id": 277,
-      "clube_visitante_abrev": "SAN",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/santos_60x60.png",
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 11,
       "clube_casa": "Botafogo",
@@ -213,19 +200,32 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/gremio_60x60.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 3
+    },
+    {
+      "rodada_id": 21,
+      "clube_casa": "Fluminense",
+      "clube_casa_id": 266,
+      "clube_visitante": "Santos",
+      "clube_casa_abrev": "FLU",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/equipes/2015/07/21/fluminense_60x60.png",
+      "clube_visitante_id": 277,
+      "clube_visitante_abrev": "SAN",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/santos_60x60.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2019/03/28/769db50792d92f77ba296968a2aa8fd7_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/santos_60x60.png",
   "scouts": {
-    "rodada_id": 20,
-    "rb": 7,
+    "rodada_id": 21,
+    "rb": 8,
     "g": 2,
     "a": 0,
     "sg": 4,
     "fs": 6,
-    "ff": 5,
-    "fd": 5,
+    "ff": 6,
+    "fd": 7,
     "ft": 0,
     "dd": 0,
     "dp": 0,
@@ -234,14 +234,14 @@
     "ca": 0,
     "pp": 0,
     "gs": 0,
-    "fc": 9,
+    "fc": 10,
     "i": 1,
-    "pe": 24,
-    "pontos_num": 1.5,
-    "preco_num": 8.71,
-    "variacao_num": 0.15,
-    "media_num": 3.38,
-    "jogos_num": 14,
+    "pe": 28,
+    "pontos_num": 3,
+    "preco_num": 9,
+    "variacao_num": 0.29,
+    "media_num": 3.35,
+    "jogos_num": 15,
     "posicao_abrev": "lat",
     "posicao": "Lateral"
   }

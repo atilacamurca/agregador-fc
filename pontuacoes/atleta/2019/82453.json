@@ -6,7 +6,6 @@
   "clube_id": 290,
   "posicao": "Goleiro",
   "rodadas": [
-    10,
     11,
     12,
     13,
@@ -16,10 +15,10 @@
     17,
     18,
     19,
-    20
+    20,
+    21
   ],
   "pontos": [
-    9,
     16.7,
     5,
     -9,
@@ -29,10 +28,10 @@
     -3.8,
     6,
     0,
-    7.4
+    7.4,
+    21.5
   ],
   "precos": [
-    14.42,
     2.02,
     14.71,
     12.08,
@@ -42,10 +41,10 @@
     12.85,
     14.39,
     14.39,
-    14.52
+    14.52,
+    17.32
   ],
   "variacoes": [
-    0.87,
     7.08,
     -1.73,
     -2.63,
@@ -55,10 +54,10 @@
     -1.95,
     1.54,
     0,
-    0.13
+    0.13,
+    2.8
   ],
   "medias": [
-    6.01,
     7.08,
     6.89,
     5.57,
@@ -68,22 +67,10 @@
     5.06,
     5.12,
     5.12,
-    5.25
+    5.25,
+    6.11
   ],
   "partidas": [
-    {
-      "rodada_id": 10,
-      "clube_casa": "Flamengo",
-      "clube_casa_id": 262,
-      "clube_visitante": "Goiás",
-      "clube_casa_abrev": "FLA",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/equipes/2018/04/09/Flamengo-65.png",
-      "clube_visitante_id": 290,
-      "clube_visitante_abrev": "GOI",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/05/01/Goias_65px.png",
-      "placar_oficial_mandante": 6,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 11,
       "clube_casa": "Avaí",
@@ -213,22 +200,35 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2015/07/21/fluminense_60x60.png",
       "placar_oficial_mandante": 3,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 21,
+      "clube_casa": "São Paulo",
+      "clube_casa_id": 276,
+      "clube_visitante": "Goiás",
+      "clube_casa_abrev": "SAO",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/sao_paulo_60x60.png",
+      "clube_visitante_id": 290,
+      "clube_visitante_abrev": "GOI",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/05/01/Goias_65px.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2019/04/04/2c3f9d22de0dfd11ee1e9331d5fd85d9_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2019/05/01/Goias_65px.png",
   "scouts": {
-    "rodada_id": 20,
+    "rodada_id": 21,
     "rb": 0,
     "g": 0,
     "a": 0,
-    "sg": 5,
-    "fs": 5,
+    "sg": 6,
+    "fs": 6,
     "ff": 0,
     "fd": 0,
     "ft": 0,
-    "dd": 38,
-    "dp": 1,
+    "dd": 41,
+    "dp": 2,
     "gc": 0,
     "cv": 0,
     "ca": 0,
@@ -237,11 +237,11 @@
     "fc": 0,
     "i": 0,
     "pe": 14,
-    "pontos_num": 7.4,
-    "preco_num": 14.52,
-    "variacao_num": 0.13,
-    "media_num": 5.25,
-    "jogos_num": 18,
+    "pontos_num": 21.5,
+    "preco_num": 17.32,
+    "variacao_num": 2.8,
+    "media_num": 6.11,
+    "jogos_num": 19,
     "posicao_abrev": "gol",
     "posicao": "Goleiro"
   }

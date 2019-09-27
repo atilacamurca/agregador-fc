@@ -6,7 +6,6 @@
   "clube_id": 341,
   "posicao": "Zagueiro",
   "rodadas": [
-    10,
     11,
     12,
     13,
@@ -16,10 +15,10 @@
     17,
     18,
     19,
-    20
+    20,
+    21
   ],
   "pontos": [
-    -2.5,
     4,
     5.7,
     8,
@@ -29,10 +28,10 @@
     3,
     5.7,
     -0.3,
-    4.2
+    4.2,
+    1
   ],
   "precos": [
-    1.14,
     1.36,
     3.64,
     5.07,
@@ -42,10 +41,10 @@
     4.65,
     5.37,
     4.4,
-    5.21
+    5.21,
+    4.76
   ],
   "variacoes": [
-    -1.86,
     0.75,
     1.14,
     1.43,
@@ -55,10 +54,10 @@
     0.65,
     0.72,
     -0.97,
-    0.81
+    0.81,
+    -0.45
   ],
   "medias": [
-    -2.5,
     0.75,
     2.4,
     3.8,
@@ -68,22 +67,10 @@
     2.71,
     3.04,
     2.71,
-    2.85
+    2.85,
+    2.7
   ],
   "partidas": [
-    {
-      "rodada_id": 10,
-      "clube_casa": "Corinthians",
-      "clube_casa_id": 264,
-      "clube_visitante": "CSA",
-      "clube_casa_abrev": "COR",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/corinthians_60x60.png",
-      "clube_visitante_id": 341,
-      "clube_visitante_abrev": "CSA",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2013/09/18/CSA_65.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 11,
       "clube_casa": "CSA",
@@ -213,13 +200,26 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2018/05/11/ceara-65x65.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 21,
+      "clube_casa": "Palmeiras",
+      "clube_casa_id": 275,
+      "clube_visitante": "CSA",
+      "clube_casa_abrev": "PAL",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
+      "clube_visitante_id": 341,
+      "clube_visitante_abrev": "CSA",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2013/09/18/CSA_65.png",
+      "placar_oficial_mandante": 6,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2019/07/08/c18e945ceabcef57bb344a15aad28d10_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/equipes/2013/09/18/CSA_65.png",
   "scouts": {
-    "rodada_id": 20,
-    "rb": 11,
+    "rodada_id": 21,
+    "rb": 12,
     "g": 0,
     "a": 0,
     "sg": 5,
@@ -234,14 +234,14 @@
     "ca": 2,
     "pp": 0,
     "gs": 0,
-    "fc": 13,
+    "fc": 14,
     "i": 1,
     "pe": 17,
-    "pontos_num": 4.2,
-    "preco_num": 5.21,
-    "variacao_num": 0.81,
-    "media_num": 2.85,
-    "jogos_num": 11,
+    "pontos_num": 1,
+    "preco_num": 4.76,
+    "variacao_num": -0.45,
+    "media_num": 2.7,
+    "jogos_num": 12,
     "posicao_abrev": "zag",
     "posicao": "Zagueiro"
   }

@@ -6,7 +6,6 @@
   "clube_id": 356,
   "posicao": "Meia",
   "rodadas": [
-    10,
     11,
     12,
     13,
@@ -16,10 +15,10 @@
     17,
     18,
     19,
-    20
+    20,
+    21
   ],
   "pontos": [
-    1.2,
     1.2,
     -0.5,
     0,
@@ -29,10 +28,10 @@
     -0.5,
     2.1,
     5,
-    -0.5
+    -0.5,
+    2
   ],
   "precos": [
-    4.16,
     0.02,
     3.8,
     3.8,
@@ -42,10 +41,10 @@
     3.81,
     4.23,
     4.8,
-    3.91
+    3.91,
+    4.33
   ],
   "variacoes": [
-    0.12,
     2.05,
     -0.38,
     0,
@@ -55,10 +54,10 @@
     -0.49,
     0.42,
     0.57,
-    -0.89
+    -0.89,
+    0.42
   ],
   "medias": [
-    2.14,
     2.05,
     1.82,
     1.82,
@@ -68,22 +67,10 @@
     1.74,
     1.76,
     1.96,
-    1.82
+    1.82,
+    1.83
   ],
   "partidas": [
-    {
-      "rodada_id": 10,
-      "clube_casa": "Fortaleza",
-      "clube_casa_id": 356,
-      "clube_visitante": "Avaí",
-      "clube_casa_abrev": "FOR",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/06/10/fortaleza-ec-65px.png",
-      "clube_visitante_id": 314,
-      "clube_visitante_abrev": "AVA",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/09/04/escudo-avai-65x65.png",
-      "placar_oficial_mandante": 2,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 11,
       "clube_casa": "Atlético-MG",
@@ -213,17 +200,30 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 21,
+      "clube_casa": "Athlético-PR",
+      "clube_casa_id": 293,
+      "clube_visitante": "Fortaleza",
+      "clube_casa_abrev": "ATL",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/09/Athletico-PR-65x65.png",
+      "clube_visitante_id": 356,
+      "clube_visitante_abrev": "FOR",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/06/10/fortaleza-ec-65px.png",
+      "placar_oficial_mandante": 4,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2019/03/22/4d0e23087bc533d8757c980cbd598eee_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2018/06/10/fortaleza-ec-65px.png",
   "scouts": {
-    "rodada_id": 20,
-    "rb": 22,
+    "rodada_id": 21,
+    "rb": 23,
     "g": 0,
     "a": 0,
     "sg": 0,
-    "fs": 22,
+    "fs": 24,
     "ff": 4,
     "fd": 4,
     "ft": 0,
@@ -234,14 +234,14 @@
     "ca": 3,
     "pp": 0,
     "gs": 0,
-    "fc": 19,
+    "fc": 20,
     "i": 1,
     "pe": 17,
-    "pontos_num": -0.5,
-    "preco_num": 3.91,
-    "variacao_num": -0.89,
-    "media_num": 1.82,
-    "jogos_num": 17,
+    "pontos_num": 2,
+    "preco_num": 4.33,
+    "variacao_num": 0.42,
+    "media_num": 1.83,
+    "jogos_num": 18,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }

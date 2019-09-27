@@ -6,7 +6,6 @@
   "clube_id": 263,
   "posicao": "Meia",
   "rodadas": [
-    10,
     11,
     12,
     13,
@@ -16,10 +15,10 @@
     17,
     18,
     19,
-    20
+    20,
+    21
   ],
   "pontos": [
-    4.1,
     2.4,
     2.8,
     7.9,
@@ -29,10 +28,10 @@
     3,
     11.7,
     -0.3,
+    0,
     0
   ],
   "precos": [
-    10.13,
     -0.22,
     9.88,
     10.99,
@@ -42,10 +41,10 @@
     10.37,
     12.02,
     10.08,
+    10.08,
     10.08
   ],
   "variacoes": [
-    0.19,
     4.51,
     -0.03,
     1.11,
@@ -55,10 +54,10 @@
     -0.53,
     1.65,
     -1.94,
+    0,
     0
   ],
   "medias": [
-    4.77,
     4.51,
     4.34,
     4.66,
@@ -68,22 +67,10 @@
     4.69,
     5.19,
     4.82,
+    4.82,
     4.82
   ],
   "partidas": [
-    {
-      "rodada_id": 10,
-      "clube_casa": "Cruzeiro",
-      "clube_casa_id": 283,
-      "clube_visitante": "Botafogo",
-      "clube_casa_abrev": "CRU",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/equipes/2015/04/29/cruzeiro_65.png",
-      "clube_visitante_id": 263,
-      "clube_visitante_abrev": "BOT",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/botafogo_60x60.png",
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 11,
       "clube_casa": "Botafogo",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/sao_paulo_60x60.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 21,
+      "clube_casa": "Bahia",
+      "clube_casa_id": 265,
+      "clube_visitante": "Botafogo",
+      "clube_casa_abrev": "BAH",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/bahia_60x60.png",
+      "clube_visitante_id": 263,
+      "clube_visitante_abrev": "BOT",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/botafogo_60x60.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2019/03/22/18c2a6ba294467649a2ebdaf8c14b53a_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/botafogo_60x60.png",
   "scouts": {
-    "rodada_id": 20,
+    "rodada_id": 21,
     "rb": 11,
     "g": 5,
     "a": 0,

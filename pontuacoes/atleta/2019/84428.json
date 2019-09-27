@@ -6,7 +6,6 @@
   "clube_id": 354,
   "posicao": "Meia",
   "rodadas": [
-    10,
     11,
     12,
     13,
@@ -16,10 +15,10 @@
     17,
     18,
     19,
-    20
+    20,
+    21
   ],
   "pontos": [
-    -0.6,
     0,
     0,
     1.5,
@@ -29,10 +28,10 @@
     2.5,
     0,
     0,
+    0,
     0
   ],
   "precos": [
-    5.14,
     0.01,
     5.15,
     5.28,
@@ -42,10 +41,10 @@
     5.34,
     5.34,
     5.34,
+    5.34,
     5.34
   ],
   "variacoes": [
-    -0.5,
     2.17,
     0,
     0.13,
@@ -55,35 +54,23 @@
     0.06,
     0,
     0,
+    0,
     0
   ],
   "medias": [
-    2.39,
     2.17,
     2.17,
     2.11,
     2.11,
     2.11,
     2.11,
+    2.14,
     2.14,
     2.14,
     2.14,
     2.14
   ],
   "partidas": [
-    {
-      "rodada_id": 10,
-      "clube_casa": "Fluminense",
-      "clube_casa_id": 266,
-      "clube_visitante": "Ceará",
-      "clube_casa_abrev": "FLU",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/equipes/2015/07/21/fluminense_60x60.png",
-      "clube_visitante_id": 354,
-      "clube_visitante_abrev": "CEA",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2018/05/11/ceara-65x65.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 11,
       "clube_casa": "Ceará",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2018/05/11/ceara-65x65.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 21,
+      "clube_casa": "Ceará",
+      "clube_casa_id": 354,
+      "clube_visitante": "Cruzeiro",
+      "clube_casa_abrev": "CEA",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/equipes/2018/05/11/ceara-65x65.png",
+      "clube_visitante_id": 283,
+      "clube_visitante_abrev": "CRU",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2015/04/29/cruzeiro_65.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2019/03/28/2036fe932766e953f14ef5fc5ed37a53_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/equipes/2018/05/11/ceara-65x65.png",
   "scouts": {
-    "rodada_id": 20,
+    "rodada_id": 21,
     "rb": 22,
     "g": 0,
     "a": 0,
