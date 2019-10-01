@@ -29,7 +29,6 @@
                             v-model.lazy="filter"
                             v-debounce="delay"
                             placeholder="Buscar atleta..."
-                            :autofocus="'autofocus'"
                             class="form-control"
                         />
                     </b-col>
