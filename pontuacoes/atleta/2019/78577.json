@@ -6,7 +6,6 @@
   "clube_id": 354,
   "posicao": "Meia",
   "rodadas": [
-    11,
     12,
     13,
     14,
@@ -16,10 +15,10 @@
     18,
     19,
     20,
-    21
+    21,
+    22
   ],
   "pontos": [
-    4.3,
     2.3,
     6.3,
     6.9,
@@ -29,10 +28,10 @@
     4.2,
     2.2,
     0,
-    -0.8
+    -0.8,
+    0.6
   ],
   "precos": [
-    0.52,
     5.93,
     6.82,
     7.25,
@@ -42,10 +41,10 @@
     7.64,
     7.33,
     7.33,
-    6.74
+    6.74,
+    6.96
   ],
   "variacoes": [
-    3.26,
     -0.29,
     0.89,
     0.43,
@@ -55,10 +54,10 @@
     -0.46,
     -0.31,
     0,
-    -0.59
+    -0.59,
+    0.22
   ],
   "medias": [
-    3.26,
     3.17,
     3.43,
     3.7,
@@ -68,22 +67,10 @@
     4.44,
     4.31,
     4.31,
-    4.03
+    4.03,
+    3.85
   ],
   "partidas": [
-    {
-      "rodada_id": 11,
-      "clube_casa": "Ceará",
-      "clube_casa_id": 354,
-      "clube_visitante": "Palmeiras",
-      "clube_casa_abrev": "CEA",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/equipes/2018/05/11/ceara-65x65.png",
-      "clube_visitante_id": 275,
-      "clube_visitante_abrev": "PAL",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
-      "placar_oficial_mandante": 2,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 12,
       "clube_casa": "Internacional",
@@ -213,13 +200,26 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2015/04/29/cruzeiro_65.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 22,
+      "clube_casa": "Atlético-MG",
+      "clube_casa_id": 282,
+      "clube_visitante": "Ceará",
+      "clube_casa_abrev": "ATL",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/equipes/2017/11/23/Atletico-Mineiro-escudo65px.png",
+      "clube_visitante_id": 354,
+      "clube_visitante_abrev": "CEA",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2018/05/11/ceara-65x65.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2019/03/28/893813a02cea9d96daf288036733d24e_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/equipes/2018/05/11/ceara-65x65.png",
   "scouts": {
-    "rodada_id": 21,
-    "rb": 27,
+    "rodada_id": 22,
+    "rb": 28,
     "g": 1,
     "a": 4,
     "sg": 0,
@@ -236,12 +236,12 @@
     "gs": 0,
     "fc": 22,
     "i": 0,
-    "pe": 44,
-    "pontos_num": -0.8,
-    "preco_num": 6.74,
-    "variacao_num": -0.59,
-    "media_num": 4.03,
-    "jogos_num": 18,
+    "pe": 47,
+    "pontos_num": 0.6,
+    "preco_num": 6.96,
+    "variacao_num": 0.22,
+    "media_num": 3.85,
+    "jogos_num": 19,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }

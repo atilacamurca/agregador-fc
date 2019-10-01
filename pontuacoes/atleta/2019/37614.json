@@ -6,7 +6,6 @@
   "clube_id": 277,
   "posicao": "Meia",
   "rodadas": [
-    11,
     12,
     13,
     14,
@@ -16,10 +15,10 @@
     18,
     19,
     20,
-    21
+    21,
+    22
   ],
   "pontos": [
-    0,
     0,
     1.6,
     0,
@@ -29,10 +28,10 @@
     0,
     0,
     0,
-    0
+    0,
+    4.5
   ],
   "precos": [
-    0,
     6,
     5.05,
     4.67,
@@ -42,10 +41,10 @@
     5.04,
     5.04,
     5.04,
-    5.04
+    5.04,
+    5.24
   ],
   "variacoes": [
-    0,
     0,
     -0.95,
     -0.38,
@@ -55,10 +54,10 @@
     0,
     0,
     0,
-    0
+    0,
+    0.2
   ],
   "medias": [
-    0,
     0,
     1.6,
     0.8,
@@ -68,22 +67,10 @@
     1.12,
     1.12,
     1.12,
-    1.12
+    1.12,
+    1.68
   ],
   "partidas": [
-    {
-      "rodada_id": 11,
-      "clube_casa": "Botafogo",
-      "clube_casa_id": 263,
-      "clube_visitante": "Santos",
-      "clube_casa_abrev": "BOT",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/botafogo_60x60.png",
-      "clube_visitante_id": 277,
-      "clube_visitante_abrev": "SAN",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/santos_60x60.png",
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 12,
       "clube_casa": "Santos",
@@ -213,15 +200,28 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/santos_60x60.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 22,
+      "clube_casa": "Santos",
+      "clube_casa_id": 277,
+      "clube_visitante": "CSA",
+      "clube_casa_abrev": "SAN",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/santos_60x60.png",
+      "clube_visitante_id": 341,
+      "clube_visitante_abrev": "CSA",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2013/09/18/CSA_65.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2019/07/23/786467c2a3fa4e560747d85deb202cf4_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/santos_60x60.png",
   "scouts": {
-    "rodada_id": 21,
+    "rodada_id": 22,
     "rb": 5,
     "g": 0,
-    "a": 0,
+    "a": 1,
     "sg": 0,
     "fs": 3,
     "ff": 1,
@@ -234,14 +234,14 @@
     "ca": 0,
     "pp": 0,
     "gs": 0,
-    "fc": 6,
+    "fc": 7,
     "i": 0,
     "pe": 8,
-    "pontos_num": 0,
-    "preco_num": 5.04,
-    "variacao_num": 0,
-    "media_num": 1.12,
-    "jogos_num": 5,
+    "pontos_num": 4.5,
+    "preco_num": 5.24,
+    "variacao_num": 0.2,
+    "media_num": 1.68,
+    "jogos_num": 6,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }

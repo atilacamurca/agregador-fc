@@ -6,7 +6,6 @@
   "clube_id": 290,
   "posicao": "Lateral",
   "rodadas": [
-    11,
     12,
     13,
     14,
@@ -16,10 +15,10 @@
     18,
     19,
     20,
-    21
+    21,
+    22
   ],
   "pontos": [
-    -2.8,
     0,
     0,
     0,
@@ -29,10 +28,10 @@
     -3,
     0,
     0,
-    0
+    0,
+    15.7
   ],
   "precos": [
-    -1.19,
     4.44,
     4.44,
     4.44,
@@ -42,10 +41,10 @@
     3.75,
     3.75,
     3.75,
-    3.75
+    3.75,
+    6.91
   ],
   "variacoes": [
-    0.8,
     0,
     0,
     0,
@@ -55,7 +54,8 @@
     -0.69,
     0,
     0,
-    0
+    0,
+    3.16
   ],
   "medias": [
     0.8,
@@ -64,26 +64,13 @@
     0.8,
     0.8,
     0.8,
-    0.8,
     0.26,
     0.26,
     0.26,
-    0.26
+    0.26,
+    2.19
   ],
   "partidas": [
-    {
-      "rodada_id": 11,
-      "clube_casa": "Avaí",
-      "clube_casa_id": 314,
-      "clube_visitante": "Goiás",
-      "clube_casa_abrev": "AVA",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/09/04/escudo-avai-65x65.png",
-      "clube_visitante_id": 290,
-      "clube_visitante_abrev": "GOI",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/05/01/Goias_65px.png",
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 12,
       "clube_casa": "Goiás",
@@ -213,17 +200,30 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/05/01/Goias_65px.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 22,
+      "clube_casa": "Goiás",
+      "clube_casa_id": 290,
+      "clube_visitante": "Cruzeiro",
+      "clube_casa_abrev": "GOI",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/05/01/Goias_65px.png",
+      "clube_visitante_id": 283,
+      "clube_visitante_abrev": "CRU",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2015/04/29/cruzeiro_65.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2019/08/27/52414dcf5cfe27cb0571cb0f29c845c6_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2019/05/01/Goias_65px.png",
   "scouts": {
-    "rodada_id": 21,
-    "rb": 4,
-    "g": 0,
+    "rodada_id": 22,
+    "rb": 6,
+    "g": 1,
     "a": 0,
-    "sg": 1,
-    "fs": 14,
+    "sg": 2,
+    "fs": 15,
     "ff": 1,
     "fd": 2,
     "ft": 0,
@@ -234,14 +234,14 @@
     "ca": 4,
     "pp": 0,
     "gs": 0,
-    "fc": 18,
+    "fc": 19,
     "i": 0,
-    "pe": 8,
-    "pontos_num": 0,
-    "preco_num": 3.75,
-    "variacao_num": 0,
-    "media_num": 0.26,
-    "jogos_num": 7,
+    "pe": 9,
+    "pontos_num": 15.7,
+    "preco_num": 6.91,
+    "variacao_num": 3.16,
+    "media_num": 2.19,
+    "jogos_num": 8,
     "posicao_abrev": "lat",
     "posicao": "Lateral"
   }

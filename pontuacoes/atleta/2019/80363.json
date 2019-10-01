@@ -6,7 +6,6 @@
   "clube_id": 283,
   "posicao": "Meia",
   "rodadas": [
-    11,
     12,
     13,
     14,
@@ -16,10 +15,10 @@
     18,
     19,
     20,
-    21
+    21,
+    22
   ],
   "pontos": [
-    0.6,
     2.5,
     5.8,
     -0.4,
@@ -29,12 +28,13 @@
     0,
     0,
     0,
+    0,
     0
   ],
   "precos": [
-    0.08,
     3,
     3.79,
+    2.85,
     2.85,
     2.85,
     2.85,
@@ -45,7 +45,6 @@
     2.85
   ],
   "variacoes": [
-    0.38,
     0.35,
     0.79,
     -0.94,
@@ -55,12 +54,13 @@
     0,
     0,
     0,
+    0,
     0
   ],
   "medias": [
-    0.38,
     0.68,
     1.32,
+    1.13,
     1.13,
     1.13,
     1.13,
@@ -71,19 +71,6 @@
     1.13
   ],
   "partidas": [
-    {
-      "rodada_id": 11,
-      "clube_casa": "Bahia",
-      "clube_casa_id": 265,
-      "clube_visitante": "Cruzeiro",
-      "clube_casa_abrev": "BAH",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/bahia_60x60.png",
-      "clube_visitante_id": 283,
-      "clube_visitante_abrev": "CRU",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2015/04/29/cruzeiro_65.png",
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 12,
       "clube_casa": "Cruzeiro",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2015/04/29/cruzeiro_65.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 22,
+      "clube_casa": "Goiás",
+      "clube_casa_id": 290,
+      "clube_visitante": "Cruzeiro",
+      "clube_casa_abrev": "GOI",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/05/01/Goias_65px.png",
+      "clube_visitante_id": 283,
+      "clube_visitante_abrev": "CRU",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2015/04/29/cruzeiro_65.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2018/05/18/f33acc95e50fe26abc27ac1d525bb4a4_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/equipes/2015/04/29/cruzeiro_65.png",
   "scouts": {
-    "rodada_id": 21,
+    "rodada_id": 22,
     "rb": 12,
     "g": 0,
     "a": 0,

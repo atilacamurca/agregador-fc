@@ -6,7 +6,6 @@
   "clube_id": 315,
   "posicao": "Goleiro",
   "rodadas": [
-    11,
     12,
     13,
     14,
@@ -16,10 +15,10 @@
     18,
     19,
     20,
-    21
+    21,
+    22
   ],
   "pontos": [
-    -2.3,
     10.4,
     3,
     -4.8,
@@ -29,10 +28,10 @@
     2.7,
     2,
     1.4,
-    0
+    0,
+    4
   ],
   "precos": [
-    -2.39,
     15.04,
     14.04,
     12.56,
@@ -42,10 +41,10 @@
     13.8,
     13.57,
     13.34,
-    13.34
+    13.34,
+    13.8
   ],
   "variacoes": [
-    3.38,
     2.08,
     -1,
     -1.48,
@@ -55,10 +54,10 @@
     -0.68,
     -0.23,
     -0.23,
-    0
+    0,
+    0.46
   ],
   "medias": [
-    3.38,
     3.96,
     3.89,
     3.27,
@@ -68,22 +67,10 @@
     3.64,
     3.55,
     3.44,
-    3.44
+    3.44,
+    3.47
   ],
   "partidas": [
-    {
-      "rodada_id": 11,
-      "clube_casa": "São Paulo",
-      "clube_casa_id": 276,
-      "clube_visitante": "Chapecoense",
-      "clube_casa_abrev": "SAO",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/sao_paulo_60x60.png",
-      "clube_visitante_id": 315,
-      "clube_visitante_abrev": "CHA",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2015/08/03/Escudo-Chape-165.png",
-      "placar_oficial_mandante": 4,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 12,
       "clube_casa": "Chapecoense",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/corinthians_60x60.png",
       "placar_oficial_mandante": null,
       "placar_oficial_visitante": null
+    },
+    {
+      "rodada_id": 22,
+      "clube_casa": "Athlético-PR",
+      "clube_casa_id": 293,
+      "clube_visitante": "Chapecoense",
+      "clube_casa_abrev": "ATL",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/09/Athletico-PR-65x65.png",
+      "clube_visitante_id": 315,
+      "clube_visitante_abrev": "CHA",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2015/08/03/Escudo-Chape-165.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2019/08/27/6ad3ac86c589e97bbf69a329366dd9f5_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/equipes/2015/08/03/Escudo-Chape-165.png",
   "scouts": {
-    "rodada_id": 21,
+    "rodada_id": 22,
     "rb": 0,
     "g": 0,
     "a": 0,
@@ -227,21 +227,21 @@
     "ff": 0,
     "fd": 0,
     "ft": 0,
-    "dd": 33,
+    "dd": 35,
     "dp": 3,
     "gc": 0,
     "cv": 0,
     "ca": 1,
     "pp": 0,
-    "gs": 33,
+    "gs": 34,
     "fc": 0,
     "i": 0,
     "pe": 15,
-    "pontos_num": 0,
-    "preco_num": 13.34,
-    "variacao_num": 0,
-    "media_num": 3.44,
-    "jogos_num": 20,
+    "pontos_num": 4,
+    "preco_num": 13.8,
+    "variacao_num": 0.46,
+    "media_num": 3.47,
+    "jogos_num": 21,
     "posicao_abrev": "gol",
     "posicao": "Goleiro"
   }

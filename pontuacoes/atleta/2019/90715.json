@@ -6,7 +6,6 @@
   "clube_id": 263,
   "posicao": "Meia",
   "rodadas": [
-    11,
     12,
     13,
     14,
@@ -16,10 +15,10 @@
     18,
     19,
     20,
-    21
+    21,
+    22
   ],
   "pontos": [
-    1.7,
     2.8,
     -0.2,
     10.1,
@@ -29,10 +28,10 @@
     -0.3,
     0.7,
     -2.3,
-    0
+    0,
+    1.9
   ],
   "precos": [
-    0.29,
     4.09,
     3.62,
     5.63,
@@ -42,10 +41,10 @@
     4.04,
     4.15,
     3.56,
-    3.56
+    3.56,
+    4.22
   ],
   "variacoes": [
-    1.02,
     0.23,
     -0.47,
     2.01,
@@ -55,10 +54,10 @@
     -0.25,
     0.11,
     -0.59,
-    0
+    0,
+    0.66
   ],
   "medias": [
-    1.02,
     1.2,
     1.07,
     1.82,
@@ -68,22 +67,10 @@
     1.57,
     1.52,
     1.31,
-    1.31
+    1.31,
+    1.34
   ],
   "partidas": [
-    {
-      "rodada_id": 11,
-      "clube_casa": "Botafogo",
-      "clube_casa_id": 263,
-      "clube_visitante": "Santos",
-      "clube_casa_abrev": "BOT",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/botafogo_60x60.png",
-      "clube_visitante_id": 277,
-      "clube_visitante_abrev": "SAN",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/santos_60x60.png",
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 12,
       "clube_casa": "Flamengo",
@@ -213,18 +200,31 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/botafogo_60x60.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 22,
+      "clube_casa": "Fortaleza",
+      "clube_casa_id": 356,
+      "clube_visitante": "Botafogo",
+      "clube_casa_abrev": "FOR",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/06/10/fortaleza-ec-65px.png",
+      "clube_visitante_id": 263,
+      "clube_visitante_abrev": "BOT",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/botafogo_60x60.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2018/05/17/555bb7e98091372b0b633a3623d5b40d_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/botafogo_60x60.png",
   "scouts": {
-    "rodada_id": 21,
-    "rb": 8,
+    "rodada_id": 22,
+    "rb": 9,
     "g": 1,
     "a": 0,
     "sg": 0,
-    "fs": 23,
-    "ff": 7,
+    "fs": 25,
+    "ff": 8,
     "fd": 4,
     "ft": 1,
     "dd": 0,
@@ -234,14 +234,14 @@
     "ca": 3,
     "pp": 0,
     "gs": 0,
-    "fc": 14,
+    "fc": 15,
     "i": 2,
-    "pe": 24,
-    "pontos_num": 0,
-    "preco_num": 3.56,
-    "variacao_num": 0,
-    "media_num": 1.31,
-    "jogos_num": 18,
+    "pe": 27,
+    "pontos_num": 1.9,
+    "preco_num": 4.22,
+    "variacao_num": 0.66,
+    "media_num": 1.34,
+    "jogos_num": 19,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }

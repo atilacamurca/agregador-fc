@@ -6,7 +6,6 @@
   "clube_id": 285,
   "posicao": "Meia",
   "rodadas": [
-    11,
     12,
     13,
     14,
@@ -16,10 +15,10 @@
     18,
     19,
     20,
-    21
+    21,
+    22
   ],
   "pontos": [
-    2.4,
     0,
     0,
     0,
@@ -29,10 +28,10 @@
     0,
     0,
     13,
-    8.6
+    8.6,
+    6.3
   ],
   "precos": [
-    0.03,
     9.36,
     9.36,
     9.36,
@@ -42,10 +41,10 @@
     11.35,
     11.35,
     11.35,
-    10.96
+    10.96,
+    10.83
   ],
   "variacoes": [
-    4.57,
     0,
     0,
     0,
@@ -55,10 +54,10 @@
     0,
     0,
     0,
-    -0.39
+    -0.39,
+    -0.13
   ],
   "medias": [
-    4.57,
     4.57,
     4.57,
     4.57,
@@ -68,22 +67,10 @@
     5.53,
     5.53,
     6.15,
+    6.34,
     6.34
   ],
   "partidas": [
-    {
-      "rodada_id": 11,
-      "clube_casa": "Internacional",
-      "clube_casa_id": 285,
-      "clube_visitante": "Grêmio",
-      "clube_casa_abrev": "INT",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/equipes/2016/05/03/inter65.png",
-      "clube_visitante_id": 284,
-      "clube_visitante_abrev": "GRE",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/gremio_60x60.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 12,
       "clube_casa": "Internacional",
@@ -213,20 +200,33 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2016/05/03/inter65.png",
       "placar_oficial_mandante": 3,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 22,
+      "clube_casa": "Internacional",
+      "clube_casa_id": 285,
+      "clube_visitante": "Palmeiras",
+      "clube_casa_abrev": "INT",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/equipes/2016/05/03/inter65.png",
+      "clube_visitante_id": 275,
+      "clube_visitante_abrev": "PAL",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2019/09/19/818f872bdf2e62a1bd0a9dab332b5fd7_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/equipes/2016/05/03/inter65.png",
   "scouts": {
-    "rodada_id": 21,
-    "rb": 34,
+    "rodada_id": 22,
+    "rb": 36,
     "g": 3,
     "a": 2,
     "sg": 0,
-    "fs": 8,
-    "ff": 6,
+    "fs": 11,
+    "ff": 7,
     "fd": 5,
-    "ft": 0,
+    "ft": 1,
     "dd": 0,
     "dp": 0,
     "gc": 0,
@@ -234,14 +234,14 @@
     "ca": 1,
     "pp": 0,
     "gs": 0,
-    "fc": 13,
+    "fc": 17,
     "i": 1,
     "pe": 28,
-    "pontos_num": 8.6,
-    "preco_num": 10.96,
-    "variacao_num": -0.39,
+    "pontos_num": 6.3,
+    "preco_num": 10.83,
+    "variacao_num": -0.13,
     "media_num": 6.34,
-    "jogos_num": 13,
+    "jogos_num": 14,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }

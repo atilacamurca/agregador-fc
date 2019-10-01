@@ -6,7 +6,6 @@
   "clube_id": 282,
   "posicao": "Meia",
   "rodadas": [
-    11,
     12,
     13,
     14,
@@ -16,10 +15,10 @@
     18,
     19,
     20,
-    21
+    21,
+    22
   ],
   "pontos": [
-    0,
     2.8,
     0,
     -1,
@@ -29,10 +28,10 @@
     0,
     0,
     0.8,
-    0
+    0,
+    13.5
   ],
   "precos": [
-    0,
     8.37,
     8.37,
     7.3,
@@ -42,10 +41,10 @@
     7.29,
     7.29,
     6.99,
-    6.99
+    6.99,
+    9.46
   ],
   "variacoes": [
-    6.3,
     -0.59,
     0,
     -1.07,
@@ -55,10 +54,10 @@
     0,
     0,
     -0.3,
-    0
+    0,
+    2.47
   ],
   "medias": [
-    6.3,
     4.55,
     4.55,
     2.7,
@@ -68,22 +67,10 @@
     2.25,
     2.25,
     2.04,
-    2.04
+    2.04,
+    3.47
   ],
   "partidas": [
-    {
-      "rodada_id": 11,
-      "clube_casa": "Atlético-MG",
-      "clube_casa_id": 282,
-      "clube_visitante": "Fortaleza",
-      "clube_casa_abrev": "ATL",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/equipes/2017/11/23/Atletico-Mineiro-escudo65px.png",
-      "clube_visitante_id": 356,
-      "clube_visitante_abrev": "FOR",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/06/10/fortaleza-ec-65px.png",
-      "placar_oficial_mandante": 2,
-      "placar_oficial_visitante": 2
-    },
     {
       "rodada_id": 12,
       "clube_casa": "Goiás",
@@ -213,19 +200,32 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2016/07/29/Vasco-65.png",
       "placar_oficial_mandante": null,
       "placar_oficial_visitante": null
+    },
+    {
+      "rodada_id": 22,
+      "clube_casa": "Atlético-MG",
+      "clube_casa_id": 282,
+      "clube_visitante": "Ceará",
+      "clube_casa_abrev": "ATL",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/equipes/2017/11/23/Atletico-Mineiro-escudo65px.png",
+      "clube_visitante_id": 354,
+      "clube_visitante_abrev": "CEA",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2018/05/11/ceara-65x65.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2018/05/07/51441cf2ec940cdfbdef8dd0ee853621_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/equipes/2017/11/23/Atletico-Mineiro-escudo65px.png",
   "scouts": {
-    "rodada_id": 21,
-    "rb": 1,
-    "g": 0,
+    "rodada_id": 22,
+    "rb": 2,
+    "g": 1,
     "a": 0,
     "sg": 0,
-    "fs": 14,
-    "ff": 9,
-    "fd": 6,
+    "fs": 19,
+    "ff": 10,
+    "fd": 8,
     "ft": 0,
     "dd": 0,
     "dp": 0,
@@ -234,14 +234,14 @@
     "ca": 1,
     "pp": 0,
     "gs": 0,
-    "fc": 9,
+    "fc": 10,
     "i": 0,
-    "pe": 7,
-    "pontos_num": 0,
-    "preco_num": 6.99,
-    "variacao_num": 0,
-    "media_num": 2.04,
-    "jogos_num": 7,
+    "pe": 11,
+    "pontos_num": 13.5,
+    "preco_num": 9.46,
+    "variacao_num": 2.47,
+    "media_num": 3.47,
+    "jogos_num": 8,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }

@@ -6,7 +6,6 @@
   "clube_id": 265,
   "posicao": "Goleiro",
   "rodadas": [
-    11,
     12,
     13,
     14,
@@ -16,10 +15,10 @@
     18,
     19,
     20,
-    21
+    21,
+    22
   ],
   "pontos": [
-    11,
     9,
     7.7,
     10.7,
@@ -29,10 +28,10 @@
     5,
     1,
     -1,
-    5
+    5,
+    10.7
   ],
   "precos": [
-    0.62,
     13.9,
     14.06,
     15.01,
@@ -42,10 +41,10 @@
     14.72,
     13.97,
     13.44,
-    14.44
+    14.44,
+    15.66
   ],
   "variacoes": [
-    8.26,
     -0.05,
     0.16,
     0.95,
@@ -55,10 +54,10 @@
     0.04,
     -0.75,
     -0.53,
-    1
+    1,
+    1.22
   ],
   "medias": [
-    8.26,
     8.33,
     8.28,
     8.47,
@@ -68,22 +67,10 @@
     8.13,
     7.73,
     7.27,
-    7.16
+    7.16,
+    7.33
   ],
   "partidas": [
-    {
-      "rodada_id": 11,
-      "clube_casa": "Bahia",
-      "clube_casa_id": 265,
-      "clube_visitante": "Cruzeiro",
-      "clube_casa_abrev": "BAH",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/bahia_60x60.png",
-      "clube_visitante_id": 283,
-      "clube_visitante_abrev": "CRU",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2015/04/29/cruzeiro_65.png",
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 12,
       "clube_casa": "Chapecoense",
@@ -213,21 +200,34 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/botafogo_60x60.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 22,
+      "clube_casa": "Avaí",
+      "clube_casa_id": 314,
+      "clube_visitante": "Bahia",
+      "clube_casa_abrev": "AVA",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/09/04/escudo-avai-65x65.png",
+      "clube_visitante_id": 265,
+      "clube_visitante_abrev": "BAH",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/bahia_60x60.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2019/03/29/ef148b9e6c0fb1706902616959184e5b_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/bahia_60x60.png",
   "scouts": {
-    "rodada_id": 21,
+    "rodada_id": 22,
     "rb": 1,
     "g": 0,
     "a": 0,
-    "sg": 11,
+    "sg": 12,
     "fs": 5,
     "ff": 0,
     "fd": 0,
     "ft": 0,
-    "dd": 37,
+    "dd": 39,
     "dp": 1,
     "gc": 0,
     "cv": 0,
@@ -236,12 +236,12 @@
     "gs": 16,
     "fc": 0,
     "i": 0,
-    "pe": 6,
-    "pontos_num": 5,
-    "preco_num": 14.44,
-    "variacao_num": 1,
-    "media_num": 7.16,
-    "jogos_num": 20,
+    "pe": 7,
+    "pontos_num": 10.7,
+    "preco_num": 15.66,
+    "variacao_num": 1.22,
+    "media_num": 7.33,
+    "jogos_num": 21,
     "posicao_abrev": "gol",
     "posicao": "Goleiro"
   }

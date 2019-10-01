@@ -6,7 +6,6 @@
   "clube_id": 284,
   "posicao": "Atacante",
   "rodadas": [
-    11,
     12,
     13,
     14,
@@ -16,10 +15,10 @@
     18,
     19,
     20,
-    21
+    21,
+    22
   ],
   "pontos": [
-    10.8,
     3.8,
     6,
     -1.7,
@@ -29,10 +28,10 @@
     0.2,
     0.2,
     10.1,
-    21.5
+    21.5,
+    0
   ],
   "precos": [
-    1.34,
     9.98,
     10.56,
     9.29,
@@ -42,10 +41,10 @@
     9.62,
     9.49,
     11.19,
+    13.61,
     13.61
   ],
   "variacoes": [
-    4.7,
     -1.01,
     0.58,
     -1.27,
@@ -55,10 +54,10 @@
     -0.22,
     -0.13,
     1.7,
-    2.42
+    2.42,
+    0
   ],
   "medias": [
-    4.7,
     4.57,
     4.75,
     4.03,
@@ -68,22 +67,10 @@
     3.79,
     3.53,
     3.97,
+    5.07,
     5.07
   ],
   "partidas": [
-    {
-      "rodada_id": 11,
-      "clube_casa": "Internacional",
-      "clube_casa_id": 285,
-      "clube_visitante": "Grêmio",
-      "clube_casa_abrev": "INT",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/equipes/2016/05/03/inter65.png",
-      "clube_visitante_id": 284,
-      "clube_visitante_abrev": "GRE",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/gremio_60x60.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 12,
       "clube_casa": "CSA",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/09/04/escudo-avai-65x65.png",
       "placar_oficial_mandante": 6,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 22,
+      "clube_casa": "Fluminense",
+      "clube_casa_id": 266,
+      "clube_visitante": "Grêmio",
+      "clube_casa_abrev": "FLU",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/equipes/2015/07/21/fluminense_60x60.png",
+      "clube_visitante_id": 284,
+      "clube_visitante_abrev": "GRE",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/gremio_60x60.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2018/05/21/c01a0fcc9657bf0df6cfde4356ece5bc_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/gremio_60x60.png",
   "scouts": {
-    "rodada_id": 21,
+    "rodada_id": 22,
     "rb": 9,
     "g": 4,
     "a": 5,
@@ -237,9 +237,9 @@
     "fc": 11,
     "i": 1,
     "pe": 41,
-    "pontos_num": 21.5,
+    "pontos_num": 0,
     "preco_num": 13.61,
-    "variacao_num": 2.42,
+    "variacao_num": 0,
     "media_num": 5.07,
     "jogos_num": 16,
     "posicao_abrev": "ata",

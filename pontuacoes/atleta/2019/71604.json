@@ -6,7 +6,6 @@
   "clube_id": 290,
   "posicao": "Zagueiro",
   "rodadas": [
-    11,
     12,
     13,
     14,
@@ -16,10 +15,10 @@
     18,
     19,
     20,
-    21
+    21,
+    22
   ],
   "pontos": [
-    0,
     0,
     0,
     2,
@@ -29,10 +28,10 @@
     0.2,
     6.5,
     4.7,
-    6.9
+    6.9,
+    10.2
   ],
   "precos": [
-    0,
     3,
     3,
     2.72,
@@ -42,10 +41,10 @@
     2.88,
     4.02,
     3.88,
-    4.44
+    4.44,
+    5.29
   ],
   "variacoes": [
-    0,
     0,
     0,
     -0.28,
@@ -55,10 +54,10 @@
     0.01,
     1.14,
     -0.14,
-    0.56
+    0.56,
+    0.85
   ],
   "medias": [
-    0,
     0,
     0,
     2,
@@ -68,22 +67,10 @@
     2.72,
     3.35,
     3.54,
-    3.96
+    3.96,
+    4.65
   ],
   "partidas": [
-    {
-      "rodada_id": 11,
-      "clube_casa": "Avaí",
-      "clube_casa_id": 314,
-      "clube_visitante": "Goiás",
-      "clube_casa_abrev": "AVA",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/09/04/escudo-avai-65x65.png",
-      "clube_visitante_id": 290,
-      "clube_visitante_abrev": "GOI",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/05/01/Goias_65px.png",
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 12,
       "clube_casa": "Goiás",
@@ -213,19 +200,32 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/05/01/Goias_65px.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 22,
+      "clube_casa": "Goiás",
+      "clube_casa_id": 290,
+      "clube_visitante": "Cruzeiro",
+      "clube_casa_abrev": "GOI",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/05/01/Goias_65px.png",
+      "clube_visitante_id": 283,
+      "clube_visitante_abrev": "CRU",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2015/04/29/cruzeiro_65.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2019/08/16/b5f403743092134524778b2bc6953aca_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2019/05/01/Goias_65px.png",
   "scouts": {
-    "rodada_id": 21,
-    "rb": 8,
+    "rodada_id": 22,
+    "rb": 10,
     "g": 1,
     "a": 0,
-    "sg": 2,
-    "fs": 11,
-    "ff": 1,
-    "fd": 0,
+    "sg": 3,
+    "fs": 12,
+    "ff": 2,
+    "fd": 1,
     "ft": 0,
     "dd": 0,
     "dp": 0,
@@ -236,12 +236,12 @@
     "gs": 0,
     "fc": 2,
     "i": 0,
-    "pe": 12,
-    "pontos_num": 6.9,
-    "preco_num": 4.44,
-    "variacao_num": 0.56,
-    "media_num": 3.96,
-    "jogos_num": 8,
+    "pe": 13,
+    "pontos_num": 10.2,
+    "preco_num": 5.29,
+    "variacao_num": 0.85,
+    "media_num": 4.65,
+    "jogos_num": 9,
     "posicao_abrev": "zag",
     "posicao": "Zagueiro"
   }

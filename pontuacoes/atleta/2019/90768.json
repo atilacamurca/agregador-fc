@@ -6,7 +6,6 @@
   "clube_id": 283,
   "posicao": "Zagueiro",
   "rodadas": [
-    11,
     12,
     13,
     14,
@@ -16,10 +15,10 @@
     18,
     19,
     20,
-    21
+    21,
+    22
   ],
   "pontos": [
-    4.4,
     1.7,
     0,
     0,
@@ -29,10 +28,10 @@
     0,
     0,
     2.7,
-    4.2
+    4.2,
+    0.2
   ],
   "precos": [
-    -0.26,
     4.35,
     4.35,
     4.35,
@@ -42,10 +41,10 @@
     5.69,
     5.69,
     4.96,
-    5.31
+    5.31,
+    4.72
   ],
   "variacoes": [
-    4.4,
     -0.39,
     0,
     0,
@@ -55,10 +54,10 @@
     0,
     0,
     -0.73,
-    0.35
+    0.35,
+    -0.59
   ],
   "medias": [
-    4.4,
     3.05,
     3.05,
     3.05,
@@ -68,22 +67,10 @@
     4.14,
     4.14,
     3.9,
-    3.94
+    3.94,
+    3.47
   ],
   "partidas": [
-    {
-      "rodada_id": 11,
-      "clube_casa": "Bahia",
-      "clube_casa_id": 265,
-      "clube_visitante": "Cruzeiro",
-      "clube_casa_abrev": "BAH",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/bahia_60x60.png",
-      "clube_visitante_id": 283,
-      "clube_visitante_abrev": "CRU",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2015/04/29/cruzeiro_65.png",
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 12,
       "clube_casa": "Cruzeiro",
@@ -213,18 +200,31 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2015/04/29/cruzeiro_65.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 22,
+      "clube_casa": "Goiás",
+      "clube_casa_id": 290,
+      "clube_visitante": "Cruzeiro",
+      "clube_casa_abrev": "GOI",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/05/01/Goias_65px.png",
+      "clube_visitante_id": 283,
+      "clube_visitante_abrev": "CRU",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2015/04/29/cruzeiro_65.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2019/02/04/d5a1e093c0e8dfd5ead943946e093661_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/equipes/2015/04/29/cruzeiro_65.png",
   "scouts": {
-    "rodada_id": 21,
+    "rodada_id": 22,
     "rb": 7,
     "g": 0,
     "a": 0,
     "sg": 4,
     "fs": 6,
-    "ff": 0,
+    "ff": 1,
     "fd": 0,
     "ft": 0,
     "dd": 0,
@@ -236,12 +236,12 @@
     "gs": 0,
     "fc": 3,
     "i": 0,
-    "pe": 8,
-    "pontos_num": 4.2,
-    "preco_num": 5.31,
-    "variacao_num": 0.35,
-    "media_num": 3.94,
-    "jogos_num": 7,
+    "pe": 10,
+    "pontos_num": 0.2,
+    "preco_num": 4.72,
+    "variacao_num": -0.59,
+    "media_num": 3.47,
+    "jogos_num": 8,
     "posicao_abrev": "zag",
     "posicao": "Zagueiro"
   }
