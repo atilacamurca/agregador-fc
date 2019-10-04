@@ -1,4 +1,4 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[8],{274:function(t,e,n){"use strict";e.a=function(){return{methods:{urlPontuacao:function(){var t=this;return function(e){return"/pontuacoes/atleta/".concat(t.$year,"/").concat(e)}},makeUrlPontuacaoAdversario:function(){var t=this;return function(e,n){return"/pontuacoes/adversario/".concat(t.$year,"/").concat(e,"/").concat(n)}}}}}},283:function(t,e){},316:function(t,e,n){
+(window.webpackJsonp=window.webpackJsonp||[]).push([[8],{274:function(t,e,n){"use strict";e.a=function(){return{methods:{urlPontuacao:function(){var t=this;return function(e){return t.$url("/pontuacoes/atleta/".concat(t.$year,"/").concat(e))}},makeUrlPontuacaoAdversario:function(){var t=this;return function(e,n){return t.$url("/pontuacoes/adversario/".concat(t.$year,"/").concat(e,"/").concat(n))}}}}}},283:function(t,e){},316:function(t,e,n){
 /*!
  * Fuse.js v3.4.5 - Lightweight fuzzy-search (http://fusejs.io)
  * 
