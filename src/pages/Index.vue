@@ -39,7 +39,7 @@
                     <b-list-group flush>
                         <b-list-group-item v-for="item in $page.rodadas.edges"
                             :key="item.node.rodada"
-                            :href="item.node.path"
+                            :href="$url(item.node.path)"
                             class="flex-column align-items-start">
                             <div class="d-flex w-100 justify-content-between">
                                 <h5 class="mb-1">Rodada {{ item.node.rodada }}</h5>

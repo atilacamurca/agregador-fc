@@ -15,13 +15,13 @@
                 <div class="d-flex justify-content-end">
                     <g-link
                         class="text-white text-decoration-none underline-from-center font-weight-bold"
-                        to="/clubes"
+                        to="/clubes/"
                     >
                         Clubes
                     </g-link>
                     <g-link
                         class="text-white text-decoration-none ml-3 underline-from-center font-weight-bold"
-                        to="/about"
+                        to="/about/"
                     >
                         Sobre
                     </g-link>

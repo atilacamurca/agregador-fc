@@ -11,7 +11,7 @@
                                 <b-list-group-item
                                     v-for="item in posicoes"
                                     :key="item.abrev"
-                                    :href="urlPontuacaoAdversario($page.clube.id, item.abrev)">
+                                    :href="$url(urlPontuacaoAdversario($page.clube.id, item.abrev))">
                                     {{ item.nome }}
                                 </b-list-group-item>
                             </b-list-group>
@@ -41,7 +41,7 @@
                                 <b-list-group flush>
                                     <b-list-group-item v-for="item in atletas"
                                         :key="item.id"
-                                        :href="urlPontuacao()(item.id)">
+                                        :href="$url(urlPontuacao()(item.id))">
                                         <div class="d-flex justify-content-between">
                                             <div class="d-flex flex-column align-items-center"
                                                 style="width: 120px">

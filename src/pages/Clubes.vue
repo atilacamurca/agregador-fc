@@ -6,7 +6,7 @@
                     <b-list-group flush>
                         <b-list-group-item v-for="item in $page.clubes.edges"
                             :key="item.node.id"
-                            :href="item.node.path"
+                            :href="$url(item.node.path)"
                             class="flex-column align-items-start">
                             <div class="d-flex w-100 justify-content-between">
                                 <div class="d-flex align-items-center">
