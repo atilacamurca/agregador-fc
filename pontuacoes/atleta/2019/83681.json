@@ -6,7 +6,6 @@
   "clube_id": 341,
   "posicao": "Lateral",
   "rodadas": [
-    12,
     13,
     14,
     15,
@@ -16,7 +15,8 @@
     19,
     20,
     21,
-    22
+    22,
+    23
   ],
   "pontos": [
     0,
@@ -28,8 +28,8 @@
     0,
     0,
     0,
-    0,
-    -0.3
+    -0.3,
+    0
   ],
   "precos": [
     3.92,
@@ -41,7 +41,7 @@
     3.92,
     3.92,
     3.92,
-    3.92,
+    3.19,
     3.19
   ],
   "variacoes": [
@@ -54,8 +54,8 @@
     0,
     0,
     0,
-    0,
-    -0.73
+    -0.73,
+    0
   ],
   "medias": [
     2.95,
@@ -67,23 +67,10 @@
     2.95,
     2.95,
     2.95,
-    2.95,
+    1.87,
     1.87
   ],
   "partidas": [
-    {
-      "rodada_id": 12,
-      "clube_casa": "CSA",
-      "clube_casa_id": 341,
-      "clube_visitante": "Grêmio",
-      "clube_casa_abrev": "CSA",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/equipes/2013/09/18/CSA_65.png",
-      "clube_visitante_id": 284,
-      "clube_visitante_abrev": "GRE",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/gremio_60x60.png",
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 13,
       "clube_casa": "Vasco",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2013/09/18/CSA_65.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 23,
+      "clube_casa": "CSA",
+      "clube_casa_id": 341,
+      "clube_visitante": "Avaí",
+      "clube_casa_abrev": "CSA",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/equipes/2013/09/18/CSA_65.png",
+      "clube_visitante_id": 314,
+      "clube_visitante_abrev": "AVA",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/09/04/escudo-avai-65x65.png",
+      "placar_oficial_mandante": 3,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2019/03/23/6fa441d642d426cca217c6d7c843a2c0_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/equipes/2013/09/18/CSA_65.png",
   "scouts": {
-    "rodada_id": 22,
+    "rodada_id": 23,
     "rb": 4,
     "g": 0,
     "a": 0,
@@ -237,9 +237,9 @@
     "fc": 2,
     "i": 0,
     "pe": 3,
-    "pontos_num": -0.3,
+    "pontos_num": 0,
     "preco_num": 3.19,
-    "variacao_num": -0.73,
+    "variacao_num": 0,
     "media_num": 1.87,
     "jogos_num": 3,
     "posicao_abrev": "lat",

@@ -6,59 +6,46 @@
   "clube_id": 276,
   "posicao": "Técnico",
   "rodadas": [
-    12,
     13,
     14,
     15,
     21,
-    22
+    22,
+    23
   ],
   "pontos": [
-    2.31,
     4.9,
     3.14,
     2.98,
     0,
-    4.85
+    4.85,
+    4.34
   ],
   "precos": [
-    6.37,
     6.97,
     6.85,
     6.9,
     6.9,
+    7.04,
     7.04
   ],
   "variacoes": [
-    0.07,
     0.6,
     -0.12,
     0.05,
     0,
-    0.14
+    0.14,
+    0
   ],
   "medias": [
-    2.6,
     2.78,
     2.81,
     2.82,
     2.82,
-    2.95
+    2.95,
+    3.03
   ],
   "partidas": [
-    {
-      "rodada_id": 12,
-      "clube_casa": "Fluminense",
-      "clube_casa_id": 266,
-      "clube_visitante": "São Paulo",
-      "clube_casa_abrev": "FLU",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/equipes/2015/07/21/fluminense_60x60.png",
-      "clube_visitante_id": 276,
-      "clube_visitante_abrev": "SAO",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/sao_paulo_60x60.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 2
-    },
     {
       "rodada_id": 13,
       "clube_casa": "Athlético-PR",
@@ -123,12 +110,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/sao_paulo_60x60.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 23,
+      "clube_casa": "São Paulo",
+      "clube_casa_id": 276,
+      "clube_visitante": "Fortaleza",
+      "clube_casa_abrev": "SAO",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/sao_paulo_60x60.png",
+      "clube_visitante_id": 356,
+      "clube_visitante_abrev": "FOR",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/06/10/fortaleza-ec-65px.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2019/10/03/6d8ae397f0417ad0faa735bc5f9c21d5_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/sao_paulo_60x60.png",
   "scouts": {
-    "rodada_id": 22,
+    "rodada_id": 23,
     "rb": 0,
     "g": 0,
     "a": 0,
@@ -147,11 +147,11 @@
     "fc": 0,
     "i": 0,
     "pe": 0,
-    "pontos_num": 4.85,
+    "pontos_num": 4.34,
     "preco_num": 7.04,
-    "variacao_num": 0.14,
-    "media_num": 2.95,
-    "jogos_num": 16,
+    "variacao_num": 0,
+    "media_num": 3.03,
+    "jogos_num": 17,
     "posicao_abrev": "tec",
     "posicao": "Técnico"
   }
