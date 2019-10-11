@@ -14,7 +14,8 @@
     20,
     21,
     22,
-    23
+    23,
+    24
   ],
   "pontos": [
     0,
@@ -25,7 +26,8 @@
     5,
     -2.1,
     -0.8,
-    0
+    0,
+    0.5
   ],
   "precos": [
     1,
@@ -36,7 +38,8 @@
     1.98,
     0.78,
     0.88,
-    0.97
+    0.97,
+    1.05
   ],
   "variacoes": [
     0,
@@ -47,7 +50,8 @@
     0.98,
     -1.2,
     0.1,
-    0.09
+    0.09,
+    0.08
   ],
   "medias": [
     0,
@@ -58,6 +62,7 @@
     5,
     1.45,
     0.7,
+    0.52,
     0.52
   ],
   "partidas": [
@@ -177,18 +182,31 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/05/01/Goias_65px.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 24,
+      "clube_casa": "Botafogo",
+      "clube_casa_id": 263,
+      "clube_visitante": "Goiás",
+      "clube_casa_abrev": "BOT",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/botafogo_60x60.png",
+      "clube_visitante_id": 290,
+      "clube_visitante_abrev": "GOI",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/05/01/Goias_65px.png",
+      "placar_oficial_mandante": 3,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2019/08/17/1e8c1cee38c33b285f33645bdf013d49_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2019/05/01/Goias_65px.png",
   "scouts": {
-    "rodada_id": 23,
+    "rodada_id": 24,
     "rb": 0,
     "g": 0,
     "a": 1,
     "sg": 0,
     "fs": 2,
-    "ff": 0,
+    "ff": 1,
     "fd": 0,
     "ft": 0,
     "dd": 0,
@@ -200,12 +218,12 @@
     "gs": 0,
     "fc": 6,
     "i": 0,
-    "pe": 3,
-    "pontos_num": 0,
-    "preco_num": 0.97,
-    "variacao_num": 0.09,
+    "pe": 4,
+    "pontos_num": 0.5,
+    "preco_num": 1.05,
+    "variacao_num": 0.08,
     "media_num": 0.52,
-    "jogos_num": 4,
+    "jogos_num": 5,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }

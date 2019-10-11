@@ -6,7 +6,6 @@
   "clube_id": 265,
   "posicao": "Zagueiro",
   "rodadas": [
-    13,
     14,
     15,
     16,
@@ -16,10 +15,10 @@
     20,
     21,
     22,
-    23
+    23,
+    24
   ],
   "pontos": [
-    7.3,
     2.7,
     2,
     5.4,
@@ -29,10 +28,10 @@
     0,
     4.6,
     5.9,
-    0
+    0,
+    4.8
   ],
   "precos": [
-    6.75,
     6.2,
     6.13,
     6.77,
@@ -42,10 +41,10 @@
     6.24,
     7.05,
     7.45,
-    6.5
+    6.5,
+    7.27
   ],
   "variacoes": [
-    0.72,
     -0.55,
     -0.07,
     0.64,
@@ -55,10 +54,10 @@
     -0.04,
     0.81,
     0.4,
-    -0.95
+    -0.95,
+    0.77
   ],
   "medias": [
-    3.04,
     3.02,
     2.95,
     3.1,
@@ -68,22 +67,10 @@
     3.17,
     3.24,
     3.36,
-    3.21
+    3.21,
+    3.28
   ],
   "partidas": [
-    {
-      "rodada_id": 13,
-      "clube_casa": "Bahia",
-      "clube_casa_id": 265,
-      "clube_visitante": "Flamengo",
-      "clube_casa_abrev": "BAH",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/bahia_60x60.png",
-      "clube_visitante_id": 262,
-      "clube_visitante_abrev": "FLA",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2018/04/09/Flamengo-65.png",
-      "placar_oficial_mandante": 3,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 14,
       "clube_casa": "Palmeiras",
@@ -213,35 +200,48 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/09/Athletico-PR-65x65.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 24,
+      "clube_casa": "Bahia",
+      "clube_casa_id": 265,
+      "clube_visitante": "São Paulo",
+      "clube_casa_abrev": "BAH",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/bahia_60x60.png",
+      "clube_visitante_id": 276,
+      "clube_visitante_abrev": "SAO",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/sao_paulo_60x60.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2019/03/29/c40c54d7fdca6784ef754a182f9f81d0_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/bahia_60x60.png",
   "scouts": {
-    "rodada_id": 23,
-    "rb": 12,
+    "rodada_id": 24,
+    "rb": 13,
     "g": 0,
     "a": 1,
-    "sg": 12,
+    "sg": 13,
     "fs": 7,
-    "ff": 2,
+    "ff": 3,
     "fd": 2,
     "ft": 0,
     "dd": 0,
     "dp": 0,
     "gc": 0,
     "cv": 0,
-    "ca": 1,
+    "ca": 2,
     "pp": 0,
     "gs": 0,
-    "fc": 5,
+    "fc": 6,
     "i": 0,
     "pe": 40,
-    "pontos_num": 0,
-    "preco_num": 6.5,
-    "variacao_num": -0.95,
-    "media_num": 3.21,
-    "jogos_num": 23,
+    "pontos_num": 4.8,
+    "preco_num": 7.27,
+    "variacao_num": 0.77,
+    "media_num": 3.28,
+    "jogos_num": 24,
     "posicao_abrev": "zag",
     "posicao": "Zagueiro"
   }

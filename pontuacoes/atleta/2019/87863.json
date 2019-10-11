@@ -6,7 +6,6 @@
   "clube_id": 262,
   "posicao": "Meia",
   "rodadas": [
-    13,
     14,
     15,
     16,
@@ -16,10 +15,10 @@
     20,
     21,
     22,
-    23
+    23,
+    24
   ],
   "pontos": [
-    2.1,
     20.5,
     11.1,
     12.8,
@@ -29,10 +28,10 @@
     11.6,
     16.7,
     8.3,
+    0,
     0
   ],
   "precos": [
-    14.5,
     18.19,
     17.18,
     17.72,
@@ -42,10 +41,10 @@
     18.05,
     19.33,
     18.35,
+    18.35,
     18.35
   ],
   "variacoes": [
-    -4.83,
     3.69,
     -1.01,
     0.54,
@@ -55,10 +54,10 @@
     1.82,
     1.28,
     -0.98,
+    0,
     0
   ],
   "medias": [
-    10.87,
     12.25,
     12.11,
     12.19,
@@ -68,22 +67,10 @@
     11.63,
     12.02,
     11.75,
+    11.75,
     11.75
   ],
   "partidas": [
-    {
-      "rodada_id": 13,
-      "clube_casa": "Bahia",
-      "clube_casa_id": 265,
-      "clube_visitante": "Flamengo",
-      "clube_casa_abrev": "BAH",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/bahia_60x60.png",
-      "clube_visitante_id": 262,
-      "clube_visitante_abrev": "FLA",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2018/04/09/Flamengo-65.png",
-      "placar_oficial_mandante": 3,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 14,
       "clube_casa": "Flamengo",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2018/04/09/Flamengo-65.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 24,
+      "clube_casa": "Flamengo",
+      "clube_casa_id": 262,
+      "clube_visitante": "Atlético-MG",
+      "clube_casa_abrev": "FLA",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/equipes/2018/04/09/Flamengo-65.png",
+      "clube_visitante_id": 282,
+      "clube_visitante_abrev": "ATL",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2017/11/23/Atletico-Mineiro-escudo65px.png",
+      "placar_oficial_mandante": 3,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2019/04/26/85b7c7626785a66de96ac6b9008f4299_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/equipes/2018/04/09/Flamengo-65.png",
   "scouts": {
-    "rodada_id": 23,
+    "rodada_id": 24,
     "rb": 26,
     "g": 10,
     "a": 8,

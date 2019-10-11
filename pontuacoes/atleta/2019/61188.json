@@ -6,7 +6,6 @@
   "clube_id": 265,
   "posicao": "Atacante",
   "rodadas": [
-    13,
     14,
     15,
     16,
@@ -16,10 +15,10 @@
     20,
     21,
     22,
-    23
+    23,
+    24
   ],
   "pontos": [
-    22.4,
     19.1,
     0,
     9.2,
@@ -29,10 +28,10 @@
     9.7,
     4.1,
     4,
-    12.3
+    12.3,
+    0
   ],
   "precos": [
-    17.95,
     18.43,
     18.43,
     17.07,
@@ -42,10 +41,10 @@
     17.36,
     16.59,
     16.71,
+    18.19,
     18.19
   ],
   "variacoes": [
-    4.4,
     0.48,
     0,
     -1.36,
@@ -55,10 +54,10 @@
     0.45,
     -0.77,
     0.12,
-    1.48
+    1.48,
+    0
   ],
   "medias": [
-    6.5,
     7.65,
     7.65,
     7.78,
@@ -68,22 +67,10 @@
     7.49,
     7.29,
     7.11,
+    7.38,
     7.38
   ],
   "partidas": [
-    {
-      "rodada_id": 13,
-      "clube_casa": "Bahia",
-      "clube_casa_id": 265,
-      "clube_visitante": "Flamengo",
-      "clube_casa_abrev": "BAH",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/bahia_60x60.png",
-      "clube_visitante_id": 262,
-      "clube_visitante_abrev": "FLA",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2018/04/09/Flamengo-65.png",
-      "placar_oficial_mandante": 3,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 14,
       "clube_casa": "Palmeiras",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/09/Athletico-PR-65x65.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 24,
+      "clube_casa": "Bahia",
+      "clube_casa_id": 265,
+      "clube_visitante": "São Paulo",
+      "clube_casa_abrev": "BAH",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/bahia_60x60.png",
+      "clube_visitante_id": 276,
+      "clube_visitante_abrev": "SAO",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/sao_paulo_60x60.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2019/03/29/e664bac2dfda2416beb75fb9615b8a4f_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/bahia_60x60.png",
   "scouts": {
-    "rodada_id": 23,
+    "rodada_id": 24,
     "rb": 15,
     "g": 11,
     "a": 3,
@@ -237,9 +237,9 @@
     "fc": 19,
     "i": 6,
     "pe": 23,
-    "pontos_num": 12.3,
+    "pontos_num": 0,
     "preco_num": 18.19,
-    "variacao_num": 1.48,
+    "variacao_num": 0,
     "media_num": 7.38,
     "jogos_num": 19,
     "posicao_abrev": "ata",

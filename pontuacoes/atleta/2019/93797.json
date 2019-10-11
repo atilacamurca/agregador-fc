@@ -6,7 +6,6 @@
   "clube_id": 263,
   "posicao": "Lateral",
   "rodadas": [
-    13,
     14,
     15,
     16,
@@ -16,10 +15,10 @@
     20,
     21,
     22,
-    23
+    23,
+    24
   ],
   "pontos": [
-    12.1,
     1.8,
     -3.6,
     2.2,
@@ -29,10 +28,10 @@
     1.5,
     1.1,
     4.1,
-    -1.9
+    -1.9,
+    0
   ],
   "precos": [
-    7.92,
     6.5,
     5.45,
     6.29,
@@ -42,10 +41,10 @@
     6.86,
     6.81,
     7.39,
+    6.36,
     6.36
   ],
   "variacoes": [
-    1.68,
     -1.42,
     -1.05,
     0.84,
@@ -55,10 +54,10 @@
     -0.69,
     -0.05,
     0.58,
-    -1.03
+    -1.03,
+    0
   ],
   "medias": [
-    4.45,
     4.12,
     3.26,
     3.15,
@@ -68,22 +67,10 @@
     3.99,
     3.8,
     3.82,
+    3.48,
     3.48
   ],
   "partidas": [
-    {
-      "rodada_id": 13,
-      "clube_casa": "Avaí",
-      "clube_casa_id": 314,
-      "clube_visitante": "Botafogo",
-      "clube_casa_abrev": "AVA",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/09/04/escudo-avai-65x65.png",
-      "clube_visitante_id": 263,
-      "clube_visitante_abrev": "BOT",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/botafogo_60x60.png",
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 2
-    },
     {
       "rodada_id": 14,
       "clube_casa": "Botafogo",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2015/07/21/fluminense_60x60.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 24,
+      "clube_casa": "Botafogo",
+      "clube_casa_id": 263,
+      "clube_visitante": "Goiás",
+      "clube_casa_abrev": "BOT",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/botafogo_60x60.png",
+      "clube_visitante_id": 290,
+      "clube_visitante_abrev": "GOI",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/05/01/Goias_65px.png",
+      "placar_oficial_mandante": 3,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2019/03/22/73ff5646586a9145ea6768297b10ac7d_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/equipes/2014/04/14/botafogo_60x60.png",
   "scouts": {
-    "rodada_id": 23,
+    "rodada_id": 24,
     "rb": 15,
     "g": 1,
     "a": 2,
@@ -237,9 +237,9 @@
     "fc": 25,
     "i": 1,
     "pe": 43,
-    "pontos_num": -1.9,
+    "pontos_num": 0,
     "preco_num": 6.36,
-    "variacao_num": -1.03,
+    "variacao_num": 0,
     "media_num": 3.48,
     "jogos_num": 17,
     "posicao_abrev": "lat",

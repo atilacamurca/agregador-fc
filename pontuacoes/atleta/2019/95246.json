@@ -9,31 +9,36 @@
     20,
     21,
     22,
-    23
+    23,
+    24
   ],
   "pontos": [
     0,
     0,
     0,
-    0
+    0,
+    1.5
   ],
   "precos": [
     1,
     1,
     1,
-    1
+    1,
+    1.16
   ],
   "variacoes": [
     0,
     0,
     0,
-    0
+    0,
+    0.16
   ],
   "medias": [
     0,
     0,
     0,
-    0
+    0,
+    1.5
   ],
   "partidas": [
     {
@@ -87,18 +92,31 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/09/04/escudo-avai-65x65.png",
       "placar_oficial_mandante": 3,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 24,
+      "clube_casa": "Avaí",
+      "clube_casa_id": 314,
+      "clube_visitante": "Vasco",
+      "clube_casa_abrev": "AVA",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/09/04/escudo-avai-65x65.png",
+      "clube_visitante_id": 267,
+      "clube_visitante_abrev": "VAS",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2016/07/29/Vasco-65.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2019/09/19/65cd9edd995af75682ea42a1399e9c66_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2018/09/04/escudo-avai-65x65.png",
   "scouts": {
-    "rodada_id": 23,
-    "rb": 0,
+    "rodada_id": 24,
+    "rb": 1,
     "g": 0,
     "a": 0,
     "sg": 0,
-    "fs": 0,
-    "ff": 0,
+    "fs": 1,
+    "ff": 1,
     "fd": 0,
     "ft": 0,
     "dd": 0,
@@ -108,14 +126,14 @@
     "ca": 0,
     "pp": 0,
     "gs": 0,
-    "fc": 0,
+    "fc": 2,
     "i": 0,
-    "pe": 0,
-    "pontos_num": 0,
-    "preco_num": 1,
-    "variacao_num": 0,
-    "media_num": 0,
-    "jogos_num": 0,
+    "pe": 1,
+    "pontos_num": 1.5,
+    "preco_num": 1.16,
+    "variacao_num": 0.16,
+    "media_num": 1.5,
+    "jogos_num": 1,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }

@@ -11,7 +11,8 @@
     20,
     21,
     22,
-    23
+    23,
+    24
   ],
   "pontos": [
     0,
@@ -19,7 +20,8 @@
     0,
     0.5,
     0,
-    0
+    0,
+    -0.5
   ],
   "precos": [
     2,
@@ -27,7 +29,8 @@
     2,
     1.69,
     1.69,
-    1.69
+    1.69,
+    1.37
   ],
   "variacoes": [
     0,
@@ -35,7 +38,8 @@
     0,
     -0.31,
     0,
-    0
+    0,
+    -0.32
   ],
   "medias": [
     0,
@@ -43,7 +47,8 @@
     0,
     0.5,
     0.5,
-    0.5
+    0.5,
+    0
   ],
   "partidas": [
     {
@@ -123,12 +128,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/09/04/escudo-avai-65x65.png",
       "placar_oficial_mandante": 3,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 24,
+      "clube_casa": "CSA",
+      "clube_casa_id": 341,
+      "clube_visitante": "Internacional",
+      "clube_casa_abrev": "CSA",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/equipes/2013/09/18/CSA_65.png",
+      "clube_visitante_id": 285,
+      "clube_visitante_abrev": "INT",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2016/05/03/inter65.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2019/09/06/d13134593bbf5d035b2573bfa6a42d13_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/equipes/2013/09/18/CSA_65.png",
   "scouts": {
-    "rodada_id": 23,
+    "rodada_id": 24,
     "rb": 0,
     "g": 0,
     "a": 0,
@@ -144,14 +162,14 @@
     "ca": 0,
     "pp": 0,
     "gs": 0,
-    "fc": 0,
+    "fc": 1,
     "i": 0,
     "pe": 0,
-    "pontos_num": 0,
-    "preco_num": 1.69,
-    "variacao_num": 0,
-    "media_num": 0.5,
-    "jogos_num": 1,
+    "pontos_num": -0.5,
+    "preco_num": 1.37,
+    "variacao_num": -0.32,
+    "media_num": 0,
+    "jogos_num": 2,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }

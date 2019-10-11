@@ -6,7 +6,6 @@
   "clube_id": 356,
   "posicao": "Técnico",
   "rodadas": [
-    13,
     14,
     15,
     16,
@@ -15,10 +14,10 @@
     19,
     20,
     22,
-    23
+    23,
+    24
   ],
   "pontos": [
-    1.42,
     7.21,
     7.15,
     2.32,
@@ -27,10 +26,10 @@
     0,
     2.66,
     0,
-    1.86
+    1.86,
+    5.42
   ],
   "precos": [
-    7.24,
     8.42,
     8.68,
     7.93,
@@ -39,10 +38,10 @@
     8.01,
     8,
     8.48,
-    8.02
+    8.02,
+    8.61
   ],
   "variacoes": [
-    0.06,
     1.18,
     0.26,
     -0.75,
@@ -51,10 +50,10 @@
     0,
     -0.01,
     0,
-    -0.46
+    -0.46,
+    0.59
   ],
   "medias": [
-    2.85,
     3.16,
     3.43,
     3.36,
@@ -63,22 +62,10 @@
     3.37,
     3.33,
     3.41,
-    3.34
+    3.34,
+    3.43
   ],
   "partidas": [
-    {
-      "rodada_id": 13,
-      "clube_casa": "Ceará",
-      "clube_casa_id": 354,
-      "clube_visitante": "Fortaleza",
-      "clube_casa_abrev": "CEA",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/equipes/2018/05/11/ceara-65x65.png",
-      "clube_visitante_id": 356,
-      "clube_visitante_abrev": "FOR",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/06/10/fortaleza-ec-65px.png",
-      "placar_oficial_mandante": 2,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 14,
       "clube_casa": "CSA",
@@ -195,12 +182,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/06/10/fortaleza-ec-65px.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 24,
+      "clube_casa": "Fortaleza",
+      "clube_casa_id": 356,
+      "clube_visitante": "Chapecoense",
+      "clube_casa_abrev": "FOR",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/06/10/fortaleza-ec-65px.png",
+      "clube_visitante_id": 315,
+      "clube_visitante_abrev": "CHA",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/equipes/2015/08/03/Escudo-Chape-165.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2019/09/27/75459ae60b5baaac5178846f60fbfbed_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2018/06/10/fortaleza-ec-65px.png",
   "scouts": {
-    "rodada_id": 23,
+    "rodada_id": 24,
     "rb": 0,
     "g": 0,
     "a": 0,
@@ -219,11 +219,11 @@
     "fc": 0,
     "i": 0,
     "pe": 0,
-    "pontos_num": 1.86,
-    "preco_num": 8.02,
-    "variacao_num": -0.46,
-    "media_num": 3.34,
-    "jogos_num": 21,
+    "pontos_num": 5.42,
+    "preco_num": 8.61,
+    "variacao_num": 0.59,
+    "media_num": 3.43,
+    "jogos_num": 22,
     "posicao_abrev": "tec",
     "posicao": "Técnico"
   }
