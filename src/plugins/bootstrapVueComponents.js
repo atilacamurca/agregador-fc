@@ -4,7 +4,9 @@ import {
     NavbarPlugin,
     ListGroupPlugin,
     BadgePlugin,
-    TooltipPlugin
+    TooltipPlugin,
+    FormGroupPlugin,
+    FormRadioPlugin
 } from 'bootstrap-vue'
 
 export default {
@@ -15,5 +17,7 @@ export default {
         Vue.use(ListGroupPlugin)
         Vue.use(BadgePlugin)
         Vue.use(TooltipPlugin)
+        Vue.use(FormGroupPlugin)
+        Vue.use(FormRadioPlugin)
     }
 }

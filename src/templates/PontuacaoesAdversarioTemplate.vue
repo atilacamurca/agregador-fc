@@ -9,10 +9,19 @@
         <b-row class="mt-4">
             <b-col cols="12">
                     <h3 class="text-center">Pontuações do adversário - {{ $page.clube.posicao }}</h3>
-                    <hr>
+                    <b-form-group>
+                        <b-form-radio-group
+                            id="btn-radios-2"
+                            v-model="selected"
+                            :options="options"
+                            buttons
+                            button-variant="outline-primary"
+                            name="radio-btn-outline"
+                        ></b-form-radio-group>
+                    </b-form-group>
                     <b-card no-body>
                         <b-list-group flush>
-                            <b-list-group-item v-for="item in $page.clube.pontuacoes"
+                            <b-list-group-item v-for="item in pontuacoes"
                                 :key="item.rodada_id">
                                 <b-row>
                                     <b-col sm="7" lg="5">
@@ -106,7 +115,13 @@ query($path: String!) {
 export default {
     data() {
         return {
-            clube: null
+            clube: null,
+            options: [
+                { text: 'Todos', value: 'todos' },
+                { text: 'Casa', value: 'casa' },
+                { text: 'Visitante', value: 'visitante' }
+            ],
+            selected: 'todos'
         }
     },
     async mounted() {
@@ -116,6 +131,19 @@ export default {
             this.clube = results.data.clube
         } catch (error) {
             console.log(error)
+        }
+    },
+    computed: {
+        pontuacoes() {
+            const clube_id = this.$page.clube.clube_id
+            return this.$page.clube.pontuacoes.filter(item => {
+                if (this.selected === 'casa') {
+                    return clube_id === item.clube_casa_id
+                } else if (this.selected === 'visitante') {
+                    return clube_id === item.clube_visitante_id
+                }
+                return item
+            })
         }
     }
 }
