@@ -6,7 +6,6 @@
   "clube_id": 315,
   "posicao": "Lateral",
   "rodadas": [
-    15,
     16,
     17,
     18,
@@ -16,10 +15,10 @@
     22,
     23,
     24,
-    25
+    25,
+    26
   ],
   "pontos": [
-    3.2,
     9.6,
     5.7,
     -0.4,
@@ -29,10 +28,10 @@
     1.7,
     0,
     2.6,
-    2.8
+    2.8,
+    -1
   ],
   "precos": [
-    12.92,
     14.06,
     13.59,
     12.51,
@@ -42,10 +41,10 @@
     12.94,
     12.94,
     12.85,
-    12.72
+    12.72,
+    12.19
   ],
   "variacoes": [
-    0.28,
     1.14,
     -0.47,
     -1.08,
@@ -55,10 +54,10 @@
     -0.55,
     0,
     -0.09,
-    -0.13
+    -0.13,
+    -0.53
   ],
   "medias": [
-    3.27,
     3.69,
     3.82,
     3.57,
@@ -68,22 +67,10 @@
     3.73,
     3.73,
     3.68,
-    3.64
+    3.64,
+    3.44
   ],
   "partidas": [
-    {
-      "rodada_id": 15,
-      "clube_casa": "Chapecoense",
-      "clube_casa_id": 315,
-      "clube_visitante": "Avaí",
-      "clube_casa_abrev": "CHA",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2015/08/03/Escudo-Chape-165.png",
-      "clube_visitante_id": 314,
-      "clube_visitante_abrev": "AVA",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/09/04/escudo-avai-65x65.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 16,
       "clube_casa": "Botafogo",
@@ -213,17 +200,30 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2015/04/29/cruzeiro_65.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 26,
+      "clube_casa": "Palmeiras",
+      "clube_casa_id": 275,
+      "clube_visitante": "Chapecoense",
+      "clube_casa_abrev": "PAL",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
+      "clube_visitante_id": 315,
+      "clube_visitante_abrev": "CHA",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2015/08/03/Escudo-Chape-165.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2018/05/24/bcba131b890d61329d3dd3d53d25182e_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2015/08/03/Escudo-Chape-165.png",
   "scouts": {
-    "rodada_id": 25,
-    "rb": 45,
+    "rodada_id": 26,
+    "rb": 46,
     "g": 0,
     "a": 2,
     "sg": 4,
-    "fs": 50,
+    "fs": 51,
     "ff": 3,
     "fd": 0,
     "ft": 0,
@@ -231,17 +231,17 @@
     "dp": 0,
     "gc": 0,
     "cv": 1,
-    "ca": 2,
+    "ca": 3,
     "pp": 0,
     "gs": 0,
-    "fc": 37,
+    "fc": 39,
     "i": 0,
     "pe": 58,
-    "pontos_num": 2.8,
-    "preco_num": 12.72,
-    "variacao_num": -0.13,
-    "media_num": 3.64,
-    "jogos_num": 22,
+    "pontos_num": -1,
+    "preco_num": 12.19,
+    "variacao_num": -0.53,
+    "media_num": 3.44,
+    "jogos_num": 23,
     "posicao_abrev": "lat",
     "posicao": "Lateral"
   }
