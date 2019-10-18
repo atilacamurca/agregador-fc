@@ -6,7 +6,6 @@
   "clube_id": 284,
   "posicao": "Atacante",
   "rodadas": [
-    15,
     16,
     17,
     18,
@@ -16,10 +15,10 @@
     22,
     23,
     24,
-    25
+    25,
+    26
   ],
   "pontos": [
-    1.5,
     10.4,
     0.9,
     0.2,
@@ -29,10 +28,10 @@
     0,
     5.7,
     7.3,
-    9.8
+    9.8,
+    2
   ],
   "precos": [
-    9.7,
     11.31,
     9.84,
     9.62,
@@ -42,10 +41,10 @@
     13.61,
     11.44,
     11.75,
-    12.2
+    12.2,
+    11.16
   ],
   "variacoes": [
-    0.41,
     1.61,
     -1.47,
     -0.22,
@@ -55,10 +54,10 @@
     0,
     -2.17,
     0.31,
-    0.45
+    0.45,
+    -1.04
   ],
   "medias": [
-    3.78,
     4.38,
     4.09,
     3.79,
@@ -68,22 +67,10 @@
     5.07,
     5.11,
     5.23,
-    5.47
+    5.47,
+    5.3
   ],
   "partidas": [
-    {
-      "rodada_id": 15,
-      "clube_casa": "Grêmio",
-      "clube_casa_id": 284,
-      "clube_visitante": "Palmeiras",
-      "clube_casa_abrev": "GRE",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/gremio_60x60.png",
-      "clube_visitante_id": 275,
-      "clube_visitante_abrev": "PAL",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 16,
       "clube_casa": "Grêmio",
@@ -213,19 +200,32 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/gremio_60x60.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 4
+    },
+    {
+      "rodada_id": 26,
+      "clube_casa": "Grêmio",
+      "clube_casa_id": 284,
+      "clube_visitante": "Bahia",
+      "clube_casa_abrev": "GRE",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/gremio_60x60.png",
+      "clube_visitante_id": 265,
+      "clube_visitante_abrev": "BAH",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/bahia_60x60.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2018/05/21/c01a0fcc9657bf0df6cfde4356ece5bc_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/gremio_60x60.png",
   "scouts": {
-    "rodada_id": 25,
+    "rodada_id": 26,
     "rb": 16,
     "g": 4,
     "a": 6,
     "sg": 0,
-    "fs": 34,
+    "fs": 35,
     "ff": 14,
-    "fd": 8,
+    "fd": 10,
     "ft": 1,
     "dd": 0,
     "dp": 0,
@@ -236,12 +236,12 @@
     "gs": 0,
     "fc": 11,
     "i": 3,
-    "pe": 53,
-    "pontos_num": 9.8,
-    "preco_num": 12.2,
-    "variacao_num": 0.45,
-    "media_num": 5.47,
-    "jogos_num": 19,
+    "pe": 56,
+    "pontos_num": 2,
+    "preco_num": 11.16,
+    "variacao_num": -1.04,
+    "media_num": 5.3,
+    "jogos_num": 20,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }

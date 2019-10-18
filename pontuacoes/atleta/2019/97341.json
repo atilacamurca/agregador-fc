@@ -6,7 +6,6 @@
   "clube_id": 356,
   "posicao": "Técnico",
   "rodadas": [
-    15,
     16,
     17,
     18,
@@ -15,10 +14,10 @@
     22,
     23,
     24,
-    25
+    25,
+    26
   ],
   "pontos": [
-    7.15,
     2.32,
     4.97,
     2.02,
@@ -27,10 +26,10 @@
     0,
     1.86,
     5.42,
-    0.49
+    0.49,
+    2.45
   ],
   "precos": [
-    8.68,
     7.93,
     8.46,
     8.01,
@@ -39,10 +38,10 @@
     8.48,
     8.02,
     8.61,
-    7.74
+    7.74,
+    8.15
   ],
   "variacoes": [
-    0.26,
     -0.75,
     0.53,
     -0.45,
@@ -51,10 +50,10 @@
     0,
     -0.46,
     0.59,
-    -0.87
+    -0.87,
+    0.41
   ],
   "medias": [
-    3.43,
     3.36,
     3.45,
     3.37,
@@ -63,22 +62,10 @@
     3.41,
     3.34,
     3.43,
-    3.3
+    3.3,
+    3.26
   ],
   "partidas": [
-    {
-      "rodada_id": 15,
-      "clube_casa": "Fortaleza",
-      "clube_casa_id": 356,
-      "clube_visitante": "Internacional",
-      "clube_casa_abrev": "FOR",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/06/10/fortaleza-ec-65px.png",
-      "clube_visitante_id": 285,
-      "clube_visitante_abrev": "INT",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/03/inter65.png",
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 16,
       "clube_casa": "Santos",
@@ -195,12 +182,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/06/10/fortaleza-ec-65px.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 26,
+      "clube_casa": "Fortaleza",
+      "clube_casa_id": 356,
+      "clube_visitante": "Flamengo",
+      "clube_casa_abrev": "FOR",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/06/10/fortaleza-ec-65px.png",
+      "clube_visitante_id": 262,
+      "clube_visitante_abrev": "FLA",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/04/09/Flamengo-65.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2019/09/27/75459ae60b5baaac5178846f60fbfbed_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2018/06/10/fortaleza-ec-65px.png",
   "scouts": {
-    "rodada_id": 25,
+    "rodada_id": 26,
     "rb": 0,
     "g": 0,
     "a": 0,
@@ -219,11 +219,11 @@
     "fc": 0,
     "i": 0,
     "pe": 0,
-    "pontos_num": 0.49,
-    "preco_num": 7.74,
-    "variacao_num": -0.87,
-    "media_num": 3.3,
-    "jogos_num": 23,
+    "pontos_num": 2.45,
+    "preco_num": 8.15,
+    "variacao_num": 0.41,
+    "media_num": 3.26,
+    "jogos_num": 24,
     "posicao_abrev": "tec",
     "posicao": "Técnico"
   }

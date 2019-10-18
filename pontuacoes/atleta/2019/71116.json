@@ -13,7 +13,8 @@
     22,
     23,
     24,
-    25
+    25,
+    26
   ],
   "pontos": [
     0,
@@ -23,7 +24,8 @@
     5.6,
     1.7,
     4.1,
-    -0.3
+    -0.3,
+    2
   ],
   "precos": [
     4,
@@ -33,7 +35,8 @@
     4.16,
     3.59,
     4.03,
-    3.3
+    3.3,
+    3.72
   ],
   "variacoes": [
     0,
@@ -43,7 +46,8 @@
     0.16,
     -0.57,
     0.44,
-    -0.73
+    -0.73,
+    0.42
   ],
   "medias": [
     0,
@@ -53,7 +57,8 @@
     5.6,
     3.65,
     3.8,
-    2.77
+    2.77,
+    2.62
   ],
   "partidas": [
     {
@@ -159,18 +164,31 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2015/04/29/cruzeiro_65.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 26,
+      "clube_casa": "Palmeiras",
+      "clube_casa_id": 275,
+      "clube_visitante": "Chapecoense",
+      "clube_casa_abrev": "PAL",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
+      "clube_visitante_id": 315,
+      "clube_visitante_abrev": "CHA",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2015/08/03/Escudo-Chape-165.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2018/08/29/ee96b4652f7fe6a58750ecd5d477ee2f_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2015/08/03/Escudo-Chape-165.png",
   "scouts": {
-    "rodada_id": 25,
+    "rodada_id": 26,
     "rb": 3,
     "g": 0,
     "a": 1,
     "sg": 0,
-    "fs": 5,
-    "ff": 2,
+    "fs": 10,
+    "ff": 3,
     "fd": 2,
     "ft": 0,
     "dd": 0,
@@ -180,14 +198,14 @@
     "ca": 0,
     "pp": 0,
     "gs": 0,
-    "fc": 4,
+    "fc": 6,
     "i": 1,
-    "pe": 8,
-    "pontos_num": -0.3,
-    "preco_num": 3.3,
-    "variacao_num": -0.73,
-    "media_num": 2.77,
-    "jogos_num": 4,
+    "pe": 9,
+    "pontos_num": 2,
+    "preco_num": 3.72,
+    "variacao_num": 0.42,
+    "media_num": 2.62,
+    "jogos_num": 5,
     "posicao_abrev": "lat",
     "posicao": "Lateral"
   }

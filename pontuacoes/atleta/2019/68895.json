@@ -6,7 +6,6 @@
   "clube_id": 285,
   "posicao": "Atacante",
   "rodadas": [
-    15,
     16,
     17,
     18,
@@ -16,10 +15,10 @@
     22,
     23,
     24,
-    25
+    25,
+    26
   ],
   "pontos": [
-    12.2,
     6.8,
     -2,
     1.9,
@@ -29,10 +28,10 @@
     1.5,
     0,
     1.8,
-    1.5
+    1.5,
+    0
   ],
   "precos": [
-    7.16,
     6.58,
     5.13,
     5.72,
@@ -42,10 +41,10 @@
     5.72,
     5.72,
     5.7,
+    5.59,
     5.59
   ],
   "variacoes": [
-    2.38,
     -0.58,
     -1.45,
     0.59,
@@ -55,10 +54,10 @@
     -0.39,
     0,
     -0.02,
-    -0.11
+    -0.11,
+    0
   ],
   "medias": [
-    3.29,
     3.73,
     3.09,
     2.97,
@@ -68,22 +67,10 @@
     2.97,
     2.97,
     2.88,
+    2.78,
     2.78
   ],
   "partidas": [
-    {
-      "rodada_id": 15,
-      "clube_casa": "Fortaleza",
-      "clube_casa_id": 356,
-      "clube_visitante": "Internacional",
-      "clube_casa_abrev": "FOR",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/06/10/fortaleza-ec-65px.png",
-      "clube_visitante_id": 285,
-      "clube_visitante_abrev": "INT",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/03/inter65.png",
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 16,
       "clube_casa": "Goiás",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/santos_60x60.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 26,
+      "clube_casa": "Avaí",
+      "clube_casa_id": 314,
+      "clube_visitante": "Internacional",
+      "clube_casa_abrev": "AVA",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/09/04/escudo-avai-65x65.png",
+      "clube_visitante_id": 285,
+      "clube_visitante_abrev": "INT",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/03/inter65.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2018/04/08/37fba0582d79360263206da6e9868169_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/03/inter65.png",
   "scouts": {
-    "rodada_id": 25,
+    "rodada_id": 26,
     "rb": 9,
     "g": 1,
     "a": 1,
@@ -237,9 +237,9 @@
     "fc": 3,
     "i": 1,
     "pe": 21,
-    "pontos_num": 1.5,
+    "pontos_num": 0,
     "preco_num": 5.59,
-    "variacao_num": -0.11,
+    "variacao_num": 0,
     "media_num": 2.78,
     "jogos_num": 14,
     "posicao_abrev": "ata",
