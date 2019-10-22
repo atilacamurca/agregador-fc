@@ -6,7 +6,6 @@
   "clube_id": 315,
   "posicao": "Lateral",
   "rodadas": [
-    16,
     17,
     18,
     19,
@@ -16,10 +15,10 @@
     23,
     24,
     25,
-    26
+    26,
+    27
   ],
   "pontos": [
-    9.6,
     5.7,
     -0.4,
     6.9,
@@ -29,10 +28,10 @@
     0,
     2.6,
     2.8,
-    -1
+    -1,
+    0.5
   ],
   "precos": [
-    14.06,
     13.59,
     12.51,
     13.68,
@@ -42,10 +41,10 @@
     12.94,
     12.85,
     12.72,
-    12.19
+    12.19,
+    12.41
   ],
   "variacoes": [
-    1.14,
     -0.47,
     -1.08,
     1.17,
@@ -55,10 +54,10 @@
     0,
     -0.09,
     -0.13,
-    -0.53
+    -0.53,
+    0.22
   ],
   "medias": [
-    3.69,
     3.82,
     3.57,
     3.75,
@@ -68,22 +67,10 @@
     3.73,
     3.68,
     3.64,
-    3.44
+    3.44,
+    3.32
   ],
   "partidas": [
-    {
-      "rodada_id": 16,
-      "clube_casa": "Botafogo",
-      "clube_casa_id": 263,
-      "clube_visitante": "Chapecoense",
-      "clube_casa_abrev": "BOT",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/04/botafogo-65.png",
-      "clube_visitante_id": 315,
-      "clube_visitante_abrev": "CHA",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2015/08/03/Escudo-Chape-165.png",
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 17,
       "clube_casa": "Chapecoense",
@@ -213,17 +200,30 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2015/08/03/Escudo-Chape-165.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 27,
+      "clube_casa": "Chapecoense",
+      "clube_casa_id": 315,
+      "clube_visitante": "Goiás",
+      "clube_casa_abrev": "CHA",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2015/08/03/Escudo-Chape-165.png",
+      "clube_visitante_id": 290,
+      "clube_visitante_abrev": "GOI",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/05/01/Goias_65px.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2018/05/24/bcba131b890d61329d3dd3d53d25182e_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2015/08/03/Escudo-Chape-165.png",
   "scouts": {
-    "rodada_id": 26,
+    "rodada_id": 27,
     "rb": 46,
     "g": 0,
     "a": 2,
     "sg": 4,
-    "fs": 51,
+    "fs": 53,
     "ff": 3,
     "fd": 0,
     "ft": 0,
@@ -234,14 +234,14 @@
     "ca": 3,
     "pp": 0,
     "gs": 0,
-    "fc": 39,
+    "fc": 40,
     "i": 0,
     "pe": 58,
-    "pontos_num": -1,
-    "preco_num": 12.19,
-    "variacao_num": -0.53,
-    "media_num": 3.44,
-    "jogos_num": 23,
+    "pontos_num": 0.5,
+    "preco_num": 12.41,
+    "variacao_num": 0.22,
+    "media_num": 3.32,
+    "jogos_num": 24,
     "posicao_abrev": "lat",
     "posicao": "Lateral"
   }

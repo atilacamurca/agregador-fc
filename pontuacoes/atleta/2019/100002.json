@@ -6,7 +6,6 @@
   "clube_id": 263,
   "posicao": "Meia",
   "rodadas": [
-    16,
     17,
     18,
     19,
@@ -16,10 +15,10 @@
     23,
     24,
     25,
-    26
+    26,
+    27
   ],
   "pontos": [
-    0,
     0,
     0,
     0,
@@ -29,23 +28,23 @@
     0,
     0,
     0,
-    0
+    0,
+    -2.5
   ],
   "precos": [
     1.99,
     1.99,
     1.99,
     1.99,
-    1.99,
     1.73,
     1.73,
     1.73,
     1.73,
     1.73,
-    1.73
+    1.73,
+    1.15
   ],
   "variacoes": [
-    0,
     0,
     0,
     0,
@@ -55,35 +54,23 @@
     0,
     0,
     0,
-    0
+    0,
+    -0.58
   ],
   "medias": [
     1.63,
     1.63,
     1.63,
     1.63,
-    1.63,
     1.35,
     1.35,
     1.35,
     1.35,
     1.35,
-    1.35
+    1.35,
+    0.58
   ],
   "partidas": [
-    {
-      "rodada_id": 16,
-      "clube_casa": "Botafogo",
-      "clube_casa_id": 263,
-      "clube_visitante": "Chapecoense",
-      "clube_casa_abrev": "BOT",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/04/botafogo-65.png",
-      "clube_visitante_id": 315,
-      "clube_visitante_abrev": "CHA",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2015/08/03/Escudo-Chape-165.png",
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 17,
       "clube_casa": "Internacional",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/04/botafogo-65.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 27,
+      "clube_casa": "Botafogo",
+      "clube_casa_id": 263,
+      "clube_visitante": "CSA",
+      "clube_casa_abrev": "BOT",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/04/botafogo-65.png",
+      "clube_visitante_id": 341,
+      "clube_visitante_abrev": "CSA",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/16/CSA_65.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2019/08/16/72f22e08c825e7a916e81c6fcfe40189_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/04/botafogo-65.png",
   "scouts": {
-    "rodada_id": 26,
+    "rodada_id": 27,
     "rb": 2,
     "g": 0,
     "a": 0,
@@ -231,17 +231,17 @@
     "dp": 0,
     "gc": 0,
     "cv": 0,
-    "ca": 0,
+    "ca": 1,
     "pp": 0,
     "gs": 0,
-    "fc": 1,
+    "fc": 2,
     "i": 0,
     "pe": 3,
-    "pontos_num": 0,
-    "preco_num": 1.73,
-    "variacao_num": 0,
-    "media_num": 1.35,
-    "jogos_num": 4,
+    "pontos_num": -2.5,
+    "preco_num": 1.15,
+    "variacao_num": -0.58,
+    "media_num": 0.58,
+    "jogos_num": 5,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }

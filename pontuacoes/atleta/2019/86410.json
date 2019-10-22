@@ -6,7 +6,6 @@
   "clube_id": 275,
   "posicao": "Lateral",
   "rodadas": [
-    16,
     17,
     18,
     19,
@@ -16,7 +15,8 @@
     23,
     24,
     25,
-    26
+    26,
+    27
   ],
   "pontos": [
     0,
@@ -28,8 +28,8 @@
     0,
     0,
     0,
-    0,
-    -2
+    -2,
+    0
   ],
   "precos": [
     5.22,
@@ -41,7 +41,7 @@
     5.22,
     5.22,
     5.22,
-    5.22,
+    4.17,
     4.17
   ],
   "variacoes": [
@@ -54,8 +54,8 @@
     0,
     0,
     0,
-    0,
-    -1.05
+    -1.05,
+    0
   ],
   "medias": [
     0.2,
@@ -67,23 +67,10 @@
     0.2,
     0.2,
     0.2,
-    0.2,
-    -0.53
+    -0.53,
+    -3.3
   ],
   "partidas": [
-    {
-      "rodada_id": 16,
-      "clube_casa": "Palmeiras",
-      "clube_casa_id": 275,
-      "clube_visitante": "Fluminense",
-      "clube_casa_abrev": "PAL",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
-      "clube_visitante_id": 266,
-      "clube_visitante_abrev": "FLU",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/fluminense_60x60.png",
-      "placar_oficial_mandante": null,
-      "placar_oficial_visitante": null
-    },
     {
       "rodada_id": 17,
       "clube_casa": "Flamengo",
@@ -213,16 +200,29 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2015/08/03/Escudo-Chape-165.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 27,
+      "clube_casa": "Athlético-PR",
+      "clube_casa_id": 293,
+      "clube_visitante": "Palmeiras",
+      "clube_casa_abrev": "ATL",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/09/Athletico-PR-65x65.png",
+      "clube_visitante_id": 275,
+      "clube_visitante_abrev": "PAL",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2019/01/14/6656cffa0a00120d740886ec3a73c1df_140x140.jpeg",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
   "scouts": {
-    "rodada_id": 26,
+    "rodada_id": 27,
     "rb": 2,
     "g": 0,
     "a": 0,
-    "sg": 1,
+    "sg": 0,
     "fs": 0,
     "ff": 1,
     "fd": 0,
@@ -237,11 +237,11 @@
     "fc": 5,
     "i": 0,
     "pe": 3,
-    "pontos_num": -2,
+    "pontos_num": 0,
     "preco_num": 4.17,
-    "variacao_num": -1.05,
-    "media_num": -0.53,
-    "jogos_num": 3,
+    "variacao_num": 0,
+    "media_num": -3.3,
+    "jogos_num": 2,
     "posicao_abrev": "lat",
     "posicao": "Lateral"
   }

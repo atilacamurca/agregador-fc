@@ -6,7 +6,6 @@
   "clube_id": 341,
   "posicao": "Lateral",
   "rodadas": [
-    16,
     17,
     18,
     19,
@@ -16,7 +15,8 @@
     23,
     24,
     25,
-    26
+    26,
+    27
   ],
   "pontos": [
     0,
@@ -24,8 +24,8 @@
     0,
     0,
     0,
-    0,
     -0.3,
+    0,
     0,
     0,
     0,
@@ -37,7 +37,7 @@
     3.92,
     3.92,
     3.92,
-    3.92,
+    3.19,
     3.19,
     3.19,
     3.19,
@@ -50,8 +50,8 @@
     0,
     0,
     0,
-    0,
     -0.73,
+    0,
     0,
     0,
     0,
@@ -63,7 +63,7 @@
     2.95,
     2.95,
     2.95,
-    2.95,
+    1.87,
     1.87,
     1.87,
     1.87,
@@ -71,19 +71,6 @@
     1.87
   ],
   "partidas": [
-    {
-      "rodada_id": 16,
-      "clube_casa": "CSA",
-      "clube_casa_id": 341,
-      "clube_visitante": "Cruzeiro",
-      "clube_casa_abrev": "CSA",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/16/CSA_65.png",
-      "clube_visitante_id": 283,
-      "clube_visitante_abrev": "CRU",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2015/04/29/cruzeiro_65.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 17,
       "clube_casa": "Bahia",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2017/11/23/Atletico-Mineiro-escudo65px.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 27,
+      "clube_casa": "Botafogo",
+      "clube_casa_id": 263,
+      "clube_visitante": "CSA",
+      "clube_casa_abrev": "BOT",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/04/botafogo-65.png",
+      "clube_visitante_id": 341,
+      "clube_visitante_abrev": "CSA",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/16/CSA_65.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2019/03/23/6fa441d642d426cca217c6d7c843a2c0_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/16/CSA_65.png",
   "scouts": {
-    "rodada_id": 26,
+    "rodada_id": 27,
     "rb": 4,
     "g": 0,
     "a": 0,
