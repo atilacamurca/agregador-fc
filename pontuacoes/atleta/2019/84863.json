@@ -6,7 +6,6 @@
   "clube_id": 263,
   "posicao": "Técnico",
   "rodadas": [
-    17,
     18,
     19,
     20,
@@ -15,10 +14,10 @@
     23,
     24,
     26,
-    27
+    27,
+    28
   ],
   "pontos": [
-    6.04,
     0.87,
     5.63,
     4.35,
@@ -27,10 +26,10 @@
     2.42,
     4.52,
     3.25,
-    2.95
+    2.95,
+    2.15
   ],
   "precos": [
-    7,
     6.19,
     7.03,
     6.91,
@@ -39,10 +38,10 @@
     6.76,
     7.12,
     6.96,
-    6.99
+    6.99,
+    6.78
   ],
   "variacoes": [
-    0.71,
     -0.81,
     0.84,
     -0.12,
@@ -51,10 +50,10 @@
     0.09,
     0.36,
     -0.16,
-    0.03
+    0.03,
+    -0.21
   ],
   "medias": [
-    3.19,
     2.93,
     3.2,
     3.3,
@@ -63,22 +62,10 @@
     3.09,
     3.19,
     3.19,
-    3.18
+    3.18,
+    3.12
   ],
   "partidas": [
-    {
-      "rodada_id": 17,
-      "clube_casa": "Internacional",
-      "clube_casa_id": 285,
-      "clube_visitante": "Botafogo",
-      "clube_casa_abrev": "INT",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/03/inter65.png",
-      "clube_visitante_id": 263,
-      "clube_visitante_abrev": "BOT",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/04/botafogo-65.png",
-      "placar_oficial_mandante": 3,
-      "placar_oficial_visitante": 2
-    },
     {
       "rodada_id": 18,
       "clube_casa": "Botafogo",
@@ -195,12 +182,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/16/CSA_65.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 28,
+      "clube_casa": "Grêmio",
+      "clube_casa_id": 284,
+      "clube_visitante": "Botafogo",
+      "clube_casa_abrev": "GRE",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/gremio_60x60.png",
+      "clube_visitante_id": 263,
+      "clube_visitante_abrev": "BOT",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/04/botafogo-65.png",
+      "placar_oficial_mandante": 3,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2019/10/14/d89852bf9d390ea20a02fb63d0894b27_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/04/botafogo-65.png",
   "scouts": {
-    "rodada_id": 27,
+    "rodada_id": 28,
     "rb": 0,
     "g": 0,
     "a": 0,
@@ -219,11 +219,11 @@
     "fc": 0,
     "i": 0,
     "pe": 0,
-    "pontos_num": 2.95,
-    "preco_num": 6.99,
-    "variacao_num": 0.03,
-    "media_num": 3.18,
-    "jogos_num": 17,
+    "pontos_num": 2.15,
+    "preco_num": 6.78,
+    "variacao_num": -0.21,
+    "media_num": 3.12,
+    "jogos_num": 18,
     "posicao_abrev": "tec",
     "posicao": "Técnico"
   }

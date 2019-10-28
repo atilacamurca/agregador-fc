@@ -6,7 +6,6 @@
   "clube_id": 266,
   "posicao": "Lateral",
   "rodadas": [
-    17,
     18,
     19,
     20,
@@ -16,10 +15,10 @@
     24,
     25,
     26,
-    27
+    27,
+    28
   ],
   "pontos": [
-    0,
     4.4,
     7.1,
     0.7,
@@ -29,10 +28,10 @@
     5.7,
     9.4,
     2.5,
-    0.2
+    0.2,
+    -1.7
   ],
   "precos": [
-    6.24,
     6.45,
     7.04,
     6.03,
@@ -42,10 +41,10 @@
     7.17,
     7.87,
     6.95,
-    6.6
+    6.6,
+    6.13
   ],
   "variacoes": [
-    0,
     0.21,
     0.59,
     -1.01,
@@ -55,10 +54,10 @@
     -0.5,
     0.7,
     -0.92,
-    -0.35
+    -0.35,
+    -0.47
   ],
   "medias": [
-    1.96,
     2.2,
     2.65,
     2.49,
@@ -68,22 +67,10 @@
     2.98,
     3.36,
     3.31,
-    3.15
+    3.15,
+    2.91
   ],
   "partidas": [
-    {
-      "rodada_id": 17,
-      "clube_casa": "Fluminense",
-      "clube_casa_id": 266,
-      "clube_visitante": "Avaí",
-      "clube_casa_abrev": "FLU",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/fluminense_60x60.png",
-      "clube_visitante_id": 314,
-      "clube_visitante_abrev": "AVA",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/09/04/escudo-avai-65x65.png",
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 18,
       "clube_casa": "Fortaleza",
@@ -213,18 +200,31 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/fluminense_60x60.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 28,
+      "clube_casa": "Fluminense",
+      "clube_casa_id": 266,
+      "clube_visitante": "Chapecoense",
+      "clube_casa_abrev": "FLU",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/fluminense_60x60.png",
+      "clube_visitante_id": 315,
+      "clube_visitante_abrev": "CHA",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2015/08/03/Escudo-Chape-165.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2019/09/16/6f2f20a500853211de97a81f1227e4ae_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/fluminense_60x60.png",
   "scouts": {
-    "rodada_id": 27,
+    "rodada_id": 28,
     "rb": 23,
     "g": 0,
     "a": 2,
     "sg": 5,
     "fs": 17,
-    "ff": 8,
+    "ff": 9,
     "fd": 5,
     "ft": 0,
     "dd": 0,
@@ -234,14 +234,14 @@
     "ca": 1,
     "pp": 0,
     "gs": 0,
-    "fc": 24,
+    "fc": 26,
     "i": 1,
-    "pe": 54,
-    "pontos_num": 0.2,
-    "preco_num": 6.6,
-    "variacao_num": -0.35,
-    "media_num": 3.15,
-    "jogos_num": 19,
+    "pe": 59,
+    "pontos_num": -1.7,
+    "preco_num": 6.13,
+    "variacao_num": -0.47,
+    "media_num": 2.91,
+    "jogos_num": 20,
     "posicao_abrev": "lat",
     "posicao": "Lateral"
   }

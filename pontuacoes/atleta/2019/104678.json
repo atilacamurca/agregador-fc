@@ -6,7 +6,6 @@
   "clube_id": 267,
   "posicao": "Atacante",
   "rodadas": [
-    17,
     18,
     19,
     20,
@@ -16,10 +15,11 @@
     24,
     25,
     26,
-    27
+    27,
+    28
   ],
   "pontos": [
-    0.3,
+    0,
     0,
     0,
     0,
@@ -45,7 +45,7 @@
     4.08
   ],
   "variacoes": [
-    -0.14,
+    0,
     0,
     0,
     0,
@@ -71,19 +71,6 @@
     1.74
   ],
   "partidas": [
-    {
-      "rodada_id": 17,
-      "clube_casa": "Cruzeiro",
-      "clube_casa_id": 283,
-      "clube_visitante": "Vasco",
-      "clube_casa_abrev": "CRU",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2015/04/29/cruzeiro_65.png",
-      "clube_visitante_id": 267,
-      "clube_visitante_abrev": "VAS",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/07/29/Vasco-65.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 18,
       "clube_casa": "Vasco",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/07/29/Vasco-65.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 28,
+      "clube_casa": "Ceará",
+      "clube_casa_id": 354,
+      "clube_visitante": "Vasco",
+      "clube_casa_abrev": "CEA",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/10/10/ceara-65x65.png",
+      "clube_visitante_id": 267,
+      "clube_visitante_abrev": "VAS",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/07/29/Vasco-65.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2019/08/16/9104ad20d057e39846d6451e44b0e5b8_140x140.jpeg",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2016/07/29/Vasco-65.png",
   "scouts": {
-    "rodada_id": 27,
+    "rodada_id": 28,
     "rb": 2,
     "g": 1,
     "a": 1,

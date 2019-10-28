@@ -6,7 +6,6 @@
   "clube_id": 283,
   "posicao": "Zagueiro",
   "rodadas": [
-    17,
     18,
     19,
     20,
@@ -16,10 +15,10 @@
     24,
     25,
     26,
-    27
+    27,
+    28
   ],
   "pontos": [
-    6.6,
     0,
     0,
     0,
@@ -29,10 +28,10 @@
     6.1,
     11.5,
     7.6,
+    0,
     0
   ],
   "precos": [
-    15.9,
     15.9,
     15.9,
     15.9,
@@ -42,10 +41,10 @@
     15.21,
     16.07,
     15.81,
+    14.63,
     14.63
   ],
   "variacoes": [
-    0.11,
     0,
     0,
     0,
@@ -55,10 +54,10 @@
     0.83,
     0.86,
     -0.26,
-    -1.18
+    -1.18,
+    0
   ],
   "medias": [
-    5.28,
     5.28,
     5.28,
     5.28,
@@ -68,22 +67,10 @@
     4.86,
     5.23,
     5.35,
+    5.08,
     5.08
   ],
   "partidas": [
-    {
-      "rodada_id": 17,
-      "clube_casa": "Cruzeiro",
-      "clube_casa_id": 283,
-      "clube_visitante": "Vasco",
-      "clube_casa_abrev": "CRU",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2015/04/29/cruzeiro_65.png",
-      "clube_visitante_id": 267,
-      "clube_visitante_abrev": "VAS",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/07/29/Vasco-65.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 18,
       "clube_casa": "Cruzeiro",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2015/04/29/cruzeiro_65.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 28,
+      "clube_casa": "Cruzeiro",
+      "clube_casa_id": 283,
+      "clube_visitante": "Fortaleza",
+      "clube_casa_abrev": "CRU",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2015/04/29/cruzeiro_65.png",
+      "clube_visitante_id": 356,
+      "clube_visitante_abrev": "FOR",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/06/10/fortaleza-ec-65px.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2018/05/18/868bcae1cfa32a1aa3c4c3e884f54c78_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2015/04/29/cruzeiro_65.png",
   "scouts": {
-    "rodada_id": 27,
+    "rodada_id": 28,
     "rb": 28,
     "g": 3,
     "a": 0,
@@ -239,7 +239,7 @@
     "pe": 45,
     "pontos_num": 0,
     "preco_num": 14.63,
-    "variacao_num": -1.18,
+    "variacao_num": 0,
     "media_num": 5.08,
     "jogos_num": 20,
     "posicao_abrev": "zag",

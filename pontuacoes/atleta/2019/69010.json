@@ -6,7 +6,6 @@
   "clube_id": 341,
   "posicao": "Goleiro",
   "rodadas": [
-    17,
     18,
     19,
     20,
@@ -16,7 +15,8 @@
     24,
     25,
     26,
-    27
+    27,
+    28
   ],
   "pontos": [
     0,
@@ -27,9 +27,9 @@
     0,
     0,
     0,
-    0,
     5,
-    1.7
+    1.7,
+    8
   ],
   "precos": [
     1.19,
@@ -39,10 +39,10 @@
     1.19,
     1.19,
     1.19,
-    1.19,
     0.77,
     1.6,
-    1.15
+    1.15,
+    2.28
   ],
   "variacoes": [
     0,
@@ -52,10 +52,10 @@
     0,
     0,
     0,
-    0,
     -0.42,
     0.83,
-    -0.45
+    -0.45,
+    1.13
   ],
   "medias": [
     -0.65,
@@ -65,25 +65,12 @@
     -0.65,
     -0.65,
     -0.65,
-    -0.65,
     -0.43,
     0.93,
-    1.08
+    1.08,
+    2.23
   ],
   "partidas": [
-    {
-      "rodada_id": 17,
-      "clube_casa": "Bahia",
-      "clube_casa_id": 265,
-      "clube_visitante": "CSA",
-      "clube_casa_abrev": "BAH",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/bahia_60x60.png",
-      "clube_visitante_id": 341,
-      "clube_visitante_abrev": "CSA",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/16/CSA_65.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 18,
       "clube_casa": "CSA",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/16/CSA_65.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 28,
+      "clube_casa": "Flamengo",
+      "clube_casa_id": 262,
+      "clube_visitante": "CSA",
+      "clube_casa_abrev": "FLA",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/04/09/Flamengo-65.png",
+      "clube_visitante_id": 341,
+      "clube_visitante_abrev": "CSA",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/16/CSA_65.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2019/03/23/b148048ebdcdc02c79c893ae63f6e80d_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/16/CSA_65.png",
   "scouts": {
-    "rodada_id": 27,
+    "rodada_id": 28,
     "rb": 0,
     "g": 0,
     "a": 0,
@@ -227,21 +227,21 @@
     "ff": 0,
     "fd": 0,
     "ft": 0,
-    "dd": 6,
+    "dd": 10,
     "dp": 0,
     "gc": 0,
     "cv": 1,
-    "ca": 0,
+    "ca": 1,
     "pp": 0,
-    "gs": 6,
+    "gs": 7,
     "fc": 1,
     "i": 0,
     "pe": 2,
-    "pontos_num": 1.7,
-    "preco_num": 1.15,
-    "variacao_num": -0.45,
-    "media_num": 1.08,
-    "jogos_num": 5,
+    "pontos_num": 8,
+    "preco_num": 2.28,
+    "variacao_num": 1.13,
+    "media_num": 2.23,
+    "jogos_num": 6,
     "posicao_abrev": "gol",
     "posicao": "Goleiro"
   }
