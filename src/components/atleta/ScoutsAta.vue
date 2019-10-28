@@ -3,8 +3,10 @@
         <h4>Scouts em {{ props.jogos_num }} jogos</h4>
         <div class="p-3">
             <b-row>
-                <b-col cols="5">
+                <b-col cols="8">
                     <div class="lead">Positivos</div>
+                    <doughnut-chart :data="props.scoutsChart([props.g, props.a, props.ff], ['G', 'A', 'FF'])"></doughnut-chart>
+
                     <gol :g="props.g"></gol>
                     <assistencia :a="props.a"></assistencia>
                     <finalizacao-fora :ff="props.ff"></finalizacao-fora>
@@ -84,6 +86,10 @@ export default {
         },
         jogos_num: {
             type: Number,
+            required: true
+        },
+        scoutsChart: {
+            type: Function,
             required: true
         }
     }

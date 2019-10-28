@@ -95,6 +95,7 @@
                 v-if="pontuacao.scouts.posicao_abrev !== 'tec'">
                 <component :is="`scouts-${pontuacao.scouts.posicao_abrev}`"
                     v-bind="pontuacao.scouts"
+                    :scoutsChart="scoutsChart()"
                 ></component>
             </b-col>
         </b-row>
@@ -236,6 +237,30 @@ export default {
                 },
                 legend: {
                     display: false
+                }
+            }
+        }
+    },
+    methods: {
+        scoutsChart() {
+            return (data, labels) => {
+                return {
+                    datasets: [{
+                        data, //: [10, 20, 30]
+                        backgroundColor: '#28a745'
+                    }],
+                    labels,//: ['G', 'A', 'PE']
+                    options: {
+                        plugins: {
+                            labels: {
+                                render: 'value',
+                                position: 'outside'
+                            }
+                        },
+                        legend: {
+                            display: false
+                        }
+                    }
                 }
             }
         }

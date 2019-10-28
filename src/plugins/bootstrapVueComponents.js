@@ -9,6 +9,9 @@ import {
     FormRadioPlugin
 } from 'bootstrap-vue'
 
+import DoughnutChart from '@/components/charts/DoughnutChart'
+import 'chartjs-plugin-labels'
+
 export default {
     install (Vue) {
         Vue.use(LayoutPlugin)
@@ -19,5 +22,6 @@ export default {
         Vue.use(TooltipPlugin)
         Vue.use(FormGroupPlugin)
         Vue.use(FormRadioPlugin)
+        Vue.component('doughnut-chart', DoughnutChart)
     }
 }
