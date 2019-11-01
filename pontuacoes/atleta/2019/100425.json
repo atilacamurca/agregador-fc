@@ -6,7 +6,6 @@
   "clube_id": 341,
   "posicao": "Atacante",
   "rodadas": [
-    18,
     19,
     20,
     21,
@@ -16,10 +15,10 @@
     25,
     26,
     27,
-    28
+    28,
+    29
   ],
   "pontos": [
-    -1.8,
     9.7,
     5,
     -0.8,
@@ -29,10 +28,10 @@
     1.4,
     0.8,
     0,
-    0
+    0,
+    1.5
   ],
   "precos": [
-    0.77,
     3.08,
     2.86,
     1.95,
@@ -42,10 +41,10 @@
     2.79,
     2.74,
     2.74,
-    2.74
+    2.74,
+    2.84
   ],
   "variacoes": [
-    -0.72,
     2.31,
     -0.22,
     -0.91,
@@ -55,10 +54,10 @@
     0.36,
     -0.05,
     0,
-    0
+    0,
+    0.1
   ],
   "medias": [
-    -0.32,
     1.35,
     1.87,
     1.54,
@@ -68,22 +67,10 @@
     1.89,
     1.81,
     1.81,
-    1.81
+    1.81,
+    1.79
   ],
   "partidas": [
-    {
-      "rodada_id": 18,
-      "clube_casa": "CSA",
-      "clube_casa_id": 341,
-      "clube_visitante": "Chapecoense",
-      "clube_casa_abrev": "CSA",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/16/CSA_65.png",
-      "clube_visitante_id": 315,
-      "clube_visitante_abrev": "CHA",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2015/08/03/Escudo-Chape-165.png",
-      "placar_oficial_mandante": 2,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 19,
       "clube_casa": "São Paulo",
@@ -213,19 +200,32 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/16/CSA_65.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 29,
+      "clube_casa": "CSA",
+      "clube_casa_id": 341,
+      "clube_visitante": "Corinthians",
+      "clube_casa_abrev": "CSA",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/16/CSA_65.png",
+      "clube_visitante_id": 264,
+      "clube_visitante_abrev": "COR",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/30/Corinthians_65.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2019/08/06/709f6c7dc04157eb549acea294843064_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/16/CSA_65.png",
   "scouts": {
-    "rodada_id": 28,
+    "rodada_id": 29,
     "rb": 12,
     "g": 1,
     "a": 1,
     "sg": 0,
     "fs": 12,
-    "ff": 7,
-    "fd": 2,
+    "ff": 8,
+    "fd": 3,
     "ft": 0,
     "dd": 0,
     "dp": 0,
@@ -234,14 +234,14 @@
     "ca": 1,
     "pp": 0,
     "gs": 0,
-    "fc": 28,
+    "fc": 29,
     "i": 1,
     "pe": 17,
-    "pontos_num": 0,
-    "preco_num": 2.74,
-    "variacao_num": 0,
-    "media_num": 1.81,
-    "jogos_num": 13,
+    "pontos_num": 1.5,
+    "preco_num": 2.84,
+    "variacao_num": 0.1,
+    "media_num": 1.79,
+    "jogos_num": 14,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }

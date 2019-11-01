@@ -6,7 +6,6 @@
   "clube_id": 341,
   "posicao": "Técnico",
   "rodadas": [
-    18,
     19,
     20,
     21,
@@ -16,10 +15,10 @@
     25,
     26,
     27,
-    28
+    28,
+    29
   ],
   "pontos": [
-    4.65,
     2.89,
     6.55,
     2.76,
@@ -29,10 +28,10 @@
     0.41,
     3.72,
     0.69,
-    2.69
+    2.69,
+    2.38
   ],
   "precos": [
-    6.2,
     6.02,
     6.83,
     6.38,
@@ -42,10 +41,10 @@
     6.24,
     6.91,
     6.45,
-    6.69
+    6.69,
+    6.74
   ],
   "variacoes": [
-    0.59,
     -0.18,
     0.81,
     -0.45,
@@ -55,10 +54,10 @@
     -0.74,
     0.67,
     -0.46,
-    0.24
+    0.24,
+    0.05
   ],
   "medias": [
-    2.77,
     2.78,
     3.12,
     3.09,
@@ -68,22 +67,10 @@
     3.08,
     3.12,
     2.99,
-    2.97
+    2.97,
+    2.94
   ],
   "partidas": [
-    {
-      "rodada_id": 18,
-      "clube_casa": "CSA",
-      "clube_casa_id": 341,
-      "clube_visitante": "Chapecoense",
-      "clube_casa_abrev": "CSA",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/16/CSA_65.png",
-      "clube_visitante_id": 315,
-      "clube_visitante_abrev": "CHA",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2015/08/03/Escudo-Chape-165.png",
-      "placar_oficial_mandante": 2,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 19,
       "clube_casa": "São Paulo",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/16/CSA_65.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 29,
+      "clube_casa": "CSA",
+      "clube_casa_id": 341,
+      "clube_visitante": "Corinthians",
+      "clube_casa_abrev": "CSA",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/16/CSA_65.png",
+      "clube_visitante_id": 264,
+      "clube_visitante_abrev": "COR",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/30/Corinthians_65.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2019/07/03/cdd47cd362cfe3cf486b63644ffb552d_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/16/CSA_65.png",
   "scouts": {
-    "rodada_id": 28,
+    "rodada_id": 29,
     "rb": 0,
     "g": 0,
     "a": 0,
@@ -237,11 +237,11 @@
     "fc": 0,
     "i": 0,
     "pe": 0,
-    "pontos_num": 2.69,
-    "preco_num": 6.69,
-    "variacao_num": 0.24,
-    "media_num": 2.97,
-    "jogos_num": 19,
+    "pontos_num": 2.38,
+    "preco_num": 6.74,
+    "variacao_num": 0.05,
+    "media_num": 2.94,
+    "jogos_num": 20,
     "posicao_abrev": "tec",
     "posicao": "Técnico"
   }

@@ -6,7 +6,6 @@
   "clube_id": 267,
   "posicao": "Atacante",
   "rodadas": [
-    18,
     19,
     20,
     21,
@@ -16,10 +15,10 @@
     25,
     26,
     27,
-    28
+    28,
+    29
   ],
   "pontos": [
-    1.2,
     0.2,
     7.9,
     0,
@@ -29,10 +28,10 @@
     2.8,
     8.6,
     0.6,
-    8.8
+    8.8,
+    0
   ],
   "precos": [
-    3.8,
     3.61,
     4.98,
     4.98,
@@ -42,10 +41,10 @@
     4.25,
     5.41,
     4.2,
+    5.58,
     5.58
   ],
   "variacoes": [
-    0.64,
     -0.19,
     1.37,
     0,
@@ -55,10 +54,10 @@
     0.08,
     1.16,
     -1.21,
-    1.38
+    1.38,
+    0
   ],
   "medias": [
-    0.82,
     0.77,
     1.28,
     1.28,
@@ -68,22 +67,10 @@
     1.31,
     1.69,
     1.64,
+    1.98,
     1.98
   ],
   "partidas": [
-    {
-      "rodada_id": 18,
-      "clube_casa": "Vasco",
-      "clube_casa_id": 267,
-      "clube_visitante": "Bahia",
-      "clube_casa_abrev": "VAS",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/07/29/Vasco-65.png",
-      "clube_visitante_id": 265,
-      "clube_visitante_abrev": "BAH",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/bahia_60x60.png",
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 2
-    },
     {
       "rodada_id": 19,
       "clube_casa": "Chapecoense",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/07/29/Vasco-65.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 29,
+      "clube_casa": "Vasco",
+      "clube_casa_id": 267,
+      "clube_visitante": "Grêmio",
+      "clube_casa_abrev": "VAS",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/07/29/Vasco-65.png",
+      "clube_visitante_id": 284,
+      "clube_visitante_abrev": "GRE",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/gremio_60x60.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 3
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2019/05/08/96abdb92d574fa62e402db3c5eb7fc0c_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2016/07/29/Vasco-65.png",
   "scouts": {
-    "rodada_id": 28,
+    "rodada_id": 29,
     "rb": 17,
     "g": 1,
     "a": 2,
@@ -237,9 +237,9 @@
     "fc": 25,
     "i": 3,
     "pe": 54,
-    "pontos_num": 8.8,
+    "pontos_num": 0,
     "preco_num": 5.58,
-    "variacao_num": 1.38,
+    "variacao_num": 0,
     "media_num": 1.98,
     "jogos_num": 21,
     "posicao_abrev": "ata",
