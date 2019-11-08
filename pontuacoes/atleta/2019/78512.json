@@ -6,8 +6,6 @@
   "clube_id": 314,
   "posicao": "Lateral",
   "rodadas": [
-    19,
-    20,
     21,
     22,
     23,
@@ -16,7 +14,9 @@
     26,
     27,
     28,
-    29
+    29,
+    30,
+    31
   ],
   "pontos": [
     0,
@@ -24,10 +24,10 @@
     0,
     0,
     0,
-    0,
-    0,
     2.7,
     3.5,
+    0,
+    0,
     0,
     0
   ],
@@ -37,9 +37,9 @@
     1.93,
     1.93,
     1.93,
-    1.93,
-    1.93,
     2.21,
+    2.43,
+    2.43,
     2.43,
     2.43,
     2.43
@@ -50,10 +50,10 @@
     0,
     0,
     0,
-    0,
-    0,
     0.28,
     0.22,
+    0,
+    0,
     0,
     0
   ],
@@ -63,40 +63,14 @@
     0.85,
     0.85,
     0.85,
-    0.85,
-    0.85,
     1.22,
+    1.6,
+    1.6,
     1.6,
     1.6,
     1.6
   ],
   "partidas": [
-    {
-      "rodada_id": 19,
-      "clube_casa": "Athlético-PR",
-      "clube_casa_id": 293,
-      "clube_visitante": "Avaí",
-      "clube_casa_abrev": "ATL",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/09/Athletico-PR-65x65.png",
-      "clube_visitante_id": 314,
-      "clube_visitante_abrev": "AVA",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/09/04/escudo-avai-65x65.png",
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 1
-    },
-    {
-      "rodada_id": 20,
-      "clube_casa": "Avaí",
-      "clube_casa_id": 314,
-      "clube_visitante": "Atlético-MG",
-      "clube_casa_abrev": "AVA",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/09/04/escudo-avai-65x65.png",
-      "clube_visitante_id": 282,
-      "clube_visitante_abrev": "ATL",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2017/11/23/Atletico-Mineiro-escudo65px.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 21,
       "clube_casa": "Grêmio",
@@ -213,12 +187,38 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/06/10/fortaleza-ec-65px.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 3
+    },
+    {
+      "rodada_id": 30,
+      "clube_casa": "Goiás",
+      "clube_casa_id": 290,
+      "clube_visitante": "Avaí",
+      "clube_casa_abrev": "GOI",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/05/01/Goias_65px.png",
+      "clube_visitante_id": 314,
+      "clube_visitante_abrev": "AVA",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/09/04/escudo-avai-65x65.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 31,
+      "clube_casa": "Avaí",
+      "clube_casa_id": 314,
+      "clube_visitante": "Santos",
+      "clube_casa_abrev": "AVA",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/09/04/escudo-avai-65x65.png",
+      "clube_visitante_id": 277,
+      "clube_visitante_abrev": "SAN",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/santos_60x60.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2019/05/07/d675dad7ddcb13ca96fcc4065ac3b404_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2018/09/04/escudo-avai-65x65.png",
   "scouts": {
-    "rodada_id": 29,
+    "rodada_id": 31,
     "rb": 6,
     "g": 0,
     "a": 0,

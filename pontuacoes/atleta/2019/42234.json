@@ -6,8 +6,6 @@
   "clube_id": 264,
   "posicao": "Goleiro",
   "rodadas": [
-    19,
-    20,
     21,
     22,
     23,
@@ -16,11 +14,11 @@
     26,
     27,
     28,
-    29
+    29,
+    30,
+    31
   ],
   "pontos": [
-    -2,
-    -2,
     0,
     12,
     3.2,
@@ -29,11 +27,11 @@
     -5.5,
     0,
     10.4,
-    -4
+    -4,
+    -1.8,
+    0
   ],
   "precos": [
-    7.81,
-    7.62,
     7.62,
     10.08,
     8.77,
@@ -42,11 +40,11 @@
     6.97,
     6.97,
     9.44,
-    7.18
+    7.18,
+    7.34,
+    7.34
   ],
   "variacoes": [
-    -0.71,
-    -0.19,
     0,
     2.46,
     -1.31,
@@ -55,11 +53,11 @@
     -0.65,
     0,
     2.47,
-    -2.26
+    -2.26,
+    0.16,
+    0
   ],
   "medias": [
-    4.23,
-    3.84,
     3.84,
     4.32,
     4.26,
@@ -68,35 +66,11 @@
     3.23,
     3.23,
     3.56,
-    3.23
+    3.23,
+    3.02,
+    3.02
   ],
   "partidas": [
-    {
-      "rodada_id": 19,
-      "clube_casa": "Fluminense",
-      "clube_casa_id": 266,
-      "clube_visitante": "Corinthians",
-      "clube_casa_abrev": "FLU",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/fluminense_60x60.png",
-      "clube_visitante_id": 264,
-      "clube_visitante_abrev": "COR",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/30/Corinthians_65.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 0
-    },
-    {
-      "rodada_id": 20,
-      "clube_casa": "Corinthians",
-      "clube_casa_id": 264,
-      "clube_visitante": "Bahia",
-      "clube_casa_abrev": "COR",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/30/Corinthians_65.png",
-      "clube_visitante_id": 265,
-      "clube_visitante_abrev": "BAH",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/bahia_60x60.png",
-      "placar_oficial_mandante": 2,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 21,
       "clube_casa": "Chapecoense",
@@ -213,12 +187,38 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/30/Corinthians_65.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 30,
+      "clube_casa": "Flamengo",
+      "clube_casa_id": 262,
+      "clube_visitante": "Corinthians",
+      "clube_casa_abrev": "FLA",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/04/09/Flamengo-65.png",
+      "clube_visitante_id": 264,
+      "clube_visitante_abrev": "COR",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/30/Corinthians_65.png",
+      "placar_oficial_mandante": 4,
+      "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 31,
+      "clube_casa": "Corinthians",
+      "clube_casa_id": 264,
+      "clube_visitante": "Fortaleza",
+      "clube_casa_abrev": "COR",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/30/Corinthians_65.png",
+      "clube_visitante_id": 356,
+      "clube_visitante_abrev": "FOR",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/06/10/fortaleza-ec-65px.png",
+      "placar_oficial_mandante": 3,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2019/05/18/a1c0088018f45c558e550b2e63d482e8_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/30/Corinthians_65.png",
   "scouts": {
-    "rodada_id": 29,
+    "rodada_id": 31,
     "rb": 0,
     "g": 0,
     "a": 0,
@@ -228,20 +228,20 @@
     "fd": 0,
     "ft": 0,
     "dd": 25,
-    "dp": 0,
+    "dp": 1,
     "gc": 0,
     "cv": 0,
     "ca": 6,
     "pp": 0,
-    "gs": 19,
-    "fc": 0,
+    "gs": 23,
+    "fc": 1,
     "i": 0,
-    "pe": 11,
-    "pontos_num": -4,
-    "preco_num": 7.18,
-    "variacao_num": -2.26,
-    "media_num": 3.23,
-    "jogos_num": 23,
+    "pe": 12,
+    "pontos_num": 0,
+    "preco_num": 7.34,
+    "variacao_num": 0,
+    "media_num": 3.02,
+    "jogos_num": 24,
     "posicao_abrev": "gol",
     "posicao": "Goleiro"
   }

@@ -6,8 +6,6 @@
   "clube_id": 277,
   "posicao": "Meia",
   "rodadas": [
-    19,
-    20,
     21,
     22,
     23,
@@ -16,11 +14,11 @@
     26,
     27,
     28,
-    29
+    29,
+    30,
+    31
   ],
   "pontos": [
-    0,
-    3.9,
     0,
     0.5,
     -0.6,
@@ -29,11 +27,11 @@
     -0.3,
     2.9,
     1.2,
-    0
+    0,
+    -0.5,
+    2.5
   ],
   "precos": [
-    3.51,
-    3.84,
     3.25,
     3.34,
     3.12,
@@ -42,11 +40,11 @@
     3.05,
     3.61,
     3.32,
-    3.32
+    3.32,
+    3.01,
+    3.54
   ],
   "variacoes": [
-    0,
-    0.33,
     -0.59,
     0.09,
     -0.22,
@@ -55,11 +53,11 @@
     0.17,
     0.56,
     -0.29,
-    0
+    0,
+    -0.31,
+    0.53
   ],
   "medias": [
-    1.48,
-    1.61,
     1.53,
     1.48,
     1.38,
@@ -68,35 +66,11 @@
     1.18,
     1.25,
     1.25,
-    1.25
+    1.25,
+    1.19,
+    1.24
   ],
   "partidas": [
-    {
-      "rodada_id": 19,
-      "clube_casa": "Flamengo",
-      "clube_casa_id": 262,
-      "clube_visitante": "Santos",
-      "clube_casa_abrev": "FLA",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/04/09/Flamengo-65.png",
-      "clube_visitante_id": 277,
-      "clube_visitante_abrev": "SAN",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/santos_60x60.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 0
-    },
-    {
-      "rodada_id": 20,
-      "clube_casa": "Santos",
-      "clube_casa_id": 277,
-      "clube_visitante": "Grêmio",
-      "clube_casa_abrev": "SAN",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/santos_60x60.png",
-      "clube_visitante_id": 284,
-      "clube_visitante_abrev": "GRE",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/gremio_60x60.png",
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 3
-    },
     {
       "rodada_id": 21,
       "clube_casa": "Fluminense",
@@ -213,18 +187,44 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/bahia_60x60.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 30,
+      "clube_casa": "Santos",
+      "clube_casa_id": 277,
+      "clube_visitante": "Botafogo",
+      "clube_casa_abrev": "SAN",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/santos_60x60.png",
+      "clube_visitante_id": 263,
+      "clube_visitante_abrev": "BOT",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/04/botafogo-65.png",
+      "placar_oficial_mandante": 4,
+      "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 31,
+      "clube_casa": "Avaí",
+      "clube_casa_id": 314,
+      "clube_visitante": "Santos",
+      "clube_casa_abrev": "AVA",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/09/04/escudo-avai-65x65.png",
+      "clube_visitante_id": 277,
+      "clube_visitante_abrev": "SAN",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/santos_60x60.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2019/03/28/c72bd8dd63cb920ddd6ebd16f7324c0e_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/santos_60x60.png",
   "scouts": {
-    "rodada_id": 29,
-    "rb": 28,
+    "rodada_id": 31,
+    "rb": 31,
     "g": 1,
     "a": 0,
     "sg": 0,
-    "fs": 25,
-    "ff": 12,
+    "fs": 27,
+    "ff": 14,
     "fd": 11,
     "ft": 2,
     "dd": 0,
@@ -234,14 +234,14 @@
     "ca": 7,
     "pp": 0,
     "gs": 0,
-    "fc": 52,
+    "fc": 58,
     "i": 0,
-    "pe": 64,
-    "pontos_num": 0,
-    "preco_num": 3.32,
-    "variacao_num": 0,
-    "media_num": 1.25,
-    "jogos_num": 26,
+    "pe": 71,
+    "pontos_num": 2.5,
+    "preco_num": 3.54,
+    "variacao_num": 0.53,
+    "media_num": 1.24,
+    "jogos_num": 28,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }

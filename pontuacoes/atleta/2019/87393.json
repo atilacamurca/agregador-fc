@@ -6,8 +6,6 @@
   "clube_id": 263,
   "posicao": "Zagueiro",
   "rodadas": [
-    19,
-    20,
     21,
     22,
     23,
@@ -16,11 +14,11 @@
     26,
     27,
     28,
-    29
+    29,
+    30,
+    31
   ],
   "pontos": [
-    5.9,
-    6.5,
     2.5,
     0.7,
     3.7,
@@ -29,11 +27,11 @@
     0,
     6,
     5.1,
-    2.3
+    2.3,
+    0.5,
+    -3.4
   ],
   "precos": [
-    9.25,
-    9.46,
     8.91,
     8.66,
     9.14,
@@ -42,11 +40,11 @@
     8.63,
     9.69,
     9.5,
-    9.16
+    9.16,
+    8.75,
+    8.11
   ],
   "variacoes": [
-    0.41,
-    0.21,
     -0.55,
     -0.25,
     0.48,
@@ -55,11 +53,11 @@
     0.11,
     1.06,
     -0.19,
-    -0.34
+    -0.34,
+    -0.41,
+    -0.64
   ],
   "medias": [
-    3.49,
-    3.66,
     3.6,
     3.46,
     3.47,
@@ -68,35 +66,11 @@
     3.41,
     3.51,
     3.57,
-    3.52
+    3.52,
+    3.41,
+    3.18
   ],
   "partidas": [
-    {
-      "rodada_id": 19,
-      "clube_casa": "Ceará",
-      "clube_casa_id": 354,
-      "clube_visitante": "Botafogo",
-      "clube_casa_abrev": "CEA",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/10/10/ceara-65x65.png",
-      "clube_visitante_id": 263,
-      "clube_visitante_abrev": "BOT",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/04/botafogo-65.png",
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 0
-    },
-    {
-      "rodada_id": 20,
-      "clube_casa": "Botafogo",
-      "clube_casa_id": 263,
-      "clube_visitante": "São Paulo",
-      "clube_casa_abrev": "BOT",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/04/botafogo-65.png",
-      "clube_visitante_id": 276,
-      "clube_visitante_abrev": "SAO",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/sao_paulo_60x60.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 2
-    },
     {
       "rodada_id": 21,
       "clube_casa": "Bahia",
@@ -213,17 +187,43 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2015/04/29/cruzeiro_65.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 30,
+      "clube_casa": "Santos",
+      "clube_casa_id": 277,
+      "clube_visitante": "Botafogo",
+      "clube_casa_abrev": "SAN",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/santos_60x60.png",
+      "clube_visitante_id": 263,
+      "clube_visitante_abrev": "BOT",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/04/botafogo-65.png",
+      "placar_oficial_mandante": 4,
+      "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 31,
+      "clube_casa": "Botafogo",
+      "clube_casa_id": 263,
+      "clube_visitante": "Flamengo",
+      "clube_casa_abrev": "BOT",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/04/botafogo-65.png",
+      "clube_visitante_id": 262,
+      "clube_visitante_abrev": "FLA",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/04/09/Flamengo-65.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2019/03/22/0dc3b607fbf0f1db6f328cdcfd7169d0_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/04/botafogo-65.png",
   "scouts": {
-    "rodada_id": 29,
+    "rodada_id": 31,
     "rb": 35,
     "g": 1,
     "a": 1,
     "sg": 7,
-    "fs": 25,
+    "fs": 26,
     "ff": 6,
     "fd": 2,
     "ft": 0,
@@ -231,17 +231,17 @@
     "dp": 0,
     "gc": 0,
     "cv": 0,
-    "ca": 3,
+    "ca": 4,
     "pp": 0,
     "gs": 0,
-    "fc": 14,
+    "fc": 15,
     "i": 1,
-    "pe": 38,
-    "pontos_num": 2.3,
-    "preco_num": 9.16,
-    "variacao_num": -0.34,
-    "media_num": 3.52,
-    "jogos_num": 27,
+    "pe": 41,
+    "pontos_num": -3.4,
+    "preco_num": 8.11,
+    "variacao_num": -0.64,
+    "media_num": 3.18,
+    "jogos_num": 29,
     "posicao_abrev": "zag",
     "posicao": "Zagueiro"
   }

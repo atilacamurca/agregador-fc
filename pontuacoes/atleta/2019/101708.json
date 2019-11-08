@@ -6,8 +6,6 @@
   "clube_id": 277,
   "posicao": "Lateral",
   "rodadas": [
-    19,
-    20,
     21,
     22,
     23,
@@ -16,11 +14,11 @@
     26,
     27,
     28,
-    29
+    29,
+    30,
+    31
   ],
   "pontos": [
-    0,
-    1.5,
     3,
     5,
     5.5,
@@ -29,11 +27,11 @@
     0,
     0,
     7.8,
-    4.7
+    4.7,
+    0,
+    1.2
   ],
   "precos": [
-    8.56,
-    8.71,
     9,
     9.46,
     9.63,
@@ -42,11 +40,11 @@
     9.63,
     9.63,
     9.86,
-    9.54
+    9.54,
+    9.54,
+    8.95
   ],
   "variacoes": [
-    -0.38,
-    0.15,
     0.29,
     0.46,
     0.17,
@@ -55,11 +53,11 @@
     0,
     0,
     0.23,
-    -0.32
+    -0.32,
+    0,
+    -0.59
   ],
   "medias": [
-    3.53,
-    3.38,
     3.35,
     3.45,
     3.57,
@@ -68,35 +66,11 @@
     3.57,
     3.57,
     3.81,
-    3.86
+    3.86,
+    3.86,
+    3.73
   ],
   "partidas": [
-    {
-      "rodada_id": 19,
-      "clube_casa": "Flamengo",
-      "clube_casa_id": 262,
-      "clube_visitante": "Santos",
-      "clube_casa_abrev": "FLA",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/04/09/Flamengo-65.png",
-      "clube_visitante_id": 277,
-      "clube_visitante_abrev": "SAN",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/santos_60x60.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 0
-    },
-    {
-      "rodada_id": 20,
-      "clube_casa": "Santos",
-      "clube_casa_id": 277,
-      "clube_visitante": "Grêmio",
-      "clube_casa_abrev": "SAN",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/santos_60x60.png",
-      "clube_visitante_id": 284,
-      "clube_visitante_abrev": "GRE",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/gremio_60x60.png",
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 3
-    },
     {
       "rodada_id": 21,
       "clube_casa": "Fluminense",
@@ -213,13 +187,39 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/bahia_60x60.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 30,
+      "clube_casa": "Santos",
+      "clube_casa_id": 277,
+      "clube_visitante": "Botafogo",
+      "clube_casa_abrev": "SAN",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/santos_60x60.png",
+      "clube_visitante_id": 263,
+      "clube_visitante_abrev": "BOT",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/04/botafogo-65.png",
+      "placar_oficial_mandante": 4,
+      "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 31,
+      "clube_casa": "Avaí",
+      "clube_casa_id": 314,
+      "clube_visitante": "Santos",
+      "clube_casa_abrev": "AVA",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/09/04/escudo-avai-65x65.png",
+      "clube_visitante_id": 277,
+      "clube_visitante_abrev": "SAN",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/santos_60x60.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2019/03/28/769db50792d92f77ba296968a2aa8fd7_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/santos_60x60.png",
   "scouts": {
-    "rodada_id": 29,
-    "rb": 9,
+    "rodada_id": 31,
+    "rb": 10,
     "g": 2,
     "a": 0,
     "sg": 8,
@@ -236,12 +236,12 @@
     "gs": 0,
     "fc": 11,
     "i": 1,
-    "pe": 29,
-    "pontos_num": 4.7,
-    "preco_num": 9.54,
-    "variacao_num": -0.32,
-    "media_num": 3.86,
-    "jogos_num": 19,
+    "pe": 30,
+    "pontos_num": 1.2,
+    "preco_num": 8.95,
+    "variacao_num": -0.59,
+    "media_num": 3.73,
+    "jogos_num": 20,
     "posicao_abrev": "lat",
     "posicao": "Lateral"
   }

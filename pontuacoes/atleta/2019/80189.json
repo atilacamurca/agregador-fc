@@ -6,8 +6,6 @@
   "clube_id": 265,
   "posicao": "Zagueiro",
   "rodadas": [
-    19,
-    20,
     21,
     22,
     23,
@@ -16,11 +14,11 @@
     26,
     27,
     28,
-    29
+    29,
+    30,
+    31
   ],
   "pontos": [
-    -0.3,
-    0,
     4.6,
     5.9,
     0,
@@ -29,11 +27,11 @@
     5,
     0.5,
     -0.5,
-    0.9
+    0.9,
+    -0.6,
+    -1.4
   ],
   "precos": [
-    6.28,
-    6.24,
     7.05,
     7.45,
     6.5,
@@ -42,11 +40,11 @@
     7.41,
     6.73,
     6.43,
-    6.68
+    6.68,
+    6.33,
+    6.2
   ],
   "variacoes": [
-    -1.59,
-    -0.04,
     0.81,
     0.4,
     -0.95,
@@ -55,11 +53,11 @@
     0.7,
     -0.68,
     -0.3,
-    0.25
+    0.25,
+    -0.35,
+    -0.13
   ],
   "medias": [
-    3.34,
-    3.17,
     3.24,
     3.36,
     3.21,
@@ -68,35 +66,11 @@
     3.28,
     3.18,
     3.05,
-    2.98
+    2.98,
+    2.86,
+    2.72
   ],
   "partidas": [
-    {
-      "rodada_id": 19,
-      "clube_casa": "Bahia",
-      "clube_casa_id": 265,
-      "clube_visitante": "Fortaleza",
-      "clube_casa_abrev": "BAH",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/bahia_60x60.png",
-      "clube_visitante_id": 356,
-      "clube_visitante_abrev": "FOR",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/06/10/fortaleza-ec-65px.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 1
-    },
-    {
-      "rodada_id": 20,
-      "clube_casa": "Corinthians",
-      "clube_casa_id": 264,
-      "clube_visitante": "Bahia",
-      "clube_casa_abrev": "COR",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/30/Corinthians_65.png",
-      "clube_visitante_id": 265,
-      "clube_visitante_abrev": "BAH",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/bahia_60x60.png",
-      "placar_oficial_mandante": 2,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 21,
       "clube_casa": "Bahia",
@@ -213,12 +187,38 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/bahia_60x60.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 30,
+      "clube_casa": "Cruzeiro",
+      "clube_casa_id": 283,
+      "clube_visitante": "Bahia",
+      "clube_casa_abrev": "CRU",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2015/04/29/cruzeiro_65.png",
+      "clube_visitante_id": 265,
+      "clube_visitante_abrev": "BAH",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/bahia_60x60.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 31,
+      "clube_casa": "Bahia",
+      "clube_casa_id": 265,
+      "clube_visitante": "Chapecoense",
+      "clube_casa_abrev": "BAH",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/bahia_60x60.png",
+      "clube_visitante_id": 315,
+      "clube_visitante_abrev": "CHA",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2015/08/03/Escudo-Chape-165.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2019/03/29/c40c54d7fdca6784ef754a182f9f81d0_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/bahia_60x60.png",
   "scouts": {
-    "rodada_id": 29,
+    "rodada_id": 31,
     "rb": 15,
     "g": 0,
     "a": 1,
@@ -234,14 +234,14 @@
     "ca": 2,
     "pp": 0,
     "gs": 0,
-    "fc": 7,
+    "fc": 8,
     "i": 0,
-    "pe": 45,
-    "pontos_num": 0.9,
-    "preco_num": 6.68,
-    "variacao_num": 0.25,
-    "media_num": 2.98,
-    "jogos_num": 29,
+    "pe": 50,
+    "pontos_num": -1.4,
+    "preco_num": 6.2,
+    "variacao_num": -0.13,
+    "media_num": 2.72,
+    "jogos_num": 31,
     "posicao_abrev": "zag",
     "posicao": "Zagueiro"
   }

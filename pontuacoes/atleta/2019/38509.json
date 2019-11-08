@@ -6,8 +6,6 @@
   "clube_id": 262,
   "posicao": "Goleiro",
   "rodadas": [
-    19,
-    20,
     21,
     22,
     23,
@@ -16,11 +14,11 @@
     26,
     27,
     28,
-    29
+    29,
+    30,
+    31
   ],
   "pontos": [
-    5,
-    0.6,
     -2.3,
     8,
     4.7,
@@ -29,11 +27,11 @@
     1,
     14,
     14,
-    0
+    0,
+    0.4,
+    8
   ],
   "precos": [
-    7.88,
-    7.15,
     6.6,
     8.42,
     8,
@@ -42,11 +40,11 @@
     7.73,
     10.09,
     10.27,
-    10.27
+    10.27,
+    8.17,
+    9.57
   ],
   "variacoes": [
-    -0.8,
-    -0.73,
     -0.55,
     1.82,
     -0.42,
@@ -55,11 +53,11 @@
     -2.38,
     2.36,
     0.18,
-    0
+    0,
+    -2.1,
+    1.4
   ],
   "medias": [
-    5.16,
-    4.88,
     4.46,
     4.66,
     4.66,
@@ -68,35 +66,11 @@
     4.78,
     5.18,
     5.55,
-    5.55
+    5.55,
+    5.34,
+    5.44
   ],
   "partidas": [
-    {
-      "rodada_id": 19,
-      "clube_casa": "Flamengo",
-      "clube_casa_id": 262,
-      "clube_visitante": "Santos",
-      "clube_casa_abrev": "FLA",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/04/09/Flamengo-65.png",
-      "clube_visitante_id": 277,
-      "clube_visitante_abrev": "SAN",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/santos_60x60.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 0
-    },
-    {
-      "rodada_id": 20,
-      "clube_casa": "Cruzeiro",
-      "clube_casa_id": 283,
-      "clube_visitante": "Flamengo",
-      "clube_casa_abrev": "CRU",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2015/04/29/cruzeiro_65.png",
-      "clube_visitante_id": 262,
-      "clube_visitante_abrev": "FLA",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/04/09/Flamengo-65.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 2
-    },
     {
       "rodada_id": 21,
       "clube_casa": "Flamengo",
@@ -213,35 +187,61 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/04/09/Flamengo-65.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 30,
+      "clube_casa": "Flamengo",
+      "clube_casa_id": 262,
+      "clube_visitante": "Corinthians",
+      "clube_casa_abrev": "FLA",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/04/09/Flamengo-65.png",
+      "clube_visitante_id": 264,
+      "clube_visitante_abrev": "COR",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/30/Corinthians_65.png",
+      "placar_oficial_mandante": 4,
+      "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 31,
+      "clube_casa": "Botafogo",
+      "clube_casa_id": 263,
+      "clube_visitante": "Flamengo",
+      "clube_casa_abrev": "BOT",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/04/botafogo-65.png",
+      "clube_visitante_id": 262,
+      "clube_visitante_abrev": "FLA",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/04/09/Flamengo-65.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2019/04/26/7bdeffe6895011f6895be4a6de311fbe_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2018/04/09/Flamengo-65.png",
   "scouts": {
-    "rodada_id": 29,
+    "rodada_id": 31,
     "rb": 2,
     "g": 0,
     "a": 0,
-    "sg": 11,
+    "sg": 12,
     "fs": 3,
     "ff": 0,
     "fd": 0,
     "ft": 0,
-    "dd": 33,
+    "dd": 35,
     "dp": 2,
     "gc": 0,
     "cv": 0,
     "ca": 0,
     "pp": 0,
-    "gs": 18,
+    "gs": 19,
     "fc": 0,
     "i": 0,
-    "pe": 12,
-    "pontos_num": 0,
-    "preco_num": 10.27,
-    "variacao_num": 0,
-    "media_num": 5.55,
-    "jogos_num": 24,
+    "pe": 14,
+    "pontos_num": 8,
+    "preco_num": 9.57,
+    "variacao_num": 1.4,
+    "media_num": 5.44,
+    "jogos_num": 26,
     "posicao_abrev": "gol",
     "posicao": "Goleiro"
   }

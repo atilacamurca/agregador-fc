@@ -11,7 +11,9 @@
     26,
     27,
     28,
-    29
+    29,
+    30,
+    31
   ],
   "pontos": [
     1.5,
@@ -19,7 +21,9 @@
     0.5,
     0,
     1,
-    0.7
+    0.7,
+    0,
+    0
   ],
   "precos": [
     1.48,
@@ -27,6 +31,8 @@
     2.59,
     2.59,
     2.63,
+    2.61,
+    2.61,
     2.61
   ],
   "variacoes": [
@@ -35,7 +41,9 @@
     -0.43,
     0,
     0.04,
-    -0.02
+    -0.02,
+    0,
+    0
   ],
   "medias": [
     1.5,
@@ -43,6 +51,8 @@
     2.3,
     2.3,
     1.98,
+    1.72,
+    1.72,
     1.72
   ],
   "partidas": [
@@ -123,12 +133,38 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/06/10/fortaleza-ec-65px.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 3
+    },
+    {
+      "rodada_id": 30,
+      "clube_casa": "Goiás",
+      "clube_casa_id": 290,
+      "clube_visitante": "Avaí",
+      "clube_casa_abrev": "GOI",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/05/01/Goias_65px.png",
+      "clube_visitante_id": 314,
+      "clube_visitante_abrev": "AVA",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/09/04/escudo-avai-65x65.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 31,
+      "clube_casa": "Avaí",
+      "clube_casa_id": 314,
+      "clube_visitante": "Santos",
+      "clube_casa_abrev": "AVA",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/09/04/escudo-avai-65x65.png",
+      "clube_visitante_id": 277,
+      "clube_visitante_abrev": "SAN",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/santos_60x60.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2019/10/18/8878aeee31c3f9682aeb8df609a0971d_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2018/09/04/escudo-avai-65x65.png",
   "scouts": {
-    "rodada_id": 29,
+    "rodada_id": 31,
     "rb": 5,
     "g": 0,
     "a": 0,
@@ -147,9 +183,9 @@
     "fc": 3,
     "i": 1,
     "pe": 3,
-    "pontos_num": 0.7,
+    "pontos_num": 0,
     "preco_num": 2.61,
-    "variacao_num": -0.02,
+    "variacao_num": 0,
     "media_num": 1.72,
     "jogos_num": 5,
     "posicao_abrev": "mei",
