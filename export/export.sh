@@ -81,6 +81,12 @@ acima_media() {
     node export/acima-media.js ${rodada_id}
 }
 
+radar_rodada() {
+    local rodada_id=${1:-$RODADA_ATUAL_ID}
+    echo "Exportando Radar da rodada ${rodada_id} ..."
+    node export/radar-rodada.js ${rodada_id}
+}
+
 atletas_pontuacao() {
     echo "Exportando pontuação dos atletas ..."
     node export/atletas-pontuacao.js
@@ -104,6 +110,7 @@ while ((i<=END)); do
         dados_rodada $i
         ah_ladrao $i
         acima_media $i
+        radar_rodada $i
     fi
 
     let i++
@@ -111,6 +118,7 @@ done
 
 dados_rodada
 ah_ladrao
+radar_rodada
 acima_media
 atletas_pontuacao
 clubes_atletas

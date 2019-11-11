@@ -54,6 +54,13 @@ module.exports = {
         path: 'pontuacoes/adversario/**/*.json',
         typeName: 'PontuacaoesAdversarioTemplate',
       }
+    },
+    {
+      use: '@gridsome/source-filesystem',
+      options: {
+        path: 'melhores/**/radar-rodada.json',
+        typeName: 'RadarRodadaTemplate',
+      }
     },/*,
     {
       use: '@gridsome/plugin-critical',
