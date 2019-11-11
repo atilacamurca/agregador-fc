@@ -65,6 +65,20 @@
                 <b-row>
                     <b-col md="4" class="d-flex align-items-stretch">
                         <b-card>
+                            <b-card-title>Radar da rodada</b-card-title>
+                            <b-card-text>
+                                Radar comparativo dos scouts acumulados por posição
+                            </b-card-text>
+                            <div slot="footer">
+                                <g-link :to="`/melhores${$page.rodada.path}/radar-rodada`"
+                                    class="card-link">
+                                    Conferir
+                                </g-link>
+                            </div>
+                        </b-card>
+                    </b-col>
+                    <b-col md="4" class="d-flex align-items-stretch">
+                        <b-card>
                             <b-card-title><em>Ah, ladrão!</em></b-card-title>
                             <b-card-text>
                                 25 melhores nas Roubadas de bola com poucas faltas

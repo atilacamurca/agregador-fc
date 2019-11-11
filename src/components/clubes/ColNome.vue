@@ -3,7 +3,7 @@
         class="d-flex align-items-center justify-content-center"
         v-bind="data.attrs">
         <div class="lead mr-sm-3 text-center">
-            <span v-if="posicao">{{ props.posicao }} &deg; &bull;</span>
+            <span v-if="props.posicao">{{ props.posicao }} &deg; &bull;</span>
             {{ props.nome }}
         </div>
     </b-col>
