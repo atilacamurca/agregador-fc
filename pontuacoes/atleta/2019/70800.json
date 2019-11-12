@@ -6,7 +6,6 @@
   "clube_id": 277,
   "posicao": "Técnico",
   "rodadas": [
-    21,
     22,
     23,
     24,
@@ -16,10 +15,10 @@
     28,
     29,
     30,
-    31
+    31,
+    32
   ],
   "pontos": [
-    1.45,
     6.18,
     4.4,
     6.16,
@@ -29,10 +28,10 @@
     5.56,
     5.96,
     6.05,
-    3.85
+    3.85,
+    9.16
   ],
   "precos": [
-    12.25,
     13.16,
     12.91,
     13.18,
@@ -42,10 +41,10 @@
     13.04,
     13.3,
     13.24,
-    13.07
+    13.07,
+    14.1
   ],
   "variacoes": [
-    -0.19,
     0.91,
     -0.25,
     0.27,
@@ -55,10 +54,10 @@
     0.61,
     0.26,
     -0.06,
-    -0.17
+    -0.17,
+    1.03
   ],
   "medias": [
-    4.49,
     4.57,
     4.56,
     4.63,
@@ -68,22 +67,10 @@
     4.46,
     4.51,
     4.56,
-    4.54
+    4.54,
+    4.68
   ],
   "partidas": [
-    {
-      "rodada_id": 21,
-      "clube_casa": "Fluminense",
-      "clube_casa_id": 266,
-      "clube_visitante": "Santos",
-      "clube_casa_abrev": "FLU",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/fluminense_60x60.png",
-      "clube_visitante_id": 277,
-      "clube_visitante_abrev": "SAN",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/santos_60x60.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 22,
       "clube_casa": "Santos",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/santos_60x60.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 32,
+      "clube_casa": "Goiás",
+      "clube_casa_id": 290,
+      "clube_visitante": "Santos",
+      "clube_casa_abrev": "GOI",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/05/01/Goias_65px.png",
+      "clube_visitante_id": 277,
+      "clube_visitante_abrev": "SAN",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/santos_60x60.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 3
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2019/04/02/cbfe46eed15abdc67d75bd4170d5e6a1_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/santos_60x60.png",
   "scouts": {
-    "rodada_id": 31,
+    "rodada_id": 32,
     "rb": 0,
     "g": 0,
     "a": 0,
@@ -237,11 +237,11 @@
     "fc": 0,
     "i": 0,
     "pe": 0,
-    "pontos_num": 3.85,
-    "preco_num": 13.07,
-    "variacao_num": -0.17,
-    "media_num": 4.54,
-    "jogos_num": 31,
+    "pontos_num": 9.16,
+    "preco_num": 14.1,
+    "variacao_num": 1.03,
+    "media_num": 4.68,
+    "jogos_num": 32,
     "posicao_abrev": "tec",
     "posicao": "Técnico"
   }

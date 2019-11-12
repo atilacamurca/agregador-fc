@@ -6,7 +6,6 @@
   "clube_id": 356,
   "posicao": "Meia",
   "rodadas": [
-    21,
     22,
     23,
     24,
@@ -16,10 +15,10 @@
     28,
     29,
     30,
-    31
+    31,
+    32
   ],
   "pontos": [
-    3.3,
     0.5,
     3.7,
     -0.4,
@@ -29,10 +28,10 @@
     2.2,
     0,
     7.4,
-    2
+    2,
+    -2.8
   ],
   "precos": [
-    7.35,
     6.94,
     7.48,
     6.75,
@@ -42,10 +41,10 @@
     6.94,
     6.94,
     7.82,
-    7.09
+    7.09,
+    6.29
   ],
   "variacoes": [
-    0.45,
     -0.41,
     0.54,
     -0.73,
@@ -55,10 +54,10 @@
     -0.07,
     0,
     0.88,
-    -0.73
+    -0.73,
+    -0.8
   ],
   "medias": [
-    3.8,
     3.62,
     3.62,
     3.42,
@@ -68,22 +67,10 @@
     2.93,
     2.93,
     3.11,
-    3.07
+    3.07,
+    2.85
   ],
   "partidas": [
-    {
-      "rodada_id": 21,
-      "clube_casa": "Athlético-PR",
-      "clube_casa_id": 293,
-      "clube_visitante": "Fortaleza",
-      "clube_casa_abrev": "ATL",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/09/Athletico-PR-65x65.png",
-      "clube_visitante_id": 356,
-      "clube_visitante_abrev": "FOR",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/06/10/fortaleza-ec-65px.png",
-      "placar_oficial_mandante": 4,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 22,
       "clube_casa": "Fortaleza",
@@ -213,17 +200,30 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/06/10/fortaleza-ec-65px.png",
       "placar_oficial_mandante": 3,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 32,
+      "clube_casa": "Fortaleza",
+      "clube_casa_id": 356,
+      "clube_visitante": "Ceará",
+      "clube_casa_abrev": "FOR",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/06/10/fortaleza-ec-65px.png",
+      "clube_visitante_id": 354,
+      "clube_visitante_abrev": "CEA",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/10/10/ceara-65x65.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2019/09/03/f3c44a346794fb67a9084ef89211cd1c_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2018/06/10/fortaleza-ec-65px.png",
   "scouts": {
-    "rodada_id": 31,
+    "rodada_id": 32,
     "rb": 38,
     "g": 2,
     "a": 4,
     "sg": 0,
-    "fs": 22,
+    "fs": 23,
     "ff": 20,
     "fd": 10,
     "ft": 0,
@@ -234,14 +234,14 @@
     "ca": 4,
     "pp": 0,
     "gs": 0,
-    "fc": 43,
+    "fc": 46,
     "i": 0,
-    "pe": 59,
-    "pontos_num": 2,
-    "preco_num": 7.09,
-    "variacao_num": -0.73,
-    "media_num": 3.07,
-    "jogos_num": 26,
+    "pe": 65,
+    "pontos_num": -2.8,
+    "preco_num": 6.29,
+    "variacao_num": -0.8,
+    "media_num": 2.85,
+    "jogos_num": 27,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }

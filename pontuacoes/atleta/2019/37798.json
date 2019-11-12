@@ -6,7 +6,6 @@
   "clube_id": 285,
   "posicao": "Atacante",
   "rodadas": [
-    21,
     22,
     23,
     24,
@@ -16,11 +15,12 @@
     28,
     29,
     30,
-    31
+    31,
+    32
   ],
   "pontos": [
-    0,
     1.4,
+    0,
     0,
     0,
     0,
@@ -32,7 +32,6 @@
     0
   ],
   "precos": [
-    8.67,
     7.76,
     7.76,
     7.76,
@@ -42,10 +41,10 @@
     7.76,
     7.76,
     7.76,
+    7.14,
     7.14
   ],
   "variacoes": [
-    0,
     -0.91,
     0,
     0,
@@ -55,10 +54,10 @@
     0,
     0,
     0,
-    -0.62
+    -0.62,
+    0
   ],
   "medias": [
-    4.68,
     4.45,
     4.45,
     4.45,
@@ -68,22 +67,10 @@
     4.45,
     4.45,
     4.45,
-    4.15
+    4.15,
+    3.89
   ],
   "partidas": [
-    {
-      "rodada_id": 21,
-      "clube_casa": "Flamengo",
-      "clube_casa_id": 262,
-      "clube_visitante": "Internacional",
-      "clube_casa_abrev": "FLA",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/04/09/Flamengo-65.png",
-      "clube_visitante_id": 285,
-      "clube_visitante_abrev": "INT",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/03/inter65.png",
-      "placar_oficial_mandante": 3,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 22,
       "clube_casa": "Internacional",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/03/inter65.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 32,
+      "clube_casa": "Internacional",
+      "clube_casa_id": 285,
+      "clube_visitante": "Fluminense",
+      "clube_casa_abrev": "INT",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/03/inter65.png",
+      "clube_visitante_id": 266,
+      "clube_visitante_abrev": "FLU",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/fluminense_60x60.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2019/03/29/391192f2c104011047dcb18e6855dd72_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/03/inter65.png",
   "scouts": {
-    "rodada_id": 31,
+    "rodada_id": 32,
     "rb": 10,
     "g": 2,
     "a": 3,
@@ -239,9 +239,9 @@
     "pe": 20,
     "pontos_num": 0,
     "preco_num": 7.14,
-    "variacao_num": -0.62,
-    "media_num": 4.15,
-    "jogos_num": 15,
+    "variacao_num": 0,
+    "media_num": 3.89,
+    "jogos_num": 16,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }

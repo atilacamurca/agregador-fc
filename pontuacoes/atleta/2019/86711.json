@@ -6,7 +6,6 @@
   "clube_id": 267,
   "posicao": "Meia",
   "rodadas": [
-    21,
     22,
     23,
     24,
@@ -16,10 +15,10 @@
     28,
     29,
     30,
-    31
+    31,
+    32
   ],
   "pontos": [
-    0,
     0,
     3.5,
     7.1,
@@ -29,10 +28,10 @@
     6.7,
     0.2,
     -4.7,
-    0
+    0,
+    4.6
   ],
   "precos": [
-    3.67,
     3.67,
     4.53,
     5.23,
@@ -42,10 +41,10 @@
     5.29,
     4.33,
     3.4,
-    3.4
+    3.4,
+    4.92
   ],
   "variacoes": [
-    0,
     0,
     0.86,
     0.7,
@@ -55,10 +54,10 @@
     1.15,
     -0.96,
     -0.93,
-    0
+    0,
+    1.52
   ],
   "medias": [
-    1.56,
     1.56,
     1.7,
     2.06,
@@ -68,22 +67,10 @@
     2.14,
     2.04,
     1.72,
-    1.72
+    1.72,
+    1.85
   ],
   "partidas": [
-    {
-      "rodada_id": 21,
-      "clube_casa": "Atlético-MG",
-      "clube_casa_id": 282,
-      "clube_visitante": "Vasco",
-      "clube_casa_abrev": "ATL",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2017/11/23/Atletico-Mineiro-escudo65px.png",
-      "clube_visitante_id": 267,
-      "clube_visitante_abrev": "VAS",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/07/29/Vasco-65.png",
-      "placar_oficial_mandante": null,
-      "placar_oficial_visitante": null
-    },
     {
       "rodada_id": 22,
       "clube_casa": "Corinthians",
@@ -213,19 +200,32 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 32,
+      "clube_casa": "CSA",
+      "clube_casa_id": 341,
+      "clube_visitante": "Vasco",
+      "clube_casa_abrev": "CSA",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/16/CSA_65.png",
+      "clube_visitante_id": 267,
+      "clube_visitante_abrev": "VAS",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/07/29/Vasco-65.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 3
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2019/06/21/d18aac5064ae47e2d3442017e04c4736_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2016/07/29/Vasco-65.png",
   "scouts": {
-    "rodada_id": 31,
-    "rb": 33,
+    "rodada_id": 32,
+    "rb": 35,
     "g": 0,
     "a": 1,
     "sg": 0,
-    "fs": 23,
+    "fs": 26,
     "ff": 5,
-    "fd": 3,
+    "fd": 4,
     "ft": 0,
     "dd": 0,
     "dp": 0,
@@ -234,14 +234,14 @@
     "ca": 6,
     "pp": 0,
     "gs": 0,
-    "fc": 32,
+    "fc": 33,
     "i": 0,
-    "pe": 31,
-    "pontos_num": 0,
-    "preco_num": 3.4,
-    "variacao_num": 0,
-    "media_num": 1.72,
-    "jogos_num": 21,
+    "pe": 33,
+    "pontos_num": 4.6,
+    "preco_num": 4.92,
+    "variacao_num": 1.52,
+    "media_num": 1.85,
+    "jogos_num": 22,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }

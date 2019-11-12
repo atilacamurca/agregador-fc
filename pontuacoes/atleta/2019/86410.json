@@ -6,7 +6,6 @@
   "clube_id": 275,
   "posicao": "Lateral",
   "rodadas": [
-    21,
     22,
     23,
     24,
@@ -16,10 +15,10 @@
     28,
     29,
     30,
-    31
+    31,
+    32
   ],
   "pontos": [
-    0,
     0,
     0,
     0,
@@ -29,23 +28,23 @@
     0,
     0,
     0,
-    1.8
+    1.8,
+    0
   ],
   "precos": [
     5.22,
     5.22,
     5.22,
     5.22,
-    5.22,
     4.17,
     4.17,
     4.17,
     4.17,
     4.17,
+    4.47,
     4.47
   ],
   "variacoes": [
-    0,
     0,
     0,
     0,
@@ -55,10 +54,10 @@
     0,
     0,
     0,
-    0.3
+    0.3,
+    0
   ],
   "medias": [
-    0.2,
     0.2,
     0.2,
     0.2,
@@ -68,22 +67,10 @@
     -3.3,
     -3.3,
     -3.3,
+    -1.6,
     -1.6
   ],
   "partidas": [
-    {
-      "rodada_id": 21,
-      "clube_casa": "Palmeiras",
-      "clube_casa_id": 275,
-      "clube_visitante": "CSA",
-      "clube_casa_abrev": "PAL",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
-      "clube_visitante_id": 341,
-      "clube_visitante_abrev": "CSA",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/16/CSA_65.png",
-      "placar_oficial_mandante": 6,
-      "placar_oficial_visitante": 2
-    },
     {
       "rodada_id": 22,
       "clube_casa": "Internacional",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 32,
+      "clube_casa": "Palmeiras",
+      "clube_casa_id": 275,
+      "clube_visitante": "Corinthians",
+      "clube_casa_abrev": "PAL",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
+      "clube_visitante_id": 264,
+      "clube_visitante_abrev": "COR",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/30/Corinthians_65.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2019/01/14/6656cffa0a00120d740886ec3a73c1df_140x140.jpeg",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
   "scouts": {
-    "rodada_id": 31,
+    "rodada_id": 32,
     "rb": 3,
     "g": 0,
     "a": 0,
@@ -237,9 +237,9 @@
     "fc": 7,
     "i": 0,
     "pe": 3,
-    "pontos_num": 1.8,
+    "pontos_num": 0,
     "preco_num": 4.47,
-    "variacao_num": 0.3,
+    "variacao_num": 0,
     "media_num": -1.6,
     "jogos_num": 3,
     "posicao_abrev": "lat",

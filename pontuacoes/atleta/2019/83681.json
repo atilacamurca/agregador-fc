@@ -6,7 +6,6 @@
   "clube_id": 341,
   "posicao": "Lateral",
   "rodadas": [
-    21,
     22,
     23,
     24,
@@ -16,10 +15,10 @@
     28,
     29,
     30,
-    31
+    31,
+    32
   ],
   "pontos": [
-    0,
     -0.3,
     0,
     0,
@@ -29,10 +28,10 @@
     0,
     0,
     0,
-    7.5
+    7.5,
+    0
   ],
   "precos": [
-    3.92,
     3.19,
     3.19,
     3.19,
@@ -42,10 +41,10 @@
     3.19,
     3.19,
     3.19,
+    4.35,
     4.35
   ],
   "variacoes": [
-    0,
     -0.73,
     0,
     0,
@@ -55,10 +54,10 @@
     0,
     0,
     0,
-    1.16
+    1.16,
+    0
   ],
   "medias": [
-    2.95,
     1.87,
     1.87,
     1.87,
@@ -68,22 +67,10 @@
     1.87,
     1.87,
     1.87,
+    3.28,
     3.28
   ],
   "partidas": [
-    {
-      "rodada_id": 21,
-      "clube_casa": "Palmeiras",
-      "clube_casa_id": 275,
-      "clube_visitante": "CSA",
-      "clube_casa_abrev": "PAL",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
-      "clube_visitante_id": 341,
-      "clube_visitante_abrev": "CSA",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/16/CSA_65.png",
-      "placar_oficial_mandante": 6,
-      "placar_oficial_visitante": 2
-    },
     {
       "rodada_id": 22,
       "clube_casa": "Santos",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/16/CSA_65.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 32,
+      "clube_casa": "CSA",
+      "clube_casa_id": 341,
+      "clube_visitante": "Vasco",
+      "clube_casa_abrev": "CSA",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/16/CSA_65.png",
+      "clube_visitante_id": 267,
+      "clube_visitante_abrev": "VAS",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/07/29/Vasco-65.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 3
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2019/03/23/6fa441d642d426cca217c6d7c843a2c0_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/16/CSA_65.png",
   "scouts": {
-    "rodada_id": 31,
+    "rodada_id": 32,
     "rb": 4,
     "g": 1,
     "a": 0,
@@ -237,9 +237,9 @@
     "fc": 3,
     "i": 0,
     "pe": 3,
-    "pontos_num": 7.5,
+    "pontos_num": 0,
     "preco_num": 4.35,
-    "variacao_num": 1.16,
+    "variacao_num": 0,
     "media_num": 3.28,
     "jogos_num": 4,
     "posicao_abrev": "lat",
