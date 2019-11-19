@@ -5,6 +5,7 @@
 // Changes here require a server restart.
 // To restart press CTRL + C in terminal and run `gridsome develop`
 const _pick = require('lodash.pick')
+const _find = require('lodash.find')
 const CURRENT_YEAR = new Date().getFullYear()
 const RODADA_ATUAL_ID = process.env.RODADA_ATUAL_ID
 
@@ -18,7 +19,9 @@ module.exports = function (api) {
     })
 
     const { rodada, inicio_rodada, partidas } = rodadaAtual
-    const partida_inicial = partidas[0]
+    const partida_inicial = _find(partidas, (item) => {
+        return item.valida
+    })
     contentType.addNode({
       id: "latest",
       path: `/rodada/${CURRENT_YEAR}/${RODADA_ATUAL_ID}`,
