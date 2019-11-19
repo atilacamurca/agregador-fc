@@ -6,7 +6,6 @@
   "clube_id": 293,
   "posicao": "Meia",
   "rodadas": [
-    22,
     23,
     24,
     25,
@@ -16,10 +15,10 @@
     29,
     30,
     31,
-    32
+    32,
+    33
   ],
   "pontos": [
-    0,
     10.3,
     2.8,
     5.4,
@@ -29,10 +28,10 @@
     0,
     2.6,
     0,
-    0
+    0,
+    6.5
   ],
   "precos": [
-    4.37,
     6.07,
     4.96,
     5.42,
@@ -42,10 +41,10 @@
     4.65,
     4.95,
     4.95,
-    4.95
+    4.95,
+    5.67
   ],
   "variacoes": [
-    0,
     1.7,
     -1.11,
     0.46,
@@ -55,10 +54,10 @@
     0,
     0.3,
     0,
-    0
+    0,
+    0.72
   ],
   "medias": [
-    3.3,
     3.8,
     3.73,
     3.83,
@@ -68,22 +67,10 @@
     3.45,
     3.41,
     3.41,
-    3.41
+    3.41,
+    3.56
   ],
   "partidas": [
-    {
-      "rodada_id": 22,
-      "clube_casa": "Athlético-PR",
-      "clube_casa_id": 293,
-      "clube_visitante": "Chapecoense",
-      "clube_casa_abrev": "ATL",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/09/Athletico-PR-65x65.png",
-      "clube_visitante_id": 315,
-      "clube_visitante_abrev": "CHA",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2015/08/03/Escudo-Chape-165.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 23,
       "clube_casa": "Bahia",
@@ -213,35 +200,48 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/09/Athletico-PR-65x65.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 33,
+      "clube_casa": "Athlético-PR",
+      "clube_casa_id": 293,
+      "clube_visitante": "Botafogo",
+      "clube_casa_abrev": "ATL",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/09/Athletico-PR-65x65.png",
+      "clube_visitante_id": 263,
+      "clube_visitante_abrev": "BOT",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/04/botafogo-65.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2019/05/18/9c926f399fb16f3629089771a4b5a9b6_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/09/Athletico-PR-65x65.png",
   "scouts": {
-    "rodada_id": 32,
-    "rb": 12,
-    "g": 2,
+    "rodada_id": 33,
+    "rb": 13,
+    "g": 3,
     "a": 4,
     "sg": 0,
-    "fs": 17,
+    "fs": 19,
     "ff": 7,
-    "fd": 12,
+    "fd": 13,
     "ft": 3,
     "dd": 0,
     "dp": 0,
     "gc": 0,
     "cv": 0,
-    "ca": 3,
+    "ca": 4,
     "pp": 0,
     "gs": 0,
-    "fc": 22,
+    "fc": 26,
     "i": 3,
-    "pe": 28,
-    "pontos_num": 0,
-    "preco_num": 4.95,
-    "variacao_num": 0,
-    "media_num": 3.41,
-    "jogos_num": 19,
+    "pe": 32,
+    "pontos_num": 6.5,
+    "preco_num": 5.67,
+    "variacao_num": 0.72,
+    "media_num": 3.56,
+    "jogos_num": 20,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }

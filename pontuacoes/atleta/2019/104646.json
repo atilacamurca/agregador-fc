@@ -6,7 +6,6 @@
   "clube_id": 341,
   "posicao": "Lateral",
   "rodadas": [
-    22,
     23,
     24,
     25,
@@ -16,10 +15,10 @@
     29,
     30,
     31,
-    32
+    32,
+    33
   ],
   "pontos": [
-    0,
     0.5,
     0,
     0,
@@ -29,10 +28,10 @@
     0.1,
     -1.6,
     3.2,
-    1.7
+    1.7,
+    -1.5
   ],
   "precos": [
-    2,
     1.68,
     1.68,
     1.68,
@@ -42,10 +41,10 @@
     1.66,
     1.28,
     2.14,
-    1.99
+    1.99,
+    1.41
   ],
   "variacoes": [
-    0,
     -0.32,
     0,
     0,
@@ -55,10 +54,10 @@
     -0.35,
     -0.38,
     0.86,
-    -0.15
+    -0.15,
+    -0.58
   ],
   "medias": [
-    0,
     0.5,
     0.5,
     0.5,
@@ -68,22 +67,10 @@
     0.78,
     0.38,
     0.78,
-    0.9
+    0.9,
+    0.63
   ],
   "partidas": [
-    {
-      "rodada_id": 22,
-      "clube_casa": "Santos",
-      "clube_casa_id": 277,
-      "clube_visitante": "CSA",
-      "clube_casa_abrev": "SAN",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/santos_60x60.png",
-      "clube_visitante_id": 341,
-      "clube_visitante_abrev": "CSA",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/16/CSA_65.png",
-      "placar_oficial_mandante": 2,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 23,
       "clube_casa": "CSA",
@@ -213,35 +200,48 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/07/29/Vasco-65.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 3
+    },
+    {
+      "rodada_id": 33,
+      "clube_casa": "Fortaleza",
+      "clube_casa_id": 356,
+      "clube_visitante": "CSA",
+      "clube_casa_abrev": "FOR",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/06/10/fortaleza-ec-65px.png",
+      "clube_visitante_id": 341,
+      "clube_visitante_abrev": "CSA",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/16/CSA_65.png",
+      "placar_oficial_mandante": 3,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2019/09/06/814406b15c0df677f37a5ebd9ed7f3d4_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/16/CSA_65.png",
   "scouts": {
-    "rodada_id": 32,
+    "rodada_id": 33,
     "rb": 2,
     "g": 0,
     "a": 0,
     "sg": 0,
-    "fs": 20,
-    "ff": 1,
+    "fs": 22,
+    "ff": 2,
     "fd": 1,
     "ft": 0,
     "dd": 0,
     "dp": 0,
     "gc": 0,
     "cv": 0,
-    "ca": 1,
+    "ca": 2,
     "pp": 0,
     "gs": 0,
-    "fc": 5,
+    "fc": 7,
     "i": 0,
-    "pe": 11,
-    "pontos_num": 1.7,
-    "preco_num": 1.99,
-    "variacao_num": -0.15,
-    "media_num": 0.9,
-    "jogos_num": 8,
+    "pe": 12,
+    "pontos_num": -1.5,
+    "preco_num": 1.41,
+    "variacao_num": -0.58,
+    "media_num": 0.63,
+    "jogos_num": 9,
     "posicao_abrev": "lat",
     "posicao": "Lateral"
   }

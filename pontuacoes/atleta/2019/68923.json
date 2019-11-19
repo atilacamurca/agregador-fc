@@ -6,7 +6,6 @@
   "clube_id": 264,
   "posicao": "Zagueiro",
   "rodadas": [
-    22,
     23,
     24,
     25,
@@ -16,10 +15,10 @@
     29,
     30,
     31,
-    32
+    32,
+    33
   ],
   "pontos": [
-    9.5,
     10.8,
     18.7,
     -0.8,
@@ -29,10 +28,10 @@
     0.3,
     4.7,
     -1.6,
-    3
+    3,
+    4.7
   ],
   "precos": [
-    11.33,
     11.91,
     13.75,
     10.58,
@@ -42,10 +41,10 @@
     10.57,
     11.18,
     10.21,
-    10.97
+    10.97,
+    11.2
   ],
   "variacoes": [
-    1.33,
     0.58,
     1.84,
     -3.17,
@@ -55,10 +54,10 @@
     -0.28,
     0.61,
     -0.97,
-    0.76
+    0.76,
+    0.23
   ],
   "medias": [
-    3.8,
     4.34,
     5.37,
     4.96,
@@ -68,22 +67,10 @@
     4.3,
     4.32,
     4.02,
-    3.97
+    3.97,
+    4
   ],
   "partidas": [
-    {
-      "rodada_id": 22,
-      "clube_casa": "Corinthians",
-      "clube_casa_id": 264,
-      "clube_visitante": "Vasco",
-      "clube_casa_abrev": "COR",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/30/Corinthians_65.png",
-      "clube_visitante_id": 267,
-      "clube_visitante_abrev": "VAS",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/07/29/Vasco-65.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 23,
       "clube_casa": "Grêmio",
@@ -213,16 +200,29 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/30/Corinthians_65.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 33,
+      "clube_casa": "Corinthians",
+      "clube_casa_id": 264,
+      "clube_visitante": "Internacional",
+      "clube_casa_abrev": "COR",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/30/Corinthians_65.png",
+      "clube_visitante_id": 285,
+      "clube_visitante_abrev": "INT",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/03/inter65.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2019/07/12/d236ac59751ccacea17719995b9cd8ba_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/30/Corinthians_65.png",
   "scouts": {
-    "rodada_id": 32,
+    "rodada_id": 33,
     "rb": 27,
     "g": 1,
     "a": 1,
-    "sg": 7,
+    "sg": 8,
     "fs": 3,
     "ff": 7,
     "fd": 2,
@@ -236,12 +236,12 @@
     "gs": 0,
     "fc": 9,
     "i": 4,
-    "pe": 10,
-    "pontos_num": 3,
-    "preco_num": 10.97,
-    "variacao_num": 0.76,
-    "media_num": 3.97,
-    "jogos_num": 21,
+    "pe": 11,
+    "pontos_num": 4.7,
+    "preco_num": 11.2,
+    "variacao_num": 0.23,
+    "media_num": 4,
+    "jogos_num": 22,
     "posicao_abrev": "zag",
     "posicao": "Zagueiro"
   }

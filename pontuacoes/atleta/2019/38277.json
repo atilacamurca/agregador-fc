@@ -6,7 +6,6 @@
   "clube_id": 283,
   "posicao": "Meia",
   "rodadas": [
-    22,
     23,
     24,
     25,
@@ -16,10 +15,10 @@
     29,
     30,
     31,
-    32
+    32,
+    33
   ],
   "pontos": [
-    0.7,
     2.9,
     0,
     7.3,
@@ -29,10 +28,10 @@
     1.6,
     7.3,
     0,
-    1.5
+    1.5,
+    0.1
   ],
   "precos": [
-    8.18,
     8.52,
     8.52,
     9.14,
@@ -42,10 +41,10 @@
     8.76,
     9.65,
     9.65,
-    8.88
+    8.88,
+    8.55
   ],
   "variacoes": [
-    -1.14,
     0.34,
     0,
     0.62,
@@ -55,10 +54,10 @@
     -0.64,
     0.89,
     0,
-    -0.77
+    -0.77,
+    -0.33
   ],
   "medias": [
-    4.3,
     4.22,
     4.22,
     4.38,
@@ -68,22 +67,10 @@
     4.55,
     4.66,
     4.66,
-    4.53
+    4.53,
+    4.36
   ],
   "partidas": [
-    {
-      "rodada_id": 22,
-      "clube_casa": "Goiás",
-      "clube_casa_id": 290,
-      "clube_visitante": "Cruzeiro",
-      "clube_casa_abrev": "GOI",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/05/01/Goias_65px.png",
-      "clube_visitante_id": 283,
-      "clube_visitante_abrev": "CRU",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2015/04/29/cruzeiro_65.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 23,
       "clube_casa": "Cruzeiro",
@@ -213,35 +200,48 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2017/11/23/Atletico-Mineiro-escudo65px.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 33,
+      "clube_casa": "Cruzeiro",
+      "clube_casa_id": 283,
+      "clube_visitante": "Avaí",
+      "clube_casa_abrev": "CRU",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2015/04/29/cruzeiro_65.png",
+      "clube_visitante_id": 314,
+      "clube_visitante_abrev": "AVA",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/09/04/escudo-avai-65x65.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2018/05/07/d1d468f88a9bce01adaf6cdad34d20ae_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2015/04/29/cruzeiro_65.png",
   "scouts": {
-    "rodada_id": 32,
-    "rb": 14,
+    "rodada_id": 33,
+    "rb": 15,
     "g": 6,
     "a": 4,
     "sg": 0,
-    "fs": 28,
-    "ff": 33,
+    "fs": 29,
+    "ff": 35,
     "fd": 20,
     "ft": 1,
     "dd": 0,
     "dp": 0,
     "gc": 0,
     "cv": 0,
-    "ca": 7,
+    "ca": 8,
     "pp": 0,
     "gs": 0,
     "fc": 22,
     "i": 2,
-    "pe": 56,
-    "pontos_num": 1.5,
-    "preco_num": 8.88,
-    "variacao_num": -0.77,
-    "media_num": 4.53,
-    "jogos_num": 25,
+    "pe": 61,
+    "pontos_num": 0.1,
+    "preco_num": 8.55,
+    "variacao_num": -0.33,
+    "media_num": 4.36,
+    "jogos_num": 26,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }
