@@ -16,7 +16,8 @@
     34,
     35,
     36,
-    37
+    37,
+    38
   ],
   "pontos": [
     2,
@@ -29,7 +30,8 @@
     0,
     0,
     0,
-    0
+    0,
+    -3.3
   ],
   "precos": [
     1.21,
@@ -42,7 +44,8 @@
     1.21,
     1.21,
     1.21,
-    1.21
+    1.21,
+    0.78
   ],
   "variacoes": [
     0.21,
@@ -55,7 +58,8 @@
     0,
     0,
     0,
-    0
+    0,
+    -0.43
   ],
   "medias": [
     2,
@@ -68,7 +72,8 @@
     2,
     2,
     2,
-    2
+    2,
+    -0.65
   ],
   "partidas": [
     {
@@ -213,12 +218,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2015/04/29/cruzeiro_65.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 38,
+      "clube_casa": "Goiás",
+      "clube_casa_id": 290,
+      "clube_visitante": "Grêmio",
+      "clube_casa_abrev": "GOI",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/05/01/Goias_65px.png",
+      "clube_visitante_id": 284,
+      "clube_visitante_abrev": "GRE",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/gremio_60x60.png",
+      "placar_oficial_mandante": 3,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://via.placeholder.com/140",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/gremio_60x60.png",
   "scouts": {
-    "rodada_id": 37,
+    "rodada_id": 38,
     "rb": 0,
     "g": 0,
     "a": 0,
@@ -227,21 +245,21 @@
     "ff": 0,
     "fd": 0,
     "ft": 0,
-    "dd": 2,
+    "dd": 3,
     "dp": 0,
     "gc": 0,
     "cv": 0,
     "ca": 0,
     "pp": 0,
-    "gs": 2,
+    "gs": 5,
     "fc": 0,
     "i": 0,
-    "pe": 0,
-    "pontos_num": 0,
-    "preco_num": 1.21,
-    "variacao_num": 0,
-    "media_num": 2,
-    "jogos_num": 1,
+    "pe": 1,
+    "pontos_num": -3.3,
+    "preco_num": 0.78,
+    "variacao_num": -0.43,
+    "media_num": -0.65,
+    "jogos_num": 2,
     "posicao_abrev": "gol",
     "posicao": "Goleiro"
   }

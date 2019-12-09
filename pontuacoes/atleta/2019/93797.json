@@ -16,7 +16,8 @@
     34,
     35,
     36,
-    37
+    37,
+    38
   ],
   "pontos": [
     2.7,
@@ -29,7 +30,8 @@
     0,
     0,
     0.9,
-    0.7
+    0.7,
+    -1
   ],
   "precos": [
     7.07,
@@ -42,7 +44,8 @@
     7.3,
     7.3,
     6.7,
-    6.52
+    6.52,
+    6.2
   ],
   "variacoes": [
     -0.3,
@@ -55,7 +58,8 @@
     0,
     0,
     -0.6,
-    -0.18
+    -0.18,
+    -0.32
   ],
   "medias": [
     3.52,
@@ -68,7 +72,8 @@
     3.32,
     3.32,
     3.21,
-    3.11
+    3.11,
+    2.95
   ],
   "partidas": [
     {
@@ -213,18 +218,31 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/04/botafogo-65.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 38,
+      "clube_casa": "Botafogo",
+      "clube_casa_id": 263,
+      "clube_visitante": "Ceará",
+      "clube_casa_abrev": "BOT",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/04/botafogo-65.png",
+      "clube_visitante_id": 354,
+      "clube_visitante_abrev": "CEA",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/10/10/ceara-65x65.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2019/03/22/73ff5646586a9145ea6768297b10ac7d_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/04/botafogo-65.png",
   "scouts": {
-    "rodada_id": 37,
+    "rodada_id": 38,
     "rb": 19,
     "g": 1,
     "a": 4,
     "sg": 5,
-    "fs": 19,
-    "ff": 14,
+    "fs": 20,
+    "ff": 15,
     "fd": 7,
     "ft": 1,
     "dd": 0,
@@ -234,14 +252,14 @@
     "ca": 2,
     "pp": 0,
     "gs": 0,
-    "fc": 31,
+    "fc": 32,
     "i": 1,
-    "pe": 63,
-    "pontos_num": 0.7,
-    "preco_num": 6.52,
-    "variacao_num": -0.18,
-    "media_num": 3.11,
-    "jogos_num": 24,
+    "pe": 69,
+    "pontos_num": -1,
+    "preco_num": 6.2,
+    "variacao_num": -0.32,
+    "media_num": 2.95,
+    "jogos_num": 25,
     "posicao_abrev": "lat",
     "posicao": "Lateral"
   }
