@@ -12,6 +12,9 @@ module.exports = {
   siteUrl: 'https://atilacamurca.github.io',
   pathPrefix: '/agregador-fc',
   siteDescription: 'Agregador FC é um site para te ajudar a decidir seu time para o Cartola FC.',
+  templates: {
+    DicasTemplate: '/dicas/:title'
+  },
   plugins: [
     {
       use: '@gridsome/source-filesystem',
@@ -97,6 +100,13 @@ module.exports = {
           }
         }
       }
+    },
+    {
+      use: '@gridsome/source-filesystem',
+      options: {
+        typeName: 'DicasTemplate',
+        path: './content/dicas/*.md',
+      }
     }
   ],
   chainWebpack: config => {
@@ -107,6 +117,14 @@ module.exports = {
   configureWebpack: {
     externals: {
       moment: 'moment'
+    }
+  },
+
+  transformers: {
+    //Add markdown support to all file-system sources
+    remark: {
+      externalLinksTarget: '_blank',
+      externalLinksRel: ['nofollow', 'noopener', 'noreferrer']
     }
   }
 }
