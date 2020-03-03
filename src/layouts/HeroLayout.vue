@@ -6,7 +6,7 @@
         <transition name="fade" appear>
             <div>
                 <slot name="hero"></slot>
-                <b-container class="pt-4 pb-5 my-5">
+                <b-container class="pb-5 my-5">
                     <slot></slot>
                 </b-container>
             </div>
@@ -29,10 +29,8 @@ export default {
     font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
 }
 .header {
-    background: #009FFF;
-    background: -webkit-linear-gradient(150deg, #009FFF, #EC2F4C) fixed;
-    background: -moz-linear-gradient(150deg, #009FFF, #EC2F4C) fixed;
-    background: linear-gradient(150deg, #009FFF, #EC2F4C) fixed;
+    background: #087ee1;
+    background: linear-gradient(315deg, #05e8ba 0%, #087ee1 74%) fixed;
     background-repeat: no-repeat;
     background-size: 100% 50%;
     height: 200px;

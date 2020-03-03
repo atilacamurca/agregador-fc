@@ -21,7 +21,7 @@
                     </g-link>
                     <g-link
                         class="text-white text-decoration-none ml-3 underline-from-center font-weight-bold"
-                        to="/about/"
+                        to="/sobre/"
                     >
                         Sobre
                     </g-link>
