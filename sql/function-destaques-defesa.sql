@@ -1,8 +1,11 @@
 ﻿DROP FUNCTION public.stat_destaques_defesa(integer, integer, integer);
 
-CREATE FUNCTION stat_destaques_defesa(_rodada_id integer, _ano integer, _clube_id integer)
-RETURNS json AS
-$$
+CREATE OR REPLACE FUNCTION public.stat_destaques_defesa(
+    _rodada_id integer,
+    _ano integer,
+    _clube_id integer)
+  RETURNS json AS
+$BODY$
     SELECT array_to_json(array_agg(t)) AS JSON FROM (
         SELECT media_num,
             a.id as atleta_id,
@@ -17,9 +20,9 @@ $$
         INNER JOIN atletas a ON am.atleta_id = a.id
         INNER JOIN clubes c ON a.clube_id = c.id
         INNER JOIN posicoes p ON a.posicao_id = p.id
-        WHERE am.rodada_id = _rodada_id - 1 -- rodada anterior
+        WHERE CASE WHEN _rodada_id = 1 THEN true ELSE am.rodada_id = _rodada_id - 1 END -- rodada anterior, ignorar na rodada 1
             AND am.ano = _ano
-            AND media_num > 0
+            AND CASE WHEN _rodada_id = 1 THEN true ELSE media_num > 0 END -- ignorar na rodada 1
             AND _clube_id = a.clube_id
             AND posicao_id IN (1,
                      2,
@@ -28,4 +31,8 @@ $$
             preco_num ASC
         LIMIT 4
     ) t
-$$ LANGUAGE sql;
+$BODY$
+  LANGUAGE sql VOLATILE
+  COST 100;
+ALTER FUNCTION public.stat_destaques_defesa(integer, integer, integer)
+  OWNER TO postgres;

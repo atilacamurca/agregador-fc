@@ -103,7 +103,7 @@ pontuacao_adversario_posicao() {
 }
 
 typeset -i i END
-let END=${RODADA_ATUAL_ID}-1 i=4
+let END=${RODADA_ATUAL_ID}-1 i=1
 while ((i<=END)); do
     echo "Verificando rodada ${i} ..."
     if [[ ! -f "rodada/${YEAR}/${i}.json" || ${OVERRIDE} = true ]]; then
