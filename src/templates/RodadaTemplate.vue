@@ -318,6 +318,9 @@ export default {
         },
         pageDicas() {
             return `/dicas/rodada-${this.$page.rodada.rodada}`
+        },
+        partidas() {
+            return Object.freeze(this.$page.rodada.partidas)
         }
     },
     metaInfo() {
