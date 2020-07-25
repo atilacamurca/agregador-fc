@@ -16,6 +16,8 @@ import Assistencia from '~/components/scouts/Assistencia'
 import FinalizacaoDefendida from '~/components/scouts/FinalizacaoDefendida'
 import Impedimento from '~/components/scouts/Impedimento'
 import PenaltiPerdido from '~/components/scouts/PenaltiPerdido'
+import Desarme from '~/components/scouts/Desarme'
+import PasseIncompleto from '~/components/scouts/PasseIncompleto'
 import ColNome from '~/components/clubes/ColNome'
 import HeaderClube from '~/components/clubes/HeaderClube'
 import RowAhLadrao from '~/components/melhores/RowAhLadrao'
@@ -83,6 +85,8 @@ export default {
         Vue.component('finalizacao-defendida', FinalizacaoDefendida)
         Vue.component('impedimento', Impedimento)
         Vue.component('penalti-perdido', PenaltiPerdido)
+        Vue.component('desarme', Desarme)
+        Vue.component('passe-incompleto', PasseIncompleto)
         Vue.component('col-nome', ColNome)
         Vue.component('header-clube', HeaderClube)
         Vue.component('row-ah-ladrao', RowAhLadrao)

@@ -1,5 +1,10 @@
-﻿CREATE OR REPLACE FUNCTION pontuacao_adversario_por_posicao(_ano integer, _clube_id integer, _posicao_id integer)
-RETURNS json AS
+﻿DROP FUNCTION public.pontuacao_adversario_por_posicao(integer, integer, integer);
+
+CREATE OR REPLACE FUNCTION public.pontuacao_adversario_por_posicao(
+    _ano integer,
+    _clube_id integer,
+    _posicao_id integer)
+  RETURNS json AS
 $BODY$
   SELECT array_to_json(array_agg(t)) AS JSON
 FROM
@@ -14,8 +19,8 @@ FROM
           cv.id as clube_visitante_id,
           cv.abreviacao AS clube_visitante_abreviacao,
           cv.escudo_60 AS escudo_visitante,
-          placar_oficial_mandante,
-          placar_oficial_visitante
+          coalesce(placar_oficial_mandante, 0) as placar_oficial_mandante,
+          coalesce(placar_oficial_visitante, 0) as placar_oficial_visitante
    FROM partidas_rodada pr
    INNER JOIN clubes cc ON pr.clube_casa_id = cc.id
    INNER JOIN clubes cv ON pr.clube_visitante_id = cv.id
@@ -24,7 +29,7 @@ FROM
    AND a.clube_id <> _clube_id
    INNER JOIN clubes c ON a.clube_id = c.id
    INNER JOIN atletas_mercado am ON pr.rodada_id = am.rodada_id
-   AND am.ano = 2019
+   AND am.ano = _ano
    AND am.atleta_id = a.id
    WHERE (clube_casa_id = _clube_id
           OR clube_visitante_id = _clube_id)
@@ -41,4 +46,8 @@ FROM
             placar_oficial_mandante,
             placar_oficial_visitante
    ORDER BY pr.rodada_id DESC) t
-$BODY$ LANGUAGE sql;
+$BODY$
+  LANGUAGE sql VOLATILE
+  COST 100;
+ALTER FUNCTION public.pontuacao_adversario_por_posicao(integer, integer, integer)
+  OWNER TO postgres;

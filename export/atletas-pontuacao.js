@@ -2,15 +2,16 @@
 const client = require('../import/database').client
 const path = require('path')
 const fs = require('fs')
+const mkdirp = require('mkdirp')
 
 const args = process.argv.slice(2)
 let rodadaAtual = process.env.RODADA_ATUAL_ID
 // override RODADA ATUAL
 if (args[0]) {
-    rodadaAtual = new Number(args[0])
+    rodadaAtual = parseInt(args[0])
 }
 
-const CURRENT_YEAR = new Date().getFullYear()
+const CURRENT_YEAR = process.env.GRIDSOME_TEMPORADA
 const SQL_PONTUACOES = `
 WITH u AS
   (SELECT DISTINCT rodada_id,
@@ -76,12 +77,14 @@ async function queryPontuacoes(ano) {
     }
 }
 
+const pathRodada = path.resolve(__dirname, '../pontuacoes/atleta', `${CURRENT_YEAR}`)
+mkdirp.sync(pathRodada)
+
 client.connect()
     .then(() => queryPontuacoes(CURRENT_YEAR))
     .then(async atletas => {
         console.log(`Exportando pontuações do ano de ${CURRENT_YEAR} ...`)
 
-        const pathRodada = path.resolve(__dirname, '../pontuacoes/atleta', `${CURRENT_YEAR}`)
         for (i in atletas) {
             const a = atletas[i]
             const filename = `${pathRodada}/${a.atleta_id}.json`

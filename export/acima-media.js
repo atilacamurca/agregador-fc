@@ -8,10 +8,10 @@ const args = process.argv.slice(2)
 let rodadaAtual = process.env.RODADA_ATUAL_ID
 // override RODADA ATUAL
 if (args[0]) {
-    rodadaAtual = new Number(args[0])
+    rodadaAtual = parseInt(args[0])
 }
 
-const CURRENT_YEAR = new Date().getFullYear()
+const CURRENT_YEAR = process.env.GRIDSOME_TEMPORADA
 const SQL = `
     SELECT DISTINCT rodada_id + 1 as rodada,
     to_jsonb(melhores_posicao(rodada_id, ano, 1)) AS goleiros,
@@ -35,15 +35,56 @@ async function query (rodada_id, ano) {
     }
 }
 
+const altetaVazio = {
+    atleta_id: 0,
+      apelido: '',
+      foto: '',
+      clube: '',
+      jogos_num: 0,
+      media_num: 0,
+      preco_num: 0,
+      pontos_num: 0,
+      variacao_num: 0,
+      abreviacao_posicao: '',
+      nome_posicao: '',
+      partida: {
+        clube_casa: '',
+        clube_casa_escudo: '',
+        clube_visitante: '',
+        clube_visitante_escudo: ''
+    }
+}
+
+const rodada1 = {
+    rodada: 1,
+    goleiros: [altetaVazio],
+    laterais: [altetaVazio],
+    zagueiros: [altetaVazio],
+    meias: [altetaVazio],
+    atacantes: [altetaVazio],
+    tecnicos: [altetaVazio]
+}
+
+async function gerarRodada (rodada) {
+    console.log(`Exportando JSON da Rodada ${rodadaAtual}/${CURRENT_YEAR} ...`)
+
+    const saveTo = path.resolve(__dirname, '../melhores/rodada', `${CURRENT_YEAR}`, `${rodadaAtual}`)
+    mkdirp.sync(saveTo)
+    const filename = `${saveTo}/acima-media.json`
+    fs.writeFileSync(filename, JSON.stringify(rodada, null, 2))
+}
+
+if (rodadaAtual === 1) {
+    ;(async () => {
+        await gerarRodada(rodada1)
+    })()
+    return;
+}
+
 client.connect()
     .then(() => query(rodadaAtual, CURRENT_YEAR))
-    .then(async rodada => {
-        console.log(`Exportando JSON da Rodada ${rodadaAtual}/${CURRENT_YEAR} ...`)
-
-        const saveTo = path.resolve(__dirname, '../melhores/rodada', `${CURRENT_YEAR}`, `${rodadaAtual}`)
-        mkdirp.sync(saveTo)
-        const filename = `${saveTo}/acima-media.json`
-        fs.writeFileSync(filename, JSON.stringify(rodada, null, 2))
+    .then(gerarRodada)
+    .then(async () => {
         await client.end()
     })
     .catch(err => {

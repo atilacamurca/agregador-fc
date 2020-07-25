@@ -7,6 +7,8 @@
 const BundleAnalyzerPlugin = require('webpack-bundle-analyzer')
   .BundleAnalyzerPlugin
 
+const TEMPORADA = process.env.GRIDSOME_TEMPORADA
+
 module.exports = {
   siteName: 'Agregador FC',
   siteUrl: 'https://atilacamurca.github.io',
@@ -19,49 +21,49 @@ module.exports = {
     {
       use: '@gridsome/source-filesystem',
       options: {
-        path: 'rodada/**/*.json',
+        path: `rodada/${TEMPORADA}/*.json`,
         typeName: 'RodadaTemplate',
       }
     },
     {
       use: '@gridsome/source-filesystem',
       options: {
-        path: 'melhores/**/ah-ladrao.json',
+        path: `melhores/rodada/${TEMPORADA}/**/ah-ladrao.json`,
         typeName: 'AhLadraoTemplate',
       }
     },
     {
       use: '@gridsome/source-filesystem',
       options: {
-        path: 'melhores/**/acima-media.json',
+        path: `melhores/rodada/${TEMPORADA}/**/acima-media.json`,
         typeName: 'AcimaMediaTemplate',
       }
     },
     {
       use: '@gridsome/source-filesystem',
       options: {
-        path: 'pontuacoes/atleta/**/*.json',
+        path: `pontuacoes/atleta/${TEMPORADA}/*.json`,
         typeName: 'PontuacaoesTemplate',
       }
     },
     {
       use: '@gridsome/source-filesystem',
       options: {
-        path: 'clubes/**/*.json',
+        path: `clubes/${TEMPORADA}/*.json`,
         typeName: 'ClubesTemplate',
       }
     },
     {
       use: '@gridsome/source-filesystem',
       options: {
-        path: 'pontuacoes/adversario/**/*.json',
+        path: `pontuacoes/adversario/${TEMPORADA}/**/*.json`,
         typeName: 'PontuacaoesAdversarioTemplate',
       }
     },
     {
       use: '@gridsome/source-filesystem',
       options: {
-        path: 'melhores/**/radar-rodada.json',
+        path: `melhores/rodada/${TEMPORADA}/**/radar-rodada.json`,
         typeName: 'RadarRodadaTemplate',
       }
     },/*,

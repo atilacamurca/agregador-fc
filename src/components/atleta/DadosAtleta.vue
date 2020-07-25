@@ -3,18 +3,20 @@
         <span class="badge-preco bg-danger text-center">$ {{ props.preco_num }}</span>
         <div class="d-flex flex-column align-items-center">
             <div>
-                <g-link :to="props.urlPontuacao">
-                    <g-image :src="props.foto" width="64"
+                <a :href="parent.$url(props.urlPontuacao)">
+                    <g-image
+                        :src="props.foto"
+                        width="64"
                         :alt="props.apelido"
                         class="img-thumbnail rounded-circle"
                         style="width: 64px; height: 64px;"
                     ></g-image>
-                </g-link>
+                </a>
             </div>
             <div>
-                <g-link :to="props.urlPontuacao" class="text-light">
+                <a :href="parent.$url(props.urlPontuacao)" class="text-light">
                     {{ props.apelido }}
-                </g-link>
+                </a>
             </div>
             <div v-if="props.clube">{{ props.clube }}</div>
             <div>

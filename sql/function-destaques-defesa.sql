@@ -28,7 +28,7 @@ $BODY$
                      2,
                      3)-- Goleiro, Lateral, Zagueiro
         ORDER BY media_num * jogos_num DESC,
-            preco_num ASC
+            CASE WHEN _rodada_id = 1 THEN -preco_num ELSE preco_num END ASC
         LIMIT 4
     ) t
 $BODY$

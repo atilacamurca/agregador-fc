@@ -8,6 +8,8 @@ const UPSERT_CLUBES = `INSERT INTO public.clubes (id, nome, nome_fantasia,
     abreviacao, posicao, escudo_60) VALUES ($1, $2, $3, $4, $5, $6)
     ON CONFLICT ON CONSTRAINT clubes_pkey DO
     UPDATE SET escudo_60=EXCLUDED.escudo_60`
+const INSERT_CLUBES_TEMPORADA = `INSERT INTO public.clubes_temporada(
+    clube_id, temporada) VALUES ($1, $2) ON CONFLICT DO NOTHING`
 const UPSERT_ATLETAS = `INSERT INTO public.atletas(id, nome, slug, apelido, foto, clube_id, posicao_id)
     VALUES ($1, $2, $3, $4, $5, $6, $7)
     ON CONFLICT (id) DO UPDATE SET nome=EXCLUDED.nome, slug=EXCLUDED.slug,
@@ -44,7 +46,7 @@ VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10, $11, $12, $13, $14, $15, $16, $
         i=EXCLUDED.i,
         pi=EXCLUDED.pi,
         status_id=EXCLUDED.status_id`
-const CURRENT_YEAR = new Date().getFullYear()
+const CURRENT_YEAR = process.env.GRIDSOME_TEMPORADA
 
 async function fetch() {
     try {
@@ -88,6 +90,10 @@ async function save(data) {
                 clubes[id].abreviacao,
                 clubes[id].posicao,
                 clubes[id].escudos['60x60']
+            ]))
+            batchClubes.push(client.query(INSERT_CLUBES_TEMPORADA, [
+                clubes[id].id,
+                CURRENT_YEAR
             ]))
         }
         Promise.all(batchClubes)

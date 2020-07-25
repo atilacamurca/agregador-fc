@@ -31,7 +31,9 @@
 
 <page-query>
 query {
-  clubes: allClubesTemplate(order: ASC, sortBy: "posicao") {
+  clubes: allClubesTemplate(
+    sort: [{ by: "posicao", order: ASC }, { by: "nome_fantasia", order: ASC }]
+  ) {
     edges {
       node {
         path

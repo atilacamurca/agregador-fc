@@ -1,14 +1,14 @@
 <template functional>
     <b-col md="12" :class="data.staticClass || ''">
-        <div>ZAGUEIROS</div>
+        <h5><b-badge pill variant="primary">ZAGUEIROS</b-badge></h5>
         <b-row>
             <b-col md="4">
-                <roubada-bola :rb="props.rb"></roubada-bola>
+                <desarme :ds="props.ds"></desarme>
                 <gol :g="props.g"></gol>
                 <falta-sofrida :fs="props.fs"></falta-sofrida>
             </b-col>
             <b-col md="4" offset-md="1">
-                <passe-errado :pe="props.pe"></passe-errado>
+                <passe-incompleto :pi="props.pi"></passe-incompleto>
                 <gol-contra :gc="props.gc"></gol-contra>
                 <falta-cometida :fc="props.fc"></falta-cometida>
                 <cartao-amarelo :ca="props.ca"></cartao-amarelo>
@@ -22,7 +22,8 @@ export default {
     props: {
         rb: {
             type: Number,
-            required: true
+            required: false,
+            default: 0
         },
         g: {
             type: Number,
@@ -34,7 +35,8 @@ export default {
         },
         pe: {
             type: Number,
-            required: true
+            required: false,
+            default: 0
         },
         fs: {
             type: Number,
@@ -45,6 +47,14 @@ export default {
             required: true
         },
         ca: {
+            type: Number,
+            required: true
+        },
+        ds: {
+            type: Number,
+            required: true
+        },
+        pi: {
             type: Number,
             required: true
         }

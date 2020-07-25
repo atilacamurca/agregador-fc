@@ -2,15 +2,19 @@
 const client = require('../import/database').client
 const path = require('path')
 const fs = require('fs')
+const mkdirp = require('mkdirp')
 
 const args = process.argv.slice(2)
 let rodadaAtual = process.env.RODADA_ATUAL_ID
 // override RODADA ATUAL
 if (args[0]) {
-    rodadaAtual = new Number(args[0])
+    rodadaAtual = parseInt(args[0])
 }
 
-const CURRENT_YEAR = new Date().getFullYear()
+let CURRENT_YEAR = process.env.GRIDSOME_TEMPORADA
+if (args[1]) {
+    CURRENT_YEAR = parseInt(args[1])
+}
 const SQL_PARTIDAS_RODADA = `
     SELECT partida_id,
         sumario_gols(pr.rodada_id, pr.ano, pr.clube_casa_id) as sumario_gols_casa,
@@ -46,8 +50,8 @@ const SQL_PARTIDAS_RODADA = `
         partida_data,
         "local",
         valida,
-        placar_oficial_mandante,
-        placar_oficial_visitante,
+        coalesce(placar_oficial_mandante, 0) as placar_oficial_mandante,
+        coalesce(placar_oficial_visitante, 0) as placar_oficial_visitante,
         url_confronto,
         url_transmissao,
         valida
@@ -86,6 +90,7 @@ async function queryPartidasRodada(rodada_id, ano) {
     }
 }
 
+mkdirp.sync(path.resolve(__dirname, '../rodada', `${CURRENT_YEAR}`))
 client.connect()
     .then(() => queryPartidasRodada(rodadaAtual, CURRENT_YEAR))
     .then(async partidas => {
@@ -96,6 +101,7 @@ client.connect()
         const filename = `${pathRodada}/${rodadaAtual}.json`
         fs.writeFileSync(filename, JSON.stringify({
             rodada: rodadaAtual,
+            ano: CURRENT_YEAR,
             inicio_rodada,
             partidas
         }, null, 2))

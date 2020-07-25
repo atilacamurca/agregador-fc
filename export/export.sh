@@ -60,8 +60,7 @@ fi
 
 source .env
 
-YEAR=$(date +"%Y")
-echo "Rodada atual: ${RODADA_ATUAL_ID} / ${YEAR}"
+echo "Rodada atual: ${RODADA_ATUAL_ID} / ${GRIDSOME_TEMPORADA}"
 
 dados_rodada() {
     local rodada_id=${1:-$RODADA_ATUAL_ID}
@@ -106,7 +105,7 @@ typeset -i i END
 let END=${RODADA_ATUAL_ID}-1 i=1
 while ((i<=END)); do
     echo "Verificando rodada ${i} ..."
-    if [[ ! -f "rodada/${YEAR}/${i}.json" || ${OVERRIDE} = true ]]; then
+    if [[ ! -f "rodada/${GRIDSOME_TEMPORADA}/${i}.json" || ${OVERRIDE} = true ]]; then
         dados_rodada $i
         ah_ladrao $i
         acima_media $i

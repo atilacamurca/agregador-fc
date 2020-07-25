@@ -16,9 +16,13 @@
                         :key="item.atleta_id"
                         class="card-body-sumario border-bottom-light">
                         <row-ah-ladrao
+                            v-if="item.atleta_id > 0"
                             v-bind="item"
                             :urlPontuacao="urlPontuacao()(item.atleta_id)"
                         ></row-ah-ladrao>
+                        <b-row v-else>
+                            <b-col>Não temos dados na primeira rodada.</b-col>
+                        </b-row>
                     </b-card-body>
                 </b-card>
             </b-col>

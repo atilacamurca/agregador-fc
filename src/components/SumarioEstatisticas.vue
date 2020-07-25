@@ -23,26 +23,32 @@
         <b-row class="mt-2">
             <b-col cols="6" md="6" class="border-right">
                 <b-row>
-                    <col-zagueiros :rb="props.partida.zagueiros_casa.sum_rb"
+                    <col-zagueiros
+                        :rb="props.partida.zagueiros_casa.sum_rb"
                         :gc="props.partida.zagueiros_casa.sum_gc"
                         :g="props.partida.zagueiros_casa.sum_g"
                         :pe="props.partida.zagueiros_casa.sum_pe"
                         :fs="props.partida.zagueiros_casa.sum_fs"
                         :fc="props.partida.zagueiros_casa.sum_fc"
                         :ca="props.partida.zagueiros_casa.sum_ca"
+                        :ds="props.partida.zagueiros_casa.sum_ds"
+                        :pi="props.partida.zagueiros_casa.sum_pi"
                         class="ml-4"
                     ></col-zagueiros>
                 </b-row>
             </b-col>
             <b-col cols="6" md="6">
                 <b-row>
-                    <col-zagueiros :rb="props.partida.zagueiros_visitante.sum_rb"
+                    <col-zagueiros
+                        :rb="props.partida.zagueiros_visitante.sum_rb"
                         :gc="props.partida.zagueiros_visitante.sum_gc"
                         :g="props.partida.zagueiros_visitante.sum_g"
                         :pe="props.partida.zagueiros_visitante.sum_pe"
                         :fs="props.partida.zagueiros_visitante.sum_fs"
                         :fc="props.partida.zagueiros_visitante.sum_fc"
                         :ca="props.partida.zagueiros_visitante.sum_ca"
+                        :ds="props.partida.zagueiros_casa.sum_ds"
+                        :pi="props.partida.zagueiros_casa.sum_pi"
                     ></col-zagueiros>
                 </b-row>
             </b-col>
@@ -50,7 +56,8 @@
         <b-row class="mt-4">
             <b-col cols="6" md="6" class="border-right">
                 <b-row>
-                    <col-laterais :g="props.partida.laterais_casa.sum_g"
+                    <col-laterais
+                        :g="props.partida.laterais_casa.sum_g"
                         :a="props.partida.laterais_casa.sum_a"
                         :fd="props.partida.laterais_casa.sum_fd"
                         :ff="props.partida.laterais_casa.sum_ff"
@@ -58,13 +65,16 @@
                         :rb="props.partida.laterais_casa.sum_rb"
                         :fc="props.partida.laterais_casa.sum_fc"
                         :fs="props.partida.laterais_casa.sum_fs"
+                        :ds="props.partida.zagueiros_casa.sum_ds"
+                        :pi="props.partida.zagueiros_casa.sum_pi"
                         class="ml-4"
                     ></col-laterais>
                 </b-row>
             </b-col>
             <b-col cols=6 md="6">
                 <b-row>
-                    <col-laterais :g="props.partida.laterais_visitante.sum_g"
+                    <col-laterais
+                        :g="props.partida.laterais_visitante.sum_g"
                         :a="props.partida.laterais_visitante.sum_a"
                         :fd="props.partida.laterais_visitante.sum_fd"
                         :ff="props.partida.laterais_visitante.sum_ff"
@@ -72,6 +82,8 @@
                         :rb="props.partida.laterais_visitante.sum_rb"
                         :fc="props.partida.laterais_visitante.sum_fc"
                         :fs="props.partida.laterais_visitante.sum_fs"
+                        :ds="props.partida.zagueiros_casa.sum_ds"
+                        :pi="props.partida.zagueiros_casa.sum_pi"
                     ></col-laterais>
                 </b-row>
             </b-col>
@@ -90,7 +102,8 @@
         <b-row class="mt-2">
             <b-col cols="6" md="6" class="border-right">
                 <b-row>
-                    <col-meias :g="props.partida.meias_casa.sum_g"
+                    <col-meias
+                        :g="props.partida.meias_casa.sum_g"
                         :a="props.partida.meias_casa.sum_a"
                         :fd="props.partida.meias_casa.sum_fd"
                         :ff="props.partida.meias_casa.sum_ff"
@@ -99,13 +112,16 @@
                         :rb="props.partida.meias_casa.sum_rb"
                         :pe="props.partida.meias_casa.sum_pe"
                         :ca="props.partida.meias_casa.sum_ca"
+                        :ds="props.partida.zagueiros_casa.sum_ds"
+                        :pi="props.partida.zagueiros_casa.sum_pi"
                         class="ml-4"
                     ></col-meias>
                 </b-row>
             </b-col>
             <b-col cols="6" md="6">
                 <b-row>
-                    <col-meias :g="props.partida.meias_visitante.sum_g"
+                    <col-meias
+                        :g="props.partida.meias_visitante.sum_g"
                         :a="props.partida.meias_visitante.sum_a"
                         :fd="props.partida.meias_visitante.sum_fd"
                         :ff="props.partida.meias_visitante.sum_ff"
@@ -114,6 +130,8 @@
                         :rb="props.partida.meias_visitante.sum_rb"
                         :pe="props.partida.meias_visitante.sum_pe"
                         :ca="props.partida.meias_visitante.sum_ca"
+                        :ds="props.partida.zagueiros_casa.sum_ds"
+                        :pi="props.partida.zagueiros_casa.sum_pi"
                     ></col-meias>
                 </b-row>
             </b-col>
@@ -121,7 +139,8 @@
         <b-row class="mt-4">
             <b-col cols="6" md="6" class="border-right">
                 <b-row>
-                    <col-atacantes :g="props.partida.atacantes_casa.sum_g"
+                    <col-atacantes
+                        :g="props.partida.atacantes_casa.sum_g"
                         :a="props.partida.atacantes_casa.sum_a"
                         :fd="props.partida.atacantes_casa.sum_fd"
                         :ff="props.partida.atacantes_casa.sum_ff"
@@ -135,7 +154,8 @@
             </b-col>
             <b-col cols="6" md="6">
                 <b-row>
-                    <col-atacantes :g="props.partida.atacantes_visitante.sum_g"
+                    <col-atacantes
+                        :g="props.partida.atacantes_visitante.sum_g"
                         :a="props.partida.atacantes_visitante.sum_a"
                         :fd="props.partida.atacantes_visitante.sum_fd"
                         :ff="props.partida.atacantes_visitante.sum_ff"
