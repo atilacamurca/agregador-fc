@@ -4,7 +4,7 @@ const path = require('path')
 const fs = require('fs')
 const mkdirp = require('mkdirp')
 
-const CURRENT_YEAR = new Date().getFullYear()
+const CURRENT_YEAR = process.env.GRIDSOME_TEMPORADA
 const SQL = `
 SELECT c.id as clube_id,
        p.nome as posicao,

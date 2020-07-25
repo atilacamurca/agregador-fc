@@ -1,6 +1,6 @@
 <template functional>
     <b-col md="12" :class="data.staticClass || ''">
-        <div>ATACANTES</div>
+        <h5><b-badge pill variant="primary">ATACANTES</b-badge></h5>
         <b-row>
             <b-col md="4">
                 <gol :g="props.g"></gol>

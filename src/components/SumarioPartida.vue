@@ -2,7 +2,7 @@
     <b-row :class="data.staticClass || ''">
         <b-col class="d-flex justify-content-center">
             <strong class="text-capitalize">{{ props.partidaData | diaMes }}</strong>
-            <span class="mx-2">{{ props.local }}</span>
+            <span class="mx-2">{{ props.local || 'Não definido' }}</span>
             <strong>{{ props.partidaData | horario }}</strong>
         </b-col>
     </b-row>

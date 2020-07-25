@@ -8,10 +8,10 @@ const args = process.argv.slice(2)
 let rodadaAtual = process.env.RODADA_ATUAL_ID
 // override RODADA ATUAL
 if (args[0]) {
-    rodadaAtual = new Number(args[0])
+    rodadaAtual = parseInt(args[0])
 }
 
-const CURRENT_YEAR = new Date().getFullYear()
+const CURRENT_YEAR = process.env.GRIDSOME_TEMPORADA
 const SQL = `
     SELECT am.atleta_id,
         apelido,
@@ -51,6 +51,29 @@ async function query (rodada_id, ano) {
     }
 }
 
+const emptyList = [
+    {
+        atleta_id: 0,
+        apelido: '',
+        posicao: '',
+        posicao_abrev: '',
+        escudo: '',
+        clube: '',
+        foto: '',
+        rb: 0,
+        fc: 0,
+        ca: 0,
+        tot_rb: 0,
+        tot_fc: 0,
+        tot_ca: 0,
+        tot_pontuacao: 0,
+        preco_num: 0,
+        variacao_num: 0,
+        media_num: 0,
+        jogos_num: 0,
+    }
+]
+
 client.connect()
     .then(() => query(rodadaAtual, CURRENT_YEAR))
     .then(async lista => {
@@ -61,7 +84,7 @@ client.connect()
         const filename = `${saveTo}/ah-ladrao.json`
         fs.writeFileSync(filename, JSON.stringify({
             rodada: rodadaAtual,
-            lista
+            lista: lista.length > 0 ? lista : emptyList
         }, null, 2))
         await client.end()
     })

@@ -1,19 +1,19 @@
 <template functional>
     <b-col md="12" :class="data.staticClass || ''">
-        <div>MEIAS</div>
+        <h5><b-badge pill variant="primary">MEIAS</b-badge></h5>
         <b-row>
             <b-col md="4">
                 <falta-sofrida :fs="props.fs"></falta-sofrida>
                 <gol :g="props.g"></gol>
                 <finalizacao-fora :ff="props.ff"></finalizacao-fora>
-                <roubada-bola :rb="props.rb"></roubada-bola>
+                <desarme :ds="props.ds"></desarme>
                 <cartao-amarelo :ca="props.ca"></cartao-amarelo>
             </b-col>
             <b-col md="4" offset-md="1">
                 <falta-cometida :fc="props.fc"></falta-cometida>
                 <assistencia :a="props.a"></assistencia>
                 <finalizacao-defendida :fd="props.fd"></finalizacao-defendida>
-                <passe-errado :pe="props.pe"></passe-errado>
+                <passe-incompleto :pi="props.pi"></passe-incompleto>
             </b-col>
         </b-row>
     </b-col>
@@ -48,13 +48,23 @@ export default {
         },
         rb: {
             type: Number,
-            required: true
+            required: false,
+            default: 0
         },
         pe: {
             type: Number,
-            required: true
+            required: false,
+            default: 0
         },
         ca: {
+            type: Number,
+            required: true
+        },
+        ds: {
+            type: Number,
+            required: true
+        },
+        pi: {
             type: Number,
             required: true
         }

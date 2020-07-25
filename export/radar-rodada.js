@@ -8,10 +8,10 @@ const args = process.argv.slice(2)
 let rodadaAtual = process.env.RODADA_ATUAL_ID
 // override RODADA ATUAL
 if (args[0]) {
-    rodadaAtual = new Number(args[0])
+    rodadaAtual = parseInt(args[0])
 }
 
-const CURRENT_YEAR = new Date().getFullYear()
+const CURRENT_YEAR = process.env.GRIDSOME_TEMPORADA
 const SQL = `
     SELECT partida_id,
         radar_por_posicao(pr.rodada_id, pr.ano, pr.clube_casa_id) AS radar_casa,

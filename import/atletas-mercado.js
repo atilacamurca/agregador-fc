@@ -8,14 +8,16 @@ const UPSERT_CLUBES = `INSERT INTO public.clubes (id, nome, nome_fantasia,
     abreviacao, posicao, escudo_60) VALUES ($1, $2, $3, $4, $5, $6)
     ON CONFLICT ON CONSTRAINT clubes_pkey DO
     UPDATE SET escudo_60=EXCLUDED.escudo_60`
+const INSERT_CLUBES_TEMPORADA = `INSERT INTO public.clubes_temporada(
+    clube_id, temporada) VALUES ($1, $2) ON CONFLICT DO NOTHING`
 const UPSERT_ATLETAS = `INSERT INTO public.atletas(id, nome, slug, apelido, foto, clube_id, posicao_id)
     VALUES ($1, $2, $3, $4, $5, $6, $7)
     ON CONFLICT (id) DO UPDATE SET nome=EXCLUDED.nome, slug=EXCLUDED.slug,
     apelido=EXCLUDED.apelido, foto=EXCLUDED.foto, clube_id=EXCLUDED.clube_id,
     posicao_id=EXCLUDED.posicao_id`
 const UPSERT_ATLETAS_MERCADO = `INSERT INTO public.atletas_mercado (atleta_id, rodada_id,
-    ano, pontos_num, preco_num, variacao_num, media_num, jogos_num, rb, g, a, sg, fs, ff,
-    fd, ft, dd, dp, gc, cv, ca, pp, gs, fc, i, pe, status_id)
+    ano, pontos_num, preco_num, variacao_num, media_num, jogos_num, ds, g, a, sg, fs, ff,
+    fd, ft, dd, dp, gc, cv, ca, pp, gs, fc, i, pi, status_id)
 VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10, $11, $12, $13, $14, $15, $16, $17, $18,
     $19, $20, $21, $22, $23, $24, $25, $26, $27)
     ON CONFLICT ON CONSTRAINT atletas_mercado_pkey DO
@@ -25,7 +27,7 @@ VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10, $11, $12, $13, $14, $15, $16, $
         variacao_num=EXCLUDED.variacao_num,
         media_num=EXCLUDED.media_num,
         jogos_num=EXCLUDED.jogos_num,
-        rb=EXCLUDED.rb,
+        ds=EXCLUDED.ds,
         g=EXCLUDED.g,
         a=EXCLUDED.a,
         sg=EXCLUDED.sg,
@@ -42,9 +44,9 @@ VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10, $11, $12, $13, $14, $15, $16, $
         gs=EXCLUDED.gs,
         fc=EXCLUDED.fc,
         i=EXCLUDED.i,
-        pe=EXCLUDED.pe,
+        pi=EXCLUDED.pi,
         status_id=EXCLUDED.status_id`
-const CURRENT_YEAR = new Date().getFullYear()
+const CURRENT_YEAR = process.env.GRIDSOME_TEMPORADA
 
 async function fetch() {
     try {
@@ -89,6 +91,10 @@ async function save(data) {
                 clubes[id].posicao,
                 clubes[id].escudos['60x60']
             ]))
+            batchClubes.push(client.query(INSERT_CLUBES_TEMPORADA, [
+                clubes[id].id,
+                CURRENT_YEAR
+            ]))
         }
         Promise.all(batchClubes)
 
@@ -115,7 +121,7 @@ async function save(data) {
                 a.variacao_num,
                 a.media_num,
                 a.jogos_num,
-                orZero(a.scout, 'rb'),
+                orZero(a.scout, 'ds'),
                 orZero(a.scout, 'g'),
                 orZero(a.scout, 'a'),
                 orZero(a.scout, 'sg'),
@@ -132,7 +138,7 @@ async function save(data) {
                 orZero(a.scout, 'gs'),
                 orZero(a.scout, 'fc'),
                 orZero(a.scout, 'i'),
-                orZero(a.scout, 'pe'),
+                orZero(a.scout, 'pi'),
                 a.status_id
             ]))
         }

@@ -1,15 +1,16 @@
 const client = require('../import/database').client
 const path = require('path')
 const fs = require('fs')
+const mkdirp = require('mkdirp')
 
 const args = process.argv.slice(2)
 let rodadaAtual = process.env.RODADA_ATUAL_ID
 // override RODADA ATUAL
 if (args[0]) {
-    rodadaAtual = new Number(args[0])
+    rodadaAtual = parseInt(args[0])
 }
 
-const CURRENT_YEAR = new Date().getFullYear()
+const CURRENT_YEAR = process.env.GRIDSOME_TEMPORADA
 const SQL_CLUBES = `
 SELECT c.id,
        c.nome_fantasia,
@@ -18,8 +19,9 @@ SELECT c.id,
        posicao,
        atletas_por_clube($1, $2, c.id) AS atletas
 FROM clubes c
-WHERE id <> 1
-ORDER BY c.posicao
+INNER JOIN clubes_temporada ct ON c.id = ct.clube_id
+WHERE id <> 1 AND ct.temporada = $2
+ORDER BY c.posicao, c.nome_fantasia
 `
 
 async function queryClubesAtletas (rodada_id, ano) {
@@ -32,12 +34,14 @@ async function queryClubesAtletas (rodada_id, ano) {
     }
 }
 
+const pathClubes = path.resolve(__dirname, '../clubes', `${CURRENT_YEAR}`)
+mkdirp.sync(pathClubes)
+
 client.connect()
     .then(() => queryClubesAtletas(rodadaAtual, CURRENT_YEAR))
     .then(async clubes => {
         console.log(`Exportando clubes da rodada ${rodadaAtual} ${CURRENT_YEAR} ...`)
 
-        const pathClubes = path.resolve(__dirname, '../clubes', `${CURRENT_YEAR}`)
         for (i in clubes) {
             const c = clubes[i]
             const filename = `${pathClubes}/${c.id}.json`

@@ -1,5 +1,5 @@
 <template functional>
-    <b-row>
+    <div class="d-flex flex-wrap">
         <b-col cols="12" lg="6">
             <div class="rounded shadow-sm bg-white">
                 <div class="text-center lead my-2">
@@ -36,7 +36,7 @@
                 </div>
             </div>
         </b-col>
-    </b-row>
+    </div>
 </template>
 
 <script>

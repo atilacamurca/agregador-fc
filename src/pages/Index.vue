@@ -32,7 +32,7 @@
                 </b-card>
             </b-col>
         </b-row>
-        <b-row class="mt-2">
+        <b-row class="mt-2" v-if="$page.rodadas.edges.length > 0">
             <b-col md="8" offset-md="2" lg="6" offset-lg="3">
                 <h4 class="mb-4">Rodadas anteriores</h4>
                 <b-card no-body class="shadow-sm">
@@ -60,6 +60,7 @@ query TodasRodadas {
     order: DESC
     sortBy: "rodada"
     skip: 1
+    filter: { ano: { eq: 2020 } }
   ) {
     edges {
       node {

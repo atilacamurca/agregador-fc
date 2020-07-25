@@ -1,6 +1,6 @@
 <template functional>
     <b-col sm="6" md="4">
-        <div>DEFESA</div>
+        <h5><b-badge pill variant="primary">DEFESA</b-badge></h5>
         <saldo-gol :sg="props.sg"></saldo-gol>
     </b-col>
 </template>

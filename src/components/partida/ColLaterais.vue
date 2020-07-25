@@ -1,17 +1,17 @@
 <template functional>
     <b-col md="12" :class="data.staticClass || ''">
-        <div>LATERAIS</div>
+        <h5><b-badge pill variant="primary">LATERAIS</b-badge></h5>
         <b-row>
             <b-col md="4">
                 <gol :g="props.g"></gol>
                 <finalizacao-fora :ff="props.ff"></finalizacao-fora>
-                <roubada-bola :rb="props.rb"></roubada-bola>
+                <desarme :ds="props.ds"></desarme>
                 <falta-sofrida :fs="props.fs"></falta-sofrida>
             </b-col>
             <b-col md="4" offset-md="1">
                 <assistencia :a="props.a"></assistencia>
                 <finalizacao-defendida :fd="props.fd"></finalizacao-defendida>
-                <passe-errado :pe="props.pe"></passe-errado>
+                <passe-incompleto :pi="props.pi"></passe-incompleto>
                 <falta-cometida :fc="props.fc"></falta-cometida>
             </b-col>
         </b-row>
@@ -23,7 +23,8 @@ export default {
     props: {
         rb: {
             type: Number,
-            required: true
+            required: false,
+            default: 0
         },
         g: {
             type: Number,
@@ -50,6 +51,15 @@ export default {
             required: true
         },
         pe: {
+            type: Number,
+            required: false,
+            default: 0
+        },
+        ds: {
+            type: Number,
+            required: true
+        },
+        pi: {
             type: Number,
             required: true
         }
