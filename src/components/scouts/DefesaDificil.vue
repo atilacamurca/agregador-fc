@@ -3,6 +3,9 @@
         tooltip="Defesa difícil"
         label="DD"
         variant="success"
+        :multiplier="4"
+        :show-multiplier="props.showMultiplier"
+        :show-total="props.showTotal"
     ></scout>
 </template>
 
@@ -12,6 +15,14 @@ export default {
         dd: {
             type: Number,
             required: true
+        },
+        showMultiplier: {
+            type: Boolean,
+            default: false
+        },
+        showTotal: {
+            type: Boolean,
+            default: false
         }
     }
 }

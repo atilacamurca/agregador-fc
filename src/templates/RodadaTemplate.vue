@@ -124,10 +124,10 @@
         <h3 class="my-4">Melhores no quesito...</h3>
         <b-row>
           <b-col
-            md="4"
+            md="6" lg="4"
             class="d-flex align-items-stretch"
           >
-            <b-card>
+            <b-card class="w-100">
               <b-card-title>Radar da rodada</b-card-title>
               <b-card-text>
                 Radar comparativo dos scouts acumulados por posição
@@ -143,10 +143,10 @@
             </b-card>
           </b-col>
           <b-col
-            md="4"
+            md="6" lg="4"
             class="d-flex align-items-stretch"
           >
-            <b-card>
+            <b-card class="mt-2 mt-md-0 w-100">
               <b-card-title><em>Ah, ladrão!</em></b-card-title>
               <b-card-text>
                 25 melhores nas Roubadas de bola com poucas faltas
@@ -162,10 +162,10 @@
             </b-card>
           </b-col>
           <b-col
-            md="4"
+            md="6" lg="4"
             class="d-flex align-items-stretch"
           >
-            <b-card>
+            <b-card class="mt-2 mt-lg-0 w-100">
               <b-card-title>Acima da média</b-card-title>
               <b-card-text>
                 10 jogadores de cada posição com as melhores médias por jogos.

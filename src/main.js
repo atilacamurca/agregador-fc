@@ -9,6 +9,7 @@ const locale = require('date-fns/locale/pt')
 import '~/assets/styles.scss'
 
 const dateOptions = { addSuffix: true, locale }
+const numberFormat = new Intl.NumberFormat('pt-BR', { maximumSignificantDigits: 2 })
 
 export default function (Vue, { router, head, isClient }) {
     Vue.prototype.$year = new Date().getFullYear()
@@ -76,6 +77,10 @@ export default function (Vue, { router, head, isClient }) {
         if (!value) return ''
         value = value.toString()
         return format(value, 'HH:mm', { locale })
+    })
+
+    Vue.filter('intlNumberFormat', value => {
+        return numberFormat.format(value)
     })
 
     router.beforeEach((to, _from, next) => {

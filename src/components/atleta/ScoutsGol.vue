@@ -3,19 +3,19 @@
         <h4>Scouts em {{ props.jogos_num }} jogos</h4>
         <div class="p-3">
             <b-row>
-                <b-col cols="5">
+                <b-col cols="12" md="5">
                     <div class="lead">Positivos</div>
-                    <saldo-gol :sg="props.sg"></saldo-gol>
-                    <defesa-dificil :dd="props.dd"></defesa-dificil>
-                    <defesa-penalti :dp="props.dp"></defesa-penalti>
-                    <falta-sofrida :fs="props.fs"></falta-sofrida>
+                    <saldo-gol :sg="props.sg" show-multiplier show-total></saldo-gol>
+                    <defesa-dificil :dd="props.dd" show-multiplier show-total></defesa-dificil>
+                    <defesa-penalti :dp="props.dp" show-multiplier show-total></defesa-penalti>
+                    <falta-sofrida :fs="props.fs" show-multiplier show-total></falta-sofrida>
                 </b-col>
-                <b-col cols="5" offset="1">
+                <b-col cols="12" md="5" offset-md="1" class="mt-3 mt-md-0">
                     <div class="lead">Negativos</div>
-                    <gol-sofrido :gs="props.gs"></gol-sofrido>
-                    <passe-errado :pe="props.pe"></passe-errado>
-                    <falta-cometida :fc="props.fc"></falta-cometida>
-                    <cartao-amarelo :ca="props.ca"></cartao-amarelo>
+                    <gol-sofrido :gs="props.gs" show-multiplier show-total></gol-sofrido>
+                    <passe-incompleto :pi="props.pi" show-multiplier show-total></passe-incompleto>
+                    <falta-cometida :fc="props.fc" show-multiplier show-total></falta-cometida>
+                    <cartao-amarelo :ca="props.ca" show-multiplier show-total></cartao-amarelo>
                 </b-col>
             </b-row>
         </div>
@@ -37,7 +37,7 @@ export default {
             type: Number,
             required: true
         },
-        pe: {
+        pi: {
             type: Number,
             required: true
         },
