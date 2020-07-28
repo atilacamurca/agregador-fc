@@ -24,25 +24,29 @@
 
     <b-row>
       <b-col
+        cols="8"
         md="6"
         lg="7"
-        offset-md="1"
+        offset-lg="1"
       >
-        <h3 class="mb-4">Rodada {{ $page.rodada.rodada }}</h3>
+        <h3>Rodada {{ $page.rodada.rodada }}</h3>
       </b-col>
       <b-col
-        md="5"
+        cols="4"
+        md="6"
         lg="3"
-        class="text-light mb-4 mb-sm-0"
+        class="text-light"
       >
-        <twitter-button
-          :page_url="pageUrl"
-          :page_title="pageTitle"
-        ></twitter-button>
-        <facebook-button
-          :page_url="pageUrl"
-          :page_title="pageTitle"
-        ></facebook-button>
+        <div class="d-flex justify-content-end align-items-center">
+          <twitter-button
+            :page_url="pageUrl"
+            :page_title="pageTitle"
+          ></twitter-button>
+          <facebook-button
+            :page_url="pageUrl"
+            :page_title="pageTitle"
+          ></facebook-button>
+        </div>
       </b-col>
     </b-row>
     <b-row>
@@ -53,7 +57,7 @@
         <b-card
           no-body
           border-variant="light"
-          class="shadow-sm"
+          class="shadow-sm mt-2"
         >
           <b-card-body
             v-for="partida in $page.rodada.partidas"

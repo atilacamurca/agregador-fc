@@ -8,7 +8,8 @@
         :title-social="title_social"
         @click.prevent="showShareWindow"
     >
-        <span class="title-social" v-if="this.$props.title_social">
+        <facebook-icon class="mr-0 mr-sm-2"></facebook-icon>
+        <span class="title-social d-none d-sm-block" v-if="this.$props.title_social">
             {{ title_social }}
         </span>
     </a>
@@ -17,9 +18,13 @@
 <script>
 import { clickEvent } from "./helpers/events"
 import { openPopUpWindow } from "./helpers/popup_window"
+import { FacebookIcon } from 'vue-feather-icons'
 
 export default {
     name: 'FacebookButton',
+    components: {
+        FacebookIcon
+    },
     props: {
         page_url: {
             type: String,
