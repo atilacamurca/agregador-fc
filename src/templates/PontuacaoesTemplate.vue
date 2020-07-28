@@ -55,7 +55,7 @@
             </b-col>
         </b-row>
         <b-row class="mt-4">
-            <b-col lg="3">
+            <b-col md="6" lg="4">
                 <h4 class="ml-2">Partidas</h4>
                 <b-card no-body>
                     <b-list-group flush>
@@ -90,7 +90,7 @@
                 </b-card>
                 <small class="text-danger">* Jogador não necessariamente jogou.</small>
             </b-col>
-            <b-col lg="4" offset-lg="1"
+            <b-col md="12" lg="8"
                 class="mt-4 mt-lg-0"
                 v-if="pontuacao.scouts.posicao_abrev !== 'tec'">
                 <component :is="`scouts-${pontuacao.scouts.posicao_abrev}`"
@@ -148,6 +148,8 @@ query Pontuacao($path: String!) {
       fc
       i
       pe
+      ds
+      pi
       pontos_num
       preco_num
       variacao_num

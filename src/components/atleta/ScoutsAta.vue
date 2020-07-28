@@ -3,24 +3,24 @@
         <h4>Scouts em {{ props.jogos_num }} jogos</h4>
         <div class="p-3">
             <b-row>
-                <b-col cols="5">
+                <b-col cols="12" md="5">
                     <div class="lead">Positivos</div>
-                    <gol :g="props.g"></gol>
-                    <assistencia :a="props.a"></assistencia>
-                    <finalizacao-fora :ff="props.ff"></finalizacao-fora>
-                    <finalizacao-defendida :fd="props.fd"></finalizacao-defendida>
-                    <falta-sofrida :fs="props.fs"></falta-sofrida>
-                    <roubada-bola :rb="props.rb"></roubada-bola>
+                    <gol :g="props.g" show-multiplier show-total></gol>
+                    <assistencia :a="props.a" show-multiplier show-total></assistencia>
+                    <finalizacao-fora :ff="props.ff" show-multiplier show-total></finalizacao-fora>
+                    <finalizacao-defendida :fd="props.fd" show-multiplier show-total></finalizacao-defendida>
+                    <falta-sofrida :fs="props.fs" show-multiplier show-total></falta-sofrida>
+                    <desarme :ds="props.ds" show-multiplier show-total></desarme>
                 </b-col>
-                <b-col cols="5" offset="1">
+                <b-col cols="12" md="5" offset-md="1" class="mt-3 mt-md-0">
                     <div class="lead">Negativos</div>
-                    <passe-errado :pe="props.pe"></passe-errado>
-                    <falta-cometida :fc="props.fc"></falta-cometida>
-                    <cartao-amarelo :ca="props.ca"></cartao-amarelo>
-                    <cartao-vermelho :cv="props.cv"></cartao-vermelho>
-                    <impedimento :i="props.i"></impedimento>
-                    <penalti-perdido :pp="props.pp"></penalti-perdido>
-                    <gol-contra :gc="props.gc"></gol-contra>
+                    <passe-incompleto :pi="props.pi" show-multiplier show-total></passe-incompleto>
+                    <falta-cometida :fc="props.fc" show-multiplier show-total></falta-cometida>
+                    <cartao-amarelo :ca="props.ca" show-multiplier show-total></cartao-amarelo>
+                    <cartao-vermelho :cv="props.cv" show-multiplier show-total></cartao-vermelho>
+                    <impedimento :i="props.i" show-multiplier show-total></impedimento>
+                    <penalti-perdido :pp="props.pp" show-multiplier show-total></penalti-perdido>
+                    <gol-contra :gc="props.gc" show-multiplier show-total></gol-contra>
                 </b-col>
             </b-row>
         </div>
@@ -74,11 +74,11 @@ export default {
             type: Number,
             required: true
         },
-        pe: {
+        pi: {
             type: Number,
             required: true
         },
-        rb: {
+        ds: {
             type: Number,
             required: true
         },

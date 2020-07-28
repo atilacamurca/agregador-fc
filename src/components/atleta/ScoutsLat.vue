@@ -3,23 +3,23 @@
         <h4>Scouts em {{ props.jogos_num }} jogos</h4>
         <div class="p-3">
             <b-row>
-                <b-col cols="5">
+                <b-col cols="12" md="5">
                     <div class="lead">Positivos</div>
-                    <saldo-gol :sg="props.sg"></saldo-gol>
-                    <roubada-bola :rb="props.rb"></roubada-bola>
-                    <gol :g="props.g"></gol>
-                    <assistencia :a="props.a"></assistencia>
-                    <falta-sofrida :fs="props.fs"></falta-sofrida>
-                    <finalizacao-fora :ff="props.ff"></finalizacao-fora>
-                    <finalizacao-defendida :fd="props.fd"></finalizacao-defendida>
+                    <saldo-gol :sg="props.sg" show-multiplier show-total></saldo-gol>
+                    <desarme :ds="props.ds" show-multiplier show-total></desarme>
+                    <gol :g="props.g" show-multiplier show-total></gol>
+                    <assistencia :a="props.a" show-multiplier show-total></assistencia>
+                    <falta-sofrida :fs="2" show-multiplier show-total></falta-sofrida>
+                    <finalizacao-fora :ff="2" show-multiplier show-total></finalizacao-fora>
+                    <finalizacao-defendida :fd="props.fd" show-multiplier show-total></finalizacao-defendida>
                 </b-col>
-                <b-col cols="5" offset="1">
+                <b-col cols="12" md="5" offset-md="1" class="mt-3 mt-md-0">
                     <div class="lead">Negativos</div>
-                    <passe-errado :pe="props.pe"></passe-errado>
-                    <gol-contra :gc="props.gc"></gol-contra>
-                    <falta-cometida :fc="props.fc"></falta-cometida>
-                    <cartao-amarelo :ca="props.ca"></cartao-amarelo>
-                    <cartao-vermelho :cv="props.cv"></cartao-vermelho>
+                    <passe-incompleto :pi="props.pi" show-multiplier show-total></passe-incompleto>
+                    <gol-contra :gc="props.gc" show-multiplier show-total></gol-contra>
+                    <falta-cometida :fc="props.fc" show-multiplier show-total></falta-cometida>
+                    <cartao-amarelo :ca="props.ca" show-multiplier show-total></cartao-amarelo>
+                    <cartao-vermelho :cv="props.cv" show-multiplier show-total></cartao-vermelho>
                 </b-col>
             </b-row>
         </div>
@@ -29,7 +29,7 @@
 <script>
 export default {
     props: {
-        rb: {
+        ds: {
             type: Number,
             required: true
         },
@@ -45,7 +45,7 @@ export default {
             type: Number,
             required: true
         },
-        pe: {
+        pi: {
             type: Number,
             required: true
         },

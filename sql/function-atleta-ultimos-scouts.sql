@@ -1,12 +1,14 @@
-﻿-- DROP FUNCTION public.atleta_ultimos_scouts(integer, integer);
+﻿DROP FUNCTION public.atleta_ultimos_scouts(integer, integer);
 
-CREATE OR REPLACE FUNCTION atleta_ultimos_scouts(_ano integer, _atleta_id integer)
-RETURNS json AS
-$$
+CREATE OR REPLACE FUNCTION public.atleta_ultimos_scouts(
+    _ano integer,
+    _atleta_id integer)
+  RETURNS json AS
+$BODY$
     SELECT row_to_json(t) AS json FROM (
         SELECT rodada_id, rb, g, a, sg, fs, ff, fd,
 			ft, dd, dp, gc, cv, ca,
-			pp, gs, fc, i, pe,
+			pp, gs, fc, i, pe, ds, "pi",
 			pontos_num, preco_num,
 			variacao_num, media_num, jogos_num,
 			abreviacao AS posicao_abrev,
@@ -19,4 +21,8 @@ $$
 		ORDER BY rodada_id DESC
 		LIMIT 1
     ) t
-$$ LANGUAGE sql;
+$BODY$
+  LANGUAGE sql VOLATILE
+  COST 100;
+ALTER FUNCTION public.atleta_ultimos_scouts(integer, integer)
+  OWNER TO postgres;
