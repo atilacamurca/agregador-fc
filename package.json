@@ -7,7 +7,7 @@
     "data:import": "./import/import.sh",
     "data:export": "./export/export.sh",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist",
+    "deploy": "netlify deploy --dir=dist --prod",
     "build": "gridsome build",
     "explore": "gridsome explore",
     "webdash": "webdash serve"
@@ -37,6 +37,7 @@
     "gh-pages": "^2.0.1",
     "lodash.pick": "^4.4.0",
     "mkdirp": "^0.5.1",
+    "netlify-cli": "^2.58.0",
     "node-sass": "^4.12.0",
     "pg": "^7.10.0",
     "sass-loader": "^7.1.0",

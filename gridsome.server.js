@@ -6,7 +6,7 @@
 // To restart press CTRL + C in terminal and run `gridsome develop`
 const _pick = require('lodash.pick')
 const _find = require('lodash.find')
-const CURRENT_YEAR = new Date().getFullYear()
+const CURRENT_YEAR = process.env.GRIDSOME_TEMPORADA
 const RODADA_ATUAL_ID = process.env.RODADA_ATUAL_ID
 
 const rodadaAtual = require(`./rodada/${CURRENT_YEAR}/${RODADA_ATUAL_ID}.json`)

@@ -9,8 +9,8 @@ const BundleAnalyzerPlugin = require('webpack-bundle-analyzer')
 
 module.exports = {
   siteName: 'Agregador FC',
-  siteUrl: 'https://atilacamurca.github.io',
-  pathPrefix: '/agregador-fc',
+  siteUrl: 'https://agregador-fc-2019.netlify.app',
+  // pathPrefix: '/agregador-fc',
   siteDescription: 'Agregador FC é um site para te ajudar a decidir seu time para o Cartola FC.',
   plugins: [
     {

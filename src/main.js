@@ -11,7 +11,7 @@ import '~/assets/styles.scss'
 const dateOptions = { addSuffix: true, locale }
 
 export default function (Vue, { router, head, isClient }) {
-    Vue.prototype.$year = new Date().getFullYear()
+    Vue.prototype.$year = process.env.GRIDSOME_TEMPORADA
 
     head.meta.push({
         name: 'robots',
