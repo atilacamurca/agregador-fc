@@ -11,15 +11,18 @@
                 </b-container>
             </div>
         </transition>
+        <main-footer></main-footer>
     </div>
 </template>
 
 <script>
 import MainNavHero from '~/components/MainNavHero'
+import MainFooter from '~/components/MainFooter'
 
 export default {
     components: {
-        MainNavHero
+        MainNavHero,
+        MainFooter
     }
 }
 </script>
