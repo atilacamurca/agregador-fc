@@ -25,6 +25,7 @@ import RowAcimaMedia from '~/components/melhores/RowAcimaMedia'
 import RowRadarRodada from '~/components/melhores/RowRadarRodada'
 import VariacaoNum from '~/components/atleta/VariacaoNum'
 import DadosAtleta from '~/components/atleta/DadosAtleta'
+import BadgePreco from '~/components/atleta/BadgePreco'
 import ScoutsAta from '~/components/atleta/ScoutsAta'
 import ScoutsGol from '~/components/atleta/ScoutsGol'
 import ScoutsLat from '~/components/atleta/ScoutsLat'
@@ -44,8 +45,8 @@ import SumarioEstatisticas from '~/components/SumarioEstatisticas'
 import SumarioClubes from '~/components/SumarioClubes'
 import SumarioPartida from '~/components/SumarioPartida'
 import RowSumarioGols from '~/components/RowSumarioGols'
-import TwitterButton from "~/components/social-media/TwitterButton";
-import FacebookButton from "~/components/social-media/FacebookButton";
+import TwitterButton from "~/components/social-media/TwitterButton"
+import FacebookButton from "~/components/social-media/FacebookButton"
 
 export default {
     install (Vue) {
@@ -94,6 +95,7 @@ export default {
         Vue.component('row-radar-rodada', RowRadarRodada)
         Vue.component('variacao-num', VariacaoNum)
         Vue.component('dados-atleta', DadosAtleta)
+        Vue.component('badge-preco', BadgePreco)
         Vue.component('scouts-ata', ScoutsAta)
         Vue.component('scouts-gol', ScoutsGol)
         Vue.component('scouts-lat', ScoutsLat)

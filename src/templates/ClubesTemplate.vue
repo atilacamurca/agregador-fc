@@ -43,6 +43,7 @@
                                         :key="item.id"
                                         :href="$url(urlPontuacao()(item.id))">
                                         <div class="d-flex justify-content-between">
+                                            <badge-preco :preco_num="item.preco_num" left-pos="wide"></badge-preco>
                                             <div class="d-flex flex-column align-items-center"
                                                 style="width: 120px">
                                                 <div>
