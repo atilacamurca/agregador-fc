@@ -6,15 +6,18 @@
                 <slot></slot>
             </b-container>
         </transition>
+        <main-footer></main-footer>
     </div>
 </template>
 
 <script>
 import MainNav from '~/components/MainNav'
+import MainFooter from '~/components/MainFooter'
 
 export default {
     components: {
-        MainNav
+        MainNav,
+        MainFooter
     }
 }
 </script>
@@ -22,7 +25,6 @@ export default {
 <style scoped>
 .app {
     padding-top: 80px;
-    padding-bottom: 80px;
     font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
     background: #087ee1;
     background: linear-gradient(315deg, #05e8ba 0%, #087ee1 74%) fixed;
