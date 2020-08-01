@@ -1,6 +1,6 @@
 <template functional>
     <div :class="data.staticClass || ''">
-        <span class="badge-preco bg-danger text-center">$ {{ props.preco_num }}</span>
+        <badge-preco :preco_num="props.preco_num"></badge-preco>
         <div class="d-flex flex-column align-items-center">
             <div>
                 <a :href="parent.$url(props.urlPontuacao)">
@@ -80,25 +80,3 @@ export default {
     }
 }
 </script>
-
-<style scoped>
-.badge-preco {
-    top: .75rem;
-    left: 1.5rem;
-    position: absolute;
-    display: block;
-    z-index: 10;
-    padding: 2px 7px;
-    font-size: 12px;
-    color: #fff;
-    font-weight: bold;
-    border-radius: 4px;
-    min-width: 48px;
-}
-@media (min-width: 992px) {
-    .badge-preco {
-        top: .75rem;
-        left: 1.75rem;
-    }
-}
-</style>
