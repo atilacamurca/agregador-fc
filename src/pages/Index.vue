@@ -41,7 +41,7 @@
                             :key="item.node.rodada"
                             :href="$url(item.node.path)"
                             class="flex-column align-items-start">
-                            <div class="d-flex w-100 justify-content-between">
+                            <div class="d-flex w-100 justify-content-between align-items-center">
                                 <h5 class="mb-1">Rodada {{ item.node.rodada }}</h5>
                                 <small>{{ item.node.inicio_rodada | fromNow }}</small>
                             </div>

@@ -3,13 +3,13 @@
         v-b-tooltip.hover.left="props.tooltip">
         <div>
             <span>{{ props.label }}</span>
-            <span v-if="props.showMultiplier">
-                &times;{{ props.multiplier }}
-            </span>
         </div>
         <div>
             <b-badge :variant="props.variant" class="ml-2">
                 {{ props.scout }}
+            </b-badge>
+            <b-badge v-if="props.showMultiplier" class="ml-2">
+                &times;{{ props.multiplier | intlNumberFormat }}
             </b-badge>
             <b-badge v-if="props.showTotal" variant="dark" class="ml-2">
                 &equals; {{ (props.scout * props.multiplier) | intlNumberFormat }}
