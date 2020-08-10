@@ -153,7 +153,7 @@
             <b-card class="mt-2 mt-md-0 w-100">
               <b-card-title><em>Ah, ladrão!</em></b-card-title>
               <b-card-text>
-                25 melhores nas Roubadas de bola com poucas faltas
+                25 melhores nos Desarmes com poucas faltasRoubadas de bola
               </b-card-text>
               <div slot="footer">
                 <g-link

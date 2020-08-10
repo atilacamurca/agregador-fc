@@ -20,9 +20,9 @@
         </b-col>
         <b-col cols="6" md="3" class="d-flex flex-column justify-content-center">
             <div class="lead">
-                <g-link :to="props.urlPontuacao" class="text-primary">
+                <a :to="props.urlPontuacao" class="text-primary">
                     {{ props.apelido }}
-                </g-link>
+                </a>
             </div>
             <div>{{ props.posicao }} do {{ props.clube }}</div>
         </b-col>
@@ -31,8 +31,8 @@
             <div class="d-flex flex-row justify-content-md-around">
                 <div class="d-flex flex-wrap align-content-around justify-content-end">
                     <div class="d-flex flex-column align-items-end">
-                        <roubada-bola :rb="props.rb"></roubada-bola>
-                        <div>P <b-badge>{{ props.tot_rb }}</b-badge></div>
+                        <desarme :ds="props.ds"></desarme>
+                        <div>P <b-badge>{{ props.tot_ds }}</b-badge></div>
                     </div>
                     <div class="d-flex flex-column align-items-end">
                         <falta-cometida :fc="props.fc"></falta-cometida>
@@ -93,7 +93,7 @@ export default {
             type: String,
             required: true
         },
-        rb: {
+        ds: {
             type: Number,
             required: true
         },
@@ -105,7 +105,7 @@ export default {
             type: Number,
             required: true
         },
-        tot_rb: {
+        tot_ds: {
             type: Number,
             required: true
         },

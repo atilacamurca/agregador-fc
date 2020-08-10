@@ -17,13 +17,13 @@ const SQL = `
         apelido,
         p.nome as posicao,
         p.abreviacao as posicao_abrev,
-        rb,
+        ds,
         fc,
         ca,
         ca * -2 AS tot_ca,
-        rb * 1.5 AS tot_rb,
+        ds AS tot_ds,
         fc * -0.5 AS tot_fc,
-        (rb * 1.5) + (fc * -0.5) + (ca * -2) AS tot_pontuacao,
+        ds + (fc * -0.5) + (ca * -2) AS tot_pontuacao,
         c.nome_fantasia AS clube,
         a.foto,
         c.escudo_60 as escudo,
@@ -37,7 +37,7 @@ const SQL = `
     INNER JOIN posicoes p ON a.posicao_id = p.id
     WHERE rodada_id = $1 - 1 -- rodada anterior
     AND ano = $2
-    ORDER BY (rb * 1.5) + (fc * -0.5) + (ca * -2) DESC
+    ORDER BY ds + (fc * -0.5) + (ca * -2) DESC
     LIMIT 25
 `
 

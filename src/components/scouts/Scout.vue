@@ -4,7 +4,7 @@
         <div>
             <span>{{ props.label }}</span>
             <span v-if="props.showMultiplier">
-                &times; {{ props.multiplier }}
+                &times;{{ props.multiplier }}
             </span>
         </div>
         <div>

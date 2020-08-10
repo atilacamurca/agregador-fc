@@ -4,7 +4,7 @@
             <b-col cols="12">
                 <h3 class="mb-2"><em>Ah, ladrão!</em> - Rodada {{ $page.scouts.rodada }}</h3>
                 <p class="lead mb-4">
-                    Jogadores com muitas roubadas de bola e poucas
+                    Jogadores com muitos desarmes e poucas
                     faltas cometidas ou cartões amarelos.
                 </p>
             </b-col>
@@ -30,7 +30,7 @@
         <b-row>
             <b-col>
                 <p class="mt-4 text-muted">
-                    A Pontuação total é calculada como o somatório das roubadas de bola,
+                    A Pontuação total é calculada como o somatório dos desarmes,
                     faltas cometidas e cartões amarelos.
                 </p>
             </b-col>
@@ -50,10 +50,10 @@ query($path: String!) {
       escudo
       clube
       foto
-      rb
+      ds
       fc
       ca
-      tot_rb
+      tot_ds
       tot_fc
       tot_ca
       tot_pontuacao
