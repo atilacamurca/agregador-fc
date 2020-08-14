@@ -6,19 +6,24 @@
   "clube_id": 276,
   "posicao": "Meia",
   "rodadas": [
-    1
+    1,
+    2
   ],
   "pontos": [
-    0
+    0,
+    0.5
   ],
   "precos": [
-    3
+    3,
+    2.44
   ],
   "variacoes": [
-    0
+    0,
+    -0.56
   ],
   "medias": [
-    0
+    0,
+    0.5
   ],
   "partidas": [
     {
@@ -33,12 +38,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/sao_paulo_60x60.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 2,
+      "clube_casa": "São Paulo",
+      "clube_casa_id": 276,
+      "clube_visitante": "Fortaleza",
+      "clube_casa_abrev": "SAO",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/sao_paulo_60x60.png",
+      "clube_visitante_id": 356,
+      "clube_visitante_abrev": "FOR",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/06/10/fortaleza-ec-65px.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2020/03/09/322b799218aef5659e98620f3364e767_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/sao_paulo_60x60.png",
   "scouts": {
-    "rodada_id": 1,
+    "rodada_id": 2,
     "rb": 0,
     "g": 0,
     "a": 0,
@@ -55,15 +73,15 @@
     "pp": 0,
     "gs": 0,
     "fc": 0,
-    "i": 0,
+    "i": 1,
     "pe": 0,
-    "ds": 0,
+    "ds": 1,
     "pi": 0,
-    "pontos_num": 0,
-    "preco_num": 3,
-    "variacao_num": 0,
-    "media_num": 0,
-    "jogos_num": 0,
+    "pontos_num": 0.5,
+    "preco_num": 2.44,
+    "variacao_num": -0.56,
+    "media_num": 0.5,
+    "jogos_num": 1,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }

@@ -6,19 +6,24 @@
   "clube_id": 354,
   "posicao": "Atacante",
   "rodadas": [
-    1
+    1,
+    2
   ],
   "pontos": [
-    0
+    0,
+    6.6
   ],
   "precos": [
-    5
+    5,
+    6.62
   ],
   "variacoes": [
-    0
+    0,
+    1.62
   ],
   "medias": [
-    0
+    0,
+    6.6
   ],
   "partidas": [
     {
@@ -33,37 +38,50 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/10/10/ceara-65x65.png",
       "placar_oficial_mandante": 3,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 2,
+      "clube_casa": "Ceará",
+      "clube_casa_id": 354,
+      "clube_visitante": "Grêmio",
+      "clube_casa_abrev": "CEA",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/10/10/ceara-65x65.png",
+      "clube_visitante_id": 284,
+      "clube_visitante_abrev": "GRE",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/gremio_60x60.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2019/05/30/7d4922940f5a9f9151b4ed1421f520e9_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2019/10/10/ceara-65x65.png",
   "scouts": {
-    "rodada_id": 1,
+    "rodada_id": 2,
     "rb": 0,
     "g": 0,
-    "a": 0,
+    "a": 1,
     "sg": 0,
-    "fs": 0,
+    "fs": 2,
     "ff": 0,
-    "fd": 0,
+    "fd": 1,
     "ft": 0,
     "dd": 0,
     "dp": 0,
     "gc": 0,
     "cv": 0,
-    "ca": 0,
+    "ca": 1,
     "pp": 0,
     "gs": 0,
     "fc": 0,
     "i": 0,
     "pe": 0,
-    "ds": 0,
-    "pi": 0,
-    "pontos_num": 0,
-    "preco_num": 5,
-    "variacao_num": 0,
-    "media_num": 0,
-    "jogos_num": 0,
+    "ds": 2,
+    "pi": 6,
+    "pontos_num": 6.6,
+    "preco_num": 6.62,
+    "variacao_num": 1.62,
+    "media_num": 6.6,
+    "jogos_num": 1,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }

@@ -6,19 +6,24 @@
   "clube_id": 264,
   "posicao": "Atacante",
   "rodadas": [
-    1
+    1,
+    2
   ],
   "pontos": [
-    0
+    0,
+    1
   ],
   "precos": [
-    5
+    5,
+    4.14
   ],
   "variacoes": [
-    0
+    0,
+    -0.86
   ],
   "medias": [
-    0
+    0,
+    1
   ],
   "partidas": [
     {
@@ -33,17 +38,30 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2020/07/02/atletico-go-2020-65.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 2,
+      "clube_casa": "Atlético-MG",
+      "clube_casa_id": 282,
+      "clube_visitante": "Corinthians",
+      "clube_casa_abrev": "ATL",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2017/11/23/Atletico-Mineiro-escudo65px.png",
+      "clube_visitante_id": 264,
+      "clube_visitante_abrev": "COR",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/30/Corinthians_65.png",
+      "placar_oficial_mandante": 3,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2020/07/21/285889a336b77373cedb439f9d9c218c_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/30/Corinthians_65.png",
   "scouts": {
-    "rodada_id": 1,
+    "rodada_id": 2,
     "rb": 0,
     "g": 0,
     "a": 0,
     "sg": 0,
-    "fs": 0,
+    "fs": 1,
     "ff": 0,
     "fd": 0,
     "ft": 0,
@@ -54,16 +72,16 @@
     "ca": 0,
     "pp": 0,
     "gs": 0,
-    "fc": 0,
+    "fc": 1,
     "i": 0,
     "pe": 0,
-    "ds": 0,
+    "ds": 1,
     "pi": 0,
-    "pontos_num": 0,
-    "preco_num": 5,
-    "variacao_num": 0,
-    "media_num": 0,
-    "jogos_num": 0,
+    "pontos_num": 1,
+    "preco_num": 4.14,
+    "variacao_num": -0.86,
+    "media_num": 1,
+    "jogos_num": 1,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }

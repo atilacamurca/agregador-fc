@@ -6,19 +6,24 @@
   "clube_id": 284,
   "posicao": "Zagueiro",
   "rodadas": [
-    1
+    1,
+    2
   ],
   "pontos": [
-    4.9
+    4.9,
+    3.9
   ],
   "precos": [
-    7.18
+    7.18,
+    8.49
   ],
   "variacoes": [
-    2.18
+    2.18,
+    1.31
   ],
   "medias": [
-    4.9
+    4.9,
+    4.4
   ],
   "partidas": [
     {
@@ -33,18 +38,31 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/fluminense_60x60.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 2,
+      "clube_casa": "Ceará",
+      "clube_casa_id": 354,
+      "clube_visitante": "Grêmio",
+      "clube_casa_abrev": "CEA",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/10/10/ceara-65x65.png",
+      "clube_visitante_id": 284,
+      "clube_visitante_abrev": "GRE",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/gremio_60x60.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2019/07/24/865c7c09e556e0fb58885e80a6591081_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/gremio_60x60.png",
   "scouts": {
-    "rodada_id": 1,
+    "rodada_id": 2,
     "rb": 0,
     "g": 0,
     "a": 0,
     "sg": 1,
-    "fs": 0,
-    "ff": 0,
+    "fs": 1,
+    "ff": 1,
     "fd": 0,
     "ft": 0,
     "dd": 0,
@@ -57,13 +75,13 @@
     "fc": 0,
     "i": 0,
     "pe": 0,
-    "ds": 0,
-    "pi": 1,
-    "pontos_num": 4.9,
-    "preco_num": 7.18,
-    "variacao_num": 2.18,
-    "media_num": 4.9,
-    "jogos_num": 1,
+    "ds": 3,
+    "pi": 5,
+    "pontos_num": 3.9,
+    "preco_num": 8.49,
+    "variacao_num": 1.31,
+    "media_num": 4.4,
+    "jogos_num": 2,
     "posicao_abrev": "zag",
     "posicao": "Zagueiro"
   }

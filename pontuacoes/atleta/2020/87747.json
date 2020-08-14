@@ -6,19 +6,24 @@
   "clube_id": 266,
   "posicao": "Meia",
   "rodadas": [
-    1
+    1,
+    2
   ],
   "pontos": [
-    0.5
+    0.5,
+    -0.7
   ],
   "precos": [
-    4.71
+    4.71,
+    3.32
   ],
   "variacoes": [
-    -1.29
+    -1.29,
+    -1.39
   ],
   "medias": [
-    0.5
+    0.5,
+    -0.1
   ],
   "partidas": [
     {
@@ -33,12 +38,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/fluminense_60x60.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 2,
+      "clube_casa": "Fluminense",
+      "clube_casa_id": 266,
+      "clube_visitante": "Palmeiras",
+      "clube_casa_abrev": "FLU",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/fluminense_60x60.png",
+      "clube_visitante_id": 275,
+      "clube_visitante_abrev": "PAL",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2020/08/11/547c3364c22efd6f4b6928ed120d64b9_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/fluminense_60x60.png",
   "scouts": {
-    "rodada_id": 1,
+    "rodada_id": 2,
     "rb": 0,
     "g": 0,
     "a": 0,
@@ -54,16 +72,16 @@
     "ca": 0,
     "pp": 0,
     "gs": 0,
-    "fc": 2,
+    "fc": 5,
     "i": 0,
     "pe": 0,
-    "ds": 0,
-    "pi": 8,
-    "pontos_num": 0.5,
-    "preco_num": 4.71,
-    "variacao_num": -1.29,
-    "media_num": 0.5,
-    "jogos_num": 1,
+    "ds": 1,
+    "pi": 10,
+    "pontos_num": -0.7,
+    "preco_num": 3.32,
+    "variacao_num": -1.39,
+    "media_num": -0.1,
+    "jogos_num": 2,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }

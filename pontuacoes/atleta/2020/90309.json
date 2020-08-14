@@ -6,19 +6,24 @@
   "clube_id": 356,
   "posicao": "Atacante",
   "rodadas": [
-    1
+    1,
+    2
   ],
   "pontos": [
-    0.2
+    0.2,
+    0.6
   ],
   "precos": [
-    3.77
+    3.77,
+    3.11
   ],
   "variacoes": [
-    -1.23
+    -1.23,
+    -0.66
   ],
   "medias": [
-    0.2
+    0.2,
+    0.4
   ],
   "partidas": [
     {
@@ -33,17 +38,30 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/09/Athletico-PR-65x65.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 2,
+      "clube_casa": "São Paulo",
+      "clube_casa_id": 276,
+      "clube_visitante": "Fortaleza",
+      "clube_casa_abrev": "SAO",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/sao_paulo_60x60.png",
+      "clube_visitante_id": 356,
+      "clube_visitante_abrev": "FOR",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/06/10/fortaleza-ec-65px.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2020/03/06/c5ae2181227b8ce1cfaa3ff33c7d8ac0_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2018/06/10/fortaleza-ec-65px.png",
   "scouts": {
-    "rodada_id": 1,
+    "rodada_id": 2,
     "rb": 0,
     "g": 0,
     "a": 0,
     "sg": 0,
-    "fs": 0,
+    "fs": 1,
     "ff": 1,
     "fd": 0,
     "ft": 0,
@@ -54,16 +72,16 @@
     "ca": 0,
     "pp": 0,
     "gs": 0,
-    "fc": 2,
+    "fc": 7,
     "i": 1,
     "pe": 0,
-    "ds": 1,
-    "pi": 1,
-    "pontos_num": 0.2,
-    "preco_num": 3.77,
-    "variacao_num": -1.23,
-    "media_num": 0.2,
-    "jogos_num": 1,
+    "ds": 4,
+    "pi": 5,
+    "pontos_num": 0.6,
+    "preco_num": 3.11,
+    "variacao_num": -0.66,
+    "media_num": 0.4,
+    "jogos_num": 2,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }

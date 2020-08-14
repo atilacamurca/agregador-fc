@@ -6,18 +6,23 @@
   "clube_id": 294,
   "posicao": "Meia",
   "rodadas": [
-    1
+    1,
+    2
   ],
   "pontos": [
-    0.7
+    0.7,
+    0
   ],
   "precos": [
+    1.23,
     1.23
   ],
   "variacoes": [
-    0.23
+    0.23,
+    0
   ],
   "medias": [
+    0.7,
     0.7
   ],
   "partidas": [
@@ -33,12 +38,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/03/inter65.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 2,
+      "clube_casa": "Bahia",
+      "clube_casa_id": 265,
+      "clube_visitante": "Coritiba",
+      "clube_casa_abrev": "BAH",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/bahia_60x60.png",
+      "clube_visitante_id": 294,
+      "clube_visitante_abrev": "COR",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2017/03/29/coritiba65.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2020/03/03/a159f5ccd62c81f4ada32db91977a6be_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2017/03/29/coritiba65.png",
   "scouts": {
-    "rodada_id": 1,
+    "rodada_id": 2,
     "rb": 0,
     "g": 0,
     "a": 0,
@@ -59,9 +77,9 @@
     "pe": 0,
     "ds": 0,
     "pi": 1,
-    "pontos_num": 0.7,
+    "pontos_num": 0,
     "preco_num": 1.23,
-    "variacao_num": 0.23,
+    "variacao_num": 0,
     "media_num": 0.7,
     "jogos_num": 1,
     "posicao_abrev": "mei",

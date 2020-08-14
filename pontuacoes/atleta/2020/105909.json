@@ -6,19 +6,24 @@
   "clube_id": 293,
   "posicao": "Atacante",
   "rodadas": [
-    1
+    1,
+    2
   ],
   "pontos": [
-    8.6
+    8.6,
+    -0.2
   ],
   "precos": [
-    7.68
+    7.68,
+    8.13
   ],
   "variacoes": [
-    5.68
+    5.68,
+    0.45
   ],
   "medias": [
-    8.6
+    8.6,
+    4.2
   ],
   "partidas": [
     {
@@ -33,17 +38,30 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/09/Athletico-PR-65x65.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 2,
+      "clube_casa": "Athlético-PR",
+      "clube_casa_id": 293,
+      "clube_visitante": "Goiás",
+      "clube_casa_abrev": "ATL",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/09/Athletico-PR-65x65.png",
+      "clube_visitante_id": 290,
+      "clube_visitante_abrev": "GOI",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/05/01/Goias_65px.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2019/07/19/72e2c4c729775230ecaf6dc50d64db45_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/09/Athletico-PR-65x65.png",
   "scouts": {
-    "rodada_id": 1,
+    "rodada_id": 2,
     "rb": 0,
     "g": 0,
     "a": 1,
     "sg": 0,
-    "fs": 2,
+    "fs": 4,
     "ff": 0,
     "fd": 0,
     "ft": 0,
@@ -54,16 +72,16 @@
     "ca": 0,
     "pp": 0,
     "gs": 0,
-    "fc": 0,
-    "i": 0,
+    "fc": 1,
+    "i": 1,
     "pe": 0,
     "ds": 3,
-    "pi": 4,
-    "pontos_num": 8.6,
-    "preco_num": 7.68,
-    "variacao_num": 5.68,
-    "media_num": 8.6,
-    "jogos_num": 1,
+    "pi": 6,
+    "pontos_num": -0.2,
+    "preco_num": 8.13,
+    "variacao_num": 0.45,
+    "media_num": 4.2,
+    "jogos_num": 2,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }

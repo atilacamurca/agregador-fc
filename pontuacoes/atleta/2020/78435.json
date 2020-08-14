@@ -6,19 +6,24 @@
   "clube_id": 262,
   "posicao": "Atacante",
   "rodadas": [
-    1
+    1,
+    2
   ],
   "pontos": [
-    3.3
+    3.3,
+    -0.9
   ],
   "precos": [
-    8.91
+    8.91,
+    7.16
   ],
   "variacoes": [
-    -0.09
+    -0.09,
+    -1.75
   ],
   "medias": [
-    3.3
+    3.3,
+    1.2
   ],
   "partidas": [
     {
@@ -33,12 +38,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2017/11/23/Atletico-Mineiro-escudo65px.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 2,
+      "clube_casa": "Atlético-GO",
+      "clube_casa_id": 373,
+      "clube_visitante": "Flamengo",
+      "clube_casa_abrev": "ATL",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2020/07/02/atletico-go-2020-65.png",
+      "clube_visitante_id": 262,
+      "clube_visitante_abrev": "FLA",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/04/09/Flamengo-65.png",
+      "placar_oficial_mandante": 3,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2020/07/21/01b5e26f1af011bdac8d661b9dd04e59_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2018/04/09/Flamengo-65.png",
   "scouts": {
-    "rodada_id": 1,
+    "rodada_id": 2,
     "rb": 0,
     "g": 0,
     "a": 0,
@@ -54,16 +72,16 @@
     "ca": 0,
     "pp": 0,
     "gs": 0,
-    "fc": 0,
+    "fc": 2,
     "i": 0,
     "pe": 0,
-    "ds": 1,
-    "pi": 3,
-    "pontos_num": 3.3,
-    "preco_num": 8.91,
-    "variacao_num": -0.09,
-    "media_num": 3.3,
-    "jogos_num": 1,
+    "ds": 2,
+    "pi": 12,
+    "pontos_num": -0.9,
+    "preco_num": 7.16,
+    "variacao_num": -1.75,
+    "media_num": 1.2,
+    "jogos_num": 2,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }

@@ -6,19 +6,24 @@
   "clube_id": 276,
   "posicao": "Goleiro",
   "rodadas": [
-    1
+    1,
+    2
   ],
   "pontos": [
-    0
+    0,
+    12.2
   ],
   "precos": [
-    14
+    14,
+    15.76
   ],
   "variacoes": [
-    0
+    0,
+    1.76
   ],
   "medias": [
-    0
+    0,
+    12.2
   ],
   "partidas": [
     {
@@ -33,21 +38,34 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/sao_paulo_60x60.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 2,
+      "clube_casa": "São Paulo",
+      "clube_casa_id": 276,
+      "clube_visitante": "Fortaleza",
+      "clube_casa_abrev": "SAO",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/sao_paulo_60x60.png",
+      "clube_visitante_id": 356,
+      "clube_visitante_abrev": "FOR",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/06/10/fortaleza-ec-65px.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2019/04/01/2738a4ae33bd55ff85ec0117ecf79063_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/sao_paulo_60x60.png",
   "scouts": {
-    "rodada_id": 1,
+    "rodada_id": 2,
     "rb": 0,
     "g": 0,
     "a": 0,
-    "sg": 0,
+    "sg": 1,
     "fs": 0,
     "ff": 0,
     "fd": 0,
     "ft": 0,
-    "dd": 0,
+    "dd": 2,
     "dp": 0,
     "gc": 0,
     "cv": 0,
@@ -58,12 +76,12 @@
     "i": 0,
     "pe": 0,
     "ds": 0,
-    "pi": 0,
-    "pontos_num": 0,
-    "preco_num": 14,
-    "variacao_num": 0,
-    "media_num": 0,
-    "jogos_num": 0,
+    "pi": 8,
+    "pontos_num": 12.2,
+    "preco_num": 15.76,
+    "variacao_num": 1.76,
+    "media_num": 12.2,
+    "jogos_num": 1,
     "posicao_abrev": "gol",
     "posicao": "Goleiro"
   }

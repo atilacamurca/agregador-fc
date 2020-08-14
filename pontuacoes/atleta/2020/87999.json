@@ -6,19 +6,24 @@
   "clube_id": 275,
   "posicao": "Meia",
   "rodadas": [
-    1
+    1,
+    2
   ],
   "pontos": [
-    0
+    0,
+    -1.1
   ],
   "precos": [
-    10
+    10,
+    6.91
   ],
   "variacoes": [
-    0
+    0,
+    -3.09
   ],
   "medias": [
-    0
+    0,
+    -1.1
   ],
   "partidas": [
     {
@@ -33,37 +38,50 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/07/29/Vasco-65.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 2,
+      "clube_casa": "Fluminense",
+      "clube_casa_id": 266,
+      "clube_visitante": "Palmeiras",
+      "clube_casa_abrev": "FLU",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/fluminense_60x60.png",
+      "clube_visitante_id": 275,
+      "clube_visitante_abrev": "PAL",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2019/10/03/47c21ed885c76c65fecede59c0ecf1e0_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
   "scouts": {
-    "rodada_id": 1,
+    "rodada_id": 2,
     "rb": 0,
     "g": 0,
     "a": 0,
     "sg": 0,
     "fs": 0,
-    "ff": 0,
+    "ff": 1,
     "fd": 0,
     "ft": 0,
     "dd": 0,
     "dp": 0,
     "gc": 0,
     "cv": 0,
-    "ca": 0,
+    "ca": 1,
     "pp": 0,
     "gs": 0,
-    "fc": 0,
+    "fc": 1,
     "i": 0,
     "pe": 0,
-    "ds": 0,
-    "pi": 0,
-    "pontos_num": 0,
-    "preco_num": 10,
-    "variacao_num": 0,
-    "media_num": 0,
-    "jogos_num": 0,
+    "ds": 1,
+    "pi": 4,
+    "pontos_num": -1.1,
+    "preco_num": 6.91,
+    "variacao_num": -3.09,
+    "media_num": -1.1,
+    "jogos_num": 1,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }

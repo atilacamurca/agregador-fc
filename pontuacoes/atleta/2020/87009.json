@@ -6,19 +6,24 @@
   "clube_id": 282,
   "posicao": "Meia",
   "rodadas": [
-    1
+    1,
+    2
   ],
   "pontos": [
-    3.2
+    3.2,
+    10.2
   ],
   "precos": [
-    7.39
+    7.39,
+    10.94
   ],
   "variacoes": [
-    0.39
+    0.39,
+    3.55
   ],
   "medias": [
-    3.2
+    3.2,
+    6.7
   ],
   "partidas": [
     {
@@ -33,19 +38,32 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2017/11/23/Atletico-Mineiro-escudo65px.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 2,
+      "clube_casa": "Atlético-MG",
+      "clube_casa_id": 282,
+      "clube_visitante": "Corinthians",
+      "clube_casa_abrev": "ATL",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2017/11/23/Atletico-Mineiro-escudo65px.png",
+      "clube_visitante_id": 264,
+      "clube_visitante_abrev": "COR",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/30/Corinthians_65.png",
+      "placar_oficial_mandante": 3,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2018/07/25/2ebd70cae4e549a49e708c60abbee23a_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2017/11/23/Atletico-Mineiro-escudo65px.png",
   "scouts": {
-    "rodada_id": 1,
+    "rodada_id": 2,
     "rb": 0,
-    "g": 0,
+    "g": 1,
     "a": 0,
     "sg": 0,
     "fs": 0,
-    "ff": 0,
-    "fd": 0,
+    "ff": 1,
+    "fd": 1,
     "ft": 0,
     "dd": 0,
     "dp": 0,
@@ -55,15 +73,15 @@
     "pp": 0,
     "gs": 0,
     "fc": 2,
-    "i": 1,
+    "i": 2,
     "pe": 0,
-    "ds": 5,
-    "pi": 3,
-    "pontos_num": 3.2,
-    "preco_num": 7.39,
-    "variacao_num": 0.39,
-    "media_num": 3.2,
-    "jogos_num": 1,
+    "ds": 6,
+    "pi": 6,
+    "pontos_num": 10.2,
+    "preco_num": 10.94,
+    "variacao_num": 3.55,
+    "media_num": 6.7,
+    "jogos_num": 2,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }
