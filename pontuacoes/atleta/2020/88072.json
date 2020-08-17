@@ -7,23 +7,28 @@
   "posicao": "Atacante",
   "rodadas": [
     1,
-    2
+    2,
+    3
   ],
   "pontos": [
     0,
-    4.8
+    4.8,
+    2.3
   ],
   "precos": [
     3,
-    4.35
+    4.35,
+    4.47
   ],
   "variacoes": [
     0,
-    1.35
+    1.35,
+    0.12
   ],
   "medias": [
     0,
-    4.8
+    4.8,
+    3.55
   ],
   "partidas": [
     {
@@ -51,19 +56,32 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/05/01/Goias_65px.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 3,
+      "clube_casa": "Palmeiras",
+      "clube_casa_id": 275,
+      "clube_visitante": "Goiás",
+      "clube_casa_abrev": "PAL",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
+      "clube_visitante_id": 290,
+      "clube_visitante_abrev": "GOI",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/05/01/Goias_65px.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2019/01/08/971542fb6577c5ad3d11a082518bdf16_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2019/05/01/Goias_65px.png",
   "scouts": {
-    "rodada_id": 2,
+    "rodada_id": 3,
     "rb": 0,
     "g": 0,
     "a": 0,
     "sg": 0,
-    "fs": 1,
+    "fs": 2,
     "ff": 0,
-    "fd": 0,
+    "fd": 2,
     "ft": 0,
     "dd": 0,
     "dp": 0,
@@ -72,16 +90,16 @@
     "ca": 0,
     "pp": 0,
     "gs": 0,
-    "fc": 1,
+    "fc": 3,
     "i": 0,
     "pe": 0,
-    "ds": 5,
-    "pi": 2,
-    "pontos_num": 4.8,
-    "preco_num": 4.35,
-    "variacao_num": 1.35,
-    "media_num": 4.8,
-    "jogos_num": 1,
+    "ds": 6,
+    "pi": 8,
+    "pontos_num": 2.3,
+    "preco_num": 4.47,
+    "variacao_num": 0.12,
+    "media_num": 3.55,
+    "jogos_num": 2,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }

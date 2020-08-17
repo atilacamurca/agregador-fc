@@ -7,23 +7,28 @@
   "posicao": "Atacante",
   "rodadas": [
     1,
-    2
+    2,
+    3
   ],
   "pontos": [
     15.6,
-    -1.9
+    -1.9,
+    0.9
   ],
   "precos": [
     14.21,
-    14.28
+    14.28,
+    13.59
   ],
   "variacoes": [
     10.21,
-    0.07
+    0.07,
+    -0.69
   ],
   "medias": [
     15.6,
-    6.85
+    6.85,
+    4.87
   ],
   "partidas": [
     {
@@ -51,19 +56,32 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2015/07/21/sport65.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 3,
+      "clube_casa": "Atlético-GO",
+      "clube_casa_id": 373,
+      "clube_visitante": "Sport",
+      "clube_casa_abrev": "ATL",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2020/07/02/atletico-go-2020-65.png",
+      "clube_visitante_id": 292,
+      "clube_visitante_abrev": "SPO",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2015/07/21/sport65.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2020/02/27/ac1ef4d59993ff8aa8d21020834a05ec_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2015/07/21/sport65.png",
   "scouts": {
-    "rodada_id": 2,
+    "rodada_id": 3,
     "rb": 0,
     "g": 2,
     "a": 0,
     "sg": 0,
-    "fs": 0,
-    "ff": 0,
-    "fd": 0,
+    "fs": 1,
+    "ff": 2,
+    "fd": 1,
     "ft": 1,
     "dd": 0,
     "dp": 0,
@@ -72,16 +90,16 @@
     "ca": 1,
     "pp": 0,
     "gs": 0,
-    "fc": 1,
-    "i": 4,
+    "fc": 3,
+    "i": 6,
     "pe": 0,
     "ds": 0,
-    "pi": 8,
-    "pontos_num": -1.9,
-    "preco_num": 14.28,
-    "variacao_num": 0.07,
-    "media_num": 6.85,
-    "jogos_num": 2,
+    "pi": 12,
+    "pontos_num": 0.9,
+    "preco_num": 13.59,
+    "variacao_num": -0.69,
+    "media_num": 4.87,
+    "jogos_num": 3,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }

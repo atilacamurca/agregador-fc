@@ -7,23 +7,28 @@
   "posicao": "Lateral",
   "rodadas": [
     1,
-    2
+    2,
+    3
   ],
   "pontos": [
     0,
-    0.9
+    0.9,
+    9.7
   ],
   "precos": [
     6,
-    4.84
+    4.84,
+    7.56
   ],
   "variacoes": [
     0,
-    -1.16
+    -1.16,
+    2.72
   ],
   "medias": [
     0,
-    0.9
+    0.9,
+    5.3
   ],
   "partidas": [
     {
@@ -51,18 +56,31 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/06/10/fortaleza-ec-65px.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 3,
+      "clube_casa": "Fortaleza",
+      "clube_casa_id": 356,
+      "clube_visitante": "Botafogo",
+      "clube_casa_abrev": "FOR",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/06/10/fortaleza-ec-65px.png",
+      "clube_visitante_id": 263,
+      "clube_visitante_abrev": "BOT",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/04/botafogo-65.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2019/03/22/4d0e23087bc533d8757c980cbd598eee_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2018/06/10/fortaleza-ec-65px.png",
   "scouts": {
-    "rodada_id": 2,
+    "rodada_id": 3,
     "rb": 0,
     "g": 0,
     "a": 0,
-    "sg": 0,
-    "fs": 0,
-    "ff": 0,
+    "sg": 1,
+    "fs": 1,
+    "ff": 1,
     "fd": 0,
     "ft": 0,
     "dd": 0,
@@ -72,16 +90,16 @@
     "ca": 0,
     "pp": 0,
     "gs": 0,
-    "fc": 0,
+    "fc": 1,
     "i": 0,
     "pe": 0,
-    "ds": 1,
-    "pi": 1,
-    "pontos_num": 0.9,
-    "preco_num": 4.84,
-    "variacao_num": -1.16,
-    "media_num": 0.9,
-    "jogos_num": 1,
+    "ds": 5,
+    "pi": 2,
+    "pontos_num": 9.7,
+    "preco_num": 7.56,
+    "variacao_num": 2.72,
+    "media_num": 5.3,
+    "jogos_num": 2,
     "posicao_abrev": "lat",
     "posicao": "Lateral"
   }

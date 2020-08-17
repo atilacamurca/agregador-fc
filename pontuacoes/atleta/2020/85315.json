@@ -7,23 +7,28 @@
   "posicao": "Meia",
   "rodadas": [
     1,
-    2
+    2,
+    3
   ],
   "pontos": [
     0,
-    1.2
+    1.2,
+    -0.9
   ],
   "precos": [
     8,
-    6.45
+    6.45,
+    5.29
   ],
   "variacoes": [
     0,
-    -1.55
+    -1.55,
+    -1.16
   ],
   "medias": [
     0,
-    1.2
+    1.2,
+    0.15
   ],
   "partidas": [
     {
@@ -51,17 +56,30 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/30/Corinthians_65.png",
       "placar_oficial_mandante": 3,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 3,
+      "clube_casa": "Grêmio",
+      "clube_casa_id": 284,
+      "clube_visitante": "Corinthians",
+      "clube_casa_abrev": "GRE",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/gremio_60x60.png",
+      "clube_visitante_id": 264,
+      "clube_visitante_abrev": "COR",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/30/Corinthians_65.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2020/03/02/73fc67e78e28d846205cc92aff55d6e7_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/30/Corinthians_65.png",
   "scouts": {
-    "rodada_id": 2,
+    "rodada_id": 3,
     "rb": 0,
     "g": 0,
     "a": 0,
     "sg": 0,
-    "fs": 1,
+    "fs": 3,
     "ff": 1,
     "fd": 0,
     "ft": 0,
@@ -72,16 +90,16 @@
     "ca": 0,
     "pp": 0,
     "gs": 0,
-    "fc": 0,
+    "fc": 3,
     "i": 0,
     "pe": 0,
     "ds": 0,
-    "pi": 1,
-    "pontos_num": 1.2,
-    "preco_num": 6.45,
-    "variacao_num": -1.55,
-    "media_num": 1.2,
-    "jogos_num": 1,
+    "pi": 5,
+    "pontos_num": -0.9,
+    "preco_num": 5.29,
+    "variacao_num": -1.16,
+    "media_num": 0.15,
+    "jogos_num": 2,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }

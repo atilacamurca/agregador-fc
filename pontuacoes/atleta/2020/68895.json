@@ -7,23 +7,28 @@
   "posicao": "Atacante",
   "rodadas": [
     1,
-    2
+    2,
+    3
   ],
   "pontos": [
     0.3,
-    -1
+    -1,
+    -0.1
   ],
   "precos": [
     4.57,
-    3.02
+    3.02,
+    2.64
   ],
   "variacoes": [
     -1.43,
-    -1.55
+    -1.55,
+    -0.38
   ],
   "medias": [
     0.3,
-    -0.35
+    -0.35,
+    -0.27
   ],
   "partidas": [
     {
@@ -51,17 +56,30 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 3,
+      "clube_casa": "Fluminense",
+      "clube_casa_id": 266,
+      "clube_visitante": "Internacional",
+      "clube_casa_abrev": "FLU",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/fluminense_60x60.png",
+      "clube_visitante_id": 285,
+      "clube_visitante_abrev": "INT",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/03/inter65.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2020/08/11/9e1c282e16e37d5fdb5fa7b81b2871cc_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/fluminense_60x60.png",
   "scouts": {
-    "rodada_id": 2,
+    "rodada_id": 3,
     "rb": 0,
     "g": 0,
     "a": 0,
     "sg": 0,
-    "fs": 1,
+    "fs": 2,
     "ff": 0,
     "fd": 0,
     "ft": 0,
@@ -72,16 +90,16 @@
     "ca": 1,
     "pp": 0,
     "gs": 0,
-    "fc": 0,
+    "fc": 1,
     "i": 0,
     "pe": 0,
     "ds": 1,
-    "pi": 2,
-    "pontos_num": -1,
-    "preco_num": 3.02,
-    "variacao_num": -1.55,
-    "media_num": -0.35,
-    "jogos_num": 2,
+    "pi": 3,
+    "pontos_num": -0.1,
+    "preco_num": 2.64,
+    "variacao_num": -0.38,
+    "media_num": -0.27,
+    "jogos_num": 3,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }

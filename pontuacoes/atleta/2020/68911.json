@@ -7,23 +7,28 @@
   "posicao": "Atacante",
   "rodadas": [
     1,
-    2
+    2,
+    3
   ],
   "pontos": [
     9.6,
-    0
+    0,
+    -1.2
   ],
   "precos": [
     12.76,
-    12.76
+    12.76,
+    10.95
   ],
   "variacoes": [
     4.76,
-    0
+    0,
+    -1.81
   ],
   "medias": [
     9.6,
-    9.6
+    9.6,
+    4.2
   ],
   "partidas": [
     {
@@ -51,18 +56,31 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/gremio_60x60.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 3,
+      "clube_casa": "Grêmio",
+      "clube_casa_id": 284,
+      "clube_visitante": "Corinthians",
+      "clube_casa_abrev": "GRE",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/gremio_60x60.png",
+      "clube_visitante_id": 264,
+      "clube_visitante_abrev": "COR",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/30/Corinthians_65.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2020/07/19/856625bb76f484b70bec52c9ff257c5a_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/gremio_60x60.png",
   "scouts": {
-    "rodada_id": 2,
+    "rodada_id": 3,
     "rb": 0,
     "g": 1,
     "a": 0,
     "sg": 0,
-    "fs": 2,
-    "ff": 2,
+    "fs": 4,
+    "ff": 3,
     "fd": 1,
     "ft": 0,
     "dd": 0,
@@ -70,18 +88,18 @@
     "gc": 0,
     "cv": 0,
     "ca": 0,
-    "pp": 0,
+    "pp": 1,
     "gs": 0,
-    "fc": 2,
+    "fc": 3,
     "i": 0,
     "pe": 0,
-    "ds": 0,
-    "pi": 12,
-    "pontos_num": 0,
-    "preco_num": 12.76,
-    "variacao_num": 0,
-    "media_num": 9.6,
-    "jogos_num": 1,
+    "ds": 2,
+    "pi": 17,
+    "pontos_num": -1.2,
+    "preco_num": 10.95,
+    "variacao_num": -1.81,
+    "media_num": 4.2,
+    "jogos_num": 2,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }

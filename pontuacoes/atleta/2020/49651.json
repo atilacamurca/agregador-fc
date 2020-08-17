@@ -7,23 +7,28 @@
   "posicao": "Zagueiro",
   "rodadas": [
     1,
-    2
+    2,
+    3
   ],
   "pontos": [
     0,
-    5.3
+    5.3,
+    10.1
   ],
   "precos": [
     4,
-    5.31
+    5.31,
+    8
   ],
   "variacoes": [
     0,
-    1.31
+    1.31,
+    2.69
   ],
   "medias": [
     0,
-    5.3
+    5.3,
+    7.7
   ],
   "partidas": [
     {
@@ -51,19 +56,32 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2017/03/29/coritiba65.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 3,
+      "clube_casa": "Bahia",
+      "clube_casa_id": 265,
+      "clube_visitante": "Bragantino",
+      "clube_casa_abrev": "BAH",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/bahia_60x60.png",
+      "clube_visitante_id": 280,
+      "clube_visitante_abrev": "BRA",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2020/01/01/65.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2020/07/23/64f95e587c904e0e5980af5e1af88314_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/bahia_60x60.png",
   "scouts": {
-    "rodada_id": 2,
+    "rodada_id": 3,
     "rb": 0,
-    "g": 0,
+    "g": 1,
     "a": 0,
     "sg": 1,
     "fs": 1,
     "ff": 0,
-    "fd": 0,
+    "fd": 1,
     "ft": 0,
     "dd": 0,
     "dp": 0,
@@ -72,16 +90,16 @@
     "ca": 0,
     "pp": 0,
     "gs": 0,
-    "fc": 0,
+    "fc": 1,
     "i": 0,
     "pe": 0,
-    "ds": 0,
-    "pi": 2,
-    "pontos_num": 5.3,
-    "preco_num": 5.31,
-    "variacao_num": 1.31,
-    "media_num": 5.3,
-    "jogos_num": 1,
+    "ds": 2,
+    "pi": 8,
+    "pontos_num": 10.1,
+    "preco_num": 8,
+    "variacao_num": 2.69,
+    "media_num": 7.7,
+    "jogos_num": 2,
     "posicao_abrev": "zag",
     "posicao": "Zagueiro"
   }

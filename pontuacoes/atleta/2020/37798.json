@@ -7,23 +7,28 @@
   "posicao": "Atacante",
   "rodadas": [
     1,
-    2
+    2,
+    3
   ],
   "pontos": [
     3.4,
-    -0.3
+    -0.3,
+    2.5
   ],
   "precos": [
     8.26,
-    6.98
+    6.98,
+    7.13
   ],
   "variacoes": [
     0.26,
-    -1.28
+    -1.28,
+    0.15
   ],
   "medias": [
     3.4,
-    1.55
+    1.55,
+    1.87
   ],
   "partidas": [
     {
@@ -51,18 +56,31 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/gremio_60x60.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 3,
+      "clube_casa": "Atlético-MG",
+      "clube_casa_id": 282,
+      "clube_visitante": "Ceará",
+      "clube_casa_abrev": "ATL",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2017/11/23/Atletico-Mineiro-escudo65px.png",
+      "clube_visitante_id": 354,
+      "clube_visitante_abrev": "CEA",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/10/10/ceara-65x65.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2020/03/01/07d469e7953e91ccc61088458f4c6397_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2019/10/10/ceara-65x65.png",
   "scouts": {
-    "rodada_id": 2,
+    "rodada_id": 3,
     "rb": 0,
     "g": 0,
     "a": 0,
     "sg": 0,
-    "fs": 0,
-    "ff": 2,
+    "fs": 1,
+    "ff": 4,
     "fd": 2,
     "ft": 0,
     "dd": 0,
@@ -73,15 +91,15 @@
     "pp": 0,
     "gs": 0,
     "fc": 2,
-    "i": 0,
+    "i": 1,
     "pe": 0,
-    "ds": 1,
-    "pi": 9,
-    "pontos_num": -0.3,
-    "preco_num": 6.98,
-    "variacao_num": -1.28,
-    "media_num": 1.55,
-    "jogos_num": 2,
+    "ds": 2,
+    "pi": 10,
+    "pontos_num": 2.5,
+    "preco_num": 7.13,
+    "variacao_num": 0.15,
+    "media_num": 1.87,
+    "jogos_num": 3,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }
