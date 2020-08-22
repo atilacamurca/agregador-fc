@@ -8,27 +8,32 @@
   "rodadas": [
     1,
     2,
-    3
+    3,
+    4
   ],
   "pontos": [
     5,
     0,
-    0.9
+    0.9,
+    -2.2
   ],
   "precos": [
     5.8,
     5.8,
-    5.61
+    5.61,
+    4.52
   ],
   "variacoes": [
     2.8,
     0,
-    -0.19
+    -0.19,
+    -1.09
   ],
   "medias": [
     5,
     5,
-    2.95
+    2.95,
+    1.23
   ],
   "partidas": [
     {
@@ -69,12 +74,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/09/Athletico-PR-65x65.png",
       "placar_oficial_mandante": 3,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 4,
+      "clube_casa": "Athlético-PR",
+      "clube_casa_id": 293,
+      "clube_visitante": "Palmeiras",
+      "clube_casa_abrev": "ATL",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/09/Athletico-PR-65x65.png",
+      "clube_visitante_id": 275,
+      "clube_visitante_abrev": "PAL",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2019/09/20/ee145800d6e1353696905f1aea903802_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/09/Athletico-PR-65x65.png",
   "scouts": {
-    "rodada_id": 3,
+    "rodada_id": 4,
     "rb": 0,
     "g": 0,
     "a": 0,
@@ -87,19 +105,19 @@
     "dp": 0,
     "gc": 0,
     "cv": 0,
-    "ca": 0,
+    "ca": 1,
     "pp": 0,
     "gs": 0,
-    "fc": 0,
+    "fc": 3,
     "i": 0,
     "pe": 0,
-    "ds": 1,
-    "pi": 6,
-    "pontos_num": 0.9,
-    "preco_num": 5.61,
-    "variacao_num": -0.19,
-    "media_num": 2.95,
-    "jogos_num": 2,
+    "ds": 4,
+    "pi": 23,
+    "pontos_num": -2.2,
+    "preco_num": 4.52,
+    "variacao_num": -1.09,
+    "media_num": 1.23,
+    "jogos_num": 3,
     "posicao_abrev": "lat",
     "posicao": "Lateral"
   }

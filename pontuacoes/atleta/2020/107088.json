@@ -8,27 +8,32 @@
   "rodadas": [
     1,
     2,
-    3
+    3,
+    4
   ],
   "pontos": [
     0,
     0.3,
-    -1.2
+    -1.2,
+    0.1
   ],
   "precos": [
     2,
     1.61,
-    0.98
+    0.98,
+    1.04
   ],
   "variacoes": [
     0,
     -0.39,
-    -0.63
+    -0.63,
+    0.06
   ],
   "medias": [
     0,
     0.3,
-    -0.45
+    -0.45,
+    -0.27
   ],
   "partidas": [
     {
@@ -69,18 +74,31 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2020/01/01/65.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 4,
+      "clube_casa": "São Paulo",
+      "clube_casa_id": 276,
+      "clube_visitante": "Bahia",
+      "clube_casa_abrev": "SAO",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/sao_paulo_60x60.png",
+      "clube_visitante_id": 265,
+      "clube_visitante_abrev": "BAH",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/bahia_60x60.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2020/07/16/61b9f7b4e75ec5b35b48d42b3b848e54_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/bahia_60x60.png",
   "scouts": {
-    "rodada_id": 3,
+    "rodada_id": 4,
     "rb": 0,
     "g": 0,
     "a": 0,
     "sg": 0,
     "fs": 0,
-    "ff": 1,
+    "ff": 2,
     "fd": 0,
     "ft": 0,
     "dd": 0,
@@ -90,16 +108,16 @@
     "ca": 0,
     "pp": 0,
     "gs": 0,
-    "fc": 2,
+    "fc": 3,
     "i": 1,
     "pe": 0,
     "ds": 0,
-    "pi": 2,
-    "pontos_num": -1.2,
-    "preco_num": 0.98,
-    "variacao_num": -0.63,
-    "media_num": -0.45,
-    "jogos_num": 2,
+    "pi": 4,
+    "pontos_num": 0.1,
+    "preco_num": 1.04,
+    "variacao_num": 0.06,
+    "media_num": -0.27,
+    "jogos_num": 3,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }
