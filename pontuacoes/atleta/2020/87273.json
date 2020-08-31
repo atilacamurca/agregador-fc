@@ -10,35 +10,40 @@
     2,
     3,
     4,
-    5
+    5,
+    6
   ],
   "pontos": [
     0,
     0,
     0,
     5,
-    0
+    0,
+    5.9
   ],
   "precos": [
     4,
     4,
     4,
     4.5,
-    4.5
+    4.5,
+    5.19
   ],
   "variacoes": [
     0,
     0,
     0,
     0.5,
-    0
+    0,
+    0.69
   ],
   "medias": [
     0,
     0,
     0,
     5,
-    5
+    5,
+    5.45
   ],
   "partidas": [
     {
@@ -105,19 +110,32 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/gremio_60x60.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 6,
+      "clube_casa": "Fluminense",
+      "clube_casa_id": 266,
+      "clube_visitante": "Vasco",
+      "clube_casa_abrev": "FLU",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/fluminense_60x60.png",
+      "clube_visitante_id": 267,
+      "clube_visitante_abrev": "VAS",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/07/29/Vasco-65.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2020/08/17/5391bf0dc50dad3b0f7d2b294c2e38ad_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2016/07/29/Vasco-65.png",
   "scouts": {
-    "rodada_id": 5,
+    "rodada_id": 6,
     "rb": 0,
     "g": 0,
     "a": 1,
     "sg": 0,
-    "fs": 0,
-    "ff": 0,
-    "fd": 0,
+    "fs": 1,
+    "ff": 1,
+    "fd": 1,
     "ft": 0,
     "dd": 0,
     "dp": 0,
@@ -126,16 +144,16 @@
     "ca": 0,
     "pp": 0,
     "gs": 0,
-    "fc": 0,
+    "fc": 2,
     "i": 0,
     "pe": 0,
-    "ds": 0,
-    "pi": 0,
-    "pontos_num": 0,
-    "preco_num": 4.5,
-    "variacao_num": 0,
-    "media_num": 5,
-    "jogos_num": 1,
+    "ds": 5,
+    "pi": 6,
+    "pontos_num": 5.9,
+    "preco_num": 5.19,
+    "variacao_num": 0.69,
+    "media_num": 5.45,
+    "jogos_num": 2,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }

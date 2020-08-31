@@ -10,20 +10,23 @@
     2,
     3,
     4,
-    5
+    5,
+    6
   ],
   "pontos": [
     -0.6,
     0.9,
     6.5,
     5.2,
-    1.2
+    1.2,
+    0
   ],
   "precos": [
     4.64,
     3.65,
     5.39,
     5.99,
+    5.47,
     5.47
   ],
   "variacoes": [
@@ -31,13 +34,15 @@
     -0.99,
     1.74,
     0.6,
-    -0.52
+    -0.52,
+    0
   ],
   "medias": [
     -0.6,
     0.15,
     2.27,
     3,
+    2.64,
     2.64
   ],
   "partidas": [
@@ -105,12 +110,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/04/botafogo-65.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 6,
+      "clube_casa": "Santos",
+      "clube_casa_id": 277,
+      "clube_visitante": "Flamengo",
+      "clube_casa_abrev": "SAN",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/santos_60x60.png",
+      "clube_visitante_id": 262,
+      "clube_visitante_abrev": "FLA",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/04/09/Flamengo-65.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2020/07/21/4218d94bb942c966b0dbec343cc77fd8_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2018/04/09/Flamengo-65.png",
   "scouts": {
-    "rodada_id": 5,
+    "rodada_id": 6,
     "rb": 0,
     "g": 0,
     "a": 0,
@@ -131,9 +149,9 @@
     "pe": 0,
     "ds": 10,
     "pi": 27,
-    "pontos_num": 1.2,
+    "pontos_num": 0,
     "preco_num": 5.47,
-    "variacao_num": -0.52,
+    "variacao_num": 0,
     "media_num": 2.64,
     "jogos_num": 5,
     "posicao_abrev": "zag",

@@ -10,35 +10,40 @@
     2,
     3,
     4,
-    5
+    5,
+    6
   ],
   "pontos": [
     0,
     0,
     0,
     0,
-    0
+    0,
+    -2.1
   ],
   "precos": [
     2,
     2,
     2,
     2,
-    2
+    2,
+    0.99
   ],
   "variacoes": [
     0,
     0,
     0,
     0,
-    0
+    0,
+    -1.01
   ],
   "medias": [
     0,
     0,
     0,
     0,
-    0
+    0,
+    -2.1
   ],
   "partidas": [
     {
@@ -105,17 +110,30 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/fluminense_60x60.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 6,
+      "clube_casa": "Fluminense",
+      "clube_casa_id": 266,
+      "clube_visitante": "Vasco",
+      "clube_casa_abrev": "FLU",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/fluminense_60x60.png",
+      "clube_visitante_id": 267,
+      "clube_visitante_abrev": "VAS",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/07/29/Vasco-65.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2020/08/11/1e384aacfbb6566d7f8e26a14bdb07ed_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/fluminense_60x60.png",
   "scouts": {
-    "rodada_id": 5,
+    "rodada_id": 6,
     "rb": 0,
     "g": 0,
     "a": 0,
     "sg": 0,
-    "fs": 0,
+    "fs": 1,
     "ff": 0,
     "fd": 0,
     "ft": 0,
@@ -125,17 +143,17 @@
     "cv": 0,
     "ca": 0,
     "pp": 0,
-    "gs": 0,
+    "gs": 1,
     "fc": 0,
     "i": 0,
     "pe": 0,
     "ds": 0,
-    "pi": 0,
-    "pontos_num": 0,
-    "preco_num": 2,
-    "variacao_num": 0,
-    "media_num": 0,
-    "jogos_num": 0,
+    "pi": 6,
+    "pontos_num": -2.1,
+    "preco_num": 0.99,
+    "variacao_num": -1.01,
+    "media_num": -2.1,
+    "jogos_num": 1,
     "posicao_abrev": "gol",
     "posicao": "Goleiro"
   }

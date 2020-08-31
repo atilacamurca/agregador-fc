@@ -10,35 +10,40 @@
     2,
     3,
     4,
-    5
+    5,
+    6
   ],
   "pontos": [
     0,
     0,
     0,
     2,
-    0
+    0,
+    5
   ],
   "precos": [
     6,
     6,
     6,
     5.1,
-    5.1
+    5.1,
+    5.75
   ],
   "variacoes": [
     0,
     0,
     0,
     -0.9,
-    0
+    0,
+    0.65
   ],
   "medias": [
     0,
     0,
     0,
     2,
-    2
+    2,
+    3.5
   ],
   "partidas": [
     {
@@ -105,16 +110,29 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/04/botafogo-65.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 6,
+      "clube_casa": "Santos",
+      "clube_casa_id": 277,
+      "clube_visitante": "Flamengo",
+      "clube_casa_abrev": "SAN",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/santos_60x60.png",
+      "clube_visitante_id": 262,
+      "clube_visitante_abrev": "FLA",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/04/09/Flamengo-65.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2020/07/21/60d54826cbdcb1e92c0ae4057efbd02c_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2018/04/09/Flamengo-65.png",
   "scouts": {
-    "rodada_id": 5,
+    "rodada_id": 6,
     "rb": 0,
     "g": 0,
     "a": 0,
-    "sg": 0,
+    "sg": 1,
     "fs": 1,
     "ff": 0,
     "fd": 0,
@@ -123,19 +141,19 @@
     "dp": 0,
     "gc": 0,
     "cv": 0,
-    "ca": 0,
+    "ca": 1,
     "pp": 0,
     "gs": 0,
-    "fc": 0,
+    "fc": 1,
     "i": 0,
     "pe": 0,
-    "ds": 2,
-    "pi": 5,
-    "pontos_num": 0,
-    "preco_num": 5.1,
-    "variacao_num": 0,
-    "media_num": 2,
-    "jogos_num": 1,
+    "ds": 5,
+    "pi": 10,
+    "pontos_num": 5,
+    "preco_num": 5.75,
+    "variacao_num": 0.65,
+    "media_num": 3.5,
+    "jogos_num": 2,
     "posicao_abrev": "lat",
     "posicao": "Lateral"
   }

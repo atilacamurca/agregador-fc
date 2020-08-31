@@ -10,35 +10,40 @@
     2,
     3,
     4,
-    5
+    5,
+    6
   ],
   "pontos": [
     0,
     0,
     0,
     -4.8,
-    1.1
+    1.1,
+    -0.6
   ],
   "precos": [
     6,
     6,
     6,
     3.06,
-    3.68
+    3.68,
+    3.23
   ],
   "variacoes": [
     0,
     0,
     0,
     -2.94,
-    0.62
+    0.62,
+    -0.45
   ],
   "medias": [
     0,
     0,
     0,
     -4.8,
-    -1.85
+    -1.85,
+    -1.43
   ],
   "partidas": [
     {
@@ -105,19 +110,32 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/04/botafogo-65.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 6,
+      "clube_casa": "Botafogo",
+      "clube_casa_id": 263,
+      "clube_visitante": "Internacional",
+      "clube_casa_abrev": "BOT",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/04/botafogo-65.png",
+      "clube_visitante_id": 285,
+      "clube_visitante_abrev": "INT",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/03/inter65.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2020/03/01/c8face553c42ac18972ec8f145b8441c_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/04/botafogo-65.png",
   "scouts": {
-    "rodada_id": 5,
+    "rodada_id": 6,
     "rb": 0,
     "g": 0,
     "a": 0,
     "sg": 0,
     "fs": 0,
-    "ff": 0,
-    "fd": 0,
+    "ff": 1,
+    "fd": 1,
     "ft": 0,
     "dd": 0,
     "dp": 0,
@@ -126,16 +144,16 @@
     "ca": 1,
     "pp": 0,
     "gs": 0,
-    "fc": 3,
+    "fc": 5,
     "i": 0,
     "pe": 0,
     "ds": 2,
-    "pi": 22,
-    "pontos_num": 1.1,
-    "preco_num": 3.68,
-    "variacao_num": 0.62,
-    "media_num": -1.85,
-    "jogos_num": 2,
+    "pi": 38,
+    "pontos_num": -0.6,
+    "preco_num": 3.23,
+    "variacao_num": -0.45,
+    "media_num": -1.43,
+    "jogos_num": 3,
     "posicao_abrev": "lat",
     "posicao": "Lateral"
   }

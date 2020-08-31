@@ -10,35 +10,40 @@
     2,
     3,
     4,
-    5
+    5,
+    6
   ],
   "pontos": [
     0,
     4.1,
     10.3,
     2.5,
-    -0.2
+    -0.2,
+    -0.5
   ],
   "precos": [
     6,
     6.26,
     8.93,
     8.2,
-    7.52
+    7.52,
+    7.17
   ],
   "variacoes": [
     0,
     0.26,
     2.67,
     -0.73,
-    -0.68
+    -0.68,
+    -0.35
   ],
   "medias": [
     0,
     4.1,
     7.2,
     5.63,
-    4.17
+    4.17,
+    3.24
   ],
   "partidas": [
     {
@@ -105,17 +110,30 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/06/10/fortaleza-ec-65px.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 6,
+      "clube_casa": "São Paulo",
+      "clube_casa_id": 276,
+      "clube_visitante": "Corinthians",
+      "clube_casa_abrev": "SAO",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/sao_paulo_60x60.png",
+      "clube_visitante_id": 264,
+      "clube_visitante_abrev": "COR",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/30/Corinthians_65.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2020/03/02/d76b28f383366667813428ea01aaab63_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/30/Corinthians_65.png",
   "scouts": {
-    "rodada_id": 5,
+    "rodada_id": 6,
     "rb": 0,
     "g": 0,
     "a": 0,
     "sg": 1,
-    "fs": 8,
+    "fs": 9,
     "ff": 1,
     "fd": 1,
     "ft": 0,
@@ -130,12 +148,12 @@
     "i": 1,
     "pe": 0,
     "ds": 11,
-    "pi": 28,
-    "pontos_num": -0.2,
-    "preco_num": 7.52,
-    "variacao_num": -0.68,
-    "media_num": 4.17,
-    "jogos_num": 4,
+    "pi": 38,
+    "pontos_num": -0.5,
+    "preco_num": 7.17,
+    "variacao_num": -0.35,
+    "media_num": 3.24,
+    "jogos_num": 5,
     "posicao_abrev": "lat",
     "posicao": "Lateral"
   }

@@ -10,35 +10,40 @@
     2,
     3,
     4,
-    5
+    5,
+    6
   ],
   "pontos": [
     0,
     0,
     8.8,
     3.5,
-    2.2
+    2.2,
+    0.8
   ],
   "precos": [
     15,
     15,
     14.18,
     13.4,
-    12.92
+    12.92,
+    12.38
   ],
   "variacoes": [
     0,
     0,
     -0.82,
     -0.78,
-    -0.48
+    -0.48,
+    -0.54
   ],
   "medias": [
     0,
     0,
     8.8,
     6.15,
-    4.83
+    4.83,
+    3.82
   ],
   "partidas": [
     {
@@ -105,17 +110,30 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/santos_60x60.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 6,
+      "clube_casa": "Bahia",
+      "clube_casa_id": 265,
+      "clube_visitante": "Palmeiras",
+      "clube_casa_abrev": "BAH",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/bahia_60x60.png",
+      "clube_visitante_id": 275,
+      "clube_visitante_abrev": "PAL",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2020/03/09/d8945e5024344014b96d64adab91f4da_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
   "scouts": {
-    "rodada_id": 5,
+    "rodada_id": 6,
     "rb": 0,
     "g": 1,
     "a": 0,
     "sg": 1,
-    "fs": 0,
+    "fs": 1,
     "ff": 0,
     "fd": 0,
     "ft": 0,
@@ -126,16 +144,16 @@
     "ca": 0,
     "pp": 0,
     "gs": 0,
-    "fc": 4,
+    "fc": 5,
     "i": 1,
     "pe": 0,
-    "ds": 5,
-    "pi": 10,
-    "pontos_num": 2.2,
-    "preco_num": 12.92,
-    "variacao_num": -0.48,
-    "media_num": 4.83,
-    "jogos_num": 3,
+    "ds": 6,
+    "pi": 12,
+    "pontos_num": 0.8,
+    "preco_num": 12.38,
+    "variacao_num": -0.54,
+    "media_num": 3.82,
+    "jogos_num": 4,
     "posicao_abrev": "zag",
     "posicao": "Zagueiro"
   }

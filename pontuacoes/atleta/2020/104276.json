@@ -10,35 +10,40 @@
     2,
     3,
     4,
-    5
+    5,
+    6
   ],
   "pontos": [
     0,
     0,
     0,
     0,
-    10.3
+    10.3,
+    -0.2
   ],
   "precos": [
     2,
     2,
     2,
     2,
-    4.3
+    4.3,
+    2.86
   ],
   "variacoes": [
     0,
     0,
     0,
     0,
-    2.3
+    2.3,
+    -1.44
   ],
   "medias": [
     0,
     0,
     0,
     0,
-    10.3
+    10.3,
+    5.05
   ],
   "partidas": [
     {
@@ -105,18 +110,31 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/fluminense_60x60.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 6,
+      "clube_casa": "Fluminense",
+      "clube_casa_id": 266,
+      "clube_visitante": "Vasco",
+      "clube_casa_abrev": "FLU",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/fluminense_60x60.png",
+      "clube_visitante_id": 267,
+      "clube_visitante_abrev": "VAS",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/07/29/Vasco-65.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2020/08/11/62173af2578274ecacd1dfb222a0b1ed_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/fluminense_60x60.png",
   "scouts": {
-    "rodada_id": 5,
+    "rodada_id": 6,
     "rb": 0,
     "g": 0,
     "a": 0,
     "sg": 1,
-    "fs": 4,
-    "ff": 0,
+    "fs": 5,
+    "ff": 1,
     "fd": 0,
     "ft": 0,
     "dd": 0,
@@ -126,16 +144,16 @@
     "ca": 0,
     "pp": 0,
     "gs": 0,
-    "fc": 2,
-    "i": 0,
+    "fc": 5,
+    "i": 1,
     "pe": 0,
-    "ds": 5,
-    "pi": 7,
-    "pontos_num": 10.3,
-    "preco_num": 4.3,
-    "variacao_num": 2.3,
-    "media_num": 10.3,
-    "jogos_num": 1,
+    "ds": 6,
+    "pi": 12,
+    "pontos_num": -0.2,
+    "preco_num": 2.86,
+    "variacao_num": -1.44,
+    "media_num": 5.05,
+    "jogos_num": 2,
     "posicao_abrev": "lat",
     "posicao": "Lateral"
   }

@@ -10,35 +10,40 @@
     2,
     3,
     4,
-    5
+    5,
+    6
   ],
   "pontos": [
     0,
     -0.4,
     0,
     0,
-    1.2
+    1.2,
+    -2
   ],
   "precos": [
     6,
     4.26,
     4.26,
     4.26,
-    3.81
+    3.81,
+    3
   ],
   "variacoes": [
     0,
     -1.74,
     0,
     0,
-    -0.45
+    -0.45,
+    -0.81
   ],
   "medias": [
     0,
     -0.4,
     -0.4,
     -0.4,
-    0.4
+    0.4,
+    -0.6
   ],
   "partidas": [
     {
@@ -105,12 +110,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/santos_60x60.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 6,
+      "clube_casa": "Santos",
+      "clube_casa_id": 277,
+      "clube_visitante": "Flamengo",
+      "clube_casa_abrev": "SAN",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/santos_60x60.png",
+      "clube_visitante_id": 262,
+      "clube_visitante_abrev": "FLA",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/04/09/Flamengo-65.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2020/02/28/797ea157d220381c5808fcaa35ab969f_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/santos_60x60.png",
   "scouts": {
-    "rodada_id": 5,
+    "rodada_id": 6,
     "rb": 0,
     "g": 0,
     "a": 0,
@@ -123,7 +141,7 @@
     "dp": 0,
     "gc": 0,
     "cv": 0,
-    "ca": 0,
+    "ca": 1,
     "pp": 0,
     "gs": 0,
     "fc": 0,
@@ -131,10 +149,10 @@
     "pe": 0,
     "ds": 0,
     "pi": 9,
-    "pontos_num": 1.2,
-    "preco_num": 3.81,
-    "variacao_num": -0.45,
-    "media_num": 0.4,
+    "pontos_num": -2,
+    "preco_num": 3,
+    "variacao_num": -0.81,
+    "media_num": -0.6,
     "jogos_num": 2,
     "posicao_abrev": "lat",
     "posicao": "Lateral"
