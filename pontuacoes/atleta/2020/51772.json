@@ -11,7 +11,8 @@
     3,
     4,
     5,
-    6
+    6,
+    7
   ],
   "pontos": [
     4.5,
@@ -19,7 +20,8 @@
     1.7,
     1,
     0.9,
-    -1.6
+    -1.6,
+    12.2
   ],
   "precos": [
     6.89,
@@ -27,7 +29,8 @@
     6.16,
     5.91,
     5.75,
-    5.02
+    5.02,
+    7.91
   ],
   "variacoes": [
     1.89,
@@ -35,7 +38,8 @@
     0.05,
     -0.25,
     -0.16,
-    -0.73
+    -0.73,
+    2.89
   ],
   "medias": [
     4.5,
@@ -43,7 +47,8 @@
     1.83,
     1.62,
     1.48,
-    0.97
+    0.97,
+    2.57
   ],
   "partidas": [
     {
@@ -123,19 +128,32 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/04/09/Flamengo-65.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 7,
+      "clube_casa": "Bahia",
+      "clube_casa_id": 265,
+      "clube_visitante": "Flamengo",
+      "clube_casa_abrev": "BAH",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/bahia_60x60.png",
+      "clube_visitante_id": 262,
+      "clube_visitante_abrev": "FLA",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/04/09/Flamengo-65.png",
+      "placar_oficial_mandante": 3,
+      "placar_oficial_visitante": 5
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2020/07/21/f06a07026bcc6a97595016101b72e608_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2018/04/09/Flamengo-65.png",
   "scouts": {
-    "rodada_id": 6,
+    "rodada_id": 7,
     "rb": 0,
-    "g": 0,
+    "g": 1,
     "a": 0,
     "sg": 0,
-    "fs": 11,
-    "ff": 2,
-    "fd": 1,
+    "fs": 14,
+    "ff": 4,
+    "fd": 2,
     "ft": 0,
     "dd": 0,
     "dp": 0,
@@ -147,13 +165,13 @@
     "fc": 6,
     "i": 0,
     "pe": 0,
-    "ds": 6,
-    "pi": 35,
-    "pontos_num": -1.6,
-    "preco_num": 5.02,
-    "variacao_num": -0.73,
-    "media_num": 0.97,
-    "jogos_num": 6,
+    "ds": 7,
+    "pi": 46,
+    "pontos_num": 12.2,
+    "preco_num": 7.91,
+    "variacao_num": 2.89,
+    "media_num": 2.57,
+    "jogos_num": 7,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }

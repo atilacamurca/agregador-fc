@@ -11,7 +11,8 @@
     3,
     4,
     5,
-    6
+    6,
+    7
   ],
   "pontos": [
     0,
@@ -19,7 +20,8 @@
     0,
     0,
     0,
-    1.2
+    1.2,
+    -0.9
   ],
   "precos": [
     8,
@@ -27,7 +29,8 @@
     9.06,
     9.06,
     9.06,
-    7.74
+    7.74,
+    7.05
   ],
   "variacoes": [
     0,
@@ -35,7 +38,8 @@
     0,
     0,
     0,
-    -1.32
+    -1.32,
+    -0.69
   ],
   "medias": [
     0,
@@ -43,7 +47,8 @@
     7.1,
     7.1,
     7.1,
-    4.15
+    4.15,
+    2.47
   ],
   "partidas": [
     {
@@ -123,18 +128,31 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/07/29/Vasco-65.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 7,
+      "clube_casa": "Santos",
+      "clube_casa_id": 277,
+      "clube_visitante": "Vasco",
+      "clube_casa_abrev": "SAN",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/santos_60x60.png",
+      "clube_visitante_id": 267,
+      "clube_visitante_abrev": "VAS",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/07/29/Vasco-65.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2020/08/17/563094d1d3dc45cf4923d8458d9eb999_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2016/07/29/Vasco-65.png",
   "scouts": {
-    "rodada_id": 6,
+    "rodada_id": 7,
     "rb": 0,
     "g": 0,
     "a": 0,
     "sg": 1,
     "fs": 2,
-    "ff": 0,
+    "ff": 1,
     "fd": 1,
     "ft": 0,
     "dd": 0,
@@ -144,16 +162,16 @@
     "ca": 0,
     "pp": 0,
     "gs": 0,
-    "fc": 4,
+    "fc": 6,
     "i": 0,
     "pe": 0,
     "ds": 4,
-    "pi": 9,
-    "pontos_num": 1.2,
-    "preco_num": 7.74,
-    "variacao_num": -1.32,
-    "media_num": 4.15,
-    "jogos_num": 2,
+    "pi": 16,
+    "pontos_num": -0.9,
+    "preco_num": 7.05,
+    "variacao_num": -0.69,
+    "media_num": 2.47,
+    "jogos_num": 3,
     "posicao_abrev": "lat",
     "posicao": "Lateral"
   }

@@ -11,7 +11,8 @@
     3,
     4,
     5,
-    6
+    6,
+    7
   ],
   "pontos": [
     0,
@@ -19,7 +20,8 @@
     0,
     0,
     0,
-    0
+    0,
+    5.8
   ],
   "precos": [
     5,
@@ -27,7 +29,8 @@
     5,
     5,
     5,
-    5
+    5,
+    5.15
   ],
   "variacoes": [
     0,
@@ -35,7 +38,8 @@
     0,
     0,
     0,
-    0
+    0,
+    0.15
   ],
   "medias": [
     0,
@@ -43,7 +47,8 @@
     0,
     0,
     0,
-    0
+    0,
+    5.8
   ],
   "partidas": [
     {
@@ -123,17 +128,30 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/03/inter65.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 7,
+      "clube_casa": "Palmeiras",
+      "clube_casa_id": 275,
+      "clube_visitante": "Internacional",
+      "clube_casa_abrev": "PAL",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
+      "clube_visitante_id": 285,
+      "clube_visitante_abrev": "INT",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/03/inter65.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2020/02/27/4fc30df934657cce0aecf53ef7dc9a8b_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/03/inter65.png",
   "scouts": {
-    "rodada_id": 6,
+    "rodada_id": 7,
     "rb": 0,
     "g": 0,
     "a": 0,
     "sg": 0,
-    "fs": 0,
+    "fs": 5,
     "ff": 0,
     "fd": 0,
     "ft": 0,
@@ -141,19 +159,19 @@
     "dp": 0,
     "gc": 0,
     "cv": 0,
-    "ca": 0,
+    "ca": 1,
     "pp": 0,
     "gs": 0,
-    "fc": 0,
+    "fc": 2,
     "i": 0,
     "pe": 0,
-    "ds": 0,
-    "pi": 0,
-    "pontos_num": 0,
-    "preco_num": 5,
-    "variacao_num": 0,
-    "media_num": 0,
-    "jogos_num": 0,
+    "ds": 7,
+    "pi": 7,
+    "pontos_num": 5.8,
+    "preco_num": 5.15,
+    "variacao_num": 0.15,
+    "media_num": 5.8,
+    "jogos_num": 1,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }

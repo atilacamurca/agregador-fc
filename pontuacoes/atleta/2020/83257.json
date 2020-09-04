@@ -11,7 +11,8 @@
     3,
     4,
     5,
-    6
+    6,
+    7
   ],
   "pontos": [
     3,
@@ -19,7 +20,8 @@
     3.7,
     6.7,
     12.2,
-    12.3
+    12.3,
+    0
   ],
   "precos": [
     9.42,
@@ -27,6 +29,7 @@
     9.34,
     10.41,
     12.48,
+    13.71,
     13.71
   ],
   "variacoes": [
@@ -35,7 +38,8 @@
     0.2,
     1.07,
     2.07,
-    1.23
+    1.23,
+    0
   ],
   "medias": [
     3,
@@ -43,6 +47,7 @@
     3.2,
     4.08,
     5.7,
+    6.8,
     6.8
   ],
   "partidas": [
@@ -123,12 +128,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/04/09/Flamengo-65.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 7,
+      "clube_casa": "Bahia",
+      "clube_casa_id": 265,
+      "clube_visitante": "Flamengo",
+      "clube_casa_abrev": "BAH",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/bahia_60x60.png",
+      "clube_visitante_id": 262,
+      "clube_visitante_abrev": "FLA",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/04/09/Flamengo-65.png",
+      "placar_oficial_mandante": 3,
+      "placar_oficial_visitante": 5
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2020/07/21/6604f523718cb7a1b17424add935b9b8_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2018/04/09/Flamengo-65.png",
   "scouts": {
-    "rodada_id": 6,
+    "rodada_id": 7,
     "rb": 0,
     "g": 3,
     "a": 0,
@@ -149,9 +167,9 @@
     "pe": 0,
     "ds": 3,
     "pi": 38,
-    "pontos_num": 12.3,
+    "pontos_num": 0,
     "preco_num": 13.71,
-    "variacao_num": 1.23,
+    "variacao_num": 0,
     "media_num": 6.8,
     "jogos_num": 6,
     "posicao_abrev": "ata",

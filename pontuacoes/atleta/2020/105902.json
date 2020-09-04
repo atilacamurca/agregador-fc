@@ -11,7 +11,8 @@
     3,
     4,
     5,
-    6
+    6,
+    7
   ],
   "pontos": [
     0.5,
@@ -19,7 +20,8 @@
     2.3,
     1.9,
     0.8,
-    1.8
+    1.8,
+    0
   ],
   "precos": [
     1.81,
@@ -27,6 +29,7 @@
     2.24,
     2.45,
     2.35,
+    2.63,
     2.63
   ],
   "variacoes": [
@@ -35,7 +38,8 @@
     0.43,
     0.21,
     -0.1,
-    0.28
+    0.28,
+    0
   ],
   "medias": [
     0.5,
@@ -43,6 +47,7 @@
     1.4,
     1.57,
     1.38,
+    1.46,
     1.46
   ],
   "partidas": [
@@ -123,12 +128,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/03/inter65.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 7,
+      "clube_casa": "Palmeiras",
+      "clube_casa_id": 275,
+      "clube_visitante": "Internacional",
+      "clube_casa_abrev": "PAL",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
+      "clube_visitante_id": 285,
+      "clube_visitante_abrev": "INT",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/03/inter65.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2020/02/28/406d8a9fc74d962738e649a8e390169e_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/03/inter65.png",
   "scouts": {
-    "rodada_id": 6,
+    "rodada_id": 7,
     "rb": 0,
     "g": 0,
     "a": 0,
@@ -149,9 +167,9 @@
     "pe": 0,
     "ds": 9,
     "pi": 15,
-    "pontos_num": 1.8,
+    "pontos_num": 0,
     "preco_num": 2.63,
-    "variacao_num": 0.28,
+    "variacao_num": 0,
     "media_num": 1.46,
     "jogos_num": 5,
     "posicao_abrev": "mei",
