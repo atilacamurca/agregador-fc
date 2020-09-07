@@ -12,7 +12,8 @@
     4,
     5,
     6,
-    7
+    7,
+    8
   ],
   "pontos": [
     0,
@@ -21,7 +22,8 @@
     -1.2,
     0,
     0.3,
-    -2.7
+    -2.7,
+    4.9
   ],
   "precos": [
     1,
@@ -30,7 +32,8 @@
     0.75,
     0.75,
     0.76,
-    0.76
+    0.76,
+    1.42
   ],
   "variacoes": [
     0,
@@ -39,7 +42,8 @@
     0.01,
     0,
     0.01,
-    0
+    0,
+    0.66
   ],
   "medias": [
     0,
@@ -48,7 +52,8 @@
     -1,
     -1,
     -0.57,
-    -1.1
+    -1.1,
+    0.1
   ],
   "partidas": [
     {
@@ -141,15 +146,28 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2015/07/21/sport65.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 8,
+      "clube_casa": "Sport",
+      "clube_casa_id": 292,
+      "clube_visitante": "Goiás",
+      "clube_casa_abrev": "SPO",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2015/07/21/sport65.png",
+      "clube_visitante_id": 290,
+      "clube_visitante_abrev": "GOI",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/05/01/Goias_65px.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2020/02/27/31b914c6b9a40f145d57b7006f20116e_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2015/07/21/sport65.png",
   "scouts": {
-    "rodada_id": 7,
+    "rodada_id": 8,
     "rb": 0,
     "g": 0,
-    "a": 0,
+    "a": 1,
     "sg": 0,
     "fs": 0,
     "ff": 0,
@@ -165,13 +183,13 @@
     "fc": 7,
     "i": 0,
     "pe": 0,
-    "ds": 4,
-    "pi": 29,
-    "pontos_num": -2.7,
-    "preco_num": 0.76,
-    "variacao_num": 0,
-    "media_num": -1.1,
-    "jogos_num": 4,
+    "ds": 6,
+    "pi": 50,
+    "pontos_num": 4.9,
+    "preco_num": 1.42,
+    "variacao_num": 0.66,
+    "media_num": 0.1,
+    "jogos_num": 5,
     "posicao_abrev": "lat",
     "posicao": "Lateral"
   }

@@ -12,7 +12,8 @@
     4,
     5,
     6,
-    7
+    7,
+    8
   ],
   "pontos": [
     0,
@@ -21,7 +22,8 @@
     0,
     0,
     4.2,
-    4.2
+    4.2,
+    0
   ],
   "precos": [
     6,
@@ -30,6 +32,7 @@
     6,
     6,
     5.62,
+    5.84,
     5.84
   ],
   "variacoes": [
@@ -39,7 +42,8 @@
     0,
     0,
     -0.38,
-    0.22
+    0.22,
+    0
   ],
   "medias": [
     0,
@@ -47,6 +51,7 @@
     0,
     0,
     0,
+    4.2,
     4.2,
     4.2
   ],
@@ -141,12 +146,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/07/29/Vasco-65.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 8,
+      "clube_casa": "Ceará",
+      "clube_casa_id": 354,
+      "clube_visitante": "Santos",
+      "clube_casa_abrev": "CEA",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/10/10/ceara-65x65.png",
+      "clube_visitante_id": 277,
+      "clube_visitante_abrev": "SAN",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/santos_60x60.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2020/02/28/84228574413957408f18e14b94d2aa81_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/santos_60x60.png",
   "scouts": {
-    "rodada_id": 7,
+    "rodada_id": 8,
     "rb": 0,
     "g": 0,
     "a": 0,
@@ -167,9 +185,9 @@
     "pe": 0,
     "ds": 4,
     "pi": 3,
-    "pontos_num": 4.2,
+    "pontos_num": 0,
     "preco_num": 5.84,
-    "variacao_num": 0.22,
+    "variacao_num": 0,
     "media_num": 4.2,
     "jogos_num": 2,
     "posicao_abrev": "ata",

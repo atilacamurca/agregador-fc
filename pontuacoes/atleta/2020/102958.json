@@ -12,7 +12,8 @@
     4,
     5,
     6,
-    7
+    7,
+    8
   ],
   "pontos": [
     0,
@@ -21,7 +22,8 @@
     0.5,
     -0.1,
     0.6,
-    0
+    0,
+    5.5
   ],
   "precos": [
     2,
@@ -30,7 +32,8 @@
     1.6,
     1.43,
     1.54,
-    1.54
+    1.54,
+    2.66
   ],
   "variacoes": [
     0,
@@ -39,7 +42,8 @@
     0.06,
     -0.17,
     0.11,
-    0
+    0,
+    1.12
   ],
   "medias": [
     0,
@@ -48,7 +52,8 @@
     0.4,
     0.28,
     0.34,
-    0.34
+    0.34,
+    1.2
   ],
   "partidas": [
     {
@@ -141,17 +146,30 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2017/03/29/coritiba65.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 8,
+      "clube_casa": "Corinthians",
+      "clube_casa_id": 264,
+      "clube_visitante": "Botafogo",
+      "clube_casa_abrev": "COR",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/30/Corinthians_65.png",
+      "clube_visitante_id": 263,
+      "clube_visitante_abrev": "BOT",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/04/botafogo-65.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2019/03/28/4d88ed09bc75e94e5f255e63ec33d09c_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/04/botafogo-65.png",
   "scouts": {
-    "rodada_id": 7,
+    "rodada_id": 8,
     "rb": 0,
     "g": 0,
-    "a": 0,
+    "a": 1,
     "sg": 0,
-    "fs": 5,
+    "fs": 6,
     "ff": 0,
     "fd": 0,
     "ft": 0,
@@ -167,11 +185,11 @@
     "pe": 0,
     "ds": 1,
     "pi": 8,
-    "pontos_num": 0,
-    "preco_num": 1.54,
-    "variacao_num": 0,
-    "media_num": 0.34,
-    "jogos_num": 5,
+    "pontos_num": 5.5,
+    "preco_num": 2.66,
+    "variacao_num": 1.12,
+    "media_num": 1.2,
+    "jogos_num": 6,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }
