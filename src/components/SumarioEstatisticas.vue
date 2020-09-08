@@ -47,8 +47,8 @@
                         :fs="props.partida.zagueiros_visitante.sum_fs"
                         :fc="props.partida.zagueiros_visitante.sum_fc"
                         :ca="props.partida.zagueiros_visitante.sum_ca"
-                        :ds="props.partida.zagueiros_casa.sum_ds"
-                        :pi="props.partida.zagueiros_casa.sum_pi"
+                        :ds="props.partida.zagueiros_visitante.sum_ds"
+                        :pi="props.partida.zagueiros_visitante.sum_pi"
                     ></col-zagueiros>
                 </b-row>
             </b-col>
@@ -65,8 +65,8 @@
                         :rb="props.partida.laterais_casa.sum_rb"
                         :fc="props.partida.laterais_casa.sum_fc"
                         :fs="props.partida.laterais_casa.sum_fs"
-                        :ds="props.partida.zagueiros_casa.sum_ds"
-                        :pi="props.partida.zagueiros_casa.sum_pi"
+                        :ds="props.partida.laterais_casa.sum_ds"
+                        :pi="props.partida.laterais_casa.sum_pi"
                         class="ml-4"
                     ></col-laterais>
                 </b-row>
@@ -82,8 +82,8 @@
                         :rb="props.partida.laterais_visitante.sum_rb"
                         :fc="props.partida.laterais_visitante.sum_fc"
                         :fs="props.partida.laterais_visitante.sum_fs"
-                        :ds="props.partida.zagueiros_casa.sum_ds"
-                        :pi="props.partida.zagueiros_casa.sum_pi"
+                        :ds="props.partida.laterais_visitante.sum_ds"
+                        :pi="props.partida.laterais_visitante.sum_pi"
                     ></col-laterais>
                 </b-row>
             </b-col>
@@ -112,8 +112,8 @@
                         :rb="props.partida.meias_casa.sum_rb"
                         :pe="props.partida.meias_casa.sum_pe"
                         :ca="props.partida.meias_casa.sum_ca"
-                        :ds="props.partida.zagueiros_casa.sum_ds"
-                        :pi="props.partida.zagueiros_casa.sum_pi"
+                        :ds="props.partida.meias_casa.sum_ds"
+                        :pi="props.partida.meias_casa.sum_pi"
                         class="ml-4"
                     ></col-meias>
                 </b-row>
@@ -130,8 +130,8 @@
                         :rb="props.partida.meias_visitante.sum_rb"
                         :pe="props.partida.meias_visitante.sum_pe"
                         :ca="props.partida.meias_visitante.sum_ca"
-                        :ds="props.partida.zagueiros_casa.sum_ds"
-                        :pi="props.partida.zagueiros_casa.sum_pi"
+                        :ds="props.partida.meias_visitante.sum_ds"
+                        :pi="props.partida.meias_visitante.sum_pi"
                     ></col-meias>
                 </b-row>
             </b-col>

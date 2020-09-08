@@ -2,13 +2,13 @@
 // The Client API can be used here. Learn more: gridsome.org/docs/client-api
 
 import Plugins from './plugins'
-import distanceInWords from 'date-fns/distance_in_words'
-import format from 'date-fns/format'
-const locale = require('date-fns/locale/pt')
+import formatDistance from 'date-fns/formatDistance'
+import { format, parseISO } from 'date-fns'
+import { ptBR } from 'date-fns/locale'
 
 import '~/assets/styles.scss'
 
-const dateOptions = { addSuffix: true, locale }
+const dateOptions = { addSuffix: true, locale: ptBR }
 const numberFormat = new Intl.NumberFormat('pt-BR', { maximumSignificantDigits: 2 })
 
 export default function (Vue, { router, head, isClient }) {
@@ -66,17 +66,17 @@ export default function (Vue, { router, head, isClient }) {
     Vue.filter('fromNow', (value) => {
         if (!value) return ''
         value = value.toString()
-        return distanceInWords(new Date(), value, dateOptions)
+        return formatDistance(parseISO(value), new Date(), dateOptions)
     })
     Vue.filter('diaMes', value => {
         if (!value) return ''
         value = value.toString()
-        return format(value, 'ddd DD MMM', { locale })
+        return format(parseISO(value), 'eee dd MMM', { locale: ptBR })
     })
     Vue.filter('horario', value => {
         if (!value) return ''
         value = value.toString()
-        return format(value, 'HH:mm', { locale })
+        return format(parseISO(value), 'HH:mm', { locale: ptBR })
     })
 
     Vue.filter('intlNumberFormat', value => {

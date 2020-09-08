@@ -24,6 +24,7 @@
                     {{ props.nome_posicao }}
                 </span>
                 <variacao-num :variacao_num="props.variacao_num"></variacao-num>
+                <b-badge variant="light" class="ml-2">P {{ props.pontos_num }}</b-badge>
             </div>
             <div>
                 <b-badge variant="warning">M {{ props.media_num }}</b-badge>
@@ -75,6 +76,10 @@ export default {
         },
         urlPontuacao: {
             type: String,
+            required: true
+        },
+        pontos_num: {
+            type: Number,
             required: true
         }
     }
