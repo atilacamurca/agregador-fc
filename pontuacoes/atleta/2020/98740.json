@@ -13,7 +13,8 @@
     5,
     6,
     7,
-    8
+    8,
+    9
   ],
   "pontos": [
     0.5,
@@ -23,7 +24,8 @@
     0,
     0,
     -0.2,
-    -0.1
+    -0.1,
+    0.5
   ],
   "precos": [
     3.99,
@@ -33,7 +35,8 @@
     3.03,
     3.03,
     2.64,
-    2.6
+    2.6,
+    2.66
   ],
   "variacoes": [
     -1.01,
@@ -43,7 +46,8 @@
     0,
     0,
     -0.39,
-    -0.04
+    -0.04,
+    0.06
   ],
   "medias": [
     0.5,
@@ -53,7 +57,8 @@
     0.2,
     0.2,
     0.07,
-    0.03
+    0.03,
+    0.12
   ],
   "partidas": [
     {
@@ -159,18 +164,31 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/fluminense_60x60.png",
       "placar_oficial_mandante": 3,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 9,
+      "clube_casa": "Fluminense",
+      "clube_casa_id": 266,
+      "clube_visitante": "Flamengo",
+      "clube_casa_abrev": "FLU",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/fluminense_60x60.png",
+      "clube_visitante_id": 262,
+      "clube_visitante_abrev": "FLA",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/04/09/Flamengo-65.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2020/08/11/0f3de4bf496db9970fd66f13146a40a4_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/fluminense_60x60.png",
   "scouts": {
-    "rodada_id": 8,
+    "rodada_id": 9,
     "rb": 0,
     "g": 0,
     "a": 0,
     "sg": 0,
     "fs": 2,
-    "ff": 0,
+    "ff": 1,
     "fd": 0,
     "ft": 0,
     "dd": 0,
@@ -180,16 +198,16 @@
     "ca": 0,
     "pp": 0,
     "gs": 0,
-    "fc": 1,
+    "fc": 3,
     "i": 2,
     "pe": 0,
-    "ds": 1,
-    "pi": 4,
-    "pontos_num": -0.1,
-    "preco_num": 2.6,
-    "variacao_num": -0.04,
-    "media_num": 0.03,
-    "jogos_num": 4,
+    "ds": 2,
+    "pi": 7,
+    "pontos_num": 0.5,
+    "preco_num": 2.66,
+    "variacao_num": 0.06,
+    "media_num": 0.12,
+    "jogos_num": 5,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }

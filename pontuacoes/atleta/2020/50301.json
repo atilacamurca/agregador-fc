@@ -13,7 +13,8 @@
     5,
     6,
     7,
-    8
+    8,
+    9
   ],
   "pontos": [
     0,
@@ -23,7 +24,8 @@
     0.1,
     0,
     3.8,
-    -0.2
+    -0.2,
+    8
   ],
   "precos": [
     7,
@@ -33,7 +35,8 @@
     5.3,
     5.3,
     5.77,
-    5.13
+    5.13,
+    6.81
   ],
   "variacoes": [
     0,
@@ -43,7 +46,8 @@
     -1.7,
     0,
     0.47,
-    -0.64
+    -0.64,
+    1.68
   ],
   "medias": [
     0,
@@ -53,7 +57,8 @@
     0.1,
     0.1,
     1.95,
-    1.23
+    1.23,
+    2.92
   ],
   "partidas": [
     {
@@ -159,17 +164,30 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/gremio_60x60.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 9,
+      "clube_casa": "Bahia",
+      "clube_casa_id": 265,
+      "clube_visitante": "Grêmio",
+      "clube_casa_abrev": "BAH",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/bahia_60x60.png",
+      "clube_visitante_id": 284,
+      "clube_visitante_abrev": "GRE",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/gremio_60x60.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2020/08/18/21613ca434c9a230ec1b0821a3f70079_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/gremio_60x60.png",
   "scouts": {
-    "rodada_id": 8,
+    "rodada_id": 9,
     "rb": 0,
     "g": 0,
-    "a": 0,
+    "a": 1,
     "sg": 0,
-    "fs": 2,
+    "fs": 4,
     "ff": 2,
     "fd": 3,
     "ft": 0,
@@ -180,16 +198,16 @@
     "ca": 0,
     "pp": 0,
     "gs": 0,
-    "fc": 6,
+    "fc": 7,
     "i": 1,
     "pe": 0,
-    "ds": 3,
-    "pi": 20,
-    "pontos_num": -0.2,
-    "preco_num": 5.13,
-    "variacao_num": -0.64,
-    "media_num": 1.23,
-    "jogos_num": 3,
+    "ds": 6,
+    "pi": 25,
+    "pontos_num": 8,
+    "preco_num": 6.81,
+    "variacao_num": 1.68,
+    "media_num": 2.92,
+    "jogos_num": 4,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }

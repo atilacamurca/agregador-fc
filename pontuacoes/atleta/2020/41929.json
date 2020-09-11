@@ -13,7 +13,8 @@
     5,
     6,
     7,
-    8
+    8,
+    9
   ],
   "pontos": [
     4.95,
@@ -23,7 +24,8 @@
     5.29,
     0,
     3.53,
-    1.41
+    1.41,
+    7.75
   ],
   "precos": [
     12.29,
@@ -33,7 +35,8 @@
     12.68,
     12.68,
     12.1,
-    11.79
+    11.79,
+    13.06
   ],
   "variacoes": [
     0.29,
@@ -43,7 +46,8 @@
     0.59,
     0,
     -0.58,
-    -0.31
+    -0.31,
+    1.27
   ],
   "medias": [
     4.95,
@@ -53,7 +57,8 @@
     4.31,
     4.31,
     4.18,
-    3.78
+    3.78,
+    4.28
   ],
   "partidas": [
     {
@@ -159,12 +164,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/gremio_60x60.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 9,
+      "clube_casa": "Bahia",
+      "clube_casa_id": 265,
+      "clube_visitante": "Grêmio",
+      "clube_casa_abrev": "BAH",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/bahia_60x60.png",
+      "clube_visitante_id": 284,
+      "clube_visitante_abrev": "GRE",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/gremio_60x60.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2020/07/19/5604ae02dbe93c1893a6cdb31d2b0e90_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/gremio_60x60.png",
   "scouts": {
-    "rodada_id": 8,
+    "rodada_id": 9,
     "rb": 0,
     "g": 0,
     "a": 0,
@@ -185,11 +203,11 @@
     "pe": 0,
     "ds": 0,
     "pi": 0,
-    "pontos_num": 1.41,
-    "preco_num": 11.79,
-    "variacao_num": -0.31,
-    "media_num": 3.78,
-    "jogos_num": 7,
+    "pontos_num": 7.75,
+    "preco_num": 13.06,
+    "variacao_num": 1.27,
+    "media_num": 4.28,
+    "jogos_num": 8,
     "posicao_abrev": "tec",
     "posicao": "Técnico"
   }

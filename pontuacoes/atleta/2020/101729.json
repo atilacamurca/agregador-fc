@@ -10,20 +10,23 @@
     5,
     6,
     7,
-    8
+    8,
+    9
   ],
   "pontos": [
     0,
     0,
     0,
     0.2,
-    -2.6
+    -2.6,
+    1
   ],
   "precos": [
     1,
     1,
     1,
     0.81,
+    0.77,
     0.77
   ],
   "variacoes": [
@@ -31,14 +34,16 @@
     0,
     0,
     -0.19,
-    -0.04
+    -0.04,
+    0
   ],
   "medias": [
     0,
     0,
     0,
     0.2,
-    -1.2
+    -1.2,
+    -0.47
   ],
   "partidas": [
     {
@@ -105,19 +110,32 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/09/Athletico-PR-65x65.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 9,
+      "clube_casa": "Athlético-PR",
+      "clube_casa_id": 293,
+      "clube_visitante": "Botafogo",
+      "clube_casa_abrev": "ATL",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/09/Athletico-PR-65x65.png",
+      "clube_visitante_id": 263,
+      "clube_visitante_abrev": "BOT",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/04/botafogo-65.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2020/08/18/1e267a7ff59ae5084d7ab501dbd5b9b7_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/09/Athletico-PR-65x65.png",
   "scouts": {
-    "rodada_id": 8,
+    "rodada_id": 9,
     "rb": 0,
     "g": 0,
     "a": 0,
     "sg": 0,
     "fs": 1,
     "ff": 0,
-    "fd": 0,
+    "fd": 1,
     "ft": 0,
     "dd": 0,
     "dp": 0,
@@ -126,16 +144,16 @@
     "ca": 0,
     "pp": 0,
     "gs": 0,
-    "fc": 2,
+    "fc": 3,
     "i": 0,
     "pe": 0,
-    "ds": 0,
-    "pi": 19,
-    "pontos_num": -2.6,
+    "ds": 1,
+    "pi": 26,
+    "pontos_num": 1,
     "preco_num": 0.77,
-    "variacao_num": -0.04,
-    "media_num": -1.2,
-    "jogos_num": 2,
+    "variacao_num": 0,
+    "media_num": -0.47,
+    "jogos_num": 3,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }

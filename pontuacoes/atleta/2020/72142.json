@@ -13,7 +13,8 @@
     5,
     6,
     7,
-    8
+    8,
+    9
   ],
   "pontos": [
     0,
@@ -23,7 +24,8 @@
     2.5,
     -0.8,
     7.7,
-    0.3
+    0.3,
+    -5
   ],
   "precos": [
     5,
@@ -33,7 +35,8 @@
     5.68,
     4.99,
     6.72,
-    5.69
+    5.69,
+    4.41
   ],
   "variacoes": [
     0,
@@ -43,7 +46,8 @@
     0.15,
     -0.69,
     1.73,
-    -1.03
+    -1.03,
+    -1.28
   ],
   "medias": [
     0,
@@ -53,7 +57,8 @@
     3.1,
     2.32,
     3.22,
-    2.8
+    2.8,
+    1.82
   ],
   "partidas": [
     {
@@ -159,37 +164,50 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/04/botafogo-65.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 9,
+      "clube_casa": "Corinthians",
+      "clube_casa_id": 264,
+      "clube_visitante": "Palmeiras",
+      "clube_casa_abrev": "COR",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/30/Corinthians_65.png",
+      "clube_visitante_id": 275,
+      "clube_visitante_abrev": "PAL",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2020/08/17/aad01ff8fba4f807ccfdca075fa0d581_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/30/Corinthians_65.png",
   "scouts": {
-    "rodada_id": 8,
+    "rodada_id": 9,
     "rb": 0,
     "g": 1,
     "a": 0,
     "sg": 1,
     "fs": 2,
     "ff": 1,
-    "fd": 4,
+    "fd": 5,
     "ft": 0,
     "dd": 0,
     "dp": 0,
     "gc": 0,
-    "cv": 0,
+    "cv": 1,
     "ca": 0,
     "pp": 0,
     "gs": 0,
-    "fc": 11,
+    "fc": 13,
     "i": 0,
     "pe": 0,
     "ds": 8,
-    "pi": 25,
-    "pontos_num": 0.3,
-    "preco_num": 5.69,
-    "variacao_num": -1.03,
-    "media_num": 2.8,
-    "jogos_num": 7,
+    "pi": 27,
+    "pontos_num": -5,
+    "preco_num": 4.41,
+    "variacao_num": -1.28,
+    "media_num": 1.82,
+    "jogos_num": 8,
     "posicao_abrev": "zag",
     "posicao": "Zagueiro"
   }
