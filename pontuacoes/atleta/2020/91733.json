@@ -14,7 +14,8 @@
     6,
     7,
     8,
-    9
+    9,
+    10
   ],
   "pontos": [
     -1,
@@ -25,7 +26,8 @@
     0.7,
     4.4,
     0.9,
-    -3.5
+    -3.5,
+    0
   ],
   "precos": [
     2.9,
@@ -36,6 +38,7 @@
     4.85,
     5.63,
     5.19,
+    4.18,
     4.18
   ],
   "variacoes": [
@@ -47,7 +50,8 @@
     -0.87,
     0.78,
     -0.44,
-    -1.01
+    -1.01,
+    0
   ],
   "medias": [
     -1,
@@ -58,6 +62,7 @@
     2.82,
     3.05,
     2.78,
+    2.08,
     2.08
   ],
   "partidas": [
@@ -177,12 +182,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2015/07/21/sport65.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 10,
+      "clube_casa": "Grêmio",
+      "clube_casa_id": 284,
+      "clube_visitante": "Fortaleza",
+      "clube_casa_abrev": "GRE",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/gremio_60x60.png",
+      "clube_visitante_id": 356,
+      "clube_visitante_abrev": "FOR",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/06/10/fortaleza-ec-65px.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2019/03/22/4ef6aa2bd0c3f910bdb023b63225bec1_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2018/06/10/fortaleza-ec-65px.png",
   "scouts": {
-    "rodada_id": 9,
+    "rodada_id": 10,
     "rb": 0,
     "g": 0,
     "a": 0,
@@ -203,9 +221,9 @@
     "pe": 0,
     "ds": 25,
     "pi": 41,
-    "pontos_num": -3.5,
+    "pontos_num": 0,
     "preco_num": 4.18,
-    "variacao_num": -1.01,
+    "variacao_num": 0,
     "media_num": 2.08,
     "jogos_num": 9,
     "posicao_abrev": "mei",

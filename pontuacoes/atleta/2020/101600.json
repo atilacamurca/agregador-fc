@@ -14,7 +14,8 @@
     6,
     7,
     8,
-    9
+    9,
+    10
   ],
   "pontos": [
     0,
@@ -25,7 +26,8 @@
     0,
     0,
     4.9,
-    1.9
+    1.9,
+    0
   ],
   "precos": [
     1,
@@ -36,6 +38,7 @@
     2.48,
     2.48,
     3.06,
+    2.76,
     2.76
   ],
   "variacoes": [
@@ -47,7 +50,8 @@
     0,
     0,
     0.58,
-    -0.3
+    -0.3,
+    0
   ],
   "medias": [
     0,
@@ -58,6 +62,7 @@
     3.15,
     3.15,
     3.73,
+    3.27,
     3.27
   ],
   "partidas": [
@@ -177,12 +182,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2017/11/23/Atletico-Mineiro-escudo65px.png",
       "placar_oficial_mandante": 3,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 10,
+      "clube_casa": "Santos",
+      "clube_casa_id": 277,
+      "clube_visitante": "São Paulo",
+      "clube_casa_abrev": "SAN",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/santos_60x60.png",
+      "clube_visitante_id": 276,
+      "clube_visitante_abrev": "SAO",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/sao_paulo_60x60.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2020/08/25/c7ba1be6aa6517cfd10dbc6c36264da4_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/santos_60x60.png",
   "scouts": {
-    "rodada_id": 9,
+    "rodada_id": 10,
     "rb": 0,
     "g": 0,
     "a": 0,
@@ -203,9 +221,9 @@
     "pe": 0,
     "ds": 4,
     "pi": 9,
-    "pontos_num": 1.9,
+    "pontos_num": 0,
     "preco_num": 2.76,
-    "variacao_num": -0.3,
+    "variacao_num": 0,
     "media_num": 3.27,
     "jogos_num": 4,
     "posicao_abrev": "zag",

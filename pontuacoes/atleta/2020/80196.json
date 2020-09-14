@@ -14,7 +14,8 @@
     6,
     7,
     8,
-    9
+    9,
+    10
   ],
   "pontos": [
     0,
@@ -25,7 +26,8 @@
     1.2,
     -0.9,
     7.2,
-    1.1
+    1.1,
+    7.1
   ],
   "precos": [
     8,
@@ -36,7 +38,8 @@
     7.74,
     7.05,
     8.71,
-    7.78
+    7.78,
+    9.01
   ],
   "variacoes": [
     0,
@@ -47,7 +50,8 @@
     -1.32,
     -0.69,
     1.66,
-    -0.93
+    -0.93,
+    1.23
   ],
   "medias": [
     0,
@@ -58,7 +62,8 @@
     4.15,
     2.47,
     3.65,
-    3.14
+    3.14,
+    3.8
   ],
   "partidas": [
     {
@@ -177,20 +182,33 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2020/07/02/atletico-go-2020-65.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 10,
+      "clube_casa": "Botafogo",
+      "clube_casa_id": 263,
+      "clube_visitante": "Vasco",
+      "clube_casa_abrev": "BOT",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/04/botafogo-65.png",
+      "clube_visitante_id": 267,
+      "clube_visitante_abrev": "VAS",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/07/29/Vasco-65.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 3
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2020/08/17/563094d1d3dc45cf4923d8458d9eb999_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2016/07/29/Vasco-65.png",
   "scouts": {
-    "rodada_id": 9,
+    "rodada_id": 10,
     "rb": 0,
     "g": 0,
     "a": 0,
     "sg": 2,
-    "fs": 4,
+    "fs": 8,
     "ff": 3,
     "fd": 2,
-    "ft": 0,
+    "ft": 1,
     "dd": 0,
     "dp": 0,
     "gc": 0,
@@ -201,13 +219,13 @@
     "fc": 9,
     "i": 0,
     "pe": 0,
-    "ds": 6,
-    "pi": 26,
-    "pontos_num": 1.1,
-    "preco_num": 7.78,
-    "variacao_num": -0.93,
-    "media_num": 3.14,
-    "jogos_num": 5,
+    "ds": 9,
+    "pi": 35,
+    "pontos_num": 7.1,
+    "preco_num": 9.01,
+    "variacao_num": 1.23,
+    "media_num": 3.8,
+    "jogos_num": 6,
     "posicao_abrev": "lat",
     "posicao": "Lateral"
   }

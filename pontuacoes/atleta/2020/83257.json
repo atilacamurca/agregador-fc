@@ -14,7 +14,8 @@
     6,
     7,
     8,
-    9
+    9,
+    10
   ],
   "pontos": [
     3,
@@ -25,7 +26,8 @@
     12.3,
     0,
     9.9,
-    9.5
+    9.5,
+    2.5
   ],
   "precos": [
     9.42,
@@ -36,7 +38,8 @@
     13.71,
     13.71,
     14.01,
-    14.49
+    14.49,
+    13.46
   ],
   "variacoes": [
     -0.58,
@@ -47,7 +50,8 @@
     1.23,
     0,
     0.3,
-    0.48
+    0.48,
+    -1.03
   ],
   "medias": [
     3,
@@ -58,7 +62,8 @@
     6.8,
     6.8,
     7.24,
-    7.52
+    7.52,
+    6.96
   ],
   "partidas": [
     {
@@ -177,19 +182,32 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/04/09/Flamengo-65.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 10,
+      "clube_casa": "Ceará",
+      "clube_casa_id": 354,
+      "clube_visitante": "Flamengo",
+      "clube_casa_abrev": "CEA",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/10/10/ceara-65x65.png",
+      "clube_visitante_id": 262,
+      "clube_visitante_abrev": "FLA",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/04/09/Flamengo-65.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2020/07/21/6604f523718cb7a1b17424add935b9b8_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2018/04/09/Flamengo-65.png",
   "scouts": {
-    "rodada_id": 9,
+    "rodada_id": 10,
     "rb": 0,
     "g": 5,
     "a": 0,
     "sg": 0,
-    "fs": 9,
-    "ff": 12,
-    "fd": 10,
+    "fs": 10,
+    "ff": 15,
+    "fd": 11,
     "ft": 1,
     "dd": 0,
     "dp": 0,
@@ -199,15 +217,15 @@
     "pp": 0,
     "gs": 0,
     "fc": 3,
-    "i": 5,
+    "i": 7,
     "pe": 0,
     "ds": 4,
-    "pi": 49,
-    "pontos_num": 9.5,
-    "preco_num": 14.49,
-    "variacao_num": 0.48,
-    "media_num": 7.52,
-    "jogos_num": 8,
+    "pi": 55,
+    "pontos_num": 2.5,
+    "preco_num": 13.46,
+    "variacao_num": -1.03,
+    "media_num": 6.96,
+    "jogos_num": 9,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }

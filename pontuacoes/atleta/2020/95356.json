@@ -8,27 +8,32 @@
   "rodadas": [
     7,
     8,
-    9
+    9,
+    10
   ],
   "pontos": [
     0,
     0,
-    0.6
+    0.6,
+    3.6
   ],
   "precos": [
     7,
     7,
-    5.62
+    5.62,
+    6.28
   ],
   "variacoes": [
     0,
     0,
-    -1.38
+    -1.38,
+    0.66
   ],
   "medias": [
     0,
     0,
-    0.6
+    0.6,
+    2.1
   ],
   "partidas": [
     {
@@ -69,17 +74,30 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/04/botafogo-65.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 10,
+      "clube_casa": "Botafogo",
+      "clube_casa_id": 263,
+      "clube_visitante": "Vasco",
+      "clube_casa_abrev": "BOT",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/04/botafogo-65.png",
+      "clube_visitante_id": 267,
+      "clube_visitante_abrev": "VAS",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/07/29/Vasco-65.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 3
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2020/09/03/4ae8e1b8d3d89d5ea0410c49475f3c68_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/04/botafogo-65.png",
   "scouts": {
-    "rodada_id": 9,
+    "rodada_id": 10,
     "rb": 0,
     "g": 0,
     "a": 0,
     "sg": 0,
-    "fs": 0,
+    "fs": 1,
     "ff": 0,
     "fd": 1,
     "ft": 0,
@@ -90,16 +108,16 @@
     "ca": 0,
     "pp": 0,
     "gs": 0,
-    "fc": 1,
+    "fc": 2,
     "i": 0,
     "pe": 0,
-    "ds": 0,
-    "pi": 1,
-    "pontos_num": 0.6,
-    "preco_num": 5.62,
-    "variacao_num": -1.38,
-    "media_num": 0.6,
-    "jogos_num": 1,
+    "ds": 4,
+    "pi": 5,
+    "pontos_num": 3.6,
+    "preco_num": 6.28,
+    "variacao_num": 0.66,
+    "media_num": 2.1,
+    "jogos_num": 2,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }

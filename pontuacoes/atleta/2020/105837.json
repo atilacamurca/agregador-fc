@@ -14,7 +14,8 @@
     6,
     7,
     8,
-    9
+    9,
+    10
   ],
   "pontos": [
     0,
@@ -25,7 +26,8 @@
     0,
     0,
     0,
-    1.2
+    1.2,
+    0
   ],
   "precos": [
     1,
@@ -36,7 +38,8 @@
     0.86,
     0.86,
     0.86,
-    1.01
+    1.01,
+    0.83
   ],
   "variacoes": [
     0,
@@ -47,7 +50,8 @@
     0,
     0,
     0,
-    0.15
+    0.15,
+    -0.18
   ],
   "medias": [
     0,
@@ -58,7 +62,8 @@
     0.4,
     0.4,
     0.4,
-    0.8
+    0.8,
+    0.53
   ],
   "partidas": [
     {
@@ -177,17 +182,30 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/gremio_60x60.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 10,
+      "clube_casa": "Grêmio",
+      "clube_casa_id": 284,
+      "clube_visitante": "Fortaleza",
+      "clube_casa_abrev": "GRE",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/gremio_60x60.png",
+      "clube_visitante_id": 356,
+      "clube_visitante_abrev": "FOR",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/06/10/fortaleza-ec-65px.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2020/07/19/756f7ee69aa8fccdfd44fbbf534a60a0_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/gremio_60x60.png",
   "scouts": {
-    "rodada_id": 9,
+    "rodada_id": 10,
     "rb": 0,
     "g": 0,
     "a": 0,
     "sg": 0,
-    "fs": 2,
+    "fs": 3,
     "ff": 0,
     "fd": 1,
     "ft": 0,
@@ -198,16 +216,16 @@
     "ca": 0,
     "pp": 0,
     "gs": 0,
-    "fc": 0,
+    "fc": 1,
     "i": 1,
     "pe": 0,
     "ds": 0,
     "pi": 1,
-    "pontos_num": 1.2,
-    "preco_num": 1.01,
-    "variacao_num": 0.15,
-    "media_num": 0.8,
-    "jogos_num": 2,
+    "pontos_num": 0,
+    "preco_num": 0.83,
+    "variacao_num": -0.18,
+    "media_num": 0.53,
+    "jogos_num": 3,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }

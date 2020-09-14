@@ -14,7 +14,8 @@
     6,
     7,
     8,
-    9
+    9,
+    10
   ],
   "pontos": [
     0,
@@ -25,7 +26,8 @@
     0,
     5,
     0.2,
-    -1.2
+    -1.2,
+    0
   ],
   "precos": [
     4,
@@ -36,6 +38,7 @@
     3.25,
     4.06,
     3.38,
+    3.01,
     3.01
   ],
   "variacoes": [
@@ -47,7 +50,8 @@
     0,
     0.81,
     -0.68,
-    -0.37
+    -0.37,
+    0
   ],
   "medias": [
     0,
@@ -58,6 +62,7 @@
     0.85,
     2.23,
     1.72,
+    1.14,
     1.14
   ],
   "partidas": [
@@ -177,12 +182,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2017/03/29/coritiba65.png",
       "placar_oficial_mandante": 3,
       "placar_oficial_visitante": 3
+    },
+    {
+      "rodada_id": 10,
+      "clube_casa": "Goiás",
+      "clube_casa_id": 290,
+      "clube_visitante": "Internacional",
+      "clube_casa_abrev": "GOI",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/05/01/Goias_65px.png",
+      "clube_visitante_id": 285,
+      "clube_visitante_abrev": "INT",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/03/inter65.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2020/08/26/358cf602cf5fba4ab21e7f61d2a02cf6_140x140.jpeg",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2019/05/01/Goias_65px.png",
   "scouts": {
-    "rodada_id": 9,
+    "rodada_id": 10,
     "rb": 0,
     "g": 0,
     "a": 0,
@@ -203,9 +221,9 @@
     "pe": 0,
     "ds": 3,
     "pi": 9,
-    "pontos_num": -1.2,
+    "pontos_num": 0,
     "preco_num": 3.01,
-    "variacao_num": -0.37,
+    "variacao_num": 0,
     "media_num": 1.14,
     "jogos_num": 5,
     "posicao_abrev": "ata",

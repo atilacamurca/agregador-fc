@@ -14,7 +14,8 @@
     6,
     7,
     8,
-    9
+    9,
+    10
   ],
   "pontos": [
     0,
@@ -25,7 +26,8 @@
     -0.2,
     4.7,
     3.6,
-    8.1
+    8.1,
+    5.2
   ],
   "precos": [
     2,
@@ -36,7 +38,8 @@
     2.86,
     3.9,
     4.06,
-    5.3
+    5.3,
+    5.22
   ],
   "variacoes": [
     0,
@@ -47,7 +50,8 @@
     -1.44,
     1.04,
     0.16,
-    1.24
+    1.24,
+    -0.08
   ],
   "medias": [
     0,
@@ -58,7 +62,8 @@
     5.05,
     4.93,
     4.6,
-    5.3
+    5.3,
+    5.28
   ],
   "partidas": [
     {
@@ -177,18 +182,31 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/04/09/Flamengo-65.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 10,
+      "clube_casa": "Fluminense",
+      "clube_casa_id": 266,
+      "clube_visitante": "Corinthians",
+      "clube_casa_abrev": "FLU",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/fluminense_60x60.png",
+      "clube_visitante_id": 264,
+      "clube_visitante_abrev": "COR",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/30/Corinthians_65.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2020/08/11/62173af2578274ecacd1dfb222a0b1ed_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/fluminense_60x60.png",
   "scouts": {
-    "rodada_id": 9,
+    "rodada_id": 10,
     "rb": 0,
     "g": 0,
     "a": 0,
     "sg": 1,
-    "fs": 12,
-    "ff": 1,
+    "fs": 15,
+    "ff": 2,
     "fd": 1,
     "ft": 0,
     "dd": 0,
@@ -198,16 +216,16 @@
     "ca": 0,
     "pp": 0,
     "gs": 0,
-    "fc": 6,
+    "fc": 7,
     "i": 1,
     "pe": 0,
-    "ds": 20,
-    "pi": 30,
-    "pontos_num": 8.1,
-    "preco_num": 5.3,
-    "variacao_num": 1.24,
-    "media_num": 5.3,
-    "jogos_num": 5,
+    "ds": 24,
+    "pi": 36,
+    "pontos_num": 5.2,
+    "preco_num": 5.22,
+    "variacao_num": -0.08,
+    "media_num": 5.28,
+    "jogos_num": 6,
     "posicao_abrev": "lat",
     "posicao": "Lateral"
   }

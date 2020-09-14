@@ -14,7 +14,8 @@
     6,
     7,
     8,
-    9
+    9,
+    10
   ],
   "pontos": [
     2.1,
@@ -25,7 +26,8 @@
     0.2,
     -2.4,
     0.7,
-    0
+    0,
+    1.6
   ],
   "precos": [
     5.87,
@@ -36,7 +38,8 @@
     3.97,
     3.21,
     3.63,
-    3.63
+    3.63,
+    3.73
   ],
   "variacoes": [
     -0.13,
@@ -47,7 +50,8 @@
     -0.37,
     -0.76,
     0.42,
-    0
+    0,
+    0.1
   ],
   "medias": [
     2.1,
@@ -58,7 +62,8 @@
     0.48,
     0,
     0.1,
-    0.1
+    0.1,
+    0.29
   ],
   "partidas": [
     {
@@ -177,18 +182,31 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/04/09/Flamengo-65.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 10,
+      "clube_casa": "Fluminense",
+      "clube_casa_id": 266,
+      "clube_visitante": "Corinthians",
+      "clube_casa_abrev": "FLU",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/fluminense_60x60.png",
+      "clube_visitante_id": 264,
+      "clube_visitante_abrev": "COR",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/30/Corinthians_65.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2020/08/11/672deb726c86fbc4b3c7a16153f7ec70_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/fluminense_60x60.png",
   "scouts": {
-    "rodada_id": 9,
+    "rodada_id": 10,
     "rb": 0,
     "g": 0,
     "a": 0,
     "sg": 0,
-    "fs": 9,
-    "ff": 0,
+    "fs": 10,
+    "ff": 1,
     "fd": 0,
     "ft": 0,
     "dd": 0,
@@ -198,16 +216,16 @@
     "ca": 2,
     "pp": 0,
     "gs": 0,
-    "fc": 7,
+    "fc": 8,
     "i": 0,
     "pe": 0,
-    "ds": 7,
-    "pi": 33,
-    "pontos_num": 0,
-    "preco_num": 3.63,
-    "variacao_num": 0,
-    "media_num": 0.1,
-    "jogos_num": 7,
+    "ds": 8,
+    "pi": 35,
+    "pontos_num": 1.6,
+    "preco_num": 3.73,
+    "variacao_num": 0.1,
+    "media_num": 0.29,
+    "jogos_num": 8,
     "posicao_abrev": "zag",
     "posicao": "Zagueiro"
   }

@@ -14,7 +14,8 @@
     6,
     7,
     8,
-    9
+    9,
+    10
   ],
   "pontos": [
     -1.2,
@@ -25,7 +26,8 @@
     0,
     3.2,
     7.6,
-    2.1
+    2.1,
+    9.2
   ],
   "precos": [
     3.48,
@@ -36,7 +38,8 @@
     1.92,
     2.39,
     3.68,
-    3.04
+    3.04,
+    4.69
   ],
   "variacoes": [
     -2.52,
@@ -47,7 +50,8 @@
     0,
     0.47,
     1.29,
-    -0.64
+    -0.64,
+    1.65
   ],
   "medias": [
     -1.2,
@@ -58,7 +62,8 @@
     0.1,
     0.62,
     1.62,
-    1.68
+    1.68,
+    2.52
   ],
   "partidas": [
     {
@@ -177,17 +182,30 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2015/07/21/sport65.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 10,
+      "clube_casa": "Grêmio",
+      "clube_casa_id": 284,
+      "clube_visitante": "Fortaleza",
+      "clube_casa_abrev": "GRE",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/gremio_60x60.png",
+      "clube_visitante_id": 356,
+      "clube_visitante_abrev": "FOR",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/06/10/fortaleza-ec-65px.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2019/09/03/f3c44a346794fb67a9084ef89211cd1c_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2018/06/10/fortaleza-ec-65px.png",
   "scouts": {
-    "rodada_id": 9,
+    "rodada_id": 10,
     "rb": 0,
     "g": 1,
-    "a": 0,
+    "a": 1,
     "sg": 0,
-    "fs": 9,
+    "fs": 12,
     "ff": 8,
     "fd": 1,
     "ft": 0,
@@ -198,16 +216,16 @@
     "ca": 3,
     "pp": 0,
     "gs": 0,
-    "fc": 15,
+    "fc": 16,
     "i": 0,
     "pe": 0,
-    "ds": 14,
-    "pi": 72,
-    "pontos_num": 2.1,
-    "preco_num": 3.04,
-    "variacao_num": -0.64,
-    "media_num": 1.68,
-    "jogos_num": 8,
+    "ds": 18,
+    "pi": 80,
+    "pontos_num": 9.2,
+    "preco_num": 4.69,
+    "variacao_num": 1.65,
+    "media_num": 2.52,
+    "jogos_num": 9,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }

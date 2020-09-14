@@ -14,7 +14,8 @@
     6,
     7,
     8,
-    9
+    9,
+    10
   ],
   "pontos": [
     0,
@@ -25,7 +26,8 @@
     0,
     4.8,
     0.4,
-    -0.1
+    -0.1,
+    9.1
   ],
   "precos": [
     2,
@@ -36,7 +38,8 @@
     2,
     2.65,
     2.07,
-    1.95
+    1.95,
+    3.9
   ],
   "variacoes": [
     0,
@@ -47,7 +50,8 @@
     0,
     0.65,
     -0.58,
-    -0.12
+    -0.12,
+    1.95
   ],
   "medias": [
     0,
@@ -58,7 +62,8 @@
     0,
     4.8,
     2.6,
-    1.7
+    1.7,
+    3.55
   ],
   "partidas": [
     {
@@ -177,18 +182,31 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2020/07/02/atletico-go-2020-65.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 10,
+      "clube_casa": "Botafogo",
+      "clube_casa_id": 263,
+      "clube_visitante": "Vasco",
+      "clube_casa_abrev": "BOT",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/04/botafogo-65.png",
+      "clube_visitante_id": 267,
+      "clube_visitante_abrev": "VAS",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/07/29/Vasco-65.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 3
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2020/08/17/fd7a0d6eccfebe7256b429fbca413830_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2016/07/29/Vasco-65.png",
   "scouts": {
-    "rodada_id": 9,
+    "rodada_id": 10,
     "rb": 0,
-    "g": 0,
+    "g": 1,
     "a": 1,
     "sg": 0,
-    "fs": 3,
-    "ff": 0,
+    "fs": 4,
+    "ff": 1,
     "fd": 0,
     "ft": 0,
     "dd": 0,
@@ -202,12 +220,12 @@
     "i": 1,
     "pe": 0,
     "ds": 2,
-    "pi": 9,
-    "pontos_num": -0.1,
-    "preco_num": 1.95,
-    "variacao_num": -0.12,
-    "media_num": 1.7,
-    "jogos_num": 3,
+    "pi": 11,
+    "pontos_num": 9.1,
+    "preco_num": 3.9,
+    "variacao_num": 1.95,
+    "media_num": 3.55,
+    "jogos_num": 4,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }

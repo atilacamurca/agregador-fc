@@ -14,7 +14,8 @@
     6,
     7,
     8,
-    9
+    9,
+    10
   ],
   "pontos": [
     0,
@@ -25,7 +26,8 @@
     0,
     0,
     0.5,
-    -1
+    -1,
+    0
   ],
   "precos": [
     2,
@@ -36,6 +38,7 @@
     2.1,
     2.1,
     2.07,
+    1.74,
     1.74
   ],
   "variacoes": [
@@ -47,7 +50,8 @@
     0,
     0,
     -0.03,
-    -0.33
+    -0.33,
+    0
   ],
   "medias": [
     0,
@@ -58,6 +62,7 @@
     1.53,
     1.53,
     1.27,
+    0.82,
     0.82
   ],
   "partidas": [
@@ -177,12 +182,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/10/10/ceara-65x65.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 10,
+      "clube_casa": "Goiás",
+      "clube_casa_id": 290,
+      "clube_visitante": "Internacional",
+      "clube_casa_abrev": "GOI",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/05/01/Goias_65px.png",
+      "clube_visitante_id": 285,
+      "clube_visitante_abrev": "INT",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/03/inter65.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2020/02/27/5c7fe67d54b296320092b526cff1e6bb_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/03/inter65.png",
   "scouts": {
-    "rodada_id": 9,
+    "rodada_id": 10,
     "rb": 0,
     "g": 0,
     "a": 1,
@@ -203,9 +221,9 @@
     "pe": 0,
     "ds": 2,
     "pi": 12,
-    "pontos_num": -1,
+    "pontos_num": 0,
     "preco_num": 1.74,
-    "variacao_num": -0.33,
+    "variacao_num": 0,
     "media_num": 0.82,
     "jogos_num": 5,
     "posicao_abrev": "mei",

@@ -14,7 +14,8 @@
     6,
     7,
     8,
-    9
+    9,
+    10
   ],
   "pontos": [
     0,
@@ -25,7 +26,8 @@
     2.9,
     -0.5,
     0,
-    1.4
+    1.4,
+    8.2
   ],
   "precos": [
     4,
@@ -36,7 +38,8 @@
     3.43,
     2.8,
     2.8,
-    3.06
+    3.06,
+    4.59
   ],
   "variacoes": [
     0,
@@ -47,7 +50,8 @@
     0.23,
     -0.63,
     0,
-    0.26
+    0.26,
+    1.53
   ],
   "medias": [
     0,
@@ -58,7 +62,8 @@
     1.13,
     0.72,
     0.72,
-    0.86
+    0.86,
+    2.08
   ],
   "partidas": [
     {
@@ -177,20 +182,33 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2020/01/01/65.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 10,
+      "clube_casa": "Atlético-MG",
+      "clube_casa_id": 282,
+      "clube_visitante": "Bragantino",
+      "clube_casa_abrev": "ATL",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2017/11/23/Atletico-Mineiro-escudo65px.png",
+      "clube_visitante_id": 280,
+      "clube_visitante_abrev": "BRA",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2020/01/01/65.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2020/08/28/cb89e54fa471354bad6c43cfca018a24_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2020/01/01/65.png",
   "scouts": {
-    "rodada_id": 9,
+    "rodada_id": 10,
     "rb": 0,
     "g": 0,
     "a": 0,
     "sg": 0,
-    "fs": 6,
+    "fs": 9,
     "ff": 1,
-    "fd": 0,
-    "ft": 0,
+    "fd": 1,
+    "ft": 1,
     "dd": 0,
     "dp": 0,
     "gc": 0,
@@ -198,16 +216,16 @@
     "ca": 1,
     "pp": 0,
     "gs": 0,
-    "fc": 3,
+    "fc": 5,
     "i": 0,
     "pe": 0,
-    "ds": 5,
-    "pi": 10,
-    "pontos_num": 1.4,
-    "preco_num": 3.06,
-    "variacao_num": 0.26,
-    "media_num": 0.86,
-    "jogos_num": 5,
+    "ds": 9,
+    "pi": 15,
+    "pontos_num": 8.2,
+    "preco_num": 4.59,
+    "variacao_num": 1.53,
+    "media_num": 2.08,
+    "jogos_num": 6,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }

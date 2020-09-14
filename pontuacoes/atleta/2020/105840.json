@@ -14,7 +14,8 @@
     6,
     7,
     8,
-    9
+    9,
+    10
   ],
   "pontos": [
     0,
@@ -25,7 +26,8 @@
     0,
     0,
     0,
-    0
+    0,
+    -1
   ],
   "precos": [
     1,
@@ -36,7 +38,8 @@
     1,
     1,
     1,
-    1
+    1,
+    0.77
   ],
   "variacoes": [
     0,
@@ -47,7 +50,8 @@
     0,
     0,
     0,
-    0
+    0,
+    -0.23
   ],
   "medias": [
     0,
@@ -58,7 +62,8 @@
     0,
     0,
     0,
-    0
+    0,
+    -1
   ],
   "partidas": [
     {
@@ -177,37 +182,50 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/10/10/ceara-65x65.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 10,
+      "clube_casa": "Goiás",
+      "clube_casa_id": 290,
+      "clube_visitante": "Internacional",
+      "clube_casa_abrev": "GOI",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/05/01/Goias_65px.png",
+      "clube_visitante_id": 285,
+      "clube_visitante_abrev": "INT",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/03/inter65.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2020/02/27/f05e34f440e1b9e862786629262340fa_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/03/inter65.png",
   "scouts": {
-    "rodada_id": 9,
+    "rodada_id": 10,
     "rb": 0,
     "g": 0,
     "a": 0,
     "sg": 0,
-    "fs": 0,
+    "fs": 1,
     "ff": 0,
-    "fd": 0,
+    "fd": 1,
     "ft": 0,
     "dd": 0,
     "dp": 0,
     "gc": 0,
     "cv": 0,
-    "ca": 0,
+    "ca": 1,
     "pp": 0,
     "gs": 0,
-    "fc": 0,
+    "fc": 2,
     "i": 0,
     "pe": 0,
-    "ds": 0,
-    "pi": 0,
-    "pontos_num": 0,
-    "preco_num": 1,
-    "variacao_num": 0,
-    "media_num": 0,
-    "jogos_num": 0,
+    "ds": 1,
+    "pi": 7,
+    "pontos_num": -1,
+    "preco_num": 0.77,
+    "variacao_num": -0.23,
+    "media_num": -1,
+    "jogos_num": 1,
     "posicao_abrev": "zag",
     "posicao": "Zagueiro"
   }

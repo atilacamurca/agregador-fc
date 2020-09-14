@@ -14,7 +14,8 @@
     6,
     7,
     8,
-    9
+    9,
+    10
   ],
   "pontos": [
     0.3,
@@ -25,7 +26,8 @@
     0.9,
     1.7,
     -0.6,
-    0
+    0,
+    11.9
   ],
   "precos": [
     3.12,
@@ -36,7 +38,8 @@
     2.56,
     2.74,
     2.33,
-    2.33
+    2.33,
+    4.89
   ],
   "variacoes": [
     -0.88,
@@ -47,7 +50,8 @@
     0.09,
     0.18,
     -0.41,
-    0
+    0,
+    2.56
   ],
   "medias": [
     0.3,
@@ -58,7 +62,8 @@
     0.5,
     0.8,
     0.52,
-    0.52
+    0.52,
+    2.42
   ],
   "partidas": [
     {
@@ -177,17 +182,30 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2015/07/21/sport65.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 10,
+      "clube_casa": "Palmeiras",
+      "clube_casa_id": 275,
+      "clube_visitante": "Sport",
+      "clube_casa_abrev": "PAL",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
+      "clube_visitante_id": 292,
+      "clube_visitante_abrev": "SPO",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2015/07/21/sport65.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2020/02/27/30e6367d1c02b5a0bdbbafbd7689f58b_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2015/07/21/sport65.png",
   "scouts": {
-    "rodada_id": 9,
+    "rodada_id": 10,
     "rb": 0,
-    "g": 0,
+    "g": 1,
     "a": 0,
     "sg": 0,
-    "fs": 0,
+    "fs": 1,
     "ff": 1,
     "fd": 0,
     "ft": 0,
@@ -201,13 +219,13 @@
     "fc": 4,
     "i": 0,
     "pe": 0,
-    "ds": 5,
-    "pi": 12,
-    "pontos_num": 0,
-    "preco_num": 2.33,
-    "variacao_num": 0,
-    "media_num": 0.52,
-    "jogos_num": 5,
+    "ds": 9,
+    "pi": 18,
+    "pontos_num": 11.9,
+    "preco_num": 4.89,
+    "variacao_num": 2.56,
+    "media_num": 2.42,
+    "jogos_num": 6,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }

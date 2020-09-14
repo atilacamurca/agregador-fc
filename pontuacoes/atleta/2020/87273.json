@@ -14,7 +14,8 @@
     6,
     7,
     8,
-    9
+    9,
+    10
   ],
   "pontos": [
     0,
@@ -25,7 +26,8 @@
     5.9,
     0.7,
     0.3,
-    -0.1
+    -0.1,
+    0
   ],
   "precos": [
     4,
@@ -36,6 +38,7 @@
     5.19,
     4.4,
     4.32,
+    4.16,
     4.16
   ],
   "variacoes": [
@@ -47,7 +50,8 @@
     0.69,
     -0.79,
     -0.08,
-    -0.16
+    -0.16,
+    0
   ],
   "medias": [
     0,
@@ -58,6 +62,7 @@
     5.45,
     3.87,
     2.98,
+    2.36,
     2.36
   ],
   "partidas": [
@@ -177,12 +182,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2020/07/02/atletico-go-2020-65.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 10,
+      "clube_casa": "Botafogo",
+      "clube_casa_id": 263,
+      "clube_visitante": "Vasco",
+      "clube_casa_abrev": "BOT",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/04/botafogo-65.png",
+      "clube_visitante_id": 267,
+      "clube_visitante_abrev": "VAS",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/07/29/Vasco-65.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 3
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2020/08/17/5391bf0dc50dad3b0f7d2b294c2e38ad_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2016/07/29/Vasco-65.png",
   "scouts": {
-    "rodada_id": 9,
+    "rodada_id": 10,
     "rb": 0,
     "g": 0,
     "a": 1,
@@ -203,9 +221,9 @@
     "pe": 0,
     "ds": 5,
     "pi": 15,
-    "pontos_num": -0.1,
+    "pontos_num": 0,
     "preco_num": 4.16,
-    "variacao_num": -0.16,
+    "variacao_num": 0,
     "media_num": 2.36,
     "jogos_num": 5,
     "posicao_abrev": "mei",
