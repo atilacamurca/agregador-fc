@@ -12,7 +12,8 @@
     7,
     8,
     9,
-    10
+    10,
+    11
   ],
   "pontos": [
     0,
@@ -21,7 +22,8 @@
     8.7,
     -0.7,
     -0.4,
-    1.6
+    1.6,
+    0
   ],
   "precos": [
     10,
@@ -30,6 +32,7 @@
     9.96,
     8.44,
     8.17,
+    8.37,
     8.37
   ],
   "variacoes": [
@@ -39,7 +42,8 @@
     1.52,
     -1.52,
     -0.27,
-    0.2
+    0.2,
+    0
   ],
   "medias": [
     0,
@@ -48,6 +52,7 @@
     5.75,
     3.6,
     2.6,
+    2.4,
     2.4
   ],
   "partidas": [
@@ -141,12 +146,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/04/09/Flamengo-65.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 11,
+      "clube_casa": "Flamengo",
+      "clube_casa_id": 262,
+      "clube_visitante": "Goiás",
+      "clube_casa_abrev": "FLA",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/04/09/Flamengo-65.png",
+      "clube_visitante_id": 290,
+      "clube_visitante_abrev": "GOI",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/05/01/Goias_65px.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2020/08/28/bfa17ba766cfaa70d4c11c51304fc336_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2018/04/09/Flamengo-65.png",
   "scouts": {
-    "rodada_id": 10,
+    "rodada_id": 11,
     "rb": 0,
     "g": 0,
     "a": 2,
@@ -167,9 +185,9 @@
     "pe": 0,
     "ds": 7,
     "pi": 35,
-    "pontos_num": 1.6,
+    "pontos_num": 0,
     "preco_num": 8.37,
-    "variacao_num": 0.2,
+    "variacao_num": 0,
     "media_num": 2.4,
     "jogos_num": 5,
     "posicao_abrev": "lat",

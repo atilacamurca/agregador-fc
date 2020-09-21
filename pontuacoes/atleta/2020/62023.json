@@ -15,7 +15,8 @@
     7,
     8,
     9,
-    10
+    10,
+    11
   ],
   "pontos": [
     -0.1,
@@ -27,7 +28,8 @@
     -0.1,
     4.5,
     0,
-    1
+    1,
+    -2
   ],
   "precos": [
     5,
@@ -39,7 +41,8 @@
     3.04,
     4.04,
     3.33,
-    3.48
+    3.48,
+    2.8
   ],
   "variacoes": [
     -2,
@@ -51,7 +54,8 @@
     0.01,
     1,
     -0.71,
-    0.15
+    0.15,
+    -0.68
   ],
   "medias": [
     -0.1,
@@ -63,7 +67,8 @@
     0.08,
     0.82,
     0.7,
-    0.74
+    0.74,
+    0.44
   ],
   "partidas": [
     {
@@ -195,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/03/inter65.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 11,
+      "clube_casa": "Fortaleza",
+      "clube_casa_id": 356,
+      "clube_visitante": "Internacional",
+      "clube_casa_abrev": "FOR",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/06/10/fortaleza-ec-65px.png",
+      "clube_visitante_id": 285,
+      "clube_visitante_abrev": "INT",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/03/inter65.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2020/02/27/848601c752c8fa58a805d78e5bad50db_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/03/inter65.png",
   "scouts": {
-    "rodada_id": 10,
+    "rodada_id": 11,
     "rb": 0,
     "g": 0,
     "a": 0,
@@ -213,19 +231,19 @@
     "dp": 0,
     "gc": 0,
     "cv": 0,
-    "ca": 1,
+    "ca": 2,
     "pp": 0,
     "gs": 0,
-    "fc": 1,
+    "fc": 2,
     "i": 2,
     "pe": 0,
-    "ds": 3,
-    "pi": 31,
-    "pontos_num": 1,
-    "preco_num": 3.48,
-    "variacao_num": 0.15,
-    "media_num": 0.74,
-    "jogos_num": 8,
+    "ds": 4,
+    "pi": 36,
+    "pontos_num": -2,
+    "preco_num": 2.8,
+    "variacao_num": -0.68,
+    "media_num": 0.44,
+    "jogos_num": 9,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }

@@ -15,7 +15,8 @@
     7,
     8,
     9,
-    10
+    10,
+    11
   ],
   "pontos": [
     0,
@@ -27,7 +28,8 @@
     0,
     6.3,
     0,
-    1.5
+    1.5,
+    0
   ],
   "precos": [
     4,
@@ -39,6 +41,7 @@
     2.56,
     3.88,
     3.88,
+    3.29,
     3.29
   ],
   "variacoes": [
@@ -51,7 +54,8 @@
     0,
     1.32,
     0,
-    -0.59
+    -0.59,
+    0
   ],
   "medias": [
     0,
@@ -61,6 +65,7 @@
     0.67,
     0.54,
     0.54,
+    1.5,
     1.5,
     1.5,
     1.5
@@ -195,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2020/07/02/atletico-go-2020-65.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 11,
+      "clube_casa": "Corinthians",
+      "clube_casa_id": 264,
+      "clube_visitante": "Bahia",
+      "clube_casa_abrev": "COR",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/30/Corinthians_65.png",
+      "clube_visitante_id": 265,
+      "clube_visitante_abrev": "BAH",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/bahia_60x60.png",
+      "placar_oficial_mandante": 3,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2020/07/20/dc33647201f8156e6ccfacd8ecd1cf1d_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/bahia_60x60.png",
   "scouts": {
-    "rodada_id": 10,
+    "rodada_id": 11,
     "rb": 0,
     "g": 0,
     "a": 1,
@@ -221,9 +239,9 @@
     "pe": 0,
     "ds": 17,
     "pi": 21,
-    "pontos_num": 1.5,
+    "pontos_num": 0,
     "preco_num": 3.29,
-    "variacao_num": -0.59,
+    "variacao_num": 0,
     "media_num": 1.5,
     "jogos_num": 7,
     "posicao_abrev": "mei",

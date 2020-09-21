@@ -15,7 +15,8 @@
     7,
     8,
     9,
-    10
+    10,
+    11
   ],
   "pontos": [
     0,
@@ -27,7 +28,8 @@
     0,
     0,
     0,
-    -1
+    -1,
+    0
   ],
   "precos": [
     1,
@@ -39,6 +41,7 @@
     1,
     1,
     1,
+    0.77,
     0.77
   ],
   "variacoes": [
@@ -51,7 +54,8 @@
     0,
     0,
     0,
-    -0.23
+    -0.23,
+    0
   ],
   "medias": [
     0,
@@ -63,6 +67,7 @@
     0,
     0,
     0,
+    -1,
     -1
   ],
   "partidas": [
@@ -195,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/03/inter65.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 11,
+      "clube_casa": "Fortaleza",
+      "clube_casa_id": 356,
+      "clube_visitante": "Internacional",
+      "clube_casa_abrev": "FOR",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/06/10/fortaleza-ec-65px.png",
+      "clube_visitante_id": 285,
+      "clube_visitante_abrev": "INT",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/03/inter65.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2020/02/27/f05e34f440e1b9e862786629262340fa_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/03/inter65.png",
   "scouts": {
-    "rodada_id": 10,
+    "rodada_id": 11,
     "rb": 0,
     "g": 0,
     "a": 0,
@@ -221,9 +239,9 @@
     "pe": 0,
     "ds": 1,
     "pi": 7,
-    "pontos_num": -1,
+    "pontos_num": 0,
     "preco_num": 0.77,
-    "variacao_num": -0.23,
+    "variacao_num": 0,
     "media_num": -1,
     "jogos_num": 1,
     "posicao_abrev": "zag",

@@ -15,7 +15,8 @@
     7,
     8,
     9,
-    10
+    10,
+    11
   ],
   "pontos": [
     5.3,
@@ -27,7 +28,8 @@
     11.1,
     5.6,
     4.7,
-    0.1
+    0.1,
+    8.2
   ],
   "precos": [
     7.46,
@@ -39,7 +41,8 @@
     9.12,
     8.82,
     8.93,
-    8.13
+    8.13,
+    9.52
   ],
   "variacoes": [
     2.46,
@@ -51,7 +54,8 @@
     2.13,
     -0.3,
     0.11,
-    -0.8
+    -0.8,
+    1.39
   ],
   "medias": [
     5.3,
@@ -63,7 +67,8 @@
     3.5,
     3.76,
     3.86,
-    3.48
+    3.48,
+    3.91
   ],
   "partidas": [
     {
@@ -195,20 +200,33 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2015/07/21/sport65.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 11,
+      "clube_casa": "Sport",
+      "clube_casa_id": 292,
+      "clube_visitante": "Fluminense",
+      "clube_casa_abrev": "SPO",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2015/07/21/sport65.png",
+      "clube_visitante_id": 266,
+      "clube_visitante_abrev": "FLU",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/fluminense_60x60.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2020/07/20/8da72cb158360ebe2e1e03b6c12b81dd_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2015/07/21/sport65.png",
   "scouts": {
-    "rodada_id": 10,
+    "rodada_id": 11,
     "rb": 0,
     "g": 1,
     "a": 2,
-    "sg": 0,
+    "sg": 1,
     "fs": 12,
     "ff": 6,
     "fd": 2,
-    "ft": 0,
+    "ft": 1,
     "dd": 0,
     "dp": 0,
     "gc": 0,
@@ -219,13 +237,13 @@
     "fc": 15,
     "i": 3,
     "pe": 0,
-    "ds": 22,
-    "pi": 93,
-    "pontos_num": 0.1,
-    "preco_num": 8.13,
-    "variacao_num": -0.8,
-    "media_num": 3.48,
-    "jogos_num": 10,
+    "ds": 23,
+    "pi": 101,
+    "pontos_num": 8.2,
+    "preco_num": 9.52,
+    "variacao_num": 1.39,
+    "media_num": 3.91,
+    "jogos_num": 11,
     "posicao_abrev": "lat",
     "posicao": "Lateral"
   }

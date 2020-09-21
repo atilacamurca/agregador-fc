@@ -15,7 +15,8 @@
     7,
     8,
     9,
-    10
+    10,
+    11
   ],
   "pontos": [
     0,
@@ -27,7 +28,8 @@
     0,
     12.5,
     8.5,
-    1.1
+    1.1,
+    1.8
   ],
   "precos": [
     5,
@@ -39,7 +41,8 @@
     5,
     6.73,
     6.78,
-    5.72
+    5.72,
+    5.73
   ],
   "variacoes": [
     0,
@@ -51,7 +54,8 @@
     0,
     1.73,
     0.05,
-    -1.06
+    -1.06,
+    0.01
   ],
   "medias": [
     0,
@@ -63,7 +67,8 @@
     0,
     12.5,
     10.5,
-    7.37
+    7.37,
+    5.98
   ],
   "partidas": [
     {
@@ -195,17 +200,30 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2015/07/21/sport65.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 11,
+      "clube_casa": "Grêmio",
+      "clube_casa_id": 284,
+      "clube_visitante": "Palmeiras",
+      "clube_casa_abrev": "GRE",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/gremio_60x60.png",
+      "clube_visitante_id": 275,
+      "clube_visitante_abrev": "PAL",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2020/01/20/4d926ee7edebf4a6823049ca2eb242a7_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
   "scouts": {
-    "rodada_id": 10,
+    "rodada_id": 11,
     "rb": 0,
     "g": 2,
     "a": 1,
     "sg": 0,
-    "fs": 1,
+    "fs": 3,
     "ff": 0,
     "fd": 0,
     "ft": 0,
@@ -216,16 +234,16 @@
     "ca": 0,
     "pp": 0,
     "gs": 0,
-    "fc": 4,
+    "fc": 6,
     "i": 0,
     "pe": 0,
-    "ds": 3,
-    "pi": 4,
-    "pontos_num": 1.1,
-    "preco_num": 5.72,
-    "variacao_num": -1.06,
-    "media_num": 7.37,
-    "jogos_num": 3,
+    "ds": 5,
+    "pi": 6,
+    "pontos_num": 1.8,
+    "preco_num": 5.73,
+    "variacao_num": 0.01,
+    "media_num": 5.98,
+    "jogos_num": 4,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }

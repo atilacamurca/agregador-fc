@@ -15,7 +15,8 @@
     7,
     8,
     9,
-    10
+    10,
+    11
   ],
   "pontos": [
     0,
@@ -27,7 +28,8 @@
     2,
     8.4,
     5.2,
-    2
+    2,
+    -3.1
   ],
   "precos": [
     4,
@@ -39,7 +41,8 @@
     4.97,
     6.59,
     6.47,
-    6.07
+    6.07,
+    4.93
   ],
   "variacoes": [
     0,
@@ -51,7 +54,8 @@
     0.37,
     1.62,
     -0.12,
-    -0.4
+    -0.4,
+    -1.14
   ],
   "medias": [
     0,
@@ -63,7 +67,8 @@
     2.68,
     3.5,
     3.71,
-    3.52
+    3.52,
+    2.86
   ],
   "partidas": [
     {
@@ -195,37 +200,50 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2015/07/21/sport65.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 11,
+      "clube_casa": "Grêmio",
+      "clube_casa_id": 284,
+      "clube_visitante": "Palmeiras",
+      "clube_casa_abrev": "GRE",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/gremio_60x60.png",
+      "clube_visitante_id": 275,
+      "clube_visitante_abrev": "PAL",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2020/01/20/119d338ee09aacf08faae33fa7047de7_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
   "scouts": {
-    "rodada_id": 10,
+    "rodada_id": 11,
     "rb": 0,
     "g": 0,
     "a": 2,
     "sg": 0,
-    "fs": 19,
-    "ff": 8,
+    "fs": 20,
+    "ff": 9,
     "fd": 1,
     "ft": 0,
     "dd": 0,
     "dp": 0,
     "gc": 0,
     "cv": 0,
-    "ca": 1,
+    "ca": 2,
     "pp": 0,
     "gs": 0,
-    "fc": 8,
+    "fc": 12,
     "i": 4,
     "pe": 0,
     "ds": 19,
-    "pi": 64,
-    "pontos_num": 2,
-    "preco_num": 6.07,
-    "variacao_num": -0.4,
-    "media_num": 3.52,
-    "jogos_num": 9,
+    "pi": 68,
+    "pontos_num": -3.1,
+    "preco_num": 4.93,
+    "variacao_num": -1.14,
+    "media_num": 2.86,
+    "jogos_num": 10,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }

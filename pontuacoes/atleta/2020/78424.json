@@ -15,7 +15,8 @@
     7,
     8,
     9,
-    10
+    10,
+    11
   ],
   "pontos": [
     0,
@@ -27,7 +28,8 @@
     2,
     2.8,
     8.4,
-    0
+    0,
+    0.8
   ],
   "precos": [
     5,
@@ -39,6 +41,7 @@
     4.03,
     4.35,
     5.74,
+    4.47,
     4.47
   ],
   "variacoes": [
@@ -51,7 +54,8 @@
     -0.03,
     0.32,
     1.39,
-    -1.27
+    -1.27,
+    0
   ],
   "medias": [
     0,
@@ -63,7 +67,8 @@
     1.27,
     1.58,
     2.72,
-    2.33
+    2.33,
+    2.14
   ],
   "partidas": [
     {
@@ -195,19 +200,32 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2020/07/02/atletico-go-2020-65.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 11,
+      "clube_casa": "Atlético-GO",
+      "clube_casa_id": 373,
+      "clube_visitante": "Atlético-MG",
+      "clube_casa_abrev": "ATL",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2020/07/02/atletico-go-2020-65.png",
+      "clube_visitante_id": 282,
+      "clube_visitante_abrev": "ATL",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2017/11/23/Atletico-Mineiro-escudo65px.png",
+      "placar_oficial_mandante": 3,
+      "placar_oficial_visitante": 4
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2020/02/27/b29083c8515a9ac734ff21095aeb1a72_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2020/07/02/atletico-go-2020-65.png",
   "scouts": {
-    "rodada_id": 10,
+    "rodada_id": 11,
     "rb": 0,
     "g": 0,
     "a": 1,
     "sg": 0,
     "fs": 4,
     "ff": 5,
-    "fd": 0,
+    "fd": 1,
     "ft": 1,
     "dd": 0,
     "dp": 0,
@@ -220,12 +238,12 @@
     "i": 1,
     "pe": 0,
     "ds": 6,
-    "pi": 17,
-    "pontos_num": 0,
+    "pi": 21,
+    "pontos_num": 0.8,
     "preco_num": 4.47,
-    "variacao_num": -1.27,
-    "media_num": 2.33,
-    "jogos_num": 7,
+    "variacao_num": 0,
+    "media_num": 2.14,
+    "jogos_num": 8,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }

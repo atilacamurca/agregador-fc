@@ -15,7 +15,8 @@
     7,
     8,
     9,
-    10
+    10,
+    11
   ],
   "pontos": [
     4.3,
@@ -27,7 +28,8 @@
     4.9,
     0.8,
     1.7,
-    -0.3
+    -0.3,
+    0
   ],
   "precos": [
     6.74,
@@ -39,6 +41,7 @@
     11.73,
     11.12,
     11.16,
+    10.65,
     10.65
   ],
   "variacoes": [
@@ -51,7 +54,8 @@
     -0.99,
     -0.61,
     0.04,
-    -0.51
+    -0.51,
+    0
   ],
   "medias": [
     4.3,
@@ -63,6 +67,7 @@
     5.8,
     5.18,
     4.79,
+    4.28,
     4.28
   ],
   "partidas": [
@@ -195,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/30/Corinthians_65.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 11,
+      "clube_casa": "Sport",
+      "clube_casa_id": 292,
+      "clube_visitante": "Fluminense",
+      "clube_casa_abrev": "SPO",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2015/07/21/sport65.png",
+      "clube_visitante_id": 266,
+      "clube_visitante_abrev": "FLU",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/fluminense_60x60.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2020/08/11/87b4fea563db3d41db70885180069dfb_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/fluminense_60x60.png",
   "scouts": {
-    "rodada_id": 10,
+    "rodada_id": 11,
     "rb": 0,
     "g": 1,
     "a": 0,
@@ -221,9 +239,9 @@
     "pe": 0,
     "ds": 35,
     "pi": 34,
-    "pontos_num": -0.3,
+    "pontos_num": 0,
     "preco_num": 10.65,
-    "variacao_num": -0.51,
+    "variacao_num": 0,
     "media_num": 4.28,
     "jogos_num": 10,
     "posicao_abrev": "mei",

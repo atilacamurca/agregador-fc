@@ -15,7 +15,8 @@
     7,
     8,
     9,
-    10
+    10,
+    11
   ],
   "pontos": [
     0,
@@ -27,7 +28,8 @@
     0,
     0,
     2.9,
-    0.9
+    0.9,
+    0
   ],
   "precos": [
     2,
@@ -39,6 +41,7 @@
     2,
     2,
     2.19,
+    1.94,
     1.94
   ],
   "variacoes": [
@@ -51,7 +54,8 @@
     0,
     0,
     0.19,
-    -0.25
+    -0.25,
+    0
   ],
   "medias": [
     0,
@@ -63,6 +67,7 @@
     0,
     0,
     2.9,
+    1.9,
     1.9
   ],
   "partidas": [
@@ -195,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/sao_paulo_60x60.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 11,
+      "clube_casa": "Botafogo",
+      "clube_casa_id": 263,
+      "clube_visitante": "Santos",
+      "clube_casa_abrev": "BOT",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/04/botafogo-65.png",
+      "clube_visitante_id": 277,
+      "clube_visitante_abrev": "SAN",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/santos_60x60.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2020/08/31/fb5f96034ec98cf83f561f397865ca64_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/santos_60x60.png",
   "scouts": {
-    "rodada_id": 10,
+    "rodada_id": 11,
     "rb": 0,
     "g": 0,
     "a": 0,
@@ -221,9 +239,9 @@
     "pe": 0,
     "ds": 4,
     "pi": 2,
-    "pontos_num": 0.9,
+    "pontos_num": 0,
     "preco_num": 1.94,
-    "variacao_num": -0.25,
+    "variacao_num": 0,
     "media_num": 1.9,
     "jogos_num": 2,
     "posicao_abrev": "zag",
