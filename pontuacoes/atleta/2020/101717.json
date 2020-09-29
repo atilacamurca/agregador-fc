@@ -6,7 +6,6 @@
   "clube_id": 282,
   "posicao": "Atacante",
   "rodadas": [
-    1,
     2,
     3,
     4,
@@ -16,10 +15,10 @@
     8,
     9,
     10,
-    11
+    11,
+    12
   ],
   "pontos": [
-    0.6,
     10.1,
     19.7,
     0.5,
@@ -29,10 +28,10 @@
     -0.6,
     0.3,
     0,
-    0
+    0,
+    -0.5
   ],
   "precos": [
-    5.51,
     8.73,
     14.22,
     11.81,
@@ -42,10 +41,10 @@
     10.29,
     10.21,
     10.21,
-    10.21
+    10.21,
+    9.57
   ],
   "variacoes": [
-    -1.49,
     3.22,
     5.49,
     -2.41,
@@ -55,10 +54,10 @@
     -0.29,
     -0.08,
     0,
-    0
+    0,
+    -0.64
   ],
   "medias": [
-    0.6,
     5.35,
     10.13,
     7.72,
@@ -68,22 +67,10 @@
     4.31,
     3.81,
     3.81,
-    3.81
+    3.81,
+    3.33
   ],
   "partidas": [
-    {
-      "rodada_id": 1,
-      "clube_casa": "Flamengo",
-      "clube_casa_id": 262,
-      "clube_visitante": "Atlético-MG",
-      "clube_casa_abrev": "FLA",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/04/09/Flamengo-65.png",
-      "clube_visitante_id": 282,
-      "clube_visitante_abrev": "ATL",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2017/11/23/Atletico-Mineiro-escudo65px.png",
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 2,
       "clube_casa": "Atlético-MG",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2017/11/23/Atletico-Mineiro-escudo65px.png",
       "placar_oficial_mandante": 3,
       "placar_oficial_visitante": 4
+    },
+    {
+      "rodada_id": 12,
+      "clube_casa": "Atlético-MG",
+      "clube_casa_id": 282,
+      "clube_visitante": "Grêmio",
+      "clube_casa_abrev": "ATL",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2017/11/23/Atletico-Mineiro-escudo65px.png",
+      "clube_visitante_id": 284,
+      "clube_visitante_abrev": "GRE",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/gremio_60x60.png",
+      "placar_oficial_mandante": 3,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2020/08/31/0b8fc0d9df187526916b27cd3ddd43a6_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2017/11/23/Atletico-Mineiro-escudo65px.png",
   "scouts": {
-    "rodada_id": 11,
+    "rodada_id": 12,
     "rb": 0,
     "g": 2,
     "a": 0,
@@ -234,16 +234,16 @@
     "ca": 0,
     "pp": 0,
     "gs": 0,
-    "fc": 9,
+    "fc": 10,
     "i": 0,
     "pe": 0,
     "ds": 6,
     "pi": 10,
-    "pontos_num": 0,
-    "preco_num": 10.21,
-    "variacao_num": 0,
-    "media_num": 3.81,
-    "jogos_num": 8,
+    "pontos_num": -0.5,
+    "preco_num": 9.57,
+    "variacao_num": -0.64,
+    "media_num": 3.33,
+    "jogos_num": 9,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }

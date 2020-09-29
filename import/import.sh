@@ -66,6 +66,10 @@ curl https://api.cartolafc.globo.com/rodadas -so import/rodadas.json
 echo "Atualizando rodadas ..."
 node import/rodadas.js
 
+curl https://api.cartolafc.globo.com/clubes -so import/clubes.json
+echo "Atualizando clubes ..."
+node import/clubes.js
+
 curl https://api.cartolafc.globo.com/atletas/mercado -so import/atletas-mercado.json
 echo "Atualizando atletas da rodada ${RODADA_ATUAL_ID} ..."
 node import/atletas-mercado.js
