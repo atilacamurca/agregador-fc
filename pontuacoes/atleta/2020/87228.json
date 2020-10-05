@@ -6,7 +6,6 @@
   "clube_id": 282,
   "posicao": "Lateral",
   "rodadas": [
-    2,
     3,
     4,
     5,
@@ -16,10 +15,10 @@
     9,
     10,
     11,
-    12
+    12,
+    13
   ],
   "pontos": [
-    4.9,
     4.5,
     4.5,
     2.4,
@@ -29,10 +28,10 @@
     1.8,
     8.5,
     -0.7,
-    -1.7
+    -1.7,
+    9.6
   ],
   "precos": [
-    17.77,
     17.33,
     17.18,
     16.49,
@@ -42,10 +41,10 @@
     16.28,
     17.55,
     15.58,
-    15.35
+    15.35,
+    17.56
   ],
   "variacoes": [
-    -0.2,
     -0.44,
     -0.15,
     -0.69,
@@ -55,10 +54,10 @@
     -0.92,
     1.27,
     -1.97,
-    -0.23
+    -0.23,
+    2.21
   ],
   "medias": [
-    6.35,
     5.73,
     5.42,
     4.82,
@@ -68,22 +67,10 @@
     5.03,
     5.42,
     4.81,
-    4.22
+    4.22,
+    4.67
   ],
   "partidas": [
-    {
-      "rodada_id": 2,
-      "clube_casa": "Atlético-MG",
-      "clube_casa_id": 282,
-      "clube_visitante": "Corinthians",
-      "clube_casa_abrev": "ATL",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2017/11/23/Atletico-Mineiro-escudo65px.png",
-      "clube_visitante_id": 264,
-      "clube_visitante_abrev": "COR",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/30/Corinthians_65.png",
-      "placar_oficial_mandante": 3,
-      "placar_oficial_visitante": 2
-    },
     {
       "rodada_id": 3,
       "clube_casa": "Atlético-MG",
@@ -213,19 +200,32 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/gremio_60x60.png",
       "placar_oficial_mandante": 3,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 13,
+      "clube_casa": "Atlético-MG",
+      "clube_casa_id": 282,
+      "clube_visitante": "Vasco",
+      "clube_casa_abrev": "ATL",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2017/11/23/Atletico-Mineiro-escudo65px.png",
+      "clube_visitante_id": 267,
+      "clube_visitante_abrev": "VAS",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/07/29/Vasco-65.png",
+      "placar_oficial_mandante": 4,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2020/08/31/cf251bf07d0350a8081b6b0e7bfb7950_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2017/11/23/Atletico-Mineiro-escudo65px.png",
   "scouts": {
-    "rodada_id": 12,
+    "rodada_id": 13,
     "rb": 0,
-    "g": 0,
+    "g": 1,
     "a": 2,
     "sg": 4,
-    "fs": 5,
-    "ff": 9,
-    "fd": 6,
+    "fs": 6,
+    "ff": 10,
+    "fd": 7,
     "ft": 0,
     "dd": 0,
     "dp": 0,
@@ -234,16 +234,16 @@
     "ca": 1,
     "pp": 0,
     "gs": 0,
-    "fc": 14,
+    "fc": 16,
     "i": 1,
     "pe": 0,
-    "ds": 20,
-    "pi": 111,
-    "pontos_num": -1.7,
-    "preco_num": 15.35,
-    "variacao_num": -0.23,
-    "media_num": 4.22,
-    "jogos_num": 11,
+    "ds": 21,
+    "pi": 120,
+    "pontos_num": 9.6,
+    "preco_num": 17.56,
+    "variacao_num": 2.21,
+    "media_num": 4.67,
+    "jogos_num": 12,
     "posicao_abrev": "lat",
     "posicao": "Lateral"
   }

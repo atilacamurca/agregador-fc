@@ -6,7 +6,6 @@
   "clube_id": 373,
   "posicao": "Atacante",
   "rodadas": [
-    2,
     3,
     4,
     5,
@@ -16,10 +15,10 @@
     9,
     10,
     11,
-    12
+    12,
+    13
   ],
   "pontos": [
-    11,
     2.2,
     -0.5,
     -0.8,
@@ -29,10 +28,10 @@
     -0.6,
     -2.6,
     0,
-    11.9
+    11.9,
+    1.6
   ],
   "precos": [
-    8.58,
     7.98,
     7.21,
     6.73,
@@ -42,10 +41,10 @@
     6.13,
     5.53,
     5.53,
-    8.14
+    8.14,
+    6.73
   ],
   "variacoes": [
-    3.58,
     -0.6,
     -0.77,
     -0.48,
@@ -55,10 +54,10 @@
     -0.22,
     -0.6,
     0,
-    2.61
+    2.61,
+    -1.41
   ],
   "medias": [
-    11,
     6.6,
     4.23,
     2.97,
@@ -68,22 +67,10 @@
     1.6,
     1.13,
     1.13,
-    2.21
+    2.21,
+    2.15
   ],
   "partidas": [
-    {
-      "rodada_id": 2,
-      "clube_casa": "Atlético-GO",
-      "clube_casa_id": 373,
-      "clube_visitante": "Flamengo",
-      "clube_casa_abrev": "ATL",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2020/07/02/atletico-go-2020-65.png",
-      "clube_visitante_id": 262,
-      "clube_visitante_abrev": "FLA",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/04/09/Flamengo-65.png",
-      "placar_oficial_mandante": 3,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 3,
       "clube_casa": "Atlético-GO",
@@ -213,19 +200,32 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/04/botafogo-65.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 13,
+      "clube_casa": "Fortaleza",
+      "clube_casa_id": 356,
+      "clube_visitante": "Atlético-GO",
+      "clube_casa_abrev": "FOR",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/06/10/fortaleza-ec-65px.png",
+      "clube_visitante_id": 373,
+      "clube_visitante_abrev": "ATL",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2020/07/02/atletico-go-2020-65.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2020/07/11/ddbeaca2d0f0fdc1c5052cddcaafdd33_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2020/07/02/atletico-go-2020-65.png",
   "scouts": {
-    "rodada_id": 12,
+    "rodada_id": 13,
     "rb": 0,
     "g": 2,
     "a": 0,
     "sg": 0,
     "fs": 3,
-    "ff": 5,
-    "fd": 1,
+    "ff": 6,
+    "fd": 2,
     "ft": 0,
     "dd": 0,
     "dp": 0,
@@ -238,12 +238,12 @@
     "i": 4,
     "pe": 0,
     "ds": 10,
-    "pi": 11,
-    "pontos_num": 11.9,
-    "preco_num": 8.14,
-    "variacao_num": 2.61,
-    "media_num": 2.21,
-    "jogos_num": 10,
+    "pi": 15,
+    "pontos_num": 1.6,
+    "preco_num": 6.73,
+    "variacao_num": -1.41,
+    "media_num": 2.15,
+    "jogos_num": 11,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }

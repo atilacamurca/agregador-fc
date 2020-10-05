@@ -6,7 +6,6 @@
   "clube_id": 285,
   "posicao": "Lateral",
   "rodadas": [
-    2,
     3,
     4,
     5,
@@ -16,10 +15,10 @@
     9,
     10,
     11,
-    12
+    12,
+    13
   ],
   "pontos": [
-    3,
     1.5,
     4.4,
     3.8,
@@ -29,10 +28,10 @@
     6.3,
     -0.2,
     0.3,
-    4.5
+    4.5,
+    0
   ],
   "precos": [
-    10.74,
     10.22,
     10.81,
     10.85,
@@ -42,10 +41,10 @@
     11.93,
     10.79,
     10.48,
+    11.39,
     11.39
   ],
   "variacoes": [
-    1.25,
     -0.52,
     0.59,
     0.04,
@@ -55,10 +54,10 @@
     1,
     -1.14,
     -0.31,
-    0.91
+    0.91,
+    0
   ],
   "medias": [
-    5.55,
     4.2,
     4.25,
     4.16,
@@ -68,22 +67,10 @@
     4.74,
     4.19,
     3.8,
+    3.86,
     3.86
   ],
   "partidas": [
-    {
-      "rodada_id": 2,
-      "clube_casa": "Internacional",
-      "clube_casa_id": 285,
-      "clube_visitante": "Santos",
-      "clube_casa_abrev": "INT",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/03/inter65.png",
-      "clube_visitante_id": 277,
-      "clube_visitante_abrev": "SAN",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/santos_60x60.png",
-      "placar_oficial_mandante": 2,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 3,
       "clube_casa": "Fluminense",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/sao_paulo_60x60.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 13,
+      "clube_casa": "Grêmio",
+      "clube_casa_id": 284,
+      "clube_visitante": "Internacional",
+      "clube_casa_abrev": "GRE",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/gremio_60x60.png",
+      "clube_visitante_id": 285,
+      "clube_visitante_abrev": "INT",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/03/inter65.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2020/02/27/a55f40e153a20702f2e4beccd472d30c_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/03/inter65.png",
   "scouts": {
-    "rodada_id": 12,
+    "rodada_id": 13,
     "rb": 0,
     "g": 0,
     "a": 2,
@@ -239,9 +239,9 @@
     "pe": 0,
     "ds": 25,
     "pi": 117,
-    "pontos_num": 4.5,
+    "pontos_num": 0,
     "preco_num": 11.39,
-    "variacao_num": 0.91,
+    "variacao_num": 0,
     "media_num": 3.86,
     "jogos_num": 11,
     "posicao_abrev": "lat",

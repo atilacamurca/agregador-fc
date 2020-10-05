@@ -6,7 +6,6 @@
   "clube_id": 284,
   "posicao": "Técnico",
   "rodadas": [
-    2,
     3,
     4,
     5,
@@ -16,10 +15,10 @@
     9,
     10,
     11,
-    12
+    12,
+    13
   ],
   "pontos": [
-    3.9,
     5.15,
     2.32,
     5.29,
@@ -29,10 +28,10 @@
     7.75,
     2.05,
     1.67,
-    2.75
+    2.75,
+    0.85
   ],
   "precos": [
-    12.28,
     12.65,
     12.09,
     12.68,
@@ -42,10 +41,10 @@
     13.06,
     12.18,
     11.79,
-    12.14
+    12.14,
+    11.9
   ],
   "variacoes": [
-    -0.01,
     0.37,
     -0.56,
     0.59,
@@ -55,10 +54,10 @@
     1.27,
     -0.88,
     -0.39,
-    0.35
+    0.35,
+    -0.24
   ],
   "medias": [
-    4.42,
     4.66,
     4.07,
     4.31,
@@ -68,22 +67,10 @@
     4.28,
     4.03,
     3.79,
-    3.7
+    3.7,
+    3.46
   ],
   "partidas": [
-    {
-      "rodada_id": 2,
-      "clube_casa": "Ceará",
-      "clube_casa_id": 354,
-      "clube_visitante": "Grêmio",
-      "clube_casa_abrev": "CEA",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/10/10/ceara-65x65.png",
-      "clube_visitante_id": 284,
-      "clube_visitante_abrev": "GRE",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/gremio_60x60.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 3,
       "clube_casa": "Grêmio",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/gremio_60x60.png",
       "placar_oficial_mandante": 3,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 13,
+      "clube_casa": "Grêmio",
+      "clube_casa_id": 284,
+      "clube_visitante": "Internacional",
+      "clube_casa_abrev": "GRE",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/gremio_60x60.png",
+      "clube_visitante_id": 285,
+      "clube_visitante_abrev": "INT",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/03/inter65.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2020/07/19/5604ae02dbe93c1893a6cdb31d2b0e90_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/gremio_60x60.png",
   "scouts": {
-    "rodada_id": 12,
+    "rodada_id": 13,
     "rb": 0,
     "g": 0,
     "a": 0,
@@ -239,11 +239,11 @@
     "pe": 0,
     "ds": 0,
     "pi": 0,
-    "pontos_num": 2.75,
-    "preco_num": 12.14,
-    "variacao_num": 0.35,
-    "media_num": 3.7,
-    "jogos_num": 11,
+    "pontos_num": 0.85,
+    "preco_num": 11.9,
+    "variacao_num": -0.24,
+    "media_num": 3.46,
+    "jogos_num": 12,
     "posicao_abrev": "tec",
     "posicao": "Técnico"
   }

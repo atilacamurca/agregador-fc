@@ -6,7 +6,6 @@
   "clube_id": 277,
   "posicao": "Atacante",
   "rodadas": [
-    2,
     3,
     4,
     5,
@@ -16,10 +15,10 @@
     9,
     10,
     11,
-    12
+    12,
+    13
   ],
   "pontos": [
-    -0.8,
     10.7,
     0.4,
     1.8,
@@ -29,10 +28,10 @@
     5.2,
     2,
     0,
-    1.7
+    1.7,
+    0
   ],
   "precos": [
-    4.18,
     7.39,
     6.04,
     6.21,
@@ -42,10 +41,10 @@
     7.54,
     7.11,
     7.11,
+    6.98,
     6.98
   ],
   "variacoes": [
-    -1.84,
     3.21,
     -1.35,
     0.17,
@@ -55,10 +54,10 @@
     -0.16,
     -0.43,
     0,
-    -0.13
+    -0.13,
+    0
   ],
   "medias": [
-    -0.25,
     3.4,
     2.65,
     2.48,
@@ -68,22 +67,10 @@
     3.32,
     3.17,
     3.17,
+    3.02,
     3.02
   ],
   "partidas": [
-    {
-      "rodada_id": 2,
-      "clube_casa": "Internacional",
-      "clube_casa_id": 285,
-      "clube_visitante": "Santos",
-      "clube_casa_abrev": "INT",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/03/inter65.png",
-      "clube_visitante_id": 277,
-      "clube_visitante_abrev": "SAN",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/santos_60x60.png",
-      "placar_oficial_mandante": 2,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 3,
       "clube_casa": "Santos",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/06/10/fortaleza-ec-65px.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 13,
+      "clube_casa": "Goiás",
+      "clube_casa_id": 290,
+      "clube_visitante": "Santos",
+      "clube_casa_abrev": "GOI",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/05/01/Goias_65px.png",
+      "clube_visitante_id": 277,
+      "clube_visitante_abrev": "SAN",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/santos_60x60.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 3
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2020/02/28/1ad66e771f5acc6f55ab13d6cdc8b6f4_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/santos_60x60.png",
   "scouts": {
-    "rodada_id": 12,
+    "rodada_id": 13,
     "rb": 0,
     "g": 1,
     "a": 2,
@@ -239,9 +239,9 @@
     "pe": 0,
     "ds": 5,
     "pi": 79,
-    "pontos_num": 1.7,
+    "pontos_num": 0,
     "preco_num": 6.98,
-    "variacao_num": -0.13,
+    "variacao_num": 0,
     "media_num": 3.02,
     "jogos_num": 10,
     "posicao_abrev": "ata",

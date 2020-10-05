@@ -6,7 +6,6 @@
   "clube_id": 290,
   "posicao": "Atacante",
   "rodadas": [
-    2,
     3,
     4,
     5,
@@ -16,10 +15,10 @@
     9,
     10,
     11,
-    12
+    12,
+    13
   ],
   "pontos": [
-    4.8,
     5.4,
     3.1,
     6.6,
@@ -29,10 +28,10 @@
     -3.3,
     0,
     0,
-    0
+    0,
+    7.7
   ],
   "precos": [
-    4.35,
     5.55,
     5.68,
     6.89,
@@ -42,10 +41,10 @@
     5.36,
     5.36,
     5.36,
-    5.36
+    5.36,
+    7.06
   ],
   "variacoes": [
-    1.35,
     1.2,
     0.13,
     1.21,
@@ -55,10 +54,10 @@
     -1.45,
     0,
     0,
-    0
+    0,
+    1.7
   ],
   "medias": [
-    4.8,
     5.1,
     4.43,
     4.97,
@@ -68,22 +67,10 @@
     3.47,
     3.47,
     3.47,
-    3.47
+    3.47,
+    4.07
   ],
   "partidas": [
-    {
-      "rodada_id": 2,
-      "clube_casa": "Athlético-PR",
-      "clube_casa_id": 293,
-      "clube_visitante": "Goiás",
-      "clube_casa_abrev": "ATL",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/09/Athletico-PR-65x65.png",
-      "clube_visitante_id": 290,
-      "clube_visitante_abrev": "GOI",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/05/01/Goias_65px.png",
-      "placar_oficial_mandante": 2,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 3,
       "clube_casa": "Palmeiras",
@@ -213,37 +200,50 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/05/01/Goias_65px.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 13,
+      "clube_casa": "Goiás",
+      "clube_casa_id": 290,
+      "clube_visitante": "Santos",
+      "clube_casa_abrev": "GOI",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/05/01/Goias_65px.png",
+      "clube_visitante_id": 277,
+      "clube_visitante_abrev": "SAN",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/santos_60x60.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 3
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2020/08/26/440d20f8bef7ed2efd9ebbb9c1b88e74_140x140.jpeg",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2019/05/01/Goias_65px.png",
   "scouts": {
-    "rodada_id": 12,
+    "rodada_id": 13,
     "rb": 0,
-    "g": 1,
+    "g": 2,
     "a": 0,
     "sg": 0,
-    "fs": 24,
-    "ff": 8,
+    "fs": 28,
+    "ff": 9,
     "fd": 1,
     "ft": 0,
     "dd": 0,
     "dp": 0,
     "gc": 0,
     "cv": 0,
-    "ca": 3,
+    "ca": 4,
     "pp": 0,
     "gs": 0,
-    "fc": 16,
+    "fc": 17,
     "i": 0,
     "pe": 0,
     "ds": 9,
-    "pi": 18,
-    "pontos_num": 0,
-    "preco_num": 5.36,
-    "variacao_num": 0,
-    "media_num": 3.47,
-    "jogos_num": 6,
+    "pi": 24,
+    "pontos_num": 7.7,
+    "preco_num": 7.06,
+    "variacao_num": 1.7,
+    "media_num": 4.07,
+    "jogos_num": 7,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }

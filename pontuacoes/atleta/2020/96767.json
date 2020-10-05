@@ -6,7 +6,6 @@
   "clube_id": 267,
   "posicao": "Técnico",
   "rodadas": [
-    2,
     3,
     4,
     5,
@@ -16,10 +15,10 @@
     9,
     10,
     11,
-    12
+    12,
+    13
   ],
   "pontos": [
-    6.17,
     3.82,
     7.8,
     4.94,
@@ -29,10 +28,10 @@
     2,
     6.24,
     1.19,
-    2.95
+    2.95,
+    0.66
   ],
   "precos": [
-    7.91,
     8.08,
     9.58,
     9.61,
@@ -42,10 +41,10 @@
     9.7,
     10.59,
     9.59,
-    10.06
+    10.06,
+    9.76
   ],
   "variacoes": [
-    0.91,
     0.17,
     1.5,
     0.03,
@@ -55,10 +54,10 @@
     -0.7,
     0.89,
     -1,
-    0.47
+    0.47,
+    -0.3
   ],
   "medias": [
-    6.17,
     4.99,
     5.93,
     5.68,
@@ -68,22 +67,10 @@
     4.59,
     4.77,
     4.41,
-    4.28
+    4.28,
+    3.98
   ],
   "partidas": [
-    {
-      "rodada_id": 2,
-      "clube_casa": "Vasco",
-      "clube_casa_id": 267,
-      "clube_visitante": "Sport",
-      "clube_casa_abrev": "VAS",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/07/29/Vasco-65.png",
-      "clube_visitante_id": 292,
-      "clube_visitante_abrev": "SPO",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2015/07/21/sport65.png",
-      "placar_oficial_mandante": 2,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 3,
       "clube_casa": "Vasco",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2020/01/01/65.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 13,
+      "clube_casa": "Atlético-MG",
+      "clube_casa_id": 282,
+      "clube_visitante": "Vasco",
+      "clube_casa_abrev": "ATL",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2017/11/23/Atletico-Mineiro-escudo65px.png",
+      "clube_visitante_id": 267,
+      "clube_visitante_abrev": "VAS",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/07/29/Vasco-65.png",
+      "placar_oficial_mandante": 4,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2020/07/19/7af6039becf9dd51c78be10d7df5c645_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2016/07/29/Vasco-65.png",
   "scouts": {
-    "rodada_id": 12,
+    "rodada_id": 13,
     "rb": 0,
     "g": 0,
     "a": 0,
@@ -239,11 +239,11 @@
     "pe": 0,
     "ds": 0,
     "pi": 0,
-    "pontos_num": 2.95,
-    "preco_num": 10.06,
-    "variacao_num": 0.47,
-    "media_num": 4.28,
-    "jogos_num": 11,
+    "pontos_num": 0.66,
+    "preco_num": 9.76,
+    "variacao_num": -0.3,
+    "media_num": 3.98,
+    "jogos_num": 12,
     "posicao_abrev": "tec",
     "posicao": "Técnico"
   }

@@ -6,7 +6,6 @@
   "clube_id": 263,
   "posicao": "Lateral",
   "rodadas": [
-    2,
     3,
     4,
     5,
@@ -16,10 +15,10 @@
     9,
     10,
     11,
-    12
+    12,
+    13
   ],
   "pontos": [
-    0.6,
     0,
     0,
     0.5,
@@ -29,10 +28,10 @@
     2.4,
     -1.8,
     0,
-    2.2
+    2.2,
+    -6
   ],
   "precos": [
-    2.48,
     2.48,
     2.48,
     2.17,
@@ -42,10 +41,10 @@
     3.51,
     2.72,
     2.72,
-    3.32
+    3.32,
+    1.76
   ],
   "variacoes": [
-    -0.52,
     0,
     0,
     -0.31,
@@ -55,10 +54,10 @@
     -0.15,
     -0.79,
     0,
-    0.6
+    0.6,
+    -1.56
   ],
   "medias": [
-    0.6,
     0.6,
     0.6,
     0.55,
@@ -68,22 +67,10 @@
     2.96,
     2.17,
     2.17,
-    2.17
+    2.17,
+    1.15
   ],
   "partidas": [
-    {
-      "rodada_id": 2,
-      "clube_casa": "Bragantino",
-      "clube_casa_id": 280,
-      "clube_visitante": "Botafogo",
-      "clube_casa_abrev": "BRA",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2020/01/01/65.png",
-      "clube_visitante_id": 263,
-      "clube_visitante_abrev": "BOT",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/04/botafogo-65.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 3,
       "clube_casa": "Fortaleza",
@@ -213,37 +200,50 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/04/botafogo-65.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 13,
+      "clube_casa": "Botafogo",
+      "clube_casa_id": 263,
+      "clube_visitante": "Fluminense",
+      "clube_casa_abrev": "BOT",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/04/botafogo-65.png",
+      "clube_visitante_id": 266,
+      "clube_visitante_abrev": "FLU",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/fluminense_60x60.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2020/07/22/3146ee098c41caa4d1ed2022bd3dc17e_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/04/botafogo-65.png",
   "scouts": {
-    "rodada_id": 12,
+    "rodada_id": 13,
     "rb": 0,
     "g": 0,
     "a": 0,
     "sg": 1,
-    "fs": 6,
+    "fs": 8,
     "ff": 1,
     "fd": 3,
     "ft": 0,
     "dd": 0,
     "dp": 0,
-    "gc": 0,
+    "gc": 1,
     "cv": 0,
     "ca": 1,
     "pp": 0,
     "gs": 0,
-    "fc": 6,
+    "fc": 8,
     "i": 0,
     "pe": 0,
-    "ds": 15,
-    "pi": 72,
-    "pontos_num": 2.2,
-    "preco_num": 3.32,
-    "variacao_num": 0.6,
-    "media_num": 2.17,
-    "jogos_num": 7,
+    "ds": 16,
+    "pi": 92,
+    "pontos_num": -6,
+    "preco_num": 1.76,
+    "variacao_num": -1.56,
+    "media_num": 1.15,
+    "jogos_num": 8,
     "posicao_abrev": "lat",
     "posicao": "Lateral"
   }
