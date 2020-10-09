@@ -6,7 +6,6 @@
   "clube_id": 264,
   "posicao": "Meia",
   "rodadas": [
-    3,
     4,
     5,
     6,
@@ -16,12 +15,13 @@
     10,
     11,
     12,
-    13
+    13,
+    14
   ],
   "pontos": [
     1.5,
-    1.5,
     0.3,
+    0,
     0,
     0,
     0,
@@ -32,8 +32,8 @@
     0
   ],
   "precos": [
-    1.13,
     1.36,
+    1.22,
     1.22,
     1.22,
     1.22,
@@ -45,9 +45,9 @@
     1.22
   ],
   "variacoes": [
-    0.39,
     0.23,
     -0.14,
+    0,
     0,
     0,
     0,
@@ -58,8 +58,8 @@
     0
   ],
   "medias": [
-    0.65,
     0.93,
+    0.77,
     0.77,
     0.77,
     0.77,
@@ -71,19 +71,6 @@
     0.77
   ],
   "partidas": [
-    {
-      "rodada_id": 3,
-      "clube_casa": "Grêmio",
-      "clube_casa_id": 284,
-      "clube_visitante": "Corinthians",
-      "clube_casa_abrev": "GRE",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/gremio_60x60.png",
-      "clube_visitante_id": 264,
-      "clube_visitante_abrev": "COR",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/30/Corinthians_65.png",
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 4,
       "clube_casa": "Corinthians",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/30/Corinthians_65.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 14,
+      "clube_casa": "Corinthians",
+      "clube_casa_id": 264,
+      "clube_visitante": "Santos",
+      "clube_casa_abrev": "COR",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/30/Corinthians_65.png",
+      "clube_visitante_id": 277,
+      "clube_visitante_abrev": "SAN",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/santos_60x60.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2020/08/18/46767ddb19cde394d78839a4e9182e63_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/30/Corinthians_65.png",
   "scouts": {
-    "rodada_id": 13,
+    "rodada_id": 14,
     "rb": 0,
     "g": 0,
     "a": 0,

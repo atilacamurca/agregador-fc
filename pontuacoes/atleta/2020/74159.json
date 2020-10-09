@@ -13,7 +13,8 @@
     10,
     11,
     12,
-    13
+    13,
+    14
   ],
   "pontos": [
     0,
@@ -23,7 +24,8 @@
     3.3,
     0.2,
     -0.2,
-    0.1
+    0.1,
+    0
   ],
   "precos": [
     9,
@@ -33,7 +35,8 @@
     7.28,
     6.53,
     6.38,
-    6.36
+    6.36,
+    6.15
   ],
   "variacoes": [
     0,
@@ -43,7 +46,8 @@
     0.42,
     -0.75,
     -0.15,
-    -0.02
+    -0.02,
+    -0.21
   ],
   "medias": [
     0,
@@ -53,7 +57,8 @@
     1.47,
     1.15,
     0.88,
-    0.75
+    0.75,
+    0.64
   ],
   "partidas": [
     {
@@ -159,12 +164,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/03/inter65.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 14,
+      "clube_casa": "Bragantino",
+      "clube_casa_id": 280,
+      "clube_visitante": "Internacional",
+      "clube_casa_abrev": "BRA",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2020/01/01/65.png",
+      "clube_visitante_id": 285,
+      "clube_visitante_abrev": "INT",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/03/inter65.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2020/08/28/4d9c29b23debc8be1dadcfe86a9cb017_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/03/inter65.png",
   "scouts": {
-    "rodada_id": 13,
+    "rodada_id": 14,
     "rb": 0,
     "g": 0,
     "a": 0,
@@ -185,11 +203,11 @@
     "pe": 0,
     "ds": 6,
     "pi": 11,
-    "pontos_num": 0.1,
-    "preco_num": 6.36,
-    "variacao_num": -0.02,
-    "media_num": 0.75,
-    "jogos_num": 6,
+    "pontos_num": 0,
+    "preco_num": 6.15,
+    "variacao_num": -0.21,
+    "media_num": 0.64,
+    "jogos_num": 7,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }

@@ -6,7 +6,6 @@
   "clube_id": 294,
   "posicao": "Goleiro",
   "rodadas": [
-    3,
     4,
     5,
     6,
@@ -16,10 +15,10 @@
     10,
     11,
     12,
-    13
+    13,
+    14
   ],
   "pontos": [
-    13,
     8.3,
     -2.1,
     12.6,
@@ -29,10 +28,10 @@
     -2.6,
     12.8,
     -8.6,
-    -0.6
+    -0.6,
+    -4.4
   ],
   "precos": [
-    7.99,
     8.76,
     6.9,
     10.13,
@@ -42,10 +41,10 @@
     8.21,
     10.93,
     7.35,
-    8.47
+    8.47,
+    7.47
   ],
   "variacoes": [
-    4.13,
     0.77,
     -1.86,
     3.23,
@@ -55,10 +54,10 @@
     -0.26,
     2.72,
     -3.58,
-    1.12
+    1.12,
+    -1
   ],
   "medias": [
-    4.03,
     5.1,
     3.66,
     5.15,
@@ -68,22 +67,10 @@
     3.8,
     4.62,
     3.52,
-    3.2
+    3.2,
+    2.66
   ],
   "partidas": [
-    {
-      "rodada_id": 3,
-      "clube_casa": "Coritiba",
-      "clube_casa_id": 294,
-      "clube_visitante": "Flamengo",
-      "clube_casa_abrev": "COR",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2017/03/29/coritiba65.png",
-      "clube_visitante_id": 262,
-      "clube_visitante_abrev": "FLA",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/04/09/Flamengo-65.png",
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 4,
       "clube_casa": "Corinthians",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/sao_paulo_60x60.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 14,
+      "clube_casa": "Grêmio",
+      "clube_casa_id": 284,
+      "clube_visitante": "Coritiba",
+      "clube_casa_abrev": "GRE",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/gremio_60x60.png",
+      "clube_visitante_id": 294,
+      "clube_visitante_abrev": "COR",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2017/03/29/coritiba65.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2020/03/02/dfd945324c953bf8961a2733f8878bdf_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2017/03/29/coritiba65.png",
   "scouts": {
-    "rodada_id": 13,
+    "rodada_id": 14,
     "rb": 0,
     "g": 0,
     "a": 0,
@@ -233,17 +233,17 @@
     "cv": 0,
     "ca": 0,
     "pp": 0,
-    "gs": 17,
+    "gs": 19,
     "fc": 0,
     "i": 0,
     "pe": 0,
     "ds": 1,
-    "pi": 124,
-    "pontos_num": -0.6,
-    "preco_num": 8.47,
-    "variacao_num": 1.12,
-    "media_num": 3.2,
-    "jogos_num": 13,
+    "pi": 128,
+    "pontos_num": -4.4,
+    "preco_num": 7.47,
+    "variacao_num": -1,
+    "media_num": 2.66,
+    "jogos_num": 14,
     "posicao_abrev": "gol",
     "posicao": "Goleiro"
   }

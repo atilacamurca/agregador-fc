@@ -6,7 +6,6 @@
   "clube_id": 267,
   "posicao": "Atacante",
   "rodadas": [
-    3,
     4,
     5,
     6,
@@ -16,10 +15,10 @@
     10,
     11,
     12,
-    13
+    13,
+    14
   ],
   "pontos": [
-    16.8,
     6.5,
     0.3,
     0.5,
@@ -29,10 +28,10 @@
     8.3,
     2.9,
     2.8,
-    0.6
+    0.6,
+    0.3
   ],
   "precos": [
-    12.96,
     12.54,
     11.35,
     11.07,
@@ -42,10 +41,10 @@
     14.35,
     13.29,
     13.49,
-    13.19
+    13.19,
+    12.86
   ],
   "variacoes": [
-    4.72,
     -0.42,
     -1.19,
     -0.28,
@@ -55,10 +54,10 @@
     0.5,
     -1.06,
     0.2,
-    -0.3
+    -0.3,
+    -0.33
   ],
   "medias": [
-    9.35,
     8.4,
     6.37,
     5.2,
@@ -68,22 +67,10 @@
     6.9,
     6.5,
     6.16,
-    5.7
+    5.7,
+    5.28
   ],
   "partidas": [
-    {
-      "rodada_id": 3,
-      "clube_casa": "Vasco",
-      "clube_casa_id": 267,
-      "clube_visitante": "São Paulo",
-      "clube_casa_abrev": "VAS",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/07/29/Vasco-65.png",
-      "clube_visitante_id": 276,
-      "clube_visitante_abrev": "SAO",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/sao_paulo_60x60.png",
-      "placar_oficial_mandante": 2,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 4,
       "clube_casa": "Ceará",
@@ -213,18 +200,31 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/07/29/Vasco-65.png",
       "placar_oficial_mandante": 4,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 14,
+      "clube_casa": "Bahia",
+      "clube_casa_id": 265,
+      "clube_visitante": "Vasco",
+      "clube_casa_abrev": "BAH",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/bahia_60x60.png",
+      "clube_visitante_id": 267,
+      "clube_visitante_abrev": "VAS",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/07/29/Vasco-65.png",
+      "placar_oficial_mandante": 3,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2020/08/17/9596d26050cf4d5c6dfba8dbd7af4da9_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2016/07/29/Vasco-65.png",
   "scouts": {
-    "rodada_id": 13,
+    "rodada_id": 14,
     "rb": 0,
     "g": 7,
     "a": 0,
     "sg": 0,
     "fs": 7,
-    "ff": 4,
+    "ff": 5,
     "fd": 8,
     "ft": 1,
     "dd": 0,
@@ -234,16 +234,16 @@
     "ca": 0,
     "pp": 0,
     "gs": 0,
-    "fc": 10,
+    "fc": 11,
     "i": 7,
     "pe": 0,
     "ds": 4,
     "pi": 23,
-    "pontos_num": 0.6,
-    "preco_num": 13.19,
-    "variacao_num": -0.3,
-    "media_num": 5.7,
-    "jogos_num": 12,
+    "pontos_num": 0.3,
+    "preco_num": 12.86,
+    "variacao_num": -0.33,
+    "media_num": 5.28,
+    "jogos_num": 13,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }

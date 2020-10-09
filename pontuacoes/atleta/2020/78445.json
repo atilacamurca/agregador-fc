@@ -6,7 +6,6 @@
   "clube_id": 262,
   "posicao": "Lateral",
   "rodadas": [
-    3,
     4,
     5,
     6,
@@ -16,10 +15,10 @@
     10,
     11,
     12,
-    13
+    13,
+    14
   ],
   "pontos": [
-    0,
     2,
     0,
     5,
@@ -29,10 +28,10 @@
     6.2,
     0,
     0,
-    0
+    0,
+    4.3
   ],
   "precos": [
-    6,
     5.1,
     5.1,
     5.75,
@@ -42,10 +41,10 @@
     6.17,
     6.17,
     6.17,
-    6.17
+    6.17,
+    6.03
   ],
   "variacoes": [
-    0,
     -0.9,
     0,
     0.65,
@@ -55,10 +54,10 @@
     0.89,
     0,
     0,
-    0
+    0,
+    -0.14
   ],
   "medias": [
-    0,
     2,
     2,
     3.5,
@@ -68,22 +67,10 @@
     3.73,
     3.73,
     3.73,
-    3.73
+    3.73,
+    3.84
   ],
   "partidas": [
-    {
-      "rodada_id": 3,
-      "clube_casa": "Coritiba",
-      "clube_casa_id": 294,
-      "clube_visitante": "Flamengo",
-      "clube_casa_abrev": "COR",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2017/03/29/coritiba65.png",
-      "clube_visitante_id": 262,
-      "clube_visitante_abrev": "FLA",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/04/09/Flamengo-65.png",
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 4,
       "clube_casa": "Flamengo",
@@ -213,16 +200,29 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/09/Athletico-PR-65x65.png",
       "placar_oficial_mandante": 3,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 14,
+      "clube_casa": "Flamengo",
+      "clube_casa_id": 262,
+      "clube_visitante": "Sport",
+      "clube_casa_abrev": "FLA",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/04/09/Flamengo-65.png",
+      "clube_visitante_id": 292,
+      "clube_visitante_abrev": "SPO",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2015/07/21/sport65.png",
+      "placar_oficial_mandante": 3,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2020/07/21/60d54826cbdcb1e92c0ae4057efbd02c_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2018/04/09/Flamengo-65.png",
   "scouts": {
-    "rodada_id": 13,
+    "rodada_id": 14,
     "rb": 0,
     "g": 0,
     "a": 0,
-    "sg": 1,
+    "sg": 2,
     "fs": 3,
     "ff": 0,
     "fd": 0,
@@ -234,16 +234,16 @@
     "ca": 1,
     "pp": 0,
     "gs": 0,
-    "fc": 1,
+    "fc": 2,
     "i": 0,
     "pe": 0,
     "ds": 14,
-    "pi": 31,
-    "pontos_num": 0,
-    "preco_num": 6.17,
-    "variacao_num": 0,
-    "media_num": 3.73,
-    "jogos_num": 4,
+    "pi": 33,
+    "pontos_num": 4.3,
+    "preco_num": 6.03,
+    "variacao_num": -0.14,
+    "media_num": 3.84,
+    "jogos_num": 5,
     "posicao_abrev": "lat",
     "posicao": "Lateral"
   }
