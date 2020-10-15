@@ -6,7 +6,6 @@
   "clube_id": 262,
   "posicao": "Lateral",
   "rodadas": [
-    4,
     5,
     6,
     7,
@@ -16,10 +15,10 @@
     11,
     12,
     13,
-    14
+    14,
+    15
   ],
   "pontos": [
-    0,
     0,
     2.8,
     8.7,
@@ -29,10 +28,10 @@
     0,
     0,
     2.8,
-    4.9
+    4.9,
+    0
   ],
   "precos": [
-    10,
     10,
     8.44,
     9.96,
@@ -42,10 +41,10 @@
     8.37,
     8.37,
     8.42,
+    8.83,
     8.83
   ],
   "variacoes": [
-    0,
     0,
     -1.56,
     1.52,
@@ -55,10 +54,10 @@
     0,
     0,
     0.05,
-    0.41
+    0.41,
+    0
   ],
   "medias": [
-    0,
     0,
     2.8,
     5.75,
@@ -68,22 +67,10 @@
     2.4,
     2.4,
     2.47,
+    2.82,
     2.82
   ],
   "partidas": [
-    {
-      "rodada_id": 4,
-      "clube_casa": "Flamengo",
-      "clube_casa_id": 262,
-      "clube_visitante": "Grêmio",
-      "clube_casa_abrev": "FLA",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/04/09/Flamengo-65.png",
-      "clube_visitante_id": 284,
-      "clube_visitante_abrev": "GRE",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/gremio_60x60.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 5,
       "clube_casa": "Flamengo",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2015/07/21/sport65.png",
       "placar_oficial_mandante": 3,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 15,
+      "clube_casa": "Vasco",
+      "clube_casa_id": 267,
+      "clube_visitante": "Flamengo",
+      "clube_casa_abrev": "VAS",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/07/29/Vasco-65.png",
+      "clube_visitante_id": 262,
+      "clube_visitante_abrev": "FLA",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/04/09/Flamengo-65.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2020/08/28/bfa17ba766cfaa70d4c11c51304fc336_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2018/04/09/Flamengo-65.png",
   "scouts": {
-    "rodada_id": 14,
+    "rodada_id": 15,
     "rb": 0,
     "g": 0,
     "a": 2,
@@ -239,9 +239,9 @@
     "pe": 0,
     "ds": 12,
     "pi": 48,
-    "pontos_num": 4.9,
+    "pontos_num": 0,
     "preco_num": 8.83,
-    "variacao_num": 0.41,
+    "variacao_num": 0,
     "media_num": 2.82,
     "jogos_num": 7,
     "posicao_abrev": "lat",

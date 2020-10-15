@@ -14,7 +14,8 @@
     11,
     12,
     13,
-    14
+    14,
+    15
   ],
   "pontos": [
     0,
@@ -25,7 +26,8 @@
     0,
     5.2,
     0.6,
-    -2.4
+    -2.4,
+    0
   ],
   "precos": [
     8,
@@ -36,6 +38,7 @@
     6.36,
     6.95,
     6.29,
+    5.48,
     5.48
   ],
   "variacoes": [
@@ -47,7 +50,8 @@
     0,
     0.59,
     -0.66,
-    -0.81
+    -0.81,
+    0
   ],
   "medias": [
     0,
@@ -58,6 +62,7 @@
     0.65,
     2.17,
     1.78,
+    0.94,
     0.94
   ],
   "partidas": [
@@ -177,12 +182,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/fluminense_60x60.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 4
+    },
+    {
+      "rodada_id": 15,
+      "clube_casa": "Atlético-MG",
+      "clube_casa_id": 282,
+      "clube_visitante": "Goiás",
+      "clube_casa_abrev": "ATL",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2017/11/23/Atletico-Mineiro-escudo65px.png",
+      "clube_visitante_id": 290,
+      "clube_visitante_abrev": "GOI",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/05/01/Goias_65px.png",
+      "placar_oficial_mandante": 3,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2020/09/01/423284c226644dd18bcf74444e71a668_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2019/05/01/Goias_65px.png",
   "scouts": {
-    "rodada_id": 14,
+    "rodada_id": 15,
     "rb": 0,
     "g": 0,
     "a": 1,
@@ -203,9 +221,9 @@
     "pe": 0,
     "ds": 3,
     "pi": 36,
-    "pontos_num": -2.4,
+    "pontos_num": 0,
     "preco_num": 5.48,
-    "variacao_num": -0.81,
+    "variacao_num": 0,
     "media_num": 0.94,
     "jogos_num": 5,
     "posicao_abrev": "lat",
