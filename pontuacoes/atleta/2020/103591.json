@@ -6,7 +6,6 @@
   "clube_id": 290,
   "posicao": "Meia",
   "rodadas": [
-    5,
     6,
     7,
     8,
@@ -16,10 +15,10 @@
     12,
     13,
     14,
-    15
+    15,
+    16
   ],
   "pontos": [
-    12.1,
     0,
     1.6,
     0.4,
@@ -29,10 +28,10 @@
     -2.1,
     -0.3,
     0,
-    6.9
+    6.9,
+    0
   ],
   "precos": [
-    8.82,
     8.82,
     7.43,
     7.22,
@@ -42,10 +41,10 @@
     6.15,
     6.38,
     6.38,
+    7.5,
     7.5
   ],
   "variacoes": [
-    2.15,
     0,
     -1.39,
     -0.21,
@@ -55,10 +54,10 @@
     -0.65,
     0.23,
     0,
-    1.12
+    1.12,
+    0
   ],
   "medias": [
-    6.42,
     6.42,
     5.46,
     4.62,
@@ -68,22 +67,10 @@
     2.74,
     2.44,
     2.44,
+    2.85,
     2.85
   ],
   "partidas": [
-    {
-      "rodada_id": 5,
-      "clube_casa": "Goiás",
-      "clube_casa_id": 290,
-      "clube_visitante": "Atlético-GO",
-      "clube_casa_abrev": "GOI",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/05/01/Goias_65px.png",
-      "clube_visitante_id": 373,
-      "clube_visitante_abrev": "ATL",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2020/07/02/atletico-go-2020-65.png",
-      "placar_oficial_mandante": 2,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 6,
       "clube_casa": "Grêmio",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/05/01/Goias_65px.png",
       "placar_oficial_mandante": 3,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 16,
+      "clube_casa": "Goiás",
+      "clube_casa_id": 290,
+      "clube_visitante": "Bahia",
+      "clube_casa_abrev": "GOI",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/05/01/Goias_65px.png",
+      "clube_visitante_id": 265,
+      "clube_visitante_abrev": "BAH",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/bahia_60x60.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2020/08/26/f8c7d3a76680619bf773e434179d4df4_140x140.jpeg",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2019/05/01/Goias_65px.png",
   "scouts": {
-    "rodada_id": 15,
+    "rodada_id": 16,
     "rb": 0,
     "g": 2,
     "a": 0,
@@ -239,9 +239,9 @@
     "pe": 0,
     "ds": 23,
     "pi": 71,
-    "pontos_num": 6.9,
+    "pontos_num": 0,
     "preco_num": 7.5,
-    "variacao_num": 1.12,
+    "variacao_num": 0,
     "media_num": 2.85,
     "jogos_num": 11,
     "posicao_abrev": "mei",
