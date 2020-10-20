@@ -6,7 +6,6 @@
   "clube_id": 264,
   "posicao": "Zagueiro",
   "rodadas": [
-    6,
     7,
     8,
     9,
@@ -16,10 +15,10 @@
     13,
     14,
     15,
-    16
+    16,
+    17
   ],
   "pontos": [
-    -0.8,
     7.7,
     0.3,
     -5,
@@ -29,10 +28,10 @@
     6.6,
     7.2,
     0,
+    0,
     0
   ],
   "precos": [
-    4.99,
     6.72,
     5.69,
     4.41,
@@ -42,10 +41,10 @@
     6.1,
     6.45,
     6.45,
+    6.45,
     6.45
   ],
   "variacoes": [
-    -0.69,
     1.73,
     -1.03,
     -1.28,
@@ -55,10 +54,10 @@
     1.69,
     0.35,
     0,
+    0,
     0
   ],
   "medias": [
-    2.32,
     3.22,
     2.8,
     1.82,
@@ -68,22 +67,10 @@
     2.35,
     2.83,
     2.83,
+    2.83,
     2.83
   ],
   "partidas": [
-    {
-      "rodada_id": 6,
-      "clube_casa": "São Paulo",
-      "clube_casa_id": 276,
-      "clube_visitante": "Corinthians",
-      "clube_casa_abrev": "SAO",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/sao_paulo_60x60.png",
-      "clube_visitante_id": 264,
-      "clube_visitante_abrev": "COR",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/30/Corinthians_65.png",
-      "placar_oficial_mandante": 2,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 7,
       "clube_casa": "Goiás",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/30/Corinthians_65.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 17,
+      "clube_casa": "Corinthians",
+      "clube_casa_id": 264,
+      "clube_visitante": "Flamengo",
+      "clube_casa_abrev": "COR",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/30/Corinthians_65.png",
+      "clube_visitante_id": 262,
+      "clube_visitante_abrev": "FLA",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/04/09/Flamengo-65.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 5
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2020/08/17/aad01ff8fba4f807ccfdca075fa0d581_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/30/Corinthians_65.png",
   "scouts": {
-    "rodada_id": 16,
+    "rodada_id": 17,
     "rb": 0,
     "g": 2,
     "a": 0,

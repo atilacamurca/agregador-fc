@@ -6,7 +6,6 @@
   "clube_id": 285,
   "posicao": "Zagueiro",
   "rodadas": [
-    6,
     7,
     8,
     9,
@@ -16,7 +15,8 @@
     13,
     14,
     15,
-    16
+    16,
+    17
   ],
   "pontos": [
     0,
@@ -71,19 +71,6 @@
     0
   ],
   "partidas": [
-    {
-      "rodada_id": 6,
-      "clube_casa": "Botafogo",
-      "clube_casa_id": 263,
-      "clube_visitante": "Internacional",
-      "clube_casa_abrev": "BOT",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/04/botafogo-65.png",
-      "clube_visitante_id": 285,
-      "clube_visitante_abrev": "INT",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/03/inter65.png",
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 2
-    },
     {
       "rodada_id": 7,
       "clube_casa": "Palmeiras",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/03/inter65.png",
       "placar_oficial_mandante": 3,
       "placar_oficial_visitante": 5
+    },
+    {
+      "rodada_id": 17,
+      "clube_casa": "Internacional",
+      "clube_casa_id": 285,
+      "clube_visitante": "Vasco",
+      "clube_casa_abrev": "INT",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/03/inter65.png",
+      "clube_visitante_id": 267,
+      "clube_visitante_abrev": "VAS",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/07/29/Vasco-65.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2020/08/11/93a36fa67c35580ef4e99cac7a12dff1_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/03/inter65.png",
   "scouts": {
-    "rodada_id": 16,
+    "rodada_id": 17,
     "rb": 0,
     "g": 0,
     "a": 0,

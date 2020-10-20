@@ -6,7 +6,6 @@
   "clube_id": 276,
   "posicao": "Atacante",
   "rodadas": [
-    6,
     7,
     8,
     9,
@@ -16,13 +15,14 @@
     13,
     14,
     15,
-    16
+    16,
+    17
   ],
   "pontos": [
     0,
     0,
-    0,
     5.4,
+    0,
     0,
     0,
     0,
@@ -34,7 +34,7 @@
   "precos": [
     3.4,
     3.4,
-    3.4,
+    4.08,
     4.08,
     4.08,
     4.08,
@@ -47,8 +47,8 @@
   "variacoes": [
     0,
     0,
-    0,
     0.68,
+    0,
     0,
     0,
     0,
@@ -60,7 +60,7 @@
   "medias": [
     1.15,
     1.15,
-    1.15,
+    2.57,
     2.57,
     2.57,
     2.57,
@@ -71,19 +71,6 @@
     2.57
   ],
   "partidas": [
-    {
-      "rodada_id": 6,
-      "clube_casa": "São Paulo",
-      "clube_casa_id": 276,
-      "clube_visitante": "Corinthians",
-      "clube_casa_abrev": "SAO",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/sao_paulo_60x60.png",
-      "clube_visitante_id": 264,
-      "clube_visitante_abrev": "COR",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/30/Corinthians_65.png",
-      "placar_oficial_mandante": 2,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 7,
       "clube_casa": "Atlético-MG",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/sao_paulo_60x60.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 17,
+      "clube_casa": "São Paulo",
+      "clube_casa_id": 276,
+      "clube_visitante": "Grêmio",
+      "clube_casa_abrev": "SAO",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/sao_paulo_60x60.png",
+      "clube_visitante_id": 284,
+      "clube_visitante_abrev": "GRE",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/gremio_60x60.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2019/04/01/a4da339bedf52e7e79df80fd1914f6da_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/sao_paulo_60x60.png",
   "scouts": {
-    "rodada_id": 16,
+    "rodada_id": 17,
     "rb": 0,
     "g": 0,
     "a": 1,
