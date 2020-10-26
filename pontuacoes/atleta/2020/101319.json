@@ -6,7 +6,6 @@
   "clube_id": 282,
   "posicao": "Lateral",
   "rodadas": [
-    7,
     8,
     9,
     10,
@@ -16,10 +15,10 @@
     14,
     15,
     16,
-    17
+    17,
+    18
   ],
   "pontos": [
-    4.6,
     10.5,
     0,
     4.2,
@@ -29,10 +28,10 @@
     1.2,
     7.3,
     0.9,
-    0.6
+    0.6,
+    7.8
   ],
   "precos": [
-    12.93,
     14.56,
     14.56,
     13.63,
@@ -42,10 +41,10 @@
     13.29,
     14.26,
     13.15,
-    13.03
+    13.03,
+    14.15
   ],
   "variacoes": [
-    -0.25,
     1.63,
     0,
     -0.93,
@@ -55,10 +54,10 @@
     -1.29,
     0.97,
     -1.11,
-    -0.12
+    -0.12,
+    1.12
   ],
   "medias": [
-    5.86,
     6.63,
     6.63,
     6.28,
@@ -68,22 +67,10 @@
     5.33,
     5.49,
     5.14,
-    4.82
+    4.82,
+    5.02
   ],
   "partidas": [
-    {
-      "rodada_id": 7,
-      "clube_casa": "Atlético-MG",
-      "clube_casa_id": 282,
-      "clube_visitante": "São Paulo",
-      "clube_casa_abrev": "ATL",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2017/11/23/Atletico-Mineiro-escudo65px.png",
-      "clube_visitante_id": 276,
-      "clube_visitante_abrev": "SAO",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/sao_paulo_60x60.png",
-      "placar_oficial_mandante": 3,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 8,
       "clube_casa": "Coritiba",
@@ -213,17 +200,30 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2017/11/23/Atletico-Mineiro-escudo65px.png",
       "placar_oficial_mandante": 3,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 18,
+      "clube_casa": "Atlético-MG",
+      "clube_casa_id": 282,
+      "clube_visitante": "Sport",
+      "clube_casa_abrev": "ATL",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2017/11/23/Atletico-Mineiro-escudo65px.png",
+      "clube_visitante_id": 292,
+      "clube_visitante_abrev": "SPO",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2015/07/21/sport65.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2020/08/31/ff263cf2e43da8d3c2b3b688ae237c0c_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2017/11/23/Atletico-Mineiro-escudo65px.png",
   "scouts": {
-    "rodada_id": 17,
+    "rodada_id": 18,
     "rb": 0,
     "g": 1,
     "a": 1,
-    "sg": 5,
-    "fs": 15,
+    "sg": 6,
+    "fs": 17,
     "ff": 5,
     "fd": 2,
     "ft": 1,
@@ -237,13 +237,13 @@
     "fc": 17,
     "i": 0,
     "pe": 0,
-    "ds": 33,
-    "pi": 99,
-    "pontos_num": 0.6,
-    "preco_num": 13.03,
-    "variacao_num": -0.12,
-    "media_num": 4.82,
-    "jogos_num": 14,
+    "ds": 36,
+    "pi": 111,
+    "pontos_num": 7.8,
+    "preco_num": 14.15,
+    "variacao_num": 1.12,
+    "media_num": 5.02,
+    "jogos_num": 15,
     "posicao_abrev": "lat",
     "posicao": "Lateral"
   }

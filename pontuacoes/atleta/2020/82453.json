@@ -6,7 +6,6 @@
   "clube_id": 290,
   "posicao": "Goleiro",
   "rodadas": [
-    7,
     8,
     9,
     10,
@@ -16,10 +15,10 @@
     14,
     15,
     16,
-    17
+    17,
+    18
   ],
   "pontos": [
-    -0.7,
     -0.5,
     -6.1,
     11.8,
@@ -29,10 +28,10 @@
     -5.3,
     11.1,
     0,
-    20.6
+    20.6,
+    2.1
   ],
   "precos": [
-    7.12,
     6.97,
     5.51,
     8.78,
@@ -42,10 +41,10 @@
     5.75,
     8.57,
     8.57,
-    10.83
+    10.83,
+    8
   ],
   "variacoes": [
-    -1.65,
     -0.15,
     -1.46,
     3.27,
@@ -55,10 +54,10 @@
     -0.86,
     2.82,
     0,
-    2.26
+    2.26,
+    -2.83
   ],
   "medias": [
-    0.27,
     0.08,
     -1.16,
     1,
@@ -68,22 +67,10 @@
     0.13,
     1.23,
     1.23,
-    2.99
+    2.99,
+    2.92
   ],
   "partidas": [
-    {
-      "rodada_id": 7,
-      "clube_casa": "Goiás",
-      "clube_casa_id": 290,
-      "clube_visitante": "Corinthians",
-      "clube_casa_abrev": "GOI",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/05/01/Goias_65px.png",
-      "clube_visitante_id": 264,
-      "clube_visitante_abrev": "COR",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/30/Corinthians_65.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 2
-    },
     {
       "rodada_id": 8,
       "clube_casa": "Sport",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/05/01/Goias_65px.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 18,
+      "clube_casa": "Bragantino",
+      "clube_casa_id": 280,
+      "clube_visitante": "Goiás",
+      "clube_casa_abrev": "BRA",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2020/01/01/65.png",
+      "clube_visitante_id": 290,
+      "clube_visitante_abrev": "GOI",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/05/01/Goias_65px.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2020/08/26/cf01a937d465c1d2b6417bf927da94c7_140x140.jpeg",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2019/05/01/Goias_65px.png",
   "scouts": {
-    "rodada_id": 17,
+    "rodada_id": 18,
     "rb": 0,
     "g": 0,
     "a": 0,
@@ -228,22 +228,22 @@
     "fd": 1,
     "ft": 0,
     "dd": 18,
-    "dp": 0,
+    "dp": 1,
     "gc": 0,
     "cv": 0,
     "ca": 0,
     "pp": 0,
-    "gs": 22,
+    "gs": 24,
     "fc": 1,
     "i": 0,
     "pe": 0,
     "ds": 0,
-    "pi": 113,
-    "pontos_num": 20.6,
-    "preco_num": 10.83,
-    "variacao_num": 2.26,
-    "media_num": 2.99,
-    "jogos_num": 11,
+    "pi": 122,
+    "pontos_num": 2.1,
+    "preco_num": 8,
+    "variacao_num": -2.83,
+    "media_num": 2.92,
+    "jogos_num": 12,
     "posicao_abrev": "gol",
     "posicao": "Goleiro"
   }
