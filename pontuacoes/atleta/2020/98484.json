@@ -6,7 +6,6 @@
   "clube_id": 263,
   "posicao": "Zagueiro",
   "rodadas": [
-    8,
     9,
     10,
     11,
@@ -16,10 +15,10 @@
     15,
     16,
     17,
-    18
+    18,
+    19
   ],
   "pontos": [
-    4.6,
     1.6,
     6.3,
     4.4,
@@ -29,10 +28,10 @@
     5.2,
     1.1,
     7.5,
-    0
+    0,
+    4.6
   ],
   "precos": [
-    5.01,
     4.65,
     5.71,
     5.55,
@@ -42,10 +41,10 @@
     5.89,
     5.26,
     6.51,
-    6.51
+    6.51,
+    6.26
   ],
   "variacoes": [
-    -0.08,
     -0.36,
     1.06,
     -0.16,
@@ -55,10 +54,10 @@
     1,
     -0.63,
     1.25,
-    0
+    0,
+    -0.25
   ],
   "medias": [
-    3.27,
     3.06,
     3.42,
     3.52,
@@ -68,22 +67,10 @@
     3.06,
     2.93,
     3.22,
-    3.22
+    3.22,
+    3.3
   ],
   "partidas": [
-    {
-      "rodada_id": 8,
-      "clube_casa": "Corinthians",
-      "clube_casa_id": 264,
-      "clube_visitante": "Botafogo",
-      "clube_casa_abrev": "COR",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/30/Corinthians_65.png",
-      "clube_visitante_id": 263,
-      "clube_visitante_abrev": "BOT",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/04/botafogo-65.png",
-      "placar_oficial_mandante": 2,
-      "placar_oficial_visitante": 2
-    },
     {
       "rodada_id": 9,
       "clube_casa": "Athlético-PR",
@@ -213,19 +200,32 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/04/botafogo-65.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 19,
+      "clube_casa": "Botafogo",
+      "clube_casa_id": 263,
+      "clube_visitante": "Ceará",
+      "clube_casa_abrev": "BOT",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/04/botafogo-65.png",
+      "clube_visitante_id": 354,
+      "clube_visitante_abrev": "CEA",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/10/10/ceara-65x65.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2018/05/17/2db8b29bbc16d8473f93bd1f8a0351dc_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/04/botafogo-65.png",
   "scouts": {
-    "rodada_id": 18,
+    "rodada_id": 19,
     "rb": 0,
     "g": 0,
     "a": 1,
     "sg": 4,
-    "fs": 15,
+    "fs": 18,
     "ff": 4,
-    "fd": 1,
+    "fd": 2,
     "ft": 0,
     "dd": 0,
     "dp": 0,
@@ -237,13 +237,13 @@
     "fc": 11,
     "i": 0,
     "pe": 0,
-    "ds": 27,
-    "pi": 49,
-    "pontos_num": 0,
-    "preco_num": 6.51,
-    "variacao_num": 0,
-    "media_num": 3.22,
-    "jogos_num": 16,
+    "ds": 29,
+    "pi": 50,
+    "pontos_num": 4.6,
+    "preco_num": 6.26,
+    "variacao_num": -0.25,
+    "media_num": 3.3,
+    "jogos_num": 17,
     "posicao_abrev": "zag",
     "posicao": "Zagueiro"
   }
