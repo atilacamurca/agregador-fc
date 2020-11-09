@@ -6,7 +6,6 @@
   "clube_id": 282,
   "posicao": "Zagueiro",
   "rodadas": [
-    9,
     10,
     11,
     12,
@@ -16,10 +15,10 @@
     16,
     17,
     18,
-    19
+    19,
+    20
   ],
   "pontos": [
-    -0.1,
     1.3,
     1.2,
     2.5,
@@ -29,10 +28,10 @@
     0,
     0.9,
     9.2,
-    -0.8
+    -0.8,
+    1.3
   ],
   "precos": [
-    11.05,
     11.14,
     10.8,
     11.17,
@@ -42,10 +41,10 @@
     10.54,
     10.2,
     11.6,
-    10.16
+    10.16,
+    10.38
   ],
   "variacoes": [
-    -0.78,
     0.09,
     -0.34,
     0.37,
@@ -55,10 +54,10 @@
     0,
     -0.34,
     1.4,
-    -1.44
+    -1.44,
+    0.22
   ],
   "medias": [
-    4.85,
     4.46,
     4.13,
     3.98,
@@ -68,22 +67,10 @@
     3.55,
     3.35,
     3.77,
-    3.47
+    3.47,
+    3.33
   ],
   "partidas": [
-    {
-      "rodada_id": 9,
-      "clube_casa": "Santos",
-      "clube_casa_id": 277,
-      "clube_visitante": "Atlético-MG",
-      "clube_casa_abrev": "SAN",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/santos_60x60.png",
-      "clube_visitante_id": 282,
-      "clube_visitante_abrev": "ATL",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2017/11/23/Atletico-Mineiro-escudo65px.png",
-      "placar_oficial_mandante": 3,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 10,
       "clube_casa": "Atlético-MG",
@@ -213,16 +200,29 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2017/11/23/Atletico-Mineiro-escudo65px.png",
       "placar_oficial_mandante": 3,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 20,
+      "clube_casa": "Atlético-MG",
+      "clube_casa_id": 282,
+      "clube_visitante": "Flamengo",
+      "clube_casa_abrev": "ATL",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2017/11/23/Atletico-Mineiro-escudo65px.png",
+      "clube_visitante_id": 262,
+      "clube_visitante_abrev": "FLA",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/04/09/Flamengo-65.png",
+      "placar_oficial_mandante": 4,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2020/07/16/daf987c3f75852892ad5b645ad99faad_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2017/11/23/Atletico-Mineiro-escudo65px.png",
   "scouts": {
-    "rodada_id": 19,
+    "rodada_id": 20,
     "rb": 0,
     "g": 0,
     "a": 1,
-    "sg": 5,
+    "sg": 6,
     "fs": 1,
     "ff": 10,
     "fd": 4,
@@ -231,19 +231,19 @@
     "dp": 0,
     "gc": 0,
     "cv": 0,
-    "ca": 4,
+    "ca": 5,
     "pp": 0,
     "gs": 0,
-    "fc": 20,
+    "fc": 26,
     "i": 0,
     "pe": 0,
-    "ds": 33,
-    "pi": 94,
-    "pontos_num": -0.8,
-    "preco_num": 10.16,
-    "variacao_num": -1.44,
-    "media_num": 3.47,
-    "jogos_num": 15,
+    "ds": 35,
+    "pi": 101,
+    "pontos_num": 1.3,
+    "preco_num": 10.38,
+    "variacao_num": 0.22,
+    "media_num": 3.33,
+    "jogos_num": 16,
     "posicao_abrev": "zag",
     "posicao": "Zagueiro"
   }

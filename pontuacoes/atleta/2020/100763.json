@@ -6,7 +6,6 @@
   "clube_id": 276,
   "posicao": "Meia",
   "rodadas": [
-    9,
     10,
     11,
     12,
@@ -16,10 +15,10 @@
     16,
     17,
     18,
-    19
+    19,
+    20
   ],
   "pontos": [
-    1,
     19.9,
     0,
     -0.3,
@@ -29,10 +28,10 @@
     0,
     0.4,
     0,
-    5.8
+    5.8,
+    -2
   ],
   "precos": [
-    1.64,
     5.79,
     5.79,
     3,
@@ -42,10 +41,10 @@
     5.38,
     3.69,
     3.69,
-    4.7
+    4.7,
+    3.39
   ],
   "variacoes": [
-    0.1,
     4.15,
     0,
     -2.79,
@@ -55,10 +54,10 @@
     0,
     -1.69,
     0,
-    1.01
+    1.01,
+    -1.31
   ],
   "medias": [
-    0.16,
     2.35,
     2.35,
     2.08,
@@ -68,22 +67,10 @@
     2.68,
     2.5,
     2.5,
-    2.74
+    2.74,
+    2.42
   ],
   "partidas": [
-    {
-      "rodada_id": 9,
-      "clube_casa": "São Paulo",
-      "clube_casa_id": 276,
-      "clube_visitante": "Bragantino",
-      "clube_casa_abrev": "SAO",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/sao_paulo_60x60.png",
-      "clube_visitante_id": 280,
-      "clube_visitante_abrev": "BRA",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2020/01/01/65.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 10,
       "clube_casa": "Santos",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/sao_paulo_60x60.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 4
+    },
+    {
+      "rodada_id": 20,
+      "clube_casa": "São Paulo",
+      "clube_casa_id": 276,
+      "clube_visitante": "Goiás",
+      "clube_casa_abrev": "SAO",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/sao_paulo_60x60.png",
+      "clube_visitante_id": 290,
+      "clube_visitante_abrev": "GOI",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/05/01/Goias_65px.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 1
     }
   ],
-  "foto": "https://s.glbimg.com/es/sde/f/2020/03/09/322b799218aef5659e98620f3364e767_140x140.png",
+  "foto": "https://s.glbimg.com/es/sde/f/2020/11/05/d6c6115b5a030607c5a349c3c7265105_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/sao_paulo_60x60.png",
   "scouts": {
-    "rodada_id": 19,
+    "rodada_id": 20,
     "rb": 0,
     "g": 3,
     "a": 1,
@@ -231,19 +231,19 @@
     "dp": 0,
     "gc": 0,
     "cv": 0,
-    "ca": 3,
+    "ca": 4,
     "pp": 0,
     "gs": 0,
-    "fc": 15,
+    "fc": 16,
     "i": 3,
     "pe": 0,
-    "ds": 14,
-    "pi": 74,
-    "pontos_num": 5.8,
-    "preco_num": 4.7,
-    "variacao_num": 1.01,
-    "media_num": 2.74,
-    "jogos_num": 14,
+    "ds": 16,
+    "pi": 89,
+    "pontos_num": -2,
+    "preco_num": 3.39,
+    "variacao_num": -1.31,
+    "media_num": 2.42,
+    "jogos_num": 15,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }
