@@ -6,7 +6,6 @@
   "clube_id": 280,
   "posicao": "Atacante",
   "rodadas": [
-    10,
     11,
     12,
     13,
@@ -16,10 +15,10 @@
     17,
     18,
     19,
-    20
+    20,
+    21
   ],
   "pontos": [
-    0,
     0,
     0,
     0,
@@ -29,10 +28,10 @@
     8.2,
     8.5,
     1.1,
-    -1.4
+    -1.4,
+    9.1
   ],
   "precos": [
-    4.92,
     4.92,
     4.92,
     4.92,
@@ -42,10 +41,10 @@
     6.48,
     6.76,
     5.75,
-    5.24
+    5.24,
+    7.05
   ],
   "variacoes": [
-    0,
     0,
     0,
     0,
@@ -55,10 +54,10 @@
     0.61,
     0.28,
     -1.01,
-    -0.51
+    -0.51,
+    1.81
   ],
   "medias": [
-    1.87,
     1.87,
     1.87,
     1.87,
@@ -68,22 +67,10 @@
     3.07,
     3.56,
     3.35,
-    2.98
+    2.98,
+    3.42
   ],
   "partidas": [
-    {
-      "rodada_id": 10,
-      "clube_casa": "Atlético-MG",
-      "clube_casa_id": 282,
-      "clube_visitante": "Bragantino",
-      "clube_casa_abrev": "ATL",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2017/11/23/Atletico-Mineiro-escudo65px.png",
-      "clube_visitante_id": 280,
-      "clube_visitante_abrev": "BRA",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2020/01/01/65.png",
-      "placar_oficial_mandante": 2,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 11,
       "clube_casa": "Bragantino",
@@ -213,18 +200,31 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/santos_60x60.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 21,
+      "clube_casa": "Botafogo",
+      "clube_casa_id": 263,
+      "clube_visitante": "Bragantino",
+      "clube_casa_abrev": "BOT",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/04/botafogo-65.png",
+      "clube_visitante_id": 280,
+      "clube_visitante_abrev": "BRA",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2020/01/01/65.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2020/07/28/f5f19ab0ce1b02fc515f8bd18a88a815_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2020/01/01/65.png",
   "scouts": {
-    "rodada_id": 20,
+    "rodada_id": 21,
     "rb": 0,
-    "g": 1,
+    "g": 2,
     "a": 3,
     "sg": 0,
-    "fs": 7,
-    "ff": 5,
+    "fs": 9,
+    "ff": 6,
     "fd": 7,
     "ft": 0,
     "dd": 0,
@@ -234,16 +234,16 @@
     "ca": 0,
     "pp": 0,
     "gs": 0,
-    "fc": 13,
+    "fc": 14,
     "i": 2,
     "pe": 0,
     "ds": 10,
-    "pi": 26,
-    "pontos_num": -1.4,
-    "preco_num": 5.24,
-    "variacao_num": -0.51,
-    "media_num": 2.98,
-    "jogos_num": 13,
+    "pi": 28,
+    "pontos_num": 9.1,
+    "preco_num": 7.05,
+    "variacao_num": 1.81,
+    "media_num": 3.42,
+    "jogos_num": 14,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }

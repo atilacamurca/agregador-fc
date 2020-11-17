@@ -6,7 +6,6 @@
   "clube_id": 276,
   "posicao": "Lateral",
   "rodadas": [
-    10,
     11,
     12,
     13,
@@ -16,10 +15,10 @@
     17,
     18,
     19,
-    20
+    20,
+    21
   ],
   "pontos": [
-    0,
     0,
     0,
     0.2,
@@ -29,10 +28,10 @@
     0,
     0,
     0,
-    7.4
+    7.4,
+    0
   ],
   "precos": [
-    6.21,
     6.21,
     6.21,
     5.84,
@@ -42,10 +41,10 @@
     6.82,
     6.82,
     6.82,
+    7.16,
     7.16
   ],
   "variacoes": [
-    0,
     0,
     0,
     -0.37,
@@ -55,10 +54,10 @@
     0,
     0,
     0,
-    0.34
+    0.34,
+    0
   ],
   "medias": [
-    2.4,
     2.4,
     2.4,
     1.96,
@@ -68,22 +67,10 @@
     2.58,
     2.58,
     2.58,
+    3.27,
     3.27
   ],
   "partidas": [
-    {
-      "rodada_id": 10,
-      "clube_casa": "Santos",
-      "clube_casa_id": 277,
-      "clube_visitante": "São Paulo",
-      "clube_casa_abrev": "SAN",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/santos_60x60.png",
-      "clube_visitante_id": 276,
-      "clube_visitante_abrev": "SAO",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/sao_paulo_60x60.png",
-      "placar_oficial_mandante": 2,
-      "placar_oficial_visitante": 2
-    },
     {
       "rodada_id": 11,
       "clube_casa": "São Paulo",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/05/01/Goias_65px.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 21,
+      "clube_casa": "Fortaleza",
+      "clube_casa_id": 356,
+      "clube_visitante": "São Paulo",
+      "clube_casa_abrev": "FOR",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/06/10/fortaleza-ec-65px.png",
+      "clube_visitante_id": 276,
+      "clube_visitante_abrev": "SAO",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/sao_paulo_60x60.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 3
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2019/08/09/3bd5a8ba6743da05e2eefc2c5140722d_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/sao_paulo_60x60.png",
   "scouts": {
-    "rodada_id": 20,
+    "rodada_id": 21,
     "rb": 0,
     "g": 0,
     "a": 1,
@@ -239,9 +239,9 @@
     "pe": 0,
     "ds": 11,
     "pi": 34,
-    "pontos_num": 7.4,
+    "pontos_num": 0,
     "preco_num": 7.16,
-    "variacao_num": 0.34,
+    "variacao_num": 0,
     "media_num": 3.27,
     "jogos_num": 7,
     "posicao_abrev": "lat",

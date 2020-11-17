@@ -6,7 +6,6 @@
   "clube_id": 262,
   "posicao": "Atacante",
   "rodadas": [
-    10,
     11,
     12,
     13,
@@ -16,10 +15,10 @@
     17,
     18,
     19,
-    20
+    20,
+    21
   ],
   "pontos": [
-    -0.4,
     0,
     0,
     0,
@@ -29,10 +28,10 @@
     6,
     -0.1,
     1.1,
-    1.1
+    1.1,
+    2.7
   ],
   "precos": [
-    2.79,
     2.79,
     2.79,
     2.74,
@@ -42,10 +41,10 @@
     4.25,
     3.27,
     3.51,
-    3.51
+    3.51,
+    3.78
   ],
   "variacoes": [
-    -0.35,
     0,
     0,
     -0.05,
@@ -55,10 +54,10 @@
     -0.61,
     -0.98,
     0.24,
-    0
+    0,
+    0.27
   ],
   "medias": [
-    0,
     0,
     0,
     0,
@@ -68,22 +67,10 @@
     2.23,
     1.97,
     1.88,
-    1.81
+    1.81,
+    1.88
   ],
   "partidas": [
-    {
-      "rodada_id": 10,
-      "clube_casa": "Ceará",
-      "clube_casa_id": 354,
-      "clube_visitante": "Flamengo",
-      "clube_casa_abrev": "CEA",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/10/10/ceara-65x65.png",
-      "clube_visitante_id": 262,
-      "clube_visitante_abrev": "FLA",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/04/09/Flamengo-65.png",
-      "placar_oficial_mandante": 2,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 11,
       "clube_casa": "Flamengo",
@@ -213,19 +200,32 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/04/09/Flamengo-65.png",
       "placar_oficial_mandante": 4,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 21,
+      "clube_casa": "Flamengo",
+      "clube_casa_id": 262,
+      "clube_visitante": "Atlético-GO",
+      "clube_casa_abrev": "FLA",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/04/09/Flamengo-65.png",
+      "clube_visitante_id": 373,
+      "clube_visitante_abrev": "ATL",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2020/07/02/atletico-go-2020-65.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2020/07/21/89095e06a56aa2963d7afa7929bcbd02_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2018/04/09/Flamengo-65.png",
   "scouts": {
-    "rodada_id": 20,
+    "rodada_id": 21,
     "rb": 0,
     "g": 1,
     "a": 1,
     "sg": 0,
-    "fs": 0,
+    "fs": 1,
     "ff": 0,
-    "fd": 7,
+    "fd": 8,
     "ft": 0,
     "dd": 0,
     "dp": 0,
@@ -237,13 +237,13 @@
     "fc": 2,
     "i": 0,
     "pe": 0,
-    "ds": 3,
+    "ds": 4,
     "pi": 15,
-    "pontos_num": 1.1,
-    "preco_num": 3.51,
-    "variacao_num": 0,
-    "media_num": 1.81,
-    "jogos_num": 11,
+    "pontos_num": 2.7,
+    "preco_num": 3.78,
+    "variacao_num": 0.27,
+    "media_num": 1.88,
+    "jogos_num": 12,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }

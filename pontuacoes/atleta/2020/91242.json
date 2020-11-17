@@ -6,7 +6,6 @@
   "clube_id": 292,
   "posicao": "Atacante",
   "rodadas": [
-    10,
     11,
     12,
     13,
@@ -16,10 +15,10 @@
     17,
     18,
     19,
-    20
+    20,
+    21
   ],
   "pontos": [
-    1,
     0.2,
     0,
     -0.4,
@@ -29,10 +28,10 @@
     2.1,
     2.5,
     2.3,
-    0
+    0,
+    4.1
   ],
   "precos": [
-    5.72,
     5.41,
     5.41,
     5.29,
@@ -42,10 +41,10 @@
     6.04,
     6.08,
     6.19,
-    6.19
+    6.19,
+    6.44
   ],
   "variacoes": [
-    -0.08,
     -0.31,
     0,
     -0.12,
@@ -55,10 +54,10 @@
     -1.07,
     0.04,
     0.11,
-    0
+    0,
+    0.25
   ],
   "medias": [
-    1.92,
     1.63,
     1.63,
     1.34,
@@ -68,22 +67,10 @@
     2.31,
     2.33,
     2.33,
-    2.33
+    2.33,
+    2.46
   ],
   "partidas": [
-    {
-      "rodada_id": 10,
-      "clube_casa": "Palmeiras",
-      "clube_casa_id": 275,
-      "clube_visitante": "Sport",
-      "clube_casa_abrev": "PAL",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
-      "clube_visitante_id": 292,
-      "clube_visitante_abrev": "SPO",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2015/07/21/sport65.png",
-      "placar_oficial_mandante": 2,
-      "placar_oficial_visitante": 2
-    },
     {
       "rodada_id": 11,
       "clube_casa": "Sport",
@@ -213,19 +200,32 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2015/07/21/sport65.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 21,
+      "clube_casa": "Sport",
+      "clube_casa_id": 292,
+      "clube_visitante": "Vasco",
+      "clube_casa_abrev": "SPO",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2015/07/21/sport65.png",
+      "clube_visitante_id": 267,
+      "clube_visitante_abrev": "VAS",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/07/29/Vasco-65.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2020/02/27/78521d3f41f6e49002ef62386b998bb7_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2015/07/21/sport65.png",
   "scouts": {
-    "rodada_id": 20,
+    "rodada_id": 21,
     "rb": 0,
     "g": 2,
     "a": 0,
     "sg": 0,
-    "fs": 15,
+    "fs": 17,
     "ff": 5,
-    "fd": 4,
+    "fd": 5,
     "ft": 0,
     "dd": 0,
     "dp": 0,
@@ -234,16 +234,16 @@
     "ca": 2,
     "pp": 0,
     "gs": 0,
-    "fc": 13,
-    "i": 5,
+    "fc": 15,
+    "i": 6,
     "pe": 0,
-    "ds": 18,
-    "pi": 71,
-    "pontos_num": 0,
-    "preco_num": 6.19,
-    "variacao_num": 0,
-    "media_num": 2.33,
-    "jogos_num": 13,
+    "ds": 22,
+    "pi": 77,
+    "pontos_num": 4.1,
+    "preco_num": 6.44,
+    "variacao_num": 0.25,
+    "media_num": 2.46,
+    "jogos_num": 14,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }

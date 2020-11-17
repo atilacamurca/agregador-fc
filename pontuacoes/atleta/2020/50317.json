@@ -6,7 +6,6 @@
   "clube_id": 284,
   "posicao": "Zagueiro",
   "rodadas": [
-    10,
     11,
     12,
     13,
@@ -16,10 +15,10 @@
     17,
     18,
     19,
-    20
+    20,
+    21
   ],
   "pontos": [
-    3,
     5.7,
     1.6,
     1.1,
@@ -29,10 +28,10 @@
     0,
     3.3,
     12.5,
-    3.7
+    3.7,
+    1
   ],
   "precos": [
-    8.41,
     8.87,
     8.41,
     8.39,
@@ -42,10 +41,10 @@
     7.7,
     8.46,
     10.42,
-    9.1
+    9.1,
+    8.58
   ],
   "variacoes": [
-    -0.27,
     0.46,
     -0.46,
     -0.02,
@@ -55,10 +54,10 @@
     0,
     0.76,
     1.96,
-    -1.32
+    -1.32,
+    -0.52
   ],
   "medias": [
-    3.54,
     3.81,
     3.56,
     3.31,
@@ -68,22 +67,10 @@
     3.32,
     3.32,
     3.98,
-    3.96
+    3.96,
+    3.78
   ],
   "partidas": [
-    {
-      "rodada_id": 10,
-      "clube_casa": "Grêmio",
-      "clube_casa_id": 284,
-      "clube_visitante": "Fortaleza",
-      "clube_casa_abrev": "GRE",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/gremio_60x60.png",
-      "clube_visitante_id": 356,
-      "clube_visitante_abrev": "FOR",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/06/10/fortaleza-ec-65px.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 11,
       "clube_casa": "Grêmio",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/gremio_60x60.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 21,
+      "clube_casa": "Grêmio",
+      "clube_casa_id": 284,
+      "clube_visitante": "Ceará",
+      "clube_casa_abrev": "GRE",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/gremio_60x60.png",
+      "clube_visitante_id": 354,
+      "clube_visitante_abrev": "CEA",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/10/10/ceara-65x65.png",
+      "placar_oficial_mandante": 4,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2019/07/24/865c7c09e556e0fb58885e80a6591081_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/gremio_60x60.png",
   "scouts": {
-    "rodada_id": 20,
+    "rodada_id": 21,
     "rb": 0,
     "g": 2,
     "a": 0,
@@ -226,24 +226,24 @@
     "fs": 6,
     "ff": 5,
     "fd": 2,
-    "ft": 0,
+    "ft": 1,
     "dd": 0,
     "dp": 0,
     "gc": 0,
     "cv": 1,
-    "ca": 0,
+    "ca": 1,
     "pp": 0,
     "gs": 0,
-    "fc": 12,
+    "fc": 13,
     "i": 0,
     "pe": 0,
-    "ds": 32,
-    "pi": 69,
-    "pontos_num": 3.7,
-    "preco_num": 9.1,
-    "variacao_num": -1.32,
-    "media_num": 3.96,
-    "jogos_num": 15,
+    "ds": 33,
+    "pi": 74,
+    "pontos_num": 1,
+    "preco_num": 8.58,
+    "variacao_num": -0.52,
+    "media_num": 3.78,
+    "jogos_num": 16,
     "posicao_abrev": "zag",
     "posicao": "Zagueiro"
   }
