@@ -12,7 +12,8 @@
     18,
     19,
     20,
-    21
+    21,
+    22
   ],
   "pontos": [
     0,
@@ -21,7 +22,8 @@
     0,
     4.7,
     -0.6,
-    0.7
+    0.7,
+    -0.6
   ],
   "precos": [
     4,
@@ -30,7 +32,8 @@
     5.39,
     5.93,
     4.96,
-    5.04
+    5.04,
+    4.7
   ],
   "variacoes": [
     0,
@@ -39,7 +42,8 @@
     0,
     0.54,
     -0.97,
-    0.08
+    0.08,
+    -0.34
   ],
   "medias": [
     0,
@@ -48,7 +52,8 @@
     4.5,
     4.57,
     3.28,
-    2.76
+    2.76,
+    2.2
   ],
   "partidas": [
     {
@@ -141,16 +146,29 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2017/11/23/Atletico-Mineiro-escudo65px.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 22,
+      "clube_casa": "Corinthians",
+      "clube_casa_id": 264,
+      "clube_visitante": "Grêmio",
+      "clube_casa_abrev": "COR",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/30/Corinthians_65.png",
+      "clube_visitante_id": 284,
+      "clube_visitante_abrev": "GRE",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/gremio_60x60.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2019/09/12/25b06b2bbcc0a18b06542144db3ebc75_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/30/Corinthians_65.png",
   "scouts": {
-    "rodada_id": 21,
+    "rodada_id": 22,
     "rb": 0,
     "g": 0,
     "a": 0,
-    "sg": 2,
+    "sg": 3,
     "fs": 1,
     "ff": 0,
     "fd": 1,
@@ -158,20 +176,20 @@
     "dd": 0,
     "dp": 0,
     "gc": 0,
-    "cv": 0,
+    "cv": 1,
     "ca": 0,
     "pp": 0,
     "gs": 0,
-    "fc": 4,
+    "fc": 5,
     "i": 0,
     "pe": 0,
     "ds": 5,
-    "pi": 9,
-    "pontos_num": 0.7,
-    "preco_num": 5.04,
-    "variacao_num": 0.08,
-    "media_num": 2.76,
-    "jogos_num": 5,
+    "pi": 10,
+    "pontos_num": -0.6,
+    "preco_num": 4.7,
+    "variacao_num": -0.34,
+    "media_num": 2.2,
+    "jogos_num": 6,
     "posicao_abrev": "zag",
     "posicao": "Zagueiro"
   }

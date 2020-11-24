@@ -6,7 +6,6 @@
   "clube_id": 284,
   "posicao": "Meia",
   "rodadas": [
-    11,
     12,
     13,
     14,
@@ -16,10 +15,10 @@
     18,
     19,
     20,
-    21
+    21,
+    22
   ],
   "pontos": [
-    0,
     0,
     0,
     0,
@@ -29,10 +28,10 @@
     0,
     0,
     0.5,
-    14.9
+    14.9,
+    2.3
   ],
   "precos": [
-    12.85,
     12.85,
     12.85,
     12.85,
@@ -42,10 +41,10 @@
     11.18,
     11.18,
     10.87,
-    13.38
+    13.38,
+    11.49
   ],
   "variacoes": [
-    0,
     0,
     0,
     0,
@@ -55,10 +54,10 @@
     0,
     0,
     -0.31,
-    2.51
+    2.51,
+    -1.89
   ],
   "medias": [
-    4.7,
     4.7,
     4.7,
     4.7,
@@ -68,22 +67,10 @@
     3.9,
     3.9,
     3.33,
-    4.98
+    4.98,
+    4.65
   ],
   "partidas": [
-    {
-      "rodada_id": 11,
-      "clube_casa": "Grêmio",
-      "clube_casa_id": 284,
-      "clube_visitante": "Palmeiras",
-      "clube_casa_abrev": "GRE",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/gremio_60x60.png",
-      "clube_visitante_id": 275,
-      "clube_visitante_abrev": "PAL",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 12,
       "clube_casa": "Atlético-MG",
@@ -213,18 +200,31 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/10/10/ceara-65x65.png",
       "placar_oficial_mandante": 4,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 22,
+      "clube_casa": "Corinthians",
+      "clube_casa_id": 264,
+      "clube_visitante": "Grêmio",
+      "clube_casa_abrev": "COR",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/30/Corinthians_65.png",
+      "clube_visitante_id": 284,
+      "clube_visitante_abrev": "GRE",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/gremio_60x60.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2019/07/09/c0831db56540c4e253fdd6affa63d176_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/gremio_60x60.png",
   "scouts": {
-    "rodada_id": 21,
+    "rodada_id": 22,
     "rb": 0,
     "g": 1,
     "a": 1,
     "sg": 0,
     "fs": 7,
-    "ff": 12,
+    "ff": 14,
     "fd": 3,
     "ft": 1,
     "dd": 0,
@@ -234,16 +234,16 @@
     "ca": 0,
     "pp": 0,
     "gs": 0,
-    "fc": 4,
+    "fc": 5,
     "i": 0,
     "pe": 0,
-    "ds": 8,
-    "pi": 38,
-    "pontos_num": 14.9,
-    "preco_num": 13.38,
-    "variacao_num": 2.51,
-    "media_num": 4.98,
-    "jogos_num": 7,
+    "ds": 10,
+    "pi": 46,
+    "pontos_num": 2.3,
+    "preco_num": 11.49,
+    "variacao_num": -1.89,
+    "media_num": 4.65,
+    "jogos_num": 8,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }

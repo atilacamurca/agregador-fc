@@ -6,7 +6,6 @@
   "clube_id": 262,
   "posicao": "Lateral",
   "rodadas": [
-    11,
     12,
     13,
     14,
@@ -16,10 +15,10 @@
     18,
     19,
     20,
-    21
+    21,
+    22
   ],
   "pontos": [
-    0,
     0,
     2.8,
     4.9,
@@ -29,10 +28,10 @@
     9.6,
     -3.7,
     1.1,
-    0
+    0,
+    5.3
   ],
   "precos": [
-    8.37,
     8.37,
     8.42,
     8.83,
@@ -42,10 +41,10 @@
     9.78,
     7.7,
     8.33,
-    8.33
+    8.33,
+    8.96
   ],
   "variacoes": [
-    0,
     0,
     0.05,
     0.41,
@@ -55,10 +54,10 @@
     0.55,
     -2.08,
     0.63,
-    0
+    0,
+    0.63
   ],
   "medias": [
-    2.4,
     2.4,
     2.47,
     2.82,
@@ -68,22 +67,10 @@
     3.67,
     3,
     2.84,
-    2.84
+    2.84,
+    3.03
   ],
   "partidas": [
-    {
-      "rodada_id": 11,
-      "clube_casa": "Flamengo",
-      "clube_casa_id": 262,
-      "clube_visitante": "Goiás",
-      "clube_casa_abrev": "FLA",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/04/09/Flamengo-65.png",
-      "clube_visitante_id": 290,
-      "clube_visitante_abrev": "GOI",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/05/01/Goias_65px.png",
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 12,
       "clube_casa": "Palmeiras",
@@ -213,15 +200,28 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2020/07/02/atletico-go-2020-65.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 22,
+      "clube_casa": "Flamengo",
+      "clube_casa_id": 262,
+      "clube_visitante": "Coritiba",
+      "clube_casa_abrev": "FLA",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/04/09/Flamengo-65.png",
+      "clube_visitante_id": 294,
+      "clube_visitante_abrev": "COR",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2017/03/29/coritiba65.png",
+      "placar_oficial_mandante": 3,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2020/08/28/bfa17ba766cfaa70d4c11c51304fc336_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2018/04/09/Flamengo-65.png",
   "scouts": {
-    "rodada_id": 21,
+    "rodada_id": 22,
     "rb": 0,
     "g": 0,
-    "a": 4,
+    "a": 5,
     "sg": 2,
     "fs": 6,
     "ff": 0,
@@ -234,16 +234,16 @@
     "ca": 3,
     "pp": 0,
     "gs": 0,
-    "fc": 12,
+    "fc": 14,
     "i": 6,
     "pe": 0,
-    "ds": 26,
-    "pi": 99,
-    "pontos_num": 0,
-    "preco_num": 8.33,
-    "variacao_num": 0,
-    "media_num": 2.84,
-    "jogos_num": 12,
+    "ds": 28,
+    "pi": 106,
+    "pontos_num": 5.3,
+    "preco_num": 8.96,
+    "variacao_num": 0.63,
+    "media_num": 3.03,
+    "jogos_num": 13,
     "posicao_abrev": "lat",
     "posicao": "Lateral"
   }

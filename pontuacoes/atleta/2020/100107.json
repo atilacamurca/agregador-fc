@@ -7,23 +7,28 @@
   "posicao": "Meia",
   "rodadas": [
     20,
-    21
+    21,
+    22
   ],
   "pontos": [
     0,
-    0
+    0,
+    0.2
   ],
   "precos": [
     7,
-    7
+    7,
+    5.56
   ],
   "variacoes": [
     0,
-    0
+    0,
+    -1.44
   ],
   "medias": [
     0,
-    0
+    0,
+    0.2
   ],
   "partidas": [
     {
@@ -51,19 +56,32 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/10/10/ceara-65x65.png",
       "placar_oficial_mandante": 4,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 22,
+      "clube_casa": "Corinthians",
+      "clube_casa_id": 264,
+      "clube_visitante": "Grêmio",
+      "clube_casa_abrev": "COR",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/30/Corinthians_65.png",
+      "clube_visitante_id": 284,
+      "clube_visitante_abrev": "GRE",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/gremio_60x60.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2020/11/09/b3356c651dec1138df6cbc163f286172_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/gremio_60x60.png",
   "scouts": {
-    "rodada_id": 21,
+    "rodada_id": 22,
     "rb": 0,
     "g": 0,
     "a": 0,
     "sg": 0,
     "fs": 0,
     "ff": 0,
-    "fd": 0,
+    "fd": 1,
     "ft": 0,
     "dd": 0,
     "dp": 0,
@@ -72,16 +90,16 @@
     "ca": 0,
     "pp": 0,
     "gs": 0,
-    "fc": 0,
+    "fc": 1,
     "i": 0,
     "pe": 0,
     "ds": 0,
-    "pi": 0,
-    "pontos_num": 0,
-    "preco_num": 7,
-    "variacao_num": 0,
-    "media_num": 0,
-    "jogos_num": 0,
+    "pi": 5,
+    "pontos_num": 0.2,
+    "preco_num": 5.56,
+    "variacao_num": -1.44,
+    "media_num": 0.2,
+    "jogos_num": 1,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }

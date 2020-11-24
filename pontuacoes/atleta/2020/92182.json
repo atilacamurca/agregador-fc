@@ -6,7 +6,6 @@
   "clube_id": 265,
   "posicao": "Zagueiro",
   "rodadas": [
-    11,
     12,
     13,
     14,
@@ -16,10 +15,10 @@
     18,
     19,
     20,
-    21
+    21,
+    22
   ],
   "pontos": [
-    0,
     1.8,
     0,
     6.7,
@@ -29,10 +28,10 @@
     0,
     -2.3,
     0,
-    0.4
+    0.4,
+    0
   ],
   "precos": [
-    7.93,
     8.29,
     8.29,
     9.2,
@@ -42,10 +41,10 @@
     8.46,
     7.55,
     7.55,
+    7.71,
     7.71
   ],
   "variacoes": [
-    0,
     0.36,
     0,
     0.91,
@@ -55,10 +54,10 @@
     0,
     -0.91,
     0,
-    0.16
+    0.16,
+    0
   ],
   "medias": [
-    2.5,
     2.43,
     2.43,
     2.82,
@@ -68,22 +67,10 @@
     2.77,
     2.41,
     2.41,
+    2.28,
     2.28
   ],
   "partidas": [
-    {
-      "rodada_id": 11,
-      "clube_casa": "Corinthians",
-      "clube_casa_id": 264,
-      "clube_visitante": "Bahia",
-      "clube_casa_abrev": "COR",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/30/Corinthians_65.png",
-      "clube_visitante_id": 265,
-      "clube_visitante_abrev": "BAH",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/bahia_60x60.png",
-      "placar_oficial_mandante": 3,
-      "placar_oficial_visitante": 2
-    },
     {
       "rodada_id": 12,
       "clube_casa": "Athlético-PR",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/bahia_60x60.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 22,
+      "clube_casa": "Bragantino",
+      "clube_casa_id": 280,
+      "clube_visitante": "Bahia",
+      "clube_casa_abrev": "BRA",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2020/01/01/65.png",
+      "clube_visitante_id": 265,
+      "clube_visitante_abrev": "BAH",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/bahia_60x60.png",
+      "placar_oficial_mandante": 4,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2020/07/20/68fe04ad87ce709e167f9819592fe87f_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/bahia_60x60.png",
   "scouts": {
-    "rodada_id": 21,
+    "rodada_id": 22,
     "rb": 0,
     "g": 1,
     "a": 0,
@@ -239,9 +239,9 @@
     "pe": 0,
     "ds": 23,
     "pi": 51,
-    "pontos_num": 0.4,
+    "pontos_num": 0,
     "preco_num": 7.71,
-    "variacao_num": 0.16,
+    "variacao_num": 0,
     "media_num": 2.28,
     "jogos_num": 15,
     "posicao_abrev": "zag",

@@ -6,7 +6,6 @@
   "clube_id": 280,
   "posicao": "Atacante",
   "rodadas": [
-    11,
     12,
     13,
     14,
@@ -16,10 +15,10 @@
     18,
     19,
     20,
-    21
+    21,
+    22
   ],
   "pontos": [
-    0,
     0,
     0,
     -1,
@@ -29,10 +28,10 @@
     8.5,
     1.1,
     -1.4,
-    9.1
+    9.1,
+    0
   ],
   "precos": [
-    4.92,
     4.92,
     4.92,
     4.38,
@@ -42,10 +41,10 @@
     6.76,
     5.75,
     5.24,
+    7.05,
     7.05
   ],
   "variacoes": [
-    0,
     0,
     0,
     -0.54,
@@ -55,10 +54,10 @@
     0.28,
     -1.01,
     -0.51,
-    1.81
+    1.81,
+    0
   ],
   "medias": [
-    1.87,
     1.87,
     1.87,
     1.46,
@@ -68,22 +67,10 @@
     3.56,
     3.35,
     2.98,
+    3.42,
     3.42
   ],
   "partidas": [
-    {
-      "rodada_id": 11,
-      "clube_casa": "Bragantino",
-      "clube_casa_id": 280,
-      "clube_visitante": "Ceará",
-      "clube_casa_abrev": "BRA",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2020/01/01/65.png",
-      "clube_visitante_id": 354,
-      "clube_visitante_abrev": "CEA",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/10/10/ceara-65x65.png",
-      "placar_oficial_mandante": 4,
-      "placar_oficial_visitante": 2
-    },
     {
       "rodada_id": 12,
       "clube_casa": "Vasco",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2020/01/01/65.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 22,
+      "clube_casa": "Bragantino",
+      "clube_casa_id": 280,
+      "clube_visitante": "Bahia",
+      "clube_casa_abrev": "BRA",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2020/01/01/65.png",
+      "clube_visitante_id": 265,
+      "clube_visitante_abrev": "BAH",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/bahia_60x60.png",
+      "placar_oficial_mandante": 4,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2020/07/28/f5f19ab0ce1b02fc515f8bd18a88a815_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2020/01/01/65.png",
   "scouts": {
-    "rodada_id": 21,
+    "rodada_id": 22,
     "rb": 0,
     "g": 2,
     "a": 3,
@@ -239,9 +239,9 @@
     "pe": 0,
     "ds": 10,
     "pi": 28,
-    "pontos_num": 9.1,
+    "pontos_num": 0,
     "preco_num": 7.05,
-    "variacao_num": 1.81,
+    "variacao_num": 0,
     "media_num": 3.42,
     "jogos_num": 14,
     "posicao_abrev": "ata",

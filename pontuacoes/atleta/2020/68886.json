@@ -6,7 +6,6 @@
   "clube_id": 266,
   "posicao": "Zagueiro",
   "rodadas": [
-    11,
     12,
     13,
     14,
@@ -16,10 +15,10 @@
     18,
     19,
     20,
-    21
+    21,
+    22
   ],
   "pontos": [
-    0,
     0,
     0.8,
     9.8,
@@ -29,10 +28,10 @@
     0,
     0,
     0,
-    0
+    0,
+    -1
   ],
   "precos": [
-    4.91,
     4.91,
     4.93,
     6.67,
@@ -42,10 +41,10 @@
     5.6,
     5.6,
     5.6,
-    5.6
+    5.6,
+    5.05
   ],
   "variacoes": [
-    0,
     0,
     0.02,
     1.74,
@@ -55,10 +54,10 @@
     0,
     0,
     0,
-    0
+    0,
+    -0.55
   ],
   "medias": [
-    4.05,
     4.05,
     3.4,
     4.47,
@@ -68,22 +67,10 @@
     4.09,
     4.09,
     4.09,
-    4.09
+    4.09,
+    3.58
   ],
   "partidas": [
-    {
-      "rodada_id": 11,
-      "clube_casa": "Sport",
-      "clube_casa_id": 292,
-      "clube_visitante": "Fluminense",
-      "clube_casa_abrev": "SPO",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2015/07/21/sport65.png",
-      "clube_visitante_id": 266,
-      "clube_visitante_abrev": "FLU",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/fluminense_60x60.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 12,
       "clube_casa": "Fluminense",
@@ -213,17 +200,30 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/fluminense_60x60.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 22,
+      "clube_casa": "Internacional",
+      "clube_casa_id": 285,
+      "clube_visitante": "Fluminense",
+      "clube_casa_abrev": "INT",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/03/inter65.png",
+      "clube_visitante_id": 266,
+      "clube_visitante_abrev": "FLU",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/fluminense_60x60.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2020/08/11/81d3b25879cf4905a5152581b71402f8_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/fluminense_60x60.png",
   "scouts": {
-    "rodada_id": 21,
+    "rodada_id": 22,
     "rb": 0,
     "g": 2,
     "a": 0,
     "sg": 2,
-    "fs": 6,
+    "fs": 7,
     "ff": 3,
     "fd": 1,
     "ft": 0,
@@ -231,19 +231,19 @@
     "dp": 0,
     "gc": 0,
     "cv": 0,
-    "ca": 3,
+    "ca": 4,
     "pp": 0,
     "gs": 0,
-    "fc": 9,
+    "fc": 10,
     "i": 0,
     "pe": 0,
-    "ds": 17,
+    "ds": 18,
     "pi": 23,
-    "pontos_num": 0,
-    "preco_num": 5.6,
-    "variacao_num": 0,
-    "media_num": 4.09,
-    "jogos_num": 9,
+    "pontos_num": -1,
+    "preco_num": 5.05,
+    "variacao_num": -0.55,
+    "media_num": 3.58,
+    "jogos_num": 10,
     "posicao_abrev": "zag",
     "posicao": "Zagueiro"
   }
