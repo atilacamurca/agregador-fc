@@ -9,31 +9,36 @@
     19,
     20,
     21,
-    22
+    22,
+    23
   ],
   "pontos": [
     0,
     0,
     0.3,
-    10.3
+    10.3,
+    0.5
   ],
   "precos": [
     5,
     5,
     4.01,
-    6.93
+    6.93,
+    5.44
   ],
   "variacoes": [
     0,
     0,
     -0.99,
-    2.92
+    2.92,
+    -1.49
   ],
   "medias": [
     0,
     0,
     0.3,
-    5.3
+    5.3,
+    3.7
   ],
   "partidas": [
     {
@@ -87,17 +92,30 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/fluminense_60x60.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 23,
+      "clube_casa": "Atlético-GO",
+      "clube_casa_id": 373,
+      "clube_visitante": "Internacional",
+      "clube_casa_abrev": "ATL",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2020/07/02/atletico-go-2020-65.png",
+      "clube_visitante_id": 285,
+      "clube_visitante_abrev": "INT",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/03/inter65.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2020/11/05/764235c95a2022213c0c091c00cbb5e0_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/03/inter65.png",
   "scouts": {
-    "rodada_id": 22,
+    "rodada_id": 23,
     "rb": 0,
     "g": 1,
     "a": 0,
     "sg": 0,
-    "fs": 3,
+    "fs": 4,
     "ff": 0,
     "fd": 1,
     "ft": 0,
@@ -113,11 +131,11 @@
     "pe": 0,
     "ds": 2,
     "pi": 11,
-    "pontos_num": 10.3,
-    "preco_num": 6.93,
-    "variacao_num": 2.92,
-    "media_num": 5.3,
-    "jogos_num": 2,
+    "pontos_num": 0.5,
+    "preco_num": 5.44,
+    "variacao_num": -1.49,
+    "media_num": 3.7,
+    "jogos_num": 3,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }

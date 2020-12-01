@@ -6,7 +6,6 @@
   "clube_id": 276,
   "posicao": "Atacante",
   "rodadas": [
-    12,
     13,
     14,
     15,
@@ -16,10 +15,10 @@
     19,
     20,
     21,
-    22
+    22,
+    23
   ],
   "pontos": [
-    1.1,
     0,
     0,
     0,
@@ -29,10 +28,10 @@
     0,
     0,
     0,
+    0,
     0
   ],
   "precos": [
-    3.34,
     3.17,
     3.17,
     3.17,
@@ -42,10 +41,10 @@
     2.95,
     2.95,
     2.95,
+    2.82,
     2.82
   ],
   "variacoes": [
-    -0.66,
     -0.17,
     0,
     0,
@@ -55,10 +54,10 @@
     0,
     0,
     0,
-    -0.13
+    -0.13,
+    0
   ],
   "medias": [
-    1.1,
     0.55,
     0.55,
     0.55,
@@ -68,22 +67,10 @@
     0.33,
     0.33,
     0.33,
+    0.25,
     0.25
   ],
   "partidas": [
-    {
-      "rodada_id": 12,
-      "clube_casa": "Internacional",
-      "clube_casa_id": 285,
-      "clube_visitante": "São Paulo",
-      "clube_casa_abrev": "INT",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/03/inter65.png",
-      "clube_visitante_id": 276,
-      "clube_visitante_abrev": "SAO",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/sao_paulo_60x60.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 13,
       "clube_casa": "Coritiba",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/07/29/Vasco-65.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 23,
+      "clube_casa": "Bahia",
+      "clube_casa_id": 265,
+      "clube_visitante": "São Paulo",
+      "clube_casa_abrev": "BAH",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/bahia_60x60.png",
+      "clube_visitante_id": 276,
+      "clube_visitante_abrev": "SAO",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/sao_paulo_60x60.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2020/03/09/a26febfd7e5fd4366d0dbe0997ee0521_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/sao_paulo_60x60.png",
   "scouts": {
-    "rodada_id": 22,
+    "rodada_id": 23,
     "rb": 0,
     "g": 0,
     "a": 0,
@@ -241,7 +241,7 @@
     "pi": 3,
     "pontos_num": 0,
     "preco_num": 2.82,
-    "variacao_num": -0.13,
+    "variacao_num": 0,
     "media_num": 0.25,
     "jogos_num": 4,
     "posicao_abrev": "ata",

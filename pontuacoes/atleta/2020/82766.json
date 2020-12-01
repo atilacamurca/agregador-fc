@@ -15,7 +15,8 @@
     19,
     20,
     21,
-    22
+    22,
+    23
   ],
   "pontos": [
     0,
@@ -27,7 +28,8 @@
     3.3,
     0.2,
     0,
-    0
+    0,
+    -0.3
   ],
   "precos": [
     2,
@@ -39,7 +41,8 @@
     2.31,
     1.84,
     1.84,
-    1.84
+    1.84,
+    1.6
   ],
   "variacoes": [
     0,
@@ -51,7 +54,8 @@
     0.51,
     -0.47,
     0,
-    0
+    0,
+    -0.24
   ],
   "medias": [
     0,
@@ -63,7 +67,8 @@
     1.9,
     1.33,
     1.33,
-    1.33
+    1.33,
+    0.92
   ],
   "partidas": [
     {
@@ -195,17 +200,30 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2020/07/02/atletico-go-2020-65.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 23,
+      "clube_casa": "Atlético-GO",
+      "clube_casa_id": 373,
+      "clube_visitante": "Internacional",
+      "clube_casa_abrev": "ATL",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2020/07/02/atletico-go-2020-65.png",
+      "clube_visitante_id": 285,
+      "clube_visitante_abrev": "INT",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/03/inter65.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2020/10/05/b190d450eb26fdf91906a41bc3070d11_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2020/07/02/atletico-go-2020-65.png",
   "scouts": {
-    "rodada_id": 22,
+    "rodada_id": 23,
     "rb": 0,
     "g": 0,
     "a": 0,
     "sg": 0,
-    "fs": 0,
+    "fs": 1,
     "ff": 1,
     "fd": 1,
     "ft": 1,
@@ -216,16 +234,16 @@
     "ca": 0,
     "pp": 0,
     "gs": 0,
-    "fc": 2,
+    "fc": 3,
     "i": 0,
     "pe": 0,
     "ds": 1,
-    "pi": 10,
-    "pontos_num": 0,
-    "preco_num": 1.84,
-    "variacao_num": 0,
-    "media_num": 1.33,
-    "jogos_num": 3,
+    "pi": 13,
+    "pontos_num": -0.3,
+    "preco_num": 1.6,
+    "variacao_num": -0.24,
+    "media_num": 0.92,
+    "jogos_num": 4,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }

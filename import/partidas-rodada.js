@@ -64,8 +64,8 @@ async function save(data) {
                 partida.clube_visitante_id
             ]))
         }
-        Promise.all(batch)
-        Promise.all(batchClubes)
+        await Promise.all(batch)
+        await Promise.all(batchClubes)
 
         await client.query('COMMIT')
         return client.end()

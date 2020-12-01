@@ -8,26 +8,31 @@
   "rodadas": [
     20,
     21,
-    22
+    22,
+    23
   ],
   "pontos": [
     0,
     0,
-    0.2
+    0.2,
+    0
   ],
   "precos": [
     7,
     7,
+    5.56,
     5.56
   ],
   "variacoes": [
     0,
     0,
-    -1.44
+    -1.44,
+    0
   ],
   "medias": [
     0,
     0,
+    0.2,
     0.2
   ],
   "partidas": [
@@ -69,12 +74,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/gremio_60x60.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 23,
+      "clube_casa": "Grêmio",
+      "clube_casa_id": 284,
+      "clube_visitante": "Flamengo",
+      "clube_casa_abrev": "GRE",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/gremio_60x60.png",
+      "clube_visitante_id": 262,
+      "clube_visitante_abrev": "FLA",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/04/09/Flamengo-65.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2020/11/09/b3356c651dec1138df6cbc163f286172_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/gremio_60x60.png",
   "scouts": {
-    "rodada_id": 22,
+    "rodada_id": 23,
     "rb": 0,
     "g": 0,
     "a": 0,
@@ -95,9 +113,9 @@
     "pe": 0,
     "ds": 0,
     "pi": 5,
-    "pontos_num": 0.2,
+    "pontos_num": 0,
     "preco_num": 5.56,
-    "variacao_num": -1.44,
+    "variacao_num": 0,
     "media_num": 0.2,
     "jogos_num": 1,
     "posicao_abrev": "mei",

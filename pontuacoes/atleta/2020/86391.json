@@ -6,7 +6,6 @@
   "clube_id": 292,
   "posicao": "Lateral",
   "rodadas": [
-    12,
     13,
     14,
     15,
@@ -16,10 +15,10 @@
     19,
     20,
     21,
-    22
+    22,
+    23
   ],
   "pontos": [
-    0,
     2.2,
     1,
     0,
@@ -29,10 +28,10 @@
     0,
     3.8,
     3.2,
-    -1.5
+    -1.5,
+    0
   ],
   "precos": [
-    8.24,
     8.83,
     8.5,
     8.5,
@@ -42,10 +41,10 @@
     8.5,
     8.56,
     8.45,
+    7.63,
     7.63
   ],
   "variacoes": [
-    0,
     0.59,
     -0.33,
     0,
@@ -55,10 +54,10 @@
     0,
     0.06,
     -0.11,
-    -0.82
+    -0.82,
+    0
   ],
   "medias": [
-    2.34,
     2.32,
     2.19,
     2.19,
@@ -68,22 +67,10 @@
     2.19,
     2.34,
     2.41,
+    2.11,
     2.11
   ],
   "partidas": [
-    {
-      "rodada_id": 12,
-      "clube_casa": "Sport",
-      "clube_casa_id": 292,
-      "clube_visitante": "Corinthians",
-      "clube_casa_abrev": "SPO",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2015/07/21/sport65.png",
-      "clube_visitante_id": 264,
-      "clube_visitante_abrev": "COR",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/30/Corinthians_65.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 13,
       "clube_casa": "Bahia",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2020/07/02/atletico-go-2020-65.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 23,
+      "clube_casa": "Santos",
+      "clube_casa_id": 277,
+      "clube_visitante": "Sport",
+      "clube_casa_abrev": "SAN",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/santos_60x60.png",
+      "clube_visitante_id": 292,
+      "clube_visitante_abrev": "SPO",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2015/07/21/sport65.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2020/02/27/a37c5329c7b02ddb15c081c9d02ebed3_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2015/07/21/sport65.png",
   "scouts": {
-    "rodada_id": 22,
+    "rodada_id": 23,
     "rb": 0,
     "g": 0,
     "a": 0,
@@ -239,9 +239,9 @@
     "pe": 0,
     "ds": 34,
     "pi": 107,
-    "pontos_num": -1.5,
+    "pontos_num": 0,
     "preco_num": 7.63,
-    "variacao_num": -0.82,
+    "variacao_num": 0,
     "media_num": 2.11,
     "jogos_num": 13,
     "posicao_abrev": "lat",

@@ -1,28 +1,33 @@
 {
   "ano": 2020,
   "atleta_id": 110605,
-  "apelido": "Vinicius Balieiro",
+  "apelido": "Vinícius Balieiro",
   "clube": "Santos",
   "clube_id": 277,
   "posicao": "Meia",
   "rodadas": [
     21,
-    22
+    22,
+    23
   ],
   "pontos": [
     8.3,
-    1.3
+    1.3,
+    0
   ],
   "precos": [
     4.67,
+    4.43,
     4.43
   ],
   "variacoes": [
     3.67,
-    -0.24
+    -0.24,
+    0
   ],
   "medias": [
     8.3,
+    4.8,
     4.8
   ],
   "partidas": [
@@ -51,12 +56,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/santos_60x60.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 23,
+      "clube_casa": "Santos",
+      "clube_casa_id": 277,
+      "clube_visitante": "Sport",
+      "clube_casa_abrev": "SAN",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/santos_60x60.png",
+      "clube_visitante_id": 292,
+      "clube_visitante_abrev": "SPO",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2015/07/21/sport65.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2020/11/14/c67891a65c3ee2201518cd07b8463081_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/santos_60x60.png",
   "scouts": {
-    "rodada_id": 22,
+    "rodada_id": 23,
     "rb": 0,
     "g": 0,
     "a": 0,
@@ -77,9 +95,9 @@
     "pe": 0,
     "ds": 10,
     "pi": 4,
-    "pontos_num": 1.3,
+    "pontos_num": 0,
     "preco_num": 4.43,
-    "variacao_num": -0.24,
+    "variacao_num": 0,
     "media_num": 4.8,
     "jogos_num": 2,
     "posicao_abrev": "mei",
