@@ -6,7 +6,6 @@
   "clube_id": 292,
   "posicao": "Atacante",
   "rodadas": [
-    13,
     14,
     15,
     16,
@@ -16,10 +15,10 @@
     20,
     21,
     22,
-    23
+    23,
+    24
   ],
   "pontos": [
-    -0.3,
     2,
     2.7,
     9.9,
@@ -29,10 +28,10 @@
     0,
     4,
     1.4,
-    6.3
+    6.3,
+    0
   ],
   "precos": [
-    5.91,
     6.23,
     6.33,
     7.77,
@@ -42,10 +41,10 @@
     6.53,
     6.91,
     6.53,
+    7.24,
     7.24
   ],
   "variacoes": [
-    -0.19,
     0.32,
     0.1,
     1.44,
@@ -55,10 +54,10 @@
     0,
     0.38,
     -0.38,
-    0.71
+    0.71,
+    0
   ],
   "medias": [
-    3.09,
     3,
     2.98,
     3.47,
@@ -68,22 +67,10 @@
     3.12,
     3.17,
     3.08,
+    3.24,
     3.24
   ],
   "partidas": [
-    {
-      "rodada_id": 13,
-      "clube_casa": "Bahia",
-      "clube_casa_id": 265,
-      "clube_visitante": "Sport",
-      "clube_casa_abrev": "BAH",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/bahia_60x60.png",
-      "clube_visitante_id": 292,
-      "clube_visitante_abrev": "SPO",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2015/07/21/sport65.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 2
-    },
     {
       "rodada_id": 14,
       "clube_casa": "Flamengo",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2015/07/21/sport65.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 24,
+      "clube_casa": "São Paulo",
+      "clube_casa_id": 276,
+      "clube_visitante": "Sport",
+      "clube_casa_abrev": "SAO",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/sao_paulo_60x60.png",
+      "clube_visitante_id": 292,
+      "clube_visitante_abrev": "SPO",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2015/07/21/sport65.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2020/02/27/636794bd55317612f53a95fc4663618f_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2015/07/21/sport65.png",
   "scouts": {
-    "rodada_id": 23,
+    "rodada_id": 24,
     "rb": 0,
     "g": 3,
     "a": 0,
@@ -239,9 +239,9 @@
     "pe": 0,
     "ds": 31,
     "pi": 101,
-    "pontos_num": 6.3,
+    "pontos_num": 0,
     "preco_num": 7.24,
-    "variacao_num": 0.71,
+    "variacao_num": 0,
     "media_num": 3.24,
     "jogos_num": 20,
     "posicao_abrev": "ata",

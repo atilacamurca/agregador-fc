@@ -6,7 +6,6 @@
   "clube_id": 275,
   "posicao": "Meia",
   "rodadas": [
-    13,
     14,
     15,
     16,
@@ -16,10 +15,10 @@
     20,
     21,
     22,
-    23
+    23,
+    24
   ],
   "pontos": [
-    0,
     0,
     0,
     3.9,
@@ -29,10 +28,10 @@
     3.1,
     0,
     -1.8,
-    5
+    5,
+    0
   ],
   "precos": [
-    4.93,
     4.93,
     4.93,
     5.74,
@@ -42,10 +41,10 @@
     6.05,
     6.05,
     5.14,
+    6.13,
     6.13
   ],
   "variacoes": [
-    0,
     0,
     0,
     0.81,
@@ -55,10 +54,10 @@
     0.62,
     0,
     -0.91,
-    0.99
+    0.99,
+    0
   ],
   "medias": [
-    2.86,
     2.86,
     2.86,
     2.95,
@@ -68,22 +67,10 @@
     3.14,
     3.14,
     2.83,
+    2.96,
     2.96
   ],
   "partidas": [
-    {
-      "rodada_id": 13,
-      "clube_casa": "Palmeiras",
-      "clube_casa_id": 275,
-      "clube_visitante": "Ceará",
-      "clube_casa_abrev": "PAL",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
-      "clube_visitante_id": 354,
-      "clube_visitante_abrev": "CEA",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/10/10/ceara-65x65.png",
-      "placar_oficial_mandante": 2,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 14,
       "clube_casa": "Botafogo",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/09/Athletico-PR-65x65.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 24,
+      "clube_casa": "Santos",
+      "clube_casa_id": 277,
+      "clube_visitante": "Palmeiras",
+      "clube_casa_abrev": "SAN",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/santos_60x60.png",
+      "clube_visitante_id": 275,
+      "clube_visitante_abrev": "PAL",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2020/01/20/119d338ee09aacf08faae33fa7047de7_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
   "scouts": {
-    "rodada_id": 23,
+    "rodada_id": 24,
     "rb": 0,
     "g": 0,
     "a": 4,
@@ -239,9 +239,9 @@
     "pe": 0,
     "ds": 38,
     "pi": 128,
-    "pontos_num": 5,
+    "pontos_num": 0,
     "preco_num": 6.13,
-    "variacao_num": 0.99,
+    "variacao_num": 0,
     "media_num": 2.96,
     "jogos_num": 17,
     "posicao_abrev": "mei",
