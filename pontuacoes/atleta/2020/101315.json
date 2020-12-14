@@ -6,7 +6,6 @@
   "clube_id": 294,
   "posicao": "Meia",
   "rodadas": [
-    14,
     15,
     16,
     17,
@@ -16,10 +15,10 @@
     21,
     22,
     23,
-    24
+    24,
+    25
   ],
   "pontos": [
-    0,
     0,
     0,
     0,
@@ -29,6 +28,7 @@
     -0.3,
     0,
     0,
+    0,
     0
   ],
   "precos": [
@@ -36,9 +36,9 @@
     2.63,
     2.63,
     2.63,
-    2.63,
     3.1,
     3.1,
+    2.34,
     2.34,
     2.34,
     2.34,
@@ -49,10 +49,10 @@
     0,
     0,
     0,
-    0,
     0.47,
     0,
     -0.76,
+    0,
     0,
     0,
     0
@@ -62,28 +62,15 @@
     0.85,
     0.85,
     0.85,
-    0.85,
     1.54,
     1.54,
+    1.23,
     1.23,
     1.23,
     1.23,
     1.23
   ],
   "partidas": [
-    {
-      "rodada_id": 14,
-      "clube_casa": "Grêmio",
-      "clube_casa_id": 284,
-      "clube_visitante": "Coritiba",
-      "clube_casa_abrev": "GRE",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/gremio_60x60.png",
-      "clube_visitante_id": 294,
-      "clube_visitante_abrev": "COR",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2017/03/29/coritiba65.png",
-      "placar_oficial_mandante": 2,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 15,
       "clube_casa": "Coritiba",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2020/01/01/65.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 25,
+      "clube_casa": "Sport",
+      "clube_casa_id": 292,
+      "clube_visitante": "Coritiba",
+      "clube_casa_abrev": "SPO",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2015/07/21/sport65.png",
+      "clube_visitante_id": 294,
+      "clube_visitante_abrev": "COR",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2017/03/29/coritiba65.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2020/09/17/8f1169f09495acbeed3fec9bcfc07aa0_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2017/03/29/coritiba65.png",
   "scouts": {
-    "rodada_id": 24,
+    "rodada_id": 25,
     "rb": 0,
     "g": 0,
     "a": 0,

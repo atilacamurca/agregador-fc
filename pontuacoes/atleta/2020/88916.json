@@ -6,7 +6,6 @@
   "clube_id": 292,
   "posicao": "Goleiro",
   "rodadas": [
-    14,
     15,
     16,
     17,
@@ -16,10 +15,10 @@
     21,
     22,
     23,
-    24
+    24,
+    25
   ],
   "pontos": [
-    0.3,
     -0.6,
     -10.7,
     -0.5,
@@ -29,10 +28,10 @@
     0,
     5.5,
     -8.9,
-    9.5
+    9.5,
+    7.9
   ],
   "precos": [
-    4.26,
     4,
     1.95,
     3.4,
@@ -42,10 +41,10 @@
     5.29,
     5.45,
     2.87,
-    6
+    6,
+    5.95
   ],
   "variacoes": [
-    -1.07,
     -0.26,
     -2.05,
     1.45,
@@ -55,10 +54,10 @@
     0,
     0.16,
     -2.58,
-    3.13
+    3.13,
+    -0.05
   ],
   "medias": [
-    0.7,
     0.54,
     -0.71,
     -0.69,
@@ -68,22 +67,10 @@
     1.66,
     1.93,
     1.21,
-    1.73
+    1.73,
+    2.09
   ],
   "partidas": [
-    {
-      "rodada_id": 14,
-      "clube_casa": "Flamengo",
-      "clube_casa_id": 262,
-      "clube_visitante": "Sport",
-      "clube_casa_abrev": "FLA",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/04/09/Flamengo-65.png",
-      "clube_visitante_id": 292,
-      "clube_visitante_abrev": "SPO",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2015/07/21/sport65.png",
-      "placar_oficial_mandante": 3,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 15,
       "clube_casa": "Sport",
@@ -213,21 +200,34 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2015/07/21/sport65.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 25,
+      "clube_casa": "Sport",
+      "clube_casa_id": 292,
+      "clube_visitante": "Coritiba",
+      "clube_casa_abrev": "SPO",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2015/07/21/sport65.png",
+      "clube_visitante_id": 294,
+      "clube_visitante_abrev": "COR",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2017/03/29/coritiba65.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2020/02/27/bd93895c12a44bedff2c8516452fc868_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2015/07/21/sport65.png",
   "scouts": {
-    "rodada_id": 24,
+    "rodada_id": 25,
     "rb": 0,
     "g": 0,
     "a": 0,
-    "sg": 4,
+    "sg": 5,
     "fs": 2,
     "ff": 0,
     "fd": 0,
     "ft": 0,
-    "dd": 20,
+    "dd": 21,
     "dp": 0,
     "gc": 0,
     "cv": 0,
@@ -238,12 +238,12 @@
     "i": 0,
     "pe": 0,
     "ds": 0,
-    "pi": 194,
-    "pontos_num": 9.5,
-    "preco_num": 6,
-    "variacao_num": 3.13,
-    "media_num": 1.73,
-    "jogos_num": 16,
+    "pi": 205,
+    "pontos_num": 7.9,
+    "preco_num": 5.95,
+    "variacao_num": -0.05,
+    "media_num": 2.09,
+    "jogos_num": 17,
     "posicao_abrev": "gol",
     "posicao": "Goleiro"
   }

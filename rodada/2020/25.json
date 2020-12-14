@@ -4,344 +4,6 @@
   "inicio_rodada": "2020-12-12T20:00:00.000Z",
   "partidas": [
     {
-      "partida_id": 243180,
-      "sumario_gols_casa": {
-        "gols_marcados_casa": 10,
-        "gols_marcados_fora": 8,
-        "gols_marcados_total": 18,
-        "gols_sofridos_fora": 15,
-        "gols_sofridos_casa": 9,
-        "gols_sofridos_total": 24
-      },
-      "sumario_gols_visitante": {
-        "gols_marcados_casa": 27,
-        "gols_marcados_fora": 14,
-        "gols_marcados_total": 41,
-        "gols_sofridos_fora": 20,
-        "gols_sofridos_casa": 8,
-        "gols_sofridos_total": 28
-      },
-      "destaques_defesa_casa": [
-        {
-          "media_num": 2.94,
-          "atleta_id": 104513,
-          "apelido": "Abner Vinícius",
-          "jogos_num": 19,
-          "preco_num": 9.49,
-          "variacao_num": -0.04,
-          "foto": "https://s.glbimg.com/es/sde/f/2020/03/03/8152efe1ea15b6718521532a290b7451_140x140.png",
-          "nome_posicao": "Lateral",
-          "abreviacao_posicao": "lat"
-        },
-        {
-          "media_num": 3.19,
-          "atleta_id": 87225,
-          "apelido": "Pedro Henrique",
-          "jogos_num": 15,
-          "preco_num": 4.89,
-          "variacao_num": -0.12,
-          "foto": "https://s.glbimg.com/es/sde/f/2020/07/20/2e55ca8b5694bd4dc3fd1469cce872c2_140x140.png",
-          "nome_posicao": "Zagueiro",
-          "abreviacao_posicao": "zag"
-        },
-        {
-          "media_num": 2.53,
-          "atleta_id": 38394,
-          "apelido": "Thiago Heleno",
-          "jogos_num": 16,
-          "preco_num": 4.69,
-          "variacao_num": -1.14,
-          "foto": "https://s.glbimg.com/es/sde/f/2019/03/30/d941b7a4bb640424918c02ce3d930666_140x140.png",
-          "nome_posicao": "Zagueiro",
-          "abreviacao_posicao": "zag"
-        },
-        {
-          "media_num": 1.85,
-          "atleta_id": 69012,
-          "apelido": "Santos",
-          "jogos_num": 17,
-          "preco_num": 6.96,
-          "variacao_num": 0.4,
-          "foto": "https://s.glbimg.com/es/sde/f/2019/03/30/e7ce05ddde9ec166606e95d579a152ba_140x140.png",
-          "nome_posicao": "Goleiro",
-          "abreviacao_posicao": "gol"
-        }
-      ],
-      "destaques_defesa_visitante": [
-        {
-          "media_num": 4.95,
-          "atleta_id": 87228,
-          "apelido": "Guilherme Arana",
-          "jogos_num": 22,
-          "preco_num": 16.52,
-          "variacao_num": 0.01,
-          "foto": "https://s.glbimg.com/es/sde/f/2020/08/31/cf251bf07d0350a8081b6b0e7bfb7950_140x140.png",
-          "nome_posicao": "Lateral",
-          "abreviacao_posicao": "lat"
-        },
-        {
-          "media_num": 4.64,
-          "atleta_id": 101319,
-          "apelido": "Guga",
-          "jogos_num": 19,
-          "preco_num": 12.91,
-          "variacao_num": -0.2,
-          "foto": "https://s.glbimg.com/es/sde/f/2020/08/31/ff263cf2e43da8d3c2b3b688ae237c0c_140x140.png",
-          "nome_posicao": "Lateral",
-          "abreviacao_posicao": "lat"
-        },
-        {
-          "media_num": 3.08,
-          "atleta_id": 88312,
-          "apelido": "Júnior Alonso",
-          "jogos_num": 17,
-          "preco_num": 9.77,
-          "variacao_num": 0,
-          "foto": "https://s.glbimg.com/es/sde/f/2020/07/16/daf987c3f75852892ad5b645ad99faad_140x140.png",
-          "nome_posicao": "Zagueiro",
-          "abreviacao_posicao": "zag"
-        },
-        {
-          "media_num": 2.9,
-          "atleta_id": 89493,
-          "apelido": "Igor Rabello",
-          "jogos_num": 17,
-          "preco_num": 10.63,
-          "variacao_num": -1.55,
-          "foto": "https://s.glbimg.com/es/sde/f/2020/08/31/3e81a4b7346c3b3aec5a43ccf3aa2197_140x140.png",
-          "nome_posicao": "Zagueiro",
-          "abreviacao_posicao": "zag"
-        }
-      ],
-      "goleiros_casa": {
-        "sum_sg": 6,
-        "sum_dd": 19,
-        "sum_dp": 2,
-        "sum_gs": 26
-      },
-      "goleiros_visitante": {
-        "sum_sg": 7,
-        "sum_dd": 17,
-        "sum_dp": 0,
-        "sum_gs": 28
-      },
-      "zagueiros_casa": {
-        "sum_rb": 0,
-        "sum_g": 1,
-        "sum_gc": 2,
-        "sum_fs": 32,
-        "sum_ca": 7,
-        "sum_fc": 37,
-        "sum_pe": 0,
-        "sum_ds": 63,
-        "sum_pi": 192
-      },
-      "zagueiros_visitante": {
-        "sum_rb": 0,
-        "sum_g": 2,
-        "sum_gc": 0,
-        "sum_fs": 28,
-        "sum_ca": 10,
-        "sum_fc": 68,
-        "sum_pe": 0,
-        "sum_ds": 82,
-        "sum_pi": 284
-      },
-      "laterais_casa": {
-        "sum_rb": 0,
-        "sum_ds": 63,
-        "sum_g": 1,
-        "sum_a": 2,
-        "sum_fs": 32,
-        "sum_pe": 0,
-        "sum_pi": 192,
-        "sum_ff": 16,
-        "sum_fd": 5,
-        "sum_fc": 37
-      },
-      "laterais_visitante": {
-        "sum_rb": 0,
-        "sum_ds": 82,
-        "sum_g": 2,
-        "sum_a": 3,
-        "sum_fs": 28,
-        "sum_pe": 0,
-        "sum_pi": 284,
-        "sum_ff": 17,
-        "sum_fd": 6,
-        "sum_fc": 68
-      },
-      "meias_casa": {
-        "sum_g": 7,
-        "sum_a": 3,
-        "sum_fs": 134,
-        "sum_ff": 59,
-        "sum_fc": 206,
-        "sum_rb": 0,
-        "sum_fd": 28,
-        "sum_ca": 31,
-        "sum_pe": 0,
-        "sum_ds": 177,
-        "sum_pi": 530
-      },
-      "meias_visitante": {
-        "sum_g": 11,
-        "sum_a": 5,
-        "sum_fs": 100,
-        "sum_ff": 42,
-        "sum_fc": 134,
-        "sum_rb": 0,
-        "sum_fd": 22,
-        "sum_ca": 13,
-        "sum_pe": 0,
-        "sum_ds": 144,
-        "sum_pi": 386
-      },
-      "atacantes_casa": {
-        "sum_g": 14,
-        "sum_a": 6,
-        "sum_fs": 92,
-        "sum_ff": 35,
-        "sum_pp": 0,
-        "sum_fc": 95,
-        "sum_i": 19,
-        "sum_fd": 35
-      },
-      "atacantes_visitante": {
-        "sum_g": 21,
-        "sum_a": 13,
-        "sum_fs": 92,
-        "sum_ff": 67,
-        "sum_pp": 1,
-        "sum_fc": 90,
-        "sum_i": 35,
-        "sum_fd": 48
-      },
-      "destaques_ataque_casa": [
-        {
-          "media_num": 4.53,
-          "atleta_id": 92696,
-          "apelido": "Renato Kayzer",
-          "jogos_num": 18,
-          "preco_num": 6.59,
-          "variacao_num": -0.27,
-          "foto": "https://s.glbimg.com/es/sde/f/2020/09/25/673950963c89498fd335e11c04702a42_140x140.png",
-          "nome_posicao": "Atacante",
-          "abreviacao_posicao": "ata"
-        },
-        {
-          "media_num": 4,
-          "atleta_id": 70986,
-          "apelido": "Léo Cittadini",
-          "jogos_num": 19,
-          "preco_num": 14.13,
-          "variacao_num": 2.01,
-          "foto": "https://s.glbimg.com/es/sde/f/2019/03/30/475167cdad7e826c64f4a0a999f8aef9_140x140.png",
-          "nome_posicao": "Meia",
-          "abreviacao_posicao": "mei"
-        },
-        {
-          "media_num": 3.16,
-          "atleta_id": 90917,
-          "apelido": "Carlos Eduardo",
-          "jogos_num": 16,
-          "preco_num": 5.42,
-          "variacao_num": -1.41,
-          "foto": "https://s.glbimg.com/es/sde/f/2020/02/28/005f1178dd64dc721696b75d13b446ab_140x140.png",
-          "nome_posicao": "Atacante",
-          "abreviacao_posicao": "ata"
-        },
-        {
-          "media_num": 2.22,
-          "atleta_id": 98022,
-          "apelido": "Erick",
-          "jogos_num": 16,
-          "preco_num": 4.73,
-          "variacao_num": 0.3,
-          "foto": "https://s.glbimg.com/es/sde/f/2019/04/01/9717a07ef27fdd10d8ac6c25914a376e_140x140.png",
-          "nome_posicao": "Meia",
-          "abreviacao_posicao": "mei"
-        }
-      ],
-      "destaques_ataque_visitante": [
-        {
-          "media_num": 7.32,
-          "atleta_id": 86485,
-          "apelido": "Keno",
-          "jogos_num": 21,
-          "preco_num": 14.47,
-          "variacao_num": -0.46,
-          "foto": "https://s.glbimg.com/es/sde/f/2020/08/31/1c7eb530ff0944a5fb26c266c76aac9c_140x140.png",
-          "nome_posicao": "Atacante",
-          "abreviacao_posicao": "ata"
-        },
-        {
-          "media_num": 3.53,
-          "atleta_id": 70360,
-          "apelido": "Eduardo Sasha",
-          "jogos_num": 18,
-          "preco_num": 7.84,
-          "variacao_num": -1.38,
-          "foto": "https://s.glbimg.com/es/sde/f/2020/08/31/521385a7bf21af42afb472eabe1fbec0_140x140.png",
-          "nome_posicao": "Atacante",
-          "abreviacao_posicao": "ata"
-        },
-        {
-          "media_num": 3.68,
-          "atleta_id": 98672,
-          "apelido": "Savarino",
-          "jogos_num": 17,
-          "preco_num": 6.52,
-          "variacao_num": 0,
-          "foto": "https://s.glbimg.com/es/sde/f/2020/08/31/864520e76c9a189815cf05a7f3f9a096_140x140.png",
-          "nome_posicao": "Atacante",
-          "abreviacao_posicao": "ata"
-        },
-        {
-          "media_num": 3.67,
-          "atleta_id": 85931,
-          "apelido": "Hyoran",
-          "jogos_num": 15,
-          "preco_num": 11.84,
-          "variacao_num": 0.91,
-          "foto": "https://s.glbimg.com/es/sde/f/2020/08/31/66d12c528d0604bbd7db88296edd50fc_140x140.png",
-          "nome_posicao": "Meia",
-          "abreviacao_posicao": "mei"
-        }
-      ],
-      "clube_casa_id": 293,
-      "clube_casa": "Athlético-PR",
-      "escudo_casa": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/09/Athletico-PR-65x65.png",
-      "clube_casa_abreviacao": "ATL",
-      "clube_casa_posicao": 12,
-      "aproveitamento_mandante": [
-        "v",
-        "v",
-        "v",
-        "d",
-        "d"
-      ],
-      "clube_visitante_id": 282,
-      "clube_visitante": "Atlético-MG",
-      "escudo_visitante": "https://s.glbimg.com/es/sde/f/organizacoes/2017/11/23/Atletico-Mineiro-escudo65px.png",
-      "clube_visitante_abreviacao": "ATL",
-      "clube_visitante_posicao": 2,
-      "aproveitamento_visitante": [
-        "v",
-        "d",
-        "e",
-        "v",
-        "e"
-      ],
-      "partida_data": "2020-12-12T20:00:00.000Z",
-      "local": "Arena da Baixada",
-      "valida": true,
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 0,
-      "url_confronto": null,
-      "url_transmissao": null
-    },
-    {
       "partida_id": 243176,
       "sumario_gols_casa": {
         "gols_marcados_casa": 18,
@@ -651,30 +313,706 @@
       "clube_casa": "Bragantino",
       "escudo_casa": "https://s.glbimg.com/es/sde/f/organizacoes/2020/01/01/65.png",
       "clube_casa_abreviacao": "BRA",
-      "clube_casa_posicao": 14,
+      "clube_casa_posicao": 11,
       "aproveitamento_mandante": [
-        "e",
         "v",
         "v",
         "e",
-        "e"
+        "e",
+        "v"
       ],
       "clube_visitante_id": 356,
       "clube_visitante": "Fortaleza",
       "escudo_visitante": "https://s.glbimg.com/es/sde/f/organizacoes/2018/06/10/fortaleza-ec-65px.png",
       "clube_visitante_abreviacao": "FOR",
-      "clube_visitante_posicao": 10,
+      "clube_visitante_posicao": 13,
+      "aproveitamento_visitante": [
+        "e",
+        "v",
+        "e",
+        "e",
+        "d"
+      ],
+      "partida_data": "2020-12-12T20:00:00.000Z",
+      "local": "Nabi Abi Chedid",
+      "valida": true,
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 1,
+      "url_confronto": null,
+      "url_transmissao": null
+    },
+    {
+      "partida_id": 243180,
+      "sumario_gols_casa": {
+        "gols_marcados_casa": 10,
+        "gols_marcados_fora": 8,
+        "gols_marcados_total": 18,
+        "gols_sofridos_fora": 15,
+        "gols_sofridos_casa": 9,
+        "gols_sofridos_total": 24
+      },
+      "sumario_gols_visitante": {
+        "gols_marcados_casa": 27,
+        "gols_marcados_fora": 14,
+        "gols_marcados_total": 41,
+        "gols_sofridos_fora": 20,
+        "gols_sofridos_casa": 8,
+        "gols_sofridos_total": 28
+      },
+      "destaques_defesa_casa": [
+        {
+          "media_num": 2.94,
+          "atleta_id": 104513,
+          "apelido": "Abner Vinícius",
+          "jogos_num": 19,
+          "preco_num": 9.49,
+          "variacao_num": -0.04,
+          "foto": "https://s.glbimg.com/es/sde/f/2020/03/03/8152efe1ea15b6718521532a290b7451_140x140.png",
+          "nome_posicao": "Lateral",
+          "abreviacao_posicao": "lat"
+        },
+        {
+          "media_num": 3.19,
+          "atleta_id": 87225,
+          "apelido": "Pedro Henrique",
+          "jogos_num": 15,
+          "preco_num": 4.89,
+          "variacao_num": -0.12,
+          "foto": "https://s.glbimg.com/es/sde/f/2020/07/20/2e55ca8b5694bd4dc3fd1469cce872c2_140x140.png",
+          "nome_posicao": "Zagueiro",
+          "abreviacao_posicao": "zag"
+        },
+        {
+          "media_num": 2.53,
+          "atleta_id": 38394,
+          "apelido": "Thiago Heleno",
+          "jogos_num": 16,
+          "preco_num": 4.69,
+          "variacao_num": -1.14,
+          "foto": "https://s.glbimg.com/es/sde/f/2019/03/30/d941b7a4bb640424918c02ce3d930666_140x140.png",
+          "nome_posicao": "Zagueiro",
+          "abreviacao_posicao": "zag"
+        },
+        {
+          "media_num": 1.85,
+          "atleta_id": 69012,
+          "apelido": "Santos",
+          "jogos_num": 17,
+          "preco_num": 6.96,
+          "variacao_num": 0.4,
+          "foto": "https://s.glbimg.com/es/sde/f/2019/03/30/e7ce05ddde9ec166606e95d579a152ba_140x140.png",
+          "nome_posicao": "Goleiro",
+          "abreviacao_posicao": "gol"
+        }
+      ],
+      "destaques_defesa_visitante": [
+        {
+          "media_num": 4.95,
+          "atleta_id": 87228,
+          "apelido": "Guilherme Arana",
+          "jogos_num": 22,
+          "preco_num": 16.52,
+          "variacao_num": 0.01,
+          "foto": "https://s.glbimg.com/es/sde/f/2020/08/31/cf251bf07d0350a8081b6b0e7bfb7950_140x140.png",
+          "nome_posicao": "Lateral",
+          "abreviacao_posicao": "lat"
+        },
+        {
+          "media_num": 4.64,
+          "atleta_id": 101319,
+          "apelido": "Guga",
+          "jogos_num": 19,
+          "preco_num": 12.91,
+          "variacao_num": -0.2,
+          "foto": "https://s.glbimg.com/es/sde/f/2020/08/31/ff263cf2e43da8d3c2b3b688ae237c0c_140x140.png",
+          "nome_posicao": "Lateral",
+          "abreviacao_posicao": "lat"
+        },
+        {
+          "media_num": 3.08,
+          "atleta_id": 88312,
+          "apelido": "Júnior Alonso",
+          "jogos_num": 17,
+          "preco_num": 9.77,
+          "variacao_num": 0,
+          "foto": "https://s.glbimg.com/es/sde/f/2020/07/16/daf987c3f75852892ad5b645ad99faad_140x140.png",
+          "nome_posicao": "Zagueiro",
+          "abreviacao_posicao": "zag"
+        },
+        {
+          "media_num": 2.9,
+          "atleta_id": 89493,
+          "apelido": "Igor Rabello",
+          "jogos_num": 17,
+          "preco_num": 10.63,
+          "variacao_num": -1.55,
+          "foto": "https://s.glbimg.com/es/sde/f/2020/08/31/3e81a4b7346c3b3aec5a43ccf3aa2197_140x140.png",
+          "nome_posicao": "Zagueiro",
+          "abreviacao_posicao": "zag"
+        }
+      ],
+      "goleiros_casa": {
+        "sum_sg": 6,
+        "sum_dd": 19,
+        "sum_dp": 2,
+        "sum_gs": 26
+      },
+      "goleiros_visitante": {
+        "sum_sg": 7,
+        "sum_dd": 17,
+        "sum_dp": 0,
+        "sum_gs": 28
+      },
+      "zagueiros_casa": {
+        "sum_rb": 0,
+        "sum_g": 1,
+        "sum_gc": 2,
+        "sum_fs": 32,
+        "sum_ca": 7,
+        "sum_fc": 37,
+        "sum_pe": 0,
+        "sum_ds": 63,
+        "sum_pi": 192
+      },
+      "zagueiros_visitante": {
+        "sum_rb": 0,
+        "sum_g": 2,
+        "sum_gc": 0,
+        "sum_fs": 28,
+        "sum_ca": 10,
+        "sum_fc": 68,
+        "sum_pe": 0,
+        "sum_ds": 82,
+        "sum_pi": 284
+      },
+      "laterais_casa": {
+        "sum_rb": 0,
+        "sum_ds": 63,
+        "sum_g": 1,
+        "sum_a": 2,
+        "sum_fs": 32,
+        "sum_pe": 0,
+        "sum_pi": 192,
+        "sum_ff": 16,
+        "sum_fd": 5,
+        "sum_fc": 37
+      },
+      "laterais_visitante": {
+        "sum_rb": 0,
+        "sum_ds": 82,
+        "sum_g": 2,
+        "sum_a": 3,
+        "sum_fs": 28,
+        "sum_pe": 0,
+        "sum_pi": 284,
+        "sum_ff": 17,
+        "sum_fd": 6,
+        "sum_fc": 68
+      },
+      "meias_casa": {
+        "sum_g": 7,
+        "sum_a": 3,
+        "sum_fs": 134,
+        "sum_ff": 59,
+        "sum_fc": 206,
+        "sum_rb": 0,
+        "sum_fd": 28,
+        "sum_ca": 31,
+        "sum_pe": 0,
+        "sum_ds": 177,
+        "sum_pi": 530
+      },
+      "meias_visitante": {
+        "sum_g": 11,
+        "sum_a": 5,
+        "sum_fs": 100,
+        "sum_ff": 42,
+        "sum_fc": 134,
+        "sum_rb": 0,
+        "sum_fd": 22,
+        "sum_ca": 13,
+        "sum_pe": 0,
+        "sum_ds": 144,
+        "sum_pi": 386
+      },
+      "atacantes_casa": {
+        "sum_g": 14,
+        "sum_a": 6,
+        "sum_fs": 92,
+        "sum_ff": 35,
+        "sum_pp": 0,
+        "sum_fc": 95,
+        "sum_i": 19,
+        "sum_fd": 35
+      },
+      "atacantes_visitante": {
+        "sum_g": 21,
+        "sum_a": 13,
+        "sum_fs": 92,
+        "sum_ff": 67,
+        "sum_pp": 1,
+        "sum_fc": 90,
+        "sum_i": 35,
+        "sum_fd": 48
+      },
+      "destaques_ataque_casa": [
+        {
+          "media_num": 4.53,
+          "atleta_id": 92696,
+          "apelido": "Renato Kayzer",
+          "jogos_num": 18,
+          "preco_num": 6.59,
+          "variacao_num": -0.27,
+          "foto": "https://s.glbimg.com/es/sde/f/2020/09/25/673950963c89498fd335e11c04702a42_140x140.png",
+          "nome_posicao": "Atacante",
+          "abreviacao_posicao": "ata"
+        },
+        {
+          "media_num": 4,
+          "atleta_id": 70986,
+          "apelido": "Léo Cittadini",
+          "jogos_num": 19,
+          "preco_num": 14.13,
+          "variacao_num": 2.01,
+          "foto": "https://s.glbimg.com/es/sde/f/2019/03/30/475167cdad7e826c64f4a0a999f8aef9_140x140.png",
+          "nome_posicao": "Meia",
+          "abreviacao_posicao": "mei"
+        },
+        {
+          "media_num": 3.16,
+          "atleta_id": 90917,
+          "apelido": "Carlos Eduardo",
+          "jogos_num": 16,
+          "preco_num": 5.42,
+          "variacao_num": -1.41,
+          "foto": "https://s.glbimg.com/es/sde/f/2020/02/28/005f1178dd64dc721696b75d13b446ab_140x140.png",
+          "nome_posicao": "Atacante",
+          "abreviacao_posicao": "ata"
+        },
+        {
+          "media_num": 2.22,
+          "atleta_id": 98022,
+          "apelido": "Erick",
+          "jogos_num": 16,
+          "preco_num": 4.73,
+          "variacao_num": 0.3,
+          "foto": "https://s.glbimg.com/es/sde/f/2019/04/01/9717a07ef27fdd10d8ac6c25914a376e_140x140.png",
+          "nome_posicao": "Meia",
+          "abreviacao_posicao": "mei"
+        }
+      ],
+      "destaques_ataque_visitante": [
+        {
+          "media_num": 7.32,
+          "atleta_id": 86485,
+          "apelido": "Keno",
+          "jogos_num": 21,
+          "preco_num": 14.47,
+          "variacao_num": -0.46,
+          "foto": "https://s.glbimg.com/es/sde/f/2020/08/31/1c7eb530ff0944a5fb26c266c76aac9c_140x140.png",
+          "nome_posicao": "Atacante",
+          "abreviacao_posicao": "ata"
+        },
+        {
+          "media_num": 3.53,
+          "atleta_id": 70360,
+          "apelido": "Eduardo Sasha",
+          "jogos_num": 18,
+          "preco_num": 7.84,
+          "variacao_num": -1.38,
+          "foto": "https://s.glbimg.com/es/sde/f/2020/08/31/521385a7bf21af42afb472eabe1fbec0_140x140.png",
+          "nome_posicao": "Atacante",
+          "abreviacao_posicao": "ata"
+        },
+        {
+          "media_num": 3.68,
+          "atleta_id": 98672,
+          "apelido": "Savarino",
+          "jogos_num": 17,
+          "preco_num": 6.52,
+          "variacao_num": 0,
+          "foto": "https://s.glbimg.com/es/sde/f/2020/08/31/864520e76c9a189815cf05a7f3f9a096_140x140.png",
+          "nome_posicao": "Atacante",
+          "abreviacao_posicao": "ata"
+        },
+        {
+          "media_num": 3.67,
+          "atleta_id": 85931,
+          "apelido": "Hyoran",
+          "jogos_num": 15,
+          "preco_num": 11.84,
+          "variacao_num": 0.91,
+          "foto": "https://s.glbimg.com/es/sde/f/2020/08/31/66d12c528d0604bbd7db88296edd50fc_140x140.png",
+          "nome_posicao": "Meia",
+          "abreviacao_posicao": "mei"
+        }
+      ],
+      "clube_casa_id": 293,
+      "clube_casa": "Athlético-PR",
+      "escudo_casa": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/09/Athletico-PR-65x65.png",
+      "clube_casa_abreviacao": "ATL",
+      "clube_casa_posicao": 14,
+      "aproveitamento_mandante": [
+        "v",
+        "v",
+        "d",
+        "d",
+        "d"
+      ],
+      "clube_visitante_id": 282,
+      "clube_visitante": "Atlético-MG",
+      "escudo_visitante": "https://s.glbimg.com/es/sde/f/organizacoes/2017/11/23/Atletico-Mineiro-escudo65px.png",
+      "clube_visitante_abreviacao": "ATL",
+      "clube_visitante_posicao": 2,
       "aproveitamento_visitante": [
         "d",
         "e",
         "v",
         "e",
-        "e"
+        "v"
       ],
       "partida_data": "2020-12-12T20:00:00.000Z",
-      "local": "Nabi Abi Chedid",
+      "local": "Arena da Baixada",
       "valida": true,
       "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 1,
+      "url_confronto": null,
+      "url_transmissao": null
+    },
+    {
+      "partida_id": 243175,
+      "sumario_gols_casa": {
+        "gols_marcados_casa": 15,
+        "gols_marcados_fora": 15,
+        "gols_marcados_total": 30,
+        "gols_sofridos_fora": 11,
+        "gols_sofridos_casa": 12,
+        "gols_sofridos_total": 23
+      },
+      "sumario_gols_visitante": {
+        "gols_marcados_casa": 15,
+        "gols_marcados_fora": 8,
+        "gols_marcados_total": 23,
+        "gols_sofridos_fora": 18,
+        "gols_sofridos_casa": 15,
+        "gols_sofridos_total": 33
+      },
+      "destaques_defesa_casa": [
+        {
+          "media_num": 5.37,
+          "atleta_id": 98974,
+          "apelido": "Viña",
+          "jogos_num": 14,
+          "preco_num": 8.52,
+          "variacao_num": -1.93,
+          "foto": "https://s.glbimg.com/es/sde/f/2020/02/28/444cc845fe792b0fdd234c579e4c31de_140x140.png",
+          "nome_posicao": "Lateral",
+          "abreviacao_posicao": "lat"
+        },
+        {
+          "media_num": 3.32,
+          "atleta_id": 71684,
+          "apelido": "Gustavo Gómez",
+          "jogos_num": 14,
+          "preco_num": 11.78,
+          "variacao_num": 0,
+          "foto": "https://s.glbimg.com/es/sde/f/2020/03/09/d8945e5024344014b96d64adab91f4da_140x140.png",
+          "nome_posicao": "Zagueiro",
+          "abreviacao_posicao": "zag"
+        },
+        {
+          "media_num": 2.48,
+          "atleta_id": 80692,
+          "apelido": "Luan",
+          "jogos_num": 17,
+          "preco_num": 5.59,
+          "variacao_num": -0.38,
+          "foto": "https://s.glbimg.com/es/sde/f/2020/03/09/f29c869ccdfaa407340b9047dbf761fa_140x140.jpeg",
+          "nome_posicao": "Zagueiro",
+          "abreviacao_posicao": "zag"
+        },
+        {
+          "media_num": 2.82,
+          "atleta_id": 63013,
+          "apelido": "Marcos Rocha",
+          "jogos_num": 13,
+          "preco_num": 7.72,
+          "variacao_num": 0,
+          "foto": "https://s.glbimg.com/es/sde/f/2020/03/09/ebc79a97a8840c38c63b16446a1c84b5_140x140.png",
+          "nome_posicao": "Lateral",
+          "abreviacao_posicao": "lat"
+        }
+      ],
+      "destaques_defesa_visitante": [
+        {
+          "media_num": 3.24,
+          "atleta_id": 78584,
+          "apelido": "Douglas Friedrich",
+          "jogos_num": 14,
+          "preco_num": 8.64,
+          "variacao_num": -0.67,
+          "foto": "https://s.glbimg.com/es/sde/f/2020/07/23/8673aa3ad493dd8b6692cdcf7143b3e2_140x140.png",
+          "nome_posicao": "Goleiro",
+          "abreviacao_posicao": "gol"
+        },
+        {
+          "media_num": 3.4,
+          "atleta_id": 94968,
+          "apelido": "Juninho Capixaba",
+          "jogos_num": 13,
+          "preco_num": 8.34,
+          "variacao_num": 0,
+          "foto": "https://s.glbimg.com/es/sde/f/2020/02/28/d95ca5159ff4c4c6749ff6b844ceadb0_140x140.png",
+          "nome_posicao": "Lateral",
+          "abreviacao_posicao": "lat"
+        },
+        {
+          "media_num": 2.69,
+          "atleta_id": 68808,
+          "apelido": "Nino Paraíba",
+          "jogos_num": 16,
+          "preco_num": 7.74,
+          "variacao_num": -0.48,
+          "foto": "https://s.glbimg.com/es/sde/f/2020/07/23/73b5168e7153d03026f7793518fe9dd9_140x140.png",
+          "nome_posicao": "Lateral",
+          "abreviacao_posicao": "lat"
+        },
+        {
+          "media_num": 2.23,
+          "atleta_id": 92182,
+          "apelido": "Juninho",
+          "jogos_num": 17,
+          "preco_num": 7.97,
+          "variacao_num": 0.42,
+          "foto": "https://s.glbimg.com/es/sde/f/2020/07/20/68fe04ad87ce709e167f9819592fe87f_140x140.png",
+          "nome_posicao": "Zagueiro",
+          "abreviacao_posicao": "zag"
+        }
+      ],
+      "goleiros_casa": {
+        "sum_sg": 7,
+        "sum_dd": 13,
+        "sum_dp": 0,
+        "sum_gs": 22
+      },
+      "goleiros_visitante": {
+        "sum_sg": 3,
+        "sum_dd": 27,
+        "sum_dp": 0,
+        "sum_gs": 29
+      },
+      "zagueiros_casa": {
+        "sum_rb": 0,
+        "sum_g": 1,
+        "sum_gc": 0,
+        "sum_fs": 36,
+        "sum_ca": 12,
+        "sum_fc": 45,
+        "sum_pe": 0,
+        "sum_ds": 83,
+        "sum_pi": 172
+      },
+      "zagueiros_visitante": {
+        "sum_rb": 0,
+        "sum_g": 2,
+        "sum_gc": 0,
+        "sum_fs": 16,
+        "sum_ca": 3,
+        "sum_fc": 24,
+        "sum_pe": 0,
+        "sum_ds": 45,
+        "sum_pi": 144
+      },
+      "laterais_casa": {
+        "sum_rb": 0,
+        "sum_ds": 83,
+        "sum_g": 1,
+        "sum_a": 1,
+        "sum_fs": 36,
+        "sum_pe": 0,
+        "sum_pi": 172,
+        "sum_ff": 8,
+        "sum_fd": 3,
+        "sum_fc": 45
+      },
+      "laterais_visitante": {
+        "sum_rb": 0,
+        "sum_ds": 45,
+        "sum_g": 2,
+        "sum_a": 1,
+        "sum_fs": 16,
+        "sum_pe": 0,
+        "sum_pi": 144,
+        "sum_ff": 8,
+        "sum_fd": 6,
+        "sum_fc": 24
+      },
+      "meias_casa": {
+        "sum_g": 11,
+        "sum_a": 11,
+        "sum_fs": 149,
+        "sum_ff": 61,
+        "sum_fc": 135,
+        "sum_rb": 0,
+        "sum_fd": 34,
+        "sum_ca": 23,
+        "sum_pe": 0,
+        "sum_ds": 167,
+        "sum_pi": 587
+      },
+      "meias_visitante": {
+        "sum_g": 8,
+        "sum_a": 6,
+        "sum_fs": 127,
+        "sum_ff": 38,
+        "sum_fc": 133,
+        "sum_rb": 0,
+        "sum_fd": 22,
+        "sum_ca": 23,
+        "sum_pe": 0,
+        "sum_ds": 129,
+        "sum_pi": 418
+      },
+      "atacantes_casa": {
+        "sum_g": 20,
+        "sum_a": 6,
+        "sum_fs": 94,
+        "sum_ff": 49,
+        "sum_pp": 2,
+        "sum_fc": 94,
+        "sum_i": 22,
+        "sum_fd": 31
+      },
+      "atacantes_visitante": {
+        "sum_g": 11,
+        "sum_a": 4,
+        "sum_fs": 100,
+        "sum_ff": 45,
+        "sum_pp": 2,
+        "sum_fc": 53,
+        "sum_i": 20,
+        "sum_fd": 39
+      },
+      "destaques_ataque_casa": [
+        {
+          "media_num": 5.52,
+          "atleta_id": 94509,
+          "apelido": "Raphael Veiga",
+          "jogos_num": 14,
+          "preco_num": 10.69,
+          "variacao_num": -0.67,
+          "foto": "https://s.glbimg.com/es/sde/f/2020/10/05/eba17da38b8f96bc0a8b648fa5aa7acc_140x140.png",
+          "nome_posicao": "Meia",
+          "abreviacao_posicao": "mei"
+        },
+        {
+          "media_num": 4.42,
+          "atleta_id": 72772,
+          "apelido": "Luiz Adriano",
+          "jogos_num": 16,
+          "preco_num": 11.27,
+          "variacao_num": 0,
+          "foto": "https://s.glbimg.com/es/sde/f/2019/08/09/03390afe55e2bf08d4cb4d0da02c7b39_140x140.png",
+          "nome_posicao": "Atacante",
+          "abreviacao_posicao": "ata"
+        },
+        {
+          "media_num": 4,
+          "atleta_id": 107172,
+          "apelido": "Patrick de Paula",
+          "jogos_num": 17,
+          "preco_num": 7.17,
+          "variacao_num": 0,
+          "foto": "https://s.glbimg.com/es/sde/f/2020/03/09/a9c14c249329965a83e2f3b2bda2642b_140x140.png",
+          "nome_posicao": "Meia",
+          "abreviacao_posicao": "mei"
+        },
+        {
+          "media_num": 3.25,
+          "atleta_id": 42116,
+          "apelido": "Willian",
+          "jogos_num": 20,
+          "preco_num": 11.15,
+          "variacao_num": 1.33,
+          "foto": "https://s.glbimg.com/es/sde/f/2019/09/24/0f7dce66e695049e222a3bb848eb993d_140x140.png",
+          "nome_posicao": "Atacante",
+          "abreviacao_posicao": "ata"
+        }
+      ],
+      "destaques_ataque_visitante": [
+        {
+          "media_num": 3.72,
+          "atleta_id": 61188,
+          "apelido": "Gilberto",
+          "jogos_num": 17,
+          "preco_num": 8.23,
+          "variacao_num": -0.43,
+          "foto": "https://s.glbimg.com/es/sde/f/2020/07/23/cfa56df3c36a70e02c751261d2b54d77_140x140.png",
+          "nome_posicao": "Atacante",
+          "abreviacao_posicao": "ata"
+        },
+        {
+          "media_num": 3.63,
+          "atleta_id": 74140,
+          "apelido": "Élber",
+          "jogos_num": 17,
+          "preco_num": 8.65,
+          "variacao_num": 0,
+          "foto": "https://s.glbimg.com/es/sde/f/2020/07/24/4a3f794325acc2d6bd02a0c556444c2d_140x140.png",
+          "nome_posicao": "Atacante",
+          "abreviacao_posicao": "ata"
+        },
+        {
+          "media_num": 4.28,
+          "atleta_id": 61033,
+          "apelido": "Rodriguinho",
+          "jogos_num": 14,
+          "preco_num": 14.19,
+          "variacao_num": 1.25,
+          "foto": "https://s.glbimg.com/es/sde/f/2020/07/19/53fbb01cb440a683d3d6cf3e622ea4dc_140x140.png",
+          "nome_posicao": "Meia",
+          "abreviacao_posicao": "mei"
+        },
+        {
+          "media_num": 2.37,
+          "atleta_id": 93791,
+          "apelido": "Daniel",
+          "jogos_num": 17,
+          "preco_num": 4.51,
+          "variacao_num": 0.16,
+          "foto": "https://s.glbimg.com/es/sde/f/2020/02/28/a0c1c9f69e5607f8a09bca2e4d7b6bc8_140x140.png",
+          "nome_posicao": "Meia",
+          "abreviacao_posicao": "mei"
+        }
+      ],
+      "clube_casa_id": 275,
+      "clube_casa": "Palmeiras",
+      "escudo_casa": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
+      "clube_casa_abreviacao": "PAL",
+      "clube_casa_posicao": 4,
+      "aproveitamento_mandante": [
+        "v",
+        "d",
+        "v",
+        "e",
+        "v"
+      ],
+      "clube_visitante_id": 265,
+      "clube_visitante": "Bahia",
+      "escudo_visitante": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/bahia_60x60.png",
+      "clube_visitante_abreviacao": "BAH",
+      "clube_visitante_posicao": 16,
+      "aproveitamento_visitante": [
+        "v",
+        "d",
+        "d",
+        "d",
+        "d"
+      ],
+      "partida_data": "2020-12-12T22:00:00.000Z",
+      "local": "Allianz Parque",
+      "valida": true,
+      "placar_oficial_mandante": 3,
       "placar_oficial_visitante": 0,
       "url_confronto": null,
       "url_transmissao": null
@@ -989,19 +1327,19 @@
       "clube_casa": "Internacional",
       "escudo_casa": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/03/inter65.png",
       "clube_casa_abreviacao": "INT",
-      "clube_casa_posicao": 6,
+      "clube_casa_posicao": 5,
       "aproveitamento_mandante": [
-        "e",
         "d",
         "d",
         "e",
-        "e"
+        "e",
+        "v"
       ],
       "clube_visitante_id": 263,
       "clube_visitante": "Botafogo",
       "escudo_visitante": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/04/botafogo-65.png",
       "clube_visitante_abreviacao": "BOT",
-      "clube_visitante_posicao": 19,
+      "clube_visitante_posicao": 20,
       "aproveitamento_visitante": [
         "d",
         "d",
@@ -1012,684 +1350,8 @@
       "partida_data": "2020-12-12T22:00:00.000Z",
       "local": "Beira-Rio",
       "valida": true,
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 0,
-      "url_confronto": null,
-      "url_transmissao": null
-    },
-    {
-      "partida_id": 243175,
-      "sumario_gols_casa": {
-        "gols_marcados_casa": 15,
-        "gols_marcados_fora": 15,
-        "gols_marcados_total": 30,
-        "gols_sofridos_fora": 11,
-        "gols_sofridos_casa": 12,
-        "gols_sofridos_total": 23
-      },
-      "sumario_gols_visitante": {
-        "gols_marcados_casa": 15,
-        "gols_marcados_fora": 8,
-        "gols_marcados_total": 23,
-        "gols_sofridos_fora": 18,
-        "gols_sofridos_casa": 15,
-        "gols_sofridos_total": 33
-      },
-      "destaques_defesa_casa": [
-        {
-          "media_num": 5.37,
-          "atleta_id": 98974,
-          "apelido": "Viña",
-          "jogos_num": 14,
-          "preco_num": 8.52,
-          "variacao_num": -1.93,
-          "foto": "https://s.glbimg.com/es/sde/f/2020/02/28/444cc845fe792b0fdd234c579e4c31de_140x140.png",
-          "nome_posicao": "Lateral",
-          "abreviacao_posicao": "lat"
-        },
-        {
-          "media_num": 3.32,
-          "atleta_id": 71684,
-          "apelido": "Gustavo Gómez",
-          "jogos_num": 14,
-          "preco_num": 11.78,
-          "variacao_num": 0,
-          "foto": "https://s.glbimg.com/es/sde/f/2020/03/09/d8945e5024344014b96d64adab91f4da_140x140.png",
-          "nome_posicao": "Zagueiro",
-          "abreviacao_posicao": "zag"
-        },
-        {
-          "media_num": 2.48,
-          "atleta_id": 80692,
-          "apelido": "Luan",
-          "jogos_num": 17,
-          "preco_num": 5.59,
-          "variacao_num": -0.38,
-          "foto": "https://s.glbimg.com/es/sde/f/2020/03/09/f29c869ccdfaa407340b9047dbf761fa_140x140.jpeg",
-          "nome_posicao": "Zagueiro",
-          "abreviacao_posicao": "zag"
-        },
-        {
-          "media_num": 2.82,
-          "atleta_id": 63013,
-          "apelido": "Marcos Rocha",
-          "jogos_num": 13,
-          "preco_num": 7.72,
-          "variacao_num": 0,
-          "foto": "https://s.glbimg.com/es/sde/f/2020/03/09/ebc79a97a8840c38c63b16446a1c84b5_140x140.png",
-          "nome_posicao": "Lateral",
-          "abreviacao_posicao": "lat"
-        }
-      ],
-      "destaques_defesa_visitante": [
-        {
-          "media_num": 3.24,
-          "atleta_id": 78584,
-          "apelido": "Douglas Friedrich",
-          "jogos_num": 14,
-          "preco_num": 8.64,
-          "variacao_num": -0.67,
-          "foto": "https://s.glbimg.com/es/sde/f/2020/07/23/8673aa3ad493dd8b6692cdcf7143b3e2_140x140.png",
-          "nome_posicao": "Goleiro",
-          "abreviacao_posicao": "gol"
-        },
-        {
-          "media_num": 3.4,
-          "atleta_id": 94968,
-          "apelido": "Juninho Capixaba",
-          "jogos_num": 13,
-          "preco_num": 8.34,
-          "variacao_num": 0,
-          "foto": "https://s.glbimg.com/es/sde/f/2020/02/28/d95ca5159ff4c4c6749ff6b844ceadb0_140x140.png",
-          "nome_posicao": "Lateral",
-          "abreviacao_posicao": "lat"
-        },
-        {
-          "media_num": 2.69,
-          "atleta_id": 68808,
-          "apelido": "Nino Paraíba",
-          "jogos_num": 16,
-          "preco_num": 7.74,
-          "variacao_num": -0.48,
-          "foto": "https://s.glbimg.com/es/sde/f/2020/07/23/73b5168e7153d03026f7793518fe9dd9_140x140.png",
-          "nome_posicao": "Lateral",
-          "abreviacao_posicao": "lat"
-        },
-        {
-          "media_num": 2.23,
-          "atleta_id": 92182,
-          "apelido": "Juninho",
-          "jogos_num": 17,
-          "preco_num": 7.97,
-          "variacao_num": 0.42,
-          "foto": "https://s.glbimg.com/es/sde/f/2020/07/20/68fe04ad87ce709e167f9819592fe87f_140x140.png",
-          "nome_posicao": "Zagueiro",
-          "abreviacao_posicao": "zag"
-        }
-      ],
-      "goleiros_casa": {
-        "sum_sg": 7,
-        "sum_dd": 13,
-        "sum_dp": 0,
-        "sum_gs": 22
-      },
-      "goleiros_visitante": {
-        "sum_sg": 3,
-        "sum_dd": 27,
-        "sum_dp": 0,
-        "sum_gs": 29
-      },
-      "zagueiros_casa": {
-        "sum_rb": 0,
-        "sum_g": 1,
-        "sum_gc": 0,
-        "sum_fs": 36,
-        "sum_ca": 12,
-        "sum_fc": 45,
-        "sum_pe": 0,
-        "sum_ds": 83,
-        "sum_pi": 172
-      },
-      "zagueiros_visitante": {
-        "sum_rb": 0,
-        "sum_g": 2,
-        "sum_gc": 0,
-        "sum_fs": 16,
-        "sum_ca": 3,
-        "sum_fc": 24,
-        "sum_pe": 0,
-        "sum_ds": 45,
-        "sum_pi": 144
-      },
-      "laterais_casa": {
-        "sum_rb": 0,
-        "sum_ds": 83,
-        "sum_g": 1,
-        "sum_a": 1,
-        "sum_fs": 36,
-        "sum_pe": 0,
-        "sum_pi": 172,
-        "sum_ff": 8,
-        "sum_fd": 3,
-        "sum_fc": 45
-      },
-      "laterais_visitante": {
-        "sum_rb": 0,
-        "sum_ds": 45,
-        "sum_g": 2,
-        "sum_a": 1,
-        "sum_fs": 16,
-        "sum_pe": 0,
-        "sum_pi": 144,
-        "sum_ff": 8,
-        "sum_fd": 6,
-        "sum_fc": 24
-      },
-      "meias_casa": {
-        "sum_g": 11,
-        "sum_a": 11,
-        "sum_fs": 149,
-        "sum_ff": 61,
-        "sum_fc": 135,
-        "sum_rb": 0,
-        "sum_fd": 34,
-        "sum_ca": 23,
-        "sum_pe": 0,
-        "sum_ds": 167,
-        "sum_pi": 587
-      },
-      "meias_visitante": {
-        "sum_g": 8,
-        "sum_a": 6,
-        "sum_fs": 127,
-        "sum_ff": 38,
-        "sum_fc": 133,
-        "sum_rb": 0,
-        "sum_fd": 22,
-        "sum_ca": 23,
-        "sum_pe": 0,
-        "sum_ds": 129,
-        "sum_pi": 418
-      },
-      "atacantes_casa": {
-        "sum_g": 20,
-        "sum_a": 6,
-        "sum_fs": 94,
-        "sum_ff": 49,
-        "sum_pp": 2,
-        "sum_fc": 94,
-        "sum_i": 22,
-        "sum_fd": 31
-      },
-      "atacantes_visitante": {
-        "sum_g": 11,
-        "sum_a": 4,
-        "sum_fs": 100,
-        "sum_ff": 45,
-        "sum_pp": 2,
-        "sum_fc": 53,
-        "sum_i": 20,
-        "sum_fd": 39
-      },
-      "destaques_ataque_casa": [
-        {
-          "media_num": 5.52,
-          "atleta_id": 94509,
-          "apelido": "Raphael Veiga",
-          "jogos_num": 14,
-          "preco_num": 10.69,
-          "variacao_num": -0.67,
-          "foto": "https://s.glbimg.com/es/sde/f/2020/10/05/eba17da38b8f96bc0a8b648fa5aa7acc_140x140.png",
-          "nome_posicao": "Meia",
-          "abreviacao_posicao": "mei"
-        },
-        {
-          "media_num": 4.42,
-          "atleta_id": 72772,
-          "apelido": "Luiz Adriano",
-          "jogos_num": 16,
-          "preco_num": 11.27,
-          "variacao_num": 0,
-          "foto": "https://s.glbimg.com/es/sde/f/2019/08/09/03390afe55e2bf08d4cb4d0da02c7b39_140x140.png",
-          "nome_posicao": "Atacante",
-          "abreviacao_posicao": "ata"
-        },
-        {
-          "media_num": 4,
-          "atleta_id": 107172,
-          "apelido": "Patrick de Paula",
-          "jogos_num": 17,
-          "preco_num": 7.17,
-          "variacao_num": 0,
-          "foto": "https://s.glbimg.com/es/sde/f/2020/03/09/a9c14c249329965a83e2f3b2bda2642b_140x140.png",
-          "nome_posicao": "Meia",
-          "abreviacao_posicao": "mei"
-        },
-        {
-          "media_num": 3.25,
-          "atleta_id": 42116,
-          "apelido": "Willian",
-          "jogos_num": 20,
-          "preco_num": 11.15,
-          "variacao_num": 1.33,
-          "foto": "https://s.glbimg.com/es/sde/f/2019/09/24/0f7dce66e695049e222a3bb848eb993d_140x140.png",
-          "nome_posicao": "Atacante",
-          "abreviacao_posicao": "ata"
-        }
-      ],
-      "destaques_ataque_visitante": [
-        {
-          "media_num": 3.72,
-          "atleta_id": 61188,
-          "apelido": "Gilberto",
-          "jogos_num": 17,
-          "preco_num": 8.23,
-          "variacao_num": -0.43,
-          "foto": "https://s.glbimg.com/es/sde/f/2020/07/23/cfa56df3c36a70e02c751261d2b54d77_140x140.png",
-          "nome_posicao": "Atacante",
-          "abreviacao_posicao": "ata"
-        },
-        {
-          "media_num": 3.63,
-          "atleta_id": 74140,
-          "apelido": "Élber",
-          "jogos_num": 17,
-          "preco_num": 8.65,
-          "variacao_num": 0,
-          "foto": "https://s.glbimg.com/es/sde/f/2020/07/24/4a3f794325acc2d6bd02a0c556444c2d_140x140.png",
-          "nome_posicao": "Atacante",
-          "abreviacao_posicao": "ata"
-        },
-        {
-          "media_num": 4.28,
-          "atleta_id": 61033,
-          "apelido": "Rodriguinho",
-          "jogos_num": 14,
-          "preco_num": 14.19,
-          "variacao_num": 1.25,
-          "foto": "https://s.glbimg.com/es/sde/f/2020/07/19/53fbb01cb440a683d3d6cf3e622ea4dc_140x140.png",
-          "nome_posicao": "Meia",
-          "abreviacao_posicao": "mei"
-        },
-        {
-          "media_num": 2.37,
-          "atleta_id": 93791,
-          "apelido": "Daniel",
-          "jogos_num": 17,
-          "preco_num": 4.51,
-          "variacao_num": 0.16,
-          "foto": "https://s.glbimg.com/es/sde/f/2020/02/28/a0c1c9f69e5607f8a09bca2e4d7b6bc8_140x140.png",
-          "nome_posicao": "Meia",
-          "abreviacao_posicao": "mei"
-        }
-      ],
-      "clube_casa_id": 275,
-      "clube_casa": "Palmeiras",
-      "escudo_casa": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
-      "clube_casa_abreviacao": "PAL",
-      "clube_casa_posicao": 7,
-      "aproveitamento_mandante": [
-        "v",
-        "v",
-        "d",
-        "v",
-        "e"
-      ],
-      "clube_visitante_id": 265,
-      "clube_visitante": "Bahia",
-      "escudo_visitante": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/bahia_60x60.png",
-      "clube_visitante_abreviacao": "BAH",
-      "clube_visitante_posicao": 13,
-      "aproveitamento_visitante": [
-        "v",
-        "v",
-        "d",
-        "d",
-        "d"
-      ],
-      "partida_data": "2020-12-12T22:00:00.000Z",
-      "local": "Allianz Parque",
-      "valida": true,
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 0,
-      "url_confronto": null,
-      "url_transmissao": null
-    },
-    {
-      "partida_id": 243182,
-      "sumario_gols_casa": {
-        "gols_marcados_casa": 14,
-        "gols_marcados_fora": 7,
-        "gols_marcados_total": 21,
-        "gols_sofridos_fora": 14,
-        "gols_sofridos_casa": 17,
-        "gols_sofridos_total": 31
-      },
-      "sumario_gols_visitante": {
-        "gols_marcados_casa": 20,
-        "gols_marcados_fora": 10,
-        "gols_marcados_total": 30,
-        "gols_sofridos_fora": 9,
-        "gols_sofridos_casa": 10,
-        "gols_sofridos_total": 19
-      },
-      "destaques_defesa_casa": [
-        {
-          "media_num": 3.99,
-          "atleta_id": 82453,
-          "apelido": "Tadeu",
-          "jogos_num": 17,
-          "preco_num": 10.25,
-          "variacao_num": 0.67,
-          "foto": "https://s.glbimg.com/es/sde/f/2020/08/26/cf01a937d465c1d2b6417bf927da94c7_140x140.jpeg",
-          "nome_posicao": "Goleiro",
-          "abreviacao_posicao": "gol"
-        },
-        {
-          "media_num": 3.02,
-          "atleta_id": 71604,
-          "apelido": "Fábio Sanches",
-          "jogos_num": 15,
-          "preco_num": 6.48,
-          "variacao_num": -0.5,
-          "foto": "https://s.glbimg.com/es/sde/f/2020/08/26/5756a4bae1a6bb1e484099d7ea94222d_140x140.jpeg",
-          "nome_posicao": "Zagueiro",
-          "abreviacao_posicao": "zag"
-        },
-        {
-          "media_num": 3.25,
-          "atleta_id": 91772,
-          "apelido": "David Duarte",
-          "jogos_num": 13,
-          "preco_num": 4.87,
-          "variacao_num": -0.09,
-          "foto": "https://s.glbimg.com/es/sde/f/2020/10/28/bc1aa1e9e309d904fee8aa101a3494aa_140x140.png",
-          "nome_posicao": "Zagueiro",
-          "abreviacao_posicao": "zag"
-        },
-        {
-          "media_num": 3.05,
-          "atleta_id": 95220,
-          "apelido": "Jefferson",
-          "jogos_num": 11,
-          "preco_num": 6.67,
-          "variacao_num": 0.72,
-          "foto": "https://s.glbimg.com/es/sde/f/2020/08/26/1b4ff7917a54d469be132fbe58592256_140x140.jpeg",
-          "nome_posicao": "Lateral",
-          "abreviacao_posicao": "lat"
-        }
-      ],
-      "destaques_defesa_visitante": [
-        {
-          "media_num": 5.16,
-          "atleta_id": 95352,
-          "apelido": "Orejuela",
-          "jogos_num": 16,
-          "preco_num": 10.18,
-          "variacao_num": 0,
-          "foto": "https://s.glbimg.com/es/sde/f/2020/07/19/2277b33232bf3b6a9c2e569271b9f87d_140x140.png",
-          "nome_posicao": "Lateral",
-          "abreviacao_posicao": "lat"
-        },
-        {
-          "media_num": 3.96,
-          "atleta_id": 50317,
-          "apelido": "David Braz",
-          "jogos_num": 17,
-          "preco_num": 9.51,
-          "variacao_num": 0.93,
-          "foto": "https://s.glbimg.com/es/sde/f/2019/07/24/865c7c09e556e0fb58885e80a6591081_140x140.png",
-          "nome_posicao": "Zagueiro",
-          "abreviacao_posicao": "zag"
-        },
-        {
-          "media_num": 3.32,
-          "atleta_id": 70916,
-          "apelido": "Diogo Barbosa",
-          "jogos_num": 17,
-          "preco_num": 9.03,
-          "variacao_num": 0.61,
-          "foto": "https://s.glbimg.com/es/sde/f/2020/09/11/8c1bbc63952b2e050b6b5662f996e79d_140x140.png",
-          "nome_posicao": "Lateral",
-          "abreviacao_posicao": "lat"
-        },
-        {
-          "media_num": 2.89,
-          "atleta_id": 72079,
-          "apelido": "Bruno Cortez",
-          "jogos_num": 16,
-          "preco_num": 9.71,
-          "variacao_num": 0,
-          "foto": "https://s.glbimg.com/es/sde/f/2018/05/18/0ba3c7d69167c8dcfafe511fc043e800_140x140.png",
-          "nome_posicao": "Lateral",
-          "abreviacao_posicao": "lat"
-        }
-      ],
-      "goleiros_casa": {
-        "sum_sg": 5,
-        "sum_dd": 27,
-        "sum_dp": 1,
-        "sum_gs": 31
-      },
-      "goleiros_visitante": {
-        "sum_sg": 8,
-        "sum_dd": 18,
-        "sum_dp": 0,
-        "sum_gs": 19
-      },
-      "zagueiros_casa": {
-        "sum_rb": 0,
-        "sum_g": 1,
-        "sum_gc": 1,
-        "sum_fs": 20,
-        "sum_ca": 7,
-        "sum_fc": 28,
-        "sum_pe": 0,
-        "sum_ds": 57,
-        "sum_pi": 148
-      },
-      "zagueiros_visitante": {
-        "sum_rb": 0,
-        "sum_g": 2,
-        "sum_gc": 0,
-        "sum_fs": 25,
-        "sum_ca": 10,
-        "sum_fc": 59,
-        "sum_pe": 0,
-        "sum_ds": 105,
-        "sum_pi": 228
-      },
-      "laterais_casa": {
-        "sum_rb": 0,
-        "sum_ds": 57,
-        "sum_g": 1,
-        "sum_a": 0,
-        "sum_fs": 20,
-        "sum_pe": 0,
-        "sum_pi": 148,
-        "sum_ff": 8,
-        "sum_fd": 4,
-        "sum_fc": 28
-      },
-      "laterais_visitante": {
-        "sum_rb": 0,
-        "sum_ds": 105,
-        "sum_g": 2,
-        "sum_a": 0,
-        "sum_fs": 25,
-        "sum_pe": 0,
-        "sum_pi": 228,
-        "sum_ff": 14,
-        "sum_fd": 5,
-        "sum_fc": 59
-      },
-      "meias_casa": {
-        "sum_g": 4,
-        "sum_a": 2,
-        "sum_fs": 58,
-        "sum_ff": 19,
-        "sum_fc": 118,
-        "sum_rb": 0,
-        "sum_fd": 8,
-        "sum_ca": 15,
-        "sum_pe": 0,
-        "sum_ds": 137,
-        "sum_pi": 286
-      },
-      "meias_visitante": {
-        "sum_g": 6,
-        "sum_a": 9,
-        "sum_fs": 149,
-        "sum_ff": 59,
-        "sum_fc": 114,
-        "sum_rb": 0,
-        "sum_fd": 33,
-        "sum_ca": 16,
-        "sum_pe": 0,
-        "sum_ds": 150,
-        "sum_pi": 514
-      },
-      "atacantes_casa": {
-        "sum_g": 11,
-        "sum_a": 5,
-        "sum_fs": 117,
-        "sum_ff": 44,
-        "sum_pp": 0,
-        "sum_fc": 106,
-        "sum_i": 25,
-        "sum_fd": 25
-      },
-      "atacantes_visitante": {
-        "sum_g": 21,
-        "sum_a": 9,
-        "sum_fs": 100,
-        "sum_ff": 56,
-        "sum_pp": 1,
-        "sum_fc": 70,
-        "sum_i": 10,
-        "sum_fd": 33
-      },
-      "destaques_ataque_casa": [
-        {
-          "media_num": 4.53,
-          "atleta_id": 104660,
-          "apelido": "Vinícius",
-          "jogos_num": 14,
-          "preco_num": 5,
-          "variacao_num": 0,
-          "foto": "https://s.glbimg.com/es/sde/f/2020/09/24/f3ee6a9a8f1a2edeccd5d3f9d5cc70cd_140x140.png",
-          "nome_posicao": "Atacante",
-          "abreviacao_posicao": "ata"
-        },
-        {
-          "media_num": 2.65,
-          "atleta_id": 103591,
-          "apelido": "Daniel Bessa",
-          "jogos_num": 12,
-          "preco_num": 6.46,
-          "variacao_num": 0,
-          "foto": "https://s.glbimg.com/es/sde/f/2020/08/26/f8c7d3a76680619bf773e434179d4df4_140x140.jpeg",
-          "nome_posicao": "Meia",
-          "abreviacao_posicao": "mei"
-        },
-        {
-          "media_num": 3.16,
-          "atleta_id": 80536,
-          "apelido": "Victor Andrade",
-          "jogos_num": 9,
-          "preco_num": 5.41,
-          "variacao_num": 0,
-          "foto": "https://s.glbimg.com/es/sde/f/2020/08/26/440d20f8bef7ed2efd9ebbb9c1b88e74_140x140.jpeg",
-          "nome_posicao": "Atacante",
-          "abreviacao_posicao": "ata"
-        },
-        {
-          "media_num": 2.34,
-          "atleta_id": 88072,
-          "apelido": "Douglas Baggio",
-          "jogos_num": 12,
-          "preco_num": 4.42,
-          "variacao_num": 0,
-          "foto": "https://s.glbimg.com/es/sde/f/2020/08/18/1b11ac648b9f3aacd312e40873a191f0_140x140.png",
-          "nome_posicao": "Atacante",
-          "abreviacao_posicao": "ata"
-        }
-      ],
-      "destaques_ataque_visitante": [
-        {
-          "media_num": 7.3,
-          "atleta_id": 91201,
-          "apelido": "Pepê",
-          "jogos_num": 18,
-          "preco_num": 15.5,
-          "variacao_num": 1.12,
-          "foto": "https://s.glbimg.com/es/sde/f/2018/07/31/21dbd08feda4a4caf00ffc5fe75ec14b_140x140.png",
-          "nome_posicao": "Atacante",
-          "abreviacao_posicao": "ata"
-        },
-        {
-          "media_num": 5.76,
-          "atleta_id": 81845,
-          "apelido": "Alisson",
-          "jogos_num": 13,
-          "preco_num": 11.51,
-          "variacao_num": 0,
-          "foto": "https://s.glbimg.com/es/sde/f/2018/05/18/eeeced6e37969b2b8161eb83c56d069e_140x140.png",
-          "nome_posicao": "Meia",
-          "abreviacao_posicao": "mei"
-        },
-        {
-          "media_num": 3.89,
-          "atleta_id": 68911,
-          "apelido": "Diego Souza",
-          "jogos_num": 16,
-          "preco_num": 11.84,
-          "variacao_num": 2.18,
-          "foto": "https://s.glbimg.com/es/sde/f/2020/07/19/856625bb76f484b70bec52c9ff257c5a_140x140.png",
-          "nome_posicao": "Atacante",
-          "abreviacao_posicao": "ata"
-        },
-        {
-          "media_num": 2.48,
-          "atleta_id": 101483,
-          "apelido": "Isaque",
-          "jogos_num": 19,
-          "preco_num": 5.37,
-          "variacao_num": 0,
-          "foto": "https://s.glbimg.com/es/sde/f/2020/07/19/ab7cfc831a0762107f21b7bd866d6bf1_140x140.png",
-          "nome_posicao": "Atacante",
-          "abreviacao_posicao": "ata"
-        }
-      ],
-      "clube_casa_id": 290,
-      "clube_casa": "Goiás",
-      "escudo_casa": "https://s.glbimg.com/es/sde/f/organizacoes/2019/05/01/Goias_65px.png",
-      "clube_casa_abreviacao": "GOI",
-      "clube_casa_posicao": 20,
-      "aproveitamento_mandante": [
-        "v",
-        "e",
-        "d",
-        "d",
-        "v"
-      ],
-      "clube_visitante_id": 284,
-      "clube_visitante": "Grêmio",
-      "escudo_visitante": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/gremio_60x60.png",
-      "clube_visitante_abreviacao": "GRE",
-      "clube_visitante_posicao": 4,
-      "aproveitamento_visitante": [
-        "v",
-        "v",
-        "e",
-        "v",
-        "v"
-      ],
-      "partida_data": "2020-12-13T00:00:00.000Z",
-      "local": "Serrinha",
-      "valida": true,
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 0,
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 1,
       "url_confronto": null,
       "url_transmissao": null
     },
@@ -2003,28 +1665,366 @@
       "clube_casa": "Ceará",
       "escudo_casa": "https://s.glbimg.com/es/sde/f/organizacoes/2019/10/10/ceara-65x65.png",
       "clube_casa_abreviacao": "CEA",
-      "clube_casa_posicao": 9,
+      "clube_casa_posicao": 10,
       "aproveitamento_mandante": [
-        "d",
         "e",
         "e",
         "v",
-        "v"
+        "v",
+        "d"
       ],
       "clube_visitante_id": 373,
       "clube_visitante": "Atlético-GO",
       "escudo_visitante": "https://s.glbimg.com/es/sde/f/organizacoes/2020/07/02/atletico-go-2020-65.png",
       "clube_visitante_abreviacao": "ATL",
-      "clube_visitante_posicao": 15,
+      "clube_visitante_posicao": 12,
       "aproveitamento_visitante": [
-        "e",
         "e",
         "v",
         "e",
-        "d"
+        "d",
+        "v"
       ],
       "partida_data": "2020-12-13T00:00:00.000Z",
       "local": "Castelão (CE)",
+      "valida": true,
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 2,
+      "url_confronto": null,
+      "url_transmissao": null
+    },
+    {
+      "partida_id": 243182,
+      "sumario_gols_casa": {
+        "gols_marcados_casa": 14,
+        "gols_marcados_fora": 7,
+        "gols_marcados_total": 21,
+        "gols_sofridos_fora": 14,
+        "gols_sofridos_casa": 17,
+        "gols_sofridos_total": 31
+      },
+      "sumario_gols_visitante": {
+        "gols_marcados_casa": 20,
+        "gols_marcados_fora": 10,
+        "gols_marcados_total": 30,
+        "gols_sofridos_fora": 9,
+        "gols_sofridos_casa": 10,
+        "gols_sofridos_total": 19
+      },
+      "destaques_defesa_casa": [
+        {
+          "media_num": 3.99,
+          "atleta_id": 82453,
+          "apelido": "Tadeu",
+          "jogos_num": 17,
+          "preco_num": 10.25,
+          "variacao_num": 0.67,
+          "foto": "https://s.glbimg.com/es/sde/f/2020/08/26/cf01a937d465c1d2b6417bf927da94c7_140x140.jpeg",
+          "nome_posicao": "Goleiro",
+          "abreviacao_posicao": "gol"
+        },
+        {
+          "media_num": 3.02,
+          "atleta_id": 71604,
+          "apelido": "Fábio Sanches",
+          "jogos_num": 15,
+          "preco_num": 6.48,
+          "variacao_num": -0.5,
+          "foto": "https://s.glbimg.com/es/sde/f/2020/08/26/5756a4bae1a6bb1e484099d7ea94222d_140x140.jpeg",
+          "nome_posicao": "Zagueiro",
+          "abreviacao_posicao": "zag"
+        },
+        {
+          "media_num": 3.25,
+          "atleta_id": 91772,
+          "apelido": "David Duarte",
+          "jogos_num": 13,
+          "preco_num": 4.87,
+          "variacao_num": -0.09,
+          "foto": "https://s.glbimg.com/es/sde/f/2020/10/28/bc1aa1e9e309d904fee8aa101a3494aa_140x140.png",
+          "nome_posicao": "Zagueiro",
+          "abreviacao_posicao": "zag"
+        },
+        {
+          "media_num": 3.05,
+          "atleta_id": 95220,
+          "apelido": "Jefferson",
+          "jogos_num": 11,
+          "preco_num": 6.67,
+          "variacao_num": 0.72,
+          "foto": "https://s.glbimg.com/es/sde/f/2020/08/26/1b4ff7917a54d469be132fbe58592256_140x140.jpeg",
+          "nome_posicao": "Lateral",
+          "abreviacao_posicao": "lat"
+        }
+      ],
+      "destaques_defesa_visitante": [
+        {
+          "media_num": 5.16,
+          "atleta_id": 95352,
+          "apelido": "Orejuela",
+          "jogos_num": 16,
+          "preco_num": 10.18,
+          "variacao_num": 0,
+          "foto": "https://s.glbimg.com/es/sde/f/2020/07/19/2277b33232bf3b6a9c2e569271b9f87d_140x140.png",
+          "nome_posicao": "Lateral",
+          "abreviacao_posicao": "lat"
+        },
+        {
+          "media_num": 3.96,
+          "atleta_id": 50317,
+          "apelido": "David Braz",
+          "jogos_num": 17,
+          "preco_num": 9.51,
+          "variacao_num": 0.93,
+          "foto": "https://s.glbimg.com/es/sde/f/2019/07/24/865c7c09e556e0fb58885e80a6591081_140x140.png",
+          "nome_posicao": "Zagueiro",
+          "abreviacao_posicao": "zag"
+        },
+        {
+          "media_num": 3.32,
+          "atleta_id": 70916,
+          "apelido": "Diogo Barbosa",
+          "jogos_num": 17,
+          "preco_num": 9.03,
+          "variacao_num": 0.61,
+          "foto": "https://s.glbimg.com/es/sde/f/2020/09/11/8c1bbc63952b2e050b6b5662f996e79d_140x140.png",
+          "nome_posicao": "Lateral",
+          "abreviacao_posicao": "lat"
+        },
+        {
+          "media_num": 2.89,
+          "atleta_id": 72079,
+          "apelido": "Bruno Cortez",
+          "jogos_num": 16,
+          "preco_num": 9.71,
+          "variacao_num": 0,
+          "foto": "https://s.glbimg.com/es/sde/f/2018/05/18/0ba3c7d69167c8dcfafe511fc043e800_140x140.png",
+          "nome_posicao": "Lateral",
+          "abreviacao_posicao": "lat"
+        }
+      ],
+      "goleiros_casa": {
+        "sum_sg": 5,
+        "sum_dd": 27,
+        "sum_dp": 1,
+        "sum_gs": 31
+      },
+      "goleiros_visitante": {
+        "sum_sg": 8,
+        "sum_dd": 18,
+        "sum_dp": 0,
+        "sum_gs": 19
+      },
+      "zagueiros_casa": {
+        "sum_rb": 0,
+        "sum_g": 1,
+        "sum_gc": 1,
+        "sum_fs": 20,
+        "sum_ca": 7,
+        "sum_fc": 28,
+        "sum_pe": 0,
+        "sum_ds": 57,
+        "sum_pi": 148
+      },
+      "zagueiros_visitante": {
+        "sum_rb": 0,
+        "sum_g": 2,
+        "sum_gc": 0,
+        "sum_fs": 25,
+        "sum_ca": 10,
+        "sum_fc": 59,
+        "sum_pe": 0,
+        "sum_ds": 105,
+        "sum_pi": 228
+      },
+      "laterais_casa": {
+        "sum_rb": 0,
+        "sum_ds": 57,
+        "sum_g": 1,
+        "sum_a": 0,
+        "sum_fs": 20,
+        "sum_pe": 0,
+        "sum_pi": 148,
+        "sum_ff": 8,
+        "sum_fd": 4,
+        "sum_fc": 28
+      },
+      "laterais_visitante": {
+        "sum_rb": 0,
+        "sum_ds": 105,
+        "sum_g": 2,
+        "sum_a": 0,
+        "sum_fs": 25,
+        "sum_pe": 0,
+        "sum_pi": 228,
+        "sum_ff": 14,
+        "sum_fd": 5,
+        "sum_fc": 59
+      },
+      "meias_casa": {
+        "sum_g": 4,
+        "sum_a": 2,
+        "sum_fs": 58,
+        "sum_ff": 19,
+        "sum_fc": 118,
+        "sum_rb": 0,
+        "sum_fd": 8,
+        "sum_ca": 15,
+        "sum_pe": 0,
+        "sum_ds": 137,
+        "sum_pi": 286
+      },
+      "meias_visitante": {
+        "sum_g": 6,
+        "sum_a": 9,
+        "sum_fs": 149,
+        "sum_ff": 59,
+        "sum_fc": 114,
+        "sum_rb": 0,
+        "sum_fd": 33,
+        "sum_ca": 16,
+        "sum_pe": 0,
+        "sum_ds": 150,
+        "sum_pi": 514
+      },
+      "atacantes_casa": {
+        "sum_g": 11,
+        "sum_a": 5,
+        "sum_fs": 117,
+        "sum_ff": 44,
+        "sum_pp": 0,
+        "sum_fc": 106,
+        "sum_i": 25,
+        "sum_fd": 25
+      },
+      "atacantes_visitante": {
+        "sum_g": 21,
+        "sum_a": 9,
+        "sum_fs": 100,
+        "sum_ff": 56,
+        "sum_pp": 1,
+        "sum_fc": 70,
+        "sum_i": 10,
+        "sum_fd": 33
+      },
+      "destaques_ataque_casa": [
+        {
+          "media_num": 4.53,
+          "atleta_id": 104660,
+          "apelido": "Vinícius",
+          "jogos_num": 14,
+          "preco_num": 5,
+          "variacao_num": 0,
+          "foto": "https://s.glbimg.com/es/sde/f/2020/09/24/f3ee6a9a8f1a2edeccd5d3f9d5cc70cd_140x140.png",
+          "nome_posicao": "Atacante",
+          "abreviacao_posicao": "ata"
+        },
+        {
+          "media_num": 2.65,
+          "atleta_id": 103591,
+          "apelido": "Daniel Bessa",
+          "jogos_num": 12,
+          "preco_num": 6.46,
+          "variacao_num": 0,
+          "foto": "https://s.glbimg.com/es/sde/f/2020/08/26/f8c7d3a76680619bf773e434179d4df4_140x140.jpeg",
+          "nome_posicao": "Meia",
+          "abreviacao_posicao": "mei"
+        },
+        {
+          "media_num": 3.16,
+          "atleta_id": 80536,
+          "apelido": "Victor Andrade",
+          "jogos_num": 9,
+          "preco_num": 5.41,
+          "variacao_num": 0,
+          "foto": "https://s.glbimg.com/es/sde/f/2020/08/26/440d20f8bef7ed2efd9ebbb9c1b88e74_140x140.jpeg",
+          "nome_posicao": "Atacante",
+          "abreviacao_posicao": "ata"
+        },
+        {
+          "media_num": 2.34,
+          "atleta_id": 88072,
+          "apelido": "Douglas Baggio",
+          "jogos_num": 12,
+          "preco_num": 4.42,
+          "variacao_num": 0,
+          "foto": "https://s.glbimg.com/es/sde/f/2020/08/18/1b11ac648b9f3aacd312e40873a191f0_140x140.png",
+          "nome_posicao": "Atacante",
+          "abreviacao_posicao": "ata"
+        }
+      ],
+      "destaques_ataque_visitante": [
+        {
+          "media_num": 7.3,
+          "atleta_id": 91201,
+          "apelido": "Pepê",
+          "jogos_num": 18,
+          "preco_num": 15.5,
+          "variacao_num": 1.12,
+          "foto": "https://s.glbimg.com/es/sde/f/2018/07/31/21dbd08feda4a4caf00ffc5fe75ec14b_140x140.png",
+          "nome_posicao": "Atacante",
+          "abreviacao_posicao": "ata"
+        },
+        {
+          "media_num": 5.76,
+          "atleta_id": 81845,
+          "apelido": "Alisson",
+          "jogos_num": 13,
+          "preco_num": 11.51,
+          "variacao_num": 0,
+          "foto": "https://s.glbimg.com/es/sde/f/2018/05/18/eeeced6e37969b2b8161eb83c56d069e_140x140.png",
+          "nome_posicao": "Meia",
+          "abreviacao_posicao": "mei"
+        },
+        {
+          "media_num": 3.89,
+          "atleta_id": 68911,
+          "apelido": "Diego Souza",
+          "jogos_num": 16,
+          "preco_num": 11.84,
+          "variacao_num": 2.18,
+          "foto": "https://s.glbimg.com/es/sde/f/2020/07/19/856625bb76f484b70bec52c9ff257c5a_140x140.png",
+          "nome_posicao": "Atacante",
+          "abreviacao_posicao": "ata"
+        },
+        {
+          "media_num": 2.48,
+          "atleta_id": 101483,
+          "apelido": "Isaque",
+          "jogos_num": 19,
+          "preco_num": 5.37,
+          "variacao_num": 0,
+          "foto": "https://s.glbimg.com/es/sde/f/2020/07/19/ab7cfc831a0762107f21b7bd866d6bf1_140x140.png",
+          "nome_posicao": "Atacante",
+          "abreviacao_posicao": "ata"
+        }
+      ],
+      "clube_casa_id": 290,
+      "clube_casa": "Goiás",
+      "escudo_casa": "https://s.glbimg.com/es/sde/f/organizacoes/2019/05/01/Goias_65px.png",
+      "clube_casa_abreviacao": "GOI",
+      "clube_casa_posicao": 19,
+      "aproveitamento_mandante": [
+        "e",
+        "d",
+        "d",
+        "v",
+        "e"
+      ],
+      "clube_visitante_id": 284,
+      "clube_visitante": "Grêmio",
+      "escudo_visitante": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/gremio_60x60.png",
+      "clube_visitante_abreviacao": "GRE",
+      "clube_visitante_posicao": 6,
+      "aproveitamento_visitante": [
+        "v",
+        "e",
+        "v",
+        "v",
+        "e"
+      ],
+      "partida_data": "2020-12-13T00:00:00.000Z",
+      "local": "Serrinha",
       "valida": true,
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 0,
@@ -2344,8 +2344,8 @@
       "clube_casa_posicao": 3,
       "aproveitamento_mandante": [
         "d",
-        "d",
         "e",
+        "v",
         "v",
         "v"
       ],
@@ -2355,17 +2355,17 @@
       "clube_visitante_abreviacao": "SAN",
       "clube_visitante_posicao": 8,
       "aproveitamento_visitante": [
-        "e",
         "v",
         "d",
         "v",
-        "e"
+        "e",
+        "d"
       ],
       "partida_data": "2020-12-13T19:00:00.000Z",
       "local": "Maracanã",
       "valida": true,
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 0,
+      "placar_oficial_mandante": 4,
+      "placar_oficial_visitante": 1,
       "url_confronto": null,
       "url_transmissao": null
     },
@@ -2679,13 +2679,13 @@
       "clube_casa": "Sport",
       "escudo_casa": "https://s.glbimg.com/es/sde/f/organizacoes/2015/07/21/sport65.png",
       "clube_casa_abreviacao": "SPO",
-      "clube_casa_posicao": 16,
+      "clube_casa_posicao": 15,
       "aproveitamento_mandante": [
-        "e",
         "d",
         "d",
         "d",
-        "d"
+        "d",
+        "v"
       ],
       "clube_visitante_id": 294,
       "clube_visitante": "Coritiba",
@@ -2693,16 +2693,16 @@
       "clube_visitante_abreviacao": "COR",
       "clube_visitante_posicao": 18,
       "aproveitamento_visitante": [
+        "d",
+        "d",
+        "d",
         "e",
-        "d",
-        "d",
-        "d",
-        "e"
+        "d"
       ],
       "partida_data": "2020-12-13T21:15:00.000Z",
       "local": "Ilha do Retiro",
       "valida": true,
-      "placar_oficial_mandante": 0,
+      "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 0,
       "url_confronto": null,
       "url_transmissao": null
@@ -3017,13 +3017,13 @@
       "clube_casa": "Corinthians",
       "escudo_casa": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/30/Corinthians_65.png",
       "clube_casa_abreviacao": "COR",
-      "clube_casa_posicao": 11,
+      "clube_casa_posicao": 9,
       "aproveitamento_mandante": [
-        "e",
         "d",
         "e",
         "v",
-        "e"
+        "e",
+        "v"
       ],
       "clube_visitante_id": 276,
       "clube_visitante": "São Paulo",
@@ -3031,16 +3031,16 @@
       "clube_visitante_abreviacao": "SAO",
       "clube_visitante_posicao": 1,
       "aproveitamento_visitante": [
-        "e",
-        "e",
         "v",
         "v",
-        "v"
+        "v",
+        "v",
+        "d"
       ],
       "partida_data": "2020-12-13T21:15:00.000Z",
       "local": "Neo Química Arena",
       "valida": true,
-      "placar_oficial_mandante": 0,
+      "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 0,
       "url_confronto": null,
       "url_transmissao": null
@@ -3357,29 +3357,29 @@
       "clube_casa_abreviacao": "VAS",
       "clube_casa_posicao": 17,
       "aproveitamento_mandante": [
-        "v",
         "e",
         "e",
         "d",
-        "d"
+        "d",
+        "e"
       ],
       "clube_visitante_id": 266,
       "clube_visitante": "Fluminense",
       "escudo_visitante": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/fluminense_60x60.png",
       "clube_visitante_abreviacao": "FLU",
-      "clube_visitante_posicao": 5,
+      "clube_visitante_posicao": 7,
       "aproveitamento_visitante": [
-        "d",
         "d",
         "v",
         "e",
-        "v"
+        "v",
+        "e"
       ],
       "partida_data": "2020-12-13T23:30:00.000Z",
       "local": "São Januário",
       "valida": true,
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 0,
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 1,
       "url_confronto": null,
       "url_transmissao": null
     }

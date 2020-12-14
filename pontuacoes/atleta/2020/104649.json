@@ -6,7 +6,6 @@
   "clube_id": 285,
   "posicao": "Lateral",
   "rodadas": [
-    14,
     15,
     16,
     17,
@@ -16,10 +15,10 @@
     21,
     22,
     23,
-    24
+    24,
+    25
   ],
   "pontos": [
-    13.1,
     10.3,
     0,
     0,
@@ -29,10 +28,10 @@
     0,
     0,
     7.9,
-    0
+    0,
+    0.8
   ],
   "precos": [
-    5.9,
     5.9,
     5.9,
     5.9,
@@ -42,10 +41,10 @@
     4.25,
     4.25,
     5.65,
-    5.65
+    5.65,
+    4.7
   ],
   "variacoes": [
-    2.1,
     0,
     0,
     0,
@@ -55,10 +54,10 @@
     0,
     0,
     1.4,
-    0
+    0,
+    -0.95
   ],
   "medias": [
-    5.67,
     6.83,
     6.83,
     6.83,
@@ -68,22 +67,10 @@
     4.53,
     4.53,
     4.95,
-    4.95
+    4.95,
+    4.49
   ],
   "partidas": [
-    {
-      "rodada_id": 14,
-      "clube_casa": "Bragantino",
-      "clube_casa_id": 280,
-      "clube_visitante": "Internacional",
-      "clube_casa_abrev": "BRA",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2020/01/01/65.png",
-      "clube_visitante_id": 285,
-      "clube_visitante_abrev": "INT",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/03/inter65.png",
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 2
-    },
     {
       "rodada_id": 15,
       "clube_casa": "Internacional",
@@ -213,17 +200,30 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/03/inter65.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 25,
+      "clube_casa": "Internacional",
+      "clube_casa_id": 285,
+      "clube_visitante": "Botafogo",
+      "clube_casa_abrev": "INT",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/03/inter65.png",
+      "clube_visitante_id": 263,
+      "clube_visitante_abrev": "BOT",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/04/botafogo-65.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2020/02/27/46ea70366228afe849358bbedd6c18e1_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/03/inter65.png",
   "scouts": {
-    "rodada_id": 24,
+    "rodada_id": 25,
     "rb": 0,
     "g": 0,
     "a": 4,
     "sg": 2,
-    "fs": 11,
+    "fs": 12,
     "ff": 1,
     "fd": 2,
     "ft": 0,
@@ -237,13 +237,13 @@
     "fc": 11,
     "i": 0,
     "pe": 0,
-    "ds": 23,
-    "pi": 56,
-    "pontos_num": 0,
-    "preco_num": 5.65,
-    "variacao_num": 0,
-    "media_num": 4.95,
-    "jogos_num": 8,
+    "ds": 24,
+    "pi": 63,
+    "pontos_num": 0.8,
+    "preco_num": 4.7,
+    "variacao_num": -0.95,
+    "media_num": 4.49,
+    "jogos_num": 9,
     "posicao_abrev": "lat",
     "posicao": "Lateral"
   }

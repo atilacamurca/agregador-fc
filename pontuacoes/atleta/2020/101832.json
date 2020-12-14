@@ -6,7 +6,6 @@
   "clube_id": 294,
   "posicao": "Meia",
   "rodadas": [
-    14,
     15,
     16,
     17,
@@ -16,10 +15,10 @@
     21,
     22,
     23,
-    24
+    24,
+    25
   ],
   "pontos": [
-    0,
     0,
     1.8,
     -0.1,
@@ -29,10 +28,10 @@
     0,
     1,
     0,
-    0
+    0,
+    0.2
   ],
   "precos": [
-    2.41,
     2.41,
     2.42,
     2.12,
@@ -42,10 +41,10 @@
     2.29,
     2.32,
     2.32,
-    2.32
+    2.32,
+    2.17
   ],
   "variacoes": [
-    0,
     0,
     0.01,
     -0.3,
@@ -55,10 +54,10 @@
     0,
     0.03,
     0,
-    0
+    0,
+    -0.15
   ],
   "medias": [
-    1.4,
     1.4,
     1.43,
     1.32,
@@ -68,22 +67,10 @@
     1.32,
     1.3,
     1.3,
-    1.3
+    1.3,
+    1.24
   ],
   "partidas": [
-    {
-      "rodada_id": 14,
-      "clube_casa": "Grêmio",
-      "clube_casa_id": 284,
-      "clube_visitante": "Coritiba",
-      "clube_casa_abrev": "GRE",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/gremio_60x60.png",
-      "clube_visitante_id": 294,
-      "clube_visitante_abrev": "COR",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2017/03/29/coritiba65.png",
-      "placar_oficial_mandante": 2,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 15,
       "clube_casa": "Coritiba",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2020/01/01/65.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 25,
+      "clube_casa": "Sport",
+      "clube_casa_id": 292,
+      "clube_visitante": "Coritiba",
+      "clube_casa_abrev": "SPO",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2015/07/21/sport65.png",
+      "clube_visitante_id": 294,
+      "clube_visitante_abrev": "COR",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2017/03/29/coritiba65.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2020/03/03/a159f5ccd62c81f4ada32db91977a6be_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2017/03/29/coritiba65.png",
   "scouts": {
-    "rodada_id": 24,
+    "rodada_id": 25,
     "rb": 0,
     "g": 0,
     "a": 0,
@@ -234,16 +234,16 @@
     "ca": 1,
     "pp": 0,
     "gs": 0,
-    "fc": 14,
+    "fc": 15,
     "i": 0,
     "pe": 0,
-    "ds": 22,
-    "pi": 49,
-    "pontos_num": 0,
-    "preco_num": 2.32,
-    "variacao_num": 0,
-    "media_num": 1.3,
-    "jogos_num": 17,
+    "ds": 23,
+    "pi": 52,
+    "pontos_num": 0.2,
+    "preco_num": 2.17,
+    "variacao_num": -0.15,
+    "media_num": 1.24,
+    "jogos_num": 18,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }

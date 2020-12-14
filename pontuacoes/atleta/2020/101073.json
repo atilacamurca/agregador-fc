@@ -15,7 +15,8 @@
     21,
     22,
     23,
-    24
+    24,
+    25
   ],
   "pontos": [
     0,
@@ -27,7 +28,8 @@
     0,
     0,
     0,
-    0
+    0,
+    -0.2
   ],
   "precos": [
     1,
@@ -39,7 +41,8 @@
     1,
     1,
     1,
-    1
+    1,
+    0.78
   ],
   "variacoes": [
     0,
@@ -51,7 +54,8 @@
     0,
     0,
     0,
-    0
+    0,
+    -0.22
   ],
   "medias": [
     0,
@@ -63,7 +67,8 @@
     0,
     0,
     0,
-    0
+    0,
+    -0.2
   ],
   "partidas": [
     {
@@ -195,18 +200,31 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/04/09/Flamengo-65.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 25,
+      "clube_casa": "Internacional",
+      "clube_casa_id": 285,
+      "clube_visitante": "Botafogo",
+      "clube_casa_abrev": "INT",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/03/inter65.png",
+      "clube_visitante_id": 263,
+      "clube_visitante_abrev": "BOT",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/04/botafogo-65.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2019/03/22/4f209e6f74df9776da75f4a35ed2b28f_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/04/botafogo-65.png",
   "scouts": {
-    "rodada_id": 24,
+    "rodada_id": 25,
     "rb": 0,
     "g": 0,
     "a": 0,
     "sg": 0,
-    "fs": 0,
-    "ff": 0,
+    "fs": 1,
+    "ff": 1,
     "fd": 0,
     "ft": 0,
     "dd": 0,
@@ -216,16 +234,16 @@
     "ca": 0,
     "pp": 0,
     "gs": 0,
-    "fc": 0,
+    "fc": 2,
     "i": 0,
     "pe": 0,
     "ds": 0,
-    "pi": 0,
-    "pontos_num": 0,
-    "preco_num": 1,
-    "variacao_num": 0,
-    "media_num": 0,
-    "jogos_num": 0,
+    "pi": 5,
+    "pontos_num": -0.2,
+    "preco_num": 0.78,
+    "variacao_num": -0.22,
+    "media_num": -0.2,
+    "jogos_num": 1,
     "posicao_abrev": "zag",
     "posicao": "Zagueiro"
   }

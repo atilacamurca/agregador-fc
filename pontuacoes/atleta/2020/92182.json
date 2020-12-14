@@ -6,7 +6,6 @@
   "clube_id": 265,
   "posicao": "Zagueiro",
   "rodadas": [
-    14,
     15,
     16,
     17,
@@ -16,10 +15,10 @@
     21,
     22,
     23,
-    24
+    24,
+    25
   ],
   "pontos": [
-    6.7,
     2.3,
     0,
     2.6,
@@ -29,10 +28,10 @@
     0.4,
     0,
     1.1,
-    2.5
+    2.5,
+    -0.5
   ],
   "precos": [
-    9.2,
     8.47,
     8.47,
     8.46,
@@ -42,10 +41,10 @@
     7.71,
     7.71,
     7.55,
-    7.97
+    7.97,
+    7.43
   ],
   "variacoes": [
-    0.91,
     -0.73,
     0,
     -0.01,
@@ -55,10 +54,10 @@
     0.16,
     0,
     -0.16,
-    0.42
+    0.42,
+    -0.54
   ],
   "medias": [
-    2.82,
     2.78,
     2.78,
     2.77,
@@ -68,22 +67,10 @@
     2.28,
     2.28,
     2.21,
-    2.23
+    2.23,
+    2.08
   ],
   "partidas": [
-    {
-      "rodada_id": 14,
-      "clube_casa": "Bahia",
-      "clube_casa_id": 265,
-      "clube_visitante": "Vasco",
-      "clube_casa_abrev": "BAH",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/bahia_60x60.png",
-      "clube_visitante_id": 267,
-      "clube_visitante_abrev": "VAS",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/07/29/Vasco-65.png",
-      "placar_oficial_mandante": 3,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 15,
       "clube_casa": "Fluminense",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/10/10/ceara-65x65.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 25,
+      "clube_casa": "Palmeiras",
+      "clube_casa_id": 275,
+      "clube_visitante": "Bahia",
+      "clube_casa_abrev": "PAL",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
+      "clube_visitante_id": 265,
+      "clube_visitante_abrev": "BAH",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/bahia_60x60.png",
+      "placar_oficial_mandante": 3,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2020/07/20/68fe04ad87ce709e167f9819592fe87f_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/bahia_60x60.png",
   "scouts": {
-    "rodada_id": 24,
+    "rodada_id": 25,
     "rb": 0,
     "g": 1,
     "a": 0,
@@ -238,12 +238,12 @@
     "i": 1,
     "pe": 0,
     "ds": 27,
-    "pi": 65,
-    "pontos_num": 2.5,
-    "preco_num": 7.97,
-    "variacao_num": 0.42,
-    "media_num": 2.23,
-    "jogos_num": 17,
+    "pi": 70,
+    "pontos_num": -0.5,
+    "preco_num": 7.43,
+    "variacao_num": -0.54,
+    "media_num": 2.08,
+    "jogos_num": 18,
     "posicao_abrev": "zag",
     "posicao": "Zagueiro"
   }
