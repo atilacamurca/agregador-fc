@@ -6,7 +6,6 @@
   "clube_id": 262,
   "posicao": "Goleiro",
   "rodadas": [
-    15,
     16,
     17,
     18,
@@ -16,10 +15,10 @@
     22,
     23,
     24,
-    25
+    25,
+    26
   ],
   "pontos": [
-    0,
     0,
     0,
     0,
@@ -29,10 +28,10 @@
     -2.9,
     0,
     4.8,
-    -2.2
+    -2.2,
+    5.9
   ],
   "precos": [
-    10.72,
     10.72,
     10.72,
     10.72,
@@ -42,10 +41,10 @@
     7.92,
     7.92,
     9.09,
-    7.88
+    7.88,
+    9.26
   ],
   "variacoes": [
-    0,
     0,
     0,
     0,
@@ -55,10 +54,10 @@
     -2.8,
     0,
     1.17,
-    -1.21
+    -1.21,
+    1.38
   ],
   "medias": [
-    2.22,
     2.22,
     2.22,
     2.22,
@@ -68,22 +67,10 @@
     1.37,
     1.37,
     1.86,
-    1.35
+    1.35,
+    1.86
   ],
   "partidas": [
-    {
-      "rodada_id": 15,
-      "clube_casa": "Vasco",
-      "clube_casa_id": 267,
-      "clube_visitante": "Flamengo",
-      "clube_casa_abrev": "VAS",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/07/29/Vasco-65.png",
-      "clube_visitante_id": 262,
-      "clube_visitante_abrev": "FLA",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/04/09/Flamengo-65.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 2
-    },
     {
       "rodada_id": 16,
       "clube_casa": "Flamengo",
@@ -213,37 +200,50 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/santos_60x60.png",
       "placar_oficial_mandante": 4,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 26,
+      "clube_casa": "Flamengo",
+      "clube_casa_id": 262,
+      "clube_visitante": "Bahia",
+      "clube_casa_abrev": "FLA",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/04/09/Flamengo-65.png",
+      "clube_visitante_id": 265,
+      "clube_visitante_abrev": "BAH",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/bahia_60x60.png",
+      "placar_oficial_mandante": 4,
+      "placar_oficial_visitante": 3
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2020/07/21/b85acd7e2d0f1ab91194e144715ce869_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2018/04/09/Flamengo-65.png",
   "scouts": {
-    "rodada_id": 25,
+    "rodada_id": 26,
     "rb": 0,
     "g": 0,
     "a": 0,
     "sg": 2,
-    "fs": 2,
+    "fs": 3,
     "ff": 0,
     "fd": 0,
     "ft": 0,
-    "dd": 6,
+    "dd": 9,
     "dp": 0,
     "gc": 0,
     "cv": 1,
     "ca": 0,
     "pp": 0,
-    "gs": 8,
+    "gs": 11,
     "fc": 0,
     "i": 0,
     "pe": 0,
     "ds": 0,
-    "pi": 32,
-    "pontos_num": -2.2,
-    "preco_num": 7.88,
-    "variacao_num": -1.21,
-    "media_num": 1.35,
-    "jogos_num": 8,
+    "pi": 38,
+    "pontos_num": 5.9,
+    "preco_num": 9.26,
+    "variacao_num": 1.38,
+    "media_num": 1.86,
+    "jogos_num": 9,
     "posicao_abrev": "gol",
     "posicao": "Goleiro"
   }

@@ -6,7 +6,6 @@
   "clube_id": 294,
   "posicao": "Meia",
   "rodadas": [
-    15,
     16,
     17,
     18,
@@ -16,10 +15,10 @@
     22,
     23,
     24,
-    25
+    25,
+    26
   ],
   "pontos": [
-    5.3,
     19.2,
     15.4,
     2.9,
@@ -29,10 +28,10 @@
     7.4,
     0,
     0,
+    1,
     1
   ],
   "precos": [
-    6.15,
     9.01,
     9.1,
     7.22,
@@ -42,10 +41,10 @@
     9,
     9,
     9,
-    7.95
+    7.95,
+    7.96
   ],
   "variacoes": [
-    -0.57,
     2.86,
     0.09,
     -1.88,
@@ -55,10 +54,10 @@
     0.64,
     0,
     0,
-    -1.05
+    -1.05,
+    0.01
   ],
   "medias": [
-    3.02,
     4.64,
     5.62,
     5.39,
@@ -68,22 +67,10 @@
     6.27,
     6.27,
     6.27,
-    5.96
+    5.96,
+    5.68
   ],
   "partidas": [
-    {
-      "rodada_id": 15,
-      "clube_casa": "Coritiba",
-      "clube_casa_id": 294,
-      "clube_visitante": "Fortaleza",
-      "clube_casa_abrev": "COR",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2017/03/29/coritiba65.png",
-      "clube_visitante_id": 356,
-      "clube_visitante_abrev": "FOR",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/06/10/fortaleza-ec-65px.png",
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 16,
       "clube_casa": "Palmeiras",
@@ -213,18 +200,31 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2017/03/29/coritiba65.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 26,
+      "clube_casa": "Coritiba",
+      "clube_casa_id": 294,
+      "clube_visitante": "Botafogo",
+      "clube_casa_abrev": "COR",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2017/03/29/coritiba65.png",
+      "clube_visitante_id": 263,
+      "clube_visitante_abrev": "BOT",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/04/botafogo-65.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2020/03/02/d39e2efa4d8440e5313bc3b78a139e22_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2017/03/29/coritiba65.png",
   "scouts": {
-    "rodada_id": 25,
+    "rodada_id": 26,
     "rb": 0,
     "g": 4,
     "a": 5,
     "sg": 0,
     "fs": 41,
-    "ff": 5,
+    "ff": 7,
     "fd": 4,
     "ft": 1,
     "dd": 0,
@@ -238,12 +238,12 @@
     "i": 1,
     "pe": 0,
     "ds": 31,
-    "pi": 110,
+    "pi": 116,
     "pontos_num": 1,
-    "preco_num": 7.95,
-    "variacao_num": -1.05,
-    "media_num": 5.96,
-    "jogos_num": 17,
+    "preco_num": 7.96,
+    "variacao_num": 0.01,
+    "media_num": 5.68,
+    "jogos_num": 18,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }

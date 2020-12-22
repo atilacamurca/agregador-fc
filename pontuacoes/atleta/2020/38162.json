@@ -6,7 +6,6 @@
   "clube_id": 266,
   "posicao": "Atacante",
   "rodadas": [
-    15,
     16,
     17,
     18,
@@ -16,10 +15,10 @@
     22,
     23,
     24,
-    25
+    25,
+    26
   ],
   "pontos": [
-    0.1,
     0,
     4.8,
     4.2,
@@ -29,10 +28,10 @@
     0,
     0,
     0,
-    -0.2
+    -0.2,
+    0
   ],
   "precos": [
-    3.15,
     3.15,
     3.99,
     4,
@@ -42,10 +41,10 @@
     3.4,
     3.4,
     3.4,
+    3.2,
     3.2
   ],
   "variacoes": [
-    -1.19,
     0,
     0.84,
     0.01,
@@ -55,10 +54,10 @@
     0,
     0,
     0,
-    -0.2
+    -0.2,
+    0
   ],
   "medias": [
-    1.79,
     1.79,
     2.09,
     2.28,
@@ -68,22 +67,10 @@
     2.1,
     2.1,
     2.1,
+    1.92,
     1.92
   ],
   "partidas": [
-    {
-      "rodada_id": 15,
-      "clube_casa": "Fluminense",
-      "clube_casa_id": 266,
-      "clube_visitante": "Bahia",
-      "clube_casa_abrev": "FLU",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/fluminense_60x60.png",
-      "clube_visitante_id": 265,
-      "clube_visitante_abrev": "BAH",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/bahia_60x60.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 16,
       "clube_casa": "Atlético-MG",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/fluminense_60x60.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 26,
+      "clube_casa": "Atlético-GO",
+      "clube_casa_id": 373,
+      "clube_visitante": "Fluminense",
+      "clube_casa_abrev": "ATL",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2020/07/02/atletico-go-2020-65.png",
+      "clube_visitante_id": 266,
+      "clube_visitante_abrev": "FLU",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/fluminense_60x60.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2020/08/11/1546fc5edcfb41d2e8f79f6eca1f6899_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/fluminense_60x60.png",
   "scouts": {
-    "rodada_id": 25,
+    "rodada_id": 26,
     "rb": 0,
     "g": 2,
     "a": 2,
@@ -239,9 +239,9 @@
     "pe": 0,
     "ds": 1,
     "pi": 44,
-    "pontos_num": -0.2,
+    "pontos_num": 0,
     "preco_num": 3.2,
-    "variacao_num": -0.2,
+    "variacao_num": 0,
     "media_num": 1.92,
     "jogos_num": 13,
     "posicao_abrev": "ata",

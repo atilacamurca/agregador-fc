@@ -10,35 +10,40 @@
     22,
     23,
     24,
-    25
+    25,
+    26
   ],
   "pontos": [
     6,
     1.3,
     0,
     0,
-    0.7
+    0.7,
+    2.3
   ],
   "precos": [
     5.15,
     4.92,
     4.92,
     4.92,
-    4.54
+    4.54,
+    4.9
   ],
   "variacoes": [
     2.15,
     -0.23,
     0,
     0,
-    -0.38
+    -0.38,
+    0.36
   ],
   "medias": [
     6,
     3.65,
     3.65,
     3.65,
-    2.67
+    2.67,
+    2.58
   ],
   "partidas": [
     {
@@ -105,16 +110,29 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/fluminense_60x60.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 26,
+      "clube_casa": "Vasco",
+      "clube_casa_id": 267,
+      "clube_visitante": "Santos",
+      "clube_casa_abrev": "VAS",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/07/29/Vasco-65.png",
+      "clube_visitante_id": 277,
+      "clube_visitante_abrev": "SAN",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/santos_60x60.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2020/11/11/9cd8c17f449c11311b6d55fdc1c818b4_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2016/07/29/Vasco-65.png",
   "scouts": {
-    "rodada_id": 25,
+    "rodada_id": 26,
     "rb": 0,
     "g": 0,
     "a": 0,
-    "sg": 1,
+    "sg": 2,
     "fs": 1,
     "ff": 1,
     "fd": 0,
@@ -123,19 +141,19 @@
     "dp": 0,
     "gc": 0,
     "cv": 0,
-    "ca": 2,
+    "ca": 3,
     "pp": 0,
     "gs": 0,
-    "fc": 1,
+    "fc": 3,
     "i": 0,
     "pe": 0,
-    "ds": 7,
-    "pi": 8,
-    "pontos_num": 0.7,
-    "preco_num": 4.54,
-    "variacao_num": -0.38,
-    "media_num": 2.67,
-    "jogos_num": 3,
+    "ds": 8,
+    "pi": 15,
+    "pontos_num": 2.3,
+    "preco_num": 4.9,
+    "variacao_num": 0.36,
+    "media_num": 2.58,
+    "jogos_num": 4,
     "posicao_abrev": "zag",
     "posicao": "Zagueiro"
   }

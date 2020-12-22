@@ -6,7 +6,6 @@
   "clube_id": 263,
   "posicao": "Atacante",
   "rodadas": [
-    15,
     16,
     17,
     18,
@@ -16,10 +15,10 @@
     22,
     23,
     24,
-    25
+    25,
+    26
   ],
   "pontos": [
-    0,
     8.4,
     1.1,
     0,
@@ -29,10 +28,10 @@
     0.7,
     0,
     0.4,
-    0
+    0,
+    -0.3
   ],
   "precos": [
-    7.6,
     9.05,
     7.97,
     7.97,
@@ -42,10 +41,10 @@
     8.23,
     8.23,
     8.08,
-    7.94
+    7.94,
+    7.86
   ],
   "variacoes": [
-    0,
     1.45,
     -1.08,
     0,
@@ -55,10 +54,10 @@
     -1.14,
     0,
     -0.15,
-    -0.14
+    -0.14,
+    -0.08
   ],
   "medias": [
-    4.01,
     4.32,
     4.11,
     4.11,
@@ -68,22 +67,10 @@
     4.23,
     4.23,
     4.04,
-    3.85
+    3.85,
+    3.66
   ],
   "partidas": [
-    {
-      "rodada_id": 15,
-      "clube_casa": "Sport",
-      "clube_casa_id": 292,
-      "clube_visitante": "Botafogo",
-      "clube_casa_abrev": "SPO",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2015/07/21/sport65.png",
-      "clube_visitante_id": 263,
-      "clube_visitante_abrev": "BOT",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/04/botafogo-65.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 2
-    },
     {
       "rodada_id": 16,
       "clube_casa": "Grêmio",
@@ -213,17 +200,30 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/04/botafogo-65.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 26,
+      "clube_casa": "Coritiba",
+      "clube_casa_id": 294,
+      "clube_visitante": "Botafogo",
+      "clube_casa_abrev": "COR",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2017/03/29/coritiba65.png",
+      "clube_visitante_id": 263,
+      "clube_visitante_abrev": "BOT",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/04/botafogo-65.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2020/07/20/bb2284f13a5e04e59749617f6cfd07bd_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/04/botafogo-65.png",
   "scouts": {
-    "rodada_id": 25,
+    "rodada_id": 26,
     "rb": 0,
     "g": 6,
     "a": 1,
     "sg": 0,
-    "fs": 52,
+    "fs": 54,
     "ff": 9,
     "fd": 8,
     "ft": 2,
@@ -234,16 +234,16 @@
     "ca": 5,
     "pp": 0,
     "gs": 0,
-    "fc": 47,
+    "fc": 49,
     "i": 8,
     "pe": 0,
     "ds": 25,
-    "pi": 85,
-    "pontos_num": 0,
-    "preco_num": 7.94,
-    "variacao_num": -0.14,
-    "media_num": 3.85,
-    "jogos_num": 21,
+    "pi": 88,
+    "pontos_num": -0.3,
+    "preco_num": 7.86,
+    "variacao_num": -0.08,
+    "media_num": 3.66,
+    "jogos_num": 22,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }

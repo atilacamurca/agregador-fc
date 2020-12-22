@@ -10,35 +10,40 @@
     22,
     23,
     24,
-    25
+    25,
+    26
   ],
   "pontos": [
     -1,
     0,
     -0.1,
     0,
-    2
+    2,
+    -0.6
   ],
   "precos": [
     3.43,
     3.43,
     2.84,
     2.75,
-    3.15
+    3.15,
+    2.64
   ],
   "variacoes": [
     -1.57,
     0,
     -0.59,
     -0.09,
-    0.4
+    0.4,
+    -0.51
   ],
   "medias": [
     -1,
     -1,
     -0.55,
     -0.37,
-    0.22
+    0.22,
+    0.06
   ],
   "partidas": [
     {
@@ -105,18 +110,31 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/bahia_60x60.png",
       "placar_oficial_mandante": 3,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 26,
+      "clube_casa": "Internacional",
+      "clube_casa_id": 285,
+      "clube_visitante": "Palmeiras",
+      "clube_casa_abrev": "INT",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/03/inter65.png",
+      "clube_visitante_id": 275,
+      "clube_visitante_abrev": "PAL",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2020/11/11/302a126478ca4f8021cea45f7b024205_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
   "scouts": {
-    "rodada_id": 25,
+    "rodada_id": 26,
     "rb": 0,
     "g": 0,
     "a": 0,
     "sg": 0,
     "fs": 1,
-    "ff": 0,
+    "ff": 1,
     "fd": 0,
     "ft": 0,
     "dd": 0,
@@ -126,16 +144,16 @@
     "ca": 0,
     "pp": 0,
     "gs": 0,
-    "fc": 1,
+    "fc": 3,
     "i": 1,
     "pe": 0,
     "ds": 2,
-    "pi": 6,
-    "pontos_num": 2,
-    "preco_num": 3.15,
-    "variacao_num": 0.4,
-    "media_num": 0.22,
-    "jogos_num": 4,
+    "pi": 10,
+    "pontos_num": -0.6,
+    "preco_num": 2.64,
+    "variacao_num": -0.51,
+    "media_num": 0.06,
+    "jogos_num": 5,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }

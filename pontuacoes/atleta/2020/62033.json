@@ -15,7 +15,8 @@
     22,
     23,
     24,
-    25
+    25,
+    26
   ],
   "pontos": [
     0,
@@ -27,7 +28,8 @@
     1.6,
     0,
     -0.3,
-    2
+    2,
+    9.8
   ],
   "precos": [
     5.01,
@@ -39,7 +41,8 @@
     4.52,
     4.52,
     4.17,
-    4.54
+    4.54,
+    6
   ],
   "variacoes": [
     0,
@@ -51,7 +54,8 @@
     0.79,
     0,
     -0.35,
-    0.37
+    0.37,
+    1.46
   ],
   "medias": [
     1.8,
@@ -63,7 +67,8 @@
     1.54,
     1.54,
     1.31,
-    1.39
+    1.39,
+    2.23
   ],
   "partidas": [
     {
@@ -195,19 +200,32 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/gremio_60x60.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 26,
+      "clube_casa": "Corinthians",
+      "clube_casa_id": 264,
+      "clube_visitante": "Goiás",
+      "clube_casa_abrev": "COR",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/30/Corinthians_65.png",
+      "clube_visitante_id": 290,
+      "clube_visitante_abrev": "GOI",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/05/01/Goias_65px.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2020/10/15/788a514811d1b7fe6bc8f3cb4078b1b4_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2019/05/01/Goias_65px.png",
   "scouts": {
-    "rodada_id": 25,
+    "rodada_id": 26,
     "rb": 0,
-    "g": 1,
+    "g": 2,
     "a": 0,
     "sg": 0,
-    "fs": 8,
+    "fs": 9,
     "ff": 8,
-    "fd": 2,
+    "fd": 3,
     "ft": 0,
     "dd": 0,
     "dp": 0,
@@ -217,15 +235,15 @@
     "pp": 0,
     "gs": 0,
     "fc": 8,
-    "i": 4,
+    "i": 5,
     "pe": 0,
-    "ds": 3,
-    "pi": 33,
-    "pontos_num": 2,
-    "preco_num": 4.54,
-    "variacao_num": 0.37,
-    "media_num": 1.39,
-    "jogos_num": 9,
+    "ds": 4,
+    "pi": 37,
+    "pontos_num": 9.8,
+    "preco_num": 6,
+    "variacao_num": 1.46,
+    "media_num": 2.23,
+    "jogos_num": 10,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }
