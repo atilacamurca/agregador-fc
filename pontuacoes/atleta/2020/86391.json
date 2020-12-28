@@ -6,7 +6,6 @@
   "clube_id": 292,
   "posicao": "Lateral",
   "rodadas": [
-    16,
     17,
     18,
     19,
@@ -16,10 +15,10 @@
     23,
     24,
     25,
-    26
+    26,
+    27
   ],
   "pontos": [
-    0,
     0,
     0,
     0,
@@ -29,10 +28,10 @@
     0,
     6.6,
     0,
-    0
+    0,
+    -0.1
   ],
   "precos": [
-    8.5,
     8.5,
     8.5,
     8.5,
@@ -42,10 +41,10 @@
     7.63,
     8.94,
     8.94,
-    8.94
+    8.94,
+    7.76
   ],
   "variacoes": [
-    0,
     0,
     0,
     0,
@@ -55,10 +54,10 @@
     0,
     1.31,
     0,
-    0
+    0,
+    -1.18
   ],
   "medias": [
-    2.19,
     2.19,
     2.19,
     2.19,
@@ -68,22 +67,10 @@
     2.11,
     2.43,
     2.43,
-    2.43
+    2.43,
+    2.26
   ],
   "partidas": [
-    {
-      "rodada_id": 16,
-      "clube_casa": "Sport",
-      "clube_casa_id": 292,
-      "clube_visitante": "Internacional",
-      "clube_casa_abrev": "SPO",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2015/07/21/sport65.png",
-      "clube_visitante_id": 285,
-      "clube_visitante_abrev": "INT",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/03/inter65.png",
-      "placar_oficial_mandante": 3,
-      "placar_oficial_visitante": 5
-    },
     {
       "rodada_id": 17,
       "clube_casa": "Bragantino",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/gremio_60x60.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 27,
+      "clube_casa": "Goiás",
+      "clube_casa_id": 290,
+      "clube_visitante": "Sport",
+      "clube_casa_abrev": "GOI",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/05/01/Goias_65px.png",
+      "clube_visitante_id": 292,
+      "clube_visitante_abrev": "SPO",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2015/07/21/sport65.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2020/02/27/a37c5329c7b02ddb15c081c9d02ebed3_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2015/07/21/sport65.png",
   "scouts": {
-    "rodada_id": 26,
+    "rodada_id": 27,
     "rb": 0,
     "g": 0,
     "a": 0,
@@ -238,12 +238,12 @@
     "i": 0,
     "pe": 0,
     "ds": 41,
-    "pi": 111,
-    "pontos_num": 0,
-    "preco_num": 8.94,
-    "variacao_num": 0,
-    "media_num": 2.43,
-    "jogos_num": 14,
+    "pi": 112,
+    "pontos_num": -0.1,
+    "preco_num": 7.76,
+    "variacao_num": -1.18,
+    "media_num": 2.26,
+    "jogos_num": 15,
     "posicao_abrev": "lat",
     "posicao": "Lateral"
   }

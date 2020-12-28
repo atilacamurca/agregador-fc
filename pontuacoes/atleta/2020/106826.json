@@ -10,35 +10,40 @@
     23,
     24,
     25,
-    26
+    26,
+    27
   ],
   "pontos": [
     3.8,
     0.3,
     0.6,
     -0.8,
-    0
+    0,
+    2.8
   ],
   "precos": [
     1.49,
     0.94,
     1.02,
     0.78,
-    0.78
+    0.78,
+    1.38
   ],
   "variacoes": [
     0.49,
     -0.55,
     0.08,
     -0.24,
-    0
+    0,
+    0.6
   ],
   "medias": [
     3.8,
     2.05,
     1.57,
     0.98,
-    0.98
+    0.98,
+    1.34
   ],
   "partidas": [
     {
@@ -105,18 +110,31 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/fluminense_60x60.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 27,
+      "clube_casa": "Grêmio",
+      "clube_casa_id": 284,
+      "clube_visitante": "Atlético-GO",
+      "clube_casa_abrev": "GRE",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/gremio_60x60.png",
+      "clube_visitante_id": 373,
+      "clube_visitante_abrev": "ATL",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2020/07/02/atletico-go-2020-65.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2020/11/19/873fa1fcb351fcd70fb14f5d8cac13de_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2020/07/02/atletico-go-2020-65.png",
   "scouts": {
-    "rodada_id": 26,
+    "rodada_id": 27,
     "rb": 0,
     "g": 0,
     "a": 0,
     "sg": 0,
     "fs": 3,
-    "ff": 1,
+    "ff": 2,
     "fd": 0,
     "ft": 0,
     "dd": 0,
@@ -129,13 +147,13 @@
     "fc": 2,
     "i": 3,
     "pe": 0,
-    "ds": 5,
+    "ds": 7,
     "pi": 9,
-    "pontos_num": 0,
-    "preco_num": 0.78,
-    "variacao_num": 0,
-    "media_num": 0.98,
-    "jogos_num": 4,
+    "pontos_num": 2.8,
+    "preco_num": 1.38,
+    "variacao_num": 0.6,
+    "media_num": 1.34,
+    "jogos_num": 5,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }

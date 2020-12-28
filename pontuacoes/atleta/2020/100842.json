@@ -6,7 +6,6 @@
   "clube_id": 284,
   "posicao": "Zagueiro",
   "rodadas": [
-    16,
     17,
     18,
     19,
@@ -16,7 +15,8 @@
     23,
     24,
     25,
-    26
+    26,
+    27
   ],
   "pontos": [
     0,
@@ -29,11 +29,10 @@
     0,
     0,
     0,
-    0
+    1.3
   ],
   "precos": [
     0.74,
-    0.74,
     0.77,
     0.77,
     0.77,
@@ -42,10 +41,10 @@
     0.77,
     0.77,
     0.77,
-    0.77
+    0.77,
+    0.83
   ],
   "variacoes": [
-    0,
     0,
     0.03,
     0,
@@ -55,7 +54,8 @@
     0,
     0,
     0,
-    0
+    0,
+    0.06
   ],
   "medias": [
     0,
@@ -68,22 +68,9 @@
     0,
     0,
     0,
-    0
+    0.43
   ],
   "partidas": [
-    {
-      "rodada_id": 16,
-      "clube_casa": "Grêmio",
-      "clube_casa_id": 284,
-      "clube_visitante": "Botafogo",
-      "clube_casa_abrev": "GRE",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/gremio_60x60.png",
-      "clube_visitante_id": 263,
-      "clube_visitante_abrev": "BOT",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/04/botafogo-65.png",
-      "placar_oficial_mandante": 3,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 17,
       "clube_casa": "São Paulo",
@@ -213,19 +200,32 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/gremio_60x60.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 27,
+      "clube_casa": "Grêmio",
+      "clube_casa_id": 284,
+      "clube_visitante": "Atlético-GO",
+      "clube_casa_abrev": "GRE",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/gremio_60x60.png",
+      "clube_visitante_id": 373,
+      "clube_visitante_abrev": "ATL",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2020/07/02/atletico-go-2020-65.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2019/12/06/d2a238e1b58db291139f1714859cad33_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/gremio_60x60.png",
   "scouts": {
-    "rodada_id": 26,
+    "rodada_id": 27,
     "rb": 0,
     "g": 0,
     "a": 0,
     "sg": 0,
-    "fs": 0,
+    "fs": 1,
     "ff": 0,
-    "fd": 0,
+    "fd": 1,
     "ft": 0,
     "dd": 0,
     "dp": 0,
@@ -234,16 +234,16 @@
     "ca": 0,
     "pp": 0,
     "gs": 0,
-    "fc": 0,
+    "fc": 2,
     "i": 0,
     "pe": 0,
-    "ds": 0,
-    "pi": 0,
-    "pontos_num": 0,
-    "preco_num": 0.77,
-    "variacao_num": 0,
-    "media_num": 0,
-    "jogos_num": 2,
+    "ds": 1,
+    "pi": 4,
+    "pontos_num": 1.3,
+    "preco_num": 0.83,
+    "variacao_num": 0.06,
+    "media_num": 0.43,
+    "jogos_num": 3,
     "posicao_abrev": "zag",
     "posicao": "Zagueiro"
   }

@@ -6,7 +6,6 @@
   "clube_id": 266,
   "posicao": "Meia",
   "rodadas": [
-    16,
     17,
     18,
     19,
@@ -16,10 +15,10 @@
     23,
     24,
     25,
-    26
+    26,
+    27
   ],
   "pontos": [
-    2,
     1.2,
     10.1,
     1,
@@ -29,10 +28,10 @@
     -0.5,
     0.7,
     -0.1,
+    0,
     0
   ],
   "precos": [
-    4.56,
     4.46,
     6.11,
     4.84,
@@ -42,10 +41,10 @@
     4.24,
     4.52,
     4.35,
+    4.35,
     4.35
   ],
   "variacoes": [
-    -0.84,
     -0.1,
     1.65,
     -1.27,
@@ -55,10 +54,10 @@
     -0.23,
     0.28,
     -0.17,
+    0,
     0
   ],
   "medias": [
-    1.86,
     1.8,
     2.49,
     2.38,
@@ -68,22 +67,10 @@
     1.97,
     1.89,
     1.77,
+    1.77,
     1.77
   ],
   "partidas": [
-    {
-      "rodada_id": 16,
-      "clube_casa": "Atlético-MG",
-      "clube_casa_id": 282,
-      "clube_visitante": "Fluminense",
-      "clube_casa_abrev": "ATL",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2017/11/23/Atletico-Mineiro-escudo65px.png",
-      "clube_visitante_id": 266,
-      "clube_visitante_abrev": "FLU",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/fluminense_60x60.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 17,
       "clube_casa": "Fluminense",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/fluminense_60x60.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 27,
+      "clube_casa": "Fluminense",
+      "clube_casa_id": 266,
+      "clube_visitante": "São Paulo",
+      "clube_casa_abrev": "FLU",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/fluminense_60x60.png",
+      "clube_visitante_id": 276,
+      "clube_visitante_abrev": "SAO",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/sao_paulo_60x60.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2020/08/11/6065b1defc59b5a923da5fc98d24534c_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/fluminense_60x60.png",
   "scouts": {
-    "rodada_id": 26,
+    "rodada_id": 27,
     "rb": 0,
     "g": 1,
     "a": 2,

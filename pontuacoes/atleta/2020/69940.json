@@ -6,7 +6,6 @@
   "clube_id": 263,
   "posicao": "Meia",
   "rodadas": [
-    16,
     17,
     18,
     19,
@@ -16,10 +15,10 @@
     23,
     24,
     25,
-    26
+    26,
+    27
   ],
   "pontos": [
-    1.2,
     2.6,
     0,
     8.5,
@@ -29,10 +28,10 @@
     0,
     -0.7,
     5.2,
-    1.5
+    1.5,
+    0
   ],
   "precos": [
-    5.42,
     5.7,
     5.7,
     6.89,
@@ -42,10 +41,10 @@
     5.82,
     5.35,
     6.35,
+    5.81,
     5.81
   ],
   "variacoes": [
-    -1.57,
     0.28,
     0,
     1.19,
@@ -55,10 +54,10 @@
     0,
     -0.47,
     1,
-    -0.54
+    -0.54,
+    0
   ],
   "medias": [
-    2.84,
     2.82,
     2.82,
     3.29,
@@ -68,22 +67,10 @@
     3.04,
     2.79,
     2.94,
+    2.86,
     2.86
   ],
   "partidas": [
-    {
-      "rodada_id": 16,
-      "clube_casa": "Grêmio",
-      "clube_casa_id": 284,
-      "clube_visitante": "Botafogo",
-      "clube_casa_abrev": "GRE",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/gremio_60x60.png",
-      "clube_visitante_id": 263,
-      "clube_visitante_abrev": "BOT",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/04/botafogo-65.png",
-      "placar_oficial_mandante": 3,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 17,
       "clube_casa": "Botafogo",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/04/botafogo-65.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 27,
+      "clube_casa": "Botafogo",
+      "clube_casa_id": 263,
+      "clube_visitante": "Corinthians",
+      "clube_casa_abrev": "BOT",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/04/botafogo-65.png",
+      "clube_visitante_id": 264,
+      "clube_visitante_abrev": "COR",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/30/Corinthians_65.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2020/03/01/c6b6e92b1486785f81549715b0dc9164_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/04/botafogo-65.png",
   "scouts": {
-    "rodada_id": 26,
+    "rodada_id": 27,
     "rb": 0,
     "g": 2,
     "a": 0,
@@ -239,9 +239,9 @@
     "pe": 0,
     "ds": 34,
     "pi": 94,
-    "pontos_num": 1.5,
+    "pontos_num": 0,
     "preco_num": 5.81,
-    "variacao_num": -0.54,
+    "variacao_num": 0,
     "media_num": 2.86,
     "jogos_num": 17,
     "posicao_abrev": "mei",

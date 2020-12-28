@@ -10,35 +10,40 @@
     23,
     24,
     25,
-    26
+    26,
+    27
   ],
   "pontos": [
     0,
     0,
     -3,
     4.8,
-    9.8
+    9.8,
+    -1.5
   ],
   "precos": [
     3,
     3,
     1.41,
     3.02,
-    4.88
+    4.88,
+    3.06
   ],
   "variacoes": [
     0,
     0,
     -1.59,
     1.61,
-    1.86
+    1.86,
+    -1.82
   ],
   "medias": [
     0,
     0,
     -3,
     0.9,
-    3.87
+    3.87,
+    2.53
   ],
   "partidas": [
     {
@@ -105,19 +110,32 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/gremio_60x60.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 27,
+      "clube_casa": "Goiás",
+      "clube_casa_id": 290,
+      "clube_visitante": "Sport",
+      "clube_casa_abrev": "GOI",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/05/01/Goias_65px.png",
+      "clube_visitante_id": 292,
+      "clube_visitante_abrev": "SPO",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2015/07/21/sport65.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2020/11/20/22165cdbf4a8d2ab347cd89ef88552b4_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2015/07/21/sport65.png",
   "scouts": {
-    "rodada_id": 26,
+    "rodada_id": 27,
     "rb": 0,
     "g": 1,
     "a": 0,
     "sg": 0,
-    "fs": 0,
+    "fs": 2,
     "ff": 3,
-    "fd": 3,
+    "fd": 4,
     "ft": 1,
     "dd": 0,
     "dp": 0,
@@ -126,16 +144,16 @@
     "ca": 0,
     "pp": 0,
     "gs": 0,
-    "fc": 8,
-    "i": 3,
+    "fc": 12,
+    "i": 6,
     "pe": 0,
     "ds": 1,
-    "pi": 9,
-    "pontos_num": 9.8,
-    "preco_num": 4.88,
-    "variacao_num": 1.86,
-    "media_num": 3.87,
-    "jogos_num": 3,
+    "pi": 11,
+    "pontos_num": -1.5,
+    "preco_num": 3.06,
+    "variacao_num": -1.82,
+    "media_num": 2.53,
+    "jogos_num": 4,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }
