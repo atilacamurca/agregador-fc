@@ -15,7 +15,7 @@ if (!csvInputFilename) {
 
 const scout = (value) => value === 'NA' ? 0 : value
 
-const CURRENT_YEAR = new Date().getFullYear()
+const CURRENT_YEAR = process.env.GRIDSOME_TEMPORADA
 const filepath = path.resolve(process.cwd(), csvInputFilename)
 
 csv()

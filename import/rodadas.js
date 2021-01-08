@@ -3,7 +3,7 @@ const client = require('./database').client
 
 const data = require('./rodadas.json')
 
-const CURRENT_YEAR = new Date().getFullYear()
+const CURRENT_YEAR = process.env.GRIDSOME_TEMPORADA
 const UPSERT_RODADAS = `INSERT INTO public.rodadas(
             rodada_id, ano, inicio, fim)
     VALUES ($1, $2, $3, $4) ON CONFLICT ON CONSTRAINT rodadas_pkey

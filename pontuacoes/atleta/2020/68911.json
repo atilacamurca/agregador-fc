@@ -6,7 +6,6 @@
   "clube_id": 284,
   "posicao": "Atacante",
   "rodadas": [
-    17,
     18,
     19,
     20,
@@ -16,10 +15,10 @@
     24,
     25,
     26,
-    27
+    27,
+    28
   ],
   "pontos": [
-    0,
     0,
     1.4,
     0,
@@ -29,10 +28,10 @@
     16.1,
     0,
     0,
-    0
+    0,
+    10.2
   ],
   "precos": [
-    9.96,
     9.96,
     9.07,
     9.07,
@@ -42,10 +41,10 @@
     11.84,
     11.84,
     11.84,
-    11.84
+    11.84,
+    11
   ],
   "variacoes": [
-    0,
     0,
     -0.89,
     0,
@@ -55,10 +54,10 @@
     2.18,
     0,
     0,
-    0
+    0,
+    -0.84
   ],
   "medias": [
-    2.63,
     2.63,
     2.54,
     2.54,
@@ -68,22 +67,10 @@
     3.89,
     3.89,
     3.89,
-    3.89
+    3.89,
+    4.26
   ],
   "partidas": [
-    {
-      "rodada_id": 17,
-      "clube_casa": "São Paulo",
-      "clube_casa_id": 276,
-      "clube_visitante": "Grêmio",
-      "clube_casa_abrev": "SAO",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/sao_paulo_60x60.png",
-      "clube_visitante_id": 284,
-      "clube_visitante_abrev": "GRE",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/gremio_60x60.png",
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 18,
       "clube_casa": "Athlético-PR",
@@ -213,18 +200,31 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2020/07/02/atletico-go-2020-65.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 28,
+      "clube_casa": "Grêmio",
+      "clube_casa_id": 284,
+      "clube_visitante": "Bahia",
+      "clube_casa_abrev": "GRE",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/gremio_60x60.png",
+      "clube_visitante_id": 265,
+      "clube_visitante_abrev": "BAH",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/bahia_60x60.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2020/07/19/856625bb76f484b70bec52c9ff257c5a_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/gremio_60x60.png",
   "scouts": {
-    "rodada_id": 27,
+    "rodada_id": 28,
     "rb": 0,
-    "g": 7,
+    "g": 8,
     "a": 1,
     "sg": 0,
     "fs": 17,
-    "ff": 14,
+    "ff": 15,
     "fd": 6,
     "ft": 0,
     "dd": 0,
@@ -237,13 +237,13 @@
     "fc": 20,
     "i": 1,
     "pe": 0,
-    "ds": 8,
-    "pi": 81,
-    "pontos_num": 0,
-    "preco_num": 11.84,
-    "variacao_num": 0,
-    "media_num": 3.89,
-    "jogos_num": 16,
+    "ds": 10,
+    "pi": 87,
+    "pontos_num": 10.2,
+    "preco_num": 11,
+    "variacao_num": -0.84,
+    "media_num": 4.26,
+    "jogos_num": 17,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }

@@ -3,7 +3,7 @@ const client = require('./database').client
 
 const data = require('./partidas-rodada.json')
 
-const CURRENT_YEAR = new Date().getFullYear()
+const CURRENT_YEAR = process.env.GRIDSOME_TEMPORADA
 const UPSERT_PARTIDAS_RODADA = `
     INSERT INTO public.partidas_rodada (partida_id, rodada_id, ano,
     clube_casa_id, clube_casa_posicao, aproveitamento_mandante,

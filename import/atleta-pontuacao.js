@@ -25,7 +25,7 @@
 const axios = require('axios')
 const client = require('./database').client
 
-const CURRENT_YEAR = new Date().getFullYear()
+const CURRENT_YEAR = process.env.GRIDSOME_TEMPORADA
 const RODADA_ATUAL_ID = parseInt(process.env.RODADA_ATUAL_ID)
 const SELECT_ATLETAS = `
 SELECT a.id FROM atletas a
