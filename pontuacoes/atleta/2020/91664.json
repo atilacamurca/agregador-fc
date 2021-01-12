@@ -6,7 +6,6 @@
   "clube_id": 292,
   "posicao": "Zagueiro",
   "rodadas": [
-    18,
     19,
     20,
     21,
@@ -16,10 +15,10 @@
     25,
     26,
     27,
-    28
+    28,
+    29
   ],
   "pontos": [
-    4.9,
     3.9,
     6.1,
     1.1,
@@ -29,10 +28,10 @@
     4.3,
     0.4,
     -0.2,
-    7.5
+    7.5,
+    -0.2
   ],
   "precos": [
-    3.71,
     3.75,
     4.26,
     3.49,
@@ -42,10 +41,10 @@
     3.99,
     3.4,
     3.25,
-    4.56
+    4.56,
+    3.33
   ],
   "variacoes": [
-    0.62,
     0.04,
     0.51,
     -0.77,
@@ -55,10 +54,10 @@
     0.96,
     -0.59,
     -0.15,
-    1.31
+    1.31,
+    -1.23
   ],
   "medias": [
-    0.73,
     0.92,
     1.21,
     1.2,
@@ -68,22 +67,10 @@
     1.24,
     1.2,
     1.14,
-    1.39
+    1.39,
+    1.33
   ],
   "partidas": [
-    {
-      "rodada_id": 18,
-      "clube_casa": "Atlético-MG",
-      "clube_casa_id": 282,
-      "clube_visitante": "Sport",
-      "clube_casa_abrev": "ATL",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2017/11/23/Atletico-Mineiro-escudo65px.png",
-      "clube_visitante_id": 292,
-      "clube_visitante_abrev": "SPO",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2015/07/21/sport65.png",
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 19,
       "clube_casa": "Sport",
@@ -213,18 +200,31 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/06/10/fortaleza-ec-65px.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 29,
+      "clube_casa": "Sport",
+      "clube_casa_id": 292,
+      "clube_visitante": "Palmeiras",
+      "clube_casa_abrev": "SPO",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2015/07/21/sport65.png",
+      "clube_visitante_id": 275,
+      "clube_visitante_abrev": "PAL",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2020/02/27/af95f24d59281d8062c7bb367417bce2_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2015/07/21/sport65.png",
   "scouts": {
-    "rodada_id": 28,
+    "rodada_id": 29,
     "rb": 0,
     "g": 0,
     "a": 0,
     "sg": 6,
     "fs": 18,
-    "ff": 7,
+    "ff": 8,
     "fd": 2,
     "ft": 1,
     "dd": 0,
@@ -234,16 +234,16 @@
     "ca": 6,
     "pp": 0,
     "gs": 0,
-    "fc": 35,
+    "fc": 36,
     "i": 1,
     "pe": 0,
     "ds": 29,
-    "pi": 91,
-    "pontos_num": 7.5,
-    "preco_num": 4.56,
-    "variacao_num": 1.31,
-    "media_num": 1.39,
-    "jogos_num": 25,
+    "pi": 96,
+    "pontos_num": -0.2,
+    "preco_num": 3.33,
+    "variacao_num": -1.23,
+    "media_num": 1.33,
+    "jogos_num": 26,
     "posicao_abrev": "zag",
     "posicao": "Zagueiro"
   }

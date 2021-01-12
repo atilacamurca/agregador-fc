@@ -6,7 +6,6 @@
   "clube_id": 356,
   "posicao": "Atacante",
   "rodadas": [
-    18,
     19,
     20,
     21,
@@ -16,10 +15,10 @@
     25,
     26,
     27,
-    28
+    28,
+    29
   ],
   "pontos": [
-    0,
     0.4,
     2,
     0,
@@ -29,10 +28,10 @@
     3.1,
     0.3,
     0.2,
-    1.5
+    1.5,
+    0.2
   ],
   "precos": [
-    6.27,
     5.94,
     6.17,
     6.17,
@@ -42,10 +41,10 @@
     6.38,
     5.95,
     5.85,
-    5.98
+    5.98,
+    5.69
   ],
   "variacoes": [
-    0,
     -0.33,
     0.23,
     0,
@@ -55,10 +54,10 @@
     -0.29,
     -0.43,
     -0.1,
-    0.13
+    0.13,
+    -0.29
   ],
   "medias": [
-    2.69,
     2.56,
     2.53,
     2.53,
@@ -68,22 +67,10 @@
     2.68,
     2.57,
     2.46,
-    2.42
+    2.42,
+    2.33
   ],
   "partidas": [
-    {
-      "rodada_id": 18,
-      "clube_casa": "Bahia",
-      "clube_casa_id": 265,
-      "clube_visitante": "Fortaleza",
-      "clube_casa_abrev": "BAH",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/bahia_60x60.png",
-      "clube_visitante_id": 356,
-      "clube_visitante_abrev": "FOR",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/06/10/fortaleza-ec-65px.png",
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 19,
       "clube_casa": "Fortaleza",
@@ -213,19 +200,32 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/06/10/fortaleza-ec-65px.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 29,
+      "clube_casa": "Fortaleza",
+      "clube_casa_id": 356,
+      "clube_visitante": "Grêmio",
+      "clube_casa_abrev": "FOR",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/06/10/fortaleza-ec-65px.png",
+      "clube_visitante_id": 284,
+      "clube_visitante_abrev": "GRE",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/gremio_60x60.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2019/03/22/cf67516d72742aa5e48694567a33d6b6_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2018/06/10/fortaleza-ec-65px.png",
   "scouts": {
-    "rodada_id": 28,
+    "rodada_id": 29,
     "rb": 0,
     "g": 1,
     "a": 3,
     "sg": 0,
     "fs": 18,
     "ff": 13,
-    "fd": 6,
+    "fd": 7,
     "ft": 1,
     "dd": 0,
     "dp": 0,
@@ -234,16 +234,16 @@
     "ca": 2,
     "pp": 0,
     "gs": 0,
-    "fc": 9,
-    "i": 2,
+    "fc": 11,
+    "i": 3,
     "pe": 0,
-    "ds": 23,
-    "pi": 107,
-    "pontos_num": 1.5,
-    "preco_num": 5.98,
-    "variacao_num": 0.13,
-    "media_num": 2.42,
-    "jogos_num": 23,
+    "ds": 24,
+    "pi": 112,
+    "pontos_num": 0.2,
+    "preco_num": 5.69,
+    "variacao_num": -0.29,
+    "media_num": 2.33,
+    "jogos_num": 24,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }
