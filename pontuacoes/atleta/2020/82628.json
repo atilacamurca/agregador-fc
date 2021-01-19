@@ -6,7 +6,6 @@
   "clube_id": 356,
   "posicao": "Lateral",
   "rodadas": [
-    19,
     20,
     21,
     22,
@@ -16,10 +15,10 @@
     26,
     27,
     28,
-    29
+    29,
+    30
   ],
   "pontos": [
-    -0.4,
     0,
     2,
     -1.2,
@@ -29,10 +28,10 @@
     -1.2,
     7.1,
     0,
-    0
+    0,
+    -2.8
   ],
   "precos": [
-    6.47,
     6.47,
     6.7,
     6.13,
@@ -42,10 +41,10 @@
     5.94,
     7.3,
     7.3,
-    7.3
+    7.3,
+    5.68
   ],
   "variacoes": [
-    -1.07,
     0,
     0.23,
     -0.57,
@@ -55,10 +54,10 @@
     -0.36,
     1.36,
     0,
-    0
+    0,
+    -1.62
   ],
   "medias": [
-    4.63,
     4.63,
     4.39,
     3.92,
@@ -68,22 +67,10 @@
     3.33,
     3.58,
     3.58,
-    3.58
+    3.58,
+    3.18
   ],
   "partidas": [
-    {
-      "rodada_id": 19,
-      "clube_casa": "Fortaleza",
-      "clube_casa_id": 356,
-      "clube_visitante": "Fluminense",
-      "clube_casa_abrev": "FOR",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/06/10/fortaleza-ec-65px.png",
-      "clube_visitante_id": 266,
-      "clube_visitante_abrev": "FLU",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/fluminense_60x60.png",
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 20,
       "clube_casa": "Athlético-PR",
@@ -213,37 +200,50 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/gremio_60x60.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 30,
+      "clube_casa": "Internacional",
+      "clube_casa_id": 285,
+      "clube_visitante": "Fortaleza",
+      "clube_casa_abrev": "INT",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/03/inter65.png",
+      "clube_visitante_id": 356,
+      "clube_visitante_abrev": "FOR",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/06/10/fortaleza-ec-65px.png",
+      "placar_oficial_mandante": 4,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2019/03/22/fa74caf8029ce11e791edd0d7fc03025_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2018/06/10/fortaleza-ec-65px.png",
   "scouts": {
-    "rodada_id": 29,
+    "rodada_id": 30,
     "rb": 0,
     "g": 0,
     "a": 2,
     "sg": 6,
     "fs": 9,
-    "ff": 3,
+    "ff": 4,
     "fd": 3,
     "ft": 1,
     "dd": 0,
     "dp": 0,
     "gc": 0,
     "cv": 0,
-    "ca": 1,
+    "ca": 2,
     "pp": 0,
     "gs": 0,
-    "fc": 10,
+    "fc": 12,
     "i": 1,
     "pe": 0,
-    "ds": 26,
-    "pi": 182,
-    "pontos_num": 0,
-    "preco_num": 7.3,
-    "variacao_num": 0,
-    "media_num": 3.58,
-    "jogos_num": 15,
+    "ds": 27,
+    "pi": 198,
+    "pontos_num": -2.8,
+    "preco_num": 5.68,
+    "variacao_num": -1.62,
+    "media_num": 3.18,
+    "jogos_num": 16,
     "posicao_abrev": "lat",
     "posicao": "Lateral"
   }

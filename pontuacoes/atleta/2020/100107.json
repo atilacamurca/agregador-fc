@@ -15,7 +15,8 @@
     26,
     27,
     28,
-    29
+    29,
+    30
   ],
   "pontos": [
     0,
@@ -27,7 +28,8 @@
     0,
     5.1,
     0.6,
-    0.8
+    0.8,
+    0
   ],
   "precos": [
     7,
@@ -39,6 +41,7 @@
     7.85,
     7.45,
     6.64,
+    6.51,
     6.51
   ],
   "variacoes": [
@@ -51,7 +54,8 @@
     0,
     -0.4,
     -0.81,
-    -0.13
+    -0.13,
+    0
   ],
   "medias": [
     0,
@@ -63,6 +67,7 @@
     5.2,
     5.17,
     4.03,
+    3.38,
     3.38
   ],
   "partidas": [
@@ -195,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/gremio_60x60.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 30,
+      "clube_casa": "Palmeiras",
+      "clube_casa_id": 275,
+      "clube_visitante": "Grêmio",
+      "clube_casa_abrev": "PAL",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
+      "clube_visitante_id": 284,
+      "clube_visitante_abrev": "GRE",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/gremio_60x60.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2020/11/09/b3356c651dec1138df6cbc163f286172_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/gremio_60x60.png",
   "scouts": {
-    "rodada_id": 29,
+    "rodada_id": 30,
     "rb": 0,
     "g": 1,
     "a": 1,
@@ -221,9 +239,9 @@
     "pe": 0,
     "ds": 1,
     "pi": 22,
-    "pontos_num": 0.8,
+    "pontos_num": 0,
     "preco_num": 6.51,
-    "variacao_num": -0.13,
+    "variacao_num": 0,
     "media_num": 3.38,
     "jogos_num": 5,
     "posicao_abrev": "mei",

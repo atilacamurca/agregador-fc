@@ -6,7 +6,6 @@
   "clube_id": 285,
   "posicao": "Atacante",
   "rodadas": [
-    19,
     20,
     21,
     22,
@@ -16,10 +15,10 @@
     26,
     27,
     28,
-    29
+    29,
+    30
   ],
   "pontos": [
-    -2,
     0,
     1.2,
     0,
@@ -29,10 +28,10 @@
     0,
     0,
     0.8,
+    0,
     0
   ],
   "precos": [
-    6.16,
     6.16,
     6.42,
     6.42,
@@ -42,10 +41,10 @@
     6.45,
     6.45,
     5.98,
+    5.98,
     5.98
   ],
   "variacoes": [
-    -1.21,
     0,
     0.26,
     0,
@@ -55,11 +54,11 @@
     0,
     0,
     -0.47,
+    0,
     0
   ],
   "medias": [
     2.16,
-    2.16,
     1.92,
     1.92,
     1.5,
@@ -67,23 +66,11 @@
     1.62,
     1.62,
     1.62,
+    1.5,
     1.5,
     1.5
   ],
   "partidas": [
-    {
-      "rodada_id": 19,
-      "clube_casa": "Corinthians",
-      "clube_casa_id": 264,
-      "clube_visitante": "Internacional",
-      "clube_casa_abrev": "COR",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/30/Corinthians_65.png",
-      "clube_visitante_id": 285,
-      "clube_visitante_abrev": "INT",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/03/inter65.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 20,
       "clube_casa": "Internacional",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/05/01/Goias_65px.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 30,
+      "clube_casa": "Internacional",
+      "clube_casa_id": 285,
+      "clube_visitante": "Fortaleza",
+      "clube_casa_abrev": "INT",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/03/inter65.png",
+      "clube_visitante_id": 356,
+      "clube_visitante_abrev": "FOR",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/06/10/fortaleza-ec-65px.png",
+      "placar_oficial_mandante": 4,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2020/09/04/82a78869a31f588ee0291f918d0ad936_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/03/inter65.png",
   "scouts": {
-    "rodada_id": 29,
+    "rodada_id": 30,
     "rb": 0,
     "g": 0,
     "a": 1,

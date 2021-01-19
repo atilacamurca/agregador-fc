@@ -6,7 +6,6 @@
   "clube_id": 263,
   "posicao": "Atacante",
   "rodadas": [
-    19,
     20,
     21,
     22,
@@ -16,7 +15,8 @@
     26,
     27,
     28,
-    29
+    29,
+    30
   ],
   "pontos": [
     0,
@@ -42,7 +42,7 @@
     0.77,
     0.77,
     0.77,
-    0.77
+    0.79
   ],
   "variacoes": [
     0,
@@ -55,7 +55,7 @@
     0,
     0,
     0,
-    0
+    0.02
   ],
   "medias": [
     -0.5,
@@ -68,22 +68,9 @@
     -0.5,
     -0.5,
     -0.5,
-    -0.5
+    -0.25
   ],
   "partidas": [
-    {
-      "rodada_id": 19,
-      "clube_casa": "Botafogo",
-      "clube_casa_id": 263,
-      "clube_visitante": "Ceará",
-      "clube_casa_abrev": "BOT",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/04/botafogo-65.png",
-      "clube_visitante_id": 354,
-      "clube_visitante_abrev": "CEA",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/10/10/ceara-65x65.png",
-      "placar_oficial_mandante": 2,
-      "placar_oficial_visitante": 2
-    },
     {
       "rodada_id": 20,
       "clube_casa": "Bahia",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/04/botafogo-65.png",
       "placar_oficial_mandante": 3,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 30,
+      "clube_casa": "Santos",
+      "clube_casa_id": 277,
+      "clube_visitante": "Botafogo",
+      "clube_casa_abrev": "SAN",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/santos_60x60.png",
+      "clube_visitante_id": 263,
+      "clube_visitante_abrev": "BOT",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/04/botafogo-65.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2020/08/31/21f8af047c8476ce2fe45bfe2b91e4ea_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/04/botafogo-65.png",
   "scouts": {
-    "rodada_id": 29,
+    "rodada_id": 30,
     "rb": 0,
     "g": 0,
     "a": 0,
@@ -234,16 +234,16 @@
     "ca": 0,
     "pp": 0,
     "gs": 0,
-    "fc": 1,
-    "i": 0,
+    "fc": 2,
+    "i": 1,
     "pe": 0,
-    "ds": 0,
+    "ds": 1,
     "pi": 0,
     "pontos_num": 0,
-    "preco_num": 0.77,
-    "variacao_num": 0,
-    "media_num": -0.5,
-    "jogos_num": 1,
+    "preco_num": 0.79,
+    "variacao_num": 0.02,
+    "media_num": -0.25,
+    "jogos_num": 2,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }
