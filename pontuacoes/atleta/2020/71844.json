@@ -6,7 +6,6 @@
   "clube_id": 285,
   "posicao": "Meia",
   "rodadas": [
-    21,
     22,
     23,
     24,
@@ -16,10 +15,10 @@
     28,
     29,
     30,
-    31
+    31,
+    32
   ],
   "pontos": [
-    4.2,
     -0.6,
     -2.4,
     1,
@@ -29,10 +28,10 @@
     0,
     1.2,
     0,
+    0,
     0
   ],
   "precos": [
-    19.08,
     18.22,
     17.27,
     18.13,
@@ -42,10 +41,10 @@
     19.64,
     17.57,
     17.57,
+    17.57,
     17.57
   ],
   "variacoes": [
-    0.87,
     -0.86,
     -0.95,
     0.86,
@@ -55,10 +54,10 @@
     0,
     -2.07,
     0,
+    0,
     0
   ],
   "medias": [
-    9.05,
     8.57,
     8.05,
     7.73,
@@ -68,22 +67,10 @@
     7.46,
     7.22,
     7.22,
+    7.22,
     7.22
   ],
   "partidas": [
-    {
-      "rodada_id": 21,
-      "clube_casa": "Santos",
-      "clube_casa_id": 277,
-      "clube_visitante": "Internacional",
-      "clube_casa_abrev": "SAN",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/santos_60x60.png",
-      "clube_visitante_id": 285,
-      "clube_visitante_abrev": "INT",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/03/inter65.png",
-      "placar_oficial_mandante": 2,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 22,
       "clube_casa": "Internacional",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/03/inter65.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 5
+    },
+    {
+      "rodada_id": 32,
+      "clube_casa": "Internacional",
+      "clube_casa_id": 285,
+      "clube_visitante": "Grêmio",
+      "clube_casa_abrev": "INT",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/03/inter65.png",
+      "clube_visitante_id": 284,
+      "clube_visitante_abrev": "GRE",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/gremio_60x60.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2020/02/27/58765e09575aeed485460352a0980dad_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/03/inter65.png",
   "scouts": {
-    "rodada_id": 31,
+    "rodada_id": 32,
     "rb": 0,
     "g": 16,
     "a": 5,

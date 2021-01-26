@@ -6,7 +6,6 @@
   "clube_id": 266,
   "posicao": "Meia",
   "rodadas": [
-    21,
     22,
     23,
     24,
@@ -16,10 +15,10 @@
     28,
     29,
     30,
-    31
+    31,
+    32
   ],
   "pontos": [
-    0,
     0,
     2.4,
     1.8,
@@ -29,10 +28,10 @@
     0,
     0,
     0.5,
-    -1
+    -1,
+    0.9
   ],
   "precos": [
-    1,
     1,
     1.2,
     1.19,
@@ -42,10 +41,10 @@
     0.9,
     0.9,
     0.99,
-    0.78
+    0.78,
+    1.03
   ],
   "variacoes": [
-    0,
     0,
     0.2,
     -0.01,
@@ -55,10 +54,10 @@
     -0.29,
     0,
     0.09,
-    -0.21
+    -0.21,
+    0.25
   ],
   "medias": [
-    0,
     0,
     2.4,
     2.1,
@@ -68,22 +67,10 @@
     1.4,
     1.4,
     1.17,
-    0.74
+    0.74,
+    0.77
   ],
   "partidas": [
-    {
-      "rodada_id": 21,
-      "clube_casa": "Palmeiras",
-      "clube_casa_id": 275,
-      "clube_visitante": "Fluminense",
-      "clube_casa_abrev": "PAL",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
-      "clube_visitante_id": 266,
-      "clube_visitante_abrev": "FLU",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/fluminense_60x60.png",
-      "placar_oficial_mandante": 2,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 22,
       "clube_casa": "Internacional",
@@ -213,19 +200,32 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/fluminense_60x60.png",
       "placar_oficial_mandante": 3,
       "placar_oficial_visitante": 3
+    },
+    {
+      "rodada_id": 32,
+      "clube_casa": "Fluminense",
+      "clube_casa_id": 266,
+      "clube_visitante": "Botafogo",
+      "clube_casa_abrev": "FLU",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/fluminense_60x60.png",
+      "clube_visitante_id": 263,
+      "clube_visitante_abrev": "BOT",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/04/botafogo-65.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2020/09/18/d91238c5e040d15b0c5835c7ca195014_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/fluminense_60x60.png",
   "scouts": {
-    "rodada_id": 31,
+    "rodada_id": 32,
     "rb": 0,
     "g": 0,
     "a": 0,
     "sg": 0,
-    "fs": 3,
+    "fs": 4,
     "ff": 1,
-    "fd": 1,
+    "fd": 2,
     "ft": 0,
     "dd": 0,
     "dp": 0,
@@ -234,16 +234,16 @@
     "ca": 2,
     "pp": 0,
     "gs": 0,
-    "fc": 7,
+    "fc": 10,
     "i": 0,
     "pe": 0,
-    "ds": 10,
-    "pi": 23,
-    "pontos_num": -1,
-    "preco_num": 0.78,
-    "variacao_num": -0.21,
-    "media_num": 0.74,
-    "jogos_num": 5,
+    "ds": 11,
+    "pi": 26,
+    "pontos_num": 0.9,
+    "preco_num": 1.03,
+    "variacao_num": 0.25,
+    "media_num": 0.77,
+    "jogos_num": 6,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }

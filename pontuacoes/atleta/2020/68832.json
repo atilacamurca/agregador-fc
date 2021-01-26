@@ -6,7 +6,6 @@
   "clube_id": 292,
   "posicao": "Meia",
   "rodadas": [
-    21,
     22,
     23,
     24,
@@ -16,10 +15,10 @@
     28,
     29,
     30,
-    31
+    31,
+    32
   ],
   "pontos": [
-    0.6,
     0,
     3.3,
     -2.7,
@@ -29,10 +28,10 @@
     0,
     0.9,
     0.5,
+    0,
     0
   ],
   "precos": [
-    3.51,
     3.51,
     3.88,
     2.96,
@@ -42,10 +41,10 @@
     3.22,
     3.29,
     3.3,
+    3.17,
     3.17
   ],
   "variacoes": [
-    0.07,
     0,
     0.37,
     -0.92,
@@ -55,10 +54,10 @@
     0,
     0.07,
     0.01,
-    -0.13
+    -0.13,
+    0
   ],
   "medias": [
-    1.76,
     1.76,
     1.84,
     1.61,
@@ -68,22 +67,10 @@
     1.51,
     1.48,
     1.44,
+    1.38,
     1.38
   ],
   "partidas": [
-    {
-      "rodada_id": 21,
-      "clube_casa": "Sport",
-      "clube_casa_id": 292,
-      "clube_visitante": "Vasco",
-      "clube_casa_abrev": "SPO",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2015/07/21/sport65.png",
-      "clube_visitante_id": 267,
-      "clube_visitante_abrev": "VAS",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/07/29/Vasco-65.png",
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 2
-    },
     {
       "rodada_id": 22,
       "clube_casa": "Sport",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2015/07/21/sport65.png",
       "placar_oficial_mandante": 3,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 32,
+      "clube_casa": "Sport",
+      "clube_casa_id": 292,
+      "clube_visitante": "Bahia",
+      "clube_casa_abrev": "SPO",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2015/07/21/sport65.png",
+      "clube_visitante_id": 265,
+      "clube_visitante_abrev": "BAH",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/bahia_60x60.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2020/08/25/003e596752a82b34bc103220faa3125d_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2015/07/21/sport65.png",
   "scouts": {
-    "rodada_id": 31,
+    "rodada_id": 32,
     "rb": 0,
     "g": 0,
     "a": 0,
@@ -241,7 +241,7 @@
     "pi": 51,
     "pontos_num": 0,
     "preco_num": 3.17,
-    "variacao_num": -0.13,
+    "variacao_num": 0,
     "media_num": 1.38,
     "jogos_num": 24,
     "posicao_abrev": "mei",

@@ -6,7 +6,6 @@
   "clube_id": 275,
   "posicao": "Goleiro",
   "rodadas": [
-    21,
     22,
     23,
     24,
@@ -16,10 +15,10 @@
     28,
     29,
     30,
-    31
+    31,
+    32
   ],
   "pontos": [
-    8.4,
     0,
     0,
     0,
@@ -29,7 +28,8 @@
     0,
     0,
     0,
-    0
+    0,
+    -4.2
   ],
   "precos": [
     3.32,
@@ -42,10 +42,9 @@
     3.32,
     3.32,
     3.32,
-    3.32
+    1.49
   ],
   "variacoes": [
-    1.97,
     0,
     0,
     0,
@@ -55,7 +54,8 @@
     0,
     0,
     0,
-    0
+    0,
+    -1.83
   ],
   "medias": [
     -0.4,
@@ -68,22 +68,9 @@
     -0.4,
     -0.4,
     -0.4,
-    -0.4
+    -1.16
   ],
   "partidas": [
-    {
-      "rodada_id": 21,
-      "clube_casa": "Palmeiras",
-      "clube_casa_id": 275,
-      "clube_visitante": "Fluminense",
-      "clube_casa_abrev": "PAL",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
-      "clube_visitante_id": 266,
-      "clube_visitante_abrev": "FLU",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/fluminense_60x60.png",
-      "placar_oficial_mandante": 2,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 22,
       "clube_casa": "Goiás",
@@ -213,17 +200,30 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 32,
+      "clube_casa": "Ceará",
+      "clube_casa_id": 354,
+      "clube_visitante": "Palmeiras",
+      "clube_casa_abrev": "CEA",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/10/10/ceara-65x65.png",
+      "clube_visitante_id": 275,
+      "clube_visitante_abrev": "PAL",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2020/03/09/511303024e5679ad2b3ae40dd0b19d1d_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
   "scouts": {
-    "rodada_id": 31,
+    "rodada_id": 32,
     "rb": 0,
     "g": 0,
     "a": 0,
     "sg": 1,
-    "fs": 0,
+    "fs": 1,
     "ff": 0,
     "fd": 0,
     "ft": 0,
@@ -233,17 +233,17 @@
     "cv": 0,
     "ca": 1,
     "pp": 0,
-    "gs": 5,
+    "gs": 7,
     "fc": 0,
     "i": 0,
     "pe": 0,
     "ds": 0,
-    "pi": 26,
-    "pontos_num": 0,
-    "preco_num": 3.32,
-    "variacao_num": 0,
-    "media_num": -0.4,
-    "jogos_num": 4,
+    "pi": 33,
+    "pontos_num": -4.2,
+    "preco_num": 1.49,
+    "variacao_num": -1.83,
+    "media_num": -1.16,
+    "jogos_num": 5,
     "posicao_abrev": "gol",
     "posicao": "Goleiro"
   }
