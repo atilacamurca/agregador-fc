@@ -6,7 +6,6 @@
   "clube_id": 276,
   "posicao": "Atacante",
   "rodadas": [
-    22,
     23,
     24,
     25,
@@ -16,7 +15,8 @@
     29,
     30,
     31,
-    32
+    32,
+    33
   ],
   "pontos": [
     0,
@@ -25,8 +25,8 @@
     0,
     0,
     0,
-    0,
     2.3,
+    0,
     0,
     0,
     0
@@ -37,15 +37,14 @@
     2.82,
     2.82,
     2.82,
-    2.82,
     2.65,
+    3.01,
     3.01,
     3.01,
     3.01,
     3.01
   ],
   "variacoes": [
-    -0.13,
     0,
     0,
     0,
@@ -53,6 +52,7 @@
     0,
     -0.17,
     0.36,
+    0,
     0,
     0,
     0
@@ -63,27 +63,14 @@
     0.25,
     0.25,
     0.25,
-    0.25,
     0.2,
+    0.55,
     0.55,
     0.55,
     0.55,
     0.55
   ],
   "partidas": [
-    {
-      "rodada_id": 22,
-      "clube_casa": "São Paulo",
-      "clube_casa_id": 276,
-      "clube_visitante": "Vasco",
-      "clube_casa_abrev": "SAO",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/sao_paulo_60x60.png",
-      "clube_visitante_id": 267,
-      "clube_visitante_abrev": "VAS",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/07/29/Vasco-65.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 23,
       "clube_casa": "Bahia",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2017/03/29/coritiba65.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 33,
+      "clube_casa": "Atlético-GO",
+      "clube_casa_id": 373,
+      "clube_visitante": "São Paulo",
+      "clube_casa_abrev": "ATL",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2020/07/02/atletico-go-2020-65.png",
+      "clube_visitante_id": 276,
+      "clube_visitante_abrev": "SAO",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/sao_paulo_60x60.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2020/03/09/a26febfd7e5fd4366d0dbe0997ee0521_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/sao_paulo_60x60.png",
   "scouts": {
-    "rodada_id": 32,
+    "rodada_id": 33,
     "rb": 0,
     "g": 0,
     "a": 0,

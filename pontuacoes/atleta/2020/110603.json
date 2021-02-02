@@ -6,7 +6,6 @@
   "clube_id": 275,
   "posicao": "Atacante",
   "rodadas": [
-    22,
     23,
     24,
     25,
@@ -16,7 +15,8 @@
     29,
     30,
     31,
-    32
+    32,
+    33
   ],
   "pontos": [
     0,
@@ -27,9 +27,9 @@
     0,
     0,
     0,
-    0,
     1.4,
-    -0.1
+    -0.1,
+    0
   ],
   "precos": [
     1,
@@ -40,8 +40,8 @@
     1,
     1,
     1,
-    1,
     1.07,
+    0.84,
     0.84
   ],
   "variacoes": [
@@ -53,9 +53,9 @@
     0,
     0,
     0,
-    0,
     0.07,
-    -0.23
+    -0.23,
+    0
   ],
   "medias": [
     0,
@@ -66,24 +66,11 @@
     0,
     0,
     0,
-    0,
     1.4,
+    0.65,
     0.65
   ],
   "partidas": [
-    {
-      "rodada_id": 22,
-      "clube_casa": "Goiás",
-      "clube_casa_id": 290,
-      "clube_visitante": "Palmeiras",
-      "clube_casa_abrev": "GOI",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/05/01/Goias_65px.png",
-      "clube_visitante_id": 275,
-      "clube_visitante_abrev": "PAL",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 23,
       "clube_casa": "Palmeiras",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 33,
+      "clube_casa": "Palmeiras",
+      "clube_casa_id": 275,
+      "clube_visitante": "Botafogo",
+      "clube_casa_abrev": "PAL",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
+      "clube_visitante_id": 263,
+      "clube_visitante_abrev": "BOT",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/04/botafogo-65.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2020/11/13/69366e96b4b4ee5d80ac0100f82850bb_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
   "scouts": {
-    "rodada_id": 32,
+    "rodada_id": 33,
     "rb": 0,
     "g": 0,
     "a": 0,
@@ -239,9 +239,9 @@
     "pe": 0,
     "ds": 1,
     "pi": 2,
-    "pontos_num": -0.1,
+    "pontos_num": 0,
     "preco_num": 0.84,
-    "variacao_num": -0.23,
+    "variacao_num": 0,
     "media_num": 0.65,
     "jogos_num": 2,
     "posicao_abrev": "ata",

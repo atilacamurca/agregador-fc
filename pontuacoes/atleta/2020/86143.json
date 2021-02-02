@@ -6,7 +6,6 @@
   "clube_id": 356,
   "posicao": "Zagueiro",
   "rodadas": [
-    22,
     23,
     24,
     25,
@@ -16,10 +15,10 @@
     29,
     30,
     31,
-    32
+    32,
+    33
   ],
   "pontos": [
-    1.2,
     0,
     0,
     0,
@@ -29,10 +28,10 @@
     5.2,
     -2.9,
     0,
-    0
+    0,
+    0.9
   ],
   "precos": [
-    3.36,
     3.36,
     3.36,
     3.36,
@@ -42,10 +41,10 @@
     3.9,
     2.66,
     2.66,
-    2.66
+    2.66,
+    3.2
   ],
   "variacoes": [
-    -0.64,
     0,
     0,
     0,
@@ -55,10 +54,10 @@
     0.67,
     -1.24,
     0,
-    0
+    0,
+    0.54
   ],
   "medias": [
-    1.2,
     1.2,
     1.2,
     1.2,
@@ -68,22 +67,10 @@
     2.53,
     1.17,
     1.17,
-    1.17
+    1.17,
+    1.12
   ],
   "partidas": [
-    {
-      "rodada_id": 22,
-      "clube_casa": "Botafogo",
-      "clube_casa_id": 263,
-      "clube_visitante": "Fortaleza",
-      "clube_casa_abrev": "BOT",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/04/botafogo-65.png",
-      "clube_visitante_id": 356,
-      "clube_visitante_abrev": "FOR",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/06/10/fortaleza-ec-65px.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 2
-    },
     {
       "rodada_id": 23,
       "clube_casa": "Fortaleza",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/06/10/fortaleza-ec-65px.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 33,
+      "clube_casa": "Atlético-MG",
+      "clube_casa_id": 282,
+      "clube_visitante": "Fortaleza",
+      "clube_casa_abrev": "ATL",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2017/11/23/Atletico-Mineiro-escudo65px.png",
+      "clube_visitante_id": 356,
+      "clube_visitante_abrev": "FOR",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/06/10/fortaleza-ec-65px.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2020/11/18/2e97acab2ac95708854691c5e1effc73_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2018/06/10/fortaleza-ec-65px.png",
   "scouts": {
-    "rodada_id": 32,
+    "rodada_id": 33,
     "rb": 0,
     "g": 0,
     "a": 0,
@@ -237,13 +237,13 @@
     "fc": 4,
     "i": 0,
     "pe": 0,
-    "ds": 3,
-    "pi": 13,
-    "pontos_num": 0,
-    "preco_num": 2.66,
-    "variacao_num": 0,
-    "media_num": 1.17,
-    "jogos_num": 4,
+    "ds": 4,
+    "pi": 14,
+    "pontos_num": 0.9,
+    "preco_num": 3.2,
+    "variacao_num": 0.54,
+    "media_num": 1.12,
+    "jogos_num": 5,
     "posicao_abrev": "zag",
     "posicao": "Zagueiro"
   }
