@@ -6,7 +6,6 @@
   "clube_id": 276,
   "posicao": "Atacante",
   "rodadas": [
-    23,
     24,
     25,
     26,
@@ -16,10 +15,10 @@
     30,
     31,
     32,
-    33
+    33,
+    34
   ],
   "pontos": [
-    17.9,
     12,
     1.8,
     0,
@@ -29,10 +28,10 @@
     0,
     11,
     6.5,
-    -0.5
+    -0.5,
+    0
   ],
   "precos": [
-    11.61,
     11.33,
     9.74,
     9.74,
@@ -42,10 +41,10 @@
     9.35,
     10.93,
     10.46,
+    9.36,
     9.36
   ],
   "variacoes": [
-    1.16,
     -0.28,
     -1.59,
     0,
@@ -55,10 +54,10 @@
     0,
     1.58,
     -0.47,
-    -1.1
+    -1.1,
+    0
   ],
   "medias": [
-    6.43,
     6.74,
     6.48,
     6.48,
@@ -68,22 +67,10 @@
     6.17,
     6.4,
     6.4,
+    6.1,
     6.1
   ],
   "partidas": [
-    {
-      "rodada_id": 23,
-      "clube_casa": "Bahia",
-      "clube_casa_id": 265,
-      "clube_visitante": "São Paulo",
-      "clube_casa_abrev": "BAH",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/bahia_60x60.png",
-      "clube_visitante_id": 276,
-      "clube_visitante_abrev": "SAO",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/sao_paulo_60x60.png",
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 24,
       "clube_casa": "São Paulo",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/sao_paulo_60x60.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 34,
+      "clube_casa": "São Paulo",
+      "clube_casa_id": 276,
+      "clube_visitante": "Palmeiras",
+      "clube_casa_abrev": "SAO",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/sao_paulo_60x60.png",
+      "clube_visitante_id": 275,
+      "clube_visitante_abrev": "PAL",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2020/08/18/3ca611370a41964d7e12a7d04a9474aa_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/sao_paulo_60x60.png",
   "scouts": {
-    "rodada_id": 33,
+    "rodada_id": 34,
     "rb": 0,
     "g": 13,
     "a": 1,
@@ -239,9 +239,9 @@
     "pe": 0,
     "ds": 26,
     "pi": 101,
-    "pontos_num": -0.5,
+    "pontos_num": 0,
     "preco_num": 9.36,
-    "variacao_num": -1.1,
+    "variacao_num": 0,
     "media_num": 6.1,
     "jogos_num": 23,
     "posicao_abrev": "ata",

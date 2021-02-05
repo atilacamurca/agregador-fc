@@ -6,7 +6,6 @@
   "clube_id": 264,
   "posicao": "Técnico",
   "rodadas": [
-    23,
     24,
     25,
     26,
@@ -16,10 +15,10 @@
     30,
     31,
     32,
-    33
+    33,
+    34
   ],
   "pontos": [
-    0,
     0,
     8.02,
     4.65,
@@ -29,10 +28,10 @@
     0,
     7.94,
     1.11,
-    0
+    0,
+    3.37
   ],
   "precos": [
-    7.52,
     7.52,
     8.16,
     7.76,
@@ -42,10 +41,10 @@
     8.21,
     8.38,
     7.4,
-    7.4
+    7.4,
+    7.73
   ],
   "variacoes": [
-    0,
     0,
     0.64,
     -0.4,
@@ -55,10 +54,10 @@
     0,
     0.17,
     -0.98,
-    0
+    0,
+    0.33
   ],
   "medias": [
-    3.32,
     3.32,
     3.54,
     3.59,
@@ -68,22 +67,10 @@
     3.74,
     3.91,
     3.8,
-    3.8
+    3.8,
+    3.78
   ],
   "partidas": [
-    {
-      "rodada_id": 23,
-      "clube_casa": "Coritiba",
-      "clube_casa_id": 294,
-      "clube_visitante": "Corinthians",
-      "clube_casa_abrev": "COR",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2017/03/29/coritiba65.png",
-      "clube_visitante_id": 264,
-      "clube_visitante_abrev": "COR",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/30/Corinthians_65.png",
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 24,
       "clube_casa": "Fortaleza",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/30/Corinthians_65.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 34,
+      "clube_casa": "Corinthians",
+      "clube_casa_id": 264,
+      "clube_visitante": "Ceará",
+      "clube_casa_abrev": "COR",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/30/Corinthians_65.png",
+      "clube_visitante_id": 354,
+      "clube_visitante_abrev": "CEA",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/10/10/ceara-65x65.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2020/10/17/872eda934e6fd1fe19b16842c52b0fb9_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/30/Corinthians_65.png",
   "scouts": {
-    "rodada_id": 33,
+    "rodada_id": 34,
     "rb": 0,
     "g": 0,
     "a": 0,
@@ -239,11 +239,11 @@
     "pe": 0,
     "ds": 0,
     "pi": 0,
-    "pontos_num": 0,
-    "preco_num": 7.4,
-    "variacao_num": 0,
-    "media_num": 3.8,
-    "jogos_num": 25,
+    "pontos_num": 3.37,
+    "preco_num": 7.73,
+    "variacao_num": 0.33,
+    "media_num": 3.78,
+    "jogos_num": 26,
     "posicao_abrev": "tec",
     "posicao": "Técnico"
   }
