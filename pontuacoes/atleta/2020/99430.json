@@ -6,7 +6,6 @@
   "clube_id": 263,
   "posicao": "Goleiro",
   "rodadas": [
-    24,
     25,
     26,
     27,
@@ -16,10 +15,10 @@
     31,
     32,
     33,
-    34
+    34,
+    35
   ],
   "pontos": [
-    0,
     0,
     0,
     0,
@@ -29,7 +28,8 @@
     -6.6,
     0,
     0,
-    0
+    0,
+    -2.6
   ],
   "precos": [
     1,
@@ -37,8 +37,8 @@
     1,
     1,
     1,
-    1,
     1.39,
+    0.78,
     0.78,
     0.78,
     0.78,
@@ -50,9 +50,9 @@
     0,
     0,
     0,
-    0,
     0.39,
     -0.61,
+    0,
     0,
     0,
     0
@@ -63,27 +63,14 @@
     0,
     0,
     0,
-    0,
     3.4,
     -1.6,
     -1.6,
     -1.6,
-    -1.6
+    -1.6,
+    -1.93
   ],
   "partidas": [
-    {
-      "rodada_id": 24,
-      "clube_casa": "Botafogo",
-      "clube_casa_id": 263,
-      "clube_visitante": "Flamengo",
-      "clube_casa_abrev": "BOT",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/04/botafogo-65.png",
-      "clube_visitante_id": 262,
-      "clube_visitante_abrev": "FLA",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/04/09/Flamengo-65.png",
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 25,
       "clube_casa": "Internacional",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2015/07/21/sport65.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 35,
+      "clube_casa": "Botafogo",
+      "clube_casa_id": 263,
+      "clube_visitante": "Grêmio",
+      "clube_casa_abrev": "BOT",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/04/botafogo-65.png",
+      "clube_visitante_id": 284,
+      "clube_visitante_abrev": "GRE",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/gremio_60x60.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 5
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2020/03/01/4aa545bef3f6f79e2004bcd20b92e8e7_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/04/botafogo-65.png",
   "scouts": {
-    "rodada_id": 34,
+    "rodada_id": 35,
     "rb": 0,
     "g": 0,
     "a": 0,
@@ -227,23 +227,23 @@
     "ff": 0,
     "fd": 0,
     "ft": 0,
-    "dd": 2,
+    "dd": 4,
     "dp": 0,
     "gc": 0,
     "cv": 0,
     "ca": 0,
     "pp": 0,
-    "gs": 5,
+    "gs": 10,
     "fc": 0,
     "i": 0,
     "pe": 0,
     "ds": 0,
-    "pi": 12,
-    "pontos_num": 0,
+    "pi": 18,
+    "pontos_num": -2.6,
     "preco_num": 0.78,
     "variacao_num": 0,
-    "media_num": -1.6,
-    "jogos_num": 2,
+    "media_num": -1.93,
+    "jogos_num": 3,
     "posicao_abrev": "gol",
     "posicao": "Goleiro"
   }
