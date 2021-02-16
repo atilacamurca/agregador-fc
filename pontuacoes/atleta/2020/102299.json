@@ -6,7 +6,6 @@
   "clube_id": 292,
   "posicao": "Atacante",
   "rodadas": [
-    25,
     26,
     27,
     28,
@@ -16,10 +15,10 @@
     32,
     33,
     34,
-    35
+    35,
+    36
   ],
   "pontos": [
-    0.7,
     0,
     -0.5,
     0,
@@ -29,10 +28,10 @@
     0,
     0,
     0,
-    0
+    0,
+    -0.1
   ],
   "precos": [
-    3.04,
     2.9,
     2.74,
     2.74,
@@ -42,10 +41,10 @@
     2.75,
     2.75,
     2.75,
-    2.75
+    2.75,
+    2.56
   ],
   "variacoes": [
-    0.1,
     -0.14,
     -0.16,
     0,
@@ -55,10 +54,10 @@
     0,
     0,
     0,
-    0
+    0,
+    -0.19
   ],
   "medias": [
-    1.66,
     1.48,
     1.28,
     1.28,
@@ -68,22 +67,10 @@
     1.1,
     1.1,
     1.1,
-    1.1
+    1.1,
+    1.01
   ],
   "partidas": [
-    {
-      "rodada_id": 25,
-      "clube_casa": "Sport",
-      "clube_casa_id": 292,
-      "clube_visitante": "Coritiba",
-      "clube_casa_abrev": "SPO",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2015/07/21/sport65.png",
-      "clube_visitante_id": 294,
-      "clube_visitante_abrev": "COR",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2017/03/29/coritiba65.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 26,
       "clube_casa": "Sport",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2015/07/21/sport65.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 36,
+      "clube_casa": "Sport",
+      "clube_casa_id": 292,
+      "clube_visitante": "Bragantino",
+      "clube_casa_abrev": "SPO",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2015/07/21/sport65.png",
+      "clube_visitante_id": 280,
+      "clube_visitante_abrev": "BRA",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2020/01/01/65.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2020/11/13/a73bd740adb93a9d3545c96e7c4d4c97_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2015/07/21/sport65.png",
   "scouts": {
-    "rodada_id": 35,
+    "rodada_id": 36,
     "rb": 0,
     "g": 1,
     "a": 0,
@@ -238,12 +238,12 @@
     "i": 2,
     "pe": 0,
     "ds": 2,
-    "pi": 10,
-    "pontos_num": 0,
-    "preco_num": 2.75,
-    "variacao_num": 0,
-    "media_num": 1.1,
-    "jogos_num": 12,
+    "pi": 11,
+    "pontos_num": -0.1,
+    "preco_num": 2.56,
+    "variacao_num": -0.19,
+    "media_num": 1.01,
+    "jogos_num": 13,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }

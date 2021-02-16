@@ -6,7 +6,6 @@
   "clube_id": 275,
   "posicao": "Meia",
   "rodadas": [
-    25,
     26,
     27,
     28,
@@ -16,10 +15,10 @@
     32,
     33,
     34,
-    35
+    35,
+    36
   ],
   "pontos": [
-    2.4,
     4,
     -0.3,
     0,
@@ -29,10 +28,10 @@
     1.5,
     0,
     0,
-    0
+    0,
+    11.7
   ],
   "precos": [
-    6,
     6.34,
     5.58,
     5.58,
@@ -42,10 +41,10 @@
     5.73,
     5.73,
     5.73,
-    5.73
+    5.73,
+    7.39
   ],
   "variacoes": [
-    -0.34,
     0.34,
     -0.76,
     0,
@@ -55,10 +54,10 @@
     0.26,
     0,
     0,
-    0
+    0,
+    1.66
   ],
   "medias": [
-    1.9,
     2.05,
     1.89,
     1.89,
@@ -68,22 +67,10 @@
     1.76,
     1.76,
     1.76,
-    1.76
+    1.76,
+    2.31
   ],
   "partidas": [
-    {
-      "rodada_id": 25,
-      "clube_casa": "Palmeiras",
-      "clube_casa_id": 275,
-      "clube_visitante": "Bahia",
-      "clube_casa_abrev": "PAL",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
-      "clube_visitante_id": 265,
-      "clube_visitante_abrev": "BAH",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/bahia_60x60.png",
-      "placar_oficial_mandante": 3,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 26,
       "clube_casa": "Internacional",
@@ -213,19 +200,32 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 36,
+      "clube_casa": "Palmeiras",
+      "clube_casa_id": 275,
+      "clube_visitante": "Fortaleza",
+      "clube_casa_abrev": "PAL",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
+      "clube_visitante_id": 356,
+      "clube_visitante_abrev": "FOR",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/06/10/fortaleza-ec-65px.png",
+      "placar_oficial_mandante": 3,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2019/10/03/47c21ed885c76c65fecede59c0ecf1e0_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
   "scouts": {
-    "rodada_id": 35,
+    "rodada_id": 36,
     "rb": 0,
-    "g": 0,
+    "g": 1,
     "a": 2,
     "sg": 0,
-    "fs": 16,
-    "ff": 12,
-    "fd": 8,
+    "fs": 18,
+    "ff": 14,
+    "fd": 10,
     "ft": 1,
     "dd": 0,
     "dp": 0,
@@ -234,16 +234,16 @@
     "ca": 2,
     "pp": 0,
     "gs": 0,
-    "fc": 9,
+    "fc": 11,
     "i": 0,
     "pe": 0,
     "ds": 10,
-    "pi": 117,
-    "pontos_num": 0,
-    "preco_num": 5.73,
-    "variacao_num": 0,
-    "media_num": 1.76,
-    "jogos_num": 17,
+    "pi": 120,
+    "pontos_num": 11.7,
+    "preco_num": 7.39,
+    "variacao_num": 1.66,
+    "media_num": 2.31,
+    "jogos_num": 18,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }
