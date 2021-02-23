@@ -6,7 +6,6 @@
   "clube_id": 285,
   "posicao": "Meia",
   "rodadas": [
-    26,
     27,
     28,
     29,
@@ -16,10 +15,10 @@
     33,
     34,
     35,
-    36
+    36,
+    37
   ],
   "pontos": [
-    0,
     0,
     0,
     0,
@@ -29,23 +28,23 @@
     0,
     0,
     0,
-    -1.6
+    -1.6,
+    0.9
   ],
   "precos": [
     6.72,
     6.72,
     6.72,
-    6.72,
     5.71,
     5.71,
     5.69,
     5.69,
     5.69,
     5.69,
-    4.96
+    4.96,
+    5.33
   ],
   "variacoes": [
-    0,
     0,
     0,
     0,
@@ -55,35 +54,23 @@
     0,
     0,
     0,
-    -0.73
+    -0.73,
+    0.37
   ],
   "medias": [
     4.13,
     4.13,
     4.13,
-    4.13,
     3.36,
     3.36,
     2.97,
     2.97,
     2.97,
     2.97,
-    2.32
+    2.32,
+    2.14
   ],
   "partidas": [
-    {
-      "rodada_id": 26,
-      "clube_casa": "Internacional",
-      "clube_casa_id": 285,
-      "clube_visitante": "Palmeiras",
-      "clube_casa_abrev": "INT",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/03/inter65.png",
-      "clube_visitante_id": 275,
-      "clube_visitante_abrev": "PAL",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
-      "placar_oficial_mandante": 2,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 27,
       "clube_casa": "Bahia",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/03/inter65.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 37,
+      "clube_casa": "Flamengo",
+      "clube_casa_id": 262,
+      "clube_visitante": "Internacional",
+      "clube_casa_abrev": "FLA",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/04/09/Flamengo-65.png",
+      "clube_visitante_id": 285,
+      "clube_visitante_abrev": "INT",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/03/inter65.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2020/11/05/764235c95a2022213c0c091c00cbb5e0_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/03/inter65.png",
   "scouts": {
-    "rodada_id": 36,
+    "rodada_id": 37,
     "rb": 0,
     "g": 1,
     "a": 1,
@@ -237,13 +237,13 @@
     "fc": 5,
     "i": 0,
     "pe": 0,
-    "ds": 4,
-    "pi": 18,
-    "pontos_num": -1.6,
-    "preco_num": 4.96,
-    "variacao_num": -0.73,
-    "media_num": 2.32,
-    "jogos_num": 7,
+    "ds": 5,
+    "pi": 19,
+    "pontos_num": 0.9,
+    "preco_num": 5.33,
+    "variacao_num": 0.37,
+    "media_num": 2.14,
+    "jogos_num": 8,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }

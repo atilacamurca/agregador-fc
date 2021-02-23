@@ -6,7 +6,6 @@
   "clube_id": 285,
   "posicao": "Técnico",
   "rodadas": [
-    26,
     27,
     28,
     29,
@@ -16,10 +15,10 @@
     33,
     34,
     35,
-    36
+    36,
+    37
   ],
   "pontos": [
-    6.08,
     4.74,
     6.76,
     6.01,
@@ -29,10 +28,10 @@
     3.89,
     3.14,
     0.31,
-    4.74
+    4.74,
+    2.9
   ],
   "precos": [
-    10.62,
     10.54,
     11.05,
     11.06,
@@ -42,10 +41,10 @@
     11.49,
     11.31,
     10.73,
-    11.46
+    11.46,
+    11.22
   ],
   "variacoes": [
-    1,
     -0.08,
     0.51,
     0.01,
@@ -55,10 +54,10 @@
     0.23,
     -0.18,
     -0.58,
-    0.73
+    0.73,
+    -0.24
   ],
   "medias": [
-    2.66,
     2.96,
     3.44,
     3.73,
@@ -68,22 +67,10 @@
     4.02,
     3.96,
     3.72,
-    3.78
+    3.78,
+    3.73
   ],
   "partidas": [
-    {
-      "rodada_id": 26,
-      "clube_casa": "Internacional",
-      "clube_casa_id": 285,
-      "clube_visitante": "Palmeiras",
-      "clube_casa_abrev": "INT",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/03/inter65.png",
-      "clube_visitante_id": 275,
-      "clube_visitante_abrev": "PAL",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
-      "placar_oficial_mandante": 2,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 27,
       "clube_casa": "Bahia",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/03/inter65.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 37,
+      "clube_casa": "Flamengo",
+      "clube_casa_id": 262,
+      "clube_visitante": "Internacional",
+      "clube_casa_abrev": "FLA",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/04/09/Flamengo-65.png",
+      "clube_visitante_id": 285,
+      "clube_visitante_abrev": "INT",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/03/inter65.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2020/11/10/0f92efccde1103a2d235bd9cb9fa4deb_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/03/inter65.png",
   "scouts": {
-    "rodada_id": 36,
+    "rodada_id": 37,
     "rb": 0,
     "g": 0,
     "a": 0,
@@ -239,11 +239,11 @@
     "pe": 0,
     "ds": 0,
     "pi": 0,
-    "pontos_num": 4.74,
-    "preco_num": 11.46,
-    "variacao_num": 0.73,
-    "media_num": 3.78,
-    "jogos_num": 16,
+    "pontos_num": 2.9,
+    "preco_num": 11.22,
+    "variacao_num": -0.24,
+    "media_num": 3.73,
+    "jogos_num": 17,
     "posicao_abrev": "tec",
     "posicao": "Técnico"
   }
