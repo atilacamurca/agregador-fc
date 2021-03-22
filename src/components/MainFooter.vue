@@ -12,6 +12,10 @@
         <div class="col-md-2 col-lg-2 col-xl-2 mx-auto mb-4">
           <h6 class="text-uppercase font-weight-bold border-bottom pb-3">Temporadas</h6>
           <p>
+            <a href="https://agregador-fc-2020.netlify.app/"
+             target="_blank" rel="noopener noreferrer" class="text-white">2020</a>
+          </p>
+          <p>
             <a href="https://agregador-fc-2019.netlify.app/"
              target="_blank" rel="noopener noreferrer" class="text-white">2019</a>
           </p>
