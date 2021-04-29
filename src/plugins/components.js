@@ -8,7 +8,7 @@ import FaltaCometida from '~/components/scouts/FaltaCometida'
 import CartaoAmarelo from '~/components/scouts/CartaoAmarelo'
 import CartaoVermelho from '~/components/scouts/CartaoVermelho'
 import SaldoGol from '~/components/scouts/SaldoGol'
-import DefesaDificil from '~/components/scouts/DefesaDificil'
+import Defesa from '~/components/scouts/Defesa'
 import GolSofrido from '~/components/scouts/GolSofrido'
 import DefesaPenalti from '~/components/scouts/DefesaPenalti'
 import FinalizacaoFora from '~/components/scouts/FinalizacaoFora'
@@ -18,6 +18,8 @@ import Impedimento from '~/components/scouts/Impedimento'
 import PenaltiPerdido from '~/components/scouts/PenaltiPerdido'
 import Desarme from '~/components/scouts/Desarme'
 import PasseIncompleto from '~/components/scouts/PasseIncompleto'
+import PenaltiSofrido from '~/components/scouts/PenaltiSofrido'
+import PenaltiCometido from '~/components/scouts/PenaltiCometido'
 import ColNome from '~/components/clubes/ColNome'
 import HeaderClube from '~/components/clubes/HeaderClube'
 import RowAhLadrao from '~/components/melhores/RowAhLadrao'
@@ -59,7 +61,7 @@ export default {
         Vue.component('falta-cometida', () => import('~/components/scouts/FaltaCometida'))
         Vue.component('cartao-amarelo', () => import('~/components/scouts/CartaoAmarelo'))
         Vue.component('saldo-gol', () => import('~/components/scouts/SaldoGol'))
-        Vue.component('defesa-dificil', () => import('~/components/scouts/DefesaDificil'))
+        Vue.component('defesa', () => import('~/components/scouts/Defesa'))
         Vue.component('gol-sofrido', () => import('~/components/scouts/GolSofrido'))
         Vue.component('defesa-penalti', () => import('~/components/scouts/DefesaPenalti'))
         Vue.component('finalizacao-fora', () => import('~/components/scouts/FinalizacaoFora'))
@@ -78,7 +80,7 @@ export default {
         Vue.component('cartao-amarelo', CartaoAmarelo)
         Vue.component('cartao-vermelho', CartaoVermelho)
         Vue.component('saldo-gol', SaldoGol)
-        Vue.component('defesa-dificil', DefesaDificil)
+        Vue.component('defesa', Defesa)
         Vue.component('gol-sofrido', GolSofrido)
         Vue.component('defesa-penalti', DefesaPenalti)
         Vue.component('finalizacao-fora', FinalizacaoFora)
@@ -88,6 +90,8 @@ export default {
         Vue.component('penalti-perdido', PenaltiPerdido)
         Vue.component('desarme', Desarme)
         Vue.component('passe-incompleto', PasseIncompleto)
+        Vue.component('penalti-sofrido', PenaltiSofrido)
+        Vue.component('penalti-cometido', PenaltiCometido)
         Vue.component('col-nome', ColNome)
         Vue.component('header-clube', HeaderClube)
         Vue.component('row-ah-ladrao', RowAhLadrao)

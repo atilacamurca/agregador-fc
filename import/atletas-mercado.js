@@ -17,9 +17,9 @@ const UPSERT_ATLETAS = `INSERT INTO public.atletas(id, nome, slug, apelido, foto
     posicao_id=EXCLUDED.posicao_id`
 const UPSERT_ATLETAS_MERCADO = `INSERT INTO public.atletas_mercado (atleta_id, rodada_id,
     ano, pontos_num, preco_num, variacao_num, media_num, jogos_num, ds, g, a, sg, fs, ff,
-    fd, ft, dd, dp, gc, cv, ca, pp, gs, fc, i, pi, status_id)
+    fd, ft, de, dp, gc, cv, ca, pp, gs, fc, i, pi, pc, ps, status_id)
 VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10, $11, $12, $13, $14, $15, $16, $17, $18,
-    $19, $20, $21, $22, $23, $24, $25, $26, $27)
+    $19, $20, $21, $22, $23, $24, $25, $26, $27, $28, $29)
     ON CONFLICT ON CONSTRAINT atletas_mercado_pkey DO
     UPDATE
     SET pontos_num=EXCLUDED.pontos_num,
@@ -35,7 +35,7 @@ VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10, $11, $12, $13, $14, $15, $16, $
         ff=EXCLUDED.ff,
         fd=EXCLUDED.fd,
         ft=EXCLUDED.ft,
-        dd=EXCLUDED.dd,
+        de=EXCLUDED.de,
         dp=EXCLUDED.dp,
         gc=EXCLUDED.gc,
         cv=EXCLUDED.cv,
@@ -45,6 +45,8 @@ VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10, $11, $12, $13, $14, $15, $16, $
         fc=EXCLUDED.fc,
         i=EXCLUDED.i,
         pi=EXCLUDED.pi,
+        pc=EXCLUDED.pc,
+        ps=EXCLUDED.ps,
         status_id=EXCLUDED.status_id`
 const CURRENT_YEAR = process.env.GRIDSOME_TEMPORADA
 
@@ -129,7 +131,7 @@ async function save(data) {
                 orZero(a.scout, 'ff'),
                 orZero(a.scout, 'fd'),
                 orZero(a.scout, 'ft'),
-                orZero(a.scout, 'dd'),
+                orZero(a.scout, 'de'),
                 orZero(a.scout, 'dp'),
                 orZero(a.scout, 'gc'),
                 orZero(a.scout, 'cv'),
@@ -139,6 +141,8 @@ async function save(data) {
                 orZero(a.scout, 'fc'),
                 orZero(a.scout, 'i'),
                 orZero(a.scout, 'pi'),
+                orZero(a.scout, 'pc'),
+                orZero(a.scout, 'ps'),
                 a.status_id
             ]))
         }

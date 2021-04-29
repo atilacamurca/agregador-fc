@@ -7,11 +7,12 @@ CREATE OR REPLACE FUNCTION public.stat_laterais(
   RETURNS json AS
 $BODY$
     SELECT row_to_json(t) AS json FROM (
-        select coalesce(sum(rb), 0) as sum_rb, coalesce(sum(ds), 0) as sum_ds,
+        select coalesce(sum(ds), 0) as sum_ds,
         coalesce(sum(g), 0) as sum_g, coalesce(sum(a), 0) as sum_a,
         coalesce(sum(fs), 0) as sum_fs, coalesce(sum(pe), 0) as sum_pe,
         coalesce(sum("pi"), 0) as sum_pi, coalesce(sum(ff), 0) as sum_ff,
-        coalesce(sum(fd), 0) as sum_fd, coalesce(sum(fc), 0) as sum_fc
+        coalesce(sum(fd), 0) as sum_fd, coalesce(sum(fc), 0) as sum_fc,
+        coalesce(sum(pc), 0) as sum_pc
         from atletas_mercado am
         inner join atletas a on am.atleta_id = a.id
         inner join clubes c on a.clube_id = c.id

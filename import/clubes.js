@@ -15,15 +15,12 @@ async function save (data) {
 
         const batchClubes = []
         for (id in data) {
-            if (data[id].posicao === undefined) {
-                continue
-            }
             batchClubes.push(client.query(UPSERT_CLUBES, [
                 data[id].id,
                 data[id].nome,
                 data[id].nome_fantasia,
                 data[id].abreviacao,
-                data[id].posicao,
+                1,
                 data[id].escudos['60x60']
             ]))
             batchClubes.push(client.query(INSERT_CLUBES_TEMPORADA, [

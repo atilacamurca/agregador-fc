@@ -13,6 +13,7 @@ $BODY$
             jogos_num,
             preco_num,
             variacao_num,
+            pontos_num,
             foto,
             p.nome as nome_posicao,
             p.abreviacao as abreviacao_posicao

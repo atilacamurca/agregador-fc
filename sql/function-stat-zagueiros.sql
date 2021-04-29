@@ -7,11 +7,11 @@ CREATE OR REPLACE FUNCTION public.stat_zagueiros(
   RETURNS json AS
 $BODY$
     SELECT row_to_json(t) AS json FROM (
-        select coalesce(sum(rb), 0) as sum_rb, coalesce(sum(g), 0) as sum_g,
+        select coalesce(sum(g), 0) as sum_g,
         coalesce(sum(gc), 0) as sum_gc, coalesce(sum(fs), 0) as sum_fs,
         coalesce(sum(ca), 0) as sum_ca, coalesce(sum(fc), 0) as sum_fc,
         coalesce(sum(pe), 0) as sum_pe, coalesce(sum(ds), 0) as sum_ds,
-        coalesce(sum("pi"), 0) as sum_pi
+        coalesce(sum("pi"), 0) as sum_pi, coalesce(sum(pc), 0) as sum_pc
         from atletas_mercado am
         inner join atletas a on am.atleta_id = a.id
         inner join clubes c on a.clube_id = c.id

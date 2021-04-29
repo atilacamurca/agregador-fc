@@ -6,14 +6,13 @@
                 <b-col cols="12" md="5">
                     <div class="lead">Positivos</div>
                     <saldo-gol :sg="props.sg" show-multiplier show-total></saldo-gol>
-                    <defesa-dificil :dd="props.dd" show-multiplier show-total></defesa-dificil>
+                    <defesa :de="props.de" show-multiplier show-total></defesa>
                     <defesa-penalti :dp="props.dp" show-multiplier show-total></defesa-penalti>
                     <falta-sofrida :fs="props.fs" show-multiplier show-total></falta-sofrida>
                 </b-col>
                 <b-col cols="12" md="5" offset-md="1" class="mt-3 mt-md-0">
                     <div class="lead">Negativos</div>
                     <gol-sofrido :gs="props.gs" show-multiplier show-total></gol-sofrido>
-                    <passe-incompleto :pi="props.pi" show-multiplier show-total></passe-incompleto>
                     <falta-cometida :fc="props.fc" show-multiplier show-total></falta-cometida>
                     <cartao-amarelo :ca="props.ca" show-multiplier show-total></cartao-amarelo>
                 </b-col>
@@ -25,7 +24,7 @@
 <script>
 export default {
     props: {
-        dd: {
+        de: {
             type: Number,
             required: true
         },
@@ -34,10 +33,6 @@ export default {
             required: true
         },
         gs: {
-            type: Number,
-            required: true
-        },
-        pi: {
             type: Number,
             required: true
         },

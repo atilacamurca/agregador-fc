@@ -20,6 +20,7 @@
                     <falta-cometida :fc="props.fc" show-multiplier show-total></falta-cometida>
                     <cartao-amarelo :ca="props.ca" show-multiplier show-total></cartao-amarelo>
                     <cartao-vermelho :cv="props.cv" show-multiplier show-total></cartao-vermelho>
+                    <penalti-cometido :pc="props.pc" show-multiplier show-total></penalti-cometido>
                 </b-col>
             </b-row>
         </div>
@@ -74,6 +75,10 @@ export default {
             required: true
         },
         fd: {
+            type: Number,
+            required: true
+        },
+        pc: {
             type: Number,
             required: true
         },

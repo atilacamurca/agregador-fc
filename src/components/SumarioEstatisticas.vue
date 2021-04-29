@@ -4,7 +4,7 @@
             <b-col cols="6" md="6" class="border-right">
                 <b-row class="ml-2">
                     <col-defesa :sg="props.partida.goleiros_casa.sum_sg"></col-defesa>
-                    <col-goleiros :dd="props.partida.goleiros_casa.sum_dd"
+                    <col-goleiros :de="props.partida.goleiros_casa.sum_de"
                         :gs="props.partida.goleiros_casa.sum_gs"
                         :dp="props.partida.goleiros_casa.sum_dp"
                     ></col-goleiros>
@@ -13,7 +13,7 @@
             <b-col cols="6" md="6">
                 <b-row>
                     <col-defesa :sg="props.partida.goleiros_visitante.sum_sg"></col-defesa>
-                    <col-goleiros :dd="props.partida.goleiros_visitante.sum_dd"
+                    <col-goleiros :de="props.partida.goleiros_visitante.sum_de"
                         :gs="props.partida.goleiros_visitante.sum_gs"
                         :dp="props.partida.goleiros_visitante.sum_dp"
                     ></col-goleiros>
@@ -24,7 +24,6 @@
             <b-col cols="6" md="6" class="border-right">
                 <b-row>
                     <col-zagueiros
-                        :rb="props.partida.zagueiros_casa.sum_rb"
                         :gc="props.partida.zagueiros_casa.sum_gc"
                         :g="props.partida.zagueiros_casa.sum_g"
                         :pe="props.partida.zagueiros_casa.sum_pe"
@@ -40,7 +39,6 @@
             <b-col cols="6" md="6">
                 <b-row>
                     <col-zagueiros
-                        :rb="props.partida.zagueiros_visitante.sum_rb"
                         :gc="props.partida.zagueiros_visitante.sum_gc"
                         :g="props.partida.zagueiros_visitante.sum_g"
                         :pe="props.partida.zagueiros_visitante.sum_pe"
@@ -62,7 +60,6 @@
                         :fd="props.partida.laterais_casa.sum_fd"
                         :ff="props.partida.laterais_casa.sum_ff"
                         :pe="props.partida.laterais_casa.sum_pe"
-                        :rb="props.partida.laterais_casa.sum_rb"
                         :fc="props.partida.laterais_casa.sum_fc"
                         :fs="props.partida.laterais_casa.sum_fs"
                         :ds="props.partida.laterais_casa.sum_ds"
@@ -79,7 +76,6 @@
                         :fd="props.partida.laterais_visitante.sum_fd"
                         :ff="props.partida.laterais_visitante.sum_ff"
                         :pe="props.partida.laterais_visitante.sum_pe"
-                        :rb="props.partida.laterais_visitante.sum_rb"
                         :fc="props.partida.laterais_visitante.sum_fc"
                         :fs="props.partida.laterais_visitante.sum_fs"
                         :ds="props.partida.laterais_visitante.sum_ds"
@@ -109,7 +105,6 @@
                         :ff="props.partida.meias_casa.sum_ff"
                         :fs="props.partida.meias_casa.sum_fs"
                         :fc="props.partida.meias_casa.sum_fc"
-                        :rb="props.partida.meias_casa.sum_rb"
                         :pe="props.partida.meias_casa.sum_pe"
                         :ca="props.partida.meias_casa.sum_ca"
                         :ds="props.partida.meias_casa.sum_ds"
@@ -127,7 +122,6 @@
                         :ff="props.partida.meias_visitante.sum_ff"
                         :fs="props.partida.meias_visitante.sum_fs"
                         :fc="props.partida.meias_visitante.sum_fc"
-                        :rb="props.partida.meias_visitante.sum_rb"
                         :pe="props.partida.meias_visitante.sum_pe"
                         :ca="props.partida.meias_visitante.sum_ca"
                         :ds="props.partida.meias_visitante.sum_ds"

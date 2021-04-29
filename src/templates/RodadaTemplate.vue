@@ -233,6 +233,7 @@ query Rodada($path: String!) {
         preco_num
         media_num
         variacao_num
+        pontos_num
         foto
         nome_posicao
         abreviacao_posicao
@@ -244,24 +245,24 @@ query Rodada($path: String!) {
         preco_num
         media_num
         variacao_num
+        pontos_num
         foto
         nome_posicao
         abreviacao_posicao
       }
       goleiros_casa {
         sum_sg
-        sum_dd
+        sum_de
         sum_dp
         sum_gs
       }
       goleiros_visitante {
         sum_sg
-        sum_dd
+        sum_de
         sum_dp
         sum_gs
       }
       zagueiros_casa {
-        sum_rb
         sum_gc
         sum_g
         sum_fs
@@ -272,7 +273,6 @@ query Rodada($path: String!) {
         sum_pi
       }
       zagueiros_visitante {
-        sum_rb
         sum_gc
         sum_g
         sum_fs
@@ -283,7 +283,6 @@ query Rodada($path: String!) {
         sum_pi
       }
       laterais_casa {
-        sum_rb
         sum_g
         sum_a
         sum_fs
@@ -295,7 +294,6 @@ query Rodada($path: String!) {
         sum_pi
       }
       laterais_visitante {
-        sum_rb
         sum_g
         sum_a
         sum_fs
@@ -312,7 +310,6 @@ query Rodada($path: String!) {
         sum_fs
         sum_ff
         sum_fc
-        sum_rb
         sum_fd
         sum_ca
         sum_pe
@@ -325,7 +322,6 @@ query Rodada($path: String!) {
         sum_fs
         sum_ff
         sum_fc
-        sum_rb
         sum_fd
         sum_ca
         sum_pe
@@ -361,6 +357,7 @@ query Rodada($path: String!) {
         preco_num
         media_num
         variacao_num
+        pontos_num
         foto
         nome_posicao
         abreviacao_posicao
@@ -372,6 +369,7 @@ query Rodada($path: String!) {
         preco_num
         media_num
         variacao_num
+        pontos_num
         foto
         nome_posicao
         abreviacao_posicao

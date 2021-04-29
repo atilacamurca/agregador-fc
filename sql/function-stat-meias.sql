@@ -9,7 +9,7 @@ $BODY$
     SELECT row_to_json(t) AS json FROM (
         select coalesce(sum(g), 0) as sum_g, coalesce(sum(a), 0) as sum_a,
         coalesce(sum(fs), 0) as sum_fs, coalesce(sum(ff), 0) as sum_ff,
-        coalesce(sum(fc), 0) as sum_fc, coalesce(sum(rb), 0) as sum_rb,
+        coalesce(sum(fc), 0) as sum_fc, coalesce(sum(ps), 0) as sum_ps,
         coalesce(sum(fd), 0) as sum_fd, coalesce(sum(ca), 0) as sum_ca,
         coalesce(sum(pe), 0) as sum_pe, coalesce(sum(ds), 0) as sum_ds,
         coalesce(sum("pi"), 0) as sum_pi

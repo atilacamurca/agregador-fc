@@ -130,7 +130,6 @@ query Pontuacao($path: String!) {
     }
     scouts {
       ultima_rodada: rodada_id
-      rb
       g
       a
       sg
@@ -138,7 +137,7 @@ query Pontuacao($path: String!) {
       ff
       fd
       ft
-      dd
+      de
       dp
       gc
       cv
@@ -147,9 +146,10 @@ query Pontuacao($path: String!) {
       gs
       fc
       i
-      pe
       ds
       pi
+      ps
+      pc
       pontos_num
       preco_num
       variacao_num

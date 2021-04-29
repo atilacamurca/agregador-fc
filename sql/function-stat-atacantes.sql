@@ -7,7 +7,8 @@ $$
         select coalesce(sum(g), 0) as sum_g, coalesce(sum(a), 0) as sum_a,
         coalesce(sum(fs), 0) as sum_fs, coalesce(sum(ff), 0) as sum_ff,
         coalesce(sum(pp), 0) as sum_pp, coalesce(sum(fc), 0) as sum_fc,
-        coalesce(sum(i), 0) as sum_i, coalesce(sum(fd), 0) as sum_fd
+        coalesce(sum(i), 0) as sum_i, coalesce(sum(fd), 0) as sum_fd,
+        coalesce(sum(ps), 0) as sum_ps
         from atletas_mercado am
         inner join atletas a on am.atleta_id = a.id
         inner join clubes c on a.clube_id = c.id

@@ -11,6 +11,7 @@
                     <finalizacao-fora :ff="props.ff" show-multiplier show-total></finalizacao-fora>
                     <finalizacao-defendida :fd="props.fd" show-multiplier show-total></finalizacao-defendida>
                     <falta-sofrida :fs="props.fs" show-multiplier show-total></falta-sofrida>
+                    <penalti-sofrido :ps=props.ps show-multiplier show-total></penalti-sofrido>
                 </b-col>
                 <b-col cols="12" md="5" offset-md="1" class="mt-3 mt-md-0">
                     <div class="lead">Negativos</div>
@@ -79,6 +80,10 @@ export default {
             required: true
         },
         ds: {
+            type: Number,
+            required: true
+        },
+        ps: {
             type: Number,
             required: true
         },

@@ -6,9 +6,9 @@ CREATE OR REPLACE FUNCTION public.atleta_ultimos_scouts(
   RETURNS json AS
 $BODY$
     SELECT row_to_json(t) AS json FROM (
-        SELECT rodada_id, rb, g, a, sg, fs, ff, fd,
-			ft, dd, dp, gc, cv, ca,
-			pp, gs, fc, i, pe, ds, "pi",
+        SELECT rodada_id, g, a, sg, fs, ff, fd,
+			ft, de, dp, gc, cv, ca,
+			pp, gs, fc, i, ds, "pi", pc, ps,
 			pontos_num, preco_num,
 			variacao_num, media_num, jogos_num,
 			abreviacao AS posicao_abrev,

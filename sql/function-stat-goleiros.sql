@@ -1,10 +1,10 @@
 ﻿DROP FUNCTION public.stat_goleiros(integer, integer, integer);
 
-CREATE FUNCTION stat_goleiros(_rodada_id integer, _ano integer, _clube_id integer) 
+CREATE FUNCTION stat_goleiros(_rodada_id integer, _ano integer, _clube_id integer)
 RETURNS json AS
 $$
     SELECT row_to_json(t) AS json FROM (
-        select coalesce(sum(sg), 0) as sum_sg, coalesce(sum(dd), 0) as sum_dd,
+        select coalesce(sum(sg), 0) as sum_sg, coalesce(sum(de), 0) as sum_de,
         coalesce(sum(dp), 0) as sum_dp, coalesce(sum(gs), 0) as sum_gs
         from atletas_mercado am
         inner join atletas a on am.atleta_id = a.id

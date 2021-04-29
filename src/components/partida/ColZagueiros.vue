@@ -20,11 +20,6 @@
 <script>
 export default {
     props: {
-        rb: {
-            type: Number,
-            required: false,
-            default: 0
-        },
         g: {
             type: Number,
             required: true

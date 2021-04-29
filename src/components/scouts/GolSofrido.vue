@@ -3,7 +3,7 @@
         tooltip="Gol sofrido"
         label="GS"
         variant="danger"
-        :multiplier="-2"
+        :multiplier="-1"
         :show-multiplier="props.showMultiplier"
         :show-total="props.showTotal"
     ></scout>

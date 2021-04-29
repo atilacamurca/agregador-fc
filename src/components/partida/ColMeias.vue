@@ -46,11 +46,6 @@ export default {
             type: Number,
             required: true
         },
-        rb: {
-            type: Number,
-            required: false,
-            default: 0
-        },
         pe: {
             type: Number,
             required: false,

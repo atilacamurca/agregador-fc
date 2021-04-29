@@ -26,8 +26,10 @@ export default {
 .app {
     padding-top: 80px;
     font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
-    background: #087ee1;
-    background: linear-gradient(315deg, #05e8ba 0%, #087ee1 74%) fixed;
+    background: #6B960C;
+    background: -webkit-linear-gradient(top left, #36DDAC, #6B960C) fixed;
+    background: -moz-linear-gradient(top left, #36DDAC, #6B960C) fixed;
+    background: linear-gradient(to bottom right, #36DDAC, #6B960C) fixed;
     height: 100%;
 }
 
