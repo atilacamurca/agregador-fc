@@ -6,19 +6,24 @@
   "clube_id": 315,
   "posicao": "Lateral",
   "rodadas": [
-    1
+    1,
+    2
   ],
   "pontos": [
-    0.3
+    0.3,
+    2.8
   ],
   "precos": [
-    1.6
+    1.6,
+    2.43
   ],
   "variacoes": [
-    -0.4
+    -0.4,
+    0.83
   ],
   "medias": [
-    0.3
+    0.3,
+    1.55
   ],
   "partidas": [
     {
@@ -33,18 +38,31 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2020/01/01/65.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 3
+    },
+    {
+      "rodada_id": 2,
+      "clube_casa": "Palmeiras",
+      "clube_casa_id": 275,
+      "clube_visitante": "Chapecoense",
+      "clube_casa_abrev": "PAL",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
+      "clube_visitante_id": 315,
+      "clube_visitante_abrev": "CHA",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2015/08/03/Escudo-Chape-165.png",
+      "placar_oficial_mandante": 3,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2021/03/23/8b21833f19a055532803a0be7066b652_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2015/08/03/Escudo-Chape-165.png",
   "scouts": {
-    "rodada_id": 1,
+    "rodada_id": 2,
     "g": 0,
     "a": 0,
     "sg": 0,
-    "fs": 0,
-    "ff": 0,
-    "fd": 0,
+    "fs": 2,
+    "ff": 1,
+    "fd": 1,
     "ft": 0,
     "de": 0,
     "dp": 0,
@@ -53,17 +71,17 @@
     "ca": 0,
     "pp": 0,
     "gs": 0,
-    "fc": 0,
+    "fc": 1,
     "i": 0,
-    "ds": 2,
-    "pi": 17,
+    "ds": 3,
+    "pi": 24,
     "pc": 0,
     "ps": 0,
-    "pontos_num": 0.3,
-    "preco_num": 1.6,
-    "variacao_num": -0.4,
-    "media_num": 0.3,
-    "jogos_num": 1,
+    "pontos_num": 2.8,
+    "preco_num": 2.43,
+    "variacao_num": 0.83,
+    "media_num": 1.55,
+    "jogos_num": 2,
     "posicao_abrev": "lat",
     "posicao": "Lateral"
   }

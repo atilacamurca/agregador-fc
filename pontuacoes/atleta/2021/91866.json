@@ -6,19 +6,24 @@
   "clube_id": 293,
   "posicao": "Zagueiro",
   "rodadas": [
-    1
+    1,
+    2
   ],
   "pontos": [
-    0
+    0,
+    5.1
   ],
   "precos": [
-    3
+    3,
+    4.33
   ],
   "variacoes": [
-    0
+    0,
+    1.33
   ],
   "medias": [
-    0
+    0,
+    5.1
   ],
   "partidas": [
     {
@@ -33,16 +38,29 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/28/escudo65_1.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 2,
+      "clube_casa": "Juventude",
+      "clube_casa_id": 286,
+      "clube_visitante": "Athlético-PR",
+      "clube_casa_abrev": "JUV",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/08/juventude65.png",
+      "clube_visitante_id": 293,
+      "clube_visitante_abrev": "ATL",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/09/Athletico-PR-65x65.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 3
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2021/05/02/08540895ccd662f502ed02a60a7d8172_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/09/Athletico-PR-65x65.png",
   "scouts": {
-    "rodada_id": 1,
+    "rodada_id": 2,
     "g": 0,
     "a": 0,
-    "sg": 0,
-    "fs": 0,
+    "sg": 1,
+    "fs": 2,
     "ff": 0,
     "fd": 0,
     "ft": 0,
@@ -53,17 +71,17 @@
     "ca": 0,
     "pp": 0,
     "gs": 0,
-    "fc": 0,
+    "fc": 3,
     "i": 0,
-    "ds": 0,
-    "pi": 0,
+    "ds": 1,
+    "pi": 4,
     "pc": 0,
     "ps": 0,
-    "pontos_num": 0,
-    "preco_num": 3,
-    "variacao_num": 0,
-    "media_num": 0,
-    "jogos_num": 0,
+    "pontos_num": 5.1,
+    "preco_num": 4.33,
+    "variacao_num": 1.33,
+    "media_num": 5.1,
+    "jogos_num": 1,
     "posicao_abrev": "zag",
     "posicao": "Zagueiro"
   }

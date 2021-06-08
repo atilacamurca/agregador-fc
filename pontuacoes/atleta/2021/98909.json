@@ -6,19 +6,24 @@
   "clube_id": 280,
   "posicao": "Atacante",
   "rodadas": [
-    1
+    1,
+    2
   ],
   "pontos": [
-    2.2
+    2.2,
+    10
   ],
   "precos": [
-    3.62
+    3.62,
+    7.5
   ],
   "variacoes": [
-    0.62
+    0.62,
+    3.88
   ],
   "medias": [
-    2.2
+    2.2,
+    6.1
   ],
   "partidas": [
     {
@@ -33,18 +38,31 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2020/01/01/65.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 3
+    },
+    {
+      "rodada_id": 2,
+      "clube_casa": "Bragantino",
+      "clube_casa_id": 280,
+      "clube_visitante": "Bahia",
+      "clube_casa_abrev": "BRA",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2020/01/01/65.png",
+      "clube_visitante_id": 265,
+      "clube_visitante_abrev": "BAH",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/bahia_60x60.png",
+      "placar_oficial_mandante": 3,
+      "placar_oficial_visitante": 3
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2021/04/06/6ed7254b13cdb389bb5df6c07ac6482e_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2020/01/01/65.png",
   "scouts": {
-    "rodada_id": 1,
-    "g": 0,
+    "rodada_id": 2,
+    "g": 1,
     "a": 0,
     "sg": 0,
-    "fs": 0,
+    "fs": 3,
     "ff": 0,
-    "fd": 1,
+    "fd": 2,
     "ft": 0,
     "de": 0,
     "dp": 0,
@@ -53,17 +71,17 @@
     "ca": 0,
     "pp": 0,
     "gs": 0,
-    "fc": 0,
+    "fc": 1,
     "i": 0,
-    "ds": 1,
-    "pi": 0,
+    "ds": 2,
+    "pi": 12,
     "pc": 0,
     "ps": 0,
-    "pontos_num": 2.2,
-    "preco_num": 3.62,
-    "variacao_num": 0.62,
-    "media_num": 2.2,
-    "jogos_num": 1,
+    "pontos_num": 10,
+    "preco_num": 7.5,
+    "variacao_num": 3.88,
+    "media_num": 6.1,
+    "jogos_num": 2,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }
