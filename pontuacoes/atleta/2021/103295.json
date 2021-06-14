@@ -1,28 +1,33 @@
 {
   "ano": 2021,
   "atleta_id": 103295,
-  "apelido": "Ramires",
+  "apelido": "Eric Ramires",
   "clube": "Bragantino",
   "clube_id": 280,
   "posicao": "Meia",
   "rodadas": [
     1,
-    2
+    2,
+    3
   ],
   "pontos": [
     5.3,
-    1
+    1,
+    0
   ],
   "precos": [
     6.47,
+    6.57,
     6.57
   ],
   "variacoes": [
     2.47,
-    0.1
+    0.1,
+    0
   ],
   "medias": [
     5.3,
+    3.15,
     3.15
   ],
   "partidas": [
@@ -51,12 +56,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/bahia_60x60.png",
       "placar_oficial_mandante": 3,
       "placar_oficial_visitante": 3
+    },
+    {
+      "rodada_id": 3,
+      "clube_casa": "Bragantino",
+      "clube_casa_id": 280,
+      "clube_visitante": "Fluminense",
+      "clube_casa_abrev": "BRA",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2020/01/01/65.png",
+      "clube_visitante_id": 266,
+      "clube_visitante_abrev": "FLU",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/fluminense_60x60.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2020/11/18/df8a0d80a74054663ff19ac2bd6c6799_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2020/01/01/65.png",
   "scouts": {
-    "rodada_id": 2,
+    "rodada_id": 3,
     "g": 0,
     "a": 1,
     "sg": 0,
@@ -77,9 +95,9 @@
     "pi": 2,
     "pc": 0,
     "ps": 0,
-    "pontos_num": 1,
+    "pontos_num": 0,
     "preco_num": 6.57,
-    "variacao_num": 0.1,
+    "variacao_num": 0,
     "media_num": 3.15,
     "jogos_num": 2,
     "posicao_abrev": "mei",

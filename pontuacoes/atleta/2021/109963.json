@@ -7,23 +7,28 @@
   "posicao": "Zagueiro",
   "rodadas": [
     1,
-    2
+    2,
+    3
   ],
   "pontos": [
     0,
-    1.1
+    1.1,
+    -1.4
   ],
   "precos": [
     4,
-    3.33
+    3.33,
+    2.44
   ],
   "variacoes": [
     0,
-    -0.67
+    -0.67,
+    -0.89
   ],
   "medias": [
     0,
-    1.1
+    1.1,
+    -0.15
   ],
   "partidas": [
     {
@@ -51,12 +56,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2015/08/03/Escudo-Chape-165.png",
       "placar_oficial_mandante": 3,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 3,
+      "clube_casa": "Palmeiras",
+      "clube_casa_id": 275,
+      "clube_visitante": "Corinthians",
+      "clube_casa_abrev": "PAL",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
+      "clube_visitante_id": 264,
+      "clube_visitante_abrev": "COR",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/30/Corinthians_65.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2021/04/30/92b66aba04ea5083353534256f6eaf76_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
   "scouts": {
-    "rodada_id": 2,
+    "rodada_id": 3,
     "g": 0,
     "a": 0,
     "sg": 0,
@@ -68,20 +86,20 @@
     "dp": 0,
     "gc": 0,
     "cv": 0,
-    "ca": 0,
+    "ca": 1,
     "pp": 0,
     "gs": 0,
-    "fc": 1,
+    "fc": 3,
     "i": 0,
-    "ds": 2,
-    "pi": 4,
+    "ds": 4,
+    "pi": 8,
     "pc": 0,
     "ps": 0,
-    "pontos_num": 1.1,
-    "preco_num": 3.33,
-    "variacao_num": -0.67,
-    "media_num": 1.1,
-    "jogos_num": 1,
+    "pontos_num": -1.4,
+    "preco_num": 2.44,
+    "variacao_num": -0.89,
+    "media_num": -0.15,
+    "jogos_num": 2,
     "posicao_abrev": "zag",
     "posicao": "Zagueiro"
   }

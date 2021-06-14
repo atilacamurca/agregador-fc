@@ -7,23 +7,28 @@
   "posicao": "Zagueiro",
   "rodadas": [
     1,
-    2
+    2,
+    3
   ],
   "pontos": [
     1.2,
-    0.2
+    0.2,
+    5.5
   ],
   "precos": [
     5.01,
-    4.01
+    4.01,
+    5.51
   ],
   "variacoes": [
     -0.99,
-    -1
+    -1,
+    1.5
   ],
   "medias": [
     1.2,
-    0.7
+    0.7,
+    2.3
   ],
   "partidas": [
     {
@@ -51,16 +56,29 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/03/inter65.png",
       "placar_oficial_mandante": 5,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 3,
+      "clube_casa": "Fortaleza",
+      "clube_casa_id": 356,
+      "clube_visitante": "Sport",
+      "clube_casa_abrev": "FOR",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/06/10/fortaleza-ec-65px.png",
+      "clube_visitante_id": 292,
+      "clube_visitante_abrev": "SPO",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2015/07/21/sport65.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2021/04/26/f131f07530304a42ed2d813ebd77cd94_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2018/06/10/fortaleza-ec-65px.png",
   "scouts": {
-    "rodada_id": 2,
+    "rodada_id": 3,
     "g": 0,
     "a": 0,
-    "sg": 0,
-    "fs": 0,
+    "sg": 1,
+    "fs": 1,
     "ff": 0,
     "fd": 0,
     "ft": 0,
@@ -71,17 +89,17 @@
     "ca": 0,
     "pp": 0,
     "gs": 0,
-    "fc": 2,
+    "fc": 4,
     "i": 0,
-    "ds": 3,
+    "ds": 4,
     "pi": 6,
     "pc": 0,
     "ps": 0,
-    "pontos_num": 0.2,
-    "preco_num": 4.01,
-    "variacao_num": -1,
-    "media_num": 0.7,
-    "jogos_num": 2,
+    "pontos_num": 5.5,
+    "preco_num": 5.51,
+    "variacao_num": 1.5,
+    "media_num": 2.3,
+    "jogos_num": 3,
     "posicao_abrev": "zag",
     "posicao": "Zagueiro"
   }

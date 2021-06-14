@@ -7,23 +7,28 @@
   "posicao": "Atacante",
   "rodadas": [
     1,
-    2
+    2,
+    3
   ],
   "pontos": [
     0.8,
-    10.1
+    10.1,
+    0.8
   ],
   "precos": [
     5.43,
-    8.44
+    8.44,
+    7.55
   ],
   "variacoes": [
     -1.57,
-    3.01
+    3.01,
+    -0.89
   ],
   "medias": [
     0.8,
-    5.45
+    5.45,
+    3.9
   ],
   "partidas": [
     {
@@ -51,17 +56,30 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/10/10/ceara-65x65.png",
       "placar_oficial_mandante": 3,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 3,
+      "clube_casa": "Santos",
+      "clube_casa_id": 277,
+      "clube_visitante": "Juventude",
+      "clube_casa_abrev": "SAN",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/santos_60x60.png",
+      "clube_visitante_id": 286,
+      "clube_visitante_abrev": "JUV",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/08/juventude65.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2021/05/04/6069715aa47acc4ab9cb1d97fd2640e5_140x140.jpeg",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/santos_60x60.png",
   "scouts": {
-    "rodada_id": 2,
+    "rodada_id": 3,
     "g": 1,
     "a": 0,
     "sg": 0,
     "fs": 5,
-    "ff": 2,
+    "ff": 5,
     "fd": 0,
     "ft": 0,
     "de": 0,
@@ -71,17 +89,17 @@
     "ca": 0,
     "pp": 0,
     "gs": 0,
-    "fc": 1,
+    "fc": 3,
     "i": 0,
     "ds": 0,
-    "pi": 7,
+    "pi": 13,
     "pc": 0,
     "ps": 0,
-    "pontos_num": 10.1,
-    "preco_num": 8.44,
-    "variacao_num": 3.01,
-    "media_num": 5.45,
-    "jogos_num": 2,
+    "pontos_num": 0.8,
+    "preco_num": 7.55,
+    "variacao_num": -0.89,
+    "media_num": 3.9,
+    "jogos_num": 3,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }
