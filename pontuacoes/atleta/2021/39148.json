@@ -8,27 +8,32 @@
   "rodadas": [
     1,
     2,
-    3
+    3,
+    4
   ],
   "pontos": [
     12.4,
     11.7,
-    1.5
+    1.5,
+    7.1
   ],
   "precos": [
     17.68,
     21.19,
-    19.64
+    19.64,
+    20.27
   ],
   "variacoes": [
     4.68,
     3.51,
-    -1.55
+    -1.55,
+    0.63
   ],
   "medias": [
     12.4,
     12.05,
-    8.53
+    8.53,
+    8.17
   ],
   "partidas": [
     {
@@ -69,17 +74,30 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/sao_paulo_60x60.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 4,
+      "clube_casa": "Internacional",
+      "clube_casa_id": 285,
+      "clube_visitante": "Atlético-MG",
+      "clube_casa_abrev": "INT",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/03/inter65.png",
+      "clube_visitante_id": 282,
+      "clube_visitante_abrev": "ATL",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2017/11/23/Atletico-Mineiro-escudo65px.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2021/04/23/d9ed7fa34aa12e4ce8768c9c2a2b4560_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2017/11/23/Atletico-Mineiro-escudo65px.png",
   "scouts": {
-    "rodada_id": 3,
+    "rodada_id": 4,
     "g": 2,
-    "a": 0,
+    "a": 1,
     "sg": 0,
-    "fs": 16,
-    "ff": 5,
+    "fs": 17,
+    "ff": 7,
     "fd": 1,
     "ft": 0,
     "de": 0,
@@ -89,17 +107,17 @@
     "ca": 0,
     "pp": 0,
     "gs": 0,
-    "fc": 4,
+    "fc": 5,
     "i": 3,
-    "ds": 0,
-    "pi": 11,
+    "ds": 1,
+    "pi": 16,
     "pc": 0,
     "ps": 1,
-    "pontos_num": 1.5,
-    "preco_num": 19.64,
-    "variacao_num": -1.55,
-    "media_num": 8.53,
-    "jogos_num": 3,
+    "pontos_num": 7.1,
+    "preco_num": 20.27,
+    "variacao_num": 0.63,
+    "media_num": 8.17,
+    "jogos_num": 4,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }

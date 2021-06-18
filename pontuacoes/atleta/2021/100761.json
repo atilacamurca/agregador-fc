@@ -8,27 +8,32 @@
   "rodadas": [
     1,
     2,
-    3
+    3,
+    4
   ],
   "pontos": [
     -0.3,
     0,
-    0.9
+    0.9,
+    -1.4
   ],
   "precos": [
     3.97,
     3.97,
-    3.19
+    3.19,
+    2.41
   ],
   "variacoes": [
     -2.03,
     0,
+    -0.78,
     -0.78
   ],
   "medias": [
     -0.3,
     -0.3,
-    0.3
+    0.3,
+    -0.27
   ],
   "partidas": [
     {
@@ -69,16 +74,29 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/sao_paulo_60x60.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 4,
+      "clube_casa": "São Paulo",
+      "clube_casa_id": 276,
+      "clube_visitante": "Chapecoense",
+      "clube_casa_abrev": "SAO",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/sao_paulo_60x60.png",
+      "clube_visitante_id": 315,
+      "clube_visitante_abrev": "CHA",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2015/08/03/Escudo-Chape-165.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2021/05/01/4233a98f76e0a722686219868f2db95b_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/sao_paulo_60x60.png",
   "scouts": {
-    "rodada_id": 3,
+    "rodada_id": 4,
     "g": 0,
     "a": 0,
     "sg": 0,
-    "fs": 1,
+    "fs": 3,
     "ff": 0,
     "fd": 0,
     "ft": 0,
@@ -86,20 +104,20 @@
     "dp": 0,
     "gc": 0,
     "cv": 0,
-    "ca": 0,
+    "ca": 1,
     "pp": 0,
     "gs": 0,
-    "fc": 5,
+    "fc": 7,
     "i": 0,
-    "ds": 3,
-    "pi": 4,
+    "ds": 4,
+    "pi": 8,
     "pc": 0,
     "ps": 0,
-    "pontos_num": 0.9,
-    "preco_num": 3.19,
+    "pontos_num": -1.4,
+    "preco_num": 2.41,
     "variacao_num": -0.78,
-    "media_num": 0.3,
-    "jogos_num": 2,
+    "media_num": -0.27,
+    "jogos_num": 3,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }

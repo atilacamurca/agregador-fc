@@ -8,27 +8,32 @@
   "rodadas": [
     1,
     2,
-    3
+    3,
+    4
   ],
   "pontos": [
     15,
     0,
-    3.7
+    3.7,
+    1
   ],
   "precos": [
     13.92,
     13.92,
-    14.53
+    14.53,
+    13.48
   ],
   "variacoes": [
     8.92,
     0,
-    0.61
+    0.61,
+    -1.05
   ],
   "medias": [
     15,
     15,
-    9.35
+    9.35,
+    6.57
   ],
   "partidas": [
     {
@@ -69,17 +74,30 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/fluminense_60x60.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 4,
+      "clube_casa": "Corinthians",
+      "clube_casa_id": 264,
+      "clube_visitante": "Bragantino",
+      "clube_casa_abrev": "COR",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/30/Corinthians_65.png",
+      "clube_visitante_id": 280,
+      "clube_visitante_abrev": "BRA",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2020/01/01/65.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2020/11/20/7c0d041c984aed2ad0bddb5980390af3_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2020/01/01/65.png",
   "scouts": {
-    "rodada_id": 3,
+    "rodada_id": 4,
     "g": 1,
     "a": 0,
     "sg": 0,
     "fs": 2,
-    "ff": 4,
+    "ff": 6,
     "fd": 0,
     "ft": 1,
     "de": 0,
@@ -89,17 +107,17 @@
     "ca": 0,
     "pp": 0,
     "gs": 0,
-    "fc": 1,
+    "fc": 3,
     "i": 0,
-    "ds": 6,
-    "pi": 20,
+    "ds": 7,
+    "pi": 26,
     "pc": 0,
     "ps": 0,
-    "pontos_num": 3.7,
-    "preco_num": 14.53,
-    "variacao_num": 0.61,
-    "media_num": 9.35,
-    "jogos_num": 2,
+    "pontos_num": 1,
+    "preco_num": 13.48,
+    "variacao_num": -1.05,
+    "media_num": 6.57,
+    "jogos_num": 3,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }

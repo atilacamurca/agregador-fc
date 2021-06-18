@@ -8,27 +8,32 @@
   "rodadas": [
     1,
     2,
-    3
+    3,
+    4
   ],
   "pontos": [
     0,
     0,
-    0
+    0,
+    0.1
   ],
   "precos": [
     4,
     4,
-    4
+    4,
+    2.98
   ],
   "variacoes": [
     0,
     0,
-    0
+    0,
+    -1.02
   ],
   "medias": [
     0,
     0,
-    0
+    0,
+    0.1
   ],
   "partidas": [
     {
@@ -69,17 +74,30 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/10/10/ceara-65x65.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 4,
+      "clube_casa": "Ceará",
+      "clube_casa_id": 354,
+      "clube_visitante": "Bahia",
+      "clube_casa_abrev": "CEA",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/10/10/ceara-65x65.png",
+      "clube_visitante_id": 265,
+      "clube_visitante_abrev": "BAH",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/bahia_60x60.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2021/03/11/82de0720af26e6af3785bc1d141c4343_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2019/10/10/ceara-65x65.png",
   "scouts": {
-    "rodada_id": 3,
+    "rodada_id": 4,
     "g": 0,
     "a": 0,
     "sg": 0,
-    "fs": 0,
-    "ff": 0,
+    "fs": 1,
+    "ff": 1,
     "fd": 0,
     "ft": 0,
     "de": 0,
@@ -89,17 +107,17 @@
     "ca": 0,
     "pp": 0,
     "gs": 0,
-    "fc": 0,
+    "fc": 2,
     "i": 0,
     "ds": 0,
-    "pi": 0,
+    "pi": 2,
     "pc": 0,
     "ps": 0,
-    "pontos_num": 0,
-    "preco_num": 4,
-    "variacao_num": 0,
-    "media_num": 0,
-    "jogos_num": 0,
+    "pontos_num": 0.1,
+    "preco_num": 2.98,
+    "variacao_num": -1.02,
+    "media_num": 0.1,
+    "jogos_num": 1,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }

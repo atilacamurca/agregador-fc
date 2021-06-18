@@ -8,27 +8,32 @@
   "rodadas": [
     1,
     2,
-    3
+    3,
+    4
   ],
   "pontos": [
     11.8,
     2.3,
-    0
+    0,
+    -0.5
   ],
   "precos": [
     10.3,
     11.72,
-    11.72
+    11.72,
+    10.23
   ],
   "variacoes": [
     7.3,
     1.42,
-    0
+    0,
+    -1.49
   ],
   "medias": [
     11.8,
     7.05,
-    7.05
+    7.05,
+    4.53
   ],
   "partidas": [
     {
@@ -69,16 +74,29 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2020/07/02/atletico-go-2020-65.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 4,
+      "clube_casa": "América-MG",
+      "clube_casa_id": 327,
+      "clube_visitante": "Cuiabá",
+      "clube_casa_abrev": "AME",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/28/escudo65_1.png",
+      "clube_visitante_id": 1371,
+      "clube_visitante_abrev": "CUI",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/16/cuiaba65.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2021/05/28/3c667df8f70bf19082f021fa20403c6c_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/16/cuiaba65.png",
   "scouts": {
-    "rodada_id": 3,
+    "rodada_id": 4,
     "g": 1,
     "a": 0,
     "sg": 0,
-    "fs": 3,
+    "fs": 4,
     "ff": 2,
     "fd": 1,
     "ft": 0,
@@ -89,17 +107,17 @@
     "ca": 0,
     "pp": 0,
     "gs": 0,
-    "fc": 0,
-    "i": 0,
-    "ds": 3,
-    "pi": 12,
+    "fc": 2,
+    "i": 1,
+    "ds": 4,
+    "pi": 17,
     "pc": 0,
     "ps": 0,
-    "pontos_num": 0,
-    "preco_num": 11.72,
-    "variacao_num": 0,
-    "media_num": 7.05,
-    "jogos_num": 2,
+    "pontos_num": -0.5,
+    "preco_num": 10.23,
+    "variacao_num": -1.49,
+    "media_num": 4.53,
+    "jogos_num": 3,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }

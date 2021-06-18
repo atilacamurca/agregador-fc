@@ -8,27 +8,32 @@
   "rodadas": [
     1,
     2,
-    3
+    3,
+    4
   ],
   "pontos": [
     1.1,
     2.1,
-    1.6
+    1.6,
+    -0.2
   ],
   "precos": [
     3.55,
     3.75,
-    3.88
+    3.88,
+    3.4
   ],
   "variacoes": [
     -0.45,
     0.2,
-    0.13
+    0.13,
+    -0.48
   ],
   "medias": [
     1.1,
     1.6,
-    1.6
+    1.6,
+    1.15
   ],
   "partidas": [
     {
@@ -69,17 +74,30 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2015/07/21/sport65.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 4,
+      "clube_casa": "Sport",
+      "clube_casa_id": 292,
+      "clube_visitante": "Grêmio",
+      "clube_casa_abrev": "SPO",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2015/07/21/sport65.png",
+      "clube_visitante_id": 284,
+      "clube_visitante_abrev": "GRE",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/gremio_60x60.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2021/04/27/00a2b0cd7dcf637ab6aa4d1e93652b5b_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2015/07/21/sport65.png",
   "scouts": {
-    "rodada_id": 3,
+    "rodada_id": 4,
     "g": 0,
     "a": 0,
     "sg": 0,
-    "fs": 7,
-    "ff": 1,
+    "fs": 9,
+    "ff": 2,
     "fd": 0,
     "ft": 1,
     "de": 0,
@@ -89,17 +107,17 @@
     "ca": 1,
     "pp": 0,
     "gs": 0,
-    "fc": 3,
+    "fc": 6,
     "i": 0,
     "ds": 2,
-    "pi": 10,
+    "pi": 15,
     "pc": 0,
     "ps": 0,
-    "pontos_num": 1.6,
-    "preco_num": 3.88,
-    "variacao_num": 0.13,
-    "media_num": 1.6,
-    "jogos_num": 3,
+    "pontos_num": -0.2,
+    "preco_num": 3.4,
+    "variacao_num": -0.48,
+    "media_num": 1.15,
+    "jogos_num": 4,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }

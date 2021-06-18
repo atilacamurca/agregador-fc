@@ -8,26 +8,31 @@
   "rodadas": [
     1,
     2,
-    3
+    3,
+    4
   ],
   "pontos": [
     5.8,
     0,
-    0.3
+    0.3,
+    0
   ],
   "precos": [
     8.22,
     8.22,
+    7.33,
     7.33
   ],
   "variacoes": [
     2.22,
     0,
-    -0.89
+    -0.89,
+    0
   ],
   "medias": [
     5.8,
     5.8,
+    3.05,
     3.05
   ],
   "partidas": [
@@ -69,12 +74,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/09/Athletico-PR-65x65.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 4,
+      "clube_casa": "Sport",
+      "clube_casa_id": 292,
+      "clube_visitante": "Grêmio",
+      "clube_casa_abrev": "SPO",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2015/07/21/sport65.png",
+      "clube_visitante_id": 284,
+      "clube_visitante_abrev": "GRE",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/gremio_60x60.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2021/04/29/80d6e2357b271867f5c8e1c21420e5e1_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/gremio_60x60.png",
   "scouts": {
-    "rodada_id": 3,
+    "rodada_id": 4,
     "g": 0,
     "a": 1,
     "sg": 0,
@@ -95,9 +113,9 @@
     "pi": 6,
     "pc": 0,
     "ps": 0,
-    "pontos_num": 0.3,
+    "pontos_num": 0,
     "preco_num": 7.33,
-    "variacao_num": -0.89,
+    "variacao_num": 0,
     "media_num": 3.05,
     "jogos_num": 2,
     "posicao_abrev": "ata",

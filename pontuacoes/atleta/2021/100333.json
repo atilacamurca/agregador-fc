@@ -8,27 +8,32 @@
   "rodadas": [
     1,
     2,
-    3
+    3,
+    4
   ],
   "pontos": [
     0,
     0,
-    0
+    0,
+    2.3
   ],
   "precos": [
     2,
     2,
-    2
+    2,
+    2.16
   ],
   "variacoes": [
     0,
     0,
-    0
+    0,
+    0.16
   ],
   "medias": [
     0,
     0,
-    0
+    0,
+    2.3
   ],
   "partidas": [
     {
@@ -69,17 +74,30 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/08/juventude65.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 4,
+      "clube_casa": "Juventude",
+      "clube_casa_id": 286,
+      "clube_visitante": "Palmeiras",
+      "clube_casa_abrev": "JUV",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/08/juventude65.png",
+      "clube_visitante_id": 275,
+      "clube_visitante_abrev": "PAL",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 3
     }
   ],
-  "foto": "https://s.glbimg.com/es/sde/f/2021/06/11/7878340452fc18cf336a9646e2eb21b4_140x140.png",
+  "foto": "https://s.glbimg.com/es/sde/f/2021/06/15/bc8f915815ffa50178bcc1bb85c42f53_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/08/juventude65.png",
   "scouts": {
-    "rodada_id": 3,
+    "rodada_id": 4,
     "g": 0,
     "a": 0,
     "sg": 0,
-    "fs": 0,
-    "ff": 0,
+    "fs": 1,
+    "ff": 1,
     "fd": 0,
     "ft": 0,
     "de": 0,
@@ -91,15 +109,15 @@
     "gs": 0,
     "fc": 0,
     "i": 0,
-    "ds": 0,
+    "ds": 1,
     "pi": 0,
     "pc": 0,
     "ps": 0,
-    "pontos_num": 0,
-    "preco_num": 2,
-    "variacao_num": 0,
-    "media_num": 0,
-    "jogos_num": 0,
+    "pontos_num": 2.3,
+    "preco_num": 2.16,
+    "variacao_num": 0.16,
+    "media_num": 2.3,
+    "jogos_num": 1,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }
