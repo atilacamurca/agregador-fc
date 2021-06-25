@@ -10,35 +10,40 @@
     2,
     3,
     4,
-    5
+    5,
+    6
   ],
   "pontos": [
     -0.5,
     0,
     6.2,
     0,
-    24
+    24,
+    0.5
   ],
   "precos": [
     2.44,
     2.44,
     3.85,
     3.85,
-    9.57
+    9.57,
+    6.49
   ],
   "variacoes": [
     -1.56,
     0,
     1.41,
     0,
-    5.72
+    5.72,
+    -3.08
   ],
   "medias": [
     -0.5,
     -0.5,
     2.85,
     2.85,
-    9.9
+    9.9,
+    7.55
   ],
   "partidas": [
     {
@@ -105,16 +110,29 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2020/01/01/65.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 3
+    },
+    {
+      "rodada_id": 6,
+      "clube_casa": "Flamengo",
+      "clube_casa_id": 262,
+      "clube_visitante": "Fortaleza",
+      "clube_casa_abrev": "FLA",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/04/09/Flamengo-65.png",
+      "clube_visitante_id": 356,
+      "clube_visitante_abrev": "FOR",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/06/10/fortaleza-ec-65px.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2021/04/26/e0ad61812c5924d5f187d8b5229dd197_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2018/04/09/Flamengo-65.png",
   "scouts": {
-    "rodada_id": 5,
+    "rodada_id": 6,
     "g": 3,
     "a": 0,
     "sg": 0,
-    "fs": 0,
+    "fs": 1,
     "ff": 4,
     "fd": 4,
     "ft": 0,
@@ -131,11 +149,11 @@
     "pi": 3,
     "pc": 0,
     "ps": 0,
-    "pontos_num": 24,
-    "preco_num": 9.57,
-    "variacao_num": 5.72,
-    "media_num": 9.9,
-    "jogos_num": 3,
+    "pontos_num": 0.5,
+    "preco_num": 6.49,
+    "variacao_num": -3.08,
+    "media_num": 7.55,
+    "jogos_num": 4,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }

@@ -10,13 +10,15 @@
     2,
     3,
     4,
-    5
+    5,
+    6
   ],
   "pontos": [
     0,
     0,
     -0.1,
     3,
+    0.2,
     0.2
   ],
   "precos": [
@@ -24,21 +26,24 @@
     4,
     2.92,
     3.56,
-    3.13
+    3.13,
+    3.03
   ],
   "variacoes": [
     0,
     0,
     -1.08,
     0.64,
-    -0.43
+    -0.43,
+    -0.1
   ],
   "medias": [
     0,
     0,
     -0.1,
     1.45,
-    1.03
+    1.03,
+    0.82
   ],
   "partidas": [
     {
@@ -105,16 +110,29 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2020/01/01/65.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 3
+    },
+    {
+      "rodada_id": 6,
+      "clube_casa": "Bragantino",
+      "clube_casa_id": 280,
+      "clube_visitante": "Palmeiras",
+      "clube_casa_abrev": "BRA",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2020/01/01/65.png",
+      "clube_visitante_id": 275,
+      "clube_visitante_abrev": "PAL",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
+      "placar_oficial_mandante": 3,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2020/08/07/b2b35810b693ede75833b9de607b5ffd_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2020/01/01/65.png",
   "scouts": {
-    "rodada_id": 5,
+    "rodada_id": 6,
     "g": 0,
     "a": 0,
     "sg": 0,
-    "fs": 0,
+    "fs": 1,
     "ff": 0,
     "fd": 1,
     "ft": 0,
@@ -125,17 +143,17 @@
     "ca": 0,
     "pp": 0,
     "gs": 0,
-    "fc": 2,
+    "fc": 3,
     "i": 1,
-    "ds": 6,
-    "pi": 26,
+    "ds": 7,
+    "pi": 34,
     "pc": 0,
     "ps": 0,
     "pontos_num": 0.2,
-    "preco_num": 3.13,
-    "variacao_num": -0.43,
-    "media_num": 1.03,
-    "jogos_num": 3,
+    "preco_num": 3.03,
+    "variacao_num": -0.1,
+    "media_num": 0.82,
+    "jogos_num": 4,
     "posicao_abrev": "lat",
     "posicao": "Lateral"
   }
