@@ -11,7 +11,8 @@
     3,
     4,
     5,
-    6
+    6,
+    7
   ],
   "pontos": [
     0,
@@ -19,7 +20,8 @@
     0,
     0,
     0,
-    0
+    0,
+    -2
   ],
   "precos": [
     7,
@@ -27,7 +29,8 @@
     7,
     7,
     7,
-    7
+    7,
+    4.82
   ],
   "variacoes": [
     0,
@@ -35,7 +38,8 @@
     0,
     0,
     0,
-    0
+    0,
+    -2.18
   ],
   "medias": [
     0,
@@ -43,7 +47,8 @@
     0,
     0,
     0,
-    0
+    0,
+    -2
   ],
   "partidas": [
     {
@@ -123,12 +128,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/16/cuiaba65.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 7,
+      "clube_casa": "Ceará",
+      "clube_casa_id": 354,
+      "clube_visitante": "São Paulo",
+      "clube_casa_abrev": "CEA",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/10/10/ceara-65x65.png",
+      "clube_visitante_id": 276,
+      "clube_visitante_abrev": "SAO",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/sao_paulo_60x60.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2021/05/01/e00d521998cabda04f7b65c70b3c24d1_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/sao_paulo_60x60.png",
   "scouts": {
-    "rodada_id": 6,
+    "rodada_id": 7,
     "g": 0,
     "a": 0,
     "sg": 0,
@@ -140,7 +158,7 @@
     "dp": 0,
     "gc": 0,
     "cv": 0,
-    "ca": 0,
+    "ca": 1,
     "pp": 0,
     "gs": 0,
     "fc": 0,
@@ -149,10 +167,10 @@
     "pi": 0,
     "pc": 0,
     "ps": 0,
-    "pontos_num": 0,
-    "preco_num": 7,
-    "variacao_num": 0,
-    "media_num": 0,
+    "pontos_num": -2,
+    "preco_num": 4.82,
+    "variacao_num": -2.18,
+    "media_num": -2,
     "jogos_num": 0,
     "posicao_abrev": "mei",
     "posicao": "Meia"

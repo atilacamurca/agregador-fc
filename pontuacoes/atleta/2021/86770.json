@@ -11,7 +11,8 @@
     3,
     4,
     5,
-    6
+    6,
+    7
   ],
   "pontos": [
     5.5,
@@ -19,6 +20,7 @@
     0,
     1,
     -1.4,
+    0,
     0
   ],
   "precos": [
@@ -27,6 +29,7 @@
     10.95,
     9.73,
     8.91,
+    8.75,
     8.75
   ],
   "variacoes": [
@@ -35,7 +38,8 @@
     0,
     -1.22,
     -0.82,
-    -0.16
+    -0.16,
+    0
   ],
   "medias": [
     5.5,
@@ -43,6 +47,7 @@
     7.6,
     5.4,
     3.7,
+    2.96,
     2.96
   ],
   "partidas": [
@@ -123,12 +128,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/fluminense_60x60.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 7,
+      "clube_casa": "Atlético-GO",
+      "clube_casa_id": 373,
+      "clube_visitante": "Bragantino",
+      "clube_casa_abrev": "ATL",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2020/07/02/atletico-go-2020-65.png",
+      "clube_visitante_id": 280,
+      "clube_visitante_abrev": "BRA",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2020/01/01/65.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2021/03/25/59b7c245e7c4a105eb30a26db415cc12_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2020/07/02/atletico-go-2020-65.png",
   "scouts": {
-    "rodada_id": 6,
+    "rodada_id": 7,
     "g": 1,
     "a": 1,
     "sg": 0,
@@ -151,7 +169,7 @@
     "ps": 0,
     "pontos_num": 0,
     "preco_num": 8.75,
-    "variacao_num": -0.16,
+    "variacao_num": 0,
     "media_num": 2.96,
     "jogos_num": 5,
     "posicao_abrev": "mei",

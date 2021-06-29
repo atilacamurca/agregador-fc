@@ -11,7 +11,8 @@
     3,
     4,
     5,
-    6
+    6,
+    7
   ],
   "pontos": [
     0,
@@ -19,7 +20,8 @@
     8.5,
     0,
     2,
-    1
+    1,
+    -1.5
   ],
   "precos": [
     3,
@@ -27,7 +29,8 @@
     6.65,
     6.65,
     6.07,
-    5.88
+    5.88,
+    5.19
   ],
   "variacoes": [
     0,
@@ -35,7 +38,8 @@
     2.32,
     0,
     -0.58,
-    -0.19
+    -0.19,
+    -0.69
   ],
   "medias": [
     0,
@@ -43,7 +47,8 @@
     6.8,
     6.8,
     5.2,
-    4.15
+    4.15,
+    3.02
   ],
   "partidas": [
     {
@@ -123,16 +128,29 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/09/Athletico-PR-65x65.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 7,
+      "clube_casa": "Athlético-PR",
+      "clube_casa_id": 293,
+      "clube_visitante": "Chapecoense",
+      "clube_casa_abrev": "ATL",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/09/Athletico-PR-65x65.png",
+      "clube_visitante_id": 315,
+      "clube_visitante_abrev": "CHA",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2015/08/03/Escudo-Chape-165.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2021/05/02/08540895ccd662f502ed02a60a7d8172_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/09/Athletico-PR-65x65.png",
   "scouts": {
-    "rodada_id": 6,
+    "rodada_id": 7,
     "g": 0,
     "a": 0,
     "sg": 2,
-    "fs": 4,
+    "fs": 5,
     "ff": 0,
     "fd": 0,
     "ft": 0,
@@ -140,20 +158,20 @@
     "dp": 0,
     "gc": 0,
     "cv": 0,
-    "ca": 0,
+    "ca": 1,
     "pp": 0,
     "gs": 0,
-    "fc": 4,
+    "fc": 7,
     "i": 0,
-    "ds": 8,
-    "pi": 14,
+    "ds": 10,
+    "pi": 19,
     "pc": 0,
     "ps": 0,
-    "pontos_num": 1,
-    "preco_num": 5.88,
-    "variacao_num": -0.19,
-    "media_num": 4.15,
-    "jogos_num": 4,
+    "pontos_num": -1.5,
+    "preco_num": 5.19,
+    "variacao_num": -0.69,
+    "media_num": 3.02,
+    "jogos_num": 5,
     "posicao_abrev": "zag",
     "posicao": "Zagueiro"
   }
