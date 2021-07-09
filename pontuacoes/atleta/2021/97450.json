@@ -14,7 +14,8 @@
     6,
     7,
     8,
-    9
+    9,
+    10
   ],
   "pontos": [
     1.9,
@@ -25,7 +26,8 @@
     4.2,
     3.5,
     1,
-    5.9
+    5.9,
+    3
   ],
   "precos": [
     6.2,
@@ -36,7 +38,8 @@
     7.67,
     7.7,
     7.13,
-    8.2
+    8.2,
+    7.79
   ],
   "variacoes": [
     -0.8,
@@ -47,7 +50,8 @@
     0,
     0.03,
     -0.57,
-    1.07
+    1.07,
+    -0.41
   ],
   "medias": [
     1.9,
@@ -58,7 +62,8 @@
     3.82,
     3.77,
     3.37,
-    3.69
+    3.69,
+    3.61
   ],
   "partidas": [
     {
@@ -177,18 +182,31 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/03/inter65.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 10,
+      "clube_casa": "Chapecoense",
+      "clube_casa_id": 315,
+      "clube_visitante": "Corinthians",
+      "clube_casa_abrev": "CHA",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2015/08/03/Escudo-Chape-165.png",
+      "clube_visitante_id": 264,
+      "clube_visitante_abrev": "COR",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/30/Corinthians_65.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2020/08/20/81a5c782b9fc85b4c16836aa362f34b8_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/30/Corinthians_65.png",
   "scouts": {
-    "rodada_id": 9,
+    "rodada_id": 10,
     "g": 0,
     "a": 2,
     "sg": 0,
-    "fs": 14,
-    "ff": 7,
-    "fd": 2,
+    "fs": 15,
+    "ff": 8,
+    "fd": 3,
     "ft": 1,
     "de": 0,
     "dp": 0,
@@ -199,15 +217,15 @@
     "gs": 0,
     "fc": 8,
     "i": 1,
-    "ds": 7,
-    "pi": 40,
+    "ds": 8,
+    "pi": 45,
     "pc": 0,
     "ps": 3,
-    "pontos_num": 5.9,
-    "preco_num": 8.2,
-    "variacao_num": 1.07,
-    "media_num": 3.69,
-    "jogos_num": 8,
+    "pontos_num": 3,
+    "preco_num": 7.79,
+    "variacao_num": -0.41,
+    "media_num": 3.61,
+    "jogos_num": 9,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }

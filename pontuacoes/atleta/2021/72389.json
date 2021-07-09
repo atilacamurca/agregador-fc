@@ -14,7 +14,8 @@
     6,
     7,
     8,
-    9
+    9,
+    10
   ],
   "pontos": [
     0.1,
@@ -25,6 +26,7 @@
     0,
     0.9,
     -2.5,
+    0,
     0
   ],
   "precos": [
@@ -35,6 +37,7 @@
     1.53,
     1.26,
     1.42,
+    0.75,
     0.75,
     0.75
   ],
@@ -47,6 +50,7 @@
     -0.27,
     0.16,
     -0.67,
+    0,
     0
   ],
   "medias": [
@@ -57,6 +61,7 @@
     0,
     0,
     0.22,
+    -0.32,
     -0.32,
     -0.32
   ],
@@ -177,12 +182,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/bahia_60x60.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 10,
+      "clube_casa": "Chapecoense",
+      "clube_casa_id": 315,
+      "clube_visitante": "Corinthians",
+      "clube_casa_abrev": "CHA",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2015/08/03/Escudo-Chape-165.png",
+      "clube_visitante_id": 264,
+      "clube_visitante_abrev": "COR",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/30/Corinthians_65.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2021/03/23/37b715a26faf266068223fd157a93d83_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2015/08/03/Escudo-Chape-165.png",
   "scouts": {
-    "rodada_id": 9,
+    "rodada_id": 10,
     "g": 0,
     "a": 0,
     "sg": 0,

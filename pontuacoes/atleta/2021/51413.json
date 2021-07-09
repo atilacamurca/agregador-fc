@@ -14,7 +14,8 @@
     6,
     7,
     8,
-    9
+    9,
+    10
   ],
   "pontos": [
     0.5,
@@ -25,6 +26,7 @@
     3,
     6,
     1,
+    -1,
     -1
   ],
   "precos": [
@@ -36,7 +38,8 @@
     5.82,
     6.67,
     5.84,
-    5.41
+    5.41,
+    5.18
   ],
   "variacoes": [
     -1.17,
@@ -47,7 +50,8 @@
     -0.81,
     0.85,
     -0.83,
-    -0.43
+    -0.43,
+    -0.23
   ],
   "medias": [
     0.5,
@@ -58,7 +62,8 @@
     4.37,
     4.7,
     4.08,
-    3.35
+    3.35,
+    2.81
   ],
   "partidas": [
     {
@@ -177,12 +182,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2017/11/23/Atletico-Mineiro-escudo65px.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 10,
+      "clube_casa": "Bragantino",
+      "clube_casa_id": 280,
+      "clube_visitante": "Cuiabá",
+      "clube_casa_abrev": "BRA",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2020/01/01/65.png",
+      "clube_visitante_id": 1371,
+      "clube_visitante_abrev": "CUI",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/16/cuiaba65.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2021/05/28/50f29a94dff6b578111f33d689953f3c_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/16/cuiaba65.png",
   "scouts": {
-    "rodada_id": 9,
+    "rodada_id": 10,
     "g": 0,
     "a": 0,
     "sg": 2,
@@ -196,7 +214,7 @@
     "cv": 0,
     "ca": 0,
     "pp": 0,
-    "gs": 8,
+    "gs": 9,
     "fc": 0,
     "i": 0,
     "ds": 0,
@@ -204,10 +222,10 @@
     "pc": 0,
     "ps": 0,
     "pontos_num": -1,
-    "preco_num": 5.41,
-    "variacao_num": -0.43,
-    "media_num": 3.35,
-    "jogos_num": 7,
+    "preco_num": 5.18,
+    "variacao_num": -0.23,
+    "media_num": 2.81,
+    "jogos_num": 8,
     "posicao_abrev": "gol",
     "posicao": "Goleiro"
   }
