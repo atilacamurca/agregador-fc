@@ -15,7 +15,8 @@
     7,
     8,
     9,
-    10
+    10,
+    11
   ],
   "pontos": [
     0,
@@ -27,7 +28,8 @@
     0,
     7.7,
     -0.5,
-    0
+    0,
+    5.5
   ],
   "precos": [
     7,
@@ -39,7 +41,8 @@
     5.3,
     6.77,
     5.53,
-    5.53
+    5.53,
+    6.45
   ],
   "variacoes": [
     0,
@@ -51,7 +54,8 @@
     -1.7,
     1.47,
     -1.24,
-    0
+    0,
+    0.92
   ],
   "medias": [
     0,
@@ -63,7 +67,8 @@
     0,
     3.85,
     2.4,
-    2.4
+    2.4,
+    3.18
   ],
   "partidas": [
     {
@@ -195,18 +200,31 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/04/09/Flamengo-65.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 11,
+      "clube_casa": "Flamengo",
+      "clube_casa_id": 262,
+      "clube_visitante": "Chapecoense",
+      "clube_casa_abrev": "FLA",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/04/09/Flamengo-65.png",
+      "clube_visitante_id": 315,
+      "clube_visitante_abrev": "CHA",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2015/08/03/Escudo-Chape-165.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2021/05/01/bccf00f54178b33fc62166bf2de1be12_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2018/04/09/Flamengo-65.png",
   "scouts": {
-    "rodada_id": 10,
+    "rodada_id": 11,
     "g": 1,
     "a": 0,
     "sg": 0,
     "fs": 0,
-    "ff": 1,
-    "fd": 0,
+    "ff": 3,
+    "fd": 1,
     "ft": 0,
     "de": 0,
     "dp": 0,
@@ -215,17 +233,17 @@
     "ca": 0,
     "pp": 0,
     "gs": 0,
-    "fc": 3,
+    "fc": 5,
     "i": 0,
-    "ds": 0,
-    "pi": 1,
+    "ds": 4,
+    "pi": 4,
     "pc": 0,
     "ps": 0,
-    "pontos_num": 0,
-    "preco_num": 5.53,
-    "variacao_num": 0,
-    "media_num": 2.4,
-    "jogos_num": 3,
+    "pontos_num": 5.5,
+    "preco_num": 6.45,
+    "variacao_num": 0.92,
+    "media_num": 3.18,
+    "jogos_num": 4,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }

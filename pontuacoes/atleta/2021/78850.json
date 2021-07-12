@@ -15,7 +15,8 @@
     7,
     8,
     9,
-    10
+    10,
+    11
   ],
   "pontos": [
     6.3,
@@ -27,7 +28,8 @@
     -1.7,
     6.2,
     2.7,
-    0
+    0,
+    12.4
   ],
   "precos": [
     16.22,
@@ -39,7 +41,8 @@
     9.12,
     10.29,
     9.89,
-    9.89
+    9.89,
+    11.63
   ],
   "variacoes": [
     -0.78,
@@ -51,7 +54,8 @@
     -0.91,
     1.17,
     -0.4,
-    0
+    0,
+    1.74
   ],
   "medias": [
     6.3,
@@ -63,7 +67,8 @@
     0.35,
     1.19,
     1.38,
-    1.38
+    1.38,
+    2.6
   ],
   "partidas": [
     {
@@ -195,18 +200,31 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/sao_paulo_60x60.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 11,
+      "clube_casa": "São Paulo",
+      "clube_casa_id": 276,
+      "clube_visitante": "Bahia",
+      "clube_casa_abrev": "SAO",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/sao_paulo_60x60.png",
+      "clube_visitante_id": 265,
+      "clube_visitante_abrev": "BAH",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/bahia_60x60.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2021/05/01/c9612f3f19ae82c35496efdd0780b6fd_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/sao_paulo_60x60.png",
   "scouts": {
-    "rodada_id": 10,
+    "rodada_id": 11,
     "g": 0,
-    "a": 0,
-    "sg": 2,
-    "fs": 15,
-    "ff": 3,
-    "fd": 2,
+    "a": 1,
+    "sg": 3,
+    "fs": 16,
+    "ff": 4,
+    "fd": 4,
     "ft": 0,
     "de": 0,
     "dp": 0,
@@ -215,17 +233,17 @@
     "ca": 4,
     "pp": 0,
     "gs": 0,
-    "fc": 12,
+    "fc": 13,
     "i": 0,
-    "ds": 12,
-    "pi": 93,
+    "ds": 13,
+    "pi": 111,
     "pc": 0,
     "ps": 0,
-    "pontos_num": 0,
-    "preco_num": 9.89,
-    "variacao_num": 0,
-    "media_num": 1.38,
-    "jogos_num": 8,
+    "pontos_num": 12.4,
+    "preco_num": 11.63,
+    "variacao_num": 1.74,
+    "media_num": 2.6,
+    "jogos_num": 9,
     "posicao_abrev": "lat",
     "posicao": "Lateral"
   }

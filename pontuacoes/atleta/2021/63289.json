@@ -15,7 +15,8 @@
     7,
     8,
     9,
-    10
+    10,
+    11
   ],
   "pontos": [
     12.9,
@@ -27,6 +28,7 @@
     3.2,
     9.3,
     6.8,
+    0,
     0
   ],
   "precos": [
@@ -39,7 +41,8 @@
     18.62,
     19.45,
     19.43,
-    19.43
+    19.43,
+    17.69
   ],
   "variacoes": [
     5.03,
@@ -51,7 +54,8 @@
     0.19,
     0.83,
     -0.02,
-    0
+    0,
+    -1.74
   ],
   "medias": [
     12.9,
@@ -63,7 +67,8 @@
     5.97,
     6.39,
     6.44,
-    6.44
+    6.44,
+    5.8
   ],
   "partidas": [
     {
@@ -195,16 +200,29 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/sao_paulo_60x60.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 11,
+      "clube_casa": "Grêmio",
+      "clube_casa_id": 284,
+      "clube_visitante": "Internacional",
+      "clube_casa_abrev": "GRE",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/gremio_60x60.png",
+      "clube_visitante_id": 285,
+      "clube_visitante_abrev": "INT",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/03/inter65.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2021/05/02/8daa1326a66c19d8a48d6375d87a9515_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/03/inter65.png",
   "scouts": {
-    "rodada_id": 10,
+    "rodada_id": 11,
     "g": 5,
     "a": 2,
     "sg": 0,
-    "fs": 12,
+    "fs": 13,
     "ff": 5,
     "fd": 5,
     "ft": 0,
@@ -218,14 +236,14 @@
     "fc": 10,
     "i": 1,
     "ds": 11,
-    "pi": 86,
+    "pi": 91,
     "pc": 0,
     "ps": 1,
     "pontos_num": 0,
-    "preco_num": 19.43,
-    "variacao_num": 0,
-    "media_num": 6.44,
-    "jogos_num": 9,
+    "preco_num": 17.69,
+    "variacao_num": -1.74,
+    "media_num": 5.8,
+    "jogos_num": 10,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }

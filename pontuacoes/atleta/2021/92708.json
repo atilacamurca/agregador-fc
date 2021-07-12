@@ -15,7 +15,8 @@
     7,
     8,
     9,
-    10
+    10,
+    11
   ],
   "pontos": [
     0,
@@ -27,7 +28,8 @@
     0,
     10.2,
     2.2,
-    -0.3
+    -0.3,
+    5.3
   ],
   "precos": [
     5,
@@ -39,7 +41,8 @@
     5.64,
     7.68,
     6.71,
-    6.15
+    6.15,
+    7.17
   ],
   "variacoes": [
     0,
@@ -51,7 +54,8 @@
     -0.57,
     2.04,
     -0.97,
-    -0.56
+    -0.56,
+    1.02
   ],
   "medias": [
     0,
@@ -63,7 +67,8 @@
     3.52,
     4.63,
     4.28,
-    3.71
+    3.71,
+    3.89
   ],
   "partidas": [
     {
@@ -195,18 +200,31 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/gremio_60x60.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 11,
+      "clube_casa": "Palmeiras",
+      "clube_casa_id": 275,
+      "clube_visitante": "Santos",
+      "clube_casa_abrev": "PAL",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
+      "clube_visitante_id": 277,
+      "clube_visitante_abrev": "SAN",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/santos_60x60.png",
+      "placar_oficial_mandante": 3,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2019/06/11/3684f53bf2bdc5eef737b41afec4d5be_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
   "scouts": {
-    "rodada_id": 10,
+    "rodada_id": 11,
     "g": 2,
-    "a": 0,
+    "a": 1,
     "sg": 0,
-    "fs": 14,
+    "fs": 16,
     "ff": 4,
-    "fd": 4,
+    "fd": 6,
     "ft": 1,
     "de": 0,
     "dp": 0,
@@ -215,17 +233,17 @@
     "ca": 0,
     "pp": 0,
     "gs": 0,
-    "fc": 9,
-    "i": 1,
+    "fc": 12,
+    "i": 2,
     "ds": 6,
-    "pi": 53,
+    "pi": 64,
     "pc": 0,
     "ps": 0,
-    "pontos_num": -0.3,
-    "preco_num": 6.15,
-    "variacao_num": -0.56,
-    "media_num": 3.71,
-    "jogos_num": 8,
+    "pontos_num": 5.3,
+    "preco_num": 7.17,
+    "variacao_num": 1.02,
+    "media_num": 3.89,
+    "jogos_num": 9,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }

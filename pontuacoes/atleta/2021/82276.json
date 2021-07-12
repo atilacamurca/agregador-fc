@@ -15,7 +15,8 @@
     7,
     8,
     9,
-    10
+    10,
+    11
   ],
   "pontos": [
     0,
@@ -27,7 +28,8 @@
     -1.1,
     -0.4,
     0.7,
-    1.7
+    1.7,
+    0
   ],
   "precos": [
     4,
@@ -39,6 +41,7 @@
     2.62,
     2.54,
     2.7,
+    2.88,
     2.88
   ],
   "variacoes": [
@@ -51,7 +54,8 @@
     -0.36,
     -0.08,
     0.16,
-    0.18
+    0.18,
+    0
   ],
   "medias": [
     0,
@@ -63,6 +67,7 @@
     -0.65,
     -0.57,
     -0.25,
+    0.14,
     0.14
   ],
   "partidas": [
@@ -195,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/28/escudo65_1.png",
       "placar_oficial_mandante": 4,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 11,
+      "clube_casa": "América-MG",
+      "clube_casa_id": 327,
+      "clube_visitante": "Atlético-MG",
+      "clube_casa_abrev": "AME",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/28/escudo65_1.png",
+      "clube_visitante_id": 282,
+      "clube_visitante_abrev": "ATL",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2017/11/23/Atletico-Mineiro-escudo65px.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2021/06/04/7a82108b77c8b85df37292b41d42048e_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/28/escudo65_1.png",
   "scouts": {
-    "rodada_id": 10,
+    "rodada_id": 11,
     "g": 0,
     "a": 0,
     "sg": 0,
@@ -221,9 +239,9 @@
     "pi": 17,
     "pc": 0,
     "ps": 0,
-    "pontos_num": 1.7,
+    "pontos_num": 0,
     "preco_num": 2.88,
-    "variacao_num": 0.18,
+    "variacao_num": 0,
     "media_num": 0.14,
     "jogos_num": 5,
     "posicao_abrev": "ata",
