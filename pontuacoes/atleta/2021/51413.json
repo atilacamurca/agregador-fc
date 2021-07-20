@@ -6,7 +6,6 @@
   "clube_id": 1371,
   "posicao": "Goleiro",
   "rodadas": [
-    1,
     2,
     3,
     4,
@@ -16,10 +15,10 @@
     8,
     9,
     10,
-    11
+    11,
+    12
   ],
   "pontos": [
-    0.5,
     1,
     0,
     13,
@@ -29,10 +28,10 @@
     1,
     -1,
     -1,
+    0,
     0
   ],
   "precos": [
-    3.83,
     3.31,
     3.31,
     6.63,
@@ -42,10 +41,10 @@
     5.84,
     5.41,
     5.18,
+    5.18,
     5.18
   ],
   "variacoes": [
-    -1.17,
     -0.52,
     0,
     3.32,
@@ -55,10 +54,10 @@
     -0.83,
     -0.43,
     -0.23,
+    0,
     0
   ],
   "medias": [
-    0.5,
     0.75,
     0.75,
     4.83,
@@ -68,22 +67,10 @@
     4.08,
     3.35,
     2.81,
+    2.81,
     2.81
   ],
   "partidas": [
-    {
-      "rodada_id": 1,
-      "clube_casa": "Cuiabá",
-      "clube_casa_id": 1371,
-      "clube_visitante": "Juventude",
-      "clube_casa_abrev": "CUI",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/16/cuiaba65.png",
-      "clube_visitante_id": 286,
-      "clube_visitante_abrev": "JUV",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/08/juventude65.png",
-      "placar_oficial_mandante": 2,
-      "placar_oficial_visitante": 2
-    },
     {
       "rodada_id": 2,
       "clube_casa": "Fluminense",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/10/10/ceara-65x65.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 12,
+      "clube_casa": "Chapecoense",
+      "clube_casa_id": 315,
+      "clube_visitante": "Cuiabá",
+      "clube_casa_abrev": "CHA",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2015/08/03/Escudo-Chape-165.png",
+      "clube_visitante_id": 1371,
+      "clube_visitante_abrev": "CUI",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/16/cuiaba65.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 3
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2021/05/28/50f29a94dff6b578111f33d689953f3c_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/16/cuiaba65.png",
   "scouts": {
-    "rodada_id": 11,
+    "rodada_id": 12,
     "g": 0,
     "a": 0,
     "sg": 2,

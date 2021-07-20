@@ -6,7 +6,6 @@
   "clube_id": 1371,
   "posicao": "Meia",
   "rodadas": [
-    1,
     2,
     3,
     4,
@@ -16,10 +15,10 @@
     8,
     9,
     10,
-    11
+    11,
+    12
   ],
   "pontos": [
-    0,
     3,
     0,
     1.1,
@@ -29,10 +28,10 @@
     0.9,
     2.1,
     -1,
-    0.5
+    0.5,
+    3.1
   ],
   "precos": [
-    4,
     4.14,
     4.14,
     3.79,
@@ -42,10 +41,10 @@
     3.37,
     3.65,
     3.05,
-    3.23
+    3.23,
+    3.74
   ],
   "variacoes": [
-    0,
     0.14,
     0,
     -0.35,
@@ -55,10 +54,10 @@
     0.08,
     0.28,
     -0.6,
-    0.18
+    0.18,
+    0.51
   ],
   "medias": [
-    0,
     3,
     3,
     2.05,
@@ -68,22 +67,10 @@
     1.2,
     1.38,
     0.98,
-    0.91
+    0.91,
+    1.18
   ],
   "partidas": [
-    {
-      "rodada_id": 1,
-      "clube_casa": "Cuiabá",
-      "clube_casa_id": 1371,
-      "clube_visitante": "Juventude",
-      "clube_casa_abrev": "CUI",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/16/cuiaba65.png",
-      "clube_visitante_id": 286,
-      "clube_visitante_abrev": "JUV",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/08/juventude65.png",
-      "placar_oficial_mandante": 2,
-      "placar_oficial_visitante": 2
-    },
     {
       "rodada_id": 2,
       "clube_casa": "Fluminense",
@@ -213,16 +200,29 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/10/10/ceara-65x65.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 12,
+      "clube_casa": "Chapecoense",
+      "clube_casa_id": 315,
+      "clube_visitante": "Cuiabá",
+      "clube_casa_abrev": "CHA",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2015/08/03/Escudo-Chape-165.png",
+      "clube_visitante_id": 1371,
+      "clube_visitante_abrev": "CUI",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/16/cuiaba65.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 3
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2021/05/28/bd9ad4b54fe731050d8e59e9991611f5_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/16/cuiaba65.png",
   "scouts": {
-    "rodada_id": 11,
+    "rodada_id": 12,
     "g": 0,
     "a": 0,
     "sg": 0,
-    "fs": 3,
+    "fs": 5,
     "ff": 1,
     "fd": 2,
     "ft": 0,
@@ -233,17 +233,17 @@
     "ca": 0,
     "pp": 0,
     "gs": 0,
-    "fc": 7,
+    "fc": 8,
     "i": 0,
-    "ds": 7,
-    "pi": 18,
+    "ds": 10,
+    "pi": 22,
     "pc": 0,
     "ps": 0,
-    "pontos_num": 0.5,
-    "preco_num": 3.23,
-    "variacao_num": 0.18,
-    "media_num": 0.91,
-    "jogos_num": 7,
+    "pontos_num": 3.1,
+    "preco_num": 3.74,
+    "variacao_num": 0.51,
+    "media_num": 1.18,
+    "jogos_num": 8,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }

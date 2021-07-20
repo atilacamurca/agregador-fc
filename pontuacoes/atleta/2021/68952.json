@@ -6,7 +6,6 @@
   "clube_id": 277,
   "posicao": "Atacante",
   "rodadas": [
-    1,
     2,
     3,
     4,
@@ -16,10 +15,10 @@
     8,
     9,
     10,
-    11
+    11,
+    12
   ],
   "pontos": [
-    6,
     4.7,
     5.2,
     5.3,
@@ -29,10 +28,10 @@
     0,
     5,
     0,
-    7.6
+    7.6,
+    4.4
   ],
   "precos": [
-    20.19,
     18.16,
     18.08,
     17.8,
@@ -42,10 +41,10 @@
     19.53,
     18.91,
     18.91,
-    18.98
+    18.98,
+    18.58
   ],
   "variacoes": [
-    -2.81,
     -2.03,
     -0.08,
     -0.28,
@@ -55,10 +54,10 @@
     0,
     -0.62,
     0,
-    0.07
+    0.07,
+    -0.4
   ],
   "medias": [
-    6,
     5.35,
     5.3,
     5.3,
@@ -68,22 +67,10 @@
     6.96,
     6.72,
     6.72,
-    6.82
+    6.82,
+    6.58
   ],
   "partidas": [
-    {
-      "rodada_id": 1,
-      "clube_casa": "Bahia",
-      "clube_casa_id": 265,
-      "clube_visitante": "Santos",
-      "clube_casa_abrev": "BAH",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/bahia_60x60.png",
-      "clube_visitante_id": 277,
-      "clube_visitante_abrev": "SAN",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/santos_60x60.png",
-      "placar_oficial_mandante": 3,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 2,
       "clube_casa": "Santos",
@@ -213,37 +200,50 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/santos_60x60.png",
       "placar_oficial_mandante": 3,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 12,
+      "clube_casa": "Bragantino",
+      "clube_casa_id": 280,
+      "clube_visitante": "Santos",
+      "clube_casa_abrev": "BRA",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2020/01/01/65.png",
+      "clube_visitante_id": 277,
+      "clube_visitante_abrev": "SAN",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/santos_60x60.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2021/05/04/ed157c234599d01c370049565c5fa3a8_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/santos_60x60.png",
   "scouts": {
-    "rodada_id": 11,
+    "rodada_id": 12,
     "g": 4,
     "a": 0,
     "sg": 0,
-    "fs": 39,
-    "ff": 10,
-    "fd": 10,
+    "fs": 46,
+    "ff": 11,
+    "fd": 11,
     "ft": 1,
     "de": 0,
     "dp": 0,
     "gc": 0,
     "cv": 0,
-    "ca": 4,
+    "ca": 5,
     "pp": 1,
     "gs": 0,
-    "fc": 21,
+    "fc": 22,
     "i": 3,
-    "ds": 14,
-    "pi": 42,
+    "ds": 16,
+    "pi": 48,
     "pc": 0,
     "ps": 1,
-    "pontos_num": 7.6,
-    "preco_num": 18.98,
-    "variacao_num": 0.07,
-    "media_num": 6.82,
-    "jogos_num": 9,
+    "pontos_num": 4.4,
+    "preco_num": 18.58,
+    "variacao_num": -0.4,
+    "media_num": 6.58,
+    "jogos_num": 10,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }

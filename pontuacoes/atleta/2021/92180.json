@@ -6,7 +6,6 @@
   "clube_id": 315,
   "posicao": "Técnico",
   "rodadas": [
-    1,
     2,
     3,
     4,
@@ -16,10 +15,10 @@
     8,
     9,
     10,
-    11
+    11,
+    12
   ],
   "pontos": [
-    0,
     1.35,
     5.21,
     2.4,
@@ -29,10 +28,10 @@
     2.96,
     1.72,
     1.55,
-    3.18
+    3.18,
+    3.75
   ],
   "precos": [
-    2.47,
     2.34,
     3.84,
     3.81,
@@ -42,10 +41,10 @@
     4.62,
     4.55,
     4.51,
-    4.87
+    4.87,
+    5.14
   ],
   "variacoes": [
-    0,
     -0.13,
     1.5,
     -0.03,
@@ -55,10 +54,10 @@
     0.08,
     -0.07,
     -0.04,
-    0.36
+    0.36,
+    0.27
   ],
   "medias": [
-    0,
     1.35,
     3.28,
     2.99,
@@ -68,22 +67,10 @@
     2.83,
     2.69,
     2.56,
-    2.62
+    2.62,
+    2.72
   ],
   "partidas": [
-    {
-      "rodada_id": 1,
-      "clube_casa": "Chapecoense",
-      "clube_casa_id": 315,
-      "clube_visitante": "Bragantino",
-      "clube_casa_abrev": "CHA",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2015/08/03/Escudo-Chape-165.png",
-      "clube_visitante_id": 280,
-      "clube_visitante_abrev": "BRA",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2020/01/01/65.png",
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 3
-    },
     {
       "rodada_id": 2,
       "clube_casa": "Palmeiras",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2015/08/03/Escudo-Chape-165.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 12,
+      "clube_casa": "Chapecoense",
+      "clube_casa_id": 315,
+      "clube_visitante": "Cuiabá",
+      "clube_casa_abrev": "CHA",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2015/08/03/Escudo-Chape-165.png",
+      "clube_visitante_id": 1371,
+      "clube_visitante_abrev": "CUI",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/16/cuiaba65.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 3
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2018/09/06/d1103130500ec84fd8e37f1a20c60e1a_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2015/08/03/Escudo-Chape-165.png",
   "scouts": {
-    "rodada_id": 11,
+    "rodada_id": 12,
     "g": 0,
     "a": 0,
     "sg": 0,
@@ -239,11 +239,11 @@
     "pi": 0,
     "pc": 0,
     "ps": 0,
-    "pontos_num": 3.18,
-    "preco_num": 4.87,
-    "variacao_num": 0.36,
-    "media_num": 2.62,
-    "jogos_num": 10,
+    "pontos_num": 3.75,
+    "preco_num": 5.14,
+    "variacao_num": 0.27,
+    "media_num": 2.72,
+    "jogos_num": 11,
     "posicao_abrev": "tec",
     "posicao": "Técnico"
   }

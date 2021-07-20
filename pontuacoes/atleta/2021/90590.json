@@ -6,7 +6,6 @@
   "clube_id": 265,
   "posicao": "Goleiro",
   "rodadas": [
-    1,
     2,
     3,
     4,
@@ -16,10 +15,11 @@
     8,
     9,
     10,
-    11
+    11,
+    12
   ],
   "pontos": [
-    9,
+    0,
     0,
     0,
     0,
@@ -32,7 +32,7 @@
     0
   ],
   "precos": [
-    7.66,
+    8.05,
     8.05,
     8.05,
     8.05,
@@ -45,8 +45,8 @@
     8.05
   ],
   "variacoes": [
-    5.66,
     0.39,
+    0,
     0,
     0,
     0,
@@ -58,7 +58,7 @@
     0
   ],
   "medias": [
-    9,
+    4.5,
     4.5,
     4.5,
     4.5,
@@ -71,19 +71,6 @@
     4.5
   ],
   "partidas": [
-    {
-      "rodada_id": 1,
-      "clube_casa": "Bahia",
-      "clube_casa_id": 265,
-      "clube_visitante": "Santos",
-      "clube_casa_abrev": "BAH",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/bahia_60x60.png",
-      "clube_visitante_id": 277,
-      "clube_visitante_abrev": "SAN",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/santos_60x60.png",
-      "placar_oficial_mandante": 3,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 2,
       "clube_casa": "Bragantino",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/bahia_60x60.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 12,
+      "clube_casa": "Bahia",
+      "clube_casa_id": 265,
+      "clube_visitante": "Flamengo",
+      "clube_casa_abrev": "BAH",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/bahia_60x60.png",
+      "clube_visitante_id": 262,
+      "clube_visitante_abrev": "FLA",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/04/09/Flamengo-65.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 5
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2021/04/19/e1aed10bb6ce5982e13ad4114a3a013a_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/bahia_60x60.png",
   "scouts": {
-    "rodada_id": 11,
+    "rodada_id": 12,
     "g": 0,
     "a": 0,
     "sg": 1,
