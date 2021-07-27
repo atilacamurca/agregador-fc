@@ -6,7 +6,6 @@
   "clube_id": 285,
   "posicao": "Goleiro",
   "rodadas": [
-    2,
     3,
     4,
     5,
@@ -16,10 +15,10 @@
     9,
     10,
     11,
-    12
+    12,
+    13
   ],
   "pontos": [
-    0,
     10,
     0,
     0,
@@ -29,10 +28,10 @@
     8,
     1,
     8,
-    9
+    9,
+    0.5
   ],
   "precos": [
-    3,
     5.67,
     4.35,
     4.22,
@@ -42,10 +41,10 @@
     6.4,
     5.35,
     6.76,
-    7.4
+    7.4,
+    6.18
   ],
   "variacoes": [
-    0,
     2.67,
     -1.32,
     -0.13,
@@ -55,10 +54,10 @@
     1.56,
     -1.05,
     1.41,
-    0.64
+    0.64,
+    -1.22
   ],
   "medias": [
-    0,
     10,
     5,
     3.33,
@@ -68,22 +67,10 @@
     3.86,
     3.5,
     4,
-    4.5
+    4.5,
+    4.14
   ],
   "partidas": [
-    {
-      "rodada_id": 2,
-      "clube_casa": "Fortaleza",
-      "clube_casa_id": 356,
-      "clube_visitante": "Internacional",
-      "clube_casa_abrev": "FOR",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/06/10/fortaleza-ec-65px.png",
-      "clube_visitante_id": 285,
-      "clube_visitante_abrev": "INT",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/03/inter65.png",
-      "placar_oficial_mandante": 5,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 3,
       "clube_casa": "Bahia",
@@ -213,37 +200,50 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/08/juventude65.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 13,
+      "clube_casa": "Athlético-PR",
+      "clube_casa_id": 293,
+      "clube_visitante": "Internacional",
+      "clube_casa_abrev": "ATL",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/09/Athletico-PR-65x65.png",
+      "clube_visitante_id": 285,
+      "clube_visitante_abrev": "INT",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/03/inter65.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2020/02/27/222ec98ac489a4b1ce5063bdde3d208e_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/03/inter65.png",
   "scouts": {
-    "rodada_id": 12,
+    "rodada_id": 13,
     "g": 0,
     "a": 0,
     "sg": 3,
-    "fs": 2,
+    "fs": 3,
     "ff": 0,
     "fd": 0,
     "ft": 0,
-    "de": 38,
+    "de": 40,
     "dp": 0,
     "gc": 0,
     "cv": 0,
     "ca": 0,
     "pp": 0,
-    "gs": 9,
+    "gs": 11,
     "fc": 0,
     "i": 0,
     "ds": 0,
     "pi": 0,
     "pc": 0,
     "ps": 0,
-    "pontos_num": 9,
-    "preco_num": 7.4,
-    "variacao_num": 0.64,
-    "media_num": 4.5,
-    "jogos_num": 10,
+    "pontos_num": 0.5,
+    "preco_num": 6.18,
+    "variacao_num": -1.22,
+    "media_num": 4.14,
+    "jogos_num": 11,
     "posicao_abrev": "gol",
     "posicao": "Goleiro"
   }

@@ -6,7 +6,6 @@
   "clube_id": 280,
   "posicao": "Goleiro",
   "rodadas": [
-    2,
     3,
     4,
     5,
@@ -16,10 +15,10 @@
     9,
     10,
     11,
-    12
+    12,
+    13
   ],
   "pontos": [
-    0,
     0,
     1,
     5.5,
@@ -29,10 +28,10 @@
     4,
     0,
     3,
+    2,
     2
   ],
   "precos": [
-    7.66,
     7.04,
     6.83,
     7.96,
@@ -42,10 +41,10 @@
     8.89,
     8.09,
     8.56,
-    8.45
+    8.45,
+    8.5
   ],
   "variacoes": [
-    0,
     -0.62,
     -0.21,
     1.13,
@@ -55,10 +54,10 @@
     -0.31,
     -0.8,
     0.47,
-    -0.11
+    -0.11,
+    0.05
   ],
   "medias": [
-    7,
     3.5,
     2.67,
     3.38,
@@ -68,22 +67,10 @@
     4.38,
     3.89,
     3.8,
-    3.64
+    3.64,
+    3.5
   ],
   "partidas": [
-    {
-      "rodada_id": 2,
-      "clube_casa": "Bragantino",
-      "clube_casa_id": 280,
-      "clube_visitante": "Bahia",
-      "clube_casa_abrev": "BRA",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2020/01/01/65.png",
-      "clube_visitante_id": 265,
-      "clube_visitante_abrev": "BAH",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/bahia_60x60.png",
-      "placar_oficial_mandante": 3,
-      "placar_oficial_visitante": 3
-    },
     {
       "rodada_id": 3,
       "clube_casa": "Bragantino",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/santos_60x60.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 13,
+      "clube_casa": "Fortaleza",
+      "clube_casa_id": 356,
+      "clube_visitante": "Bragantino",
+      "clube_casa_abrev": "FOR",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/06/10/fortaleza-ec-65px.png",
+      "clube_visitante_id": 280,
+      "clube_visitante_abrev": "BRA",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2020/01/01/65.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2020/08/11/56999db7c665007bbfe8c1e1b0e76f8d_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2020/01/01/65.png",
   "scouts": {
-    "rodada_id": 12,
+    "rodada_id": 13,
     "g": 0,
     "a": 0,
     "sg": 3,
@@ -226,13 +226,13 @@
     "ff": 0,
     "fd": 0,
     "ft": 0,
-    "de": 38,
+    "de": 41,
     "dp": 0,
     "gc": 0,
     "cv": 0,
     "ca": 1,
     "pp": 0,
-    "gs": 12,
+    "gs": 13,
     "fc": 0,
     "i": 0,
     "ds": 0,
@@ -240,10 +240,10 @@
     "pc": 0,
     "ps": 0,
     "pontos_num": 2,
-    "preco_num": 8.45,
-    "variacao_num": -0.11,
-    "media_num": 3.64,
-    "jogos_num": 11,
+    "preco_num": 8.5,
+    "variacao_num": 0.05,
+    "media_num": 3.5,
+    "jogos_num": 12,
     "posicao_abrev": "gol",
     "posicao": "Goleiro"
   }

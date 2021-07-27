@@ -6,7 +6,6 @@
   "clube_id": 292,
   "posicao": "Meia",
   "rodadas": [
-    2,
     3,
     4,
     5,
@@ -16,10 +15,10 @@
     9,
     10,
     11,
-    12
+    12,
+    13
   ],
   "pontos": [
-    0.7,
     1.1,
     2.1,
     -0.1,
@@ -29,10 +28,10 @@
     2.5,
     8.4,
     -1,
-    6.4
+    6.4,
+    0.2
   ],
   "precos": [
-    3.99,
     3.95,
     4.15,
     3.73,
@@ -42,10 +41,10 @@
     3.86,
     5.18,
     3.73,
-    5.12
+    5.12,
+    4.22
   ],
   "variacoes": [
-    -0.81,
     -0.04,
     0.2,
     -0.42,
@@ -55,10 +54,10 @@
     0.32,
     1.32,
     -1.45,
-    1.39
+    1.39,
+    -0.9
   ],
   "medias": [
-    0.8,
     0.9,
     1.2,
     0.94,
@@ -68,22 +67,10 @@
     0.94,
     1.69,
     1.45,
-    1.86
+    1.86,
+    1.73
   ],
   "partidas": [
-    {
-      "rodada_id": 2,
-      "clube_casa": "Sport",
-      "clube_casa_id": 292,
-      "clube_visitante": "Atlético-MG",
-      "clube_casa_abrev": "SPO",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2015/07/21/sport65.png",
-      "clube_visitante_id": 282,
-      "clube_visitante_abrev": "ATL",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2017/11/23/Atletico-Mineiro-escudo65px.png",
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 3,
       "clube_casa": "Fortaleza",
@@ -213,37 +200,50 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2015/07/21/sport65.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 13,
+      "clube_casa": "Sport",
+      "clube_casa_id": 292,
+      "clube_visitante": "Ceará",
+      "clube_casa_abrev": "SPO",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2015/07/21/sport65.png",
+      "clube_visitante_id": 354,
+      "clube_visitante_abrev": "CEA",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/10/10/ceara-65x65.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2021/04/27/15e157218589614469b909e98d1bd54c_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2015/07/21/sport65.png",
   "scouts": {
-    "rodada_id": 12,
+    "rodada_id": 13,
     "g": 1,
     "a": 0,
     "sg": 0,
-    "fs": 12,
-    "ff": 2,
+    "fs": 13,
+    "ff": 3,
     "fd": 0,
     "ft": 0,
     "de": 0,
     "dp": 0,
     "gc": 0,
     "cv": 0,
-    "ca": 2,
+    "ca": 3,
     "pp": 0,
     "gs": 0,
-    "fc": 26,
+    "fc": 28,
     "i": 0,
-    "ds": 28,
-    "pi": 43,
+    "ds": 30,
+    "pi": 44,
     "pc": 0,
     "ps": 0,
-    "pontos_num": 6.4,
-    "preco_num": 5.12,
-    "variacao_num": 1.39,
-    "media_num": 1.86,
-    "jogos_num": 12,
+    "pontos_num": 0.2,
+    "preco_num": 4.22,
+    "variacao_num": -0.9,
+    "media_num": 1.73,
+    "jogos_num": 13,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }

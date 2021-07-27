@@ -6,7 +6,6 @@
   "clube_id": 265,
   "posicao": "Meia",
   "rodadas": [
-    2,
     3,
     4,
     5,
@@ -16,10 +15,10 @@
     9,
     10,
     11,
-    12
+    12,
+    13
   ],
   "pontos": [
-    -2.2,
     1.8,
     0,
     0,
@@ -29,10 +28,10 @@
     1.4,
     0,
     1.8,
-    3.5
+    3.5,
+    1.9
   ],
   "precos": [
-    1.15,
     1.67,
     1.67,
     1.67,
@@ -42,10 +41,10 @@
     1.6,
     1.6,
     1.72,
-    2.16
+    2.16,
+    2.03
   ],
   "variacoes": [
-    -1.98,
     0.52,
     0,
     0,
@@ -55,10 +54,10 @@
     -0.07,
     0,
     0.12,
-    0.44
+    0.44,
+    -0.13
   ],
   "medias": [
-    -1.35,
     -0.3,
     -0.3,
     -0.3,
@@ -68,22 +67,10 @@
     0.12,
     0.12,
     0.46,
-    0.97
+    0.97,
+    1.1
   ],
   "partidas": [
-    {
-      "rodada_id": 2,
-      "clube_casa": "Bragantino",
-      "clube_casa_id": 280,
-      "clube_visitante": "Bahia",
-      "clube_casa_abrev": "BRA",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2020/01/01/65.png",
-      "clube_visitante_id": 265,
-      "clube_visitante_abrev": "BAH",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/bahia_60x60.png",
-      "placar_oficial_mandante": 3,
-      "placar_oficial_visitante": 3
-    },
     {
       "rodada_id": 3,
       "clube_casa": "Bahia",
@@ -213,18 +200,31 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/04/09/Flamengo-65.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 5
+    },
+    {
+      "rodada_id": 13,
+      "clube_casa": "Atlético-MG",
+      "clube_casa_id": 282,
+      "clube_visitante": "Bahia",
+      "clube_casa_abrev": "ATL",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2017/11/23/Atletico-Mineiro-escudo65px.png",
+      "clube_visitante_id": 265,
+      "clube_visitante_abrev": "BAH",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/bahia_60x60.png",
+      "placar_oficial_mandante": 3,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2021/04/17/f3687cc2ecac53f4cab13bcd8670033d_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/bahia_60x60.png",
   "scouts": {
-    "rodada_id": 12,
+    "rodada_id": 13,
     "g": 0,
     "a": 0,
     "sg": 0,
-    "fs": 4,
+    "fs": 6,
     "ff": 1,
-    "fd": 0,
+    "fd": 1,
     "ft": 1,
     "de": 0,
     "dp": 0,
@@ -233,17 +233,17 @@
     "ca": 2,
     "pp": 0,
     "gs": 0,
-    "fc": 6,
+    "fc": 8,
     "i": 0,
-    "ds": 9,
-    "pi": 20,
+    "ds": 10,
+    "pi": 23,
     "pc": 0,
     "ps": 0,
-    "pontos_num": 3.5,
-    "preco_num": 2.16,
-    "variacao_num": 0.44,
-    "media_num": 0.97,
-    "jogos_num": 6,
+    "pontos_num": 1.9,
+    "preco_num": 2.03,
+    "variacao_num": -0.13,
+    "media_num": 1.1,
+    "jogos_num": 7,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }
