@@ -6,7 +6,6 @@
   "clube_id": 276,
   "posicao": "Atacante",
   "rodadas": [
-    3,
     4,
     5,
     6,
@@ -16,10 +15,10 @@
     10,
     11,
     12,
-    13
+    13,
+    14
   ],
   "pontos": [
-    0.2,
     6.7,
     3.4,
     9,
@@ -29,10 +28,10 @@
     11.5,
     0,
     0,
-    -3.2
+    -3.2,
+    -3.4
   ],
   "precos": [
-    3.74,
     5.39,
     5.37,
     7.05,
@@ -42,10 +41,10 @@
     8.48,
     8.48,
     8.48,
-    6.22
+    6.22,
+    5.86
   ],
   "variacoes": [
-    -0.43,
     1.65,
     -0.02,
     1.68,
@@ -55,10 +54,10 @@
     0.93,
     0,
     0,
-    -2.26
+    -2.26,
+    -0.36
   ],
   "medias": [
-    0.8,
     2.77,
     2.93,
     4.14,
@@ -68,22 +67,10 @@
     4.77,
     4.77,
     4.77,
-    3.97
+    3.97,
+    3.3
   ],
   "partidas": [
-    {
-      "rodada_id": 3,
-      "clube_casa": "Atlético-MG",
-      "clube_casa_id": 282,
-      "clube_visitante": "São Paulo",
-      "clube_casa_abrev": "ATL",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2017/11/23/Atletico-Mineiro-escudo65px.png",
-      "clube_visitante_id": 276,
-      "clube_visitante_abrev": "SAO",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/sao_paulo_60x60.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 4,
       "clube_casa": "São Paulo",
@@ -213,37 +200,50 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/sao_paulo_60x60.png",
       "placar_oficial_mandante": 5,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 14,
+      "clube_casa": "São Paulo",
+      "clube_casa_id": 276,
+      "clube_visitante": "Palmeiras",
+      "clube_casa_abrev": "SAO",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/sao_paulo_60x60.png",
+      "clube_visitante_id": 275,
+      "clube_visitante_abrev": "PAL",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2021/06/03/c998c28055303b42304d5be5616a2892_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/sao_paulo_60x60.png",
   "scouts": {
-    "rodada_id": 13,
+    "rodada_id": 14,
     "g": 2,
     "a": 3,
     "sg": 0,
-    "fs": 6,
-    "ff": 8,
-    "fd": 4,
+    "fs": 7,
+    "ff": 9,
+    "fd": 6,
     "ft": 0,
     "de": 0,
     "dp": 0,
     "gc": 0,
-    "cv": 0,
+    "cv": 1,
     "ca": 1,
     "pp": 0,
     "gs": 0,
-    "fc": 17,
-    "i": 3,
+    "fc": 19,
+    "i": 4,
     "ds": 13,
-    "pi": 65,
+    "pi": 71,
     "pc": 0,
     "ps": 0,
-    "pontos_num": -3.2,
-    "preco_num": 6.22,
-    "variacao_num": -2.26,
-    "media_num": 3.97,
-    "jogos_num": 10,
+    "pontos_num": -3.4,
+    "preco_num": 5.86,
+    "variacao_num": -0.36,
+    "media_num": 3.3,
+    "jogos_num": 11,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }

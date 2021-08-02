@@ -6,7 +6,6 @@
   "clube_id": 1371,
   "posicao": "Meia",
   "rodadas": [
-    3,
     4,
     5,
     6,
@@ -16,10 +15,10 @@
     10,
     11,
     12,
-    13
+    13,
+    14
   ],
   "pontos": [
-    0,
     1.1,
     0,
     0,
@@ -29,10 +28,10 @@
     -1,
     0.5,
     3.1,
-    1.9
+    1.9,
+    0.6
   ],
   "precos": [
-    4.14,
     3.79,
     3.79,
     3.79,
@@ -42,10 +41,10 @@
     3.05,
     3.23,
     3.74,
-    3.66
+    3.66,
+    3.42
   ],
   "variacoes": [
-    0,
     -0.35,
     0,
     0,
@@ -55,10 +54,10 @@
     -0.6,
     0.18,
     0.51,
-    -0.08
+    -0.08,
+    -0.24
   ],
   "medias": [
-    3,
     2.05,
     2.05,
     2.05,
@@ -68,22 +67,10 @@
     0.98,
     0.91,
     1.18,
-    1.26
+    1.26,
+    1.19
   ],
   "partidas": [
-    {
-      "rodada_id": 3,
-      "clube_casa": "Cuiabá",
-      "clube_casa_id": 1371,
-      "clube_visitante": "Atlético-GO",
-      "clube_casa_abrev": "CUI",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/16/cuiaba65.png",
-      "clube_visitante_id": 373,
-      "clube_visitante_abrev": "ATL",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2020/07/02/atletico-go-2020-65.png",
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 4,
       "clube_casa": "América-MG",
@@ -213,18 +200,31 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/30/Corinthians_65.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 14,
+      "clube_casa": "Internacional",
+      "clube_casa_id": 285,
+      "clube_visitante": "Cuiabá",
+      "clube_casa_abrev": "INT",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/03/inter65.png",
+      "clube_visitante_id": 1371,
+      "clube_visitante_abrev": "CUI",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/16/cuiaba65.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2021/05/28/bd9ad4b54fe731050d8e59e9991611f5_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/16/cuiaba65.png",
   "scouts": {
-    "rodada_id": 13,
+    "rodada_id": 14,
     "g": 0,
     "a": 0,
     "sg": 0,
-    "fs": 6,
+    "fs": 7,
     "ff": 1,
-    "fd": 3,
+    "fd": 4,
     "ft": 0,
     "de": 0,
     "dp": 0,
@@ -233,17 +233,17 @@
     "ca": 0,
     "pp": 0,
     "gs": 0,
-    "fc": 9,
+    "fc": 10,
     "i": 0,
     "ds": 11,
-    "pi": 25,
+    "pi": 31,
     "pc": 0,
     "ps": 0,
-    "pontos_num": 1.9,
-    "preco_num": 3.66,
-    "variacao_num": -0.08,
-    "media_num": 1.26,
-    "jogos_num": 9,
+    "pontos_num": 0.6,
+    "preco_num": 3.42,
+    "variacao_num": -0.24,
+    "media_num": 1.19,
+    "jogos_num": 10,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }

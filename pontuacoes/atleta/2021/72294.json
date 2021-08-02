@@ -6,7 +6,6 @@
   "clube_id": 282,
   "posicao": "Goleiro",
   "rodadas": [
-    3,
     4,
     5,
     6,
@@ -16,10 +15,10 @@
     10,
     11,
     12,
-    13
+    13,
+    14
   ],
   "pontos": [
-    6,
     6,
     0,
     3,
@@ -29,10 +28,10 @@
     6,
     8.5,
     1,
-    9
+    9,
+    7
   ],
   "precos": [
-    11.04,
     11.47,
     10.42,
     10.81,
@@ -42,10 +41,10 @@
     11.41,
     12.12,
     11,
-    12.58
+    12.58,
+    12.39
   ],
   "variacoes": [
-    0.79,
     0.43,
     -1.05,
     0.39,
@@ -55,10 +54,10 @@
     -0.29,
     0.71,
     -1.12,
-    1.58
+    1.58,
+    -0.19
   ],
   "medias": [
-    4.67,
     5,
     4,
     3.83,
@@ -68,22 +67,10 @@
     4.1,
     4.5,
     4.21,
-    4.58
+    4.58,
+    4.75
   ],
   "partidas": [
-    {
-      "rodada_id": 3,
-      "clube_casa": "Atlético-MG",
-      "clube_casa_id": 282,
-      "clube_visitante": "São Paulo",
-      "clube_casa_abrev": "ATL",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2017/11/23/Atletico-Mineiro-escudo65px.png",
-      "clube_visitante_id": 276,
-      "clube_visitante_abrev": "SAO",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/sao_paulo_60x60.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 4,
       "clube_casa": "Internacional",
@@ -213,20 +200,33 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/bahia_60x60.png",
       "placar_oficial_mandante": 3,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 14,
+      "clube_casa": "Atlético-MG",
+      "clube_casa_id": 282,
+      "clube_visitante": "Athlético-PR",
+      "clube_casa_abrev": "ATL",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2017/11/23/Atletico-Mineiro-escudo65px.png",
+      "clube_visitante_id": 293,
+      "clube_visitante_abrev": "ATL",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/09/Athletico-PR-65x65.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2021/05/02/2eff4cdfd58d4f859979ef83bbe1ad06_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2017/11/23/Atletico-Mineiro-escudo65px.png",
   "scouts": {
-    "rodada_id": 13,
+    "rodada_id": 14,
     "g": 0,
     "a": 0,
-    "sg": 6,
+    "sg": 7,
     "fs": 1,
     "ff": 0,
     "fd": 0,
     "ft": 0,
-    "de": 38,
+    "de": 39,
     "dp": 0,
     "gc": 0,
     "cv": 0,
@@ -235,15 +235,15 @@
     "gs": 10,
     "fc": 0,
     "i": 0,
-    "ds": 1,
+    "ds": 2,
     "pi": 0,
     "pc": 0,
     "ps": 0,
-    "pontos_num": 9,
-    "preco_num": 12.58,
-    "variacao_num": 1.58,
-    "media_num": 4.58,
-    "jogos_num": 13,
+    "pontos_num": 7,
+    "preco_num": 12.39,
+    "variacao_num": -0.19,
+    "media_num": 4.75,
+    "jogos_num": 14,
     "posicao_abrev": "gol",
     "posicao": "Goleiro"
   }

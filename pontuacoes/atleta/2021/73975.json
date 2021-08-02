@@ -6,7 +6,6 @@
   "clube_id": 265,
   "posicao": "Técnico",
   "rodadas": [
-    3,
     4,
     5,
     6,
@@ -16,10 +15,10 @@
     10,
     11,
     12,
-    13
+    13,
+    14
   ],
   "pontos": [
-    1.25,
     2.86,
     3.85,
     2.63,
@@ -29,10 +28,10 @@
     4.27,
     1.71,
     0.73,
-    1.47
+    1.47,
+    2.06
   ],
   "precos": [
-    8.08,
     8.27,
     8.71,
     8.6,
@@ -42,10 +41,10 @@
     9.33,
     8.92,
     8.72,
-    8.85
+    8.85,
+    8.84
   ],
   "variacoes": [
-    -0.29,
     0.19,
     0.44,
     -0.11,
@@ -55,10 +54,10 @@
     -0.17,
     -0.41,
     -0.2,
-    0.13
+    0.13,
+    -0.01
   ],
   "medias": [
-    3.66,
     3.46,
     3.54,
     3.39,
@@ -68,22 +67,10 @@
     3.81,
     3.62,
     3.38,
-    3.23
+    3.23,
+    3.15
   ],
   "partidas": [
-    {
-      "rodada_id": 3,
-      "clube_casa": "Bahia",
-      "clube_casa_id": 265,
-      "clube_visitante": "Internacional",
-      "clube_casa_abrev": "BAH",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/bahia_60x60.png",
-      "clube_visitante_id": 285,
-      "clube_visitante_abrev": "INT",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/03/inter65.png",
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 4,
       "clube_casa": "Ceará",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/bahia_60x60.png",
       "placar_oficial_mandante": 3,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 14,
+      "clube_casa": "Bahia",
+      "clube_casa_id": 265,
+      "clube_visitante": "Sport",
+      "clube_casa_abrev": "BAH",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/bahia_60x60.png",
+      "clube_visitante_id": 292,
+      "clube_visitante_abrev": "SPO",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2015/07/21/sport65.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2021/04/27/d35dc59e19f369d5bebf2ca870749b72_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/bahia_60x60.png",
   "scouts": {
-    "rodada_id": 13,
+    "rodada_id": 14,
     "g": 0,
     "a": 0,
     "sg": 0,
@@ -239,11 +239,11 @@
     "pi": 0,
     "pc": 0,
     "ps": 0,
-    "pontos_num": 1.47,
-    "preco_num": 8.85,
-    "variacao_num": 0.13,
-    "media_num": 3.23,
-    "jogos_num": 13,
+    "pontos_num": 2.06,
+    "preco_num": 8.84,
+    "variacao_num": -0.01,
+    "media_num": 3.15,
+    "jogos_num": 14,
     "posicao_abrev": "tec",
     "posicao": "Técnico"
   }
