@@ -6,7 +6,6 @@
   "clube_id": 262,
   "posicao": "Atacante",
   "rodadas": [
-    4,
     5,
     6,
     7,
@@ -16,10 +15,10 @@
     11,
     12,
     13,
-    14
+    14,
+    15
   ],
   "pontos": [
-    0,
     5.8,
     3.2,
     1.5,
@@ -29,10 +28,10 @@
     11.7,
     0,
     0.4,
-    0.6
+    0.6,
+    1.7
   ],
   "precos": [
-    2.97,
     4.15,
     4.11,
     3.92,
@@ -42,10 +41,10 @@
     6.62,
     4.92,
     4.97,
-    4.92
+    4.92,
+    5.12
   ],
   "variacoes": [
-    0,
     1.18,
     -0.04,
     -0.19,
@@ -55,10 +54,10 @@
     2.29,
     -1.7,
     0.05,
-    -0.05
+    -0.05,
+    0.2
   ],
   "medias": [
-    0.95,
     2.57,
     2.73,
     2.48,
@@ -68,22 +67,10 @@
     3.88,
     3.49,
     3.21,
-    2.99
+    2.99,
+    2.89
   ],
   "partidas": [
-    {
-      "rodada_id": 4,
-      "clube_casa": "Athlético-PR",
-      "clube_casa_id": 293,
-      "clube_visitante": "Flamengo",
-      "clube_casa_abrev": "ATL",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/09/Athletico-PR-65x65.png",
-      "clube_visitante_id": 262,
-      "clube_visitante_abrev": "FLA",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/04/09/Flamengo-65.png",
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 5,
       "clube_casa": "Flamengo",
@@ -213,18 +200,31 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/04/09/Flamengo-65.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 3
+    },
+    {
+      "rodada_id": 15,
+      "clube_casa": "Flamengo",
+      "clube_casa_id": 262,
+      "clube_visitante": "Internacional",
+      "clube_casa_abrev": "FLA",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/04/09/Flamengo-65.png",
+      "clube_visitante_id": 285,
+      "clube_visitante_abrev": "INT",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/03/inter65.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 4
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2021/05/01/49409a4549559a7199ee8010f2ba6730_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2018/04/09/Flamengo-65.png",
   "scouts": {
-    "rodada_id": 14,
+    "rodada_id": 15,
     "g": 1,
     "a": 1,
     "sg": 0,
     "fs": 6,
-    "ff": 7,
-    "fd": 7,
+    "ff": 8,
+    "fd": 8,
     "ft": 0,
     "de": 0,
     "dp": 0,
@@ -236,14 +236,14 @@
     "fc": 11,
     "i": 5,
     "ds": 22,
-    "pi": 81,
+    "pi": 84,
     "pc": 0,
     "ps": 0,
-    "pontos_num": 0.6,
-    "preco_num": 4.92,
-    "variacao_num": -0.05,
-    "media_num": 2.99,
-    "jogos_num": 12,
+    "pontos_num": 1.7,
+    "preco_num": 5.12,
+    "variacao_num": 0.2,
+    "media_num": 2.89,
+    "jogos_num": 13,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }

@@ -6,7 +6,6 @@
   "clube_id": 327,
   "posicao": "Goleiro",
   "rodadas": [
-    4,
     5,
     6,
     7,
@@ -16,10 +15,10 @@
     11,
     12,
     13,
-    14
+    14,
+    15
   ],
   "pontos": [
-    0,
     0,
     0,
     2,
@@ -29,10 +28,10 @@
     4,
     3,
     3,
-    1
+    1,
+    7
   ],
   "precos": [
-    5.54,
     5.54,
     5.54,
     5.18,
@@ -42,10 +41,10 @@
     6.14,
     6.12,
     6.25,
-    5.88
+    5.88,
+    7.06
   ],
   "variacoes": [
-    0,
     0,
     0,
     -0.36,
@@ -55,10 +54,10 @@
     0.99,
     -0.02,
     0.13,
-    -0.37
+    -0.37,
+    1.18
   ],
   "medias": [
-    2,
     2,
     2,
     2,
@@ -68,22 +67,10 @@
     3,
     3,
     3,
-    2.82
+    2.82,
+    3.17
   ],
   "partidas": [
-    {
-      "rodada_id": 4,
-      "clube_casa": "América-MG",
-      "clube_casa_id": 327,
-      "clube_visitante": "Cuiabá",
-      "clube_casa_abrev": "AME",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/28/escudo65_1.png",
-      "clube_visitante_id": 1371,
-      "clube_visitante_abrev": "CUI",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/16/cuiaba65.png",
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 5,
       "clube_casa": "Palmeiras",
@@ -213,20 +200,33 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/28/escudo65_1.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 15,
+      "clube_casa": "América-MG",
+      "clube_casa_id": 327,
+      "clube_visitante": "Fluminense",
+      "clube_casa_abrev": "AME",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/28/escudo65_1.png",
+      "clube_visitante_id": 266,
+      "clube_visitante_abrev": "FLU",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/fluminense_60x60.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2021/06/04/4b9a4cd7759d0ef36a25a02c4b9cf8a8_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/28/escudo65_1.png",
   "scouts": {
-    "rodada_id": 14,
+    "rodada_id": 15,
     "g": 0,
     "a": 0,
-    "sg": 1,
+    "sg": 2,
     "fs": 0,
     "ff": 0,
     "fd": 0,
     "ft": 0,
-    "de": 40,
+    "de": 42,
     "dp": 0,
     "gc": 0,
     "cv": 0,
@@ -239,11 +239,11 @@
     "pi": 0,
     "pc": 0,
     "ps": 0,
-    "pontos_num": 1,
-    "preco_num": 5.88,
-    "variacao_num": -0.37,
-    "media_num": 2.82,
-    "jogos_num": 11,
+    "pontos_num": 7,
+    "preco_num": 7.06,
+    "variacao_num": 1.18,
+    "media_num": 3.17,
+    "jogos_num": 12,
     "posicao_abrev": "gol",
     "posicao": "Goleiro"
   }

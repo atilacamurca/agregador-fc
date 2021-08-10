@@ -6,7 +6,6 @@
   "clube_id": 265,
   "posicao": "Goleiro",
   "rodadas": [
-    4,
     5,
     6,
     7,
@@ -16,10 +15,10 @@
     11,
     12,
     13,
-    14
+    14,
+    15
   ],
   "pontos": [
-    -1,
     9,
     2,
     2.5,
@@ -29,10 +28,10 @@
     4,
     0,
     -1,
-    0
+    0,
+    0.5
   ],
   "precos": [
-    1.61,
     4.08,
     3.35,
     3.57,
@@ -42,10 +41,10 @@
     4.88,
     4.27,
     4.04,
-    4.04
+    4.04,
+    4.16
   ],
   "variacoes": [
-    -0.44,
     2.47,
     -0.73,
     0.22,
@@ -55,10 +54,10 @@
     -0.36,
     -0.61,
     -0.23,
-    0
+    0,
+    0.12
   ],
   "medias": [
-    -0.75,
     2.5,
     2.38,
     2.4,
@@ -68,22 +67,10 @@
     3.5,
     3.15,
     2.77,
-    2.77
+    2.77,
+    2.58
   ],
   "partidas": [
-    {
-      "rodada_id": 4,
-      "clube_casa": "Ceará",
-      "clube_casa_id": 354,
-      "clube_visitante": "Bahia",
-      "clube_casa_abrev": "CEA",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/10/10/ceara-65x65.png",
-      "clube_visitante_id": 265,
-      "clube_visitante_abrev": "BAH",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/bahia_60x60.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 2
-    },
     {
       "rodada_id": 5,
       "clube_casa": "Bahia",
@@ -213,37 +200,50 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2015/07/21/sport65.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 15,
+      "clube_casa": "Cuiabá",
+      "clube_casa_id": 1371,
+      "clube_visitante": "Bahia",
+      "clube_casa_abrev": "CUI",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/16/cuiaba65.png",
+      "clube_visitante_id": 265,
+      "clube_visitante_abrev": "BAH",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/bahia_60x60.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2021/04/19/7806f980c395c15222e3a79eb06b41e1_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/bahia_60x60.png",
   "scouts": {
-    "rodada_id": 14,
+    "rodada_id": 15,
     "g": 0,
     "a": 0,
     "sg": 3,
-    "fs": 5,
+    "fs": 6,
     "ff": 0,
     "fd": 0,
     "ft": 0,
-    "de": 38,
+    "de": 39,
     "dp": 0,
     "gc": 0,
     "cv": 0,
     "ca": 2,
     "pp": 0,
-    "gs": 19,
+    "gs": 20,
     "fc": 0,
     "i": 0,
     "ds": 0,
     "pi": 0,
     "pc": 2,
     "ps": 0,
-    "pontos_num": 0,
-    "preco_num": 4.04,
-    "variacao_num": 0,
-    "media_num": 2.77,
-    "jogos_num": 11,
+    "pontos_num": 0.5,
+    "preco_num": 4.16,
+    "variacao_num": 0.12,
+    "media_num": 2.58,
+    "jogos_num": 12,
     "posicao_abrev": "gol",
     "posicao": "Goleiro"
   }

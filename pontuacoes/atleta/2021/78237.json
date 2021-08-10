@@ -6,7 +6,6 @@
   "clube_id": 286,
   "posicao": "Zagueiro",
   "rodadas": [
-    4,
     5,
     6,
     7,
@@ -16,10 +15,10 @@
     11,
     12,
     13,
-    14
+    14,
+    15
   ],
   "pontos": [
-    0,
     5,
     0.8,
     0,
@@ -29,10 +28,10 @@
     0,
     0,
     6.8,
-    0
+    0,
+    0.8
   ],
   "precos": [
-    2,
     3.01,
     2.53,
     2.53,
@@ -42,10 +41,10 @@
     2.71,
     2.71,
     3.94,
-    3.94
+    3.94,
+    3.08
   ],
   "variacoes": [
-    0,
     1.01,
     -0.48,
     0,
@@ -55,10 +54,10 @@
     0,
     0,
     1.23,
-    0
+    0,
+    -0.86
   ],
   "medias": [
-    0,
     5,
     2.9,
     2.9,
@@ -68,22 +67,10 @@
     2.7,
     2.7,
     3.52,
-    3.52
+    3.52,
+    3.07
   ],
   "partidas": [
-    {
-      "rodada_id": 4,
-      "clube_casa": "Juventude",
-      "clube_casa_id": 286,
-      "clube_visitante": "Palmeiras",
-      "clube_casa_abrev": "JUV",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/08/juventude65.png",
-      "clube_visitante_id": 275,
-      "clube_visitante_abrev": "PAL",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 3
-    },
     {
       "rodada_id": 5,
       "clube_casa": "Juventude",
@@ -213,16 +200,29 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/08/juventude65.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 15,
+      "clube_casa": "Juventude",
+      "clube_casa_id": 286,
+      "clube_visitante": "Atlético-MG",
+      "clube_casa_abrev": "JUV",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/08/juventude65.png",
+      "clube_visitante_id": 282,
+      "clube_visitante_abrev": "ATL",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2017/11/23/Atletico-Mineiro-escudo65px.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2021/06/07/a55552ea231b54ee8f01fe8d1f5d199c_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/08/juventude65.png",
   "scouts": {
-    "rodada_id": 14,
+    "rodada_id": 15,
     "g": 0,
     "a": 0,
     "sg": 3,
-    "fs": 0,
+    "fs": 1,
     "ff": 0,
     "fd": 0,
     "ft": 0,
@@ -235,15 +235,15 @@
     "gs": 0,
     "fc": 0,
     "i": 0,
-    "ds": 4,
-    "pi": 4,
+    "ds": 5,
+    "pi": 11,
     "pc": 1,
     "ps": 0,
-    "pontos_num": 0,
-    "preco_num": 3.94,
-    "variacao_num": 0,
-    "media_num": 3.52,
-    "jogos_num": 5,
+    "pontos_num": 0.8,
+    "preco_num": 3.08,
+    "variacao_num": -0.86,
+    "media_num": 3.07,
+    "jogos_num": 6,
     "posicao_abrev": "zag",
     "posicao": "Zagueiro"
   }

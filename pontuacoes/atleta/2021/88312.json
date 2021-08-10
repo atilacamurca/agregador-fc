@@ -6,7 +6,6 @@
   "clube_id": 282,
   "posicao": "Zagueiro",
   "rodadas": [
-    4,
     5,
     6,
     7,
@@ -16,10 +15,10 @@
     11,
     12,
     13,
-    14
+    14,
+    15
   ],
   "pontos": [
-    0,
     0,
     0,
     0,
@@ -29,10 +28,10 @@
     9.2,
     -2.8,
     4.7,
-    4.9
+    4.9,
+    0
   ],
   "precos": [
-    8.77,
     8.77,
     8.77,
     8.77,
@@ -42,10 +41,10 @@
     8.64,
     6.68,
     7.96,
+    8.07,
     8.07
   ],
   "variacoes": [
-    0,
     0,
     0,
     0,
@@ -55,10 +54,10 @@
     1.28,
     -1.96,
     1.28,
-    0.11
+    0.11,
+    0
   ],
   "medias": [
-    0.6,
     0.6,
     0.6,
     0.6,
@@ -68,22 +67,10 @@
     4.4,
     2.6,
     3.02,
+    3.33,
     3.33
   ],
   "partidas": [
-    {
-      "rodada_id": 4,
-      "clube_casa": "Internacional",
-      "clube_casa_id": 285,
-      "clube_visitante": "Atlético-MG",
-      "clube_casa_abrev": "INT",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/03/inter65.png",
-      "clube_visitante_id": 282,
-      "clube_visitante_abrev": "ATL",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2017/11/23/Atletico-Mineiro-escudo65px.png",
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 5,
       "clube_casa": "Atlético-MG",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/09/Athletico-PR-65x65.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 15,
+      "clube_casa": "Juventude",
+      "clube_casa_id": 286,
+      "clube_visitante": "Atlético-MG",
+      "clube_casa_abrev": "JUV",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/08/juventude65.png",
+      "clube_visitante_id": 282,
+      "clube_visitante_abrev": "ATL",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2017/11/23/Atletico-Mineiro-escudo65px.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2021/05/02/032f0f12e9d3ede51e80e7fe49b836da_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2017/11/23/Atletico-Mineiro-escudo65px.png",
   "scouts": {
-    "rodada_id": 14,
+    "rodada_id": 15,
     "g": 0,
     "a": 0,
     "sg": 3,
@@ -239,9 +239,9 @@
     "pi": 33,
     "pc": 0,
     "ps": 0,
-    "pontos_num": 4.9,
+    "pontos_num": 0,
     "preco_num": 8.07,
-    "variacao_num": 0.11,
+    "variacao_num": 0,
     "media_num": 3.33,
     "jogos_num": 6,
     "posicao_abrev": "zag",

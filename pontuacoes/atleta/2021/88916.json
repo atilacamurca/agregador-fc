@@ -6,7 +6,6 @@
   "clube_id": 373,
   "posicao": "Goleiro",
   "rodadas": [
-    4,
     5,
     6,
     7,
@@ -15,12 +14,13 @@
     10,
     11,
     12,
-    14
+    14,
+    15
   ],
   "pontos": [
     0,
-    0,
     -2,
+    0,
     0,
     0,
     0,
@@ -31,7 +31,7 @@
   ],
   "precos": [
     6,
-    6,
+    4.04,
     4.04,
     4.04,
     4.04,
@@ -43,8 +43,8 @@
   ],
   "variacoes": [
     0,
-    0,
     -1.96,
+    0,
     0,
     0,
     0,
@@ -55,7 +55,7 @@
   ],
   "medias": [
     0,
-    0,
+    -2,
     -2,
     -2,
     -2,
@@ -66,19 +66,6 @@
     -2
   ],
   "partidas": [
-    {
-      "rodada_id": 4,
-      "clube_casa": "Atlético-GO",
-      "clube_casa_id": 373,
-      "clube_visitante": "Fortaleza",
-      "clube_casa_abrev": "ATL",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2020/07/02/atletico-go-2020-65.png",
-      "clube_visitante_id": 356,
-      "clube_visitante_abrev": "FOR",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/06/10/fortaleza-ec-65px.png",
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 5,
       "clube_casa": "Athlético-PR",
@@ -195,12 +182,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/28/escudo65_1.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 15,
+      "clube_casa": "Ceará",
+      "clube_casa_id": 354,
+      "clube_visitante": "Atlético-GO",
+      "clube_casa_abrev": "CEA",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/10/10/ceara-65x65.png",
+      "clube_visitante_id": 373,
+      "clube_visitante_abrev": "ATL",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2020/07/02/atletico-go-2020-65.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2021/07/30/33d9f849e9622bac6ecc7877b3c64c3b_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2020/07/02/atletico-go-2020-65.png",
   "scouts": {
-    "rodada_id": 14,
+    "rodada_id": 15,
     "g": 0,
     "a": 0,
     "sg": 0,
