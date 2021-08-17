@@ -6,7 +6,6 @@
   "clube_id": 293,
   "posicao": "Zagueiro",
   "rodadas": [
-    5,
     6,
     7,
     8,
@@ -16,10 +15,10 @@
     12,
     13,
     14,
-    15
+    15,
+    16
   ],
   "pontos": [
-    2,
     1,
     -1.5,
     8.6,
@@ -29,10 +28,10 @@
     -1,
     -0.1,
     0,
-    0.2
+    0.2,
+    1.5
   ],
   "precos": [
-    6.07,
     5.88,
     5.19,
     7.08,
@@ -42,10 +41,10 @@
     5.39,
     5.47,
     5.47,
-    5.35
+    5.35,
+    5.58
   ],
   "variacoes": [
-    -0.58,
     -0.19,
     -0.69,
     1.89,
@@ -55,10 +54,10 @@
     -0.45,
     0.08,
     0,
-    -0.12
+    -0.12,
+    0.23
   ],
   "medias": [
-    5.2,
     4.15,
     3.02,
     3.95,
@@ -68,22 +67,10 @@
     2.67,
     2.39,
     2.39,
-    2.19
+    2.19,
+    2.13
   ],
   "partidas": [
-    {
-      "rodada_id": 5,
-      "clube_casa": "Athlético-PR",
-      "clube_casa_id": 293,
-      "clube_visitante": "Atlético-GO",
-      "clube_casa_abrev": "ATL",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/09/Athletico-PR-65x65.png",
-      "clube_visitante_id": 373,
-      "clube_visitante_abrev": "ATL",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2020/07/02/atletico-go-2020-65.png",
-      "placar_oficial_mandante": 2,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 6,
       "clube_casa": "Bahia",
@@ -213,16 +200,29 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/sao_paulo_60x60.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 16,
+      "clube_casa": "Cuiabá",
+      "clube_casa_id": 1371,
+      "clube_visitante": "Athlético-PR",
+      "clube_casa_abrev": "CUI",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/16/cuiaba65.png",
+      "clube_visitante_id": 293,
+      "clube_visitante_abrev": "ATL",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/09/Athletico-PR-65x65.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2021/05/02/08540895ccd662f502ed02a60a7d8172_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/09/Athletico-PR-65x65.png",
   "scouts": {
-    "rodada_id": 15,
+    "rodada_id": 16,
     "g": 1,
     "a": 0,
     "sg": 2,
-    "fs": 7,
+    "fs": 8,
     "ff": 1,
     "fd": 1,
     "ft": 0,
@@ -235,15 +235,15 @@
     "gs": 0,
     "fc": 11,
     "i": 0,
-    "ds": 12,
-    "pi": 39,
+    "ds": 14,
+    "pi": 49,
     "pc": 0,
     "ps": 0,
-    "pontos_num": 0.2,
-    "preco_num": 5.35,
-    "variacao_num": -0.12,
-    "media_num": 2.19,
-    "jogos_num": 11,
+    "pontos_num": 1.5,
+    "preco_num": 5.58,
+    "variacao_num": 0.23,
+    "media_num": 2.13,
+    "jogos_num": 12,
     "posicao_abrev": "zag",
     "posicao": "Zagueiro"
   }

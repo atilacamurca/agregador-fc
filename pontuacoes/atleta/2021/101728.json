@@ -6,7 +6,6 @@
   "clube_id": 276,
   "posicao": "Zagueiro",
   "rodadas": [
-    5,
     6,
     7,
     8,
@@ -16,10 +15,10 @@
     12,
     13,
     14,
-    15
+    15,
+    16
   ],
   "pontos": [
-    -1.4,
     1.7,
     5.8,
     5.9,
@@ -29,10 +28,10 @@
     0,
     0,
     0,
-    0
+    0,
+    3.4
   ],
   "precos": [
-    2.63,
     3.11,
     4.15,
     4.54,
@@ -42,10 +41,10 @@
     5.38,
     5.38,
     5.38,
-    5.38
+    5.38,
+    4.98
   ],
   "variacoes": [
-    -1.37,
     0.48,
     1.04,
     0.39,
@@ -55,10 +54,10 @@
     0,
     0,
     0,
-    0
+    0,
+    -0.4
   ],
   "medias": [
-    -1.4,
     0.15,
     2.03,
     3,
@@ -68,22 +67,10 @@
     3.42,
     3.42,
     3.42,
+    3.42,
     3.42
   ],
   "partidas": [
-    {
-      "rodada_id": 5,
-      "clube_casa": "Santos",
-      "clube_casa_id": 277,
-      "clube_visitante": "São Paulo",
-      "clube_casa_abrev": "SAN",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/santos_60x60.png",
-      "clube_visitante_id": 276,
-      "clube_visitante_abrev": "SAO",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/sao_paulo_60x60.png",
-      "placar_oficial_mandante": 2,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 6,
       "clube_casa": "São Paulo",
@@ -213,16 +200,29 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/sao_paulo_60x60.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 16,
+      "clube_casa": "São Paulo",
+      "clube_casa_id": 276,
+      "clube_visitante": "Grêmio",
+      "clube_casa_abrev": "SAO",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/sao_paulo_60x60.png",
+      "clube_visitante_id": 284,
+      "clube_visitante_abrev": "GRE",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/gremio_60x60.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2021/05/01/e78c10bf9529d9323a2d83a572c1e3d8_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/sao_paulo_60x60.png",
   "scouts": {
-    "rodada_id": 15,
+    "rodada_id": 16,
     "g": 0,
     "a": 0,
     "sg": 3,
-    "fs": 2,
+    "fs": 3,
     "ff": 0,
     "fd": 0,
     "ft": 0,
@@ -233,17 +233,17 @@
     "ca": 0,
     "pp": 0,
     "gs": 0,
-    "fc": 9,
+    "fc": 10,
     "i": 0,
-    "ds": 15,
-    "pi": 26,
+    "ds": 19,
+    "pi": 32,
     "pc": 0,
     "ps": 0,
-    "pontos_num": 0,
-    "preco_num": 5.38,
-    "variacao_num": 0,
+    "pontos_num": 3.4,
+    "preco_num": 4.98,
+    "variacao_num": -0.4,
     "media_num": 3.42,
-    "jogos_num": 7,
+    "jogos_num": 8,
     "posicao_abrev": "zag",
     "posicao": "Zagueiro"
   }

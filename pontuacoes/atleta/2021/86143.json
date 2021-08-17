@@ -6,7 +6,6 @@
   "clube_id": 373,
   "posicao": "Zagueiro",
   "rodadas": [
-    5,
     6,
     7,
     8,
@@ -16,7 +15,8 @@
     12,
     13,
     14,
-    15
+    15,
+    16
   ],
   "pontos": [
     0,
@@ -26,10 +26,10 @@
     0,
     0,
     0,
-    0,
     4.4,
     1.5,
-    3.7
+    3.7,
+    -0.1
   ],
   "precos": [
     3,
@@ -39,10 +39,10 @@
     3,
     3,
     3,
-    3,
     3.2,
     2.79,
-    3.28
+    3.28,
+    2.7
   ],
   "variacoes": [
     0,
@@ -52,10 +52,10 @@
     0,
     0,
     0,
-    0,
     0.2,
     -0.41,
-    0.49
+    0.49,
+    -0.58
   ],
   "medias": [
     0,
@@ -65,25 +65,12 @@
     0,
     0,
     0,
-    0,
     4.4,
     2.95,
-    3.2
+    3.2,
+    2.38
   ],
   "partidas": [
-    {
-      "rodada_id": 5,
-      "clube_casa": "Athlético-PR",
-      "clube_casa_id": 293,
-      "clube_visitante": "Atlético-GO",
-      "clube_casa_abrev": "ATL",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/09/Athletico-PR-65x65.png",
-      "clube_visitante_id": 373,
-      "clube_visitante_abrev": "ATL",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2020/07/02/atletico-go-2020-65.png",
-      "placar_oficial_mandante": 2,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 6,
       "clube_casa": "Atlético-GO",
@@ -213,16 +200,29 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2020/07/02/atletico-go-2020-65.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 16,
+      "clube_casa": "Bahia",
+      "clube_casa_id": 265,
+      "clube_visitante": "Atlético-GO",
+      "clube_casa_abrev": "BAH",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/bahia_60x60.png",
+      "clube_visitante_id": 373,
+      "clube_visitante_abrev": "ATL",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2020/07/02/atletico-go-2020-65.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2021/07/09/bc01d57ef6a6265332e638ba940f078f_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2020/07/02/atletico-go-2020-65.png",
   "scouts": {
-    "rodada_id": 15,
+    "rodada_id": 16,
     "g": 0,
     "a": 0,
     "sg": 2,
-    "fs": 4,
+    "fs": 5,
     "ff": 0,
     "fd": 0,
     "ft": 0,
@@ -236,14 +236,14 @@
     "fc": 2,
     "i": 0,
     "ds": 2,
-    "pi": 14,
+    "pi": 20,
     "pc": 0,
     "ps": 0,
-    "pontos_num": 3.7,
-    "preco_num": 3.28,
-    "variacao_num": 0.49,
-    "media_num": 3.2,
-    "jogos_num": 3,
+    "pontos_num": -0.1,
+    "preco_num": 2.7,
+    "variacao_num": -0.58,
+    "media_num": 2.38,
+    "jogos_num": 4,
     "posicao_abrev": "zag",
     "posicao": "Zagueiro"
   }

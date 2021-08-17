@@ -6,7 +6,6 @@
   "clube_id": 1371,
   "posicao": "Goleiro",
   "rodadas": [
-    5,
     6,
     7,
     8,
@@ -16,10 +15,10 @@
     12,
     13,
     14,
-    15
+    15,
+    16
   ],
   "pontos": [
-    0,
     3,
     6,
     1,
@@ -29,10 +28,10 @@
     0,
     0,
     8,
-    2
+    2,
+    6.5
   ],
   "precos": [
-    6.63,
     5.82,
     6.67,
     5.84,
@@ -42,10 +41,10 @@
     5.18,
     5.18,
     6.57,
-    5.76
+    5.76,
+    6.69
   ],
   "variacoes": [
-    0,
     -0.81,
     0.85,
     -0.83,
@@ -55,10 +54,10 @@
     0,
     0,
     1.39,
-    -0.81
+    -0.81,
+    0.93
   ],
   "medias": [
-    4.83,
     4.37,
     4.7,
     4.08,
@@ -68,22 +67,10 @@
     2.81,
     2.81,
     3.39,
-    3.25
+    3.25,
+    3.55
   ],
   "partidas": [
-    {
-      "rodada_id": 5,
-      "clube_casa": "Cuiabá",
-      "clube_casa_id": 1371,
-      "clube_visitante": "Grêmio",
-      "clube_casa_abrev": "CUI",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/16/cuiaba65.png",
-      "clube_visitante_id": 284,
-      "clube_visitante_abrev": "GRE",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/gremio_60x60.png",
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 6,
       "clube_casa": "São Paulo",
@@ -213,20 +200,33 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/bahia_60x60.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 16,
+      "clube_casa": "Cuiabá",
+      "clube_casa_id": 1371,
+      "clube_visitante": "Athlético-PR",
+      "clube_casa_abrev": "CUI",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/16/cuiaba65.png",
+      "clube_visitante_id": 293,
+      "clube_visitante_abrev": "ATL",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/09/Athletico-PR-65x65.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2021/05/28/50f29a94dff6b578111f33d689953f3c_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/16/cuiaba65.png",
   "scouts": {
-    "rodada_id": 15,
+    "rodada_id": 16,
     "g": 0,
     "a": 0,
-    "sg": 3,
-    "fs": 1,
+    "sg": 4,
+    "fs": 2,
     "ff": 0,
     "fd": 0,
     "ft": 0,
-    "de": 27,
+    "de": 28,
     "dp": 0,
     "gc": 0,
     "cv": 0,
@@ -239,11 +239,11 @@
     "pi": 0,
     "pc": 0,
     "ps": 0,
-    "pontos_num": 2,
-    "preco_num": 5.76,
-    "variacao_num": -0.81,
-    "media_num": 3.25,
-    "jogos_num": 10,
+    "pontos_num": 6.5,
+    "preco_num": 6.69,
+    "variacao_num": 0.93,
+    "media_num": 3.55,
+    "jogos_num": 11,
     "posicao_abrev": "gol",
     "posicao": "Goleiro"
   }
