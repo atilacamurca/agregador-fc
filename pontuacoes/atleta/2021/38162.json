@@ -6,7 +6,6 @@
   "clube_id": 266,
   "posicao": "Atacante",
   "rodadas": [
-    6,
     7,
     8,
     9,
@@ -16,10 +15,10 @@
     13,
     14,
     15,
-    16
+    16,
+    17
   ],
   "pontos": [
-    0.2,
     0,
     9.5,
     -1.2,
@@ -29,10 +28,10 @@
     -3.2,
     0,
     0.1,
-    0
+    0,
+    8.6
   ],
   "precos": [
-    6.85,
     6.85,
     8.39,
     6.73,
@@ -42,10 +41,10 @@
     5.81,
     5.81,
     6.07,
-    6.07
+    6.07,
+    7.61
   ],
   "variacoes": [
-    -0.21,
     0,
     1.54,
     -1.66,
@@ -55,10 +54,10 @@
     -0.96,
     0,
     0.26,
-    0
+    0,
+    1.54
   ],
   "medias": [
-    0.35,
     0.35,
     2.18,
     1.62,
@@ -68,22 +67,10 @@
     0.87,
     0.87,
     0.78,
-    0.78
+    0.78,
+    1.56
   ],
   "partidas": [
-    {
-      "rodada_id": 6,
-      "clube_casa": "Atlético-GO",
-      "clube_casa_id": 373,
-      "clube_visitante": "Fluminense",
-      "clube_casa_abrev": "ATL",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2020/07/02/atletico-go-2020-65.png",
-      "clube_visitante_id": 266,
-      "clube_visitante_abrev": "FLU",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/fluminense_60x60.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 7,
       "clube_casa": "Fluminense",
@@ -213,17 +200,30 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/fluminense_60x60.png",
       "placar_oficial_mandante": 4,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 17,
+      "clube_casa": "Fluminense",
+      "clube_casa_id": 266,
+      "clube_visitante": "Atlético-MG",
+      "clube_casa_abrev": "FLU",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/fluminense_60x60.png",
+      "clube_visitante_id": 282,
+      "clube_visitante_abrev": "ATL",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2017/11/23/Atletico-Mineiro-escudo65px.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 1
     }
   ],
-  "foto": "https://s.glbimg.com/es/sde/f/2020/08/11/1546fc5edcfb41d2e8f79f6eca1f6899_140x140.png",
+  "foto": "https://s.glbimg.com/es/sde/f/2021/08/19/c945ae80ae611c6862eef1fc338ddba6_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/fluminense_60x60.png",
   "scouts": {
-    "rodada_id": 16,
-    "g": 1,
+    "rodada_id": 17,
+    "g": 2,
     "a": 0,
     "sg": 0,
-    "fs": 11,
-    "ff": 6,
+    "fs": 13,
+    "ff": 7,
     "fd": 6,
     "ft": 0,
     "de": 0,
@@ -233,17 +233,17 @@
     "ca": 2,
     "pp": 0,
     "gs": 0,
-    "fc": 15,
+    "fc": 17,
     "i": 10,
     "ds": 2,
-    "pi": 40,
+    "pi": 42,
     "pc": 0,
     "ps": 0,
-    "pontos_num": 0,
-    "preco_num": 6.07,
-    "variacao_num": 0,
-    "media_num": 0.78,
-    "jogos_num": 9,
+    "pontos_num": 8.6,
+    "preco_num": 7.61,
+    "variacao_num": 1.54,
+    "media_num": 1.56,
+    "jogos_num": 10,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }

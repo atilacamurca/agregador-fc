@@ -6,7 +6,6 @@
   "clube_id": 327,
   "posicao": "Goleiro",
   "rodadas": [
-    6,
     7,
     8,
     9,
@@ -16,10 +15,10 @@
     13,
     14,
     15,
-    16
+    16,
+    17
   ],
   "pontos": [
-    0,
     2,
     0,
     14,
@@ -29,10 +28,10 @@
     3,
     1,
     7,
-    3
+    3,
+    -1
   ],
   "precos": [
-    5.54,
     5.18,
     4.68,
     7.68,
@@ -42,10 +41,10 @@
     6.25,
     5.88,
     7.06,
-    6.58
+    6.58,
+    5.89
   ],
   "variacoes": [
-    0,
     -0.36,
     -0.5,
     3,
@@ -55,10 +54,10 @@
     0.13,
     -0.37,
     1.18,
-    -0.48
+    -0.48,
+    -0.69
   ],
   "medias": [
-    2,
     2,
     1.6,
     3.67,
@@ -68,22 +67,10 @@
     3,
     2.82,
     3.17,
-    3.16
+    3.16,
+    2.86
   ],
   "partidas": [
-    {
-      "rodada_id": 6,
-      "clube_casa": "América-MG",
-      "clube_casa_id": 327,
-      "clube_visitante": "Juventude",
-      "clube_casa_abrev": "AME",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/28/escudo65_1.png",
-      "clube_visitante_id": 286,
-      "clube_visitante_abrev": "JUV",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/08/juventude65.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 7,
       "clube_casa": "América-MG",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/28/escudo65_1.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 17,
+      "clube_casa": "América-MG",
+      "clube_casa_id": 327,
+      "clube_visitante": "Bragantino",
+      "clube_casa_abrev": "AME",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/28/escudo65_1.png",
+      "clube_visitante_id": 280,
+      "clube_visitante_abrev": "BRA",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2020/01/01/65.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2021/06/04/4b9a4cd7759d0ef36a25a02c4b9cf8a8_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/28/escudo65_1.png",
   "scouts": {
-    "rodada_id": 16,
+    "rodada_id": 17,
     "g": 0,
     "a": 0,
     "sg": 2,
@@ -226,24 +226,24 @@
     "ff": 0,
     "fd": 0,
     "ft": 0,
-    "de": 46,
+    "de": 47,
     "dp": 0,
     "gc": 0,
     "cv": 0,
     "ca": 0,
     "pp": 0,
-    "gs": 17,
+    "gs": 19,
     "fc": 0,
     "i": 0,
     "ds": 2,
     "pi": 0,
     "pc": 0,
     "ps": 0,
-    "pontos_num": 3,
-    "preco_num": 6.58,
-    "variacao_num": -0.48,
-    "media_num": 3.16,
-    "jogos_num": 13,
+    "pontos_num": -1,
+    "preco_num": 5.89,
+    "variacao_num": -0.69,
+    "media_num": 2.86,
+    "jogos_num": 14,
     "posicao_abrev": "gol",
     "posicao": "Goleiro"
   }

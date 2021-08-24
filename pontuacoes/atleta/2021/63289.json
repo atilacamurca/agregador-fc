@@ -6,7 +6,6 @@
   "clube_id": 285,
   "posicao": "Meia",
   "rodadas": [
-    6,
     7,
     8,
     9,
@@ -16,10 +15,10 @@
     13,
     14,
     15,
-    16
+    16,
+    17
   ],
   "pontos": [
-    -0.8,
     3.2,
     9.3,
     6.8,
@@ -29,10 +28,10 @@
     9.8,
     3.6,
     13.6,
-    15.3
+    15.3,
+    6.2
   ],
   "precos": [
-    18.43,
     18.62,
     19.45,
     19.43,
@@ -42,10 +41,10 @@
     19.42,
     18.29,
     20.27,
-    21.14
+    21.14,
+    19.89
   ],
   "variacoes": [
-    -1.86,
     0.19,
     0.83,
     -0.02,
@@ -55,10 +54,10 @@
     1.52,
     -1.13,
     1.98,
-    0.87
+    0.87,
+    -1.25
   ],
   "medias": [
-    6.43,
     5.97,
     6.39,
     6.44,
@@ -68,22 +67,10 @@
     5.82,
     5.65,
     6.22,
-    6.83
+    6.83,
+    6.79
   ],
   "partidas": [
-    {
-      "rodada_id": 6,
-      "clube_casa": "Chapecoense",
-      "clube_casa_id": 315,
-      "clube_visitante": "Internacional",
-      "clube_casa_abrev": "CHA",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2015/08/03/Escudo-Chape-165.png",
-      "clube_visitante_id": 285,
-      "clube_visitante_abrev": "INT",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/03/inter65.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 2
-    },
     {
       "rodada_id": 7,
       "clube_casa": "América-MG",
@@ -213,18 +200,31 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/fluminense_60x60.png",
       "placar_oficial_mandante": 4,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 17,
+      "clube_casa": "Santos",
+      "clube_casa_id": 277,
+      "clube_visitante": "Internacional",
+      "clube_casa_abrev": "SAN",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/santos_60x60.png",
+      "clube_visitante_id": 285,
+      "clube_visitante_abrev": "INT",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/03/inter65.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2021/05/02/8daa1326a66c19d8a48d6375d87a9515_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/03/inter65.png",
   "scouts": {
-    "rodada_id": 16,
+    "rodada_id": 17,
     "g": 8,
-    "a": 4,
+    "a": 5,
     "sg": 0,
-    "fs": 21,
+    "fs": 23,
     "ff": 9,
-    "fd": 7,
+    "fd": 8,
     "ft": 0,
     "de": 0,
     "dp": 0,
@@ -233,17 +233,17 @@
     "ca": 4,
     "pp": 0,
     "gs": 0,
-    "fc": 12,
+    "fc": 14,
     "i": 1,
-    "ds": 18,
-    "pi": 123,
+    "ds": 19,
+    "pi": 133,
     "pc": 0,
     "ps": 1,
-    "pontos_num": 15.3,
-    "preco_num": 21.14,
-    "variacao_num": 0.87,
-    "media_num": 6.83,
-    "jogos_num": 15,
+    "pontos_num": 6.2,
+    "preco_num": 19.89,
+    "variacao_num": -1.25,
+    "media_num": 6.79,
+    "jogos_num": 16,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }
