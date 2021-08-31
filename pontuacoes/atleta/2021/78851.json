@@ -6,7 +6,6 @@
   "clube_id": 354,
   "posicao": "Goleiro",
   "rodadas": [
-    7,
     8,
     9,
     10,
@@ -16,10 +15,10 @@
     14,
     15,
     16,
-    17
+    17,
+    18
   ],
   "pontos": [
-    1,
     7,
     8,
     10.5,
@@ -29,10 +28,10 @@
     6,
     7,
     -2,
-    4
+    4,
+    6
   ],
   "precos": [
-    4.96,
     6.17,
     6.9,
     7.84,
@@ -42,10 +41,10 @@
     7.74,
     8.19,
     6.74,
-    7.74
+    7.74,
+    8.17
   ],
   "variacoes": [
-    -0.9,
     1.21,
     0.73,
     0.94,
@@ -55,10 +54,10 @@
     0.3,
     0.45,
     -1.45,
-    1
+    1,
+    0.43
   ],
   "medias": [
-    2.33,
     3.5,
     4.4,
     5.42,
@@ -68,22 +67,10 @@
     4.85,
     5.05,
     4.46,
-    4.42
+    4.42,
+    4.53
   ],
   "partidas": [
-    {
-      "rodada_id": 7,
-      "clube_casa": "Ceará",
-      "clube_casa_id": 354,
-      "clube_visitante": "São Paulo",
-      "clube_casa_abrev": "CEA",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/10/10/ceara-65x65.png",
-      "clube_visitante_id": 276,
-      "clube_visitante_abrev": "SAO",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/sao_paulo_60x60.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 8,
       "clube_casa": "Bragantino",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/04/09/Flamengo-65.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 18,
+      "clube_casa": "América-MG",
+      "clube_casa_id": 327,
+      "clube_visitante": "Ceará",
+      "clube_casa_abrev": "AME",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/28/escudo65_1.png",
+      "clube_visitante_id": 354,
+      "clube_visitante_abrev": "CEA",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/10/10/ceara-65x65.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2020/08/31/b4171a404ece6ec54f9a350c1f02f874_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2019/10/10/ceara-65x65.png",
   "scouts": {
-    "rodada_id": 17,
+    "rodada_id": 18,
     "g": 0,
     "a": 0,
     "sg": 7,
@@ -226,24 +226,24 @@
     "ff": 0,
     "fd": 0,
     "ft": 0,
-    "de": 33,
-    "dp": 0,
+    "de": 34,
+    "dp": 1,
     "gc": 0,
     "cv": 0,
     "ca": 0,
     "pp": 0,
-    "gs": 11,
+    "gs": 13,
     "fc": 0,
     "i": 0,
     "ds": 0,
     "pi": 0,
     "pc": 0,
     "ps": 0,
-    "pontos_num": 4,
-    "preco_num": 7.74,
-    "variacao_num": 1,
-    "media_num": 4.42,
-    "jogos_num": 13,
+    "pontos_num": 6,
+    "preco_num": 8.17,
+    "variacao_num": 0.43,
+    "media_num": 4.53,
+    "jogos_num": 14,
     "posicao_abrev": "gol",
     "posicao": "Goleiro"
   }

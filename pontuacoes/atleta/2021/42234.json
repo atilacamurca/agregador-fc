@@ -6,7 +6,6 @@
   "clube_id": 264,
   "posicao": "Goleiro",
   "rodadas": [
-    7,
     8,
     9,
     10,
@@ -16,10 +15,10 @@
     14,
     15,
     16,
-    17
+    17,
+    18
   ],
   "pontos": [
-    4,
     9,
     1,
     10,
@@ -29,10 +28,10 @@
     1,
     10,
     4,
-    9
+    9,
+    3.5
   ],
   "precos": [
-    11.27,
     12.26,
     11.11,
     12.75,
@@ -42,10 +41,10 @@
     11.5,
     13.21,
     12.46,
-    13.48
+    13.48,
+    12.62
   ],
   "variacoes": [
-    0.42,
     0.99,
     -1.15,
     1.64,
@@ -55,10 +54,10 @@
     -0.8,
     1.71,
     -0.75,
-    1.02
+    1.02,
+    -0.86
   ],
   "medias": [
-    3.43,
     4.13,
     3.78,
     4.4,
@@ -68,22 +67,10 @@
     3.99,
     4.39,
     4.37,
-    4.64
+    4.64,
+    4.58
   ],
   "partidas": [
-    {
-      "rodada_id": 7,
-      "clube_casa": "Fluminense",
-      "clube_casa_id": 266,
-      "clube_visitante": "Corinthians",
-      "clube_casa_abrev": "FLU",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/fluminense_60x60.png",
-      "clube_visitante_id": 264,
-      "clube_visitante_abrev": "COR",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/30/Corinthians_65.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 8,
       "clube_casa": "Corinthians",
@@ -213,37 +200,50 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/30/Corinthians_65.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 18,
+      "clube_casa": "Grêmio",
+      "clube_casa_id": 284,
+      "clube_visitante": "Corinthians",
+      "clube_casa_abrev": "GRE",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/gremio_60x60.png",
+      "clube_visitante_id": 264,
+      "clube_visitante_abrev": "COR",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/30/Corinthians_65.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2021/08/06/64a4b5010ed3f52c5b53ba9262475b28_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/30/Corinthians_65.png",
   "scouts": {
-    "rodada_id": 17,
+    "rodada_id": 18,
     "g": 0,
     "a": 0,
-    "sg": 6,
+    "sg": 7,
     "fs": 0,
     "ff": 0,
     "fd": 0,
     "ft": 0,
-    "de": 65,
+    "de": 66,
     "dp": 0,
     "gc": 0,
     "cv": 0,
-    "ca": 1,
+    "ca": 2,
     "pp": 0,
     "gs": 15,
-    "fc": 0,
+    "fc": 1,
     "i": 0,
     "ds": 1,
     "pi": 0,
     "pc": 0,
     "ps": 0,
-    "pontos_num": 9,
-    "preco_num": 13.48,
-    "variacao_num": 1.02,
-    "media_num": 4.64,
-    "jogos_num": 17,
+    "pontos_num": 3.5,
+    "preco_num": 12.62,
+    "variacao_num": -0.86,
+    "media_num": 4.58,
+    "jogos_num": 18,
     "posicao_abrev": "gol",
     "posicao": "Goleiro"
   }

@@ -6,7 +6,6 @@
   "clube_id": 315,
   "posicao": "Meia",
   "rodadas": [
-    7,
     8,
     9,
     10,
@@ -16,7 +15,8 @@
     14,
     15,
     16,
-    17
+    17,
+    18
   ],
   "pontos": [
     0,
@@ -26,10 +26,10 @@
     0,
     0,
     0,
-    0,
     -1.5,
     -0.2,
-    -3.3
+    -3.3,
+    -0.4
   ],
   "precos": [
     1,
@@ -39,8 +39,8 @@
     1,
     1,
     1,
-    1,
     0.77,
+    0.78,
     0.78,
     0.78
   ],
@@ -52,9 +52,9 @@
     0,
     0,
     0,
-    0,
     -0.23,
     0.01,
+    0,
     0
   ],
   "medias": [
@@ -65,25 +65,12 @@
     0,
     0,
     0,
-    0,
     -1.5,
     -0.85,
-    -1.67
+    -1.67,
+    -1.35
   ],
   "partidas": [
-    {
-      "rodada_id": 7,
-      "clube_casa": "Athlético-PR",
-      "clube_casa_id": 293,
-      "clube_visitante": "Chapecoense",
-      "clube_casa_abrev": "ATL",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/09/Athletico-PR-65x65.png",
-      "clube_visitante_id": 315,
-      "clube_visitante_abrev": "CHA",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2015/08/03/Escudo-Chape-165.png",
-      "placar_oficial_mandante": 2,
-      "placar_oficial_visitante": 2
-    },
     {
       "rodada_id": 8,
       "clube_casa": "Fortaleza",
@@ -213,16 +200,29 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2015/08/03/Escudo-Chape-165.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 18,
+      "clube_casa": "Sport",
+      "clube_casa_id": 292,
+      "clube_visitante": "Chapecoense",
+      "clube_casa_abrev": "SPO",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2015/07/21/sport65.png",
+      "clube_visitante_id": 315,
+      "clube_visitante_abrev": "CHA",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2015/08/03/Escudo-Chape-165.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2021/08/06/5a0ed5a9c3d5869e4852644d0ee0c240_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2015/08/03/Escudo-Chape-165.png",
   "scouts": {
-    "rodada_id": 17,
+    "rodada_id": 18,
     "g": 0,
     "a": 0,
     "sg": 0,
-    "fs": 1,
+    "fs": 3,
     "ff": 0,
     "fd": 0,
     "ft": 0,
@@ -233,17 +233,17 @@
     "ca": 2,
     "pp": 0,
     "gs": 0,
-    "fc": 3,
+    "fc": 4,
     "i": 0,
     "ds": 2,
-    "pi": 20,
+    "pi": 29,
     "pc": 0,
     "ps": 0,
-    "pontos_num": -3.3,
+    "pontos_num": -0.4,
     "preco_num": 0.78,
     "variacao_num": 0,
-    "media_num": -1.67,
-    "jogos_num": 3,
+    "media_num": -1.35,
+    "jogos_num": 4,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }

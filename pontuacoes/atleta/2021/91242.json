@@ -6,7 +6,6 @@
   "clube_id": 292,
   "posicao": "Atacante",
   "rodadas": [
-    7,
     8,
     9,
     10,
@@ -16,7 +15,8 @@
     14,
     15,
     16,
-    17
+    17,
+    18
   ],
   "pontos": [
     0,
@@ -29,7 +29,7 @@
     0,
     0,
     0,
-    0
+    0.8
   ],
   "precos": [
     4,
@@ -42,7 +42,7 @@
     4,
     4,
     4,
-    4
+    3.26
   ],
   "variacoes": [
     0,
@@ -55,7 +55,7 @@
     0,
     0,
     0,
-    0
+    -0.74
   ],
   "medias": [
     0,
@@ -68,22 +68,9 @@
     0,
     0,
     0,
-    0
+    0.8
   ],
   "partidas": [
-    {
-      "rodada_id": 7,
-      "clube_casa": "Sport",
-      "clube_casa_id": 292,
-      "clube_visitante": "Cuiabá",
-      "clube_casa_abrev": "SPO",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2015/07/21/sport65.png",
-      "clube_visitante_id": 1371,
-      "clube_visitante_abrev": "CUI",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/16/cuiaba65.png",
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 8,
       "clube_casa": "Santos",
@@ -213,18 +200,31 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/sao_paulo_60x60.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 18,
+      "clube_casa": "Sport",
+      "clube_casa_id": 292,
+      "clube_visitante": "Chapecoense",
+      "clube_casa_abrev": "SPO",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2015/07/21/sport65.png",
+      "clube_visitante_id": 315,
+      "clube_visitante_abrev": "CHA",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2015/08/03/Escudo-Chape-165.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2021/04/27/f9e0d9d2533b2079b6f3fc4485fdcbc2_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2015/07/21/sport65.png",
   "scouts": {
-    "rodada_id": 17,
+    "rodada_id": 18,
     "g": 0,
     "a": 0,
     "sg": 0,
     "fs": 0,
     "ff": 0,
-    "fd": 0,
+    "fd": 1,
     "ft": 0,
     "de": 0,
     "dp": 0,
@@ -236,14 +236,14 @@
     "fc": 0,
     "i": 0,
     "ds": 0,
-    "pi": 0,
+    "pi": 4,
     "pc": 0,
     "ps": 0,
-    "pontos_num": 0,
-    "preco_num": 4,
-    "variacao_num": 0,
-    "media_num": 0,
-    "jogos_num": 0,
+    "pontos_num": 0.8,
+    "preco_num": 3.26,
+    "variacao_num": -0.74,
+    "media_num": 0.8,
+    "jogos_num": 1,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }

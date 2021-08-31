@@ -6,7 +6,6 @@
   "clube_id": 262,
   "posicao": "Atacante",
   "rodadas": [
-    7,
     8,
     9,
     10,
@@ -16,10 +15,10 @@
     14,
     15,
     16,
-    17
+    17,
+    18
   ],
   "pontos": [
-    2.8,
     -2.3,
     2.3,
     4.3,
@@ -29,10 +28,10 @@
     12.9,
     4.3,
     6.3,
+    0,
     0
   ],
   "precos": [
-    18.94,
     17.22,
     17.78,
     17.84,
@@ -42,10 +41,10 @@
     20.4,
     19.22,
     19.7,
+    19.7,
     19.7
   ],
   "variacoes": [
-    -3.3,
     -1.72,
     0.56,
     0.06,
@@ -55,10 +54,10 @@
     -2,
     -1.18,
     0.48,
+    0,
     0
   ],
   "medias": [
-    9.6,
     7.62,
     6.86,
     6.54,
@@ -68,22 +67,10 @@
     9.36,
     8.9,
     8.68,
+    8.68,
     8.68
   ],
   "partidas": [
-    {
-      "rodada_id": 7,
-      "clube_casa": "Juventude",
-      "clube_casa_id": 286,
-      "clube_visitante": "Flamengo",
-      "clube_casa_abrev": "JUV",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/08/juventude65.png",
-      "clube_visitante_id": 262,
-      "clube_visitante_abrev": "FLA",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/04/09/Flamengo-65.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 8,
       "clube_casa": "Cuiabá",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/04/09/Flamengo-65.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 18,
+      "clube_casa": "Santos",
+      "clube_casa_id": 277,
+      "clube_visitante": "Flamengo",
+      "clube_casa_abrev": "SAN",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/santos_60x60.png",
+      "clube_visitante_id": 262,
+      "clube_visitante_abrev": "FLA",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/04/09/Flamengo-65.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 4
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2021/05/01/98039adcc6dd9b053c4057c1655e7aeb_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2018/04/09/Flamengo-65.png",
   "scouts": {
-    "rodada_id": 17,
+    "rodada_id": 18,
     "g": 8,
     "a": 1,
     "sg": 0,

@@ -6,7 +6,6 @@
   "clube_id": 292,
   "posicao": "Zagueiro",
   "rodadas": [
-    7,
     8,
     9,
     10,
@@ -16,10 +15,10 @@
     14,
     15,
     16,
-    17
+    17,
+    18
   ],
   "pontos": [
-    1.5,
     0.2,
     1.4,
     3.8,
@@ -29,10 +28,10 @@
     0,
     -2,
     0,
-    0.1
+    0.1,
+    5.4
   ],
   "precos": [
-    0.87,
     0.75,
     0.95,
     1.53,
@@ -42,10 +41,10 @@
     0.76,
     0.77,
     0.77,
-    0.78
+    0.78,
+    1.77
   ],
   "variacoes": [
-    0.16,
     -0.12,
     0.2,
     0.58,
@@ -55,10 +54,10 @@
     0,
     0.01,
     0,
-    0.01
+    0.01,
+    0.99
   ],
   "medias": [
-    -1.05,
     -0.63,
     -0.12,
     0.66,
@@ -68,22 +67,10 @@
     0.26,
     -0.14,
     -0.14,
-    -0.1
+    -0.1,
+    0.69
   ],
   "partidas": [
-    {
-      "rodada_id": 7,
-      "clube_casa": "Sport",
-      "clube_casa_id": 292,
-      "clube_visitante": "Cuiabá",
-      "clube_casa_abrev": "SPO",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2015/07/21/sport65.png",
-      "clube_visitante_id": 1371,
-      "clube_visitante_abrev": "CUI",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/16/cuiaba65.png",
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 8,
       "clube_casa": "Santos",
@@ -213,18 +200,31 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/sao_paulo_60x60.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 18,
+      "clube_casa": "Sport",
+      "clube_casa_id": 292,
+      "clube_visitante": "Chapecoense",
+      "clube_casa_abrev": "SPO",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2015/07/21/sport65.png",
+      "clube_visitante_id": 315,
+      "clube_visitante_abrev": "CHA",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2015/08/03/Escudo-Chape-165.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2021/08/22/c5805c48b3c46f25685358c21ca80b66_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2015/07/21/sport65.png",
   "scouts": {
-    "rodada_id": 17,
+    "rodada_id": 18,
     "g": 0,
     "a": 0,
-    "sg": 0,
+    "sg": 1,
     "fs": 5,
     "ff": 1,
-    "fd": 0,
+    "fd": 1,
     "ft": 0,
     "de": 0,
     "dp": 0,
@@ -233,17 +233,17 @@
     "ca": 2,
     "pp": 0,
     "gs": 0,
-    "fc": 5,
+    "fc": 7,
     "i": 0,
-    "ds": 9,
-    "pi": 14,
+    "ds": 10,
+    "pi": 22,
     "pc": 0,
     "ps": 0,
-    "pontos_num": 0.1,
-    "preco_num": 0.78,
-    "variacao_num": 0.01,
-    "media_num": -0.1,
-    "jogos_num": 6,
+    "pontos_num": 5.4,
+    "preco_num": 1.77,
+    "variacao_num": 0.99,
+    "media_num": 0.69,
+    "jogos_num": 7,
     "posicao_abrev": "zag",
     "posicao": "Zagueiro"
   }

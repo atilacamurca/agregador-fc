@@ -6,7 +6,6 @@
   "clube_id": 354,
   "posicao": "Meia",
   "rodadas": [
-    7,
     8,
     9,
     10,
@@ -16,10 +15,10 @@
     14,
     15,
     16,
-    17
+    17,
+    18
   ],
   "pontos": [
-    3.5,
     -0.9,
     1.9,
     7.1,
@@ -29,10 +28,10 @@
     -0.3,
     -2.7,
     1.4,
-    0
+    0,
+    1.3
   ],
   "precos": [
-    3.29,
     2.49,
     2.98,
     4.13,
@@ -42,10 +41,10 @@
     2.94,
     2.43,
     3.08,
-    3.08
+    3.08,
+    3.06
   ],
   "variacoes": [
-    0.63,
     -0.8,
     0.49,
     1.15,
@@ -55,10 +54,10 @@
     -0.2,
     -0.51,
     0.65,
-    0
+    0,
+    -0.02
   ],
   "medias": [
-    0.67,
     0.36,
     0.62,
     1.55,
@@ -68,22 +67,10 @@
     1.14,
     0.79,
     0.84,
-    0.84
+    0.84,
+    0.88
   ],
   "partidas": [
-    {
-      "rodada_id": 7,
-      "clube_casa": "Ceará",
-      "clube_casa_id": 354,
-      "clube_visitante": "São Paulo",
-      "clube_casa_abrev": "CEA",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/10/10/ceara-65x65.png",
-      "clube_visitante_id": 276,
-      "clube_visitante_abrev": "SAO",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/sao_paulo_60x60.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 8,
       "clube_casa": "Bragantino",
@@ -213,16 +200,29 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/04/09/Flamengo-65.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 18,
+      "clube_casa": "América-MG",
+      "clube_casa_id": 327,
+      "clube_visitante": "Ceará",
+      "clube_casa_abrev": "AME",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/28/escudo65_1.png",
+      "clube_visitante_id": 354,
+      "clube_visitante_abrev": "CEA",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/10/10/ceara-65x65.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2021/03/11/82de0720af26e6af3785bc1d141c4343_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2019/10/10/ceara-65x65.png",
   "scouts": {
-    "rodada_id": 17,
+    "rodada_id": 18,
     "g": 0,
     "a": 0,
     "sg": 0,
-    "fs": 10,
+    "fs": 11,
     "ff": 4,
     "fd": 4,
     "ft": 0,
@@ -235,15 +235,15 @@
     "gs": 0,
     "fc": 23,
     "i": 0,
-    "ds": 22,
-    "pi": 35,
+    "ds": 23,
+    "pi": 37,
     "pc": 0,
     "ps": 0,
-    "pontos_num": 0,
-    "preco_num": 3.08,
-    "variacao_num": 0,
-    "media_num": 0.84,
-    "jogos_num": 12,
+    "pontos_num": 1.3,
+    "preco_num": 3.06,
+    "variacao_num": -0.02,
+    "media_num": 0.88,
+    "jogos_num": 13,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }
