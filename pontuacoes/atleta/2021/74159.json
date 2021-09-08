@@ -6,7 +6,6 @@
   "clube_id": 266,
   "posicao": "Atacante",
   "rodadas": [
-    8,
     9,
     10,
     11,
@@ -16,10 +15,10 @@
     15,
     16,
     17,
-    18
+    18,
+    19
   ],
   "pontos": [
-    0,
     0,
     0,
     0,
@@ -29,10 +28,10 @@
     0,
     0.5,
     -0.1,
-    0
+    0,
+    -0.1
   ],
   "precos": [
-    3.78,
     3.78,
     3.78,
     3.78,
@@ -42,10 +41,10 @@
     3.41,
     3.48,
     3.36,
-    3.36
+    3.36,
+    3.21
   ],
   "variacoes": [
-    0,
     0,
     0,
     0,
@@ -55,10 +54,10 @@
     -0.11,
     0.07,
     -0.12,
-    0
+    0,
+    -0.15
   ],
   "medias": [
-    0.7,
     0.7,
     0.7,
     0.7,
@@ -68,22 +67,10 @@
     0.48,
     0.48,
     0.43,
-    0.43
+    0.43,
+    0.39
   ],
   "partidas": [
-    {
-      "rodada_id": 8,
-      "clube_casa": "Fluminense",
-      "clube_casa_id": 266,
-      "clube_visitante": "Athlético-PR",
-      "clube_casa_abrev": "FLU",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/fluminense_60x60.png",
-      "clube_visitante_id": 293,
-      "clube_visitante_abrev": "ATL",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/09/Athletico-PR-65x65.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 4
-    },
     {
       "rodada_id": 9,
       "clube_casa": "Flamengo",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/bahia_60x60.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 19,
+      "clube_casa": "Chapecoense",
+      "clube_casa_id": 315,
+      "clube_visitante": "Fluminense",
+      "clube_casa_abrev": "CHA",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2015/08/03/Escudo-Chape-165.png",
+      "clube_visitante_id": 266,
+      "clube_visitante_abrev": "FLU",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/fluminense_60x60.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2021/08/19/4184f9276c8eff28af3c00d8627b8327_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/fluminense_60x60.png",
   "scouts": {
-    "rodada_id": 18,
+    "rodada_id": 19,
     "g": 1,
     "a": 0,
     "sg": 0,
@@ -236,14 +236,14 @@
     "fc": 13,
     "i": 1,
     "ds": 5,
-    "pi": 32,
+    "pi": 33,
     "pc": 0,
     "ps": 1,
-    "pontos_num": 0,
-    "preco_num": 3.36,
-    "variacao_num": 0,
-    "media_num": 0.43,
-    "jogos_num": 12,
+    "pontos_num": -0.1,
+    "preco_num": 3.21,
+    "variacao_num": -0.15,
+    "media_num": 0.39,
+    "jogos_num": 13,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }

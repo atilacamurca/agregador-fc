@@ -6,7 +6,6 @@
   "clube_id": 286,
   "posicao": "Lateral",
   "rodadas": [
-    8,
     9,
     10,
     11,
@@ -16,10 +15,10 @@
     15,
     16,
     17,
-    18
+    18,
+    19
   ],
   "pontos": [
-    4.2,
     1.1,
     -0.1,
     -0.9,
@@ -29,10 +28,10 @@
     0,
     5.1,
     -0.5,
-    -0.1
+    -0.1,
+    0
   ],
   "precos": [
-    4.16,
     3.79,
     3.52,
     3.29,
@@ -42,10 +41,10 @@
     3.99,
     4.48,
     3.59,
+    3.59,
     3.59
   ],
   "variacoes": [
-    -0.01,
     -0.37,
     -0.27,
     -0.23,
@@ -55,10 +54,10 @@
     0,
     0.49,
     -0.89,
+    0,
     0
   ],
   "medias": [
-    2.94,
     2.74,
     2.46,
     2.15,
@@ -68,22 +67,10 @@
     2.22,
     2.44,
     2.23,
+    2.07,
     2.07
   ],
   "partidas": [
-    {
-      "rodada_id": 8,
-      "clube_casa": "Juventude",
-      "clube_casa_id": 286,
-      "clube_visitante": "Grêmio",
-      "clube_casa_abrev": "JUV",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/08/juventude65.png",
-      "clube_visitante_id": 284,
-      "clube_visitante_abrev": "GRE",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/gremio_60x60.png",
-      "placar_oficial_mandante": 2,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 9,
       "clube_casa": "Ceará",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/sao_paulo_60x60.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 19,
+      "clube_casa": "Corinthians",
+      "clube_casa_id": 264,
+      "clube_visitante": "Juventude",
+      "clube_casa_abrev": "COR",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/30/Corinthians_65.png",
+      "clube_visitante_id": 286,
+      "clube_visitante_abrev": "JUV",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/08/juventude65.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2021/04/26/65493238a6cee32ba0f360e316e9e826_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/08/juventude65.png",
   "scouts": {
-    "rodada_id": 18,
+    "rodada_id": 19,
     "g": 0,
     "a": 0,
     "sg": 4,
@@ -239,7 +239,7 @@
     "pi": 111,
     "pc": 0,
     "ps": 0,
-    "pontos_num": -0.1,
+    "pontos_num": 0,
     "preco_num": 3.59,
     "variacao_num": 0,
     "media_num": 2.07,
