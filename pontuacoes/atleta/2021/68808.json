@@ -6,7 +6,6 @@
   "clube_id": 265,
   "posicao": "Lateral",
   "rodadas": [
-    9,
     10,
     11,
     12,
@@ -16,10 +15,10 @@
     16,
     17,
     18,
-    19
+    19,
+    20
   ],
   "pontos": [
-    12.5,
     5.2,
     1.5,
     2.9,
@@ -29,10 +28,10 @@
     4.7,
     -0.9,
     2.6,
-    1
+    1,
+    6.3
   ],
   "precos": [
-    8.91,
     8.06,
     7.5,
     7.78,
@@ -42,10 +41,10 @@
     8.22,
     7.28,
     7.79,
-    7.39
+    7.39,
+    8.48
   ],
   "variacoes": [
-    2.45,
     -0.85,
     -0.56,
     0.28,
@@ -55,10 +54,10 @@
     0.38,
     -0.94,
     0.51,
-    -0.4
+    -0.4,
+    1.09
   ],
   "medias": [
-    3.37,
     3.74,
     3.37,
     3.3,
@@ -68,22 +67,10 @@
     3.05,
     2.72,
     2.71,
-    2.59
+    2.59,
+    2.84
   ],
   "partidas": [
-    {
-      "rodada_id": 9,
-      "clube_casa": "Chapecoense",
-      "clube_casa_id": 315,
-      "clube_visitante": "Bahia",
-      "clube_casa_abrev": "CHA",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2015/08/03/Escudo-Chape-165.png",
-      "clube_visitante_id": 265,
-      "clube_visitante_abrev": "BAH",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/bahia_60x60.png",
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 2
-    },
     {
       "rodada_id": 10,
       "clube_casa": "Bahia",
@@ -213,16 +200,29 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/06/10/fortaleza-ec-65px.png",
       "placar_oficial_mandante": 4,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 20,
+      "clube_casa": "Santos",
+      "clube_casa_id": 277,
+      "clube_visitante": "Bahia",
+      "clube_casa_abrev": "SAN",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/santos_60x60.png",
+      "clube_visitante_id": 265,
+      "clube_visitante_abrev": "BAH",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/bahia_60x60.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2021/04/19/ca9f764ab6737639cb0b1773cb5cbc1c_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/bahia_60x60.png",
   "scouts": {
-    "rodada_id": 19,
+    "rodada_id": 20,
     "g": 0,
     "a": 1,
-    "sg": 2,
-    "fs": 16,
+    "sg": 3,
+    "fs": 19,
     "ff": 6,
     "fd": 3,
     "ft": 0,
@@ -230,20 +230,20 @@
     "dp": 0,
     "gc": 0,
     "cv": 0,
-    "ca": 1,
+    "ca": 2,
     "pp": 0,
     "gs": 0,
-    "fc": 13,
+    "fc": 16,
     "i": 1,
-    "ds": 30,
-    "pi": 152,
+    "ds": 34,
+    "pi": 159,
     "pc": 1,
     "ps": 0,
-    "pontos_num": 1,
-    "preco_num": 7.39,
-    "variacao_num": -0.4,
-    "media_num": 2.59,
-    "jogos_num": 14,
+    "pontos_num": 6.3,
+    "preco_num": 8.48,
+    "variacao_num": 1.09,
+    "media_num": 2.84,
+    "jogos_num": 15,
     "posicao_abrev": "lat",
     "posicao": "Lateral"
   }

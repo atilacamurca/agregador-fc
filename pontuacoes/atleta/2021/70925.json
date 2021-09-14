@@ -6,7 +6,6 @@
   "clube_id": 286,
   "posicao": "Meia",
   "rodadas": [
-    9,
     10,
     11,
     12,
@@ -16,10 +15,10 @@
     16,
     17,
     18,
-    19
+    19,
+    20
   ],
   "pontos": [
-    0,
     -3.1,
     1.1,
     0.4,
@@ -29,10 +28,10 @@
     -0.3,
     0,
     0,
+    0,
     0
   ],
   "precos": [
-    6.67,
     5.74,
     6.28,
     6.12,
@@ -42,10 +41,10 @@
     6.08,
     6.08,
     6.08,
+    6.08,
     6.08
   ],
   "variacoes": [
-    0,
     -0.93,
     0.54,
     -0.16,
@@ -55,10 +54,10 @@
     -0.92,
     0,
     0,
+    0,
     0
   ],
   "medias": [
-    1.65,
     1.12,
     1.12,
     1.05,
@@ -68,22 +67,10 @@
     1.24,
     1.24,
     1.24,
+    1.24,
     1.24
   ],
   "partidas": [
-    {
-      "rodada_id": 9,
-      "clube_casa": "Ceará",
-      "clube_casa_id": 354,
-      "clube_visitante": "Juventude",
-      "clube_casa_abrev": "CEA",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/10/10/ceara-65x65.png",
-      "clube_visitante_id": 286,
-      "clube_visitante_abrev": "JUV",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/08/juventude65.png",
-      "placar_oficial_mandante": 2,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 10,
       "clube_casa": "Bahia",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/08/juventude65.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 20,
+      "clube_casa": "Juventude",
+      "clube_casa_id": 286,
+      "clube_visitante": "Cuiabá",
+      "clube_casa_abrev": "JUV",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/08/juventude65.png",
+      "clube_visitante_id": 1371,
+      "clube_visitante_abrev": "CUI",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/16/cuiaba65.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2021/04/20/c608ca2323650a82af7be359fe111dec_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/08/juventude65.png",
   "scouts": {
-    "rodada_id": 19,
+    "rodada_id": 20,
     "g": 1,
     "a": 0,
     "sg": 0,

@@ -6,7 +6,6 @@
   "clube_id": 277,
   "posicao": "Zagueiro",
   "rodadas": [
-    9,
     10,
     11,
     12,
@@ -16,7 +15,8 @@
     16,
     17,
     18,
-    19
+    19,
+    20
   ],
   "pontos": [
     0,
@@ -27,9 +27,9 @@
     0,
     0,
     0,
-    0,
     0.1,
-    3.8
+    3.8,
+    6.5
   ],
   "precos": [
     1,
@@ -40,9 +40,9 @@
     1,
     1,
     1,
-    1,
     0.8,
-    1.47
+    1.47,
+    2.15
   ],
   "variacoes": [
     0,
@@ -53,9 +53,9 @@
     0,
     0,
     0,
-    0,
     -0.2,
-    0.67
+    0.67,
+    0.68
   ],
   "medias": [
     0,
@@ -66,24 +66,11 @@
     0,
     0,
     0,
-    0,
     0.1,
-    1.95
+    1.95,
+    3.47
   ],
   "partidas": [
-    {
-      "rodada_id": 9,
-      "clube_casa": "América-MG",
-      "clube_casa_id": 327,
-      "clube_visitante": "Santos",
-      "clube_casa_abrev": "AME",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/28/escudo65_1.png",
-      "clube_visitante_id": 277,
-      "clube_visitante_abrev": "SAN",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/santos_60x60.png",
-      "placar_oficial_mandante": 2,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 10,
       "clube_casa": "Santos",
@@ -213,15 +200,28 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/santos_60x60.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 20,
+      "clube_casa": "Santos",
+      "clube_casa_id": 277,
+      "clube_visitante": "Bahia",
+      "clube_casa_abrev": "SAN",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/santos_60x60.png",
+      "clube_visitante_id": 265,
+      "clube_visitante_abrev": "BAH",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/bahia_60x60.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2021/08/28/c0a3ffa1e1067fc83f848564791f7bfc_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/santos_60x60.png",
   "scouts": {
-    "rodada_id": 19,
+    "rodada_id": 20,
     "g": 0,
     "a": 0,
-    "sg": 0,
+    "sg": 1,
     "fs": 1,
     "ff": 1,
     "fd": 0,
@@ -235,15 +235,15 @@
     "gs": 0,
     "fc": 3,
     "i": 0,
-    "ds": 7,
-    "pi": 9,
+    "ds": 9,
+    "pi": 14,
     "pc": 0,
     "ps": 0,
-    "pontos_num": 3.8,
-    "preco_num": 1.47,
-    "variacao_num": 0.67,
-    "media_num": 1.95,
-    "jogos_num": 2,
+    "pontos_num": 6.5,
+    "preco_num": 2.15,
+    "variacao_num": 0.68,
+    "media_num": 3.47,
+    "jogos_num": 3,
     "posicao_abrev": "zag",
     "posicao": "Zagueiro"
   }
