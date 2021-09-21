@@ -14,7 +14,8 @@
     17,
     18,
     19,
-    20
+    20,
+    21
   ],
   "pontos": [
     0,
@@ -25,7 +26,8 @@
     2.6,
     2.7,
     3,
-    0.3
+    0.3,
+    14.3
   ],
   "precos": [
     10,
@@ -36,7 +38,8 @@
     8.69,
     8.68,
     8.63,
-    8.23
+    8.23,
+    11.1
   ],
   "variacoes": [
     0,
@@ -47,7 +50,8 @@
     -0.38,
     -0.01,
     -0.05,
-    -0.4
+    -0.4,
+    2.87
   ],
   "medias": [
     0,
@@ -58,7 +62,8 @@
     3.2,
     3.08,
     3.06,
-    2.6
+    2.6,
+    4.27
   ],
   "partidas": [
     {
@@ -177,18 +182,31 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/30/Corinthians_65.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 21,
+      "clube_casa": "Corinthians",
+      "clube_casa_id": 264,
+      "clube_visitante": "América-MG",
+      "clube_casa_abrev": "COR",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/30/Corinthians_65.png",
+      "clube_visitante_id": 327,
+      "clube_visitante_abrev": "AME",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/28/escudo65_1.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2021/07/22/1e8808fa091e5d4062730e04ed46b383_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/30/Corinthians_65.png",
   "scouts": {
-    "rodada_id": 20,
-    "g": 0,
+    "rodada_id": 21,
+    "g": 1,
     "a": 1,
     "sg": 0,
-    "fs": 5,
-    "ff": 0,
-    "fd": 3,
+    "fs": 6,
+    "ff": 1,
+    "fd": 5,
     "ft": 0,
     "de": 0,
     "dp": 0,
@@ -199,15 +217,15 @@
     "gs": 0,
     "fc": 4,
     "i": 0,
-    "ds": 9,
-    "pi": 25,
+    "ds": 12,
+    "pi": 29,
     "pc": 0,
     "ps": 0,
-    "pontos_num": 0.3,
-    "preco_num": 8.23,
-    "variacao_num": -0.4,
-    "media_num": 2.6,
-    "jogos_num": 6,
+    "pontos_num": 14.3,
+    "preco_num": 11.1,
+    "variacao_num": 2.87,
+    "media_num": 4.27,
+    "jogos_num": 7,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }

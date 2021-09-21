@@ -6,7 +6,6 @@
   "clube_id": 286,
   "posicao": "Meia",
   "rodadas": [
-    10,
     11,
     12,
     13,
@@ -16,10 +15,10 @@
     17,
     18,
     19,
-    20
+    20,
+    21
   ],
   "pontos": [
-    -3.1,
     1.1,
     0.4,
     4.9,
@@ -29,10 +28,10 @@
     0,
     0,
     0,
-    0
+    0,
+    0.1
   ],
   "precos": [
-    5.74,
     6.28,
     6.12,
     7,
@@ -42,10 +41,10 @@
     6.08,
     6.08,
     6.08,
-    6.08
+    6.08,
+    5.84
   ],
   "variacoes": [
-    -0.93,
     0.54,
     -0.16,
     0.88,
@@ -55,10 +54,10 @@
     0,
     0,
     0,
-    0
+    0,
+    -0.24
   ],
   "medias": [
-    1.12,
     1.12,
     1.05,
     1.37,
@@ -68,22 +67,10 @@
     1.24,
     1.24,
     1.24,
-    1.24
+    1.24,
+    1.16
   ],
   "partidas": [
-    {
-      "rodada_id": 10,
-      "clube_casa": "Bahia",
-      "clube_casa_id": 265,
-      "clube_visitante": "Juventude",
-      "clube_casa_abrev": "BAH",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/bahia_60x60.png",
-      "clube_visitante_id": 286,
-      "clube_visitante_abrev": "JUV",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/08/juventude65.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 11,
       "clube_casa": "Juventude",
@@ -213,16 +200,29 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/16/cuiaba65.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 21,
+      "clube_casa": "Athlético-PR",
+      "clube_casa_id": 293,
+      "clube_visitante": "Juventude",
+      "clube_casa_abrev": "ATL",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/09/Athletico-PR-65x65.png",
+      "clube_visitante_id": 286,
+      "clube_visitante_abrev": "JUV",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/08/juventude65.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2021/04/20/c608ca2323650a82af7be359fe111dec_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/08/juventude65.png",
   "scouts": {
-    "rodada_id": 20,
+    "rodada_id": 21,
     "g": 1,
     "a": 0,
     "sg": 0,
-    "fs": 15,
+    "fs": 16,
     "ff": 6,
     "fd": 6,
     "ft": 0,
@@ -236,14 +236,14 @@
     "fc": 23,
     "i": 1,
     "ds": 12,
-    "pi": 73,
+    "pi": 77,
     "pc": 0,
     "ps": 0,
-    "pontos_num": 0,
-    "preco_num": 6.08,
-    "variacao_num": 0,
-    "media_num": 1.24,
-    "jogos_num": 13,
+    "pontos_num": 0.1,
+    "preco_num": 5.84,
+    "variacao_num": -0.24,
+    "media_num": 1.16,
+    "jogos_num": 14,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }

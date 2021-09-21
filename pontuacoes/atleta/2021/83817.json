@@ -6,7 +6,6 @@
   "clube_id": 1371,
   "posicao": "Atacante",
   "rodadas": [
-    10,
     11,
     12,
     13,
@@ -16,10 +15,10 @@
     17,
     18,
     19,
-    20
+    20,
+    21
   ],
   "pontos": [
-    3,
     4.7,
     0.3,
     1.8,
@@ -29,10 +28,10 @@
     16.1,
     -4.1,
     5.9,
-    -2.7
+    -2.7,
+    0
   ],
   "precos": [
-    6.17,
     6.61,
     5.94,
     6.21,
@@ -42,10 +41,10 @@
     9,
     5.73,
     7.26,
+    5.94,
     5.94
   ],
   "variacoes": [
-    -0.14,
     0.44,
     -0.67,
     0.27,
@@ -55,10 +54,10 @@
     1.78,
     -3.27,
     1.53,
-    -1.32
+    -1.32,
+    0
   ],
   "medias": [
-    2.21,
     2.52,
     2.27,
     2.22,
@@ -68,22 +67,10 @@
     3.4,
     2.86,
     3.06,
+    2.7,
     2.7
   ],
   "partidas": [
-    {
-      "rodada_id": 10,
-      "clube_casa": "Bragantino",
-      "clube_casa_id": 280,
-      "clube_visitante": "Cuiabá",
-      "clube_casa_abrev": "BRA",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2020/01/01/65.png",
-      "clube_visitante_id": 1371,
-      "clube_visitante_abrev": "CUI",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/16/cuiaba65.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 11,
       "clube_casa": "Cuiabá",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/16/cuiaba65.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 21,
+      "clube_casa": "Cuiabá",
+      "clube_casa_id": 1371,
+      "clube_visitante": "Fluminense",
+      "clube_casa_abrev": "CUI",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/16/cuiaba65.png",
+      "clube_visitante_id": 266,
+      "clube_visitante_abrev": "FLU",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/fluminense_60x60.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2021/06/04/683002254efbbe78962d1ae99165f0b2_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/16/cuiaba65.png",
   "scouts": {
-    "rodada_id": 20,
+    "rodada_id": 21,
     "g": 2,
     "a": 4,
     "sg": 0,
@@ -239,9 +239,9 @@
     "pi": 121,
     "pc": 0,
     "ps": 0,
-    "pontos_num": -2.7,
+    "pontos_num": 0,
     "preco_num": 5.94,
-    "variacao_num": -1.32,
+    "variacao_num": 0,
     "media_num": 2.7,
     "jogos_num": 16,
     "posicao_abrev": "ata",

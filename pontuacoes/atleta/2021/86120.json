@@ -12,7 +12,8 @@
     17,
     18,
     19,
-    20
+    20,
+    21
   ],
   "pontos": [
     0,
@@ -21,7 +22,8 @@
     7.6,
     0.7,
     0,
-    0.7
+    0.7,
+    6
   ],
   "precos": [
     8,
@@ -30,7 +32,8 @@
     10.5,
     9.32,
     9.32,
-    8.92
+    8.92,
+    9.99
   ],
   "variacoes": [
     0,
@@ -39,7 +42,8 @@
     1.83,
     -1.18,
     0,
-    -0.4
+    -0.4,
+    1.07
   ],
   "medias": [
     0,
@@ -48,7 +52,8 @@
     6.5,
     5.05,
     5.05,
-    4.18
+    4.18,
+    4.48
   ],
   "partidas": [
     {
@@ -141,37 +146,50 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/10/10/ceara-65x65.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 21,
+      "clube_casa": "Flamengo",
+      "clube_casa_id": 262,
+      "clube_visitante": "Grêmio",
+      "clube_casa_abrev": "FLA",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/04/09/Flamengo-65.png",
+      "clube_visitante_id": 284,
+      "clube_visitante_abrev": "GRE",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/gremio_60x60.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2021/08/05/e7934f8b4d235b2276b4990e62c303be_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/gremio_60x60.png",
   "scouts": {
-    "rodada_id": 20,
-    "g": 2,
+    "rodada_id": 21,
+    "g": 3,
     "a": 0,
     "sg": 0,
-    "fs": 6,
-    "ff": 7,
-    "fd": 0,
+    "fs": 10,
+    "ff": 8,
+    "fd": 2,
     "ft": 0,
     "de": 0,
     "dp": 0,
     "gc": 0,
     "cv": 0,
-    "ca": 0,
-    "pp": 0,
+    "ca": 1,
+    "pp": 1,
     "gs": 0,
-    "fc": 6,
+    "fc": 9,
     "i": 0,
-    "ds": 0,
-    "pi": 17,
+    "ds": 1,
+    "pi": 24,
     "pc": 0,
     "ps": 1,
-    "pontos_num": 0.7,
-    "preco_num": 8.92,
-    "variacao_num": -0.4,
-    "media_num": 4.18,
-    "jogos_num": 5,
+    "pontos_num": 6,
+    "preco_num": 9.99,
+    "variacao_num": 1.07,
+    "media_num": 4.48,
+    "jogos_num": 6,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }
