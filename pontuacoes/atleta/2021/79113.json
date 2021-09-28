@@ -6,7 +6,6 @@
   "clube_id": 285,
   "posicao": "Zagueiro",
   "rodadas": [
-    11,
     12,
     13,
     14,
@@ -16,10 +15,10 @@
     18,
     19,
     20,
-    21
+    21,
+    22
   ],
   "pontos": [
-    5.8,
     4,
     -1.1,
     6.9,
@@ -29,10 +28,10 @@
     5.2,
     0,
     5.6,
-    10.1
+    10.1,
+    7.8
   ],
   "precos": [
-    6.76,
     6.68,
     5.83,
     7.2,
@@ -42,10 +41,10 @@
     7.85,
     7.85,
     8.03,
-    9.02
+    9.02,
+    8.8
   ],
   "variacoes": [
-    1.16,
     -0.08,
     -0.85,
     1.37,
@@ -55,10 +54,10 @@
     0.61,
     0,
     0.18,
-    0.99
+    0.99,
+    -0.22
   ],
   "medias": [
-    0.72,
     1.02,
     0.84,
     1.31,
@@ -68,22 +67,10 @@
     2.47,
     2.47,
     2.64,
-    3.03
+    3.03,
+    3.27
   ],
   "partidas": [
-    {
-      "rodada_id": 11,
-      "clube_casa": "Grêmio",
-      "clube_casa_id": 284,
-      "clube_visitante": "Internacional",
-      "clube_casa_abrev": "GRE",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/gremio_60x60.png",
-      "clube_visitante_id": 285,
-      "clube_visitante_abrev": "INT",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/03/inter65.png",
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 12,
       "clube_casa": "Internacional",
@@ -213,37 +200,50 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/06/10/fortaleza-ec-65px.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 22,
+      "clube_casa": "Internacional",
+      "clube_casa_id": 285,
+      "clube_visitante": "Bahia",
+      "clube_casa_abrev": "INT",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/03/inter65.png",
+      "clube_visitante_id": 265,
+      "clube_visitante_abrev": "BAH",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/bahia_60x60.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2021/05/02/3f88f0b75e8991f7808e2e7cc7ed35f8_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/03/inter65.png",
   "scouts": {
-    "rodada_id": 21,
+    "rodada_id": 22,
     "g": 0,
-    "a": 2,
-    "sg": 8,
+    "a": 3,
+    "sg": 9,
     "fs": 15,
     "ff": 3,
-    "fd": 1,
+    "fd": 2,
     "ft": 0,
     "de": 0,
     "dp": 0,
     "gc": 0,
     "cv": 0,
-    "ca": 4,
+    "ca": 5,
     "pp": 0,
     "gs": 0,
-    "fc": 26,
+    "fc": 30,
     "i": 0,
-    "ds": 26,
-    "pi": 94,
+    "ds": 27,
+    "pi": 98,
     "pc": 0,
     "ps": 1,
-    "pontos_num": 10.1,
-    "preco_num": 9.02,
-    "variacao_num": 0.99,
-    "media_num": 3.03,
-    "jogos_num": 19,
+    "pontos_num": 7.8,
+    "preco_num": 8.8,
+    "variacao_num": -0.22,
+    "media_num": 3.27,
+    "jogos_num": 20,
     "posicao_abrev": "zag",
     "posicao": "Zagueiro"
   }

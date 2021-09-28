@@ -6,7 +6,6 @@
   "clube_id": 275,
   "posicao": "Zagueiro",
   "rodadas": [
-    11,
     12,
     13,
     14,
@@ -16,10 +15,10 @@
     18,
     19,
     20,
-    21
+    21,
+    22
   ],
   "pontos": [
-    7,
     5.9,
     4.5,
     7.2,
@@ -29,10 +28,10 @@
     1.2,
     0,
     -0.7,
-    6.3
+    6.3,
+    0.8
   ],
   "precos": [
-    11.32,
     11.4,
     11.37,
     11.88,
@@ -42,10 +41,10 @@
     10.7,
     10.7,
     10.2,
-    11.4
+    11.4,
+    10.42
   ],
   "variacoes": [
-    0.31,
     0.08,
     -0.03,
     0.51,
@@ -55,10 +54,10 @@
     -0.52,
     0,
     -0.5,
-    1.2
+    1.2,
+    -0.98
   ],
   "medias": [
-    4.93,
     5.17,
     5.04,
     5.4,
@@ -68,22 +67,10 @@
     3.57,
     3.57,
     3.18,
-    3.44
+    3.44,
+    3.24
   ],
   "partidas": [
-    {
-      "rodada_id": 11,
-      "clube_casa": "Palmeiras",
-      "clube_casa_id": 275,
-      "clube_visitante": "Santos",
-      "clube_casa_abrev": "PAL",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
-      "clube_visitante_id": 277,
-      "clube_visitante_abrev": "SAN",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/santos_60x60.png",
-      "placar_oficial_mandante": 3,
-      "placar_oficial_visitante": 2
-    },
     {
       "rodada_id": 12,
       "clube_casa": "Atlético-GO",
@@ -213,17 +200,30 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 22,
+      "clube_casa": "Corinthians",
+      "clube_casa_id": 264,
+      "clube_visitante": "Palmeiras",
+      "clube_casa_abrev": "COR",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/30/Corinthians_65.png",
+      "clube_visitante_id": 275,
+      "clube_visitante_abrev": "PAL",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2021/04/30/6f48baaa83f44d6a1be5ee2b4f24d2d9_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
   "scouts": {
-    "rodada_id": 21,
+    "rodada_id": 22,
     "g": 1,
     "a": 0,
     "sg": 5,
     "fs": 8,
-    "ff": 3,
+    "ff": 4,
     "fd": 0,
     "ft": 0,
     "de": 0,
@@ -234,16 +234,16 @@
     "pp": 0,
     "gs": 0,
     "fc": 15,
-    "i": 3,
-    "ds": 17,
-    "pi": 42,
+    "i": 4,
+    "ds": 18,
+    "pi": 47,
     "pc": 0,
     "ps": 0,
-    "pontos_num": 6.3,
-    "preco_num": 11.4,
-    "variacao_num": 1.2,
-    "media_num": 3.44,
-    "jogos_num": 12,
+    "pontos_num": 0.8,
+    "preco_num": 10.42,
+    "variacao_num": -0.98,
+    "media_num": 3.24,
+    "jogos_num": 13,
     "posicao_abrev": "zag",
     "posicao": "Zagueiro"
   }

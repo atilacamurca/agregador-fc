@@ -331,13 +331,13 @@
       "clube_casa": "Ceará",
       "escudo_casa": "https://s.glbimg.com/es/sde/f/organizacoes/2019/10/10/ceara-65x65.png",
       "clube_casa_abreviacao": "CEA",
-      "clube_casa_posicao": 13,
+      "clube_casa_posicao": 11,
       "aproveitamento_mandante": [
-        "d",
         "e",
         "d",
         "d",
-        "e"
+        "e",
+        "v"
       ],
       "clube_visitante_id": 315,
       "clube_visitante": "Chapecoense",
@@ -346,15 +346,15 @@
       "clube_visitante_posicao": 20,
       "aproveitamento_visitante": [
         "e",
-        "e",
         "d",
         "v",
+        "d",
         "d"
       ],
       "partida_data": "2021-09-25T20:00:00.000Z",
       "local": "Castelão (CE)",
       "valida": true,
-      "placar_oficial_mandante": 0,
+      "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 0,
       "url_confronto": null,
       "url_transmissao": null
@@ -690,10 +690,10 @@
       "clube_casa_posicao": 6,
       "aproveitamento_mandante": [
         "v",
-        "v",
         "e",
         "e",
-        "e"
+        "e",
+        "v"
       ],
       "clube_visitante_id": 275,
       "clube_visitante": "Palmeiras",
@@ -702,16 +702,16 @@
       "clube_visitante_posicao": 2,
       "aproveitamento_visitante": [
         "d",
-        "d",
         "v",
         "d",
-        "v"
+        "v",
+        "d"
       ],
       "partida_data": "2021-09-25T22:00:00.000Z",
       "local": "Neo Química Arena",
       "valida": true,
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 0,
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 1,
       "url_confronto": null,
       "url_transmissao": null
     },
@@ -1043,13 +1043,13 @@
       "clube_casa": "São Paulo",
       "escudo_casa": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/sao_paulo_60x60.png",
       "clube_casa_abreviacao": "SAO",
-      "clube_casa_posicao": 12,
+      "clube_casa_posicao": 13,
       "aproveitamento_mandante": [
-        "v",
-        "v",
         "e",
         "d",
-        "v"
+        "v",
+        "e",
+        "e"
       ],
       "clube_visitante_id": 282,
       "clube_visitante": "Atlético-MG",
@@ -1057,11 +1057,11 @@
       "clube_visitante_abreviacao": "ATL",
       "clube_visitante_posicao": 1,
       "aproveitamento_visitante": [
-        "v",
         "e",
         "e",
         "v",
-        "v"
+        "v",
+        "e"
       ],
       "partida_data": "2021-09-26T00:00:00.000Z",
       "local": "Morumbi",
@@ -1399,31 +1399,31 @@
       "clube_casa": "América-MG",
       "escudo_casa": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/28/escudo65_1.png",
       "clube_casa_abreviacao": "AME",
-      "clube_casa_posicao": 18,
+      "clube_casa_posicao": 15,
       "aproveitamento_mandante": [
+        "v",
+        "v",
         "e",
-        "d",
-        "v",
-        "v",
+        "e",
         "e"
       ],
       "clube_visitante_id": 262,
       "clube_visitante": "Flamengo",
       "escudo_visitante": "https://s.glbimg.com/es/sde/f/organizacoes/2018/04/09/Flamengo-65.png",
       "clube_visitante_abreviacao": "FLA",
-      "clube_visitante_posicao": 3,
+      "clube_visitante_posicao": 4,
       "aproveitamento_visitante": [
-        "v",
         "e",
         "v",
         "v",
-        "d"
+        "d",
+        "e"
       ],
       "partida_data": "2021-09-26T14:00:00.000Z",
       "local": "Independência",
       "valida": true,
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 0,
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 1,
       "url_confronto": null,
       "url_transmissao": null
     },
@@ -1449,7 +1449,7 @@
         {
           "media_num": 3.98,
           "atleta_id": 85004,
-          "apelido": "Marcos Felipe ",
+          "apelido": "Marcos Felipe",
           "jogos_num": 18,
           "preco_num": 13.13,
           "variacao_num": -1.19,
@@ -1757,11 +1757,11 @@
       "clube_casa_abreviacao": "FLU",
       "clube_casa_posicao": 8,
       "aproveitamento_mandante": [
-        "v",
         "e",
         "v",
         "v",
-        "e"
+        "e",
+        "v"
       ],
       "clube_visitante_id": 280,
       "clube_visitante": "Bragantino",
@@ -1769,17 +1769,17 @@
       "clube_visitante_abreviacao": "BRA",
       "clube_visitante_posicao": 5,
       "aproveitamento_visitante": [
-        "d",
         "v",
         "e",
         "d",
-        "e"
+        "e",
+        "d"
       ],
       "partida_data": "2021-09-26T19:00:00.000Z",
       "local": "Maracanã",
       "valida": true,
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 0,
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 1,
       "url_confronto": null,
       "url_transmissao": null
     },
@@ -2113,9 +2113,9 @@
       "clube_casa_abreviacao": "INT",
       "clube_casa_posicao": 7,
       "aproveitamento_mandante": [
+        "e",
+        "e",
         "v",
-        "e",
-        "e",
         "v",
         "v"
       ],
@@ -2123,18 +2123,18 @@
       "clube_visitante": "Bahia",
       "escudo_visitante": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/bahia_60x60.png",
       "clube_visitante_abreviacao": "BAH",
-      "clube_visitante_posicao": 15,
+      "clube_visitante_posicao": 17,
       "aproveitamento_visitante": [
-        "d",
         "d",
         "v",
         "e",
-        "e"
+        "e",
+        "d"
       ],
       "partida_data": "2021-09-26T19:00:00.000Z",
       "local": "Beira-Rio",
       "valida": true,
-      "placar_oficial_mandante": 0,
+      "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 0,
       "url_confronto": null,
       "url_transmissao": null
@@ -2467,30 +2467,30 @@
       "clube_casa": "Juventude",
       "escudo_casa": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/08/juventude65.png",
       "clube_casa_abreviacao": "JUV",
-      "clube_casa_posicao": 16,
+      "clube_casa_posicao": 14,
       "aproveitamento_mandante": [
         "e",
         "e",
-        "e",
         "d",
-        "d"
+        "d",
+        "v"
       ],
       "clube_visitante_id": 277,
       "clube_visitante": "Santos",
       "escudo_visitante": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/santos_60x60.png",
       "clube_visitante_abreviacao": "SAN",
-      "clube_visitante_posicao": 14,
+      "clube_visitante_posicao": 16,
       "aproveitamento_visitante": [
-        "e",
         "d",
         "d",
         "e",
-        "e"
+        "e",
+        "d"
       ],
       "partida_data": "2021-09-26T19:00:00.000Z",
       "local": "Alfredo Jaconi",
       "valida": true,
-      "placar_oficial_mandante": 0,
+      "placar_oficial_mandante": 3,
       "placar_oficial_visitante": 0,
       "url_confronto": null,
       "url_transmissao": null
@@ -2825,9 +2825,9 @@
       "clube_casa_abreviacao": "SPO",
       "clube_casa_posicao": 19,
       "aproveitamento_mandante": [
+        "e",
+        "e",
         "d",
-        "e",
-        "e",
         "d",
         "d"
       ],
@@ -2835,19 +2835,19 @@
       "clube_visitante": "Fortaleza",
       "escudo_visitante": "https://s.glbimg.com/es/sde/f/organizacoes/2018/06/10/fortaleza-ec-65px.png",
       "clube_visitante_abreviacao": "FOR",
-      "clube_visitante_posicao": 4,
+      "clube_visitante_posicao": 3,
       "aproveitamento_visitante": [
         "e",
-        "e",
         "d",
         "d",
-        "d"
+        "d",
+        "v"
       ],
       "partida_data": "2021-09-26T21:15:00.000Z",
-      "local": "Ilha do Retiro",
+      "local": "Arena de Pernambuco",
       "valida": true,
       "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 0,
+      "placar_oficial_visitante": 1,
       "url_confronto": null,
       "url_transmissao": null
     },
@@ -3179,31 +3179,31 @@
       "clube_casa": "Athlético-PR",
       "escudo_casa": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/09/Athletico-PR-65x65.png",
       "clube_casa_abreviacao": "ATL",
-      "clube_casa_posicao": 10,
+      "clube_casa_posicao": 9,
       "aproveitamento_mandante": [
-        "d",
         "d",
         "e",
         "d",
+        "v",
         "v"
       ],
       "clube_visitante_id": 284,
       "clube_visitante": "Grêmio",
       "escudo_visitante": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/gremio_60x60.png",
       "clube_visitante_abreviacao": "GRE",
-      "clube_visitante_posicao": 17,
+      "clube_visitante_posicao": 18,
       "aproveitamento_visitante": [
-        "v",
         "v",
         "d",
         "v",
-        "v"
+        "v",
+        "d"
       ],
       "partida_data": "2021-09-26T21:15:00.000Z",
       "local": "Arena da Baixada",
       "valida": true,
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 0,
+      "placar_oficial_mandante": 4,
+      "placar_oficial_visitante": 2,
       "url_confronto": null,
       "url_transmissao": null
     },
@@ -3535,24 +3535,24 @@
       "clube_casa": "Atlético-GO",
       "escudo_casa": "https://s.glbimg.com/es/sde/f/organizacoes/2020/07/02/atletico-go-2020-65.png",
       "clube_casa_abreviacao": "ATL",
-      "clube_casa_posicao": 11,
+      "clube_casa_posicao": 12,
       "aproveitamento_mandante": [
-        "v",
         "e",
         "e",
         "e",
-        "d"
+        "d",
+        "e"
       ],
       "clube_visitante_id": 1371,
       "clube_visitante": "Cuiabá",
       "escudo_visitante": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/16/cuiaba65.png",
       "clube_visitante_abreviacao": "CUI",
-      "clube_visitante_posicao": 9,
+      "clube_visitante_posicao": 10,
       "aproveitamento_visitante": [
-        "v",
         "e",
         "v",
         "v",
+        "e",
         "e"
       ],
       "partida_data": "2021-09-26T23:30:00.000Z",

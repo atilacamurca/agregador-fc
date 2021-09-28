@@ -6,7 +6,6 @@
   "clube_id": 292,
   "posicao": "Zagueiro",
   "rodadas": [
-    11,
     12,
     13,
     14,
@@ -16,10 +15,10 @@
     18,
     19,
     20,
-    21
+    21,
+    22
   ],
   "pontos": [
-    0.7,
     4.3,
     6.9,
     4.7,
@@ -29,10 +28,10 @@
     0,
     0,
     2.7,
-    -2.7
+    -2.7,
+    0
   ],
   "precos": [
-    3.53,
     4.27,
     5.02,
     4.85,
@@ -42,10 +41,10 @@
     4.85,
     4.85,
     4.61,
+    3.67,
     3.67
   ],
   "variacoes": [
-    0.16,
     0.74,
     0.75,
     -0.17,
@@ -55,10 +54,10 @@
     0,
     0,
     -0.24,
-    -0.94
+    -0.94,
+    0
   ],
   "medias": [
-    1.64,
     1.86,
     2.25,
     2.43,
@@ -68,22 +67,10 @@
     2.43,
     2.43,
     2.45,
+    2.13,
     2.13
   ],
   "partidas": [
-    {
-      "rodada_id": 11,
-      "clube_casa": "Sport",
-      "clube_casa_id": 292,
-      "clube_visitante": "Fluminense",
-      "clube_casa_abrev": "SPO",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2015/07/21/sport65.png",
-      "clube_visitante_id": 266,
-      "clube_visitante_abrev": "FLU",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/fluminense_60x60.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 2
-    },
     {
       "rodada_id": 12,
       "clube_casa": "América-MG",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2015/07/21/sport65.png",
       "placar_oficial_mandante": 3,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 22,
+      "clube_casa": "Sport",
+      "clube_casa_id": 292,
+      "clube_visitante": "Fortaleza",
+      "clube_casa_abrev": "SPO",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2015/07/21/sport65.png",
+      "clube_visitante_id": 356,
+      "clube_visitante_abrev": "FOR",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/06/10/fortaleza-ec-65px.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2021/04/27/c813ab391a9622ef75a4af9e5e34ce6c_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2015/07/21/sport65.png",
   "scouts": {
-    "rodada_id": 21,
+    "rodada_id": 22,
     "g": 0,
     "a": 0,
     "sg": 6,
@@ -239,9 +239,9 @@
     "pi": 79,
     "pc": 1,
     "ps": 0,
-    "pontos_num": -2.7,
+    "pontos_num": 0,
     "preco_num": 3.67,
-    "variacao_num": -0.94,
+    "variacao_num": 0,
     "media_num": 2.13,
     "jogos_num": 16,
     "posicao_abrev": "zag",

@@ -6,7 +6,6 @@
   "clube_id": 315,
   "posicao": "Zagueiro",
   "rodadas": [
-    11,
     12,
     13,
     14,
@@ -16,10 +15,10 @@
     18,
     19,
     20,
-    21
+    21,
+    22
   ],
   "pontos": [
-    0,
     0,
     0,
     -1.4,
@@ -29,10 +28,10 @@
     4.8,
     -0.1,
     -0.2,
-    -1
+    -1,
+    1.6
   ],
   "precos": [
-    3,
     3,
     3,
     2.02,
@@ -42,10 +41,10 @@
     2.71,
     1.92,
     1.91,
-    1.74
+    1.74,
+    2.15
   ],
   "variacoes": [
-    0,
     0,
     0,
     -0.98,
@@ -55,10 +54,10 @@
     1.79,
     -0.79,
     -0.01,
-    -0.17
+    -0.17,
+    0.41
   ],
   "medias": [
-    0,
     0,
     0,
     -1.4,
@@ -68,22 +67,10 @@
     -0.73,
     -0.6,
     -0.53,
-    -0.6
+    -0.6,
+    -0.33
   ],
   "partidas": [
-    {
-      "rodada_id": 11,
-      "clube_casa": "Flamengo",
-      "clube_casa_id": 262,
-      "clube_visitante": "Chapecoense",
-      "clube_casa_abrev": "FLA",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/04/09/Flamengo-65.png",
-      "clube_visitante_id": 315,
-      "clube_visitante_abrev": "CHA",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2015/08/03/Escudo-Chape-165.png",
-      "placar_oficial_mandante": 2,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 12,
       "clube_casa": "Chapecoense",
@@ -213,17 +200,30 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 22,
+      "clube_casa": "Ceará",
+      "clube_casa_id": 354,
+      "clube_visitante": "Chapecoense",
+      "clube_casa_abrev": "CEA",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/10/10/ceara-65x65.png",
+      "clube_visitante_id": 315,
+      "clube_visitante_abrev": "CHA",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2015/08/03/Escudo-Chape-165.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2021/03/23/66f0f6dd4ca24d8dfd598de22768fef8_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2015/08/03/Escudo-Chape-165.png",
   "scouts": {
-    "rodada_id": 21,
+    "rodada_id": 22,
     "g": 0,
     "a": 0,
     "sg": 1,
-    "fs": 2,
-    "ff": 0,
+    "fs": 3,
+    "ff": 1,
     "fd": 0,
     "ft": 0,
     "de": 0,
@@ -233,17 +233,17 @@
     "ca": 1,
     "pp": 0,
     "gs": 0,
-    "fc": 11,
+    "fc": 12,
     "i": 0,
-    "ds": 4,
-    "pi": 17,
+    "ds": 5,
+    "pi": 19,
     "pc": 0,
     "ps": 0,
-    "pontos_num": -1,
-    "preco_num": 1.74,
-    "variacao_num": -0.17,
-    "media_num": -0.6,
-    "jogos_num": 7,
+    "pontos_num": 1.6,
+    "preco_num": 2.15,
+    "variacao_num": 0.41,
+    "media_num": -0.33,
+    "jogos_num": 8,
     "posicao_abrev": "zag",
     "posicao": "Zagueiro"
   }

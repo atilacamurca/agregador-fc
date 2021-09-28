@@ -6,7 +6,6 @@
   "clube_id": 275,
   "posicao": "Atacante",
   "rodadas": [
-    11,
     12,
     13,
     14,
@@ -16,10 +15,10 @@
     18,
     19,
     20,
-    21
+    21,
+    22
   ],
   "pontos": [
-    0,
     0.2,
     -0.1,
     0,
@@ -29,10 +28,10 @@
     2.6,
     0,
     5.9,
-    -0.3
+    -0.3,
+    1.6
   ],
   "precos": [
-    12.1,
     11.51,
     11.03,
     11.03,
@@ -42,10 +41,10 @@
     10.75,
     10.75,
     11.27,
-    10.2
+    10.2,
+    10.33
   ],
   "variacoes": [
-    -3.9,
     -0.59,
     -0.48,
     0,
@@ -55,10 +54,10 @@
     -0.73,
     0,
     0.52,
-    -1.07
+    -1.07,
+    0.13
   ],
   "medias": [
-    0,
     0.1,
     0.03,
     0.03,
@@ -68,22 +67,10 @@
     1.67,
     1.67,
     2.27,
-    1.95
+    1.95,
+    1.91
   ],
   "partidas": [
-    {
-      "rodada_id": 11,
-      "clube_casa": "Palmeiras",
-      "clube_casa_id": 275,
-      "clube_visitante": "Santos",
-      "clube_casa_abrev": "PAL",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
-      "clube_visitante_id": 277,
-      "clube_visitante_abrev": "SAN",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/santos_60x60.png",
-      "placar_oficial_mandante": 3,
-      "placar_oficial_visitante": 2
-    },
     {
       "rodada_id": 12,
       "clube_casa": "Atlético-GO",
@@ -213,18 +200,31 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 22,
+      "clube_casa": "Corinthians",
+      "clube_casa_id": 264,
+      "clube_visitante": "Palmeiras",
+      "clube_casa_abrev": "COR",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/30/Corinthians_65.png",
+      "clube_visitante_id": 275,
+      "clube_visitante_abrev": "PAL",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2020/03/09/eafc70b73133e226a865bd4378a176a9_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
   "scouts": {
-    "rodada_id": 21,
+    "rodada_id": 22,
     "g": 0,
     "a": 1,
     "sg": 0,
     "fs": 17,
     "ff": 5,
-    "fd": 4,
+    "fd": 5,
     "ft": 0,
     "de": 0,
     "dp": 0,
@@ -235,15 +235,15 @@
     "gs": 0,
     "fc": 4,
     "i": 3,
-    "ds": 2,
-    "pi": 52,
+    "ds": 3,
+    "pi": 58,
     "pc": 0,
     "ps": 0,
-    "pontos_num": -0.3,
-    "preco_num": 10.2,
-    "variacao_num": -1.07,
-    "media_num": 1.95,
-    "jogos_num": 8,
+    "pontos_num": 1.6,
+    "preco_num": 10.33,
+    "variacao_num": 0.13,
+    "media_num": 1.91,
+    "jogos_num": 9,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }
