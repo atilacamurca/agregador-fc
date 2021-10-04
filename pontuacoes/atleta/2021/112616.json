@@ -6,7 +6,6 @@
   "clube_id": 284,
   "posicao": "Goleiro",
   "rodadas": [
-    12,
     13,
     14,
     15,
@@ -16,10 +15,10 @@
     19,
     20,
     21,
-    22
+    22,
+    23
   ],
   "pontos": [
-    7,
     6,
     1,
     0,
@@ -29,10 +28,10 @@
     0,
     6,
     7,
-    -3
+    -3,
+    2
   ],
   "precos": [
-    4.65,
     4.84,
     4.08,
     3.91,
@@ -42,10 +41,10 @@
     4.14,
     5.26,
     5.64,
-    3.96
+    3.96,
+    4.76
   ],
   "variacoes": [
-    -0.44,
     0.19,
     -0.76,
     -0.17,
@@ -55,10 +54,10 @@
     0,
     1.12,
     0.38,
-    -1.68
+    -1.68,
+    0.8
   ],
   "medias": [
-    7.6,
     7.33,
     6.43,
     5.63,
@@ -68,22 +67,10 @@
     4.96,
     5.05,
     5.2,
-    4.61
+    4.61,
+    4.44
   ],
   "partidas": [
-    {
-      "rodada_id": 12,
-      "clube_casa": "Fluminense",
-      "clube_casa_id": 266,
-      "clube_visitante": "Grêmio",
-      "clube_casa_abrev": "FLU",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/fluminense_60x60.png",
-      "clube_visitante_id": 284,
-      "clube_visitante_abrev": "GRE",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/gremio_60x60.png",
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 13,
       "clube_casa": "Grêmio",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/gremio_60x60.png",
       "placar_oficial_mandante": 4,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 23,
+      "clube_casa": "Grêmio",
+      "clube_casa_id": 284,
+      "clube_visitante": "Sport",
+      "clube_casa_abrev": "GRE",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/gremio_60x60.png",
+      "clube_visitante_id": 292,
+      "clube_visitante_abrev": "SPO",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2015/07/21/sport65.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2021/04/29/1f3c1460d9bceaad66575c71ad22859f_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/gremio_60x60.png",
   "scouts": {
-    "rodada_id": 22,
+    "rodada_id": 23,
     "g": 0,
     "a": 0,
     "sg": 6,
@@ -226,24 +226,24 @@
     "ff": 0,
     "fd": 0,
     "ft": 0,
-    "de": 41,
+    "de": 45,
     "dp": 1,
     "gc": 0,
     "cv": 0,
     "ca": 0,
     "pp": 0,
-    "gs": 14,
+    "gs": 16,
     "fc": 0,
     "i": 0,
     "ds": 0,
     "pi": 0,
     "pc": 0,
     "ps": 0,
-    "pontos_num": -3,
-    "preco_num": 3.96,
-    "variacao_num": -1.68,
-    "media_num": 4.61,
-    "jogos_num": 14,
+    "pontos_num": 2,
+    "preco_num": 4.76,
+    "variacao_num": 0.8,
+    "media_num": 4.44,
+    "jogos_num": 15,
     "posicao_abrev": "gol",
     "posicao": "Goleiro"
   }

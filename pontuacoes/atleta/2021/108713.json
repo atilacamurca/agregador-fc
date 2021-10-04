@@ -6,7 +6,6 @@
   "clube_id": 276,
   "posicao": "Atacante",
   "rodadas": [
-    12,
     13,
     14,
     15,
@@ -16,10 +15,10 @@
     19,
     20,
     21,
-    22
+    22,
+    23
   ],
   "pontos": [
-    1.5,
     0,
     0,
     -2.8,
@@ -29,10 +28,10 @@
     0,
     1.4,
     1.5,
-    3.2
+    3.2,
+    -0.9
   ],
   "precos": [
-    1.78,
     1.78,
     1.78,
     0.98,
@@ -42,10 +41,10 @@
     1.89,
     1.75,
     1.81,
-    2.14
+    2.14,
+    1.49
   ],
   "variacoes": [
-    -0.05,
     0,
     0,
     -0.8,
@@ -55,10 +54,10 @@
     0,
     -0.14,
     0.06,
-    0.33
+    0.33,
+    -0.65
   ],
   "medias": [
-    0.66,
     0.66,
     0.66,
     0.08,
@@ -68,22 +67,10 @@
     0.44,
     0.56,
     0.66,
-    0.91
+    0.91,
+    0.75
   ],
   "partidas": [
-    {
-      "rodada_id": 12,
-      "clube_casa": "São Paulo",
-      "clube_casa_id": 276,
-      "clube_visitante": "Fortaleza",
-      "clube_casa_abrev": "SAO",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/sao_paulo_60x60.png",
-      "clube_visitante_id": 356,
-      "clube_visitante_abrev": "FOR",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/06/10/fortaleza-ec-65px.png",
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 13,
       "clube_casa": "Flamengo",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2017/11/23/Atletico-Mineiro-escudo65px.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 23,
+      "clube_casa": "Chapecoense",
+      "clube_casa_id": 315,
+      "clube_visitante": "São Paulo",
+      "clube_casa_abrev": "CHA",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2015/08/03/Escudo-Chape-165.png",
+      "clube_visitante_id": 276,
+      "clube_visitante_abrev": "SAO",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/sao_paulo_60x60.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2021/04/26/b6d521e5cb1de1cda567a28ead5b9942_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/sao_paulo_60x60.png",
   "scouts": {
-    "rodada_id": 22,
+    "rodada_id": 23,
     "g": 0,
     "a": 0,
     "sg": 0,
@@ -230,20 +230,20 @@
     "dp": 0,
     "gc": 0,
     "cv": 0,
-    "ca": 2,
+    "ca": 3,
     "pp": 0,
     "gs": 0,
-    "fc": 9,
+    "fc": 11,
     "i": 3,
-    "ds": 10,
-    "pi": 40,
+    "ds": 13,
+    "pi": 49,
     "pc": 0,
     "ps": 0,
-    "pontos_num": 3.2,
-    "preco_num": 2.14,
-    "variacao_num": 0.33,
-    "media_num": 0.91,
-    "jogos_num": 10,
+    "pontos_num": -0.9,
+    "preco_num": 1.49,
+    "variacao_num": -0.65,
+    "media_num": 0.75,
+    "jogos_num": 11,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }

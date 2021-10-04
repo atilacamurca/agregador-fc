@@ -6,19 +6,24 @@
   "clube_id": 315,
   "posicao": "Atacante",
   "rodadas": [
-    22
+    22,
+    23
   ],
   "pontos": [
-    0
+    0,
+    1.2
   ],
   "precos": [
-    1
+    1,
+    1.22
   ],
   "variacoes": [
-    0
+    0,
+    0.22
   ],
   "medias": [
-    0
+    0,
+    1.2
   ],
   "partidas": [
     {
@@ -33,18 +38,31 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2015/08/03/Escudo-Chape-165.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 23,
+      "clube_casa": "Chapecoense",
+      "clube_casa_id": 315,
+      "clube_visitante": "São Paulo",
+      "clube_casa_abrev": "CHA",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2015/08/03/Escudo-Chape-165.png",
+      "clube_visitante_id": 276,
+      "clube_visitante_abrev": "SAO",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/sao_paulo_60x60.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2021/09/22/d1ad2e1a6a1889dbb8418cd1baf27a2d_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2015/08/03/Escudo-Chape-165.png",
   "scouts": {
-    "rodada_id": 22,
+    "rodada_id": 23,
     "g": 0,
     "a": 0,
     "sg": 0,
     "fs": 0,
     "ff": 0,
-    "fd": 0,
+    "fd": 1,
     "ft": 0,
     "de": 0,
     "dp": 0,
@@ -53,17 +71,17 @@
     "ca": 0,
     "pp": 0,
     "gs": 0,
-    "fc": 0,
+    "fc": 2,
     "i": 0,
-    "ds": 0,
+    "ds": 1,
     "pi": 0,
     "pc": 0,
     "ps": 0,
-    "pontos_num": 0,
-    "preco_num": 1,
-    "variacao_num": 0,
-    "media_num": 0,
-    "jogos_num": 0,
+    "pontos_num": 1.2,
+    "preco_num": 1.22,
+    "variacao_num": 0.22,
+    "media_num": 1.2,
+    "jogos_num": 1,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }

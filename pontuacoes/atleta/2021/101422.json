@@ -6,7 +6,6 @@
   "clube_id": 315,
   "posicao": "Atacante",
   "rodadas": [
-    12,
     13,
     14,
     15,
@@ -16,10 +15,10 @@
     19,
     20,
     21,
-    22
+    22,
+    23
   ],
   "pontos": [
-    0,
     0,
     0,
     0,
@@ -29,10 +28,10 @@
     7.3,
     5.8,
     -0.3,
-    2.5
+    2.5,
+    1
   ],
   "precos": [
-    0.76,
     0.76,
     0.76,
     0.76,
@@ -42,10 +41,10 @@
     2.08,
     2.1,
     1.17,
-    1.65
+    1.65,
+    1.46
   ],
   "variacoes": [
-    0,
     0,
     0,
     0,
@@ -55,10 +54,10 @@
     1.14,
     0.02,
     -0.93,
-    0.48
+    0.48,
+    -0.19
   ],
   "medias": [
-    -1.23,
     -1.23,
     -1.23,
     -1.23,
@@ -68,22 +67,10 @@
     0.82,
     1.27,
     1.14,
-    1.24
+    1.24,
+    1.22
   ],
   "partidas": [
-    {
-      "rodada_id": 12,
-      "clube_casa": "Chapecoense",
-      "clube_casa_id": 315,
-      "clube_visitante": "Cuiabá",
-      "clube_casa_abrev": "CHA",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2015/08/03/Escudo-Chape-165.png",
-      "clube_visitante_id": 1371,
-      "clube_visitante_abrev": "CUI",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/16/cuiaba65.png",
-      "placar_oficial_mandante": 2,
-      "placar_oficial_visitante": 3
-    },
     {
       "rodada_id": 13,
       "clube_casa": "Juventude",
@@ -213,17 +200,30 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2015/08/03/Escudo-Chape-165.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 23,
+      "clube_casa": "Chapecoense",
+      "clube_casa_id": 315,
+      "clube_visitante": "São Paulo",
+      "clube_casa_abrev": "CHA",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2015/08/03/Escudo-Chape-165.png",
+      "clube_visitante_id": 276,
+      "clube_visitante_abrev": "SAO",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/sao_paulo_60x60.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2021/03/23/7e9d88330a65f05d8e62683026654295_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2015/08/03/Escudo-Chape-165.png",
   "scouts": {
-    "rodada_id": 22,
+    "rodada_id": 23,
     "g": 0,
     "a": 1,
     "sg": 0,
-    "fs": 9,
-    "ff": 6,
+    "fs": 10,
+    "ff": 7,
     "fd": 8,
     "ft": 0,
     "de": 0,
@@ -234,16 +234,16 @@
     "pp": 0,
     "gs": 0,
     "fc": 9,
-    "i": 5,
-    "ds": 11,
-    "pi": 37,
+    "i": 6,
+    "ds": 12,
+    "pi": 45,
     "pc": 0,
     "ps": 1,
-    "pontos_num": 2.5,
-    "preco_num": 1.65,
-    "variacao_num": 0.48,
-    "media_num": 1.24,
-    "jogos_num": 13,
+    "pontos_num": 1,
+    "preco_num": 1.46,
+    "variacao_num": -0.19,
+    "media_num": 1.22,
+    "jogos_num": 14,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }
