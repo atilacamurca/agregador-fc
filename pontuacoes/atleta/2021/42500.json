@@ -6,7 +6,6 @@
   "clube_id": 264,
   "posicao": "Lateral",
   "rodadas": [
-    13,
     14,
     15,
     16,
@@ -16,10 +15,10 @@
     20,
     21,
     22,
-    23
+    23,
+    24
   ],
   "pontos": [
-    3.2,
     1.6,
     12.1,
     2.4,
@@ -29,10 +28,10 @@
     2.4,
     2.1,
     0.7,
-    3.9
+    3.9,
+    0
   ],
   "precos": [
-    11.94,
     11.52,
     13.56,
     12.18,
@@ -42,10 +41,10 @@
     12.05,
     11.99,
     11.61,
+    12.19,
     12.19
   ],
   "variacoes": [
-    0.26,
     -0.42,
     2.04,
     -1.38,
@@ -55,10 +54,10 @@
     0.35,
     -0.06,
     -0.38,
-    0.58
+    0.58,
+    0
   ],
   "medias": [
-    4.08,
     3.9,
     4.45,
     4.32,
@@ -68,22 +67,10 @@
     4.08,
     3.98,
     3.82,
+    3.82,
     3.82
   ],
   "partidas": [
-    {
-      "rodada_id": 13,
-      "clube_casa": "Cuiabá",
-      "clube_casa_id": 1371,
-      "clube_visitante": "Corinthians",
-      "clube_casa_abrev": "CUI",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/16/cuiaba65.png",
-      "clube_visitante_id": 264,
-      "clube_visitante_abrev": "COR",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/30/Corinthians_65.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 2
-    },
     {
       "rodada_id": 14,
       "clube_casa": "Corinthians",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/30/Corinthians_65.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 24,
+      "clube_casa": "Corinthians",
+      "clube_casa_id": 264,
+      "clube_visitante": "Bahia",
+      "clube_casa_abrev": "COR",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/30/Corinthians_65.png",
+      "clube_visitante_id": 265,
+      "clube_visitante_abrev": "BAH",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/bahia_60x60.png",
+      "placar_oficial_mandante": 3,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2021/08/06/1dbfc9287c7d5ed6dcd220b9228fc055_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/30/Corinthians_65.png",
   "scouts": {
-    "rodada_id": 23,
+    "rodada_id": 24,
     "g": 0,
     "a": 0,
     "sg": 6,
@@ -239,9 +239,9 @@
     "pi": 221,
     "pc": 0,
     "ps": 0,
-    "pontos_num": 3.9,
+    "pontos_num": 0,
     "preco_num": 12.19,
-    "variacao_num": 0.58,
+    "variacao_num": 0,
     "media_num": 3.82,
     "jogos_num": 22,
     "posicao_abrev": "lat",
