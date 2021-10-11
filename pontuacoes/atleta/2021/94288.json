@@ -6,7 +6,6 @@
   "clube_id": 315,
   "posicao": "Meia",
   "rodadas": [
-    14,
     15,
     16,
     17,
@@ -16,7 +15,8 @@
     21,
     22,
     23,
-    24
+    24,
+    25
   ],
   "pontos": [
     0,
@@ -26,10 +26,10 @@
     0,
     0,
     0,
-    0,
     -1.2,
     0,
-    1.2
+    1.2,
+    4.1
   ],
   "precos": [
     2.48,
@@ -39,10 +39,10 @@
     2.48,
     2.48,
     2.48,
-    2.48,
     2.1,
     2.1,
-    2.46
+    2.46,
+    2.98
   ],
   "variacoes": [
     0,
@@ -52,10 +52,10 @@
     0,
     0,
     0,
-    0,
     -0.38,
     0,
-    0.36
+    0.36,
+    0.52
   ],
   "medias": [
     0.68,
@@ -65,25 +65,12 @@
     0.68,
     0.68,
     0.68,
-    0.68,
     0.55,
     0.55,
-    0.59
+    0.59,
+    0.81
   ],
   "partidas": [
-    {
-      "rodada_id": 14,
-      "clube_casa": "Chapecoense",
-      "clube_casa_id": 315,
-      "clube_visitante": "Santos",
-      "clube_casa_abrev": "CHA",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2015/08/03/Escudo-Chape-165.png",
-      "clube_visitante_id": 277,
-      "clube_visitante_abrev": "SAN",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/santos_60x60.png",
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 15,
       "clube_casa": "Grêmio",
@@ -213,14 +200,27 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2017/11/23/Atletico-Mineiro-escudo65px.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 25,
+      "clube_casa": "Internacional",
+      "clube_casa_id": 285,
+      "clube_visitante": "Chapecoense",
+      "clube_casa_abrev": "INT",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/03/inter65.png",
+      "clube_visitante_id": 315,
+      "clube_visitante_abrev": "CHA",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2015/08/03/Escudo-Chape-165.png",
+      "placar_oficial_mandante": 5,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2021/03/23/7d2a030bbbc6b21eef837c4b2c3ad60f_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2015/08/03/Escudo-Chape-165.png",
   "scouts": {
-    "rodada_id": 24,
+    "rodada_id": 25,
     "g": 0,
-    "a": 0,
+    "a": 1,
     "sg": 0,
     "fs": 10,
     "ff": 3,
@@ -233,17 +233,17 @@
     "ca": 3,
     "pp": 0,
     "gs": 0,
-    "fc": 16,
+    "fc": 17,
     "i": 0,
     "ds": 19,
-    "pi": 91,
+    "pi": 95,
     "pc": 0,
     "ps": 0,
-    "pontos_num": 1.2,
-    "preco_num": 2.46,
-    "variacao_num": 0.36,
-    "media_num": 0.59,
-    "jogos_num": 15,
+    "pontos_num": 4.1,
+    "preco_num": 2.98,
+    "variacao_num": 0.52,
+    "media_num": 0.81,
+    "jogos_num": 16,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }

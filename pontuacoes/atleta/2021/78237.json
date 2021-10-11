@@ -6,7 +6,6 @@
   "clube_id": 286,
   "posicao": "Zagueiro",
   "rodadas": [
-    14,
     15,
     16,
     17,
@@ -16,10 +15,10 @@
     21,
     22,
     23,
-    24
+    24,
+    25
   ],
   "pontos": [
-    0,
     0.8,
     0,
     1.2,
@@ -29,10 +28,10 @@
     0,
     6,
     0,
+    0,
     0
   ],
   "precos": [
-    3.94,
     3.08,
     3.08,
     3.15,
@@ -42,10 +41,10 @@
     2.93,
     3.91,
     3.01,
+    3.01,
     3.01
   ],
   "variacoes": [
-    0,
     -0.86,
     0,
     0.07,
@@ -55,10 +54,10 @@
     0,
     0.98,
     -0.9,
+    0,
     0
   ],
   "medias": [
-    3.52,
     3.07,
     3.07,
     2.8,
@@ -68,22 +67,10 @@
     2.45,
     2.84,
     2.56,
+    2.56,
     2.56
   ],
   "partidas": [
-    {
-      "rodada_id": 14,
-      "clube_casa": "Fluminense",
-      "clube_casa_id": 266,
-      "clube_visitante": "Juventude",
-      "clube_casa_abrev": "FLU",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/fluminense_60x60.png",
-      "clube_visitante_id": 286,
-      "clube_visitante_abrev": "JUV",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/08/juventude65.png",
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 15,
       "clube_casa": "Juventude",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/08/juventude65.png",
       "placar_oficial_mandante": 3,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 25,
+      "clube_casa": "Juventude",
+      "clube_casa_id": 286,
+      "clube_visitante": "América-MG",
+      "clube_casa_abrev": "JUV",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/08/juventude65.png",
+      "clube_visitante_id": 327,
+      "clube_visitante_abrev": "AME",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/28/escudo65_1.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2021/06/07/a55552ea231b54ee8f01fe8d1f5d199c_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/08/juventude65.png",
   "scouts": {
-    "rodada_id": 24,
+    "rodada_id": 25,
     "g": 0,
     "a": 0,
     "sg": 4,

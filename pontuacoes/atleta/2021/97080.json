@@ -6,7 +6,6 @@
   "clube_id": 354,
   "posicao": "Atacante",
   "rodadas": [
-    14,
     15,
     16,
     17,
@@ -16,7 +15,8 @@
     21,
     22,
     23,
-    24
+    24,
+    25
   ],
   "pontos": [
     0,
@@ -24,9 +24,9 @@
     0,
     0,
     0,
-    0,
     0.8,
     -0.1,
+    0,
     0,
     0,
     0
@@ -37,8 +37,8 @@
     1.11,
     1.11,
     1.11,
-    1.11,
     1.13,
+    0.99,
     0.99,
     0.99,
     0.99,
@@ -50,9 +50,9 @@
     0,
     0,
     0,
-    0,
     0.02,
     -0.14,
+    0,
     0,
     0,
     0
@@ -63,27 +63,14 @@
     -0.38,
     -0.38,
     -0.38,
-    -0.38,
     -0.18,
+    -0.17,
     -0.17,
     -0.17,
     -0.17,
     -0.17
   ],
   "partidas": [
-    {
-      "rodada_id": 14,
-      "clube_casa": "Ceará",
-      "clube_casa_id": 354,
-      "clube_visitante": "Fortaleza",
-      "clube_casa_abrev": "CEA",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/10/10/ceara-65x65.png",
-      "clube_visitante_id": 356,
-      "clube_visitante_abrev": "FOR",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/06/10/fortaleza-ec-65px.png",
-      "placar_oficial_mandante": 3,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 15,
       "clube_casa": "Ceará",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/03/inter65.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 25,
+      "clube_casa": "Atlético-MG",
+      "clube_casa_id": 282,
+      "clube_visitante": "Ceará",
+      "clube_casa_abrev": "ATL",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2017/11/23/Atletico-Mineiro-escudo65px.png",
+      "clube_visitante_id": 354,
+      "clube_visitante_abrev": "CEA",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/10/10/ceara-65x65.png",
+      "placar_oficial_mandante": 3,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2021/03/11/1fdc76b6718e0047cc575c51cd3e182c_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2019/10/10/ceara-65x65.png",
   "scouts": {
-    "rodada_id": 24,
+    "rodada_id": 25,
     "g": 0,
     "a": 0,
     "sg": 0,

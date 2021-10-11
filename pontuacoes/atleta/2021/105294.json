@@ -6,7 +6,6 @@
   "clube_id": 265,
   "posicao": "Meia",
   "rodadas": [
-    14,
     15,
     16,
     17,
@@ -16,10 +15,10 @@
     21,
     22,
     23,
-    24
+    24,
+    25
   ],
   "pontos": [
-    0.4,
     0,
     0.9,
     -1.4,
@@ -29,10 +28,10 @@
     0,
     2.8,
     0,
-    0
+    0,
+    5.2
   ],
   "precos": [
-    2.91,
     2.91,
     2.99,
     2.56,
@@ -42,10 +41,10 @@
     2.57,
     3,
     3,
-    3
+    3,
+    3.46
   ],
   "variacoes": [
-    -0.29,
     0,
     0.08,
     -0.43,
@@ -55,10 +54,10 @@
     0,
     0.43,
     0,
-    0
+    0,
+    0.46
   ],
   "medias": [
-    1.42,
     1.42,
     1.39,
     1.22,
@@ -68,22 +67,10 @@
     0.84,
     0.94,
     0.94,
-    0.94
+    0.94,
+    1.14
   ],
   "partidas": [
-    {
-      "rodada_id": 14,
-      "clube_casa": "Bahia",
-      "clube_casa_id": 265,
-      "clube_visitante": "Sport",
-      "clube_casa_abrev": "BAH",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/bahia_60x60.png",
-      "clube_visitante_id": 292,
-      "clube_visitante_abrev": "SPO",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2015/07/21/sport65.png",
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 15,
       "clube_casa": "Cuiabá",
@@ -213,16 +200,29 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/bahia_60x60.png",
       "placar_oficial_mandante": 3,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 25,
+      "clube_casa": "Athlético-PR",
+      "clube_casa_id": 293,
+      "clube_visitante": "Bahia",
+      "clube_casa_abrev": "ATL",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/09/Athletico-PR-65x65.png",
+      "clube_visitante_id": 265,
+      "clube_visitante_abrev": "BAH",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/bahia_60x60.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2021/04/19/cd737282edb3b18c80bd18034b6d5b30_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/bahia_60x60.png",
   "scouts": {
-    "rodada_id": 24,
+    "rodada_id": 25,
     "g": 1,
     "a": 0,
     "sg": 0,
-    "fs": 9,
+    "fs": 10,
     "ff": 3,
     "fd": 5,
     "ft": 0,
@@ -235,15 +235,15 @@
     "gs": 0,
     "fc": 29,
     "i": 0,
-    "ds": 31,
-    "pi": 86,
+    "ds": 36,
+    "pi": 89,
     "pc": 0,
     "ps": 0,
-    "pontos_num": 0,
-    "preco_num": 3,
-    "variacao_num": 0,
-    "media_num": 0.94,
-    "jogos_num": 20,
+    "pontos_num": 5.2,
+    "preco_num": 3.46,
+    "variacao_num": 0.46,
+    "media_num": 1.14,
+    "jogos_num": 21,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }

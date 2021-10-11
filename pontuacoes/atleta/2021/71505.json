@@ -6,7 +6,6 @@
   "clube_id": 1371,
   "posicao": "Atacante",
   "rodadas": [
-    14,
     15,
     16,
     17,
@@ -16,10 +15,10 @@
     21,
     22,
     23,
-    24
+    24,
+    25
   ],
   "pontos": [
-    2.1,
     -0.5,
     0.4,
     1.4,
@@ -29,10 +28,10 @@
     0,
     -0.2,
     1.7,
-    3.4
+    3.4,
+    0
   ],
   "precos": [
-    2.62,
     2.2,
     2.34,
     2.53,
@@ -42,10 +41,10 @@
     3.37,
     2.28,
     2.62,
+    2.95,
     2.95
   ],
   "variacoes": [
-    0.43,
     -0.42,
     0.14,
     0.19,
@@ -55,10 +54,10 @@
     0,
     -1.09,
     0.34,
-    0.33
+    0.33,
+    0
   ],
   "medias": [
-    4.45,
     3.74,
     3.32,
     3.11,
@@ -68,22 +67,10 @@
     2.55,
     2.34,
     2.29,
+    2.36,
     2.36
   ],
   "partidas": [
-    {
-      "rodada_id": 14,
-      "clube_casa": "Internacional",
-      "clube_casa_id": 285,
-      "clube_visitante": "Cuiabá",
-      "clube_casa_abrev": "INT",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/03/inter65.png",
-      "clube_visitante_id": 1371,
-      "clube_visitante_abrev": "CUI",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/16/cuiaba65.png",
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 15,
       "clube_casa": "Cuiabá",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/16/cuiaba65.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 25,
+      "clube_casa": "Cuiabá",
+      "clube_casa_id": 1371,
+      "clube_visitante": "São Paulo",
+      "clube_casa_abrev": "CUI",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/16/cuiaba65.png",
+      "clube_visitante_id": 276,
+      "clube_visitante_abrev": "SAO",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/sao_paulo_60x60.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2021/05/28/0eaae5ac511788783605a00b9e02768b_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/16/cuiaba65.png",
   "scouts": {
-    "rodada_id": 24,
+    "rodada_id": 25,
     "g": 4,
     "a": 1,
     "sg": 0,
@@ -239,9 +239,9 @@
     "pi": 78,
     "pc": 0,
     "ps": 0,
-    "pontos_num": 3.4,
+    "pontos_num": 0,
     "preco_num": 2.95,
-    "variacao_num": 0.33,
+    "variacao_num": 0,
     "media_num": 2.36,
     "jogos_num": 15,
     "posicao_abrev": "ata",
