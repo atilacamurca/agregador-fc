@@ -6,7 +6,6 @@
   "clube_id": 285,
   "posicao": "Zagueiro",
   "rodadas": [
-    15,
     16,
     17,
     18,
@@ -16,7 +15,8 @@
     22,
     23,
     24,
-    25
+    25,
+    26
   ],
   "pontos": [
     0,
@@ -71,19 +71,6 @@
     0
   ],
   "partidas": [
-    {
-      "rodada_id": 15,
-      "clube_casa": "Flamengo",
-      "clube_casa_id": 262,
-      "clube_visitante": "Internacional",
-      "clube_casa_abrev": "FLA",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/04/09/Flamengo-65.png",
-      "clube_visitante_id": 285,
-      "clube_visitante_abrev": "INT",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/03/inter65.png",
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 4
-    },
     {
       "rodada_id": 16,
       "clube_casa": "Internacional",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2015/08/03/Escudo-Chape-165.png",
       "placar_oficial_mandante": 5,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 26,
+      "clube_casa": "Internacional",
+      "clube_casa_id": 285,
+      "clube_visitante": "América-MG",
+      "clube_casa_abrev": "INT",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/03/inter65.png",
+      "clube_visitante_id": 327,
+      "clube_visitante_abrev": "AME",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/28/escudo65_1.png",
+      "placar_oficial_mandante": 3,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2021/04/26/565073185ba1c687ba456f8ca5ca9edc_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/03/inter65.png",
   "scouts": {
-    "rodada_id": 25,
+    "rodada_id": 26,
     "g": 0,
     "a": 0,
     "sg": 0,
