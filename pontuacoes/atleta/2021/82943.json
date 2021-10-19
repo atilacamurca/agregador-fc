@@ -6,7 +6,6 @@
   "clube_id": 315,
   "posicao": "Lateral",
   "rodadas": [
-    16,
     17,
     18,
     19,
@@ -16,10 +15,10 @@
     23,
     24,
     25,
-    26
+    26,
+    27
   ],
   "pontos": [
-    5.2,
     0.2,
     7,
     -0.3,
@@ -29,10 +28,10 @@
     1.8,
     0.6,
     3.2,
-    6.1
+    6.1,
+    0.9
   ],
   "precos": [
-    5.36,
     4.59,
     5.81,
     4.6,
@@ -42,10 +41,10 @@
     5.11,
     4.89,
     5.3,
-    5.94
+    5.94,
+    5.09
   ],
   "variacoes": [
-    0.87,
     -0.77,
     1.22,
     -1.21,
@@ -55,10 +54,10 @@
     -0.29,
     -0.22,
     0.41,
-    0.64
+    0.64,
+    -0.85
   ],
   "medias": [
-    2.2,
     2.08,
     2.35,
     2.21,
@@ -68,22 +67,10 @@
     2.18,
     2.11,
     2.15,
-    2.3
+    2.3,
+    2.25
   ],
   "partidas": [
-    {
-      "rodada_id": 16,
-      "clube_casa": "Chapecoense",
-      "clube_casa_id": 315,
-      "clube_visitante": "América-MG",
-      "clube_casa_abrev": "CHA",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2015/08/03/Escudo-Chape-165.png",
-      "clube_visitante_id": 327,
-      "clube_visitante_abrev": "AME",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/28/escudo65_1.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 17,
       "clube_casa": "Atlético-GO",
@@ -213,17 +200,30 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/09/Athletico-PR-65x65.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 27,
+      "clube_casa": "Chapecoense",
+      "clube_casa_id": 315,
+      "clube_visitante": "Fortaleza",
+      "clube_casa_abrev": "CHA",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2015/08/03/Escudo-Chape-165.png",
+      "clube_visitante_id": 356,
+      "clube_visitante_abrev": "FOR",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/06/10/fortaleza-ec-65px.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2021/03/23/8b21833f19a055532803a0be7066b652_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2015/08/03/Escudo-Chape-165.png",
   "scouts": {
-    "rodada_id": 26,
+    "rodada_id": 27,
     "g": 1,
     "a": 0,
     "sg": 2,
     "fs": 12,
-    "ff": 10,
+    "ff": 11,
     "fd": 5,
     "ft": 0,
     "de": 0,
@@ -235,15 +235,15 @@
     "gs": 0,
     "fc": 25,
     "i": 1,
-    "ds": 67,
-    "pi": 296,
+    "ds": 68,
+    "pi": 305,
     "pc": 0,
     "ps": 0,
-    "pontos_num": 6.1,
-    "preco_num": 5.94,
-    "variacao_num": 0.64,
-    "media_num": 2.3,
-    "jogos_num": 26,
+    "pontos_num": 0.9,
+    "preco_num": 5.09,
+    "variacao_num": -0.85,
+    "media_num": 2.25,
+    "jogos_num": 27,
     "posicao_abrev": "lat",
     "posicao": "Lateral"
   }

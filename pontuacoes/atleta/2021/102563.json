@@ -6,7 +6,6 @@
   "clube_id": 315,
   "posicao": "Atacante",
   "rodadas": [
-    16,
     17,
     18,
     19,
@@ -16,7 +15,8 @@
     23,
     24,
     25,
-    26
+    26,
+    27
   ],
   "pontos": [
     0,
@@ -27,9 +27,9 @@
     0,
     0,
     0,
-    0,
     -0.5,
-    0
+    0,
+    0.5
   ],
   "precos": [
     3.81,
@@ -40,9 +40,9 @@
     3.81,
     3.81,
     3.81,
-    3.81,
     3.38,
-    3.47
+    3.47,
+    3.5
   ],
   "variacoes": [
     0,
@@ -53,9 +53,9 @@
     0,
     0,
     0,
-    0,
     -0.43,
-    0.09
+    0.09,
+    0.03
   ],
   "medias": [
     3.94,
@@ -66,24 +66,11 @@
     3.94,
     3.94,
     3.94,
-    3.94,
     3.39,
-    3.01
+    3.01,
+    2.76
   ],
   "partidas": [
-    {
-      "rodada_id": 16,
-      "clube_casa": "Chapecoense",
-      "clube_casa_id": 315,
-      "clube_visitante": "América-MG",
-      "clube_casa_abrev": "CHA",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2015/08/03/Escudo-Chape-165.png",
-      "clube_visitante_id": 327,
-      "clube_visitante_abrev": "AME",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/28/escudo65_1.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 17,
       "clube_casa": "Atlético-GO",
@@ -213,16 +200,29 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/09/Athletico-PR-65x65.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 27,
+      "clube_casa": "Chapecoense",
+      "clube_casa_id": 315,
+      "clube_visitante": "Fortaleza",
+      "clube_casa_abrev": "CHA",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2015/08/03/Escudo-Chape-165.png",
+      "clube_visitante_id": 356,
+      "clube_visitante_abrev": "FOR",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/06/10/fortaleza-ec-65px.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2021/03/23/e59d424b92a8511bff047f2ebf616964_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2015/08/03/Escudo-Chape-165.png",
   "scouts": {
-    "rodada_id": 26,
+    "rodada_id": 27,
     "g": 1,
     "a": 1,
     "sg": 0,
-    "fs": 8,
+    "fs": 9,
     "ff": 2,
     "fd": 3,
     "ft": 0,
@@ -239,11 +239,11 @@
     "pi": 21,
     "pc": 0,
     "ps": 0,
-    "pontos_num": 0,
-    "preco_num": 3.47,
-    "variacao_num": 0.09,
-    "media_num": 3.01,
-    "jogos_num": 9,
+    "pontos_num": 0.5,
+    "preco_num": 3.5,
+    "variacao_num": 0.03,
+    "media_num": 2.76,
+    "jogos_num": 10,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }
