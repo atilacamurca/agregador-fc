@@ -6,7 +6,6 @@
   "clube_id": 327,
   "posicao": "Lateral",
   "rodadas": [
-    17,
     18,
     19,
     20,
@@ -16,15 +15,16 @@
     24,
     25,
     26,
-    27
+    27,
+    28
   ],
   "pontos": [
     0,
     0,
     0,
-    0,
     1.7,
     0.5,
+    0,
     0,
     0,
     0,
@@ -35,10 +35,10 @@
     2.65,
     2.65,
     2.65,
-    2.65,
     3.17,
     2.96,
     2.96,
+    2.85,
     2.85,
     2.85,
     2.85,
@@ -48,17 +48,16 @@
     0,
     0,
     0,
-    0,
     0.52,
     -0.21,
     0,
     -0.11,
     0,
     0,
+    0,
     0
   ],
   "medias": [
-    1.54,
     1.54,
     1.54,
     1.54,
@@ -68,22 +67,10 @@
     1.39,
     1.39,
     1.39,
+    1.39,
     1.39
   ],
   "partidas": [
-    {
-      "rodada_id": 17,
-      "clube_casa": "América-MG",
-      "clube_casa_id": 327,
-      "clube_visitante": "Bragantino",
-      "clube_casa_abrev": "AME",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/28/escudo65_1.png",
-      "clube_visitante_id": 280,
-      "clube_visitante_abrev": "BRA",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2020/01/01/65.png",
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 2
-    },
     {
       "rodada_id": 18,
       "clube_casa": "América-MG",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/bahia_60x60.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 28,
+      "clube_casa": "Santos",
+      "clube_casa_id": 277,
+      "clube_visitante": "América-MG",
+      "clube_casa_abrev": "SAN",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/santos_60x60.png",
+      "clube_visitante_id": 327,
+      "clube_visitante_abrev": "AME",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/28/escudo65_1.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2021/06/04/b1a9bf96a9a0bd03a16ca150462a0e1a_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/28/escudo65_1.png",
   "scouts": {
-    "rodada_id": 27,
+    "rodada_id": 28,
     "g": 0,
     "a": 0,
     "sg": 1,

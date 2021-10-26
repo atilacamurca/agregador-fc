@@ -6,7 +6,6 @@
   "clube_id": 286,
   "posicao": "Atacante",
   "rodadas": [
-    17,
     18,
     19,
     20,
@@ -16,10 +15,10 @@
     24,
     25,
     26,
-    27
+    27,
+    28
   ],
   "pontos": [
-    0,
     0.5,
     0,
     -0.1,
@@ -29,10 +28,10 @@
     -0.8,
     0,
     0,
-    5.9
+    5.9,
+    -0.6
   ],
   "precos": [
-    3.85,
     3.82,
     3.82,
     3.66,
@@ -42,10 +41,10 @@
     3.39,
     3.39,
     3.39,
-    4.46
+    4.46,
+    3.41
   ],
   "variacoes": [
-    0,
     -0.03,
     0,
     -0.16,
@@ -55,10 +54,10 @@
     -0.22,
     0,
     0,
-    1.07
+    1.07,
+    -1.05
   ],
   "medias": [
-    0,
     0.25,
     0.25,
     0.13,
@@ -68,22 +67,10 @@
     -0.05,
     -0.05,
     -0.05,
-    0.8
+    0.8,
+    0.63
   ],
   "partidas": [
-    {
-      "rodada_id": 17,
-      "clube_casa": "Juventude",
-      "clube_casa_id": 286,
-      "clube_visitante": "Fortaleza",
-      "clube_casa_abrev": "JUV",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/08/juventude65.png",
-      "clube_visitante_id": 356,
-      "clube_visitante_abrev": "FOR",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/06/10/fortaleza-ec-65px.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 18,
       "clube_casa": "Juventude",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/08/juventude65.png",
       "placar_oficial_mandante": 3,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 28,
+      "clube_casa": "Juventude",
+      "clube_casa_id": 286,
+      "clube_visitante": "Ceará",
+      "clube_casa_abrev": "JUV",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/08/juventude65.png",
+      "clube_visitante_id": 354,
+      "clube_visitante_abrev": "CEA",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/10/10/ceara-65x65.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2021/06/01/f2c3d4eff86a3b9276a39fff5b1f0368_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/08/juventude65.png",
   "scouts": {
-    "rodada_id": 27,
+    "rodada_id": 28,
     "g": 1,
     "a": 0,
     "sg": 0,
@@ -233,17 +233,17 @@
     "ca": 1,
     "pp": 0,
     "gs": 0,
-    "fc": 4,
+    "fc": 6,
     "i": 1,
-    "ds": 0,
-    "pi": 11,
+    "ds": 1,
+    "pi": 17,
     "pc": 0,
     "ps": 0,
-    "pontos_num": 5.9,
-    "preco_num": 4.46,
-    "variacao_num": 1.07,
-    "media_num": 0.8,
-    "jogos_num": 7,
+    "pontos_num": -0.6,
+    "preco_num": 3.41,
+    "variacao_num": -1.05,
+    "media_num": 0.63,
+    "jogos_num": 8,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }

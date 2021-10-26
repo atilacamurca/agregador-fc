@@ -6,7 +6,6 @@
   "clube_id": 276,
   "posicao": "Goleiro",
   "rodadas": [
-    17,
     18,
     19,
     20,
@@ -16,10 +15,10 @@
     24,
     25,
     26,
-    27
+    27,
+    28
   ],
   "pontos": [
-    9,
     1,
     0,
     1,
@@ -29,10 +28,10 @@
     1,
     0,
     6,
-    7
+    7,
+    3
   ],
   "precos": [
-    16.72,
     15.32,
     15.32,
     15.09,
@@ -42,10 +41,10 @@
     14.92,
     14.92,
     15.69,
-    15.79
+    15.79,
+    15.04
   ],
   "variacoes": [
-    1.43,
     -1.4,
     0,
     -0.23,
@@ -55,10 +54,10 @@
     0.01,
     0,
     0.77,
-    0.1
+    0.1,
+    -0.75
   ],
   "medias": [
-    4.03,
     3.86,
     3.86,
     3.71,
@@ -68,22 +67,10 @@
     3.58,
     3.58,
     3.68,
-    3.81
+    3.81,
+    3.78
   ],
   "partidas": [
-    {
-      "rodada_id": 17,
-      "clube_casa": "Sport",
-      "clube_casa_id": 292,
-      "clube_visitante": "São Paulo",
-      "clube_casa_abrev": "SPO",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2015/07/21/sport65.png",
-      "clube_visitante_id": 276,
-      "clube_visitante_abrev": "SAO",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/sao_paulo_60x60.png",
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 18,
       "clube_casa": "Juventude",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/30/Corinthians_65.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 28,
+      "clube_casa": "Bragantino",
+      "clube_casa_id": 280,
+      "clube_visitante": "São Paulo",
+      "clube_casa_abrev": "BRA",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2020/01/01/65.png",
+      "clube_visitante_id": 276,
+      "clube_visitante_abrev": "SAO",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/sao_paulo_60x60.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2021/05/01/8494cb754a172f12970b212b1bce9535_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/sao_paulo_60x60.png",
   "scouts": {
-    "rodada_id": 27,
+    "rodada_id": 28,
     "g": 0,
     "a": 0,
     "sg": 8,
@@ -226,24 +226,24 @@
     "ff": 0,
     "fd": 0,
     "ft": 0,
-    "de": 74,
+    "de": 78,
     "dp": 1,
     "gc": 0,
     "cv": 0,
     "ca": 1,
     "pp": 0,
-    "gs": 26,
+    "gs": 27,
     "fc": 1,
     "i": 0,
     "ds": 1,
     "pi": 0,
     "pc": 0,
     "ps": 0,
-    "pontos_num": 7,
-    "preco_num": 15.79,
-    "variacao_num": 0.1,
-    "media_num": 3.81,
-    "jogos_num": 25,
+    "pontos_num": 3,
+    "preco_num": 15.04,
+    "variacao_num": -0.75,
+    "media_num": 3.78,
+    "jogos_num": 26,
     "posicao_abrev": "gol",
     "posicao": "Goleiro"
   }
