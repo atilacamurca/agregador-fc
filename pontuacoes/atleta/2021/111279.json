@@ -6,7 +6,6 @@
   "clube_id": 315,
   "posicao": "Lateral",
   "rodadas": [
-    18,
     19,
     20,
     21,
@@ -16,10 +15,10 @@
     25,
     26,
     27,
-    28
+    28,
+    29
   ],
   "pontos": [
-    0,
     0,
     0,
     0,
@@ -29,6 +28,7 @@
     -0.2,
     0.3,
     0.9,
+    0,
     0
   ],
   "precos": [
@@ -38,9 +38,9 @@
     0.99,
     0.99,
     0.99,
-    0.99,
     0.77,
     0.82,
+    0.92,
     0.92,
     0.92
   ],
@@ -51,10 +51,10 @@
     0,
     0,
     0,
-    0,
     -0.22,
     0.05,
     0.1,
+    0,
     0
   ],
   "medias": [
@@ -64,26 +64,13 @@
     0.37,
     0.37,
     0.37,
-    0.37,
     0.23,
     0.24,
+    0.35,
     0.35,
     0.35
   ],
   "partidas": [
-    {
-      "rodada_id": 18,
-      "clube_casa": "Sport",
-      "clube_casa_id": 292,
-      "clube_visitante": "Chapecoense",
-      "clube_casa_abrev": "SPO",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2015/07/21/sport65.png",
-      "clube_visitante_id": 315,
-      "clube_visitante_abrev": "CHA",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2015/08/03/Escudo-Chape-165.png",
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 19,
       "clube_casa": "Chapecoense",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2015/08/03/Escudo-Chape-165.png",
       "placar_oficial_mandante": 3,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 29,
+      "clube_casa": "Corinthians",
+      "clube_casa_id": 264,
+      "clube_visitante": "Chapecoense",
+      "clube_casa_abrev": "COR",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/30/Corinthians_65.png",
+      "clube_visitante_id": 315,
+      "clube_visitante_abrev": "CHA",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2015/08/03/Escudo-Chape-165.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2021/03/23/957cce3bfe2e575bb7442f138733b05e_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2015/08/03/Escudo-Chape-165.png",
   "scouts": {
-    "rodada_id": 28,
+    "rodada_id": 29,
     "g": 0,
     "a": 0,
     "sg": 0,

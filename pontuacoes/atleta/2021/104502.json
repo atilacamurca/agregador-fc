@@ -6,7 +6,6 @@
   "clube_id": 293,
   "posicao": "Meia",
   "rodadas": [
-    18,
     19,
     20,
     21,
@@ -16,10 +15,10 @@
     25,
     26,
     27,
-    28
+    28,
+    29
   ],
   "pontos": [
-    0.1,
     3,
     0.7,
     2.1,
@@ -29,10 +28,10 @@
     -0.7,
     7.9,
     1.7,
-    -1.5
+    -1.5,
+    3.6
   ],
   "precos": [
-    7.03,
     7.38,
     7.12,
     7.36,
@@ -42,10 +41,10 @@
     6.61,
     8.18,
     7.16,
-    6.54
+    6.54,
+    7.33
   ],
   "variacoes": [
-    -0.78,
     0.35,
     -0.26,
     0.24,
@@ -55,10 +54,10 @@
     -0.42,
     1.57,
     -1.02,
-    -0.62
+    -0.62,
+    0.79
   ],
   "medias": [
-    1.77,
     1.85,
     1.78,
     1.8,
@@ -68,22 +67,10 @@
     1.53,
     1.83,
     1.82,
-    1.68
+    1.68,
+    1.76
   ],
   "partidas": [
-    {
-      "rodada_id": 18,
-      "clube_casa": "Palmeiras",
-      "clube_casa_id": 275,
-      "clube_visitante": "Athlético-PR",
-      "clube_casa_abrev": "PAL",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
-      "clube_visitante_id": 293,
-      "clube_visitante_abrev": "ATL",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/09/Athletico-PR-65x65.png",
-      "placar_oficial_mandante": 2,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 19,
       "clube_casa": "Athlético-PR",
@@ -213,18 +200,31 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/09/Athletico-PR-65x65.png",
       "placar_oficial_mandante": 3,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 29,
+      "clube_casa": "Athlético-PR",
+      "clube_casa_id": 293,
+      "clube_visitante": "Santos",
+      "clube_casa_abrev": "ATL",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/09/Athletico-PR-65x65.png",
+      "clube_visitante_id": 277,
+      "clube_visitante_abrev": "SAN",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/santos_60x60.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2021/05/02/6a1bc3f98b5ff453ba48dffaa44386ab_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/09/Athletico-PR-65x65.png",
   "scouts": {
-    "rodada_id": 28,
+    "rodada_id": 29,
     "g": 2,
     "a": 0,
     "sg": 0,
-    "fs": 27,
-    "ff": 7,
-    "fd": 3,
+    "fs": 29,
+    "ff": 8,
+    "fd": 4,
     "ft": 3,
     "de": 0,
     "dp": 0,
@@ -233,17 +233,17 @@
     "ca": 4,
     "pp": 0,
     "gs": 0,
-    "fc": 42,
+    "fc": 43,
     "i": 2,
-    "ds": 29,
-    "pi": 80,
+    "ds": 31,
+    "pi": 89,
     "pc": 0,
     "ps": 0,
-    "pontos_num": -1.5,
-    "preco_num": 6.54,
-    "variacao_num": -0.62,
-    "media_num": 1.68,
-    "jogos_num": 23,
+    "pontos_num": 3.6,
+    "preco_num": 7.33,
+    "variacao_num": 0.79,
+    "media_num": 1.76,
+    "jogos_num": 24,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }
