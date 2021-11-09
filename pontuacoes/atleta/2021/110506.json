@@ -6,7 +6,6 @@
   "clube_id": 275,
   "posicao": "Técnico",
   "rodadas": [
-    19,
     20,
     21,
     22,
@@ -16,10 +15,10 @@
     26,
     27,
     28,
-    29
+    29,
+    30
   ],
   "pontos": [
-    0,
     2.14,
     6.5,
     2.39,
@@ -29,10 +28,10 @@
     3.99,
     6.08,
     5.76,
-    5.42
+    5.42,
+    6.42
   ],
   "precos": [
-    12,
     11.61,
     12.42,
     11.68,
@@ -42,10 +41,10 @@
     12.05,
     12.34,
     12.28,
-    12.25
+    12.25,
+    12.53
   ],
   "variacoes": [
-    0,
     -0.39,
     0.81,
     -0.74,
@@ -55,10 +54,10 @@
     0.19,
     0.29,
     -0.06,
-    -0.03
+    -0.03,
+    0.28
   ],
   "medias": [
-    4.23,
     4.12,
     4.24,
     4.15,
@@ -68,22 +67,10 @@
     4.03,
     4.11,
     4.17,
-    4.21
+    4.21,
+    4.29
   ],
   "partidas": [
-    {
-      "rodada_id": 19,
-      "clube_casa": "Ceará",
-      "clube_casa_id": 354,
-      "clube_visitante": "Palmeiras",
-      "clube_casa_abrev": "CEA",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/10/10/ceara-65x65.png",
-      "clube_visitante_id": 275,
-      "clube_visitante_abrev": "PAL",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 20,
       "clube_casa": "Palmeiras",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 3
+    },
+    {
+      "rodada_id": 30,
+      "clube_casa": "Santos",
+      "clube_casa_id": 277,
+      "clube_visitante": "Palmeiras",
+      "clube_casa_abrev": "SAN",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/santos_60x60.png",
+      "clube_visitante_id": 275,
+      "clube_visitante_abrev": "PAL",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2021/04/27/574e87d52be9d06fd03fa69fefb60255_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
   "scouts": {
-    "rodada_id": 29,
+    "rodada_id": 30,
     "g": 0,
     "a": 0,
     "sg": 0,
@@ -239,11 +239,11 @@
     "pi": 0,
     "pc": 0,
     "ps": 0,
-    "pontos_num": 5.42,
-    "preco_num": 12.25,
-    "variacao_num": -0.03,
-    "media_num": 4.21,
-    "jogos_num": 28,
+    "pontos_num": 6.42,
+    "preco_num": 12.53,
+    "variacao_num": 0.28,
+    "media_num": 4.29,
+    "jogos_num": 29,
     "posicao_abrev": "tec",
     "posicao": "Técnico"
   }

@@ -6,7 +6,6 @@
   "clube_id": 284,
   "posicao": "Zagueiro",
   "rodadas": [
-    19,
     20,
     21,
     22,
@@ -16,10 +15,10 @@
     26,
     27,
     28,
-    29
+    29,
+    30
   ],
   "pontos": [
-    0,
     0,
     0,
     0,
@@ -29,10 +28,10 @@
     -3.3,
     -1,
     -0.1,
-    -4.5
+    -4.5,
+    4
   ],
   "precos": [
-    8.34,
     8.34,
     8.34,
     8.34,
@@ -42,10 +41,10 @@
     6.63,
     6.84,
     6.87,
-    6.02
+    6.02,
+    7.38
   ],
   "variacoes": [
-    0,
     0,
     0,
     0,
@@ -55,10 +54,10 @@
     -0.27,
     0.21,
     0.03,
-    -0.85
+    -0.85,
+    1.36
   ],
   "medias": [
-    3.24,
     3.24,
     3.24,
     3.24,
@@ -68,22 +67,10 @@
     2.31,
     2.03,
     1.87,
-    1.42
+    1.42,
+    1.59
   ],
   "partidas": [
-    {
-      "rodada_id": 19,
-      "clube_casa": "Atlético-MG",
-      "clube_casa_id": 282,
-      "clube_visitante": "Grêmio",
-      "clube_casa_abrev": "ATL",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2017/11/23/Atletico-Mineiro-escudo65px.png",
-      "clube_visitante_id": 284,
-      "clube_visitante_abrev": "GRE",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/gremio_60x60.png",
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 20,
       "clube_casa": "Grêmio",
@@ -213,16 +200,29 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 3
+    },
+    {
+      "rodada_id": 30,
+      "clube_casa": "Internacional",
+      "clube_casa_id": 285,
+      "clube_visitante": "Grêmio",
+      "clube_casa_abrev": "INT",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/03/inter65.png",
+      "clube_visitante_id": 284,
+      "clube_visitante_abrev": "GRE",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/gremio_60x60.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2021/04/29/aab069ddcc3f87f133a2d6ea07c4edd4_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/gremio_60x60.png",
   "scouts": {
-    "rodada_id": 29,
+    "rodada_id": 30,
     "g": 0,
     "a": 0,
     "sg": 3,
-    "fs": 12,
+    "fs": 15,
     "ff": 3,
     "fd": 1,
     "ft": 0,
@@ -235,15 +235,15 @@
     "gs": 0,
     "fc": 33,
     "i": 0,
-    "ds": 35,
-    "pi": 53,
+    "ds": 38,
+    "pi": 58,
     "pc": 1,
     "ps": 0,
-    "pontos_num": -4.5,
-    "preco_num": 6.02,
-    "variacao_num": -0.85,
-    "media_num": 1.42,
-    "jogos_num": 14,
+    "pontos_num": 4,
+    "preco_num": 7.38,
+    "variacao_num": 1.36,
+    "media_num": 1.59,
+    "jogos_num": 15,
     "posicao_abrev": "zag",
     "posicao": "Zagueiro"
   }
