@@ -6,7 +6,6 @@
   "clube_id": 280,
   "posicao": "Zagueiro",
   "rodadas": [
-    21,
     22,
     23,
     24,
@@ -16,10 +15,10 @@
     28,
     29,
     30,
-    31
+    31,
+    32
   ],
   "pontos": [
-    0,
     0,
     0.4,
     2.9,
@@ -29,10 +28,10 @@
     4.4,
     0,
     4.3,
-    -0.6
+    -0.6,
+    4.5
   ],
   "precos": [
-    11.11,
     11.11,
     10.59,
     10.94,
@@ -42,10 +41,10 @@
     10.97,
     10.97,
     10.95,
-    10.23
+    10.23,
+    10.98
   ],
   "variacoes": [
-    0,
     0,
     -0.52,
     0.35,
@@ -55,10 +54,10 @@
     1.01,
     0,
     -0.02,
-    -0.72
+    -0.72,
+    0.75
   ],
   "medias": [
-    3.35,
     3.35,
     3.19,
     3.17,
@@ -68,22 +67,10 @@
     3.01,
     3.01,
     3.06,
-    2.91
+    2.91,
+    2.97
   ],
   "partidas": [
-    {
-      "rodada_id": 21,
-      "clube_casa": "Bahia",
-      "clube_casa_id": 265,
-      "clube_visitante": "Bragantino",
-      "clube_casa_abrev": "BAH",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/bahia_60x60.png",
-      "clube_visitante_id": 280,
-      "clube_visitante_abrev": "BRA",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2020/01/01/65.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 22,
       "clube_casa": "Fluminense",
@@ -213,16 +200,29 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2020/01/01/65.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 32,
+      "clube_casa": "Bragantino",
+      "clube_casa_id": 280,
+      "clube_visitante": "Fortaleza",
+      "clube_casa_abrev": "BRA",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2020/01/01/65.png",
+      "clube_visitante_id": 356,
+      "clube_visitante_abrev": "FOR",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/06/10/fortaleza-ec-65px.png",
+      "placar_oficial_mandante": 3,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2020/08/07/30c87e07fe73b6315d5dd92b27e9ea12_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2020/01/01/65.png",
   "scouts": {
-    "rodada_id": 31,
+    "rodada_id": 32,
     "g": 0,
     "a": 1,
-    "sg": 7,
-    "fs": 24,
+    "sg": 8,
+    "fs": 25,
     "ff": 7,
     "fd": 3,
     "ft": 0,
@@ -233,17 +233,17 @@
     "ca": 2,
     "pp": 0,
     "gs": 0,
-    "fc": 14,
+    "fc": 15,
     "i": 0,
     "ds": 39,
-    "pi": 102,
+    "pi": 107,
     "pc": 1,
     "ps": 0,
-    "pontos_num": -0.6,
-    "preco_num": 10.23,
-    "variacao_num": -0.72,
-    "media_num": 2.91,
-    "jogos_num": 25,
+    "pontos_num": 4.5,
+    "preco_num": 10.98,
+    "variacao_num": 0.75,
+    "media_num": 2.97,
+    "jogos_num": 26,
     "posicao_abrev": "zag",
     "posicao": "Zagueiro"
   }

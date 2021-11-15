@@ -6,7 +6,6 @@
   "clube_id": 275,
   "posicao": "Atacante",
   "rodadas": [
-    21,
     22,
     23,
     24,
@@ -16,10 +15,10 @@
     28,
     29,
     30,
-    31
+    31,
+    32
   ],
   "pontos": [
-    1.5,
     0,
     2.8,
     6.1,
@@ -29,10 +28,10 @@
     5,
     2.9,
     14.8,
-    8.8
+    8.8,
+    0.7
   ],
   "precos": [
-    5.58,
     5.58,
     5.77,
     6.4,
@@ -42,10 +41,10 @@
     6.19,
     5.89,
     8.04,
-    7.38
+    7.38,
+    6.09
   ],
   "variacoes": [
-    0.27,
     0,
     0.19,
     0.63,
@@ -55,10 +54,10 @@
     0.43,
     -0.3,
     2.15,
-    -0.66
+    -0.66,
+    -1.29
   ],
   "medias": [
-    1,
     1,
     1.14,
     1.49,
@@ -68,22 +67,10 @@
     1.57,
     1.64,
     2.3,
-    2.61
+    2.61,
+    2.52
   ],
   "partidas": [
-    {
-      "rodada_id": 21,
-      "clube_casa": "Chapecoense",
-      "clube_casa_id": 315,
-      "clube_visitante": "Palmeiras",
-      "clube_casa_abrev": "CHA",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2015/08/03/Escudo-Chape-165.png",
-      "clube_visitante_id": 275,
-      "clube_visitante_abrev": "PAL",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 2
-    },
     {
       "rodada_id": 22,
       "clube_casa": "Corinthians",
@@ -213,18 +200,31 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2020/07/02/atletico-go-2020-65.png",
       "placar_oficial_mandante": 4,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 32,
+      "clube_casa": "Fluminense",
+      "clube_casa_id": 266,
+      "clube_visitante": "Palmeiras",
+      "clube_casa_abrev": "FLU",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/fluminense_60x60.png",
+      "clube_visitante_id": 275,
+      "clube_visitante_abrev": "PAL",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2021/04/30/49202510d5680ae1072f3ffc8ce082a5_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
   "scouts": {
-    "rodada_id": 31,
+    "rodada_id": 32,
     "g": 4,
     "a": 1,
     "sg": 0,
     "fs": 25,
-    "ff": 16,
-    "fd": 6,
+    "ff": 18,
+    "fd": 7,
     "ft": 0,
     "de": 0,
     "dp": 0,
@@ -233,17 +233,17 @@
     "ca": 2,
     "pp": 0,
     "gs": 0,
-    "fc": 22,
+    "fc": 26,
     "i": 18,
     "ds": 17,
-    "pi": 76,
+    "pi": 77,
     "pc": 0,
     "ps": 0,
-    "pontos_num": 8.8,
-    "preco_num": 7.38,
-    "variacao_num": -0.66,
-    "media_num": 2.61,
-    "jogos_num": 21,
+    "pontos_num": 0.7,
+    "preco_num": 6.09,
+    "variacao_num": -1.29,
+    "media_num": 2.52,
+    "jogos_num": 22,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }

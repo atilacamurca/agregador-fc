@@ -6,7 +6,6 @@
   "clube_id": 327,
   "posicao": "Meia",
   "rodadas": [
-    21,
     22,
     23,
     24,
@@ -16,7 +15,8 @@
     28,
     29,
     30,
-    31
+    31,
+    32
   ],
   "pontos": [
     0,
@@ -25,8 +25,8 @@
     0,
     0,
     0,
-    0,
     2.6,
+    0,
     0,
     0,
     0
@@ -38,7 +38,7 @@
     1.53,
     1.53,
     1.53,
-    1.53,
+    1.86,
     1.86,
     1.86,
     1.86,
@@ -51,8 +51,8 @@
     0,
     0,
     0,
-    0,
     0.33,
+    0,
     0,
     0,
     0
@@ -64,26 +64,13 @@
     0.88,
     0.88,
     0.88,
-    0.88,
+    1.05,
     1.05,
     1.05,
     1.05,
     1.05
   ],
   "partidas": [
-    {
-      "rodada_id": 21,
-      "clube_casa": "Corinthians",
-      "clube_casa_id": 264,
-      "clube_visitante": "América-MG",
-      "clube_casa_abrev": "COR",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/30/Corinthians_65.png",
-      "clube_visitante_id": 327,
-      "clube_visitante_abrev": "AME",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/28/escudo65_1.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 22,
       "clube_casa": "América-MG",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/28/escudo65_1.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 3
+    },
+    {
+      "rodada_id": 32,
+      "clube_casa": "América-MG",
+      "clube_casa_id": 327,
+      "clube_visitante": "Grêmio",
+      "clube_casa_abrev": "AME",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/28/escudo65_1.png",
+      "clube_visitante_id": 284,
+      "clube_visitante_abrev": "GRE",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/gremio_60x60.png",
+      "placar_oficial_mandante": 3,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2021/06/04/f0832ef61ce3bdfc162d5e28e35892a0_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/28/escudo65_1.png",
   "scouts": {
-    "rodada_id": 31,
+    "rodada_id": 32,
     "g": 1,
     "a": 0,
     "sg": 0,

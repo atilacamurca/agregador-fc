@@ -6,7 +6,6 @@
   "clube_id": 327,
   "posicao": "Zagueiro",
   "rodadas": [
-    21,
     22,
     23,
     24,
@@ -16,10 +15,10 @@
     28,
     29,
     30,
-    31
+    31,
+    32
   ],
   "pontos": [
-    3.5,
     8.7,
     10.1,
     2.8,
@@ -29,10 +28,10 @@
     4.8,
     1,
     1.7,
-    -1.2
+    -1.2,
+    4.7
   ],
   "precos": [
-    3.36,
     4.4,
     4.95,
     3.9,
@@ -42,10 +41,10 @@
     4.49,
     3.91,
     4.05,
-    3.59
+    3.59,
+    4.55
   ],
   "variacoes": [
-    -1.4,
     1.04,
     0.55,
     -1.05,
@@ -55,10 +54,10 @@
     -0.32,
     -0.58,
     0.14,
-    -0.46
+    -0.46,
+    0.96
   ],
   "medias": [
-    9.1,
     9.02,
     9.2,
     8.29,
@@ -68,22 +67,10 @@
     6.65,
     6.18,
     5.84,
-    5.34
+    5.34,
+    5.3
   ],
   "partidas": [
-    {
-      "rodada_id": 21,
-      "clube_casa": "Corinthians",
-      "clube_casa_id": 264,
-      "clube_visitante": "América-MG",
-      "clube_casa_abrev": "COR",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/30/Corinthians_65.png",
-      "clube_visitante_id": 327,
-      "clube_visitante_abrev": "AME",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/28/escudo65_1.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 22,
       "clube_casa": "América-MG",
@@ -213,16 +200,29 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/28/escudo65_1.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 3
+    },
+    {
+      "rodada_id": 32,
+      "clube_casa": "América-MG",
+      "clube_casa_id": 327,
+      "clube_visitante": "Grêmio",
+      "clube_casa_abrev": "AME",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/28/escudo65_1.png",
+      "clube_visitante_id": 284,
+      "clube_visitante_abrev": "GRE",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/gremio_60x60.png",
+      "placar_oficial_mandante": 3,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2021/06/12/f91ab657cf26bec02c555b438a728330_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/28/escudo65_1.png",
   "scouts": {
-    "rodada_id": 31,
+    "rodada_id": 32,
     "g": 1,
     "a": 4,
     "sg": 5,
-    "fs": 4,
+    "fs": 6,
     "ff": 8,
     "fd": 2,
     "ft": 0,
@@ -233,17 +233,17 @@
     "ca": 1,
     "pp": 0,
     "gs": 0,
-    "fc": 12,
+    "fc": 13,
     "i": 0,
-    "ds": 28,
-    "pi": 91,
+    "ds": 33,
+    "pi": 99,
     "pc": 0,
     "ps": 0,
-    "pontos_num": -1.2,
-    "preco_num": 3.59,
-    "variacao_num": -0.46,
-    "media_num": 5.34,
-    "jogos_num": 14,
+    "pontos_num": 4.7,
+    "preco_num": 4.55,
+    "variacao_num": 0.96,
+    "media_num": 5.3,
+    "jogos_num": 15,
     "posicao_abrev": "zag",
     "posicao": "Zagueiro"
   }

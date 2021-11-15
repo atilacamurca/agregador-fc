@@ -6,7 +6,6 @@
   "clube_id": 356,
   "posicao": "Goleiro",
   "rodadas": [
-    21,
     22,
     23,
     24,
@@ -16,10 +15,10 @@
     28,
     29,
     30,
-    31
+    31,
+    32
   ],
   "pontos": [
-    0,
     0,
     0,
     0,
@@ -29,10 +28,10 @@
     9,
     3,
     4,
-    1
+    1,
+    -1
   ],
   "precos": [
-    3.85,
     3.85,
     3.85,
     3.85,
@@ -42,10 +41,10 @@
     5.19,
     4.33,
     4.57,
-    4.15
+    4.15,
+    3.78
   ],
   "variacoes": [
-    0,
     0,
     0,
     0,
@@ -55,10 +54,10 @@
     1.34,
     -0.86,
     0.24,
-    -0.42
+    -0.42,
+    -0.37
   ],
   "medias": [
-    4.38,
     4.38,
     4.38,
     4.38,
@@ -68,22 +67,10 @@
     4.89,
     4.7,
     4.64,
-    4.34
+    4.34,
+    3.93
   ],
   "partidas": [
-    {
-      "rodada_id": 21,
-      "clube_casa": "Internacional",
-      "clube_casa_id": 285,
-      "clube_visitante": "Fortaleza",
-      "clube_casa_abrev": "INT",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/03/inter65.png",
-      "clube_visitante_id": 356,
-      "clube_visitante_abrev": "FOR",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/06/10/fortaleza-ec-65px.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 22,
       "clube_casa": "Sport",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/sao_paulo_60x60.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 32,
+      "clube_casa": "Bragantino",
+      "clube_casa_id": 280,
+      "clube_visitante": "Fortaleza",
+      "clube_casa_abrev": "BRA",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2020/01/01/65.png",
+      "clube_visitante_id": 356,
+      "clube_visitante_abrev": "FOR",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/06/10/fortaleza-ec-65px.png",
+      "placar_oficial_mandante": 3,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2021/05/05/0e8a3a925769cc2681815d65042a4304_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2018/06/10/fortaleza-ec-65px.png",
   "scouts": {
-    "rodada_id": 31,
+    "rodada_id": 32,
     "g": 0,
     "a": 0,
     "sg": 5,
@@ -226,24 +226,24 @@
     "ff": 0,
     "fd": 0,
     "ft": 0,
-    "de": 38,
+    "de": 40,
     "dp": 0,
     "gc": 0,
     "cv": 0,
     "ca": 0,
     "pp": 0,
-    "gs": 12,
+    "gs": 15,
     "fc": 0,
     "i": 0,
     "ds": 0,
     "pi": 0,
     "pc": 0,
     "ps": 0,
-    "pontos_num": 1,
-    "preco_num": 4.15,
-    "variacao_num": -0.42,
-    "media_num": 4.34,
-    "jogos_num": 12,
+    "pontos_num": -1,
+    "preco_num": 3.78,
+    "variacao_num": -0.37,
+    "media_num": 3.93,
+    "jogos_num": 13,
     "posicao_abrev": "gol",
     "posicao": "Goleiro"
   }
