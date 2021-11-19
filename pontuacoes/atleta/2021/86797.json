@@ -6,7 +6,6 @@
   "clube_id": 277,
   "posicao": "Atacante",
   "rodadas": [
-    22,
     23,
     24,
     25,
@@ -16,10 +15,10 @@
     29,
     30,
     31,
-    32
+    32,
+    33
   ],
   "pontos": [
-    0,
     0,
     0,
     0,
@@ -29,10 +28,10 @@
     1.5,
     1.3,
     0,
-    -1.6
+    -1.6,
+    0.4
   ],
   "precos": [
-    3.17,
     3.17,
     3.17,
     3.17,
@@ -42,10 +41,10 @@
     3.47,
     3.46,
     3.46,
-    2.96
+    2.96,
+    3.2
   ],
   "variacoes": [
-    0,
     0,
     0,
     0,
@@ -55,10 +54,10 @@
     -0.05,
     -0.01,
     0,
-    -0.5
+    -0.5,
+    0.24
   ],
   "medias": [
-    -0.46,
     -0.46,
     -0.46,
     -0.46,
@@ -68,22 +67,10 @@
     0.84,
     0.89,
     0.89,
-    0.64
+    0.64,
+    0.62
   ],
   "partidas": [
-    {
-      "rodada_id": 22,
-      "clube_casa": "Juventude",
-      "clube_casa_id": 286,
-      "clube_visitante": "Santos",
-      "clube_casa_abrev": "JUV",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/08/juventude65.png",
-      "clube_visitante_id": 277,
-      "clube_visitante_abrev": "SAN",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/santos_60x60.png",
-      "placar_oficial_mandante": 3,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 23,
       "clube_casa": "Santos",
@@ -213,16 +200,29 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/santos_60x60.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 33,
+      "clube_casa": "Santos",
+      "clube_casa_id": 277,
+      "clube_visitante": "Chapecoense",
+      "clube_casa_abrev": "SAN",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/santos_60x60.png",
+      "clube_visitante_id": 315,
+      "clube_visitante_abrev": "CHA",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2015/08/03/Escudo-Chape-165.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2021/05/04/b55b953ed82abefc102c9b0ed0691eed_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/santos_60x60.png",
   "scouts": {
-    "rodada_id": 32,
+    "rodada_id": 33,
     "g": 1,
     "a": 0,
     "sg": 0,
-    "fs": 8,
+    "fs": 9,
     "ff": 1,
     "fd": 1,
     "ft": 0,
@@ -236,14 +236,14 @@
     "fc": 15,
     "i": 1,
     "ds": 6,
-    "pi": 6,
+    "pi": 7,
     "pc": 1,
     "ps": 0,
-    "pontos_num": -1.6,
-    "preco_num": 2.96,
-    "variacao_num": -0.5,
-    "media_num": 0.64,
-    "jogos_num": 10,
+    "pontos_num": 0.4,
+    "preco_num": 3.2,
+    "variacao_num": 0.24,
+    "media_num": 0.62,
+    "jogos_num": 11,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }

@@ -331,12 +331,12 @@
       "clube_casa": "Athlético-PR",
       "escudo_casa": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/09/Athletico-PR-65x65.png",
       "clube_casa_abreviacao": "ATL",
-      "clube_casa_posicao": 11,
+      "clube_casa_posicao": 13,
       "aproveitamento_mandante": [
-        "d",
         "e",
         "v",
         "v",
+        "d",
         "d"
       ],
       "clube_visitante_id": 282,
@@ -345,8 +345,8 @@
       "clube_visitante_abreviacao": "ATL",
       "clube_visitante_posicao": 1,
       "aproveitamento_visitante": [
-        "v",
         "d",
+        "v",
         "v",
         "v",
         "v"
@@ -355,7 +355,7 @@
       "local": "Arena da Baixada",
       "valida": true,
       "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 0,
+      "placar_oficial_visitante": 1,
       "url_confronto": null,
       "url_transmissao": null
     },
@@ -691,9 +691,9 @@
       "aproveitamento_mandante": [
         "d",
         "d",
-        "d",
         "v",
-        "d"
+        "d",
+        "v"
       ],
       "clube_visitante_id": 280,
       "clube_visitante": "Bragantino",
@@ -701,16 +701,16 @@
       "clube_visitante_abreviacao": "BRA",
       "clube_visitante_posicao": 4,
       "aproveitamento_visitante": [
+        "d",
+        "d",
+        "d",
         "v",
-        "d",
-        "d",
-        "d",
-        "v"
+        "d"
       ],
       "partida_data": "2021-11-16T21:00:00.000Z",
       "local": "Arena do Grêmio",
       "valida": true,
-      "placar_oficial_mandante": 0,
+      "placar_oficial_mandante": 3,
       "placar_oficial_visitante": 0,
       "url_confronto": null,
       "url_transmissao": null
@@ -1043,13 +1043,13 @@
       "clube_casa": "Santos",
       "escudo_casa": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/santos_60x60.png",
       "clube_casa_abreviacao": "SAN",
-      "clube_casa_posicao": 12,
+      "clube_casa_posicao": 11,
       "aproveitamento_mandante": [
-        "v",
         "v",
         "d",
         "v",
-        "e"
+        "e",
+        "v"
       ],
       "clube_visitante_id": 315,
       "clube_visitante": "Chapecoense",
@@ -1058,15 +1058,15 @@
       "clube_visitante_posicao": 20,
       "aproveitamento_visitante": [
         "d",
+        "e",
+        "e",
         "d",
-        "e",
-        "e",
         "d"
       ],
       "partida_data": "2021-11-17T22:00:00.000Z",
       "local": "Vila Belmiro",
       "valida": true,
-      "placar_oficial_mandante": 0,
+      "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 0,
       "url_confronto": null,
       "url_transmissao": null
@@ -1402,381 +1402,25 @@
       "clube_casa_posicao": 9,
       "aproveitamento_mandante": [
         "v",
-        "v",
         "d",
         "v",
-        "v"
+        "v",
+        "e"
       ],
       "clube_visitante_id": 373,
       "clube_visitante": "Atlético-GO",
       "escudo_visitante": "https://s.glbimg.com/es/sde/f/organizacoes/2020/07/02/atletico-go-2020-65.png",
       "clube_visitante_abreviacao": "ATL",
-      "clube_visitante_posicao": 14,
+      "clube_visitante_posicao": 16,
       "aproveitamento_visitante": [
-        "v",
         "d",
         "d",
         "d",
+        "e",
         "e"
       ],
       "partida_data": "2021-11-17T22:00:00.000Z",
       "local": "Independência",
-      "valida": true,
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 0,
-      "url_confronto": null,
-      "url_transmissao": null
-    },
-    {
-      "partida_id": 270306,
-      "sumario_gols_casa": {
-        "gols_marcados_casa": 22,
-        "gols_marcados_fora": 18,
-        "gols_marcados_total": 40,
-        "gols_sofridos_fora": 23,
-        "gols_sofridos_casa": 14,
-        "gols_sofridos_total": 37
-      },
-      "sumario_gols_visitante": {
-        "gols_marcados_casa": 21,
-        "gols_marcados_fora": 8,
-        "gols_marcados_total": 29,
-        "gols_sofridos_fora": 19,
-        "gols_sofridos_casa": 11,
-        "gols_sofridos_total": 30
-      },
-      "destaques_defesa_casa": [
-        {
-          "media_num": 3.85,
-          "atleta_id": 95638,
-          "apelido": "Marcelo Benevenuto",
-          "jogos_num": 29,
-          "preco_num": 7.96,
-          "variacao_num": -0.3,
-          "pontos_num": -0.4,
-          "foto": "https://s.glbimg.com/es/sde/f/2021/04/26/f131f07530304a42ed2d813ebd77cd94_140x140.png",
-          "nome_posicao": "Zagueiro",
-          "abreviacao_posicao": "zag"
-        },
-        {
-          "media_num": 3.64,
-          "atleta_id": 50353,
-          "apelido": "Titi",
-          "jogos_num": 28,
-          "preco_num": 8.8,
-          "variacao_num": -1.3,
-          "pontos_num": -0.6,
-          "foto": "https://s.glbimg.com/es/sde/f/2021/04/27/f556d6eae390e4f92eed5cf6ec49c085_140x140.png",
-          "nome_posicao": "Zagueiro",
-          "abreviacao_posicao": "zag"
-        },
-        {
-          "media_num": 2.87,
-          "atleta_id": 82628,
-          "apelido": "Tinga",
-          "jogos_num": 30,
-          "preco_num": 7.81,
-          "variacao_num": -0.05,
-          "pontos_num": 0.7,
-          "foto": "https://s.glbimg.com/es/sde/f/2021/05/05/55684c2f5239196e41f100ff8aec49fc_140x140.png",
-          "nome_posicao": "Lateral",
-          "abreviacao_posicao": "lat"
-        },
-        {
-          "media_num": 3.91,
-          "atleta_id": 72372,
-          "apelido": "Felipe Alves",
-          "jogos_num": 20,
-          "preco_num": 7.61,
-          "variacao_num": 0,
-          "pontos_num": 0,
-          "foto": "https://s.glbimg.com/es/sde/f/2021/05/05/7f2817bd88a2722833e451d34ef533fa_140x140.png",
-          "nome_posicao": "Goleiro",
-          "abreviacao_posicao": "gol"
-        }
-      ],
-      "destaques_defesa_visitante": [
-        {
-          "media_num": 3.88,
-          "atleta_id": 78851,
-          "apelido": "Richard",
-          "jogos_num": 20,
-          "preco_num": 6.8,
-          "variacao_num": 0,
-          "pontos_num": 0,
-          "foto": "https://s.glbimg.com/es/sde/f/2020/08/31/b4171a404ece6ec54f9a350c1f02f874_140x140.png",
-          "nome_posicao": "Goleiro",
-          "abreviacao_posicao": "gol"
-        },
-        {
-          "media_num": 2.64,
-          "atleta_id": 90061,
-          "apelido": "Bruno Pacheco",
-          "jogos_num": 28,
-          "preco_num": 6.02,
-          "variacao_num": 0.03,
-          "pontos_num": 1.3,
-          "foto": "https://s.glbimg.com/es/sde/f/2020/03/02/bb3a75a802b180cef8ecf48d9cc025fa_140x140.png",
-          "nome_posicao": "Lateral",
-          "abreviacao_posicao": "lat"
-        },
-        {
-          "media_num": 2.34,
-          "atleta_id": 87402,
-          "apelido": "Messias",
-          "jogos_num": 28,
-          "preco_num": 3.5,
-          "variacao_num": -1.63,
-          "pontos_num": 1.3,
-          "foto": "https://s.glbimg.com/es/sde/f/2021/03/29/68f67fd62fe543e71e2659382404871f_140x140.png",
-          "nome_posicao": "Zagueiro",
-          "abreviacao_posicao": "zag"
-        },
-        {
-          "media_num": 3.39,
-          "atleta_id": 108176,
-          "apelido": "Gabriel Lacerda",
-          "jogos_num": 19,
-          "preco_num": 4.56,
-          "variacao_num": -0.04,
-          "pontos_num": -0.1,
-          "foto": "https://s.glbimg.com/es/sde/f/2020/07/21/3dc2061d37b1f85d9dd8d9dd72cb35de_140x140.png",
-          "nome_posicao": "Zagueiro",
-          "abreviacao_posicao": "zag"
-        }
-      ],
-      "goleiros_casa": {
-        "sum_sg": 13,
-        "sum_de": 97,
-        "sum_dp": 1,
-        "sum_gs": 37
-      },
-      "goleiros_visitante": {
-        "sum_sg": 13,
-        "sum_de": 77,
-        "sum_dp": 1,
-        "sum_gs": 30
-      },
-      "zagueiros_casa": {
-        "sum_g": 6,
-        "sum_gc": 1,
-        "sum_fs": 59,
-        "sum_ca": 10,
-        "sum_fc": 74,
-        "sum_pe": 0,
-        "sum_ds": 101,
-        "sum_pi": 248,
-        "sum_pc": 2
-      },
-      "zagueiros_visitante": {
-        "sum_g": 5,
-        "sum_gc": 0,
-        "sum_fs": 19,
-        "sum_ca": 12,
-        "sum_fc": 51,
-        "sum_pe": 0,
-        "sum_ds": 52,
-        "sum_pi": 242,
-        "sum_pc": 3
-      },
-      "laterais_casa": {
-        "sum_ds": 101,
-        "sum_g": 6,
-        "sum_a": 1,
-        "sum_fs": 59,
-        "sum_pe": 0,
-        "sum_pi": 248,
-        "sum_ff": 12,
-        "sum_fd": 5,
-        "sum_fc": 74,
-        "sum_pc": 2
-      },
-      "laterais_visitante": {
-        "sum_ds": 52,
-        "sum_g": 5,
-        "sum_a": 3,
-        "sum_fs": 19,
-        "sum_pe": 0,
-        "sum_pi": 242,
-        "sum_ff": 12,
-        "sum_fd": 4,
-        "sum_fc": 51,
-        "sum_pc": 3
-      },
-      "meias_casa": {
-        "sum_g": 12,
-        "sum_a": 18,
-        "sum_fs": 269,
-        "sum_ff": 104,
-        "sum_fc": 220,
-        "sum_ps": 0,
-        "sum_fd": 63,
-        "sum_ca": 34,
-        "sum_pe": 0,
-        "sum_ds": 345,
-        "sum_pi": 903
-      },
-      "meias_visitante": {
-        "sum_g": 10,
-        "sum_a": 11,
-        "sum_fs": 201,
-        "sum_ff": 73,
-        "sum_fc": 167,
-        "sum_ps": 0,
-        "sum_fd": 42,
-        "sum_ca": 24,
-        "sum_pe": 0,
-        "sum_ds": 310,
-        "sum_pi": 832
-      },
-      "atacantes_casa": {
-        "sum_g": 19,
-        "sum_a": 7,
-        "sum_fs": 144,
-        "sum_ff": 71,
-        "sum_pp": 0,
-        "sum_fc": 130,
-        "sum_i": 40,
-        "sum_fd": 41,
-        "sum_ps": 1
-      },
-      "atacantes_visitante": {
-        "sum_g": 10,
-        "sum_a": 3,
-        "sum_fs": 105,
-        "sum_ff": 57,
-        "sum_pp": 1,
-        "sum_fc": 121,
-        "sum_i": 13,
-        "sum_fd": 38,
-        "sum_ps": 2
-      },
-      "destaques_ataque_casa": [
-        {
-          "media_num": 5.1,
-          "atleta_id": 103099,
-          "apelido": "Éderson",
-          "jogos_num": 30,
-          "preco_num": 12.88,
-          "variacao_num": -0.89,
-          "pontos_num": 2.1,
-          "foto": "https://s.glbimg.com/es/sde/f/2021/05/05/16c28b7f820021c231cfb80d673b50f4_140x140.png",
-          "nome_posicao": "Meia",
-          "abreviacao_posicao": "mei"
-        },
-        {
-          "media_num": 5.31,
-          "atleta_id": 80196,
-          "apelido": "Yago Pikachu",
-          "jogos_num": 28,
-          "preco_num": 17.7,
-          "variacao_num": -0.94,
-          "pontos_num": 4.1,
-          "foto": "https://s.glbimg.com/es/sde/f/2021/05/05/9a4375bdf79838ec083ac6bd13e2be84_140x140.png",
-          "nome_posicao": "Meia",
-          "abreviacao_posicao": "mei"
-        },
-        {
-          "media_num": 3.64,
-          "atleta_id": 84817,
-          "apelido": "Robson",
-          "jogos_num": 29,
-          "preco_num": 12.75,
-          "variacao_num": 0,
-          "pontos_num": 0,
-          "foto": "https://s.glbimg.com/es/sde/f/2021/04/26/f4951cba691fbcb073821e4b42f2497d_140x140.png",
-          "nome_posicao": "Atacante",
-          "abreviacao_posicao": "ata"
-        },
-        {
-          "media_num": 4.24,
-          "atleta_id": 88597,
-          "apelido": "Lucas Crispim",
-          "jogos_num": 24,
-          "preco_num": 8.39,
-          "variacao_num": 0,
-          "pontos_num": 0,
-          "foto": "https://s.glbimg.com/es/sde/f/2021/04/26/6158b01295851dcec7cd9775c70d99b7_140x140.png",
-          "nome_posicao": "Meia",
-          "abreviacao_posicao": "mei"
-        }
-      ],
-      "destaques_ataque_visitante": [
-        {
-          "media_num": 4.48,
-          "atleta_id": 96340,
-          "apelido": "Lima",
-          "jogos_num": 26,
-          "preco_num": 11.59,
-          "variacao_num": 0.2,
-          "pontos_num": 1.6,
-          "foto": "https://s.glbimg.com/es/sde/f/2020/08/31/9ee2c327a2b00392ebb233a1d11a401a_140x140.png",
-          "nome_posicao": "Meia",
-          "abreviacao_posicao": "mei"
-        },
-        {
-          "media_num": 3.53,
-          "atleta_id": 84428,
-          "apelido": "Fernando Sobral",
-          "jogos_num": 28,
-          "preco_num": 11.6,
-          "variacao_num": 0,
-          "pontos_num": 0,
-          "foto": "https://s.glbimg.com/es/sde/f/2020/08/31/e0f18a0e8a5144558982a72313a13ef5_140x140.png",
-          "nome_posicao": "Meia",
-          "abreviacao_posicao": "mei"
-        },
-        {
-          "media_num": 2.86,
-          "atleta_id": 71162,
-          "apelido": "Vina",
-          "jogos_num": 27,
-          "preco_num": 12.84,
-          "variacao_num": 2.27,
-          "pontos_num": 13.5,
-          "foto": "https://s.glbimg.com/es/sde/f/2021/06/02/03a9bd95b9964e9fa07bbf7412a7a03c_140x140.png",
-          "nome_posicao": "Meia",
-          "abreviacao_posicao": "mei"
-        },
-        {
-          "media_num": 3.22,
-          "atleta_id": 104459,
-          "apelido": "Rick",
-          "jogos_num": 22,
-          "preco_num": 9.12,
-          "variacao_num": -1.58,
-          "pontos_num": -1.3,
-          "foto": "https://s.glbimg.com/es/sde/f/2020/08/31/66182e36104ff865242a7b388c3a2d6b_140x140.png",
-          "nome_posicao": "Atacante",
-          "abreviacao_posicao": "ata"
-        }
-      ],
-      "clube_casa_id": 356,
-      "clube_casa": "Fortaleza",
-      "escudo_casa": "https://s.glbimg.com/es/sde/f/organizacoes/2018/06/10/fortaleza-ec-65px.png",
-      "clube_casa_abreviacao": "FOR",
-      "clube_casa_posicao": 6,
-      "aproveitamento_mandante": [
-        "v",
-        "d",
-        "d",
-        "e",
-        "d"
-      ],
-      "clube_visitante_id": 354,
-      "clube_visitante": "Ceará",
-      "escudo_visitante": "https://s.glbimg.com/es/sde/f/organizacoes/2019/10/10/ceara-65x65.png",
-      "clube_visitante_abreviacao": "CEA",
-      "clube_visitante_posicao": 10,
-      "aproveitamento_visitante": [
-        "e",
-        "v",
-        "v",
-        "d",
-        "v"
-      ],
-      "partida_data": "2021-11-17T22:00:00.000Z",
-      "local": "Castelão (CE)",
       "valida": true,
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 0,
@@ -2111,13 +1755,13 @@
       "clube_casa": "Cuiabá",
       "escudo_casa": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/16/cuiaba65.png",
       "clube_casa_abreviacao": "CUI",
-      "clube_casa_posicao": 13,
+      "clube_casa_posicao": 12,
       "aproveitamento_mandante": [
-        "d",
         "v",
         "e",
         "d",
-        "d"
+        "d",
+        "v"
       ],
       "clube_visitante_id": 285,
       "clube_visitante": "Internacional",
@@ -2125,17 +1769,373 @@
       "clube_visitante_abreviacao": "INT",
       "clube_visitante_posicao": 7,
       "aproveitamento_visitante": [
-        "e",
         "d",
         "v",
         "d",
-        "v"
+        "v",
+        "d"
       ],
       "partida_data": "2021-11-17T22:00:00.000Z",
       "local": "Arena Pantanal",
       "valida": true,
-      "placar_oficial_mandante": 0,
+      "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 0,
+      "url_confronto": null,
+      "url_transmissao": null
+    },
+    {
+      "partida_id": 270306,
+      "sumario_gols_casa": {
+        "gols_marcados_casa": 22,
+        "gols_marcados_fora": 18,
+        "gols_marcados_total": 40,
+        "gols_sofridos_fora": 23,
+        "gols_sofridos_casa": 14,
+        "gols_sofridos_total": 37
+      },
+      "sumario_gols_visitante": {
+        "gols_marcados_casa": 21,
+        "gols_marcados_fora": 8,
+        "gols_marcados_total": 29,
+        "gols_sofridos_fora": 19,
+        "gols_sofridos_casa": 11,
+        "gols_sofridos_total": 30
+      },
+      "destaques_defesa_casa": [
+        {
+          "media_num": 3.85,
+          "atleta_id": 95638,
+          "apelido": "Marcelo Benevenuto",
+          "jogos_num": 29,
+          "preco_num": 7.96,
+          "variacao_num": -0.3,
+          "pontos_num": -0.4,
+          "foto": "https://s.glbimg.com/es/sde/f/2021/04/26/f131f07530304a42ed2d813ebd77cd94_140x140.png",
+          "nome_posicao": "Zagueiro",
+          "abreviacao_posicao": "zag"
+        },
+        {
+          "media_num": 3.64,
+          "atleta_id": 50353,
+          "apelido": "Titi",
+          "jogos_num": 28,
+          "preco_num": 8.8,
+          "variacao_num": -1.3,
+          "pontos_num": -0.6,
+          "foto": "https://s.glbimg.com/es/sde/f/2021/04/27/f556d6eae390e4f92eed5cf6ec49c085_140x140.png",
+          "nome_posicao": "Zagueiro",
+          "abreviacao_posicao": "zag"
+        },
+        {
+          "media_num": 2.87,
+          "atleta_id": 82628,
+          "apelido": "Tinga",
+          "jogos_num": 30,
+          "preco_num": 7.81,
+          "variacao_num": -0.05,
+          "pontos_num": 0.7,
+          "foto": "https://s.glbimg.com/es/sde/f/2021/05/05/55684c2f5239196e41f100ff8aec49fc_140x140.png",
+          "nome_posicao": "Lateral",
+          "abreviacao_posicao": "lat"
+        },
+        {
+          "media_num": 3.91,
+          "atleta_id": 72372,
+          "apelido": "Felipe Alves",
+          "jogos_num": 20,
+          "preco_num": 7.61,
+          "variacao_num": 0,
+          "pontos_num": 0,
+          "foto": "https://s.glbimg.com/es/sde/f/2021/05/05/7f2817bd88a2722833e451d34ef533fa_140x140.png",
+          "nome_posicao": "Goleiro",
+          "abreviacao_posicao": "gol"
+        }
+      ],
+      "destaques_defesa_visitante": [
+        {
+          "media_num": 3.88,
+          "atleta_id": 78851,
+          "apelido": "Richard",
+          "jogos_num": 20,
+          "preco_num": 6.8,
+          "variacao_num": 0,
+          "pontos_num": 0,
+          "foto": "https://s.glbimg.com/es/sde/f/2020/08/31/b4171a404ece6ec54f9a350c1f02f874_140x140.png",
+          "nome_posicao": "Goleiro",
+          "abreviacao_posicao": "gol"
+        },
+        {
+          "media_num": 2.64,
+          "atleta_id": 90061,
+          "apelido": "Bruno Pacheco",
+          "jogos_num": 28,
+          "preco_num": 6.02,
+          "variacao_num": 0.03,
+          "pontos_num": 1.3,
+          "foto": "https://s.glbimg.com/es/sde/f/2020/03/02/bb3a75a802b180cef8ecf48d9cc025fa_140x140.png",
+          "nome_posicao": "Lateral",
+          "abreviacao_posicao": "lat"
+        },
+        {
+          "media_num": 2.34,
+          "atleta_id": 87402,
+          "apelido": "Messias",
+          "jogos_num": 28,
+          "preco_num": 3.5,
+          "variacao_num": -1.63,
+          "pontos_num": 1.3,
+          "foto": "https://s.glbimg.com/es/sde/f/2021/03/29/68f67fd62fe543e71e2659382404871f_140x140.png",
+          "nome_posicao": "Zagueiro",
+          "abreviacao_posicao": "zag"
+        },
+        {
+          "media_num": 3.39,
+          "atleta_id": 108176,
+          "apelido": "Gabriel Lacerda",
+          "jogos_num": 19,
+          "preco_num": 4.56,
+          "variacao_num": -0.04,
+          "pontos_num": -0.1,
+          "foto": "https://s.glbimg.com/es/sde/f/2020/07/21/3dc2061d37b1f85d9dd8d9dd72cb35de_140x140.png",
+          "nome_posicao": "Zagueiro",
+          "abreviacao_posicao": "zag"
+        }
+      ],
+      "goleiros_casa": {
+        "sum_sg": 13,
+        "sum_de": 97,
+        "sum_dp": 1,
+        "sum_gs": 37
+      },
+      "goleiros_visitante": {
+        "sum_sg": 13,
+        "sum_de": 77,
+        "sum_dp": 1,
+        "sum_gs": 30
+      },
+      "zagueiros_casa": {
+        "sum_g": 6,
+        "sum_gc": 1,
+        "sum_fs": 59,
+        "sum_ca": 10,
+        "sum_fc": 74,
+        "sum_pe": 0,
+        "sum_ds": 101,
+        "sum_pi": 248,
+        "sum_pc": 2
+      },
+      "zagueiros_visitante": {
+        "sum_g": 5,
+        "sum_gc": 0,
+        "sum_fs": 19,
+        "sum_ca": 12,
+        "sum_fc": 51,
+        "sum_pe": 0,
+        "sum_ds": 52,
+        "sum_pi": 242,
+        "sum_pc": 3
+      },
+      "laterais_casa": {
+        "sum_ds": 101,
+        "sum_g": 6,
+        "sum_a": 1,
+        "sum_fs": 59,
+        "sum_pe": 0,
+        "sum_pi": 248,
+        "sum_ff": 12,
+        "sum_fd": 5,
+        "sum_fc": 74,
+        "sum_pc": 2
+      },
+      "laterais_visitante": {
+        "sum_ds": 52,
+        "sum_g": 5,
+        "sum_a": 3,
+        "sum_fs": 19,
+        "sum_pe": 0,
+        "sum_pi": 242,
+        "sum_ff": 12,
+        "sum_fd": 4,
+        "sum_fc": 51,
+        "sum_pc": 3
+      },
+      "meias_casa": {
+        "sum_g": 12,
+        "sum_a": 18,
+        "sum_fs": 269,
+        "sum_ff": 104,
+        "sum_fc": 220,
+        "sum_ps": 0,
+        "sum_fd": 63,
+        "sum_ca": 34,
+        "sum_pe": 0,
+        "sum_ds": 345,
+        "sum_pi": 903
+      },
+      "meias_visitante": {
+        "sum_g": 10,
+        "sum_a": 11,
+        "sum_fs": 201,
+        "sum_ff": 73,
+        "sum_fc": 167,
+        "sum_ps": 0,
+        "sum_fd": 42,
+        "sum_ca": 24,
+        "sum_pe": 0,
+        "sum_ds": 310,
+        "sum_pi": 832
+      },
+      "atacantes_casa": {
+        "sum_g": 19,
+        "sum_a": 7,
+        "sum_fs": 144,
+        "sum_ff": 71,
+        "sum_pp": 0,
+        "sum_fc": 130,
+        "sum_i": 40,
+        "sum_fd": 41,
+        "sum_ps": 1
+      },
+      "atacantes_visitante": {
+        "sum_g": 10,
+        "sum_a": 3,
+        "sum_fs": 105,
+        "sum_ff": 57,
+        "sum_pp": 1,
+        "sum_fc": 121,
+        "sum_i": 13,
+        "sum_fd": 38,
+        "sum_ps": 2
+      },
+      "destaques_ataque_casa": [
+        {
+          "media_num": 5.1,
+          "atleta_id": 103099,
+          "apelido": "Éderson",
+          "jogos_num": 30,
+          "preco_num": 12.88,
+          "variacao_num": -0.89,
+          "pontos_num": 2.1,
+          "foto": "https://s.glbimg.com/es/sde/f/2021/05/05/16c28b7f820021c231cfb80d673b50f4_140x140.png",
+          "nome_posicao": "Meia",
+          "abreviacao_posicao": "mei"
+        },
+        {
+          "media_num": 5.31,
+          "atleta_id": 80196,
+          "apelido": "Yago Pikachu",
+          "jogos_num": 28,
+          "preco_num": 17.7,
+          "variacao_num": -0.94,
+          "pontos_num": 4.1,
+          "foto": "https://s.glbimg.com/es/sde/f/2021/05/05/9a4375bdf79838ec083ac6bd13e2be84_140x140.png",
+          "nome_posicao": "Meia",
+          "abreviacao_posicao": "mei"
+        },
+        {
+          "media_num": 3.64,
+          "atleta_id": 84817,
+          "apelido": "Robson",
+          "jogos_num": 29,
+          "preco_num": 12.75,
+          "variacao_num": 0,
+          "pontos_num": 0,
+          "foto": "https://s.glbimg.com/es/sde/f/2021/04/26/f4951cba691fbcb073821e4b42f2497d_140x140.png",
+          "nome_posicao": "Atacante",
+          "abreviacao_posicao": "ata"
+        },
+        {
+          "media_num": 4.24,
+          "atleta_id": 88597,
+          "apelido": "Lucas Crispim",
+          "jogos_num": 24,
+          "preco_num": 8.39,
+          "variacao_num": 0,
+          "pontos_num": 0,
+          "foto": "https://s.glbimg.com/es/sde/f/2021/04/26/6158b01295851dcec7cd9775c70d99b7_140x140.png",
+          "nome_posicao": "Meia",
+          "abreviacao_posicao": "mei"
+        }
+      ],
+      "destaques_ataque_visitante": [
+        {
+          "media_num": 4.48,
+          "atleta_id": 96340,
+          "apelido": "Lima",
+          "jogos_num": 26,
+          "preco_num": 11.59,
+          "variacao_num": 0.2,
+          "pontos_num": 1.6,
+          "foto": "https://s.glbimg.com/es/sde/f/2020/08/31/9ee2c327a2b00392ebb233a1d11a401a_140x140.png",
+          "nome_posicao": "Meia",
+          "abreviacao_posicao": "mei"
+        },
+        {
+          "media_num": 3.53,
+          "atleta_id": 84428,
+          "apelido": "Fernando Sobral",
+          "jogos_num": 28,
+          "preco_num": 11.6,
+          "variacao_num": 0,
+          "pontos_num": 0,
+          "foto": "https://s.glbimg.com/es/sde/f/2020/08/31/e0f18a0e8a5144558982a72313a13ef5_140x140.png",
+          "nome_posicao": "Meia",
+          "abreviacao_posicao": "mei"
+        },
+        {
+          "media_num": 2.86,
+          "atleta_id": 71162,
+          "apelido": "Vina",
+          "jogos_num": 27,
+          "preco_num": 12.84,
+          "variacao_num": 2.27,
+          "pontos_num": 13.5,
+          "foto": "https://s.glbimg.com/es/sde/f/2021/06/02/03a9bd95b9964e9fa07bbf7412a7a03c_140x140.png",
+          "nome_posicao": "Meia",
+          "abreviacao_posicao": "mei"
+        },
+        {
+          "media_num": 3.22,
+          "atleta_id": 104459,
+          "apelido": "Rick",
+          "jogos_num": 22,
+          "preco_num": 9.12,
+          "variacao_num": -1.58,
+          "pontos_num": -1.3,
+          "foto": "https://s.glbimg.com/es/sde/f/2020/08/31/66182e36104ff865242a7b388c3a2d6b_140x140.png",
+          "nome_posicao": "Atacante",
+          "abreviacao_posicao": "ata"
+        }
+      ],
+      "clube_casa_id": 356,
+      "clube_casa": "Fortaleza",
+      "escudo_casa": "https://s.glbimg.com/es/sde/f/organizacoes/2018/06/10/fortaleza-ec-65px.png",
+      "clube_casa_abreviacao": "FOR",
+      "clube_casa_posicao": 6,
+      "aproveitamento_mandante": [
+        "d",
+        "d",
+        "e",
+        "d",
+        "d"
+      ],
+      "clube_visitante_id": 354,
+      "clube_visitante": "Ceará",
+      "escudo_visitante": "https://s.glbimg.com/es/sde/f/organizacoes/2019/10/10/ceara-65x65.png",
+      "clube_visitante_abreviacao": "CEA",
+      "clube_visitante_posicao": 10,
+      "aproveitamento_visitante": [
+        "v",
+        "v",
+        "d",
+        "v",
+        "v"
+      ],
+      "partida_data": "2021-11-17T23:00:00.000Z",
+      "local": "Castelão (CE)",
+      "valida": true,
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 4,
       "url_confronto": null,
       "url_transmissao": null
     },
@@ -2472,26 +2472,26 @@
         "v",
         "v",
         "v",
-        "v",
+        "d",
         "d"
       ],
       "clube_visitante_id": 276,
       "clube_visitante": "São Paulo",
       "escudo_visitante": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/sao_paulo_60x60.png",
       "clube_visitante_abreviacao": "SAO",
-      "clube_visitante_posicao": 15,
+      "clube_visitante_posicao": 14,
       "aproveitamento_visitante": [
-        "d",
         "v",
         "d",
         "e",
-        "d"
+        "d",
+        "v"
       ],
       "partida_data": "2021-11-17T23:30:00.000Z",
       "local": "Allianz Parque",
       "valida": true,
       "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 0,
+      "placar_oficial_visitante": 2,
       "url_confronto": null,
       "url_transmissao": null
     },
@@ -2823,11 +2823,11 @@
       "clube_casa": "Juventude",
       "escudo_casa": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/08/juventude65.png",
       "clube_casa_abreviacao": "JUV",
-      "clube_casa_posicao": 17,
+      "clube_casa_posicao": 15,
       "aproveitamento_mandante": [
-        "d",
         "e",
         "e",
+        "v",
         "v",
         "v"
       ],
@@ -2838,15 +2838,15 @@
       "clube_visitante_posicao": 8,
       "aproveitamento_visitante": [
         "d",
-        "d",
         "v",
         "d",
-        "v"
+        "v",
+        "d"
       ],
       "partida_data": "2021-11-17T23:30:00.000Z",
       "local": "Alfredo Jaconi",
       "valida": true,
-      "placar_oficial_mandante": 0,
+      "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 0,
       "url_confronto": null,
       "url_transmissao": null
@@ -3181,9 +3181,9 @@
       "clube_casa_abreviacao": "FLA",
       "clube_casa_posicao": 2,
       "aproveitamento_mandante": [
-        "e",
         "v",
         "e",
+        "v",
         "v",
         "v"
       ],
@@ -3193,16 +3193,16 @@
       "clube_visitante_abreviacao": "COR",
       "clube_visitante_posicao": 5,
       "aproveitamento_visitante": [
-        "e",
         "v",
         "v",
         "d",
-        "v"
+        "v",
+        "d"
       ],
       "partida_data": "2021-11-18T00:30:00.000Z",
       "local": "Maracanã",
       "valida": true,
-      "placar_oficial_mandante": 0,
+      "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 0,
       "url_confronto": null,
       "url_transmissao": null
@@ -3537,28 +3537,28 @@
       "clube_casa_abreviacao": "SPO",
       "clube_casa_posicao": 18,
       "aproveitamento_mandante": [
-        "d",
         "v",
         "d",
         "d",
-        "d"
+        "d",
+        "v"
       ],
       "clube_visitante_id": 265,
       "clube_visitante": "Bahia",
       "escudo_visitante": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/bahia_60x60.png",
       "clube_visitante_abreviacao": "BAH",
-      "clube_visitante_posicao": 16,
+      "clube_visitante_posicao": 17,
       "aproveitamento_visitante": [
-        "v",
         "e",
         "e",
         "v",
+        "d",
         "d"
       ],
       "partida_data": "2021-11-19T00:00:00.000Z",
       "local": "Arena de Pernambuco",
       "valida": true,
-      "placar_oficial_mandante": 0,
+      "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 0,
       "url_confronto": null,
       "url_transmissao": null
