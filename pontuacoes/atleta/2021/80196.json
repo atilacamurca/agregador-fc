@@ -6,7 +6,6 @@
   "clube_id": 356,
   "posicao": "Meia",
   "rodadas": [
-    23,
     24,
     25,
     26,
@@ -16,10 +15,10 @@
     30,
     31,
     32,
-    33
+    33,
+    34
   ],
   "pontos": [
-    3.5,
     4.8,
     1.6,
     8.2,
@@ -29,10 +28,10 @@
     0,
     0,
     4.1,
-    0
+    0,
+    3.2
   ],
   "precos": [
-    17.83,
     17.97,
     17.25,
     18.58,
@@ -42,10 +41,10 @@
     18.64,
     18.64,
     17.7,
-    16.67
+    16.67,
+    17.29
   ],
   "variacoes": [
-    -0.15,
     0.14,
     -0.72,
     1.33,
@@ -55,10 +54,10 @@
     0,
     0,
     -0.94,
-    -1.03
+    -1.03,
+    0.62
   ],
   "medias": [
-    5.16,
     5.14,
     4.99,
     5.12,
@@ -68,22 +67,10 @@
     5.35,
     5.35,
     5.31,
-    5.13
+    5.13,
+    5.07
   ],
   "partidas": [
-    {
-      "rodada_id": 23,
-      "clube_casa": "Fortaleza",
-      "clube_casa_id": 356,
-      "clube_visitante": "Atlético-GO",
-      "clube_casa_abrev": "FOR",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/06/10/fortaleza-ec-65px.png",
-      "clube_visitante_id": 373,
-      "clube_visitante_abrev": "ATL",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2020/07/02/atletico-go-2020-65.png",
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 3
-    },
     {
       "rodada_id": 24,
       "clube_casa": "Fluminense",
@@ -213,17 +200,30 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/10/10/ceara-65x65.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 4
+    },
+    {
+      "rodada_id": 34,
+      "clube_casa": "Fortaleza",
+      "clube_casa_id": 356,
+      "clube_visitante": "Palmeiras",
+      "clube_casa_abrev": "FOR",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/06/10/fortaleza-ec-65px.png",
+      "clube_visitante_id": 275,
+      "clube_visitante_abrev": "PAL",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2021/05/05/9a4375bdf79838ec083ac6bd13e2be84_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2018/06/10/fortaleza-ec-65px.png",
   "scouts": {
-    "rodada_id": 33,
+    "rodada_id": 34,
     "g": 8,
     "a": 5,
     "sg": 0,
-    "fs": 46,
-    "ff": 20,
+    "fs": 48,
+    "ff": 22,
     "fd": 12,
     "ft": 3,
     "de": 0,
@@ -233,17 +233,17 @@
     "ca": 4,
     "pp": 1,
     "gs": 0,
-    "fc": 27,
+    "fc": 29,
     "i": 8,
-    "ds": 45,
-    "pi": 185,
+    "ds": 47,
+    "pi": 189,
     "pc": 0,
     "ps": 0,
-    "pontos_num": 0,
-    "preco_num": 16.67,
-    "variacao_num": -1.03,
-    "media_num": 5.13,
-    "jogos_num": 29,
+    "pontos_num": 3.2,
+    "preco_num": 17.29,
+    "variacao_num": 0.62,
+    "media_num": 5.07,
+    "jogos_num": 30,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }
