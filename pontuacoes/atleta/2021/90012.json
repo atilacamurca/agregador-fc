@@ -6,7 +6,6 @@
   "clube_id": 277,
   "posicao": "Zagueiro",
   "rodadas": [
-    25,
     26,
     27,
     28,
@@ -16,10 +15,10 @@
     32,
     33,
     34,
-    35
+    35,
+    36
   ],
   "pontos": [
-    6,
     1.8,
     8.8,
     4.6,
@@ -29,10 +28,10 @@
     0,
     0,
     0,
+    0,
     0
   ],
   "precos": [
-    6.21,
     5.71,
     7.16,
     6.69,
@@ -42,10 +41,10 @@
     6.71,
     6.71,
     6.71,
+    6.71,
     6.71
   ],
   "variacoes": [
-    1.14,
     -0.5,
     1.45,
     -0.47,
@@ -55,10 +54,10 @@
     0,
     0,
     0,
+    0,
     0
   ],
   "medias": [
-    3,
     2.76,
     3.77,
     3.89,
@@ -68,22 +67,10 @@
     4.07,
     4.07,
     4.07,
+    4.07,
     4.07
   ],
   "partidas": [
-    {
-      "rodada_id": 25,
-      "clube_casa": "Santos",
-      "clube_casa_id": 277,
-      "clube_visitante": "Grêmio",
-      "clube_casa_abrev": "SAN",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/santos_60x60.png",
-      "clube_visitante_id": 284,
-      "clube_visitante_abrev": "GRE",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/gremio_60x60.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 26,
       "clube_casa": "Atlético-MG",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/06/10/fortaleza-ec-65px.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 36,
+      "clube_casa": "Internacional",
+      "clube_casa_id": 285,
+      "clube_visitante": "Santos",
+      "clube_casa_abrev": "INT",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/03/inter65.png",
+      "clube_visitante_id": 277,
+      "clube_visitante_abrev": "SAN",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/santos_60x60.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2021/08/31/b68632e2dd6a5264c1812daca5732395_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/santos_60x60.png",
   "scouts": {
-    "rodada_id": 35,
+    "rodada_id": 36,
     "g": 0,
     "a": 0,
     "sg": 4,

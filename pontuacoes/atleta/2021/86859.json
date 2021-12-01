@@ -6,7 +6,6 @@
   "clube_id": 292,
   "posicao": "Meia",
   "rodadas": [
-    25,
     26,
     27,
     28,
@@ -16,10 +15,10 @@
     32,
     33,
     34,
-    35
+    35,
+    36
   ],
   "pontos": [
-    3.2,
     5.3,
     6.4,
     -0.5,
@@ -29,10 +28,10 @@
     -0.1,
     -1,
     0,
-    0
+    0,
+    1.1
   ],
   "precos": [
-    4.19,
     4.69,
     4.96,
     3.85,
@@ -42,10 +41,10 @@
     4.35,
     4.09,
     4.09,
-    4.09
+    4.09,
+    4.52
   ],
   "variacoes": [
-    -2.31,
     0.5,
     0.27,
     -1.11,
@@ -55,10 +54,10 @@
     -1.82,
     -0.26,
     0,
-    0
+    0,
+    0.43
   ],
   "medias": [
-    3.06,
     3.18,
     3.34,
     3.16,
@@ -68,22 +67,10 @@
     3.5,
     3.33,
     3.33,
-    3.33
+    3.33,
+    3.25
   ],
   "partidas": [
-    {
-      "rodada_id": 25,
-      "clube_casa": "Sport",
-      "clube_casa_id": 292,
-      "clube_visitante": "Corinthians",
-      "clube_casa_abrev": "SPO",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2015/07/21/sport65.png",
-      "clube_visitante_id": 264,
-      "clube_visitante_abrev": "COR",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/30/Corinthians_65.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 26,
       "clube_casa": "Cuiabá",
@@ -213,18 +200,31 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/04/09/Flamengo-65.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 36,
+      "clube_casa": "São Paulo",
+      "clube_casa_id": 276,
+      "clube_visitante": "Sport",
+      "clube_casa_abrev": "SAO",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/sao_paulo_60x60.png",
+      "clube_visitante_id": 292,
+      "clube_visitante_abrev": "SPO",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2015/07/21/sport65.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2021/04/27/0ab10fb04348ef67b026eb80bd0fd4a0_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2015/07/21/sport65.png",
   "scouts": {
-    "rodada_id": 35,
+    "rodada_id": 36,
     "g": 2,
     "a": 1,
     "sg": 0,
-    "fs": 20,
+    "fs": 24,
     "ff": 19,
-    "fd": 7,
+    "fd": 8,
     "ft": 3,
     "de": 0,
     "dp": 0,
@@ -233,17 +233,17 @@
     "ca": 5,
     "pp": 0,
     "gs": 0,
-    "fc": 36,
+    "fc": 39,
     "i": 3,
     "ds": 68,
-    "pi": 155,
+    "pi": 161,
     "pc": 0,
     "ps": 0,
-    "pontos_num": 0,
-    "preco_num": 4.09,
-    "variacao_num": 0,
-    "media_num": 3.33,
-    "jogos_num": 26,
+    "pontos_num": 1.1,
+    "preco_num": 4.52,
+    "variacao_num": 0.43,
+    "media_num": 3.25,
+    "jogos_num": 27,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }

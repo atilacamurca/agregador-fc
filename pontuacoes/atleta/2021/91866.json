@@ -6,7 +6,6 @@
   "clube_id": 293,
   "posicao": "Zagueiro",
   "rodadas": [
-    25,
     26,
     27,
     28,
@@ -16,10 +15,10 @@
     32,
     33,
     34,
-    35
+    35,
+    36
   ],
   "pontos": [
-    0.2,
     -0.5,
     -5.2,
     3.7,
@@ -29,10 +28,10 @@
     -0.6,
     5.1,
     0,
+    0,
     0
   ],
   "precos": [
-    5.15,
     5.05,
     4.11,
     5.48,
@@ -42,10 +41,10 @@
     4.71,
     5.56,
     5.56,
+    5.56,
     5.56
   ],
   "variacoes": [
-    -0.66,
     -0.1,
     -0.94,
     1.37,
@@ -55,10 +54,10 @@
     -0.17,
     0.85,
     0,
+    0,
     0
   ],
   "medias": [
-    1.78,
     1.66,
     1.32,
     1.43,
@@ -68,22 +67,10 @@
     1.19,
     1.34,
     1.34,
+    1.34,
     1.34
   ],
   "partidas": [
-    {
-      "rodada_id": 25,
-      "clube_casa": "Athlético-PR",
-      "clube_casa_id": 293,
-      "clube_visitante": "Bahia",
-      "clube_casa_abrev": "ATL",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/09/Athletico-PR-65x65.png",
-      "clube_visitante_id": 265,
-      "clube_visitante_abrev": "BAH",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/bahia_60x60.png",
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 2
-    },
     {
       "rodada_id": 26,
       "clube_casa": "Chapecoense",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/16/cuiaba65.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 36,
+      "clube_casa": "Corinthians",
+      "clube_casa_id": 264,
+      "clube_visitante": "Athlético-PR",
+      "clube_casa_abrev": "COR",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/30/Corinthians_65.png",
+      "clube_visitante_id": 293,
+      "clube_visitante_abrev": "ATL",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/09/Athletico-PR-65x65.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2021/05/02/08540895ccd662f502ed02a60a7d8172_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/09/Athletico-PR-65x65.png",
   "scouts": {
-    "rodada_id": 35,
+    "rodada_id": 36,
     "g": 1,
     "a": 0,
     "sg": 4,

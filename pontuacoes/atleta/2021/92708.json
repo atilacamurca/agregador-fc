@@ -6,7 +6,6 @@
   "clube_id": 275,
   "posicao": "Atacante",
   "rodadas": [
-    25,
     26,
     27,
     28,
@@ -16,10 +15,10 @@
     32,
     33,
     34,
-    35
+    35,
+    36
   ],
   "pontos": [
-    0,
     1.2,
     1.4,
     3,
@@ -29,10 +28,10 @@
     -5,
     0,
     1.4,
-    7.5
+    7.5,
+    0
   ],
   "precos": [
-    6.24,
     6.49,
     6.45,
     6.68,
@@ -42,10 +41,10 @@
     5.25,
     5.25,
     6.12,
+    7.34,
     7.34
   ],
   "variacoes": [
-    -0.26,
     0.25,
     -0.04,
     0.23,
@@ -55,10 +54,10 @@
     -1.05,
     0,
     0.87,
-    1.22
+    1.22,
+    0
   ],
   "medias": [
-    2.63,
     2.56,
     2.5,
     2.52,
@@ -68,22 +67,10 @@
     2.23,
     2.23,
     2.2,
+    2.41,
     2.41
   ],
   "partidas": [
-    {
-      "rodada_id": 25,
-      "clube_casa": "Palmeiras",
-      "clube_casa_id": 275,
-      "clube_visitante": "Bragantino",
-      "clube_casa_abrev": "PAL",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
-      "clube_visitante_id": 280,
-      "clube_visitante_abrev": "BRA",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2020/01/01/65.png",
-      "placar_oficial_mandante": 2,
-      "placar_oficial_visitante": 4
-    },
     {
       "rodada_id": 26,
       "clube_casa": "Bahia",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2017/11/23/Atletico-Mineiro-escudo65px.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 36,
+      "clube_casa": "Cuiabá",
+      "clube_casa_id": 1371,
+      "clube_visitante": "Palmeiras",
+      "clube_casa_abrev": "CUI",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/16/cuiaba65.png",
+      "clube_visitante_id": 275,
+      "clube_visitante_abrev": "PAL",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 3
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2019/06/11/3684f53bf2bdc5eef737b41afec4d5be_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
   "scouts": {
-    "rodada_id": 35,
+    "rodada_id": 36,
     "g": 3,
     "a": 3,
     "sg": 0,
@@ -239,9 +239,9 @@
     "pi": 107,
     "pc": 0,
     "ps": 0,
-    "pontos_num": 7.5,
+    "pontos_num": 0,
     "preco_num": 7.34,
-    "variacao_num": 1.22,
+    "variacao_num": 0,
     "media_num": 2.41,
     "jogos_num": 25,
     "posicao_abrev": "ata",

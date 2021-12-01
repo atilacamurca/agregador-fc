@@ -6,7 +6,6 @@
   "clube_id": 284,
   "posicao": "Atacante",
   "rodadas": [
-    25,
     26,
     27,
     28,
@@ -16,10 +15,10 @@
     32,
     33,
     34,
-    35
+    35,
+    36
   ],
   "pontos": [
-    0.3,
     1.4,
     8.1,
     1.4,
@@ -29,10 +28,10 @@
     1.1,
     6.8,
     1,
+    0,
     0
   ],
   "precos": [
-    11.01,
     11.27,
     12.32,
     11.18,
@@ -42,10 +41,10 @@
     11.14,
     11.87,
     11.07,
+    11.07,
     11.07
   ],
   "variacoes": [
-    -0.11,
     0.26,
     1.05,
     -1.14,
@@ -55,10 +54,10 @@
     -0.02,
     0.73,
     -0.8,
+    0,
     0
   ],
   "medias": [
-    2.01,
     1.97,
     2.31,
     2.26,
@@ -68,22 +67,10 @@
     2.4,
     2.59,
     2.52,
+    2.52,
     2.52
   ],
   "partidas": [
-    {
-      "rodada_id": 25,
-      "clube_casa": "Santos",
-      "clube_casa_id": 277,
-      "clube_visitante": "Grêmio",
-      "clube_casa_abrev": "SAN",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/santos_60x60.png",
-      "clube_visitante_id": 284,
-      "clube_visitante_abrev": "GRE",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/gremio_60x60.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 26,
       "clube_casa": "Fortaleza",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/sao_paulo_60x60.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 36,
+      "clube_casa": "Bahia",
+      "clube_casa_id": 265,
+      "clube_visitante": "Grêmio",
+      "clube_casa_abrev": "BAH",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/bahia_60x60.png",
+      "clube_visitante_id": 284,
+      "clube_visitante_abrev": "GRE",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/gremio_60x60.png",
+      "placar_oficial_mandante": 3,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2021/04/29/a861c36a70f6c8c2ca8e65c0d0347c59_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/gremio_60x60.png",
   "scouts": {
-    "rodada_id": 35,
+    "rodada_id": 36,
     "g": 6,
     "a": 1,
     "sg": 0,
