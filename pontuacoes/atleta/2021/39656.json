@@ -6,7 +6,6 @@
   "clube_id": 282,
   "posicao": "Meia",
   "rodadas": [
-    26,
     27,
     28,
     29,
@@ -16,7 +15,8 @@
     33,
     34,
     35,
-    36
+    36,
+    37
   ],
   "pontos": [
     0,
@@ -29,7 +29,7 @@
     0,
     0,
     0,
-    0
+    -0.1
   ],
   "precos": [
     2.8,
@@ -42,7 +42,7 @@
     2.8,
     2.8,
     2.8,
-    2.8
+    2.55
   ],
   "variacoes": [
     0,
@@ -55,7 +55,7 @@
     0,
     0,
     0,
-    0
+    -0.25
   ],
   "medias": [
     0.2,
@@ -68,22 +68,9 @@
     0.2,
     0.2,
     0.2,
-    0.2
+    0.13
   ],
   "partidas": [
-    {
-      "rodada_id": 26,
-      "clube_casa": "Atlético-MG",
-      "clube_casa_id": 282,
-      "clube_visitante": "Santos",
-      "clube_casa_abrev": "ATL",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2017/11/23/Atletico-Mineiro-escudo65px.png",
-      "clube_visitante_id": 277,
-      "clube_visitante_abrev": "SAN",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/santos_60x60.png",
-      "placar_oficial_mandante": 3,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 27,
       "clube_casa": "Atlético-GO",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/fluminense_60x60.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 37,
+      "clube_casa": "Atlético-MG",
+      "clube_casa_id": 282,
+      "clube_visitante": "Bragantino",
+      "clube_casa_abrev": "ATL",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2017/11/23/Atletico-Mineiro-escudo65px.png",
+      "clube_visitante_id": 280,
+      "clube_visitante_abrev": "BRA",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2020/01/01/65.png",
+      "placar_oficial_mandante": 4,
+      "placar_oficial_visitante": 3
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2021/05/02/fdebad6783b5559cac6ed2d7d429e802_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2017/11/23/Atletico-Mineiro-escudo65px.png",
   "scouts": {
-    "rodada_id": 36,
+    "rodada_id": 37,
     "g": 0,
     "a": 0,
     "sg": 0,
@@ -236,14 +236,14 @@
     "fc": 0,
     "i": 0,
     "ds": 0,
-    "pi": 4,
+    "pi": 5,
     "pc": 0,
     "ps": 0,
-    "pontos_num": 0,
-    "preco_num": 2.8,
-    "variacao_num": 0,
-    "media_num": 0.2,
-    "jogos_num": 3,
+    "pontos_num": -0.1,
+    "preco_num": 2.55,
+    "variacao_num": -0.25,
+    "media_num": 0.13,
+    "jogos_num": 4,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }

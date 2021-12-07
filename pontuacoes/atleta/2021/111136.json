@@ -6,7 +6,6 @@
   "clube_id": 265,
   "posicao": "Atacante",
   "rodadas": [
-    26,
     27,
     28,
     29,
@@ -16,10 +15,10 @@
     33,
     34,
     35,
-    36
+    36,
+    37
   ],
   "pontos": [
-    -2.1,
     2.2,
     0,
     1.8,
@@ -29,10 +28,10 @@
     1.6,
     0.4,
     0,
-    0
+    0,
+    0.7
   ],
   "precos": [
-    0.79,
     1.21,
     0.86,
     1.19,
@@ -42,10 +41,10 @@
     1.22,
     1.05,
     1.05,
-    1.05
+    1.05,
+    1.11
   ],
   "variacoes": [
-    -0.45,
     0.42,
     -0.35,
     0.33,
@@ -55,10 +54,10 @@
     0.12,
     -0.17,
     0,
-    0
+    0,
+    0.06
   ],
   "medias": [
-    0.27,
     0.75,
     0.6,
     0.8,
@@ -68,22 +67,10 @@
     0.91,
     0.85,
     0.85,
-    0.85
+    0.85,
+    0.84
   ],
   "partidas": [
-    {
-      "rodada_id": 26,
-      "clube_casa": "Bahia",
-      "clube_casa_id": 265,
-      "clube_visitante": "Palmeiras",
-      "clube_casa_abrev": "BAH",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/bahia_60x60.png",
-      "clube_visitante_id": 275,
-      "clube_visitante_abrev": "PAL",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 27,
       "clube_casa": "América-MG",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/gremio_60x60.png",
       "placar_oficial_mandante": 3,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 37,
+      "clube_casa": "Bahia",
+      "clube_casa_id": 265,
+      "clube_visitante": "Fluminense",
+      "clube_casa_abrev": "BAH",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/bahia_60x60.png",
+      "clube_visitante_id": 266,
+      "clube_visitante_abrev": "FLU",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/fluminense_60x60.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2021/07/24/bed7a9e96b4da5256fc5bb99072bdb82_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/bahia_60x60.png",
   "scouts": {
-    "rodada_id": 36,
+    "rodada_id": 37,
     "g": 0,
     "a": 0,
     "sg": 0,
@@ -235,15 +235,15 @@
     "gs": 0,
     "fc": 9,
     "i": 0,
-    "ds": 10,
-    "pi": 10,
+    "ds": 11,
+    "pi": 13,
     "pc": 0,
     "ps": 0,
-    "pontos_num": 0,
-    "preco_num": 1.05,
-    "variacao_num": 0,
-    "media_num": 0.85,
-    "jogos_num": 9,
+    "pontos_num": 0.7,
+    "preco_num": 1.11,
+    "variacao_num": 0.06,
+    "media_num": 0.84,
+    "jogos_num": 10,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }

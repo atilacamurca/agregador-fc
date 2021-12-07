@@ -6,7 +6,6 @@
   "clube_id": 275,
   "posicao": "Atacante",
   "rodadas": [
-    26,
     27,
     28,
     29,
@@ -16,7 +15,8 @@
     33,
     34,
     35,
-    36
+    36,
+    37
   ],
   "pontos": [
     0,
@@ -28,8 +28,8 @@
     0,
     0,
     0,
-    0,
-    0.5
+    0.5,
+    0
   ],
   "precos": [
     1,
@@ -41,7 +41,7 @@
     1,
     1,
     1,
-    1,
+    0.89,
     0.89
   ],
   "variacoes": [
@@ -54,8 +54,8 @@
     0,
     0,
     0,
-    0,
-    -0.11
+    -0.11,
+    0
   ],
   "medias": [
     0,
@@ -67,23 +67,10 @@
     0,
     0,
     0,
-    0,
+    0.5,
     0.5
   ],
   "partidas": [
-    {
-      "rodada_id": 26,
-      "clube_casa": "Bahia",
-      "clube_casa_id": 265,
-      "clube_visitante": "Palmeiras",
-      "clube_casa_abrev": "BAH",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/bahia_60x60.png",
-      "clube_visitante_id": 275,
-      "clube_visitante_abrev": "PAL",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 27,
       "clube_casa": "Palmeiras",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 3
+    },
+    {
+      "rodada_id": 37,
+      "clube_casa": "Athlético-PR",
+      "clube_casa_id": 293,
+      "clube_visitante": "Palmeiras",
+      "clube_casa_abrev": "ATL",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/09/Athletico-PR-65x65.png",
+      "clube_visitante_id": 275,
+      "clube_visitante_abrev": "PAL",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2021/06/10/b21878605d25380725017ca3d8131753_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
   "scouts": {
-    "rodada_id": 36,
+    "rodada_id": 37,
     "g": 0,
     "a": 0,
     "sg": 0,
@@ -239,9 +239,9 @@
     "pi": 3,
     "pc": 0,
     "ps": 0,
-    "pontos_num": 0.5,
+    "pontos_num": 0,
     "preco_num": 0.89,
-    "variacao_num": -0.11,
+    "variacao_num": 0,
     "media_num": 0.5,
     "jogos_num": 1,
     "posicao_abrev": "ata",

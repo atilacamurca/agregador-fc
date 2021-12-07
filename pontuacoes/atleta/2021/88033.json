@@ -6,7 +6,6 @@
   "clube_id": 1371,
   "posicao": "Zagueiro",
   "rodadas": [
-    26,
     27,
     28,
     29,
@@ -16,10 +15,10 @@
     33,
     34,
     35,
-    36
+    36,
+    37
   ],
   "pontos": [
-    2.9,
     5.3,
     0.6,
     4.3,
@@ -29,10 +28,10 @@
     6.8,
     5.2,
     0,
-    7.6
+    7.6,
+    6
   ],
   "precos": [
-    4.97,
     5.4,
     4.64,
     5.26,
@@ -42,10 +41,10 @@
     5.65,
     5.55,
     5.55,
-    6.21
+    6.21,
+    5.96
   ],
   "variacoes": [
-    0.81,
     0.43,
     -0.76,
     0.62,
@@ -55,10 +54,10 @@
     1.06,
     -0.1,
     0,
-    0.66
+    0.66,
+    -0.25
   ],
   "medias": [
-    1.82,
     2.4,
     2.14,
     2.41,
@@ -68,22 +67,10 @@
     2.61,
     2.85,
     2.85,
-    3.25
+    3.25,
+    3.46
   ],
   "partidas": [
-    {
-      "rodada_id": 26,
-      "clube_casa": "Cuiabá",
-      "clube_casa_id": 1371,
-      "clube_visitante": "Sport",
-      "clube_casa_abrev": "CUI",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/16/cuiaba65.png",
-      "clube_visitante_id": 292,
-      "clube_visitante_abrev": "SPO",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2015/07/21/sport65.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 27,
       "clube_casa": "Flamengo",
@@ -213,16 +200,29 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 3
+    },
+    {
+      "rodada_id": 37,
+      "clube_casa": "Cuiabá",
+      "clube_casa_id": 1371,
+      "clube_visitante": "Fortaleza",
+      "clube_casa_abrev": "CUI",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/16/cuiaba65.png",
+      "clube_visitante_id": 356,
+      "clube_visitante_abrev": "FOR",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/06/10/fortaleza-ec-65px.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2021/09/01/51e03004d8cc1b23b214d3f4ae3ca22c_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/16/cuiaba65.png",
   "scouts": {
-    "rodada_id": 36,
+    "rodada_id": 37,
     "g": 1,
     "a": 0,
-    "sg": 6,
-    "fs": 8,
+    "sg": 7,
+    "fs": 10,
     "ff": 3,
     "fd": 2,
     "ft": 0,
@@ -233,17 +233,17 @@
     "ca": 3,
     "pp": 0,
     "gs": 0,
-    "fc": 13,
+    "fc": 14,
     "i": 0,
-    "ds": 9,
-    "pi": 44,
+    "ds": 10,
+    "pi": 49,
     "pc": 0,
     "ps": 0,
-    "pontos_num": 7.6,
-    "preco_num": 6.21,
-    "variacao_num": 0.66,
-    "media_num": 3.25,
-    "jogos_num": 12,
+    "pontos_num": 6,
+    "preco_num": 5.96,
+    "variacao_num": -0.25,
+    "media_num": 3.46,
+    "jogos_num": 13,
     "posicao_abrev": "zag",
     "posicao": "Zagueiro"
   }
