@@ -16,7 +16,8 @@
     34,
     35,
     36,
-    37
+    37,
+    38
   ],
   "pontos": [
     0,
@@ -29,7 +30,8 @@
     0,
     0,
     0.5,
-    0
+    0,
+    9.6
   ],
   "precos": [
     1,
@@ -42,7 +44,8 @@
     1,
     1,
     0.89,
-    0.89
+    0.89,
+    2.41
   ],
   "variacoes": [
     0,
@@ -55,7 +58,8 @@
     0,
     0,
     -0.11,
-    0
+    0,
+    1.52
   ],
   "medias": [
     0,
@@ -68,7 +72,8 @@
     0,
     0,
     0.5,
-    0.5
+    0.5,
+    5.05
   ],
   "partidas": [
     {
@@ -213,17 +218,30 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 38,
+      "clube_casa": "Palmeiras",
+      "clube_casa_id": 275,
+      "clube_visitante": "Ceará",
+      "clube_casa_abrev": "PAL",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
+      "clube_visitante_id": 354,
+      "clube_visitante_abrev": "CEA",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/10/10/ceara-65x65.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2021/06/10/b21878605d25380725017ca3d8131753_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
   "scouts": {
-    "rodada_id": 37,
-    "g": 0,
+    "rodada_id": 38,
+    "g": 1,
     "a": 0,
     "sg": 0,
     "fs": 0,
-    "ff": 1,
+    "ff": 2,
     "fd": 0,
     "ft": 0,
     "de": 0,
@@ -235,15 +253,15 @@
     "gs": 0,
     "fc": 0,
     "i": 0,
-    "ds": 0,
-    "pi": 3,
+    "ds": 1,
+    "pi": 5,
     "pc": 0,
     "ps": 0,
-    "pontos_num": 0,
-    "preco_num": 0.89,
-    "variacao_num": 0,
-    "media_num": 0.5,
-    "jogos_num": 1,
+    "pontos_num": 9.6,
+    "preco_num": 2.41,
+    "variacao_num": 1.52,
+    "media_num": 5.05,
+    "jogos_num": 2,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }
