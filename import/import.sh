@@ -62,7 +62,7 @@ source .env
 
 echo "Rodada atual: ${RODADA_ATUAL_ID} de ${GRIDSOME_TEMPORADA}"
 
-curl https://api.cartolafc.globo.com/rodadas -so import/rodadas.json
+curl -L https://api.cartolafc.globo.com/rodadas -so import/rodadas.json
 echo "Atualizando rodadas ..."
 node import/rodadas.js
 
@@ -70,10 +70,10 @@ node import/rodadas.js
 # echo "Atualizando clubes ..."
 # node import/clubes.js
 
-curl https://api.cartolafc.globo.com/atletas/mercado -so import/atletas-mercado.json
+curl -L https://api.cartolafc.globo.com/atletas/mercado -so import/atletas-mercado.json
 echo "Atualizando atletas da rodada ${RODADA_ATUAL_ID} ..."
 node import/atletas-mercado.js
 
-curl https://api.cartolafc.globo.com/partidas/"${RODADA_ATUAL_ID}" -so import/partidas-rodada.json
+curl -L https://api.cartolafc.globo.com/partidas/"${RODADA_ATUAL_ID}" -so import/partidas-rodada.json
 echo "Atualizando partidas da rodada ${RODADA_ATUAL_ID} ..."
 node import/partidas-rodada.js

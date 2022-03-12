@@ -32,11 +32,9 @@ export default {
     font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
 }
 .header {
-    background: #6B960C;
-    background: -webkit-linear-gradient(top left, #36DDAC, #6B960C) fixed;
-    background: -moz-linear-gradient(top left, #36DDAC, #6B960C) fixed;
-    background: linear-gradient(to bottom right, #36DDAC, #6B960C) fixed;
-    background-repeat: no-repeat;
+    background: #f12711;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to left, #f5af19, #f12711);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to left, #f5af19, #f12711); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
     background-size: 100% 50%;
     height: 200px;
 }

@@ -83,14 +83,14 @@ async function save(data) {
         }
         Promise.all(batchPosicoes)
 
-        /*const batchClubes = []
+        const batchClubes = []
         for (id in clubes) {
             batchClubes.push(client.query(UPSERT_CLUBES, [
                 clubes[id].id,
                 clubes[id].nome,
                 clubes[id].nome_fantasia,
                 clubes[id].abreviacao,
-                clubes[id].posicao,
+                clubes[id].posicao || 1,
                 clubes[id].escudos['60x60']
             ]))
             batchClubes.push(client.query(INSERT_CLUBES_TEMPORADA, [
@@ -98,7 +98,7 @@ async function save(data) {
                 CURRENT_YEAR
             ]))
         }
-        Promise.all(batchClubes)*/
+        Promise.all(batchClubes)
 
         const batchAtletas = []
         const batchAtletasMercado = []
