@@ -11,9 +11,9 @@ DECLARE
 BEGIN
   SELECT array_to_json(array_agg(t)) AS JSON FROM
   (SELECT p.abreviacao as pos,
-          coalesce(sum(coalesce(ds, 0) + g * 8 + a * 5 + sg * 5 + fs * 0.5
-          + ff * 0.8 + fd * 1.2 + ft * 3 + dp * 7 + gc * -5
-          + cv * -5 + ca * -2 + pp * -4 + gs * -1 + fc * -0.5 + i * -0.5
+          coalesce(sum(coalesce(ds, 0) * 1.2 + g * 8 + a * 5 + sg * 5 + fs * 0.5
+          + ff * 0.8 + fd * 1.2 + ft * 3 + dp * 7 + gc * -3
+          + cv * -3 + ca * -1 + pp * -4 + gs * -1 + fc * -0.3 + i * -0.1
           + coalesce("pi", 0) * -0.1 + coalesce(de, 0) + coalesce(ps, 0)
           + pc * -1), 0) AS sum_pos
     FROM atletas_mercado am

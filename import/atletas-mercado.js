@@ -49,6 +49,7 @@ VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10, $11, $12, $13, $14, $15, $16, $
         ps=EXCLUDED.ps,
         status_id=EXCLUDED.status_id`
 const CURRENT_YEAR = process.env.GRIDSOME_TEMPORADA
+const RODADA_ATUAL_ID = parseInt(process.env.RODADA_ATUAL_ID)
 
 async function fetch() {
     try {
@@ -83,22 +84,24 @@ async function save(data) {
         }
         Promise.all(batchPosicoes)
 
-        const batchClubes = []
-        for (id in clubes) {
-            batchClubes.push(client.query(UPSERT_CLUBES, [
-                clubes[id].id,
-                clubes[id].nome,
-                clubes[id].nome_fantasia,
-                clubes[id].abreviacao,
-                clubes[id].posicao || 1,
-                clubes[id].escudos['60x60']
-            ]))
-            batchClubes.push(client.query(INSERT_CLUBES_TEMPORADA, [
-                clubes[id].id,
-                CURRENT_YEAR
-            ]))
+        if (RODADA_ATUAL_ID === 1) {
+            const batchClubes = []
+            for (id in clubes) {
+                batchClubes.push(client.query(UPSERT_CLUBES, [
+                    clubes[id].id,
+                    clubes[id].nome,
+                    clubes[id].nome_fantasia,
+                    clubes[id].abreviacao,
+                    1,
+                    clubes[id].escudos['60x60']
+                ]))
+                batchClubes.push(client.query(INSERT_CLUBES_TEMPORADA, [
+                    clubes[id].id,
+                    CURRENT_YEAR
+                ]))
+            }
+            Promise.all(batchClubes)
         }
-        Promise.all(batchClubes)
 
         const batchAtletas = []
         const batchAtletasMercado = []
