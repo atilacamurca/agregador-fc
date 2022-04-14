@@ -60,7 +60,7 @@ query TodasRodadas {
     order: DESC
     sortBy: "rodada"
     skip: 1
-    filter: { ano: { eq: "2021" } }
+    filter: { ano: { eq: "2022" } }
   ) {
     edges {
       node {
