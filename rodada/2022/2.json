@@ -36,18 +36,6 @@
         },
         {
           "media_num": 2,
-          "atleta_id": 84382,
-          "apelido": "Danilo Barcelos",
-          "jogos_num": 1,
-          "preco_num": 4.62,
-          "variacao_num": -0.38,
-          "pontos_num": 2,
-          "foto": "https://s.glbimg.com/es/sde/f/2022/04/05/07d7f2dc608c0833bf6c29c75cb93a43_140x140.png",
-          "nome_posicao": "Lateral",
-          "abreviacao_posicao": "lat"
-        },
-        {
-          "media_num": 2,
           "atleta_id": 82453,
           "apelido": "Tadeu",
           "jogos_num": 1,
@@ -57,6 +45,18 @@
           "foto": "https://s.glbimg.com/es/sde/f/2022/03/10/f9b7377addfcfa29bfa11ee96aecbdc5_140x140.png",
           "nome_posicao": "Goleiro",
           "abreviacao_posicao": "gol"
+        },
+        {
+          "media_num": 2,
+          "atleta_id": 84382,
+          "apelido": "Danilo Barcelos",
+          "jogos_num": 1,
+          "preco_num": 4.62,
+          "variacao_num": -0.38,
+          "pontos_num": 2,
+          "foto": "https://s.glbimg.com/es/sde/f/2022/04/05/07d7f2dc608c0833bf6c29c75cb93a43_140x140.png",
+          "nome_posicao": "Lateral",
+          "abreviacao_posicao": "lat"
         },
         {
           "media_num": 1.7,
@@ -331,31 +331,339 @@
       "clube_casa": "Goiás",
       "escudo_casa": "https://s.glbimg.com/es/sde/f/organizacoes/2021/03/01/goias-65.png",
       "clube_casa_abreviacao": "GOI",
-      "clube_casa_posicao": 19,
+      "clube_casa_posicao": 17,
       "aproveitamento_mandante": [
         "",
         "",
         "",
-        "",
-        "d"
+        "d",
+        "e"
       ],
       "clube_visitante_id": 275,
       "clube_visitante": "Palmeiras",
       "escudo_visitante": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
       "clube_visitante_abreviacao": "PAL",
-      "clube_visitante_posicao": 14,
+      "clube_visitante_posicao": 15,
       "aproveitamento_visitante": [
         "",
         "",
         "",
-        "",
-        "d"
+        "d",
+        "e"
       ],
       "partida_data": "2022-04-16T19:30:00.000Z",
       "local": "Hailé Pinheiro (Serrinha)",
       "valida": true,
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 0,
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 1,
+      "url_confronto": null,
+      "url_transmissao": null
+    },
+    {
+      "partida_id": 287528,
+      "sumario_gols_casa": {
+        "gols_marcados_casa": 0,
+        "gols_marcados_fora": 0,
+        "gols_marcados_total": 0,
+        "gols_sofridos_fora": 1,
+        "gols_sofridos_casa": 0,
+        "gols_sofridos_total": 1
+      },
+      "sumario_gols_visitante": {
+        "gols_marcados_casa": 2,
+        "gols_marcados_fora": 0,
+        "gols_marcados_total": 2,
+        "gols_sofridos_fora": 0,
+        "gols_sofridos_casa": 2,
+        "gols_sofridos_total": 2
+      },
+      "destaques_defesa_casa": [
+        {
+          "media_num": 3.1,
+          "atleta_id": 60969,
+          "apelido": "Patric",
+          "jogos_num": 1,
+          "preco_num": 5.35,
+          "variacao_num": 0.35,
+          "pontos_num": 3.1,
+          "foto": "https://s.glbimg.com/es/sde/f/2022/02/25/7625d982588386e96390538eb699b2a2_140x140.png",
+          "nome_posicao": "Lateral",
+          "abreviacao_posicao": "lat"
+        },
+        {
+          "media_num": 0.3,
+          "atleta_id": 71602,
+          "apelido": "João Paulo",
+          "jogos_num": 1,
+          "preco_num": 2.84,
+          "variacao_num": -1.16,
+          "pontos_num": 0.3,
+          "foto": "https://s.glbimg.com/es/sde/f/2022/04/10/e261c53cb607072efab6bcc6f7bd1836_140x140.png",
+          "nome_posicao": "Lateral",
+          "abreviacao_posicao": "lat"
+        }
+      ],
+      "destaques_defesa_visitante": [
+        {
+          "media_num": 3.5,
+          "atleta_id": 97537,
+          "apelido": "Busanello",
+          "jogos_num": 1,
+          "preco_num": 4.29,
+          "variacao_num": 1.29,
+          "pontos_num": 3.5,
+          "foto": "https://s.glbimg.com/es/sde/f/2022/03/19/9a30d49720fb53d5ad43eef3f82e8dc2_140x140.png",
+          "nome_posicao": "Lateral",
+          "abreviacao_posicao": "lat"
+        },
+        {
+          "media_num": 0.8,
+          "atleta_id": 68817,
+          "apelido": "Paulo Miranda",
+          "jogos_num": 1,
+          "preco_num": 2.51,
+          "variacao_num": -0.49,
+          "pontos_num": 0.8,
+          "foto": "https://s.glbimg.com/es/sde/f/2022/03/03/84da02cce1e593cb658cfcf2deef669d_140x140.png",
+          "nome_posicao": "Zagueiro",
+          "abreviacao_posicao": "zag"
+        }
+      ],
+      "goleiros_casa": {
+        "sum_sg": 0,
+        "sum_de": 1,
+        "sum_dp": 0,
+        "sum_gs": 1
+      },
+      "goleiros_visitante": {
+        "sum_sg": 0,
+        "sum_de": 2,
+        "sum_dp": 0,
+        "sum_gs": 2
+      },
+      "zagueiros_casa": {
+        "sum_g": 0,
+        "sum_gc": 0,
+        "sum_fs": 0,
+        "sum_ca": 1,
+        "sum_fc": 2,
+        "sum_pe": 0,
+        "sum_ds": 1,
+        "sum_pi": 12,
+        "sum_pc": 0
+      },
+      "zagueiros_visitante": {
+        "sum_g": 0,
+        "sum_gc": 1,
+        "sum_fs": 2,
+        "sum_ca": 2,
+        "sum_fc": 3,
+        "sum_pe": 0,
+        "sum_ds": 2,
+        "sum_pi": 10,
+        "sum_pc": 0
+      },
+      "laterais_casa": {
+        "sum_ds": 1,
+        "sum_g": 0,
+        "sum_a": 0,
+        "sum_fs": 0,
+        "sum_pe": 0,
+        "sum_pi": 12,
+        "sum_ff": 0,
+        "sum_fd": 0,
+        "sum_fc": 2,
+        "sum_pc": 0
+      },
+      "laterais_visitante": {
+        "sum_ds": 2,
+        "sum_g": 0,
+        "sum_a": 0,
+        "sum_fs": 2,
+        "sum_pe": 0,
+        "sum_pi": 10,
+        "sum_ff": 1,
+        "sum_fd": 0,
+        "sum_fc": 3,
+        "sum_pc": 0
+      },
+      "meias_casa": {
+        "sum_g": 0,
+        "sum_a": 0,
+        "sum_fs": 6,
+        "sum_ff": 1,
+        "sum_fc": 7,
+        "sum_ps": 0,
+        "sum_fd": 0,
+        "sum_ca": 1,
+        "sum_pe": 0,
+        "sum_ds": 8,
+        "sum_pi": 21
+      },
+      "meias_visitante": {
+        "sum_g": 0,
+        "sum_a": 0,
+        "sum_fs": 7,
+        "sum_ff": 1,
+        "sum_fc": 5,
+        "sum_ps": 0,
+        "sum_fd": 1,
+        "sum_ca": 1,
+        "sum_pe": 0,
+        "sum_ds": 10,
+        "sum_pi": 20
+      },
+      "atacantes_casa": {
+        "sum_g": 0,
+        "sum_a": 0,
+        "sum_fs": 9,
+        "sum_ff": 0,
+        "sum_pp": 0,
+        "sum_fc": 5,
+        "sum_i": 2,
+        "sum_fd": 1,
+        "sum_ps": 0
+      },
+      "atacantes_visitante": {
+        "sum_g": 1,
+        "sum_a": 0,
+        "sum_fs": 7,
+        "sum_ff": 1,
+        "sum_pp": 0,
+        "sum_fc": 4,
+        "sum_i": 3,
+        "sum_fd": 3,
+        "sum_ps": 0
+      },
+      "destaques_ataque_casa": [
+        {
+          "media_num": 7.4,
+          "atleta_id": 86388,
+          "apelido": "Alê",
+          "jogos_num": 1,
+          "preco_num": 8.85,
+          "variacao_num": 2.85,
+          "pontos_num": 7.4,
+          "foto": "https://s.glbimg.com/es/sde/f/2022/02/24/4b65fc3f258e926df6bf12c3abbfa9a0_140x140.png",
+          "nome_posicao": "Meia",
+          "abreviacao_posicao": "mei"
+        },
+        {
+          "media_num": 4.9,
+          "atleta_id": 91151,
+          "apelido": "Everaldo ",
+          "jogos_num": 1,
+          "preco_num": 6.54,
+          "variacao_num": 1.54,
+          "pontos_num": 4.9,
+          "foto": "https://s.glbimg.com/es/sde/f/2022/02/25/561f3ca4238e82e1b2e1479a1a66c551_140x140.png",
+          "nome_posicao": "Atacante",
+          "abreviacao_posicao": "ata"
+        },
+        {
+          "media_num": 2.9,
+          "atleta_id": 82381,
+          "apelido": "Juninho",
+          "jogos_num": 1,
+          "preco_num": 5.88,
+          "variacao_num": -0.12,
+          "pontos_num": 2.9,
+          "foto": "https://s.glbimg.com/es/sde/f/2022/02/24/fb366714954149fbf7b493465bba1d9e_140x140.png",
+          "nome_posicao": "Meia",
+          "abreviacao_posicao": "mei"
+        },
+        {
+          "media_num": 1.5,
+          "atleta_id": 100103,
+          "apelido": "Pedrinho",
+          "jogos_num": 1,
+          "preco_num": 3.63,
+          "variacao_num": -0.37,
+          "pontos_num": 1.5,
+          "foto": "https://s.glbimg.com/es/sde/f/2022/03/08/309c47dae98681ea166c6c5dfef07f5a_140x140.png",
+          "nome_posicao": "Atacante",
+          "abreviacao_posicao": "ata"
+        }
+      ],
+      "destaques_ataque_visitante": [
+        {
+          "media_num": 9,
+          "atleta_id": 71691,
+          "apelido": "Óscar Ruíz",
+          "jogos_num": 1,
+          "preco_num": 9.25,
+          "variacao_num": 4.25,
+          "pontos_num": 9,
+          "foto": "https://s.glbimg.com/es/sde/f/2022/03/29/898734e22fa875d79527394af4789eeb_140x140.png",
+          "nome_posicao": "Atacante",
+          "abreviacao_posicao": "ata"
+        },
+        {
+          "media_num": 8.2,
+          "atleta_id": 82640,
+          "apelido": "Paulinho Moccelin",
+          "jogos_num": 1,
+          "preco_num": 8.06,
+          "variacao_num": 4.06,
+          "pontos_num": 8.2,
+          "foto": "https://s.glbimg.com/es/sde/f/2022/03/28/14a09169dc180c16b6d92687a244b03f_140x140.png",
+          "nome_posicao": "Atacante",
+          "abreviacao_posicao": "ata"
+        },
+        {
+          "media_num": 5.4,
+          "atleta_id": 80129,
+          "apelido": "Jadson",
+          "jogos_num": 1,
+          "preco_num": 7.53,
+          "variacao_num": 1.53,
+          "pontos_num": 5.4,
+          "foto": "https://s.glbimg.com/es/sde/f/2022/03/03/f6f0935d45f36314cddff53717eee8de_140x140.png",
+          "nome_posicao": "Meia",
+          "abreviacao_posicao": "mei"
+        },
+        {
+          "media_num": 4.9,
+          "atleta_id": 94894,
+          "apelido": "Capixaba",
+          "jogos_num": 1,
+          "preco_num": 5.88,
+          "variacao_num": 1.88,
+          "pontos_num": 4.9,
+          "foto": "https://s.glbimg.com/es/sde/f/2022/03/03/9bdded7e0046ad8500605256f741994b_140x140.png",
+          "nome_posicao": "Atacante",
+          "abreviacao_posicao": "ata"
+        }
+      ],
+      "clube_casa_id": 327,
+      "clube_casa": "América-MG",
+      "escudo_casa": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/28/escudo65_1.png",
+      "clube_casa_abreviacao": "AME",
+      "clube_casa_posicao": 9,
+      "aproveitamento_mandante": [
+        "",
+        "",
+        "",
+        "d",
+        "v"
+      ],
+      "clube_visitante_id": 286,
+      "clube_visitante": "Juventude",
+      "escudo_visitante": "https://s.glbimg.com/es/sde/f/organizacoes/2021/04/29/juventude65.png",
+      "clube_visitante_abreviacao": "JUV",
+      "clube_visitante_posicao": 16,
+      "aproveitamento_visitante": [
+        "",
+        "",
+        "",
+        "e",
+        "d"
+      ],
+      "partida_data": "2022-04-16T22:00:00.000Z",
+      "local": "Independência",
+      "valida": true,
+      "placar_oficial_mandante": 4,
+      "placar_oficial_visitante": 1,
       "url_confronto": null,
       "url_transmissao": null
     },
@@ -687,338 +995,30 @@
       "clube_casa": "Corinthians",
       "escudo_casa": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/30/Corinthians_65.png",
       "clube_casa_abreviacao": "COR",
-      "clube_casa_posicao": 3,
+      "clube_casa_posicao": 1,
       "aproveitamento_mandante": [
         "",
         "",
         "",
-        "",
+        "v",
         "v"
       ],
       "clube_visitante_id": 314,
       "clube_visitante": "Avaí",
       "escudo_visitante": "https://s.glbimg.com/es/sde/f/organizacoes/2018/09/04/escudo-avai-65x65.png",
       "clube_visitante_abreviacao": "AVA",
-      "clube_visitante_posicao": 6,
+      "clube_visitante_posicao": 14,
       "aproveitamento_visitante": [
         "",
         "",
         "",
-        "",
-        "v"
+        "v",
+        "d"
       ],
       "partida_data": "2022-04-16T22:00:00.000Z",
       "local": "Neo Química Arena",
       "valida": true,
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 0,
-      "url_confronto": null,
-      "url_transmissao": null
-    },
-    {
-      "partida_id": 287528,
-      "sumario_gols_casa": {
-        "gols_marcados_casa": 0,
-        "gols_marcados_fora": 0,
-        "gols_marcados_total": 0,
-        "gols_sofridos_fora": 1,
-        "gols_sofridos_casa": 0,
-        "gols_sofridos_total": 1
-      },
-      "sumario_gols_visitante": {
-        "gols_marcados_casa": 2,
-        "gols_marcados_fora": 0,
-        "gols_marcados_total": 2,
-        "gols_sofridos_fora": 0,
-        "gols_sofridos_casa": 2,
-        "gols_sofridos_total": 2
-      },
-      "destaques_defesa_casa": [
-        {
-          "media_num": 3.1,
-          "atleta_id": 60969,
-          "apelido": "Patric",
-          "jogos_num": 1,
-          "preco_num": 5.35,
-          "variacao_num": 0.35,
-          "pontos_num": 3.1,
-          "foto": "https://s.glbimg.com/es/sde/f/2022/02/25/7625d982588386e96390538eb699b2a2_140x140.png",
-          "nome_posicao": "Lateral",
-          "abreviacao_posicao": "lat"
-        },
-        {
-          "media_num": 0.3,
-          "atleta_id": 71602,
-          "apelido": "João Paulo",
-          "jogos_num": 1,
-          "preco_num": 2.84,
-          "variacao_num": -1.16,
-          "pontos_num": 0.3,
-          "foto": "https://s.glbimg.com/es/sde/f/2022/04/10/e261c53cb607072efab6bcc6f7bd1836_140x140.png",
-          "nome_posicao": "Lateral",
-          "abreviacao_posicao": "lat"
-        }
-      ],
-      "destaques_defesa_visitante": [
-        {
-          "media_num": 3.5,
-          "atleta_id": 97537,
-          "apelido": "Busanello",
-          "jogos_num": 1,
-          "preco_num": 4.29,
-          "variacao_num": 1.29,
-          "pontos_num": 3.5,
-          "foto": "https://s.glbimg.com/es/sde/f/2022/03/19/9a30d49720fb53d5ad43eef3f82e8dc2_140x140.png",
-          "nome_posicao": "Lateral",
-          "abreviacao_posicao": "lat"
-        },
-        {
-          "media_num": 0.8,
-          "atleta_id": 68817,
-          "apelido": "Paulo Miranda",
-          "jogos_num": 1,
-          "preco_num": 2.51,
-          "variacao_num": -0.49,
-          "pontos_num": 0.8,
-          "foto": "https://s.glbimg.com/es/sde/f/2022/03/03/84da02cce1e593cb658cfcf2deef669d_140x140.png",
-          "nome_posicao": "Zagueiro",
-          "abreviacao_posicao": "zag"
-        }
-      ],
-      "goleiros_casa": {
-        "sum_sg": 0,
-        "sum_de": 1,
-        "sum_dp": 0,
-        "sum_gs": 1
-      },
-      "goleiros_visitante": {
-        "sum_sg": 0,
-        "sum_de": 2,
-        "sum_dp": 0,
-        "sum_gs": 2
-      },
-      "zagueiros_casa": {
-        "sum_g": 0,
-        "sum_gc": 0,
-        "sum_fs": 0,
-        "sum_ca": 1,
-        "sum_fc": 2,
-        "sum_pe": 0,
-        "sum_ds": 1,
-        "sum_pi": 12,
-        "sum_pc": 0
-      },
-      "zagueiros_visitante": {
-        "sum_g": 0,
-        "sum_gc": 1,
-        "sum_fs": 2,
-        "sum_ca": 2,
-        "sum_fc": 3,
-        "sum_pe": 0,
-        "sum_ds": 2,
-        "sum_pi": 10,
-        "sum_pc": 0
-      },
-      "laterais_casa": {
-        "sum_ds": 1,
-        "sum_g": 0,
-        "sum_a": 0,
-        "sum_fs": 0,
-        "sum_pe": 0,
-        "sum_pi": 12,
-        "sum_ff": 0,
-        "sum_fd": 0,
-        "sum_fc": 2,
-        "sum_pc": 0
-      },
-      "laterais_visitante": {
-        "sum_ds": 2,
-        "sum_g": 0,
-        "sum_a": 0,
-        "sum_fs": 2,
-        "sum_pe": 0,
-        "sum_pi": 10,
-        "sum_ff": 1,
-        "sum_fd": 0,
-        "sum_fc": 3,
-        "sum_pc": 0
-      },
-      "meias_casa": {
-        "sum_g": 0,
-        "sum_a": 0,
-        "sum_fs": 6,
-        "sum_ff": 1,
-        "sum_fc": 7,
-        "sum_ps": 0,
-        "sum_fd": 0,
-        "sum_ca": 1,
-        "sum_pe": 0,
-        "sum_ds": 8,
-        "sum_pi": 21
-      },
-      "meias_visitante": {
-        "sum_g": 0,
-        "sum_a": 0,
-        "sum_fs": 7,
-        "sum_ff": 1,
-        "sum_fc": 5,
-        "sum_ps": 0,
-        "sum_fd": 1,
-        "sum_ca": 1,
-        "sum_pe": 0,
-        "sum_ds": 10,
-        "sum_pi": 20
-      },
-      "atacantes_casa": {
-        "sum_g": 0,
-        "sum_a": 0,
-        "sum_fs": 9,
-        "sum_ff": 0,
-        "sum_pp": 0,
-        "sum_fc": 5,
-        "sum_i": 2,
-        "sum_fd": 1,
-        "sum_ps": 0
-      },
-      "atacantes_visitante": {
-        "sum_g": 1,
-        "sum_a": 0,
-        "sum_fs": 7,
-        "sum_ff": 1,
-        "sum_pp": 0,
-        "sum_fc": 4,
-        "sum_i": 3,
-        "sum_fd": 3,
-        "sum_ps": 0
-      },
-      "destaques_ataque_casa": [
-        {
-          "media_num": 7.4,
-          "atleta_id": 86388,
-          "apelido": "Alê",
-          "jogos_num": 1,
-          "preco_num": 8.85,
-          "variacao_num": 2.85,
-          "pontos_num": 7.4,
-          "foto": "https://s.glbimg.com/es/sde/f/2022/02/24/4b65fc3f258e926df6bf12c3abbfa9a0_140x140.png",
-          "nome_posicao": "Meia",
-          "abreviacao_posicao": "mei"
-        },
-        {
-          "media_num": 4.9,
-          "atleta_id": 91151,
-          "apelido": "Everaldo ",
-          "jogos_num": 1,
-          "preco_num": 6.54,
-          "variacao_num": 1.54,
-          "pontos_num": 4.9,
-          "foto": "https://s.glbimg.com/es/sde/f/2022/02/25/561f3ca4238e82e1b2e1479a1a66c551_140x140.png",
-          "nome_posicao": "Atacante",
-          "abreviacao_posicao": "ata"
-        },
-        {
-          "media_num": 2.9,
-          "atleta_id": 82381,
-          "apelido": "Juninho",
-          "jogos_num": 1,
-          "preco_num": 5.88,
-          "variacao_num": -0.12,
-          "pontos_num": 2.9,
-          "foto": "https://s.glbimg.com/es/sde/f/2022/02/24/fb366714954149fbf7b493465bba1d9e_140x140.png",
-          "nome_posicao": "Meia",
-          "abreviacao_posicao": "mei"
-        },
-        {
-          "media_num": 1.5,
-          "atleta_id": 100103,
-          "apelido": "Pedrinho",
-          "jogos_num": 1,
-          "preco_num": 3.63,
-          "variacao_num": -0.37,
-          "pontos_num": 1.5,
-          "foto": "https://s.glbimg.com/es/sde/f/2022/03/08/309c47dae98681ea166c6c5dfef07f5a_140x140.png",
-          "nome_posicao": "Atacante",
-          "abreviacao_posicao": "ata"
-        }
-      ],
-      "destaques_ataque_visitante": [
-        {
-          "media_num": 9,
-          "atleta_id": 71691,
-          "apelido": "Óscar Ruíz",
-          "jogos_num": 1,
-          "preco_num": 9.25,
-          "variacao_num": 4.25,
-          "pontos_num": 9,
-          "foto": "https://s.glbimg.com/es/sde/f/2022/03/29/898734e22fa875d79527394af4789eeb_140x140.png",
-          "nome_posicao": "Atacante",
-          "abreviacao_posicao": "ata"
-        },
-        {
-          "media_num": 8.2,
-          "atleta_id": 82640,
-          "apelido": "Paulinho Moccelin",
-          "jogos_num": 1,
-          "preco_num": 8.06,
-          "variacao_num": 4.06,
-          "pontos_num": 8.2,
-          "foto": "https://s.glbimg.com/es/sde/f/2022/03/28/14a09169dc180c16b6d92687a244b03f_140x140.png",
-          "nome_posicao": "Atacante",
-          "abreviacao_posicao": "ata"
-        },
-        {
-          "media_num": 5.4,
-          "atleta_id": 80129,
-          "apelido": "Jadson",
-          "jogos_num": 1,
-          "preco_num": 7.53,
-          "variacao_num": 1.53,
-          "pontos_num": 5.4,
-          "foto": "https://s.glbimg.com/es/sde/f/2022/03/03/f6f0935d45f36314cddff53717eee8de_140x140.png",
-          "nome_posicao": "Meia",
-          "abreviacao_posicao": "mei"
-        },
-        {
-          "media_num": 4.9,
-          "atleta_id": 94894,
-          "apelido": "Capixaba",
-          "jogos_num": 1,
-          "preco_num": 5.88,
-          "variacao_num": 1.88,
-          "pontos_num": 4.9,
-          "foto": "https://s.glbimg.com/es/sde/f/2022/03/03/9bdded7e0046ad8500605256f741994b_140x140.png",
-          "nome_posicao": "Atacante",
-          "abreviacao_posicao": "ata"
-        }
-      ],
-      "clube_casa_id": 327,
-      "clube_casa": "América-MG",
-      "escudo_casa": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/28/escudo65_1.png",
-      "clube_casa_abreviacao": "AME",
-      "clube_casa_posicao": 16,
-      "aproveitamento_mandante": [
-        "",
-        "",
-        "",
-        "",
-        "d"
-      ],
-      "clube_visitante_id": 286,
-      "clube_visitante": "Juventude",
-      "escudo_visitante": "https://s.glbimg.com/es/sde/f/organizacoes/2021/04/29/juventude65.png",
-      "clube_visitante_abreviacao": "JUV",
-      "clube_visitante_posicao": 8,
-      "aproveitamento_visitante": [
-        "",
-        "",
-        "",
-        "",
-        "e"
-      ],
-      "partida_data": "2022-04-16T22:00:00.000Z",
-      "local": "Independência",
-      "valida": true,
-      "placar_oficial_mandante": 0,
+      "placar_oficial_mandante": 3,
       "placar_oficial_visitante": 0,
       "url_confronto": null,
       "url_transmissao": null
@@ -1351,31 +1351,31 @@
       "clube_casa": "Cuiabá",
       "escudo_casa": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/16/cuiaba65.png",
       "clube_casa_abreviacao": "CUI",
-      "clube_casa_posicao": 6,
+      "clube_casa_posicao": 11,
       "aproveitamento_mandante": [
         "",
         "",
         "",
-        "",
-        "v"
+        "v",
+        "d"
       ],
       "clube_visitante_id": 266,
       "clube_visitante": "Fluminense",
       "escudo_visitante": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/fluminense_60x60.png",
       "clube_visitante_abreviacao": "FLU",
-      "clube_visitante_posicao": 13,
+      "clube_visitante_posicao": 6,
       "aproveitamento_visitante": [
         "",
         "",
         "",
-        "",
-        "e"
+        "e",
+        "v"
       ],
       "partida_data": "2022-04-17T00:00:00.000Z",
       "local": "Arena Pantanal",
       "valida": true,
       "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 0,
+      "placar_oficial_visitante": 1,
       "url_confronto": null,
       "url_transmissao": null
     },
@@ -1707,31 +1707,31 @@
       "clube_casa": "Santos",
       "escudo_casa": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/santos_60x60.png",
       "clube_casa_abreviacao": "SAN",
-      "clube_casa_posicao": 12,
+      "clube_casa_posicao": 5,
       "aproveitamento_mandante": [
         "",
         "",
         "",
-        "",
-        "e"
+        "e",
+        "v"
       ],
       "clube_visitante_id": 294,
       "clube_visitante": "Coritiba",
       "escudo_visitante": "https://s.glbimg.com/es/sde/f/organizacoes/2017/03/29/coritiba65.png",
       "clube_visitante_abreviacao": "COR",
-      "clube_visitante_posicao": 2,
+      "clube_visitante_posicao": 8,
       "aproveitamento_visitante": [
         "",
         "",
         "",
-        "",
-        "v"
+        "v",
+        "d"
       ],
       "partida_data": "2022-04-17T14:00:00.000Z",
       "local": "Vila Belmiro",
       "valida": true,
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 0,
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 1,
       "url_confronto": null,
       "url_transmissao": null
     },
@@ -2063,31 +2063,31 @@
       "clube_casa": "Flamengo",
       "escudo_casa": "https://s.glbimg.com/es/sde/f/organizacoes/2018/04/09/Flamengo-65.png",
       "clube_casa_abreviacao": "FLA",
-      "clube_casa_posicao": 10,
+      "clube_casa_posicao": 4,
       "aproveitamento_mandante": [
         "",
         "",
         "",
-        "",
-        "e"
+        "e",
+        "v"
       ],
       "clube_visitante_id": 276,
       "clube_visitante": "São Paulo",
       "escudo_visitante": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/sao_paulo_60x60.png",
       "clube_visitante_abreviacao": "SAO",
-      "clube_visitante_posicao": 1,
+      "clube_visitante_posicao": 7,
       "aproveitamento_visitante": [
         "",
         "",
         "",
-        "",
-        "v"
+        "v",
+        "d"
       ],
       "partida_data": "2022-04-17T19:00:00.000Z",
       "local": "Maracanã",
       "valida": true,
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 0,
+      "placar_oficial_mandante": 3,
+      "placar_oficial_visitante": 1,
       "url_confronto": null,
       "url_transmissao": null
     },
@@ -2419,30 +2419,30 @@
       "clube_casa": "Bragantino",
       "escudo_casa": "https://s.glbimg.com/es/sde/f/organizacoes/2020/01/01/65.png",
       "clube_casa_abreviacao": "BRA",
-      "clube_casa_posicao": 9,
+      "clube_casa_posicao": 3,
       "aproveitamento_mandante": [
         "",
         "",
         "",
-        "",
-        "e"
+        "e",
+        "v"
       ],
       "clube_visitante_id": 373,
       "clube_visitante": "Atlético-GO",
       "escudo_visitante": "https://s.glbimg.com/es/sde/f/organizacoes/2020/07/02/atletico-go-2020-65.png",
       "clube_visitante_abreviacao": "ATL",
-      "clube_visitante_posicao": 11,
+      "clube_visitante_posicao": 18,
       "aproveitamento_visitante": [
         "",
         "",
         "",
-        "",
-        "e"
+        "e",
+        "d"
       ],
       "partida_data": "2022-04-17T21:00:00.000Z",
       "local": "Nabi Abi Chedid",
       "valida": true,
-      "placar_oficial_mandante": 0,
+      "placar_oficial_mandante": 4,
       "placar_oficial_visitante": 0,
       "url_confronto": null,
       "url_transmissao": null
@@ -2775,31 +2775,31 @@
       "clube_casa": "Internacional",
       "escudo_casa": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/03/inter65.png",
       "clube_casa_abreviacao": "INT",
-      "clube_casa_posicao": 18,
+      "clube_casa_posicao": 13,
       "aproveitamento_mandante": [
         "",
         "",
         "",
-        "",
-        "d"
+        "d",
+        "v"
       ],
       "clube_visitante_id": 356,
       "clube_visitante": "Fortaleza",
       "escudo_visitante": "https://s.glbimg.com/es/sde/f/organizacoes/2021/09/19/65_0000_Fortaleza-2021.png",
       "clube_visitante_abreviacao": "FOR",
-      "clube_visitante_posicao": 15,
+      "clube_visitante_posicao": 19,
       "aproveitamento_visitante": [
         "",
         "",
         "",
-        "",
+        "d",
         "d"
       ],
       "partida_data": "2022-04-17T21:00:00.000Z",
       "local": "Beira-Rio",
       "valida": true,
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 0,
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 1,
       "url_confronto": null,
       "url_transmissao": null
     },
@@ -3136,26 +3136,26 @@
         "",
         "",
         "",
-        "",
+        "d",
         "d"
       ],
       "clube_visitante_id": 282,
       "clube_visitante": "Atlético-MG",
       "escudo_visitante": "https://s.glbimg.com/es/sde/f/organizacoes/2017/11/23/Atletico-Mineiro-escudo65px.png",
       "clube_visitante_abreviacao": "ATL",
-      "clube_visitante_posicao": 4,
+      "clube_visitante_posicao": 2,
       "aproveitamento_visitante": [
         "",
         "",
         "",
-        "",
+        "v",
         "v"
       ],
       "partida_data": "2022-04-17T21:00:00.000Z",
       "local": "Arena da Baixada",
       "valida": true,
       "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 0,
+      "placar_oficial_visitante": 1,
       "url_confronto": null,
       "url_transmissao": null
     },
@@ -3487,31 +3487,31 @@
       "clube_casa": "Ceará",
       "escudo_casa": "https://s.glbimg.com/es/sde/f/organizacoes/2019/10/10/ceara-65x65.png",
       "clube_casa_abreviacao": "CEA",
-      "clube_casa_posicao": 5,
+      "clube_casa_posicao": 12,
       "aproveitamento_mandante": [
         "",
         "",
         "",
-        "",
-        "v"
+        "v",
+        "d"
       ],
       "clube_visitante_id": 263,
       "clube_visitante": "Botafogo",
       "escudo_visitante": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/04/botafogo-65.png",
       "clube_visitante_abreviacao": "BOT",
-      "clube_visitante_posicao": 17,
+      "clube_visitante_posicao": 10,
       "aproveitamento_visitante": [
         "",
         "",
         "",
-        "",
-        "d"
+        "d",
+        "v"
       ],
       "partida_data": "2022-04-17T22:00:00.000Z",
       "local": "Castelão (CE)",
       "valida": true,
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 0,
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 3,
       "url_confronto": null,
       "url_transmissao": null
     }

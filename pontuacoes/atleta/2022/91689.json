@@ -6,19 +6,24 @@
   "clube_id": 356,
   "posicao": "Meia",
   "rodadas": [
-    1
+    1,
+    2
   ],
   "pontos": [
-    0.2
+    0.2,
+    -1
   ],
   "precos": [
-    2.77
+    2.77,
+    1.53
   ],
   "variacoes": [
-    -1.23
+    -1.23,
+    -1.24
   ],
   "medias": [
-    0.2
+    0.2,
+    -0.8
   ],
   "partidas": [
     {
@@ -33,12 +38,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/16/cuiaba65.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 2,
+      "clube_casa": "Internacional",
+      "clube_casa_id": 285,
+      "clube_visitante": "Fortaleza",
+      "clube_casa_abrev": "INT",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/03/inter65.png",
+      "clube_visitante_id": 356,
+      "clube_visitante_abrev": "FOR",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2021/09/19/65_0000_Fortaleza-2021.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2022/02/25/de27620175420ac01063981479ba898c_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2021/09/19/65_0000_Fortaleza-2021.png",
   "scouts": {
-    "rodada_id": 1,
+    "rodada_id": 2,
     "g": 0,
     "a": 0,
     "sg": 0,
@@ -50,7 +68,7 @@
     "dp": 0,
     "gc": 0,
     "cv": 0,
-    "ca": 0,
+    "ca": 1,
     "pp": 0,
     "gs": 0,
     "fc": 2,
@@ -59,10 +77,10 @@
     "pi": 4,
     "pc": 0,
     "ps": 0,
-    "pontos_num": 0.2,
-    "preco_num": 2.77,
-    "variacao_num": -1.23,
-    "media_num": 0.2,
+    "pontos_num": -1,
+    "preco_num": 1.53,
+    "variacao_num": -1.24,
+    "media_num": -0.8,
     "jogos_num": 1,
     "posicao_abrev": "mei",
     "posicao": "Meia"
