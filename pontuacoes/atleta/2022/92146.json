@@ -7,22 +7,27 @@
   "posicao": "Atacante",
   "rodadas": [
     1,
-    2
+    2,
+    3
   ],
   "pontos": [
     2.5,
-    0.7
+    0.7,
+    0
   ],
   "precos": [
     4.29,
+    3.89,
     3.89
   ],
   "variacoes": [
     0.29,
-    -0.4
+    -0.4,
+    0
   ],
   "medias": [
     2.5,
+    1.6,
     1.6
   ],
   "partidas": [
@@ -51,12 +56,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/fluminense_60x60.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 3,
+      "clube_casa": "Juventude",
+      "clube_casa_id": 286,
+      "clube_visitante": "Cuiabá",
+      "clube_casa_abrev": "JUV",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2021/04/29/juventude65.png",
+      "clube_visitante_id": 1371,
+      "clube_visitante_abrev": "CUI",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/16/cuiaba65.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2022/02/23/4ba86feb09facb90b3a01b1712c3c8f5_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/16/cuiaba65.png",
   "scouts": {
-    "rodada_id": 2,
+    "rodada_id": 3,
     "g": 0,
     "a": 0,
     "sg": 0,
@@ -77,9 +95,9 @@
     "pi": 3,
     "pc": 0,
     "ps": 0,
-    "pontos_num": 0.7,
+    "pontos_num": 0,
     "preco_num": 3.89,
-    "variacao_num": -0.4,
+    "variacao_num": 0,
     "media_num": 1.6,
     "jogos_num": 2,
     "posicao_abrev": "ata",

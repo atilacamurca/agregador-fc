@@ -7,23 +7,28 @@
   "posicao": "Zagueiro",
   "rodadas": [
     1,
-    2
+    2,
+    3
   ],
   "pontos": [
     8.3,
-    4.4
+    4.4,
+    15.2
   ],
   "precos": [
     14.73,
-    14.09
+    14.09,
+    17.17
   ],
   "variacoes": [
     0.73,
-    -0.64
+    -0.64,
+    3.08
   ],
   "medias": [
     8.3,
-    6.35
+    6.35,
+    9.3
   ],
   "partidas": [
     {
@@ -51,37 +56,50 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 3,
+      "clube_casa": "Palmeiras",
+      "clube_casa_id": 275,
+      "clube_visitante": "Corinthians",
+      "clube_casa_abrev": "PAL",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
+      "clube_visitante_id": 264,
+      "clube_visitante_abrev": "COR",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/30/Corinthians_65.png",
+      "placar_oficial_mandante": 3,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2022/02/21/f210b8623194d0722dd0d76585950fb1_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
   "scouts": {
-    "rodada_id": 2,
-    "g": 1,
+    "rodada_id": 3,
+    "g": 2,
     "a": 0,
-    "sg": 0,
-    "fs": 1,
-    "ff": 3,
-    "fd": 0,
+    "sg": 1,
+    "fs": 2,
+    "ff": 4,
+    "fd": 1,
     "ft": 0,
     "de": 0,
     "dp": 0,
     "gc": 0,
     "cv": 0,
-    "ca": 0,
+    "ca": 1,
     "pp": 0,
     "gs": 0,
     "fc": 1,
     "i": 1,
-    "ds": 3,
-    "pi": 14,
+    "ds": 4,
+    "pi": 19,
     "pc": 0,
     "ps": 0,
-    "pontos_num": 4.4,
-    "preco_num": 14.09,
-    "variacao_num": -0.64,
-    "media_num": 6.35,
-    "jogos_num": 2,
+    "pontos_num": 15.2,
+    "preco_num": 17.17,
+    "variacao_num": 3.08,
+    "media_num": 9.3,
+    "jogos_num": 3,
     "posicao_abrev": "zag",
     "posicao": "Zagueiro"
   }

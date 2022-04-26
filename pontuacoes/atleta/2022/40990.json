@@ -7,22 +7,27 @@
   "posicao": "Técnico",
   "rodadas": [
     1,
-    2
+    2,
+    3
   ],
   "pontos": [
     3.69,
-    1.67
+    1.67,
+    0
   ],
   "precos": [
     7.06,
+    6.5,
     6.5
   ],
   "variacoes": [
     0.06,
-    -0.56
+    -0.56,
+    0
   ],
   "medias": [
     3.69,
+    2.68,
     2.68
   ],
   "partidas": [
@@ -51,12 +56,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/04/botafogo-65.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 3
+    },
+    {
+      "rodada_id": 3,
+      "clube_casa": "Fortaleza",
+      "clube_casa_id": 356,
+      "clube_visitante": "Ceará",
+      "clube_casa_abrev": "FOR",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2021/09/19/65_0000_Fortaleza-2021.png",
+      "clube_visitante_id": 354,
+      "clube_visitante_abrev": "CEA",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/10/10/ceara-65x65.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2022/03/28/d28c444ff6eaf5f7b58d9f2ef2bd5075_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2019/10/10/ceara-65x65.png",
   "scouts": {
-    "rodada_id": 2,
+    "rodada_id": 3,
     "g": 0,
     "a": 0,
     "sg": 0,
@@ -77,9 +95,9 @@
     "pi": 0,
     "pc": 0,
     "ps": 0,
-    "pontos_num": 1.67,
+    "pontos_num": 0,
     "preco_num": 6.5,
-    "variacao_num": -0.56,
+    "variacao_num": 0,
     "media_num": 2.68,
     "jogos_num": 2,
     "posicao_abrev": "tec",
