@@ -8,27 +8,32 @@
   "rodadas": [
     1,
     2,
-    3
+    3,
+    4
   ],
   "pontos": [
     9.8,
     5.2,
-    0
+    0,
+    2.9
   ],
   "precos": [
     10.44,
     11.91,
-    11.91
+    11.91,
+    10.97
   ],
   "variacoes": [
     4.44,
     1.47,
-    0
+    0,
+    -0.94
   ],
   "medias": [
     9.8,
     7.5,
-    7.5
+    7.5,
+    5.97
   ],
   "partidas": [
     {
@@ -69,17 +74,30 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/sao_paulo_60x60.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 4,
+      "clube_casa": "Ceará",
+      "clube_casa_id": 354,
+      "clube_visitante": "Bragantino",
+      "clube_casa_abrev": "CEA",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/10/10/ceara-65x65.png",
+      "clube_visitante_id": 280,
+      "clube_visitante_abrev": "BRA",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2020/01/01/65.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2022/02/21/727017cf0117cda8575d0d1c72ff861a_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2020/01/01/65.png",
   "scouts": {
-    "rodada_id": 3,
+    "rodada_id": 4,
     "g": 0,
     "a": 1,
     "sg": 0,
-    "fs": 5,
-    "ff": 0,
+    "fs": 6,
+    "ff": 1,
     "fd": 0,
     "ft": 0,
     "de": 0,
@@ -89,17 +107,17 @@
     "ca": 0,
     "pp": 0,
     "gs": 0,
-    "fc": 1,
+    "fc": 3,
     "i": 0,
-    "ds": 7,
-    "pi": 6,
+    "ds": 9,
+    "pi": 8,
     "pc": 0,
     "ps": 0,
-    "pontos_num": 0,
-    "preco_num": 11.91,
-    "variacao_num": 0,
-    "media_num": 7.5,
-    "jogos_num": 2,
+    "pontos_num": 2.9,
+    "preco_num": 10.97,
+    "variacao_num": -0.94,
+    "media_num": 5.97,
+    "jogos_num": 3,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }

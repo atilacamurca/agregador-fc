@@ -8,27 +8,32 @@
   "rodadas": [
     1,
     2,
-    3
+    3,
+    4
   ],
   "pontos": [
     6.2,
     3.7,
-    1.5
+    1.5,
+    6.3
   ],
   "precos": [
     6.08,
     7.34,
-    6.93
+    6.93,
+    8.15
   ],
   "variacoes": [
     3.08,
     1.26,
-    -0.41
+    -0.41,
+    1.22
   ],
   "medias": [
     6.2,
     4.95,
-    3.8
+    3.8,
+    4.42
   ],
   "partidas": [
     {
@@ -69,15 +74,28 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2021/03/01/goias-65.png",
       "placar_oficial_mandante": 3,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 4,
+      "clube_casa": "Internacional",
+      "clube_casa_id": 285,
+      "clube_visitante": "Avaí",
+      "clube_casa_abrev": "INT",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/03/inter65.png",
+      "clube_visitante_id": 314,
+      "clube_visitante_abrev": "AVA",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/09/04/escudo-avai-65x65.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2022/03/08/0759780a94f5359aefe723b749494c0b_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2018/09/04/escudo-avai-65x65.png",
   "scouts": {
-    "rodada_id": 3,
+    "rodada_id": 4,
     "g": 0,
     "a": 0,
-    "sg": 1,
+    "sg": 2,
     "fs": 2,
     "ff": 2,
     "fd": 0,
@@ -89,17 +107,17 @@
     "ca": 0,
     "pp": 0,
     "gs": 0,
-    "fc": 1,
+    "fc": 3,
     "i": 0,
-    "ds": 2,
-    "pi": 13,
+    "ds": 4,
+    "pi": 18,
     "pc": 0,
     "ps": 0,
-    "pontos_num": 1.5,
-    "preco_num": 6.93,
-    "variacao_num": -0.41,
-    "media_num": 3.8,
-    "jogos_num": 3,
+    "pontos_num": 6.3,
+    "preco_num": 8.15,
+    "variacao_num": 1.22,
+    "media_num": 4.42,
+    "jogos_num": 4,
     "posicao_abrev": "zag",
     "posicao": "Zagueiro"
   }

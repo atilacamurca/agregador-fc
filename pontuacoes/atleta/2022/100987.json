@@ -8,27 +8,32 @@
   "rodadas": [
     1,
     2,
-    3
+    3,
+    4
   ],
   "pontos": [
     4.7,
     3.3,
-    0
+    0,
+    12.7
   ],
   "precos": [
     6.41,
     7,
-    7
+    7,
+    9.49
   ],
   "variacoes": [
     1.41,
     0.59,
-    0
+    0,
+    2.49
   ],
   "medias": [
     4.7,
     4,
-    4
+    4,
+    6.9
   ],
   "partidas": [
     {
@@ -69,16 +74,29 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/03/inter65.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 4,
+      "clube_casa": "Coritiba",
+      "clube_casa_id": 294,
+      "clube_visitante": "Fluminense",
+      "clube_casa_abrev": "COR",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2017/03/29/coritiba65.png",
+      "clube_visitante_id": 266,
+      "clube_visitante_abrev": "FLU",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/fluminense_60x60.png",
+      "placar_oficial_mandante": 3,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2021/07/30/7536d1f5782d6ce621dfd8aa405d0e28_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/fluminense_60x60.png",
   "scouts": {
-    "rodada_id": 3,
+    "rodada_id": 4,
     "g": 0,
-    "a": 0,
+    "a": 1,
     "sg": 0,
-    "fs": 6,
+    "fs": 9,
     "ff": 3,
     "fd": 1,
     "ft": 0,
@@ -89,17 +107,17 @@
     "ca": 0,
     "pp": 0,
     "gs": 0,
-    "fc": 1,
+    "fc": 3,
     "i": 0,
-    "ds": 3,
-    "pi": 19,
+    "ds": 9,
+    "pi": 23,
     "pc": 0,
     "ps": 0,
-    "pontos_num": 0,
-    "preco_num": 7,
-    "variacao_num": 0,
-    "media_num": 4,
-    "jogos_num": 2,
+    "pontos_num": 12.7,
+    "preco_num": 9.49,
+    "variacao_num": 2.49,
+    "media_num": 6.9,
+    "jogos_num": 3,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }
