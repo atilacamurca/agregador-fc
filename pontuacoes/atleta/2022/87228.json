@@ -10,19 +10,22 @@
     2,
     3,
     4,
-    5
+    5,
+    6
   ],
   "pontos": [
     6.4,
     6.2,
     1.3,
     3.6,
-    0
+    0,
+    5.6
   ],
   "precos": [
     15.46,
     14.81,
     13.18,
+    13.16,
     13.16,
     13.16
   ],
@@ -31,6 +34,7 @@
     -0.65,
     -1.63,
     -0.02,
+    0,
     0
   ],
   "medias": [
@@ -38,7 +42,8 @@
     6.3,
     4.63,
     4.37,
-    4.37
+    4.37,
+    4.62
   ],
   "partidas": [
     {
@@ -105,15 +110,28 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/28/escudo65_1.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 6,
+      "clube_casa": "Atlético-MG",
+      "clube_casa_id": 282,
+      "clube_visitante": "Atlético-GO",
+      "clube_casa_abrev": "ATL",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2017/11/23/Atletico-Mineiro-escudo65px.png",
+      "clube_visitante_id": 373,
+      "clube_visitante_abrev": "ATL",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2020/07/02/atletico-go-2020-65.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2021/05/02/282a160d63e94aaad12311a7c3bbf3f0_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2017/11/23/Atletico-Mineiro-escudo65px.png",
   "scouts": {
-    "rodada_id": 5,
+    "rodada_id": 6,
     "g": 0,
     "a": 1,
-    "sg": 2,
+    "sg": 3,
     "fs": 5,
     "ff": 3,
     "fd": 1,
@@ -125,17 +143,17 @@
     "ca": 3,
     "pp": 0,
     "gs": 0,
-    "fc": 6,
+    "fc": 9,
     "i": 0,
-    "ds": 4,
-    "pi": 26,
+    "ds": 6,
+    "pi": 35,
     "pc": 1,
     "ps": 0,
-    "pontos_num": 0,
+    "pontos_num": 5.6,
     "preco_num": 13.16,
     "variacao_num": 0,
-    "media_num": 4.37,
-    "jogos_num": 4,
+    "media_num": 4.62,
+    "jogos_num": 5,
     "posicao_abrev": "lat",
     "posicao": "Lateral"
   }

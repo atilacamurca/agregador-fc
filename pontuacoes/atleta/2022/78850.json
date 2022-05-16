@@ -10,35 +10,40 @@
     2,
     3,
     4,
-    5
+    5,
+    6
   ],
   "pontos": [
     0,
     -1.5,
     0,
     0,
-    -0.7
+    -0.7,
+    0.7
   ],
   "precos": [
     8,
     4.84,
     4.84,
     4.84,
-    3.69
+    3.69,
+    3.76
   ],
   "variacoes": [
     0,
     -3.16,
     0,
     0,
-    -1.15
+    -1.15,
+    0.07
   ],
   "medias": [
     0,
     -1.5,
     -1.5,
     -1.5,
-    -1.1
+    -1.1,
+    -0.5
   ],
   "partidas": [
     {
@@ -105,17 +110,30 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/sao_paulo_60x60.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 6,
+      "clube_casa": "São Paulo",
+      "clube_casa_id": 276,
+      "clube_visitante": "Cuiabá",
+      "clube_casa_abrev": "SAO",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/sao_paulo_60x60.png",
+      "clube_visitante_id": 1371,
+      "clube_visitante_abrev": "CUI",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/16/cuiaba65.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2022/03/01/779ff87d6723d6c70d7caac56df86d5f_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/sao_paulo_60x60.png",
   "scouts": {
-    "rodada_id": 5,
+    "rodada_id": 6,
     "g": 0,
     "a": 0,
     "sg": 0,
     "fs": 0,
-    "ff": 0,
+    "ff": 1,
     "fd": 0,
     "ft": 0,
     "de": 0,
@@ -128,14 +146,14 @@
     "fc": 1,
     "i": 0,
     "ds": 0,
-    "pi": 9,
+    "pi": 10,
     "pc": 0,
     "ps": 0,
-    "pontos_num": -0.7,
-    "preco_num": 3.69,
-    "variacao_num": -1.15,
-    "media_num": -1.1,
-    "jogos_num": 2,
+    "pontos_num": 0.7,
+    "preco_num": 3.76,
+    "variacao_num": 0.07,
+    "media_num": -0.5,
+    "jogos_num": 3,
     "posicao_abrev": "lat",
     "posicao": "Lateral"
   }

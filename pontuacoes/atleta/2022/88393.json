@@ -10,35 +10,40 @@
     2,
     3,
     4,
-    5
+    5,
+    6
   ],
   "pontos": [
     0,
     0,
     0,
     0,
-    3
+    3,
+    -1.3
   ],
   "precos": [
     6,
     6,
     6,
     6,
-    5.09
+    5.09,
+    4.19
   ],
   "variacoes": [
     0,
     0,
     0,
     0,
-    -0.91
+    -0.91,
+    -0.9
   ],
   "medias": [
     0,
     0,
     0,
     0,
-    3
+    3,
+    0.85
   ],
   "partidas": [
     {
@@ -105,16 +110,29 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/04/botafogo-65.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 6,
+      "clube_casa": "Ceará",
+      "clube_casa_id": 354,
+      "clube_visitante": "Flamengo",
+      "clube_casa_abrev": "CEA",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/10/10/ceara-65x65.png",
+      "clube_visitante_id": 262,
+      "clube_visitante_abrev": "FLA",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/04/09/Flamengo-65.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2022/04/14/36837bfe151af329a80e71d5dc2bc8e0_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2018/04/09/Flamengo-65.png",
   "scouts": {
-    "rodada_id": 5,
+    "rodada_id": 6,
     "g": 0,
     "a": 0,
     "sg": 0,
-    "fs": 3,
+    "fs": 4,
     "ff": 0,
     "fd": 0,
     "ft": 0,
@@ -122,20 +140,20 @@
     "dp": 0,
     "gc": 0,
     "cv": 0,
-    "ca": 0,
+    "ca": 1,
     "pp": 0,
     "gs": 0,
-    "fc": 1,
+    "fc": 3,
     "i": 0,
     "ds": 2,
-    "pi": 6,
+    "pi": 8,
     "pc": 0,
     "ps": 0,
-    "pontos_num": 3,
-    "preco_num": 5.09,
-    "variacao_num": -0.91,
-    "media_num": 3,
-    "jogos_num": 1,
+    "pontos_num": -1.3,
+    "preco_num": 4.19,
+    "variacao_num": -0.9,
+    "media_num": 0.85,
+    "jogos_num": 2,
     "posicao_abrev": "lat",
     "posicao": "Lateral"
   }

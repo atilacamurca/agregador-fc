@@ -10,35 +10,40 @@
     2,
     3,
     4,
-    5
+    5,
+    6
   ],
   "pontos": [
     2,
     0,
     0,
     1.1,
-    1.8
+    1.8,
+    0.5
   ],
   "precos": [
     4.62,
     4.62,
     4.62,
     3.84,
-    4
+    4,
+    3.74
   ],
   "variacoes": [
     -0.38,
     0,
     0,
     -0.78,
-    0.16
+    0.16,
+    -0.26
   ],
   "medias": [
     2,
     2,
     2,
     1.55,
-    1.63
+    1.63,
+    1.35
   ],
   "partidas": [
     {
@@ -105,37 +110,50 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/10/10/ceara-65x65.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 6,
+      "clube_casa": "Ceará",
+      "clube_casa_id": 354,
+      "clube_visitante": "Flamengo",
+      "clube_casa_abrev": "CEA",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/10/10/ceara-65x65.png",
+      "clube_visitante_id": 262,
+      "clube_visitante_abrev": "FLA",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/04/09/Flamengo-65.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2022/02/22/7c8dc91a507c2956dc61efbd45bda613_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2019/10/10/ceara-65x65.png",
   "scouts": {
-    "rodada_id": 5,
+    "rodada_id": 6,
     "g": 0,
     "a": 0,
     "sg": 0,
-    "fs": 1,
-    "ff": 1,
+    "fs": 6,
+    "ff": 2,
     "fd": 1,
-    "ft": 0,
+    "ft": 1,
     "de": 0,
     "dp": 0,
     "gc": 0,
-    "cv": 0,
+    "cv": 1,
     "ca": 0,
     "pp": 0,
     "gs": 0,
-    "fc": 0,
-    "i": 0,
-    "ds": 0,
-    "pi": 7,
+    "fc": 1,
+    "i": 1,
+    "ds": 2,
+    "pi": 24,
     "pc": 0,
     "ps": 0,
-    "pontos_num": 1.8,
-    "preco_num": 4,
-    "variacao_num": 0.16,
-    "media_num": 1.63,
-    "jogos_num": 3,
+    "pontos_num": 0.5,
+    "preco_num": 3.74,
+    "variacao_num": -0.26,
+    "media_num": 1.35,
+    "jogos_num": 4,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }

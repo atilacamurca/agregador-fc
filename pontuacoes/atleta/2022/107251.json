@@ -10,35 +10,40 @@
     2,
     3,
     4,
-    5
+    5,
+    6
   ],
   "pontos": [
     -0.9,
     1.1,
     1.7,
     0,
-    0
+    0,
+    5.1
   ],
   "precos": [
     0.66,
     0.68,
     1.05,
     1.05,
-    1.05
+    1.05,
+    2.07
   ],
   "variacoes": [
     -0.34,
     0.02,
     0.37,
     0,
-    0
+    0,
+    1.02
   ],
   "medias": [
     -0.9,
     0.1,
     0.63,
     0.63,
-    0.63
+    0.63,
+    1.75
   ],
   "partidas": [
     {
@@ -105,16 +110,29 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2021/03/01/goias-65.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 6,
+      "clube_casa": "Goiás",
+      "clube_casa_id": 290,
+      "clube_visitante": "Santos",
+      "clube_casa_abrev": "GOI",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2021/03/01/goias-65.png",
+      "clube_visitante_id": 277,
+      "clube_visitante_abrev": "SAN",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/santos_60x60.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2022/04/14/725c74c1640e2114b3f019ae16a79a79_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2021/03/01/goias-65.png",
   "scouts": {
-    "rodada_id": 5,
+    "rodada_id": 6,
     "g": 0,
     "a": 0,
-    "sg": 0,
-    "fs": 0,
+    "sg": 1,
+    "fs": 1,
     "ff": 2,
     "fd": 0,
     "ft": 0,
@@ -128,14 +146,14 @@
     "fc": 2,
     "i": 0,
     "ds": 2,
-    "pi": 5,
+    "pi": 9,
     "pc": 0,
     "ps": 0,
-    "pontos_num": 0,
-    "preco_num": 1.05,
-    "variacao_num": 0,
-    "media_num": 0.63,
-    "jogos_num": 3,
+    "pontos_num": 5.1,
+    "preco_num": 2.07,
+    "variacao_num": 1.02,
+    "media_num": 1.75,
+    "jogos_num": 4,
     "posicao_abrev": "zag",
     "posicao": "Zagueiro"
   }
