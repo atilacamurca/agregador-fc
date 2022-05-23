@@ -11,7 +11,8 @@
     3,
     4,
     5,
-    6
+    6,
+    7
   ],
   "pontos": [
     1.1,
@@ -19,7 +20,8 @@
     0,
     7,
     0.4,
-    0
+    0,
+    -1.8
   ],
   "precos": [
     4.69,
@@ -27,7 +29,8 @@
     4.88,
     5.99,
     5.1,
-    5.1
+    5.1,
+    4.27
   ],
   "variacoes": [
     -1.31,
@@ -35,7 +38,8 @@
     0,
     1.11,
     -0.89,
-    0
+    0,
+    -0.83
   ],
   "medias": [
     1.1,
@@ -43,7 +47,8 @@
     2.25,
     3.83,
     2.97,
-    2.97
+    2.97,
+    2.02
   ],
   "partidas": [
     {
@@ -123,37 +128,50 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/04/09/Flamengo-65.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 7,
+      "clube_casa": "Santos",
+      "clube_casa_id": 277,
+      "clube_visitante": "Ceará",
+      "clube_casa_abrev": "SAN",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/santos_60x60.png",
+      "clube_visitante_id": 354,
+      "clube_visitante_abrev": "CEA",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/10/10/ceara-65x65.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2022/02/22/a9032c07d987ecaec7516f2037a7de70_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2019/10/10/ceara-65x65.png",
   "scouts": {
-    "rodada_id": 6,
+    "rodada_id": 7,
     "g": 0,
     "a": 0,
     "sg": 0,
     "fs": 6,
     "ff": 0,
-    "fd": 1,
+    "fd": 2,
     "ft": 0,
     "de": 0,
     "dp": 0,
     "gc": 0,
-    "cv": 0,
+    "cv": 1,
     "ca": 1,
     "pp": 0,
     "gs": 0,
-    "fc": 5,
-    "i": 0,
-    "ds": 10,
-    "pi": 18,
+    "fc": 8,
+    "i": 1,
+    "ds": 11,
+    "pi": 20,
     "pc": 0,
     "ps": 0,
-    "pontos_num": 0,
-    "preco_num": 5.1,
-    "variacao_num": 0,
-    "media_num": 2.97,
-    "jogos_num": 4,
+    "pontos_num": -1.8,
+    "preco_num": 4.27,
+    "variacao_num": -0.83,
+    "media_num": 2.02,
+    "jogos_num": 5,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }
