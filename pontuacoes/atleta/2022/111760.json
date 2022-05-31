@@ -12,7 +12,8 @@
     4,
     5,
     6,
-    7
+    7,
+    8
   ],
   "pontos": [
     0,
@@ -21,7 +22,8 @@
     0,
     0,
     0,
-    0
+    0,
+    -0.1
   ],
   "precos": [
     2,
@@ -30,7 +32,8 @@
     2,
     2,
     2,
-    2
+    2,
+    1.44
   ],
   "variacoes": [
     0,
@@ -39,7 +42,8 @@
     0,
     0,
     0,
-    0
+    0,
+    -0.56
   ],
   "medias": [
     0,
@@ -48,7 +52,8 @@
     0,
     0,
     0,
-    0
+    0,
+    -0.1
   ],
   "partidas": [
     {
@@ -141,12 +146,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 3
+    },
+    {
+      "rodada_id": 8,
+      "clube_casa": "Santos",
+      "clube_casa_id": 277,
+      "clube_visitante": "Palmeiras",
+      "clube_casa_abrev": "SAN",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/santos_60x60.png",
+      "clube_visitante_id": 275,
+      "clube_visitante_abrev": "PAL",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2021/05/08/2ef9b9ce1e0f6cdb6db5c4e19367f01f_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
   "scouts": {
-    "rodada_id": 7,
+    "rodada_id": 8,
     "g": 0,
     "a": 0,
     "sg": 0,
@@ -164,14 +182,14 @@
     "fc": 0,
     "i": 0,
     "ds": 0,
-    "pi": 0,
+    "pi": 1,
     "pc": 0,
     "ps": 0,
-    "pontos_num": 0,
-    "preco_num": 2,
-    "variacao_num": 0,
-    "media_num": 0,
-    "jogos_num": 0,
+    "pontos_num": -0.1,
+    "preco_num": 1.44,
+    "variacao_num": -0.56,
+    "media_num": -0.1,
+    "jogos_num": 1,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }

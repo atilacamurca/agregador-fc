@@ -12,7 +12,8 @@
     4,
     5,
     6,
-    7
+    7,
+    8
   ],
   "pontos": [
     0,
@@ -21,7 +22,8 @@
     0,
     0,
     0,
-    -1.7
+    -1.7,
+    0.3
   ],
   "precos": [
     3,
@@ -30,7 +32,8 @@
     2.66,
     2.66,
     2.66,
-    1.7
+    1.7,
+    1.93
   ],
   "variacoes": [
     0,
@@ -39,7 +42,8 @@
     0,
     0,
     0,
-    -0.96
+    -0.96,
+    0.23
   ],
   "medias": [
     0,
@@ -48,7 +52,8 @@
     1.5,
     1.5,
     1.5,
-    -0.1
+    -0.1,
+    0.03
   ],
   "partidas": [
     {
@@ -141,16 +146,29 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/fluminense_60x60.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 8,
+      "clube_casa": "Fortaleza",
+      "clube_casa_id": 356,
+      "clube_visitante": "Juventude",
+      "clube_casa_abrev": "FOR",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2021/09/19/65_0000_Fortaleza-2021.png",
+      "clube_visitante_id": 286,
+      "clube_visitante_abrev": "JUV",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2021/04/29/juventude65.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2022/02/25/99227769c8cf1b0aba013765d0f00f85_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2021/09/19/65_0000_Fortaleza-2021.png",
   "scouts": {
-    "rodada_id": 7,
+    "rodada_id": 8,
     "g": 0,
     "a": 0,
     "sg": 0,
-    "fs": 0,
+    "fs": 1,
     "ff": 0,
     "fd": 0,
     "ft": 0,
@@ -161,17 +179,17 @@
     "ca": 0,
     "pp": 0,
     "gs": 0,
-    "fc": 4,
+    "fc": 6,
     "i": 0,
-    "ds": 1,
-    "pi": 12,
+    "ds": 2,
+    "pi": 20,
     "pc": 0,
     "ps": 1,
-    "pontos_num": -1.7,
-    "preco_num": 1.7,
-    "variacao_num": -0.96,
-    "media_num": -0.1,
-    "jogos_num": 2,
+    "pontos_num": 0.3,
+    "preco_num": 1.93,
+    "variacao_num": 0.23,
+    "media_num": 0.03,
+    "jogos_num": 3,
     "posicao_abrev": "lat",
     "posicao": "Lateral"
   }

@@ -12,7 +12,8 @@
     4,
     5,
     6,
-    7
+    7,
+    8
   ],
   "pontos": [
     0,
@@ -21,7 +22,8 @@
     0,
     0,
     0,
-    0
+    0,
+    4.9
   ],
   "precos": [
     2,
@@ -30,7 +32,8 @@
     2,
     2,
     2,
-    2
+    2,
+    2.54
   ],
   "variacoes": [
     0,
@@ -39,7 +42,8 @@
     0,
     0,
     0,
-    0
+    0,
+    0.54
   ],
   "medias": [
     0,
@@ -48,7 +52,8 @@
     0,
     0,
     0,
-    0
+    0,
+    4.9
   ],
   "partidas": [
     {
@@ -141,15 +146,28 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2017/03/29/coritiba65.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 8,
+      "clube_casa": "Coritiba",
+      "clube_casa_id": 294,
+      "clube_visitante": "Botafogo",
+      "clube_casa_abrev": "COR",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2017/03/29/coritiba65.png",
+      "clube_visitante_id": 263,
+      "clube_visitante_abrev": "BOT",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/04/botafogo-65.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2022/04/04/a1f3583beb3a0b68c126affa095666ee_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2017/03/29/coritiba65.png",
   "scouts": {
-    "rodada_id": 7,
+    "rodada_id": 8,
     "g": 0,
     "a": 0,
-    "sg": 0,
+    "sg": 1,
     "fs": 0,
     "ff": 0,
     "fd": 0,
@@ -164,14 +182,14 @@
     "fc": 0,
     "i": 0,
     "ds": 0,
-    "pi": 0,
+    "pi": 1,
     "pc": 0,
     "ps": 0,
-    "pontos_num": 0,
-    "preco_num": 2,
-    "variacao_num": 0,
-    "media_num": 0,
-    "jogos_num": 0,
+    "pontos_num": 4.9,
+    "preco_num": 2.54,
+    "variacao_num": 0.54,
+    "media_num": 4.9,
+    "jogos_num": 1,
     "posicao_abrev": "lat",
     "posicao": "Lateral"
   }
