@@ -13,7 +13,8 @@
     5,
     6,
     7,
-    8
+    8,
+    9
   ],
   "pontos": [
     2.5,
@@ -23,7 +24,8 @@
     0,
     0,
     4.9,
-    0
+    0,
+    0.5
   ],
   "precos": [
     4.95,
@@ -33,7 +35,8 @@
     4.01,
     4.01,
     4.63,
-    4.63
+    4.63,
+    3.96
   ],
   "variacoes": [
     -0.05,
@@ -43,7 +46,8 @@
     0,
     0,
     0.62,
-    0
+    0,
+    -0.67
   ],
   "medias": [
     2.5,
@@ -53,7 +57,8 @@
     1.43,
     1.43,
     2.3,
-    2.3
+    2.3,
+    1.94
   ],
   "partidas": [
     {
@@ -159,37 +164,50 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/09/Athletico-PR-65x65.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 9,
+      "clube_casa": "Athlético-PR",
+      "clube_casa_id": 293,
+      "clube_visitante": "Santos",
+      "clube_casa_abrev": "ATL",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/09/Athletico-PR-65x65.png",
+      "clube_visitante_id": 277,
+      "clube_visitante_abrev": "SAN",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/santos_60x60.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2021/05/02/6a1bc3f98b5ff453ba48dffaa44386ab_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/09/Athletico-PR-65x65.png",
   "scouts": {
-    "rodada_id": 8,
+    "rodada_id": 9,
     "g": 0,
     "a": 0,
     "sg": 0,
     "fs": 3,
     "ff": 3,
     "fd": 1,
-    "ft": 0,
+    "ft": 1,
     "de": 0,
     "dp": 0,
     "gc": 0,
     "cv": 0,
-    "ca": 2,
+    "ca": 3,
     "pp": 0,
     "gs": 0,
-    "fc": 11,
+    "fc": 15,
     "i": 2,
     "ds": 9,
-    "pi": 12,
+    "pi": 15,
     "pc": 0,
     "ps": 0,
-    "pontos_num": 0,
-    "preco_num": 4.63,
-    "variacao_num": 0,
-    "media_num": 2.3,
-    "jogos_num": 4,
+    "pontos_num": 0.5,
+    "preco_num": 3.96,
+    "variacao_num": -0.67,
+    "media_num": 1.94,
+    "jogos_num": 5,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }

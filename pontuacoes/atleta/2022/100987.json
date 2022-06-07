@@ -13,7 +13,8 @@
     5,
     6,
     7,
-    8
+    8,
+    9
   ],
   "pontos": [
     4.7,
@@ -23,7 +24,8 @@
     -1,
     -0.2,
     -0.4,
-    0
+    0,
+    -3
   ],
   "precos": [
     6.41,
@@ -33,7 +35,8 @@
     7.5,
     7.28,
     6.91,
-    6.91
+    6.91,
+    5.98
   ],
   "variacoes": [
     1.41,
@@ -43,7 +46,8 @@
     -1.99,
     -0.22,
     -0.37,
-    0
+    0,
+    -0.93
   ],
   "medias": [
     4.7,
@@ -53,7 +57,8 @@
     4.93,
     3.9,
     3.18,
-    3.18
+    3.18,
+    2.68
   ],
   "partidas": [
     {
@@ -159,12 +164,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/04/09/Flamengo-65.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 9,
+      "clube_casa": "Juventude",
+      "clube_casa_id": 286,
+      "clube_visitante": "Fluminense",
+      "clube_casa_abrev": "JUV",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2021/04/29/juventude65.png",
+      "clube_visitante_id": 266,
+      "clube_visitante_abrev": "FLU",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/fluminense_60x60.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2021/07/30/7536d1f5782d6ce621dfd8aa405d0e28_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/fluminense_60x60.png",
   "scouts": {
-    "rodada_id": 8,
+    "rodada_id": 9,
     "g": 0,
     "a": 1,
     "sg": 0,
@@ -175,7 +193,7 @@
     "de": 0,
     "dp": 0,
     "gc": 0,
-    "cv": 0,
+    "cv": 1,
     "ca": 1,
     "pp": 0,
     "gs": 0,
@@ -185,10 +203,10 @@
     "pi": 30,
     "pc": 0,
     "ps": 0,
-    "pontos_num": 0,
-    "preco_num": 6.91,
-    "variacao_num": 0,
-    "media_num": 3.18,
+    "pontos_num": -3,
+    "preco_num": 5.98,
+    "variacao_num": -0.93,
+    "media_num": 2.68,
     "jogos_num": 6,
     "posicao_abrev": "mei",
     "posicao": "Meia"

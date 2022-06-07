@@ -13,7 +13,8 @@
     5,
     6,
     7,
-    8
+    8,
+    9
   ],
   "pontos": [
     0,
@@ -23,7 +24,8 @@
     0,
     0,
     0,
-    4.9
+    4.9,
+    0
   ],
   "precos": [
     2,
@@ -33,6 +35,7 @@
     2,
     2,
     2,
+    2.54,
     2.54
   ],
   "variacoes": [
@@ -43,7 +46,8 @@
     0,
     0,
     0,
-    0.54
+    0.54,
+    0
   ],
   "medias": [
     0,
@@ -53,6 +57,7 @@
     0,
     0,
     0,
+    4.9,
     4.9
   ],
   "partidas": [
@@ -159,12 +164,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/04/botafogo-65.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 9,
+      "clube_casa": "Ceará",
+      "clube_casa_id": 354,
+      "clube_visitante": "Coritiba",
+      "clube_casa_abrev": "CEA",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/10/10/ceara-65x65.png",
+      "clube_visitante_id": 294,
+      "clube_visitante_abrev": "COR",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2017/03/29/coritiba65.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2022/04/04/a1f3583beb3a0b68c126affa095666ee_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2017/03/29/coritiba65.png",
   "scouts": {
-    "rodada_id": 8,
+    "rodada_id": 9,
     "g": 0,
     "a": 0,
     "sg": 1,
@@ -185,9 +203,9 @@
     "pi": 1,
     "pc": 0,
     "ps": 0,
-    "pontos_num": 4.9,
+    "pontos_num": 0,
     "preco_num": 2.54,
-    "variacao_num": 0.54,
+    "variacao_num": 0,
     "media_num": 4.9,
     "jogos_num": 1,
     "posicao_abrev": "lat",

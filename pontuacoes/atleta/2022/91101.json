@@ -13,7 +13,8 @@
     5,
     6,
     7,
-    8
+    8,
+    9
   ],
   "pontos": [
     0,
@@ -23,7 +24,8 @@
     1,
     6.2,
     11,
-    3
+    3,
+    -1
   ],
   "precos": [
     4,
@@ -33,7 +35,8 @@
     3.46,
     4.7,
     6.25,
-    5.39
+    5.39,
+    4.65
   ],
   "variacoes": [
     0,
@@ -43,7 +46,8 @@
     -0.23,
     1.24,
     1.55,
-    -0.86
+    -0.86,
+    -0.74
   ],
   "medias": [
     0,
@@ -53,7 +57,8 @@
     1.83,
     2.92,
     4.54,
-    4.28
+    4.28,
+    3.53
   ],
   "partidas": [
     {
@@ -159,12 +164,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2020/07/02/atletico-go-2020-65.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 9,
+      "clube_casa": "Atlético-GO",
+      "clube_casa_id": 373,
+      "clube_visitante": "Corinthians",
+      "clube_casa_abrev": "ATL",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2020/07/02/atletico-go-2020-65.png",
+      "clube_visitante_id": 264,
+      "clube_visitante_abrev": "COR",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/30/Corinthians_65.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2022/03/03/cb6155829f59a86db540d1bc5bd52fa7_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2020/07/02/atletico-go-2020-65.png",
   "scouts": {
-    "rodada_id": 8,
+    "rodada_id": 9,
     "g": 0,
     "a": 0,
     "sg": 1,
@@ -178,18 +196,18 @@
     "cv": 0,
     "ca": 0,
     "pp": 0,
-    "gs": 6,
+    "gs": 7,
     "fc": 0,
     "i": 0,
     "ds": 1,
     "pi": 0,
     "pc": 0,
     "ps": 0,
-    "pontos_num": 3,
-    "preco_num": 5.39,
-    "variacao_num": -0.86,
-    "media_num": 4.28,
-    "jogos_num": 6,
+    "pontos_num": -1,
+    "preco_num": 4.65,
+    "variacao_num": -0.74,
+    "media_num": 3.53,
+    "jogos_num": 7,
     "posicao_abrev": "gol",
     "posicao": "Goleiro"
   }
