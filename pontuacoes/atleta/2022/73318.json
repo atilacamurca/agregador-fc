@@ -14,7 +14,8 @@
     6,
     7,
     8,
-    9
+    9,
+    10
   ],
   "pontos": [
     -0.1,
@@ -25,7 +26,8 @@
     11,
     1.4,
     0.8,
-    5.6
+    5.6,
+    -0.6
   ],
   "precos": [
     3.24,
@@ -36,7 +38,8 @@
     7.56,
     6.25,
     6.11,
-    7.04
+    7.04,
+    5.96
   ],
   "variacoes": [
     -1.76,
@@ -47,7 +50,8 @@
     1.83,
     -1.31,
     -0.14,
-    0.93
+    0.93,
+    -1.08
   ],
   "medias": [
     -0.1,
@@ -58,7 +62,8 @@
     4.32,
     3.9,
     3.51,
-    3.74
+    3.74,
+    3.31
   ],
   "partidas": [
     {
@@ -177,18 +182,31 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2021/03/01/goias-65.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 10,
+      "clube_casa": "Palmeiras",
+      "clube_casa_id": 275,
+      "clube_visitante": "Botafogo",
+      "clube_casa_abrev": "PAL",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
+      "clube_visitante_id": 263,
+      "clube_visitante_abrev": "BOT",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/04/botafogo-65.png",
+      "placar_oficial_mandante": 4,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2022/02/21/ce4af8aee58d0eef52f479ced5508ab5_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/04/botafogo-65.png",
   "scouts": {
-    "rodada_id": 9,
+    "rodada_id": 10,
     "g": 1,
     "a": 2,
     "sg": 1,
     "fs": 9,
     "ff": 1,
-    "fd": 1,
+    "fd": 2,
     "ft": 0,
     "de": 0,
     "dp": 0,
@@ -197,17 +215,17 @@
     "ca": 1,
     "pp": 0,
     "gs": 0,
-    "fc": 3,
+    "fc": 4,
     "i": 1,
     "ds": 14,
-    "pi": 106,
+    "pi": 121,
     "pc": 0,
     "ps": 0,
-    "pontos_num": 5.6,
-    "preco_num": 7.04,
-    "variacao_num": 0.93,
-    "media_num": 3.74,
-    "jogos_num": 9,
+    "pontos_num": -0.6,
+    "preco_num": 5.96,
+    "variacao_num": -1.08,
+    "media_num": 3.31,
+    "jogos_num": 10,
     "posicao_abrev": "lat",
     "posicao": "Lateral"
   }
