@@ -15,7 +15,8 @@
     7,
     8,
     9,
-    10
+    10,
+    11
   ],
   "pontos": [
     0,
@@ -27,7 +28,8 @@
     0,
     0,
     2,
-    0
+    0,
+    0.9
   ],
   "precos": [
     5,
@@ -39,7 +41,8 @@
     3.83,
     3.83,
     3.73,
-    3.73
+    3.73,
+    3.46
   ],
   "variacoes": [
     0,
@@ -51,7 +54,8 @@
     0,
     0,
     -0.1,
-    0
+    0,
+    -0.27
   ],
   "medias": [
     0,
@@ -63,7 +67,8 @@
     0.9,
     0.9,
     1.45,
-    1.45
+    1.45,
+    1.27
   ],
   "partidas": [
     {
@@ -195,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/03/inter65.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 11,
+      "clube_casa": "Atlético-MG",
+      "clube_casa_id": 282,
+      "clube_visitante": "Santos",
+      "clube_casa_abrev": "ATL",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2017/11/23/Atletico-Mineiro-escudo65px.png",
+      "clube_visitante_id": 277,
+      "clube_visitante_abrev": "SAN",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/santos_60x60.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2022/03/03/44a5a0d1669b56e3bc607727595c4751_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/santos_60x60.png",
   "scouts": {
-    "rodada_id": 10,
+    "rodada_id": 11,
     "g": 0,
     "a": 0,
     "sg": 0,
@@ -215,17 +233,17 @@
     "ca": 0,
     "pp": 0,
     "gs": 0,
-    "fc": 1,
+    "fc": 2,
     "i": 0,
-    "ds": 3,
+    "ds": 4,
     "pi": 4,
     "pc": 0,
     "ps": 0,
-    "pontos_num": 0,
-    "preco_num": 3.73,
-    "variacao_num": 0,
-    "media_num": 1.45,
-    "jogos_num": 2,
+    "pontos_num": 0.9,
+    "preco_num": 3.46,
+    "variacao_num": -0.27,
+    "media_num": 1.27,
+    "jogos_num": 3,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }
