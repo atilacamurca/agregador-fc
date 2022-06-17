@@ -6,7 +6,6 @@
   "clube_id": 293,
   "posicao": "Lateral",
   "rodadas": [
-    1,
     2,
     3,
     4,
@@ -16,10 +15,10 @@
     8,
     9,
     10,
-    11
+    11,
+    12
   ],
   "pontos": [
-    0.1,
     1.8,
     10.2,
     -0.1,
@@ -29,10 +28,10 @@
     13.2,
     0.1,
     -1,
-    5.6
+    5.6,
+    0.1
   ],
   "precos": [
-    4.03,
     3.51,
     6.24,
     4.91,
@@ -42,10 +41,10 @@
     9.52,
     7.6,
     7.14,
-    8.23
+    8.23,
+    7.29
   ],
   "variacoes": [
-    -1.97,
     -0.52,
     2.73,
     -1.33,
@@ -55,10 +54,10 @@
     2.26,
     -1.92,
     -0.46,
-    1.09
+    1.09,
+    -0.94
   ],
   "medias": [
-    0.1,
     0.95,
     4.03,
     3,
@@ -68,22 +67,10 @@
     5.56,
     4.95,
     4.35,
-    4.46
+    4.46,
+    4.1
   ],
   "partidas": [
-    {
-      "rodada_id": 1,
-      "clube_casa": "São Paulo",
-      "clube_casa_id": 276,
-      "clube_visitante": "Athlético-PR",
-      "clube_casa_abrev": "SAO",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/sao_paulo_60x60.png",
-      "clube_visitante_id": 293,
-      "clube_visitante_abrev": "ATL",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/09/Athletico-PR-65x65.png",
-      "placar_oficial_mandante": 4,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 2,
       "clube_casa": "Athlético-PR",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/09/Athletico-PR-65x65.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 12,
+      "clube_casa": "Athlético-PR",
+      "clube_casa_id": 293,
+      "clube_visitante": "Corinthians",
+      "clube_casa_abrev": "ATL",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/09/Athletico-PR-65x65.png",
+      "clube_visitante_id": 264,
+      "clube_visitante_abrev": "COR",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/30/Corinthians_65.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2021/05/02/f1aa04d210bcbf610dc5f4c169e0dbb8_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/09/Athletico-PR-65x65.png",
   "scouts": {
-    "rodada_id": 11,
+    "rodada_id": 12,
     "g": 1,
     "a": 1,
     "sg": 4,
@@ -230,20 +230,20 @@
     "dp": 0,
     "gc": 0,
     "cv": 0,
-    "ca": 2,
+    "ca": 3,
     "pp": 0,
     "gs": 0,
-    "fc": 13,
-    "i": 0,
-    "ds": 23,
-    "pi": 92,
+    "fc": 14,
+    "i": 1,
+    "ds": 25,
+    "pi": 101,
     "pc": 0,
     "ps": 0,
-    "pontos_num": 5.6,
-    "preco_num": 8.23,
-    "variacao_num": 1.09,
-    "media_num": 4.46,
-    "jogos_num": 11,
+    "pontos_num": 0.1,
+    "preco_num": 7.29,
+    "variacao_num": -0.94,
+    "media_num": 4.1,
+    "jogos_num": 12,
     "posicao_abrev": "lat",
     "posicao": "Lateral"
   }

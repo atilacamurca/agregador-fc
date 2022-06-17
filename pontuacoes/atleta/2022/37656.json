@@ -6,7 +6,6 @@
   "clube_id": 266,
   "posicao": "Goleiro",
   "rodadas": [
-    1,
     2,
     3,
     4,
@@ -16,10 +15,10 @@
     8,
     9,
     10,
-    11
+    11,
+    12
   ],
   "pontos": [
-    6,
     6,
     3,
     2,
@@ -29,10 +28,10 @@
     -1,
     2,
     -1,
-    4
+    4,
+    8
   ],
   "precos": [
-    9.91,
     10.84,
     10.33,
     9.97,
@@ -42,10 +41,10 @@
     9.88,
     10.17,
     9.36,
-    10.07
+    10.07,
+    10.82
   ],
   "variacoes": [
-    0.91,
     0.93,
     -0.51,
     -0.36,
@@ -55,10 +54,10 @@
     -2.14,
     0.29,
     -0.81,
-    0.71
+    0.71,
+    0.75
   ],
   "medias": [
-    6,
     6,
     5,
     4.25,
@@ -68,22 +67,10 @@
     4.13,
     3.89,
     3.4,
-    3.45
+    3.45,
+    3.83
   ],
   "partidas": [
-    {
-      "rodada_id": 1,
-      "clube_casa": "Fluminense",
-      "clube_casa_id": 266,
-      "clube_visitante": "Santos",
-      "clube_casa_abrev": "FLU",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/fluminense_60x60.png",
-      "clube_visitante_id": 277,
-      "clube_visitante_abrev": "SAN",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/santos_60x60.png",
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 2,
       "clube_casa": "Cuiabá",
@@ -213,20 +200,33 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2020/07/02/atletico-go-2020-65.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 12,
+      "clube_casa": "América-MG",
+      "clube_casa_id": 327,
+      "clube_visitante": "Fluminense",
+      "clube_casa_abrev": "AME",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/28/escudo65_1.png",
+      "clube_visitante_id": 266,
+      "clube_visitante_abrev": "FLU",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/fluminense_60x60.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2022/04/20/aeae67450f0c19a81c7d356b86382594_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/fluminense_60x60.png",
   "scouts": {
-    "rodada_id": 11,
+    "rodada_id": 12,
     "g": 0,
     "a": 0,
-    "sg": 3,
+    "sg": 4,
     "fs": 0,
     "ff": 0,
     "fd": 0,
     "ft": 0,
-    "de": 38,
+    "de": 41,
     "dp": 0,
     "gc": 0,
     "cv": 0,
@@ -239,11 +239,11 @@
     "pi": 0,
     "pc": 0,
     "ps": 0,
-    "pontos_num": 4,
-    "preco_num": 10.07,
-    "variacao_num": 0.71,
-    "media_num": 3.45,
-    "jogos_num": 11,
+    "pontos_num": 8,
+    "preco_num": 10.82,
+    "variacao_num": 0.75,
+    "media_num": 3.83,
+    "jogos_num": 12,
     "posicao_abrev": "gol",
     "posicao": "Goleiro"
   }

@@ -6,7 +6,6 @@
   "clube_id": 263,
   "posicao": "Lateral",
   "rodadas": [
-    1,
     2,
     3,
     4,
@@ -16,10 +15,10 @@
     8,
     9,
     10,
-    11
+    11,
+    12
   ],
   "pontos": [
-    -0.1,
     8.1,
     0.9,
     0.7,
@@ -29,10 +28,10 @@
     0.8,
     5.6,
     -0.6,
-    0.3
+    0.3,
+    4.9
   ],
   "precos": [
-    3.24,
     5.49,
     4.77,
     4.62,
@@ -42,10 +41,10 @@
     6.11,
     7.04,
     5.96,
-    5.97
+    5.97,
+    6.72
   ],
   "variacoes": [
-    -1.76,
     2.25,
     -0.72,
     -0.15,
@@ -55,10 +54,10 @@
     -0.14,
     0.93,
     -1.08,
-    0.01
+    0.01,
+    0.75
   ],
   "medias": [
-    -0.1,
     4,
     2.97,
     2.4,
@@ -68,22 +67,10 @@
     3.51,
     3.74,
     3.31,
-    3.04
+    3.04,
+    3.19
   ],
   "partidas": [
-    {
-      "rodada_id": 1,
-      "clube_casa": "Botafogo",
-      "clube_casa_id": 263,
-      "clube_visitante": "Corinthians",
-      "clube_casa_abrev": "BOT",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/04/botafogo-65.png",
-      "clube_visitante_id": 264,
-      "clube_visitante_abrev": "COR",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/30/Corinthians_65.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 3
-    },
     {
       "rodada_id": 2,
       "clube_casa": "Ceará",
@@ -213,15 +200,28 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/09/04/escudo-avai-65x65.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 12,
+      "clube_casa": "Botafogo",
+      "clube_casa_id": 263,
+      "clube_visitante": "São Paulo",
+      "clube_casa_abrev": "BOT",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/04/botafogo-65.png",
+      "clube_visitante_id": 276,
+      "clube_visitante_abrev": "SAO",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/sao_paulo_60x60.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2022/02/21/ce4af8aee58d0eef52f479ced5508ab5_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/04/botafogo-65.png",
   "scouts": {
-    "rodada_id": 11,
+    "rodada_id": 12,
     "g": 1,
     "a": 2,
-    "sg": 1,
+    "sg": 2,
     "fs": 9,
     "ff": 2,
     "fd": 2,
@@ -236,14 +236,14 @@
     "fc": 6,
     "i": 1,
     "ds": 15,
-    "pi": 132,
+    "pi": 133,
     "pc": 0,
     "ps": 0,
-    "pontos_num": 0.3,
-    "preco_num": 5.97,
-    "variacao_num": 0.01,
-    "media_num": 3.04,
-    "jogos_num": 11,
+    "pontos_num": 4.9,
+    "preco_num": 6.72,
+    "variacao_num": 0.75,
+    "media_num": 3.19,
+    "jogos_num": 12,
     "posicao_abrev": "lat",
     "posicao": "Lateral"
   }
