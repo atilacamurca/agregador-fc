@@ -6,7 +6,6 @@
   "clube_id": 314,
   "posicao": "Atacante",
   "rodadas": [
-    2,
     3,
     4,
     5,
@@ -16,10 +15,10 @@
     9,
     10,
     11,
-    12
+    12,
+    13
   ],
   "pontos": [
-    0,
     0,
     1.1,
     -0.1,
@@ -29,10 +28,10 @@
     1.2,
     1.5,
     3,
-    8.5
+    8.5,
+    0.7
   ],
   "precos": [
-    5,
     5,
     3.83,
     3.49,
@@ -42,10 +41,10 @@
     4,
     4.01,
     4.32,
-    5.45
+    5.45,
+    4.36
   ],
   "variacoes": [
-    0,
     0,
     -1.17,
     -0.34,
@@ -55,10 +54,10 @@
     -0.04,
     0.01,
     0.31,
-    1.13
+    1.13,
+    -1.09
   ],
   "medias": [
-    0,
     0,
     1.1,
     0.5,
@@ -68,22 +67,10 @@
     1.68,
     1.65,
     1.82,
-    2.56
+    2.56,
+    2.37
   ],
   "partidas": [
-    {
-      "rodada_id": 2,
-      "clube_casa": "Corinthians",
-      "clube_casa_id": 264,
-      "clube_visitante": "Avaí",
-      "clube_casa_abrev": "COR",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/30/Corinthians_65.png",
-      "clube_visitante_id": 314,
-      "clube_visitante_abrev": "AVA",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/09/04/escudo-avai-65x65.png",
-      "placar_oficial_mandante": 3,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 3,
       "clube_casa": "Avaí",
@@ -213,16 +200,29 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2021/09/19/65_0000_Fortaleza-2021.png",
       "placar_oficial_mandante": 3,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 13,
+      "clube_casa": "Fluminense",
+      "clube_casa_id": 266,
+      "clube_visitante": "Avaí",
+      "clube_casa_abrev": "FLU",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/fluminense_60x60.png",
+      "clube_visitante_id": 314,
+      "clube_visitante_abrev": "AVA",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/09/04/escudo-avai-65x65.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2022/04/14/bc751c43e207d9c789fbbabe7cdd337c_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2018/09/04/escudo-avai-65x65.png",
   "scouts": {
-    "rodada_id": 12,
+    "rodada_id": 13,
     "g": 1,
     "a": 1,
     "sg": 0,
-    "fs": 10,
+    "fs": 12,
     "ff": 1,
     "fd": 6,
     "ft": 0,
@@ -233,17 +233,17 @@
     "ca": 2,
     "pp": 1,
     "gs": 0,
-    "fc": 3,
-    "i": 0,
-    "ds": 4,
-    "pi": 38,
+    "fc": 4,
+    "i": 3,
+    "ds": 5,
+    "pi": 47,
     "pc": 0,
     "ps": 3,
-    "pontos_num": 8.5,
-    "preco_num": 5.45,
-    "variacao_num": 1.13,
-    "media_num": 2.56,
-    "jogos_num": 9,
+    "pontos_num": 0.7,
+    "preco_num": 4.36,
+    "variacao_num": -1.09,
+    "media_num": 2.37,
+    "jogos_num": 10,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }

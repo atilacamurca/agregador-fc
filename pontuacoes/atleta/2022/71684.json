@@ -6,7 +6,6 @@
   "clube_id": 275,
   "posicao": "Zagueiro",
   "rodadas": [
-    2,
     3,
     4,
     5,
@@ -16,10 +15,10 @@
     9,
     10,
     11,
-    12
+    12,
+    13
   ],
   "pontos": [
-    4.4,
     15.2,
     0,
     -0.8,
@@ -29,10 +28,10 @@
     0,
     0,
     0,
-    22.1
+    22.1,
+    8
   ],
   "precos": [
-    14.09,
     17.17,
     17.17,
     14.36,
@@ -42,10 +41,10 @@
     16.64,
     16.64,
     16.64,
-    18.03
+    18.03,
+    16.32
   ],
   "variacoes": [
-    -0.64,
     3.08,
     0,
     -2.81,
@@ -55,10 +54,10 @@
     0,
     0,
     0,
-    1.39
+    1.39,
+    -1.71
   ],
   "medias": [
-    6.35,
     9.3,
     9.3,
     6.78,
@@ -68,22 +67,10 @@
     7.63,
     7.63,
     7.63,
-    9.7
+    9.7,
+    9.49
   ],
   "partidas": [
-    {
-      "rodada_id": 2,
-      "clube_casa": "Goiás",
-      "clube_casa_id": 290,
-      "clube_visitante": "Palmeiras",
-      "clube_casa_abrev": "GOI",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2021/03/01/goias-65.png",
-      "clube_visitante_id": 275,
-      "clube_visitante_abrev": "PAL",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 3,
       "clube_casa": "Palmeiras",
@@ -213,13 +200,26 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2020/07/02/atletico-go-2020-65.png",
       "placar_oficial_mandante": 4,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 13,
+      "clube_casa": "São Paulo",
+      "clube_casa_id": 276,
+      "clube_visitante": "Palmeiras",
+      "clube_casa_abrev": "SAO",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/sao_paulo_60x60.png",
+      "clube_visitante_id": 275,
+      "clube_visitante_abrev": "PAL",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2022/02/21/f210b8623194d0722dd0d76585950fb1_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
   "scouts": {
-    "rodada_id": 12,
-    "g": 5,
+    "rodada_id": 13,
+    "g": 6,
     "a": 0,
     "sg": 3,
     "fs": 5,
@@ -233,17 +233,17 @@
     "ca": 3,
     "pp": 0,
     "gs": 0,
-    "fc": 5,
+    "fc": 7,
     "i": 2,
-    "ds": 9,
-    "pi": 33,
+    "ds": 10,
+    "pi": 39,
     "pc": 0,
     "ps": 0,
-    "pontos_num": 22.1,
-    "preco_num": 18.03,
-    "variacao_num": 1.39,
-    "media_num": 9.7,
-    "jogos_num": 7,
+    "pontos_num": 8,
+    "preco_num": 16.32,
+    "variacao_num": -1.71,
+    "media_num": 9.49,
+    "jogos_num": 8,
     "posicao_abrev": "zag",
     "posicao": "Zagueiro"
   }

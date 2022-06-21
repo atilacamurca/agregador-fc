@@ -6,7 +6,6 @@
   "clube_id": 327,
   "posicao": "Zagueiro",
   "rodadas": [
-    2,
     3,
     4,
     5,
@@ -16,10 +15,10 @@
     9,
     10,
     11,
-    12
+    12,
+    13
   ],
   "pontos": [
-    -1,
     -0.4,
     3.9,
     -2.2,
@@ -29,10 +28,10 @@
     4.7,
     3.8,
     1.1,
-    5.7
+    5.7,
+    3.1
   ],
   "precos": [
-    2.32,
     1.87,
     2.82,
     1.7,
@@ -42,10 +41,10 @@
     2.66,
     2.74,
     2.39,
-    3.29
+    3.29,
+    3.07
   ],
   "variacoes": [
-    -1.68,
     -0.45,
     0.95,
     -1.12,
@@ -55,10 +54,10 @@
     0.97,
     0.08,
     -0.35,
-    0.9
+    0.9,
+    -0.22
   ],
   "medias": [
-    -1,
     -0.7,
     0.83,
     0.07,
@@ -68,22 +67,10 @@
     0.69,
     1.08,
     1.08,
-    1.54
+    1.54,
+    1.68
   ],
   "partidas": [
-    {
-      "rodada_id": 2,
-      "clube_casa": "América-MG",
-      "clube_casa_id": 327,
-      "clube_visitante": "Juventude",
-      "clube_casa_abrev": "AME",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/28/escudo65_1.png",
-      "clube_visitante_id": 286,
-      "clube_visitante_abrev": "JUV",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2021/04/29/juventude65.png",
-      "placar_oficial_mandante": 4,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 3,
       "clube_casa": "Santos",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/fluminense_60x60.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 13,
+      "clube_casa": "Fortaleza",
+      "clube_casa_id": 356,
+      "clube_visitante": "América-MG",
+      "clube_casa_abrev": "FOR",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2021/09/19/65_0000_Fortaleza-2021.png",
+      "clube_visitante_id": 327,
+      "clube_visitante_abrev": "AME",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/28/escudo65_1.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2022/02/24/e0b5f4c6647fe1b42922ddb4458dade0_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/28/escudo65_1.png",
   "scouts": {
-    "rodada_id": 12,
+    "rodada_id": 13,
     "g": 0,
     "a": 1,
     "sg": 2,
@@ -235,15 +235,15 @@
     "gs": 0,
     "fc": 15,
     "i": 0,
-    "ds": 9,
-    "pi": 39,
+    "ds": 12,
+    "pi": 44,
     "pc": 0,
     "ps": 0,
-    "pontos_num": 5.7,
-    "preco_num": 3.29,
-    "variacao_num": 0.9,
-    "media_num": 1.54,
-    "jogos_num": 10,
+    "pontos_num": 3.1,
+    "preco_num": 3.07,
+    "variacao_num": -0.22,
+    "media_num": 1.68,
+    "jogos_num": 11,
     "posicao_abrev": "zag",
     "posicao": "Zagueiro"
   }

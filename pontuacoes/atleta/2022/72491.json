@@ -6,7 +6,6 @@
   "clube_id": 314,
   "posicao": "Zagueiro",
   "rodadas": [
-    2,
     3,
     4,
     5,
@@ -16,10 +15,10 @@
     9,
     10,
     11,
-    12
+    12,
+    13
   ],
   "pontos": [
-    3.7,
     1.5,
     6.3,
     2,
@@ -29,10 +28,10 @@
     0,
     0,
     0,
-    0.4
+    0.4,
+    2.2
   ],
   "precos": [
-    7.34,
     6.93,
     8.15,
     7.68,
@@ -42,10 +41,10 @@
     7.11,
     7.11,
     7.11,
-    6.34
+    6.34,
+    6.61
   ],
   "variacoes": [
-    1.26,
     -0.41,
     1.22,
     -0.47,
@@ -55,10 +54,10 @@
     0,
     0,
     0,
-    -0.77
+    -0.77,
+    0.27
   ],
   "medias": [
-    4.95,
     3.8,
     4.42,
     3.94,
@@ -68,22 +67,10 @@
     3.07,
     3.07,
     3.07,
-    2.74
+    2.74,
+    2.68
   ],
   "partidas": [
-    {
-      "rodada_id": 2,
-      "clube_casa": "Corinthians",
-      "clube_casa_id": 264,
-      "clube_visitante": "Avaí",
-      "clube_casa_abrev": "COR",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/30/Corinthians_65.png",
-      "clube_visitante_id": 314,
-      "clube_visitante_abrev": "AVA",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/09/04/escudo-avai-65x65.png",
-      "placar_oficial_mandante": 3,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 3,
       "clube_casa": "Avaí",
@@ -213,16 +200,29 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2021/09/19/65_0000_Fortaleza-2021.png",
       "placar_oficial_mandante": 3,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 13,
+      "clube_casa": "Fluminense",
+      "clube_casa_id": 266,
+      "clube_visitante": "Avaí",
+      "clube_casa_abrev": "FLU",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/fluminense_60x60.png",
+      "clube_visitante_id": 314,
+      "clube_visitante_abrev": "AVA",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/09/04/escudo-avai-65x65.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2022/03/08/0759780a94f5359aefe723b749494c0b_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2018/09/04/escudo-avai-65x65.png",
   "scouts": {
-    "rodada_id": 12,
+    "rodada_id": 13,
     "g": 0,
     "a": 0,
     "sg": 2,
-    "fs": 2,
+    "fs": 3,
     "ff": 2,
     "fd": 0,
     "ft": 1,
@@ -233,17 +233,17 @@
     "ca": 1,
     "pp": 0,
     "gs": 0,
-    "fc": 7,
+    "fc": 8,
     "i": 0,
-    "ds": 11,
-    "pi": 38,
+    "ds": 13,
+    "pi": 42,
     "pc": 0,
     "ps": 0,
-    "pontos_num": 0.4,
-    "preco_num": 6.34,
-    "variacao_num": -0.77,
-    "media_num": 2.74,
-    "jogos_num": 8,
+    "pontos_num": 2.2,
+    "preco_num": 6.61,
+    "variacao_num": 0.27,
+    "media_num": 2.68,
+    "jogos_num": 9,
     "posicao_abrev": "zag",
     "posicao": "Zagueiro"
   }

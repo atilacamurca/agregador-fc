@@ -6,7 +6,6 @@
   "clube_id": 290,
   "posicao": "Zagueiro",
   "rodadas": [
-    2,
     3,
     4,
     5,
@@ -16,10 +15,10 @@
     9,
     10,
     11,
-    12
+    12,
+    13
   ],
   "pontos": [
-    1.1,
     1.7,
     0,
     0,
@@ -29,10 +28,10 @@
     0,
     0,
     0,
-    10.2
+    10.2,
+    -1.4
   ],
   "precos": [
-    0.68,
     1.05,
     1.05,
     1.05,
@@ -42,10 +41,10 @@
     1.23,
     1.23,
     1.23,
-    3.13
+    3.13,
+    1.45
   ],
   "variacoes": [
-    0.02,
     0.37,
     0,
     0,
@@ -55,10 +54,10 @@
     0,
     0,
     0,
-    1.9
+    1.9,
+    -1.68
   ],
   "medias": [
-    0.1,
     0.63,
     0.63,
     0.63,
@@ -68,22 +67,10 @@
     1.28,
     1.28,
     1.28,
-    2.77
+    2.77,
+    2.17
   ],
   "partidas": [
-    {
-      "rodada_id": 2,
-      "clube_casa": "Goiás",
-      "clube_casa_id": 290,
-      "clube_visitante": "Palmeiras",
-      "clube_casa_abrev": "GOI",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2021/03/01/goias-65.png",
-      "clube_visitante_id": 275,
-      "clube_visitante_abrev": "PAL",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 3,
       "clube_casa": "Avaí",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/03/inter65.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 13,
+      "clube_casa": "Corinthians",
+      "clube_casa_id": 264,
+      "clube_visitante": "Goiás",
+      "clube_casa_abrev": "COR",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/30/Corinthians_65.png",
+      "clube_visitante_id": 290,
+      "clube_visitante_abrev": "GOI",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2021/03/01/goias-65.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2022/04/14/725c74c1640e2114b3f019ae16a79a79_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2021/03/01/goias-65.png",
   "scouts": {
-    "rodada_id": 12,
+    "rodada_id": 13,
     "g": 1,
     "a": 0,
     "sg": 1,
@@ -230,20 +230,20 @@
     "dp": 0,
     "gc": 0,
     "cv": 0,
-    "ca": 2,
+    "ca": 3,
     "pp": 0,
     "gs": 0,
     "fc": 4,
     "i": 0,
     "ds": 4,
-    "pi": 13,
+    "pi": 17,
     "pc": 0,
     "ps": 0,
-    "pontos_num": 10.2,
-    "preco_num": 3.13,
-    "variacao_num": 1.9,
-    "media_num": 2.77,
-    "jogos_num": 6,
+    "pontos_num": -1.4,
+    "preco_num": 1.45,
+    "variacao_num": -1.68,
+    "media_num": 2.17,
+    "jogos_num": 7,
     "posicao_abrev": "zag",
     "posicao": "Zagueiro"
   }

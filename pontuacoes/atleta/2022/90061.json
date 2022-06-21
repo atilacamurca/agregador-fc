@@ -6,7 +6,6 @@
   "clube_id": 354,
   "posicao": "Lateral",
   "rodadas": [
-    2,
     3,
     4,
     5,
@@ -16,10 +15,10 @@
     9,
     10,
     11,
-    12
+    12,
+    13
   ],
   "pontos": [
-    0.2,
     0,
     3.3,
     -0.3,
@@ -29,10 +28,10 @@
     7.8,
     0,
     0.2,
-    0
+    0,
+    9.1
   ],
   "precos": [
-    8.72,
     8.72,
     8.38,
     7.57,
@@ -42,10 +41,10 @@
     9.31,
     9.31,
     7.93,
-    7.93
+    7.93,
+    9.33
   ],
   "variacoes": [
-    -0.92,
     0,
     -0.34,
     -0.81,
@@ -55,10 +54,10 @@
     1.6,
     0,
     -1.38,
-    0
+    0,
+    1.4
   ],
   "medias": [
-    3.9,
     3.9,
     3.7,
     2.7,
@@ -68,22 +67,10 @@
     3.65,
     3.65,
     3.27,
-    3.27
+    3.27,
+    3.85
   ],
   "partidas": [
-    {
-      "rodada_id": 2,
-      "clube_casa": "Ceará",
-      "clube_casa_id": 354,
-      "clube_visitante": "Botafogo",
-      "clube_casa_abrev": "CEA",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/10/10/ceara-65x65.png",
-      "clube_visitante_id": 263,
-      "clube_visitante_abrev": "BOT",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/04/botafogo-65.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 3
-    },
     {
       "rodada_id": 3,
       "clube_casa": "Fortaleza",
@@ -213,19 +200,32 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2017/11/23/Atletico-Mineiro-escudo65px.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 13,
+      "clube_casa": "Cuiabá",
+      "clube_casa_id": 1371,
+      "clube_visitante": "Ceará",
+      "clube_casa_abrev": "CUI",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/16/cuiaba65.png",
+      "clube_visitante_id": 354,
+      "clube_visitante_abrev": "CEA",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/10/10/ceara-65x65.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2022/02/22/557432fa07207d8e3aa6630ee0483cf0_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2019/10/10/ceara-65x65.png",
   "scouts": {
-    "rodada_id": 12,
+    "rodada_id": 13,
     "g": 0,
     "a": 1,
-    "sg": 1,
-    "fs": 15,
+    "sg": 2,
+    "fs": 18,
     "ff": 1,
     "fd": 2,
-    "ft": 0,
+    "ft": 1,
     "de": 0,
     "dp": 0,
     "gc": 0,
@@ -233,17 +233,17 @@
     "ca": 3,
     "pp": 0,
     "gs": 0,
-    "fc": 9,
+    "fc": 10,
     "i": 2,
-    "ds": 22,
-    "pi": 78,
+    "ds": 23,
+    "pi": 91,
     "pc": 1,
     "ps": 0,
-    "pontos_num": 0,
-    "preco_num": 7.93,
-    "variacao_num": 0,
-    "media_num": 3.27,
-    "jogos_num": 9,
+    "pontos_num": 9.1,
+    "preco_num": 9.33,
+    "variacao_num": 1.4,
+    "media_num": 3.85,
+    "jogos_num": 10,
     "posicao_abrev": "lat",
     "posicao": "Lateral"
   }
