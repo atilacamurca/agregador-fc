@@ -6,7 +6,6 @@
   "clube_id": 293,
   "posicao": "Lateral",
   "rodadas": [
-    3,
     4,
     5,
     6,
@@ -16,10 +15,10 @@
     10,
     11,
     12,
-    13
+    13,
+    14
   ],
   "pontos": [
-    0,
     0,
     4.9,
     2.5,
@@ -29,10 +28,10 @@
     0.3,
     11.7,
     2.4,
-    13
+    13,
+    0
   ],
   "precos": [
-    2.77,
     2.77,
     3.28,
     3.18,
@@ -42,10 +41,10 @@
     3.52,
     5.73,
     4.5,
-    6.6
+    6.6,
+    4.74
   ],
   "variacoes": [
-    0,
     0,
     0.51,
     -0.1,
@@ -55,10 +54,10 @@
     -0.47,
     2.21,
     -1.23,
-    2.1
+    2.1,
+    -1.86
   ],
   "medias": [
-    0.2,
     0.2,
     2.55,
     2.53,
@@ -68,22 +67,10 @@
     2.76,
     3.88,
     3.72,
-    4.65
+    4.65,
+    4.23
   ],
   "partidas": [
-    {
-      "rodada_id": 3,
-      "clube_casa": "Athlético-PR",
-      "clube_casa_id": 293,
-      "clube_visitante": "Flamengo",
-      "clube_casa_abrev": "ATL",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/09/Athletico-PR-65x65.png",
-      "clube_visitante_id": 262,
-      "clube_visitante_abrev": "FLA",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/04/09/Flamengo-65.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 4,
       "clube_casa": "América-MG",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/09/Athletico-PR-65x65.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 14,
+      "clube_casa": "Athlético-PR",
+      "clube_casa_id": 293,
+      "clube_visitante": "Bragantino",
+      "clube_casa_abrev": "ATL",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/09/Athletico-PR-65x65.png",
+      "clube_visitante_id": 280,
+      "clube_visitante_abrev": "BRA",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2020/01/01/65.png",
+      "placar_oficial_mandante": 4,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2022/02/21/2ca4e948511b9183a702c48d72753850_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/09/Athletico-PR-65x65.png",
   "scouts": {
-    "rodada_id": 13,
+    "rodada_id": 14,
     "g": 1,
     "a": 0,
     "sg": 4,
@@ -230,20 +230,20 @@
     "dp": 0,
     "gc": 0,
     "cv": 0,
-    "ca": 0,
+    "ca": 1,
     "pp": 0,
     "gs": 0,
     "fc": 9,
     "i": 0,
-    "ds": 20,
-    "pi": 98,
+    "ds": 21,
+    "pi": 100,
     "pc": 1,
     "ps": 0,
-    "pontos_num": 13,
-    "preco_num": 6.6,
-    "variacao_num": 2.1,
-    "media_num": 4.65,
-    "jogos_num": 10,
+    "pontos_num": 0,
+    "preco_num": 4.74,
+    "variacao_num": -1.86,
+    "media_num": 4.23,
+    "jogos_num": 11,
     "posicao_abrev": "lat",
     "posicao": "Lateral"
   }

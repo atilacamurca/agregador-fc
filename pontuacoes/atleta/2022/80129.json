@@ -6,7 +6,6 @@
   "clube_id": 286,
   "posicao": "Meia",
   "rodadas": [
-    3,
     4,
     5,
     6,
@@ -16,10 +15,10 @@
     10,
     11,
     12,
-    13
+    13,
+    14
   ],
   "pontos": [
-    2.8,
     5.1,
     -0.7,
     3.1,
@@ -29,10 +28,10 @@
     8.5,
     9.3,
     0,
-    -0.9
+    -0.9,
+    3.1
   ],
   "precos": [
-    8.1,
     8.78,
     7.7,
     8.22,
@@ -42,10 +41,10 @@
     8.92,
     9.45,
     9.45,
-    7.77
+    7.77,
+    8.35
   ],
   "variacoes": [
-    -0.18,
     0.68,
     -1.08,
     0.52,
@@ -55,10 +54,10 @@
     1.42,
     0.53,
     0,
-    -1.68
+    -1.68,
+    0.58
   ],
   "medias": [
-    4.1,
     4.35,
     3.34,
     3.3,
@@ -68,22 +67,10 @@
     3.48,
     4.06,
     4.06,
-    3.61
+    3.61,
+    3.57
   ],
   "partidas": [
-    {
-      "rodada_id": 3,
-      "clube_casa": "Juventude",
-      "clube_casa_id": 286,
-      "clube_visitante": "Cuiabá",
-      "clube_casa_abrev": "JUV",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2021/04/29/juventude65.png",
-      "clube_visitante_id": 1371,
-      "clube_visitante_abrev": "CUI",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/16/cuiaba65.png",
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 4,
       "clube_casa": "Botafogo",
@@ -213,37 +200,50 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2021/04/29/juventude65.png",
       "placar_oficial_mandante": 3,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 14,
+      "clube_casa": "São Paulo",
+      "clube_casa_id": 276,
+      "clube_visitante": "Juventude",
+      "clube_casa_abrev": "SAO",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/sao_paulo_60x60.png",
+      "clube_visitante_id": 286,
+      "clube_visitante_abrev": "JUV",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2021/04/29/juventude65.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2022/03/03/f6f0935d45f36314cddff53717eee8de_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2021/04/29/juventude65.png",
   "scouts": {
-    "rodada_id": 13,
+    "rodada_id": 14,
     "g": 1,
     "a": 0,
     "sg": 0,
-    "fs": 20,
-    "ff": 2,
+    "fs": 23,
+    "ff": 3,
     "fd": 2,
     "ft": 0,
     "de": 0,
     "dp": 0,
     "gc": 0,
     "cv": 0,
-    "ca": 4,
+    "ca": 5,
     "pp": 0,
     "gs": 0,
     "fc": 20,
     "i": 1,
-    "ds": 30,
-    "pi": 82,
+    "ds": 32,
+    "pi": 88,
     "pc": 0,
     "ps": 0,
-    "pontos_num": -0.9,
-    "preco_num": 7.77,
-    "variacao_num": -1.68,
-    "media_num": 3.61,
-    "jogos_num": 11,
+    "pontos_num": 3.1,
+    "preco_num": 8.35,
+    "variacao_num": 0.58,
+    "media_num": 3.57,
+    "jogos_num": 12,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }

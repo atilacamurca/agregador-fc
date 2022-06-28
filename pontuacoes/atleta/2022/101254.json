@@ -6,7 +6,6 @@
   "clube_id": 294,
   "posicao": "Atacante",
   "rodadas": [
-    3,
     4,
     5,
     6,
@@ -16,10 +15,10 @@
     10,
     11,
     12,
-    13
+    13,
+    14
   ],
   "pontos": [
-    2.2,
     4.6,
     -0.5,
     0.6,
@@ -29,10 +28,10 @@
     13.5,
     -0.8,
     1.9,
-    7.8
+    7.8,
+    0
   ],
   "precos": [
-    9.08,
     9.59,
     8.57,
     8.42,
@@ -42,10 +41,10 @@
     10.49,
     8.31,
     8.56,
+    9.67,
     9.67
   ],
   "variacoes": [
-    -0.36,
     0.51,
     -1.02,
     -0.15,
@@ -55,10 +54,10 @@
     1.68,
     -2.18,
     0.25,
-    1.11
+    1.11,
+    0
   ],
   "medias": [
-    4.1,
     4.22,
     3.28,
     2.83,
@@ -68,22 +67,10 @@
     4.01,
     3.53,
     3.38,
+    3.75,
     3.75
   ],
   "partidas": [
-    {
-      "rodada_id": 3,
-      "clube_casa": "Atlético-MG",
-      "clube_casa_id": 282,
-      "clube_visitante": "Coritiba",
-      "clube_casa_abrev": "ATL",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2017/11/23/Atletico-Mineiro-escudo65px.png",
-      "clube_visitante_id": 294,
-      "clube_visitante_abrev": "COR",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2017/03/29/coritiba65.png",
-      "placar_oficial_mandante": 2,
-      "placar_oficial_visitante": 2
-    },
     {
       "rodada_id": 4,
       "clube_casa": "Coritiba",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/09/Athletico-PR-65x65.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 14,
+      "clube_casa": "Internacional",
+      "clube_casa_id": 285,
+      "clube_visitante": "Coritiba",
+      "clube_casa_abrev": "INT",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/03/inter65.png",
+      "clube_visitante_id": 294,
+      "clube_visitante_abrev": "COR",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2017/03/29/coritiba65.png",
+      "placar_oficial_mandante": 3,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2022/02/23/2f591fe9297201b345f8815815be56ef_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2017/03/29/coritiba65.png",
   "scouts": {
-    "rodada_id": 13,
+    "rodada_id": 14,
     "g": 2,
     "a": 1,
     "sg": 0,
@@ -239,9 +239,9 @@
     "pi": 69,
     "pc": 0,
     "ps": 0,
-    "pontos_num": 7.8,
+    "pontos_num": 0,
     "preco_num": 9.67,
-    "variacao_num": 1.11,
+    "variacao_num": 0,
     "media_num": 3.75,
     "jogos_num": 12,
     "posicao_abrev": "ata",

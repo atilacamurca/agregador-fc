@@ -6,7 +6,6 @@
   "clube_id": 276,
   "posicao": "Zagueiro",
   "rodadas": [
-    3,
     4,
     5,
     6,
@@ -16,10 +15,10 @@
     10,
     11,
     12,
-    13
+    13,
+    14
   ],
   "pontos": [
-    0.3,
     2,
     3.2,
     11.1,
@@ -29,10 +28,10 @@
     0,
     0,
     4.1,
-    0.9
+    0.9,
+    0
   ],
   "precos": [
-    5.62,
     5.68,
     6,
     8.04,
@@ -42,10 +41,10 @@
     6.24,
     6.24,
     6.41,
+    5.93,
     5.93
   ],
   "variacoes": [
-    -2.38,
     0.06,
     0.32,
     2.04,
@@ -55,10 +54,10 @@
     0,
     0,
     0.17,
-    -0.48
+    -0.48,
+    0
   ],
   "medias": [
-    0.3,
     1.15,
     1.83,
     4.15,
@@ -68,22 +67,10 @@
     2.78,
     2.78,
     2.97,
+    2.71,
     2.71
   ],
   "partidas": [
-    {
-      "rodada_id": 3,
-      "clube_casa": "Bragantino",
-      "clube_casa_id": 280,
-      "clube_visitante": "São Paulo",
-      "clube_casa_abrev": "BRA",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2020/01/01/65.png",
-      "clube_visitante_id": 276,
-      "clube_visitante_abrev": "SAO",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/sao_paulo_60x60.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 4,
       "clube_casa": "São Paulo",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 14,
+      "clube_casa": "São Paulo",
+      "clube_casa_id": 276,
+      "clube_visitante": "Juventude",
+      "clube_casa_abrev": "SAO",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/sao_paulo_60x60.png",
+      "clube_visitante_id": 286,
+      "clube_visitante_abrev": "JUV",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2021/04/29/juventude65.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2022/03/01/a2548066433583acdc68badc1f1e35bf_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/sao_paulo_60x60.png",
   "scouts": {
-    "rodada_id": 13,
+    "rodada_id": 14,
     "g": 0,
     "a": 0,
     "sg": 0,
@@ -239,9 +239,9 @@
     "pi": 31,
     "pc": 0,
     "ps": 0,
-    "pontos_num": 0.9,
+    "pontos_num": 0,
     "preco_num": 5.93,
-    "variacao_num": -0.48,
+    "variacao_num": 0,
     "media_num": 2.71,
     "jogos_num": 8,
     "posicao_abrev": "zag",

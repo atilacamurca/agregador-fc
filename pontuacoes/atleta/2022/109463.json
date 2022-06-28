@@ -6,7 +6,6 @@
   "clube_id": 282,
   "posicao": "Atacante",
   "rodadas": [
-    3,
     4,
     5,
     6,
@@ -16,10 +15,10 @@
     10,
     11,
     12,
-    13
+    13,
+    14
   ],
   "pontos": [
-    0.5,
     0,
     0.6,
     0,
@@ -29,10 +28,10 @@
     0.8,
     12.6,
     0,
-    0
+    0,
+    0.5
   ],
   "precos": [
-    2.23,
     2.23,
     2.09,
     2.09,
@@ -42,10 +41,10 @@
     2.04,
     4.4,
     4.4,
-    4.4
+    4.4,
+    2.83
   ],
   "variacoes": [
-    -0.77,
     0,
     -0.14,
     0,
@@ -55,10 +54,10 @@
     -0.22,
     2.36,
     0,
-    0
+    0,
+    -1.57
   ],
   "medias": [
-    0.5,
     0.5,
     0.55,
     0.55,
@@ -68,22 +67,10 @@
     0.82,
     2.78,
     2.78,
-    2.78
+    2.78,
+    2.45
   ],
   "partidas": [
-    {
-      "rodada_id": 3,
-      "clube_casa": "Atlético-MG",
-      "clube_casa_id": 282,
-      "clube_visitante": "Coritiba",
-      "clube_casa_abrev": "ATL",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2017/11/23/Atletico-Mineiro-escudo65px.png",
-      "clube_visitante_id": 294,
-      "clube_visitante_abrev": "COR",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2017/03/29/coritiba65.png",
-      "placar_oficial_mandante": 2,
-      "placar_oficial_visitante": 2
-    },
     {
       "rodada_id": 4,
       "clube_casa": "Goiás",
@@ -213,17 +200,30 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/04/09/Flamengo-65.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 14,
+      "clube_casa": "Atlético-MG",
+      "clube_casa_id": 282,
+      "clube_visitante": "Fortaleza",
+      "clube_casa_abrev": "ATL",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2017/11/23/Atletico-Mineiro-escudo65px.png",
+      "clube_visitante_id": 356,
+      "clube_visitante_abrev": "FOR",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2021/09/19/65_0000_Fortaleza-2021.png",
+      "placar_oficial_mandante": 3,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2021/05/02/37517962eafc7aa02f1017d4a4865fa0_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2017/11/23/Atletico-Mineiro-escudo65px.png",
   "scouts": {
-    "rodada_id": 13,
+    "rodada_id": 14,
     "g": 1,
     "a": 0,
     "sg": 0,
-    "fs": 5,
-    "ff": 2,
+    "fs": 7,
+    "ff": 3,
     "fd": 1,
     "ft": 0,
     "de": 0,
@@ -233,17 +233,17 @@
     "ca": 0,
     "pp": 0,
     "gs": 0,
-    "fc": 1,
+    "fc": 3,
     "i": 0,
     "ds": 4,
-    "pi": 11,
+    "pi": 18,
     "pc": 0,
     "ps": 0,
-    "pontos_num": 0,
-    "preco_num": 4.4,
-    "variacao_num": 0,
-    "media_num": 2.78,
-    "jogos_num": 6,
+    "pontos_num": 0.5,
+    "preco_num": 2.83,
+    "variacao_num": -1.57,
+    "media_num": 2.45,
+    "jogos_num": 7,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }
