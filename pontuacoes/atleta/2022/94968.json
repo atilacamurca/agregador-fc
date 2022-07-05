@@ -6,7 +6,6 @@
   "clube_id": 356,
   "posicao": "Lateral",
   "rodadas": [
-    4,
     5,
     6,
     7,
@@ -16,10 +15,10 @@
     11,
     12,
     13,
-    14
+    14,
+    15
   ],
   "pontos": [
-    -0.1,
     7.8,
     1.5,
     7.6,
@@ -29,10 +28,10 @@
     9,
     0.6,
     9.9,
-    4.5
+    4.5,
+    0.2
   ],
   "precos": [
-    3.36,
     5.21,
     4.45,
     5.8,
@@ -42,10 +41,10 @@
     6.3,
     5.06,
     6.8,
-    6.2
+    6.2,
+    5.57
   ],
   "variacoes": [
-    -0.81,
     1.85,
     -0.76,
     1.35,
@@ -55,10 +54,10 @@
     1.45,
     -1.24,
     1.74,
-    -0.6
+    -0.6,
+    -0.63
   ],
   "medias": [
-    0.05,
     2.63,
     2.35,
     3.4,
@@ -68,22 +67,10 @@
     3.5,
     3.18,
     3.85,
-    3.91
+    3.91,
+    3.6
   ],
   "partidas": [
-    {
-      "rodada_id": 4,
-      "clube_casa": "Corinthians",
-      "clube_casa_id": 264,
-      "clube_visitante": "Fortaleza",
-      "clube_casa_abrev": "COR",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/30/Corinthians_65.png",
-      "clube_visitante_id": 356,
-      "clube_visitante_abrev": "FOR",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2021/09/19/65_0000_Fortaleza-2021.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 5,
       "clube_casa": "Fortaleza",
@@ -213,37 +200,50 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2021/09/19/65_0000_Fortaleza-2021.png",
       "placar_oficial_mandante": 3,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 15,
+      "clube_casa": "Coritiba",
+      "clube_casa_id": 294,
+      "clube_visitante": "Fortaleza",
+      "clube_casa_abrev": "COR",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2017/03/29/coritiba65.png",
+      "clube_visitante_id": 356,
+      "clube_visitante_abrev": "FOR",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2021/09/19/65_0000_Fortaleza-2021.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2022/02/25/404f0a454cb039f59334f747add17f5e_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2021/09/19/65_0000_Fortaleza-2021.png",
   "scouts": {
-    "rodada_id": 14,
+    "rodada_id": 15,
     "g": 0,
     "a": 2,
     "sg": 2,
-    "fs": 15,
+    "fs": 17,
     "ff": 6,
-    "fd": 1,
+    "fd": 3,
     "ft": 1,
     "de": 0,
     "dp": 0,
     "gc": 0,
     "cv": 0,
-    "ca": 2,
+    "ca": 3,
     "pp": 0,
     "gs": 0,
-    "fc": 15,
+    "fc": 21,
     "i": 0,
-    "ds": 21,
-    "pi": 122,
+    "ds": 22,
+    "pi": 138,
     "pc": 0,
     "ps": 0,
-    "pontos_num": 4.5,
-    "preco_num": 6.2,
-    "variacao_num": -0.6,
-    "media_num": 3.91,
-    "jogos_num": 11,
+    "pontos_num": 0.2,
+    "preco_num": 5.57,
+    "variacao_num": -0.63,
+    "media_num": 3.6,
+    "jogos_num": 12,
     "posicao_abrev": "lat",
     "posicao": "Lateral"
   }

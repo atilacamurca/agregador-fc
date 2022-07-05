@@ -6,7 +6,6 @@
   "clube_id": 275,
   "posicao": "Meia",
   "rodadas": [
-    4,
     5,
     6,
     7,
@@ -16,10 +15,10 @@
     11,
     12,
     13,
-    14
+    14,
+    15
   ],
   "pontos": [
-    0,
     0.9,
     9.1,
     2.4,
@@ -29,10 +28,10 @@
     0.3,
     3.6,
     3.7,
-    0
+    0,
+    3
   ],
   "precos": [
-    5.97,
     5.42,
     7.27,
     6.4,
@@ -42,10 +41,10 @@
     5.78,
     6.28,
     6.41,
-    6.41
+    6.41,
+    6.35
   ],
   "variacoes": [
-    0,
     -0.55,
     1.85,
     -0.87,
@@ -55,10 +54,10 @@
     -0.44,
     0.5,
     0.13,
-    0
+    0,
+    -0.06
   ],
   "medias": [
-    1.33,
     1.22,
     2.8,
     2.73,
@@ -68,22 +67,10 @@
     2.43,
     2.56,
     2.67,
-    2.67
+    2.67,
+    2.7
   ],
   "partidas": [
-    {
-      "rodada_id": 4,
-      "clube_casa": "Flamengo",
-      "clube_casa_id": 262,
-      "clube_visitante": "Palmeiras",
-      "clube_casa_abrev": "FLA",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/04/09/Flamengo-65.png",
-      "clube_visitante_id": 275,
-      "clube_visitante_abrev": "PAL",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 5,
       "clube_casa": "Palmeiras",
@@ -213,17 +200,30 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 15,
+      "clube_casa": "Palmeiras",
+      "clube_casa_id": 275,
+      "clube_visitante": "Athlético-PR",
+      "clube_casa_abrev": "PAL",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
+      "clube_visitante_id": 293,
+      "clube_visitante_abrev": "ATL",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/09/Athletico-PR-65x65.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2022/02/21/db630d6c2cb9309ad6f0f77ad6f1d408_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
   "scouts": {
-    "rodada_id": 14,
+    "rodada_id": 15,
     "g": 1,
     "a": 0,
     "sg": 0,
-    "fs": 9,
-    "ff": 6,
+    "fs": 10,
+    "ff": 7,
     "fd": 2,
     "ft": 0,
     "de": 0,
@@ -233,17 +233,17 @@
     "ca": 3,
     "pp": 0,
     "gs": 0,
-    "fc": 9,
+    "fc": 10,
     "i": 1,
-    "ds": 15,
-    "pi": 52,
+    "ds": 17,
+    "pi": 56,
     "pc": 0,
     "ps": 0,
-    "pontos_num": 0,
-    "preco_num": 6.41,
-    "variacao_num": 0,
-    "media_num": 2.67,
-    "jogos_num": 10,
+    "pontos_num": 3,
+    "preco_num": 6.35,
+    "variacao_num": -0.06,
+    "media_num": 2.7,
+    "jogos_num": 11,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }

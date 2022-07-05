@@ -6,7 +6,6 @@
   "clube_id": 276,
   "posicao": "Atacante",
   "rodadas": [
-    4,
     5,
     6,
     7,
@@ -16,10 +15,10 @@
     11,
     12,
     13,
-    14
+    14,
+    15
   ],
   "pontos": [
-    9.7,
     7.6,
     -0.6,
     3,
@@ -29,10 +28,10 @@
     1.2,
     0.4,
     0,
-    6.3
+    6.3,
+    15.2
   ],
   "precos": [
-    12.46,
     12.84,
     11.29,
     11.57,
@@ -42,10 +41,10 @@
     11.58,
     11.18,
     11.18,
-    11.99
+    11.99,
+    13.87
   ],
   "variacoes": [
-    0.31,
     0.38,
     -1.55,
     0.28,
@@ -55,10 +54,10 @@
     -0.75,
     -0.4,
     0,
-    0.81
+    0.81,
+    1.88
   ],
   "medias": [
-    9.05,
     8.57,
     6.28,
     5.62,
@@ -68,22 +67,10 @@
     5.22,
     4.74,
     4.74,
-    4.88
+    4.88,
+    5.74
   ],
   "partidas": [
-    {
-      "rodada_id": 4,
-      "clube_casa": "São Paulo",
-      "clube_casa_id": 276,
-      "clube_visitante": "Santos",
-      "clube_casa_abrev": "SAO",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/sao_paulo_60x60.png",
-      "clube_visitante_id": 277,
-      "clube_visitante_abrev": "SAN",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/santos_60x60.png",
-      "placar_oficial_mandante": 2,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 5,
       "clube_casa": "Fortaleza",
@@ -213,37 +200,50 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2021/04/29/juventude65.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 15,
+      "clube_casa": "Atlético-GO",
+      "clube_casa_id": 373,
+      "clube_visitante": "São Paulo",
+      "clube_casa_abrev": "ATL",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2020/07/02/atletico-go-2020-65.png",
+      "clube_visitante_id": 276,
+      "clube_visitante_abrev": "SAO",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/sao_paulo_60x60.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2022/03/01/aeb1926a6ddb270206f4ceffcf701d4b_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/sao_paulo_60x60.png",
   "scouts": {
-    "rodada_id": 14,
-    "g": 3,
+    "rodada_id": 15,
+    "g": 5,
     "a": 0,
     "sg": 0,
-    "fs": 10,
-    "ff": 9,
+    "fs": 11,
+    "ff": 10,
     "fd": 9,
     "ft": 0,
     "de": 0,
     "dp": 0,
     "gc": 0,
     "cv": 0,
-    "ca": 2,
+    "ca": 3,
     "pp": 0,
     "gs": 0,
-    "fc": 4,
+    "fc": 7,
     "i": 4,
     "ds": 11,
-    "pi": 39,
+    "pi": 41,
     "pc": 0,
     "ps": 1,
-    "pontos_num": 6.3,
-    "preco_num": 11.99,
-    "variacao_num": 0.81,
-    "media_num": 4.88,
-    "jogos_num": 11,
+    "pontos_num": 15.2,
+    "preco_num": 13.87,
+    "variacao_num": 1.88,
+    "media_num": 5.74,
+    "jogos_num": 12,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }
