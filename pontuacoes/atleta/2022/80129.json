@@ -6,7 +6,6 @@
   "clube_id": 286,
   "posicao": "Meia",
   "rodadas": [
-    5,
     6,
     7,
     8,
@@ -16,10 +15,10 @@
     12,
     13,
     14,
-    15
+    15,
+    16
   ],
   "pontos": [
-    -0.7,
     3.1,
     2.6,
     0,
@@ -29,10 +28,10 @@
     0,
     -0.9,
     3.1,
-    1.4
+    1.4,
+    -0.7
   ],
   "precos": [
-    7.7,
     8.22,
     8.09,
     8.09,
@@ -42,10 +41,10 @@
     9.45,
     7.77,
     8.35,
-    8.12
+    8.12,
+    7.57
   ],
   "variacoes": [
-    -1.08,
     0.52,
     -0.13,
     0,
@@ -55,10 +54,10 @@
     0,
     -1.68,
     0.58,
-    -0.23
+    -0.23,
+    -0.55
   ],
   "medias": [
-    3.34,
     3.3,
     3.2,
     3.2,
@@ -68,22 +67,10 @@
     4.06,
     3.61,
     3.57,
-    3.4
+    3.4,
+    3.11
   ],
   "partidas": [
-    {
-      "rodada_id": 5,
-      "clube_casa": "Juventude",
-      "clube_casa_id": 286,
-      "clube_visitante": "Internacional",
-      "clube_casa_abrev": "JUV",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2021/04/29/juventude65.png",
-      "clube_visitante_id": 285,
-      "clube_visitante_abrev": "INT",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/03/inter65.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 6,
       "clube_casa": "Avaí",
@@ -213,16 +200,29 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2017/11/23/Atletico-Mineiro-escudo65px.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 16,
+      "clube_casa": "Coritiba",
+      "clube_casa_id": 294,
+      "clube_visitante": "Juventude",
+      "clube_casa_abrev": "COR",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2017/03/29/coritiba65.png",
+      "clube_visitante_id": 286,
+      "clube_visitante_abrev": "JUV",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2021/04/29/juventude65.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2022/03/03/f6f0935d45f36314cddff53717eee8de_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2021/04/29/juventude65.png",
   "scouts": {
-    "rodada_id": 15,
+    "rodada_id": 16,
     "g": 1,
     "a": 0,
     "sg": 0,
-    "fs": 25,
+    "fs": 26,
     "ff": 3,
     "fd": 2,
     "ft": 0,
@@ -233,17 +233,17 @@
     "ca": 5,
     "pp": 0,
     "gs": 0,
-    "fc": 23,
+    "fc": 25,
     "i": 1,
     "ds": 34,
-    "pi": 99,
+    "pi": 105,
     "pc": 0,
     "ps": 0,
-    "pontos_num": 1.4,
-    "preco_num": 8.12,
-    "variacao_num": -0.23,
-    "media_num": 3.4,
-    "jogos_num": 13,
+    "pontos_num": -0.7,
+    "preco_num": 7.57,
+    "variacao_num": -0.55,
+    "media_num": 3.11,
+    "jogos_num": 14,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }
