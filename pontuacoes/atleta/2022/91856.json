@@ -6,7 +6,6 @@
   "clube_id": 373,
   "posicao": "Lateral",
   "rodadas": [
-    6,
     7,
     8,
     9,
@@ -16,10 +15,10 @@
     13,
     14,
     15,
-    16
+    16,
+    17
   ],
   "pontos": [
-    4.6,
     14.1,
     -2.6,
     0,
@@ -29,10 +28,10 @@
     -1.9,
     -0.6,
     2.9,
-    -0.7
+    -0.7,
+    0
   ],
   "precos": [
-    3.69,
     6.19,
     3.71,
     3.71,
@@ -42,10 +41,10 @@
     3.91,
     3.99,
     4.59,
+    3.94,
     3.94
   ],
   "variacoes": [
-    0.56,
     2.5,
     -2.48,
     0,
@@ -55,10 +54,10 @@
     -0.79,
     0.08,
     0.6,
-    -0.65
+    -0.65,
+    0
   ],
   "medias": [
-    2.52,
     4.84,
     3.6,
     3.6,
@@ -68,22 +67,10 @@
     3.11,
     2.77,
     2.78,
+    2.51,
     2.51
   ],
   "partidas": [
-    {
-      "rodada_id": 6,
-      "clube_casa": "Atlético-MG",
-      "clube_casa_id": 282,
-      "clube_visitante": "Atlético-GO",
-      "clube_casa_abrev": "ATL",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2017/11/23/Atletico-Mineiro-escudo65px.png",
-      "clube_visitante_id": 373,
-      "clube_visitante_abrev": "ATL",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2020/07/02/atletico-go-2020-65.png",
-      "placar_oficial_mandante": 2,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 7,
       "clube_casa": "Atlético-GO",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2020/07/02/atletico-go-2020-65.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 17,
+      "clube_casa": "Atlético-GO",
+      "clube_casa_id": 373,
+      "clube_visitante": "Fortaleza",
+      "clube_casa_abrev": "ATL",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2020/07/02/atletico-go-2020-65.png",
+      "clube_visitante_id": 356,
+      "clube_visitante_abrev": "FOR",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2021/09/19/65_0000_Fortaleza-2021.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2022/04/07/f21175e4f1cb1c9ccf3df6db10da1c56_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2020/07/02/atletico-go-2020-65.png",
   "scouts": {
-    "rodada_id": 16,
+    "rodada_id": 17,
     "g": 0,
     "a": 2,
     "sg": 2,
@@ -239,9 +239,9 @@
     "pi": 103,
     "pc": 0,
     "ps": 1,
-    "pontos_num": -0.7,
+    "pontos_num": 0,
     "preco_num": 3.94,
-    "variacao_num": -0.65,
+    "variacao_num": 0,
     "media_num": 2.51,
     "jogos_num": 13,
     "posicao_abrev": "lat",

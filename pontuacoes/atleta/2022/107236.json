@@ -6,7 +6,6 @@
   "clube_id": 275,
   "posicao": "Lateral",
   "rodadas": [
-    6,
     7,
     8,
     9,
@@ -16,10 +15,10 @@
     13,
     14,
     15,
-    16
+    16,
+    17
   ],
   "pontos": [
-    4.6,
     0,
     0,
     0,
@@ -29,7 +28,8 @@
     0,
     0,
     0,
-    0
+    0,
+    4.4
   ],
   "precos": [
     3.29,
@@ -42,10 +42,9 @@
     3.29,
     3.29,
     3.29,
-    3.29
+    3.31
   ],
   "variacoes": [
-    0.29,
     0,
     0,
     0,
@@ -55,7 +54,8 @@
     0,
     0,
     0,
-    0
+    0,
+    0.02
   ],
   "medias": [
     4.6,
@@ -68,22 +68,9 @@
     4.6,
     4.6,
     4.6,
-    4.6
+    4.5
   ],
   "partidas": [
-    {
-      "rodada_id": 6,
-      "clube_casa": "Palmeiras",
-      "clube_casa_id": 275,
-      "clube_visitante": "Bragantino",
-      "clube_casa_abrev": "PAL",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
-      "clube_visitante_id": 280,
-      "clube_visitante_abrev": "BRA",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2020/01/01/65.png",
-      "placar_oficial_mandante": 2,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 7,
       "clube_casa": "Juventude",
@@ -213,15 +200,28 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 17,
+      "clube_casa": "Palmeiras",
+      "clube_casa_id": 275,
+      "clube_visitante": "Cuiabá",
+      "clube_casa_abrev": "PAL",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
+      "clube_visitante_id": 1371,
+      "clube_visitante_abrev": "CUI",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/16/cuiaba65.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2022/04/06/ecb07c206acce03d5e8b80df86207461_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
   "scouts": {
-    "rodada_id": 16,
+    "rodada_id": 17,
     "g": 0,
     "a": 0,
-    "sg": 1,
+    "sg": 2,
     "fs": 0,
     "ff": 0,
     "fd": 0,
@@ -233,17 +233,17 @@
     "ca": 0,
     "pp": 0,
     "gs": 0,
-    "fc": 1,
+    "fc": 3,
     "i": 0,
     "ds": 0,
     "pi": 1,
     "pc": 0,
     "ps": 0,
-    "pontos_num": 0,
-    "preco_num": 3.29,
-    "variacao_num": 0,
-    "media_num": 4.6,
-    "jogos_num": 1,
+    "pontos_num": 4.4,
+    "preco_num": 3.31,
+    "variacao_num": 0.02,
+    "media_num": 4.5,
+    "jogos_num": 2,
     "posicao_abrev": "lat",
     "posicao": "Lateral"
   }

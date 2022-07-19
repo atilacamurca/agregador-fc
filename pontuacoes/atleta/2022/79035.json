@@ -6,7 +6,6 @@
   "clube_id": 277,
   "posicao": "Zagueiro",
   "rodadas": [
-    6,
     7,
     8,
     9,
@@ -16,7 +15,8 @@
     13,
     14,
     15,
-    16
+    16,
+    17
   ],
   "pontos": [
     0,
@@ -29,7 +29,7 @@
     0,
     0,
     0,
-    0
+    -0.5
   ],
   "precos": [
     4,
@@ -42,7 +42,7 @@
     4,
     4,
     4,
-    4
+    2.85
   ],
   "variacoes": [
     0,
@@ -55,7 +55,7 @@
     0,
     0,
     0,
-    0
+    -1.15
   ],
   "medias": [
     0,
@@ -68,22 +68,9 @@
     0,
     0,
     0,
-    0
+    -0.5
   ],
   "partidas": [
-    {
-      "rodada_id": 6,
-      "clube_casa": "Goiás",
-      "clube_casa_id": 290,
-      "clube_visitante": "Santos",
-      "clube_casa_abrev": "GOI",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2021/03/01/goias-65.png",
-      "clube_visitante_id": 277,
-      "clube_visitante_abrev": "SAN",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/santos_60x60.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 7,
       "clube_casa": "Santos",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2020/07/02/atletico-go-2020-65.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 17,
+      "clube_casa": "Avaí",
+      "clube_casa_id": 314,
+      "clube_visitante": "Santos",
+      "clube_casa_abrev": "AVA",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/09/04/escudo-avai-65x65.png",
+      "clube_visitante_id": 277,
+      "clube_visitante_abrev": "SAN",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/santos_60x60.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2022/03/03/d93506f46370622558870dd37ada6bb5_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/santos_60x60.png",
   "scouts": {
-    "rodada_id": 16,
+    "rodada_id": 17,
     "g": 0,
     "a": 0,
     "sg": 0,
@@ -236,14 +236,14 @@
     "fc": 0,
     "i": 0,
     "ds": 0,
-    "pi": 0,
+    "pi": 5,
     "pc": 0,
     "ps": 0,
-    "pontos_num": 0,
-    "preco_num": 4,
-    "variacao_num": 0,
-    "media_num": 0,
-    "jogos_num": 0,
+    "pontos_num": -0.5,
+    "preco_num": 2.85,
+    "variacao_num": -1.15,
+    "media_num": -0.5,
+    "jogos_num": 1,
     "posicao_abrev": "zag",
     "posicao": "Zagueiro"
   }
