@@ -6,7 +6,6 @@
   "clube_id": 276,
   "posicao": "Meia",
   "rodadas": [
-    7,
     8,
     9,
     10,
@@ -16,10 +15,10 @@
     14,
     15,
     16,
-    17
+    17,
+    18
   ],
   "pontos": [
-    4,
     10.9,
     2,
     3.6,
@@ -29,10 +28,10 @@
     1.9,
     1.3,
     0,
-    0
+    0,
+    1.9
   ],
   "precos": [
-    6.13,
     7.86,
     6.67,
     6.92,
@@ -42,10 +41,10 @@
     7.01,
     6.93,
     6.93,
-    6.93
+    6.93,
+    6.74
   ],
   "variacoes": [
-    0.33,
     1.73,
     -1.19,
     0.25,
@@ -55,10 +54,10 @@
     -1.07,
     -0.08,
     0,
-    0
+    0,
+    -0.19
   ],
   "medias": [
-    2.42,
     3.83,
     3.57,
     3.57,
@@ -68,22 +67,10 @@
     3.63,
     3.45,
     3.45,
-    3.45
+    3.45,
+    3.34
   ],
   "partidas": [
-    {
-      "rodada_id": 7,
-      "clube_casa": "Corinthians",
-      "clube_casa_id": 264,
-      "clube_visitante": "São Paulo",
-      "clube_casa_abrev": "COR",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/30/Corinthians_65.png",
-      "clube_visitante_id": 276,
-      "clube_visitante_abrev": "SAO",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/sao_paulo_60x60.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 8,
       "clube_casa": "São Paulo",
@@ -213,19 +200,32 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/fluminense_60x60.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 18,
+      "clube_casa": "Internacional",
+      "clube_casa_id": 285,
+      "clube_visitante": "São Paulo",
+      "clube_casa_abrev": "INT",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/03/inter65.png",
+      "clube_visitante_id": 276,
+      "clube_visitante_abrev": "SAO",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/sao_paulo_60x60.png",
+      "placar_oficial_mandante": 3,
+      "placar_oficial_visitante": 3
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2022/03/01/70f9ba85a01525e2d77c787e7efb42f7_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/sao_paulo_60x60.png",
   "scouts": {
-    "rodada_id": 17,
+    "rodada_id": 18,
     "g": 1,
     "a": 0,
     "sg": 0,
     "fs": 10,
     "ff": 15,
     "fd": 7,
-    "ft": 0,
+    "ft": 1,
     "de": 0,
     "dp": 0,
     "gc": 0,
@@ -233,17 +233,17 @@
     "ca": 3,
     "pp": 0,
     "gs": 0,
-    "fc": 21,
+    "fc": 23,
     "i": 1,
     "ds": 24,
-    "pi": 78,
+    "pi": 83,
     "pc": 0,
     "ps": 0,
-    "pontos_num": 0,
-    "preco_num": 6.93,
-    "variacao_num": 0,
-    "media_num": 3.45,
-    "jogos_num": 13,
+    "pontos_num": 1.9,
+    "preco_num": 6.74,
+    "variacao_num": -0.19,
+    "media_num": 3.34,
+    "jogos_num": 14,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }

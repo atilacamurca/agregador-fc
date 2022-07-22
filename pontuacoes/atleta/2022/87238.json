@@ -6,7 +6,6 @@
   "clube_id": 294,
   "posicao": "Zagueiro",
   "rodadas": [
-    7,
     8,
     9,
     10,
@@ -16,10 +15,10 @@
     14,
     15,
     16,
-    17
+    17,
+    18
   ],
   "pontos": [
-    0,
     5.6,
     0,
     0,
@@ -29,10 +28,10 @@
     0,
     0,
     0,
-    4.1
+    4.1,
+    8.1
   ],
   "precos": [
-    6.1,
     6.17,
     6.17,
     6.17,
@@ -42,10 +41,10 @@
     5.25,
     5.25,
     5.25,
-    5.58
+    5.58,
+    6.36
   ],
   "variacoes": [
-    0,
     0.07,
     0,
     0,
@@ -55,10 +54,10 @@
     0,
     0,
     0,
-    0.33
+    0.33,
+    0.78
   ],
   "medias": [
-    3.35,
     4.1,
     4.1,
     4.1,
@@ -68,22 +67,10 @@
     3.2,
     3.2,
     3.2,
-    3.35
+    3.35,
+    4.03
   ],
   "partidas": [
-    {
-      "rodada_id": 7,
-      "clube_casa": "Atlético-GO",
-      "clube_casa_id": 373,
-      "clube_visitante": "Coritiba",
-      "clube_casa_abrev": "ATL",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2020/07/02/atletico-go-2020-65.png",
-      "clube_visitante_id": 294,
-      "clube_visitante_abrev": "COR",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2017/03/29/coritiba65.png",
-      "placar_oficial_mandante": 2,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 8,
       "clube_casa": "Coritiba",
@@ -213,14 +200,27 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2017/03/29/coritiba65.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 18,
+      "clube_casa": "Corinthians",
+      "clube_casa_id": 264,
+      "clube_visitante": "Coritiba",
+      "clube_casa_abrev": "COR",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/30/Corinthians_65.png",
+      "clube_visitante_id": 294,
+      "clube_visitante_abrev": "COR",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2017/03/29/coritiba65.png",
+      "placar_oficial_mandante": 3,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2022/02/23/e40fd20b4f4e43234a7d5ac7d2107fc6_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2017/03/29/coritiba65.png",
   "scouts": {
-    "rodada_id": 17,
+    "rodada_id": 18,
     "g": 0,
-    "a": 0,
+    "a": 1,
     "sg": 2,
     "fs": 4,
     "ff": 1,
@@ -235,15 +235,15 @@
     "gs": 0,
     "fc": 3,
     "i": 0,
-    "ds": 9,
-    "pi": 30,
+    "ds": 12,
+    "pi": 35,
     "pc": 0,
     "ps": 0,
-    "pontos_num": 4.1,
-    "preco_num": 5.58,
-    "variacao_num": 0.33,
-    "media_num": 3.35,
-    "jogos_num": 6,
+    "pontos_num": 8.1,
+    "preco_num": 6.36,
+    "variacao_num": 0.78,
+    "media_num": 4.03,
+    "jogos_num": 7,
     "posicao_abrev": "zag",
     "posicao": "Zagueiro"
   }
