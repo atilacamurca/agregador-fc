@@ -6,7 +6,6 @@
   "clube_id": 293,
   "posicao": "Goleiro",
   "rodadas": [
-    8,
     9,
     10,
     11,
@@ -16,10 +15,10 @@
     15,
     16,
     17,
-    18
+    18,
+    19
   ],
   "pontos": [
-    6.2,
     -1,
     2,
     11,
@@ -29,10 +28,10 @@
     13,
     -1,
     8,
+    2,
     2
   ],
   "precos": [
-    7.58,
     6.38,
     6.71,
     8.49,
@@ -42,10 +41,10 @@
     9.8,
     7.57,
     9.08,
-    8.17
+    8.17,
+    8.21
   ],
   "variacoes": [
-    0.2,
     -1.2,
     0.33,
     1.78,
@@ -55,10 +54,10 @@
     2.11,
     -2.23,
     1.51,
-    -0.91
+    -0.91,
+    0.04
   ],
   "medias": [
-    4.77,
     4.13,
     3.92,
     4.56,
@@ -68,22 +67,10 @@
     5.22,
     4.83,
     5.02,
-    4.85
+    4.85,
+    4.7
   ],
   "partidas": [
-    {
-      "rodada_id": 8,
-      "clube_casa": "Cuiabá",
-      "clube_casa_id": 1371,
-      "clube_visitante": "Athlético-PR",
-      "clube_casa_abrev": "CUI",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/16/cuiaba65.png",
-      "clube_visitante_id": 293,
-      "clube_visitante_abrev": "ATL",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/09/Athletico-PR-65x65.png",
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 9,
       "clube_casa": "Athlético-PR",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2020/07/02/atletico-go-2020-65.png",
       "placar_oficial_mandante": 4,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 19,
+      "clube_casa": "Botafogo",
+      "clube_casa_id": 263,
+      "clube_visitante": "Athlético-PR",
+      "clube_casa_abrev": "BOT",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/04/botafogo-65.png",
+      "clube_visitante_id": 293,
+      "clube_visitante_abrev": "ATL",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/09/Athletico-PR-65x65.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2022/02/21/40d480db7ba8476ece495c478aa597d4_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/09/Athletico-PR-65x65.png",
   "scouts": {
-    "rodada_id": 18,
+    "rodada_id": 19,
     "g": 0,
     "a": 0,
     "sg": 7,
@@ -226,13 +226,13 @@
     "ff": 0,
     "fd": 0,
     "ft": 0,
-    "de": 64,
+    "de": 68,
     "dp": 1,
     "gc": 0,
     "cv": 0,
     "ca": 2,
     "pp": 0,
-    "gs": 18,
+    "gs": 20,
     "fc": 0,
     "i": 0,
     "ds": 1,
@@ -240,10 +240,10 @@
     "pc": 0,
     "ps": 0,
     "pontos_num": 2,
-    "preco_num": 8.17,
-    "variacao_num": -0.91,
-    "media_num": 4.85,
-    "jogos_num": 18,
+    "preco_num": 8.21,
+    "variacao_num": 0.04,
+    "media_num": 4.7,
+    "jogos_num": 19,
     "posicao_abrev": "gol",
     "posicao": "Goleiro"
   }

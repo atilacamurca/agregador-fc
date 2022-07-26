@@ -6,7 +6,6 @@
   "clube_id": 275,
   "posicao": "Lateral",
   "rodadas": [
-    8,
     9,
     10,
     11,
@@ -16,7 +15,8 @@
     15,
     16,
     17,
-    18
+    18,
+    19
   ],
   "pontos": [
     0,
@@ -27,9 +27,9 @@
     0,
     0,
     0,
-    0,
     4.4,
-    5.6
+    5.6,
+    12.3
   ],
   "precos": [
     3.29,
@@ -40,9 +40,9 @@
     3.29,
     3.29,
     3.29,
-    3.29,
     3.31,
-    3.65
+    3.65,
+    5.05
   ],
   "variacoes": [
     0,
@@ -53,9 +53,9 @@
     0,
     0,
     0,
-    0,
     0.02,
-    0.34
+    0.34,
+    1.4
   ],
   "medias": [
     4.6,
@@ -66,24 +66,11 @@
     4.6,
     4.6,
     4.6,
-    4.6,
     4.5,
-    4.87
+    4.87,
+    6.73
   ],
   "partidas": [
-    {
-      "rodada_id": 8,
-      "clube_casa": "Santos",
-      "clube_casa_id": 277,
-      "clube_visitante": "Palmeiras",
-      "clube_casa_abrev": "SAN",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/santos_60x60.png",
-      "clube_visitante_id": 275,
-      "clube_visitante_abrev": "PAL",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 9,
       "clube_casa": "Palmeiras",
@@ -213,18 +200,31 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 19,
+      "clube_casa": "Palmeiras",
+      "clube_casa_id": 275,
+      "clube_visitante": "Internacional",
+      "clube_casa_abrev": "PAL",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
+      "clube_visitante_id": 285,
+      "clube_visitante_abrev": "INT",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/03/inter65.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2022/04/06/ecb07c206acce03d5e8b80df86207461_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
   "scouts": {
-    "rodada_id": 18,
+    "rodada_id": 19,
     "g": 0,
-    "a": 0,
+    "a": 1,
     "sg": 3,
-    "fs": 1,
+    "fs": 2,
     "ff": 0,
-    "fd": 0,
+    "fd": 1,
     "ft": 0,
     "de": 0,
     "dp": 0,
@@ -235,15 +235,15 @@
     "gs": 0,
     "fc": 4,
     "i": 0,
-    "ds": 1,
-    "pi": 9,
+    "ds": 6,
+    "pi": 13,
     "pc": 0,
     "ps": 0,
-    "pontos_num": 5.6,
-    "preco_num": 3.65,
-    "variacao_num": 0.34,
-    "media_num": 4.87,
-    "jogos_num": 3,
+    "pontos_num": 12.3,
+    "preco_num": 5.05,
+    "variacao_num": 1.4,
+    "media_num": 6.73,
+    "jogos_num": 4,
     "posicao_abrev": "lat",
     "posicao": "Lateral"
   }
