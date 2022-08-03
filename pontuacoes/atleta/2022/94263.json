@@ -6,7 +6,6 @@
   "clube_id": 290,
   "posicao": "Atacante",
   "rodadas": [
-    9,
     10,
     11,
     12,
@@ -16,10 +15,10 @@
     16,
     17,
     18,
-    19
+    19,
+    20
   ],
   "pontos": [
-    4.9,
     0.6,
     0,
     2.6,
@@ -29,10 +28,10 @@
     1.1,
     4.5,
     4.2,
-    17
+    17,
+    8
   ],
   "precos": [
-    4.47,
     3.8,
     3.8,
     4.06,
@@ -42,10 +41,10 @@
     3.91,
     4.53,
     4.58,
-    7.02
+    7.02,
+    5.98
   ],
   "variacoes": [
-    0.57,
     -0.67,
     0,
     0.26,
@@ -55,10 +54,10 @@
     -0.26,
     0.62,
     0.05,
-    2.44
+    2.44,
+    -1.04
   ],
   "medias": [
-    1.88,
     1.74,
     1.74,
     1.83,
@@ -68,22 +67,10 @@
     1.76,
     1.94,
     2.08,
-    2.96
+    2.96,
+    3.24
   ],
   "partidas": [
-    {
-      "rodada_id": 9,
-      "clube_casa": "Botafogo",
-      "clube_casa_id": 263,
-      "clube_visitante": "Goiás",
-      "clube_casa_abrev": "BOT",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/04/botafogo-65.png",
-      "clube_visitante_id": 290,
-      "clube_visitante_abrev": "GOI",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2021/03/01/goias-65.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 2
-    },
     {
       "rodada_id": 10,
       "clube_casa": "Fortaleza",
@@ -213,18 +200,31 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2021/03/01/goias-65.png",
       "placar_oficial_mandante": 3,
       "placar_oficial_visitante": 3
+    },
+    {
+      "rodada_id": 20,
+      "clube_casa": "Goiás",
+      "clube_casa_id": 290,
+      "clube_visitante": "Coritiba",
+      "clube_casa_abrev": "GOI",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2021/03/01/goias-65.png",
+      "clube_visitante_id": 294,
+      "clube_visitante_abrev": "COR",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2017/03/29/coritiba65.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2022/04/05/1d2bfbce4ad49ab2c5fb59c91a1f4e44_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2021/03/01/goias-65.png",
   "scouts": {
-    "rodada_id": 19,
+    "rodada_id": 20,
     "g": 1,
-    "a": 1,
+    "a": 2,
     "sg": 0,
-    "fs": 30,
-    "ff": 8,
-    "fd": 3,
+    "fs": 32,
+    "ff": 9,
+    "fd": 4,
     "ft": 1,
     "de": 0,
     "dp": 0,
@@ -233,17 +233,17 @@
     "ca": 4,
     "pp": 0,
     "gs": 0,
-    "fc": 32,
+    "fc": 33,
     "i": 3,
-    "ds": 26,
-    "pi": 80,
+    "ds": 27,
+    "pi": 89,
     "pc": 0,
     "ps": 0,
-    "pontos_num": 17,
-    "preco_num": 7.02,
-    "variacao_num": 2.44,
-    "media_num": 2.96,
-    "jogos_num": 17,
+    "pontos_num": 8,
+    "preco_num": 5.98,
+    "variacao_num": -1.04,
+    "media_num": 3.24,
+    "jogos_num": 18,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }

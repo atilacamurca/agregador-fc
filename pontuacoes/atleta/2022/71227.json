@@ -6,7 +6,6 @@
   "clube_id": 277,
   "posicao": "Zagueiro",
   "rodadas": [
-    9,
     10,
     11,
     12,
@@ -16,10 +15,10 @@
     16,
     17,
     18,
-    19
+    19,
+    20
   ],
   "pontos": [
-    1.5,
     2,
     0.9,
     0,
@@ -29,10 +28,10 @@
     6,
     0,
     0,
-    0
+    0,
+    -0.1
   ],
   "precos": [
-    13.02,
     12.79,
     12.4,
     12.4,
@@ -42,10 +41,10 @@
     12.39,
     12.39,
     12.39,
-    12.39
+    12.39,
+    11.13
   ],
   "variacoes": [
-    0.08,
     -0.23,
     -0.39,
     0,
@@ -55,10 +54,10 @@
     -0.01,
     0,
     0,
-    0
+    0,
+    -1.26
   ],
   "medias": [
-    4.78,
     4.47,
     4.11,
     4.11,
@@ -68,22 +67,10 @@
     4.28,
     4.28,
     4.28,
-    4.28
+    4.28,
+    3.92
   ],
   "partidas": [
-    {
-      "rodada_id": 9,
-      "clube_casa": "Athlético-PR",
-      "clube_casa_id": 293,
-      "clube_visitante": "Santos",
-      "clube_casa_abrev": "ATL",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/09/Athletico-PR-65x65.png",
-      "clube_visitante_id": 277,
-      "clube_visitante_abrev": "SAN",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/santos_60x60.png",
-      "placar_oficial_mandante": 2,
-      "placar_oficial_visitante": 2
-    },
     {
       "rodada_id": 10,
       "clube_casa": "Santos",
@@ -213,17 +200,30 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/santos_60x60.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 20,
+      "clube_casa": "Santos",
+      "clube_casa_id": 277,
+      "clube_visitante": "Fluminense",
+      "clube_casa_abrev": "SAN",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/santos_60x60.png",
+      "clube_visitante_id": 266,
+      "clube_visitante_abrev": "FLU",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/fluminense_60x60.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2022/03/14/d137592918a80391170a5d4fdc021480_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/santos_60x60.png",
   "scouts": {
-    "rodada_id": 19,
+    "rodada_id": 20,
     "g": 0,
     "a": 1,
     "sg": 4,
     "fs": 6,
-    "ff": 3,
+    "ff": 4,
     "fd": 3,
     "ft": 0,
     "de": 0,
@@ -234,16 +234,16 @@
     "pp": 0,
     "gs": 0,
     "fc": 3,
-    "i": 0,
+    "i": 1,
     "ds": 17,
-    "pi": 64,
+    "pi": 72,
     "pc": 0,
     "ps": 0,
-    "pontos_num": 0,
-    "preco_num": 12.39,
-    "variacao_num": 0,
-    "media_num": 4.28,
-    "jogos_num": 11,
+    "pontos_num": -0.1,
+    "preco_num": 11.13,
+    "variacao_num": -1.26,
+    "media_num": 3.92,
+    "jogos_num": 12,
     "posicao_abrev": "zag",
     "posicao": "Zagueiro"
   }
