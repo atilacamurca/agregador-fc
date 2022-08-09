@@ -6,7 +6,6 @@
   "clube_id": 263,
   "posicao": "Meia",
   "rodadas": [
-    10,
     11,
     12,
     13,
@@ -16,10 +15,10 @@
     17,
     18,
     19,
-    20
+    20,
+    21
   ],
   "pontos": [
-    -1.2,
     6.1,
     0,
     0,
@@ -29,10 +28,10 @@
     -0.1,
     3.3,
     0,
+    0,
     0
   ],
   "precos": [
-    6.72,
     7.94,
     7.94,
     7.94,
@@ -42,10 +41,10 @@
     6.62,
     7.11,
     7.11,
+    7.11,
     7.11
   ],
   "variacoes": [
-    -0.83,
     1.22,
     0,
     0,
@@ -55,10 +54,10 @@
     -0.26,
     0.49,
     0,
+    0,
     0
   ],
   "medias": [
-    3.07,
     3.35,
     3.35,
     3.35,
@@ -68,22 +67,10 @@
     2.82,
     2.85,
     2.85,
+    2.85,
     2.85
   ],
   "partidas": [
-    {
-      "rodada_id": 10,
-      "clube_casa": "Palmeiras",
-      "clube_casa_id": 275,
-      "clube_visitante": "Botafogo",
-      "clube_casa_abrev": "PAL",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
-      "clube_visitante_id": 263,
-      "clube_visitante_abrev": "BOT",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/04/botafogo-65.png",
-      "placar_oficial_mandante": 4,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 11,
       "clube_casa": "Botafogo",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/04/botafogo-65.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 21,
+      "clube_casa": "Botafogo",
+      "clube_casa_id": 263,
+      "clube_visitante": "Ceará",
+      "clube_casa_abrev": "BOT",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/04/botafogo-65.png",
+      "clube_visitante_id": 354,
+      "clube_visitante_abrev": "CEA",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/10/10/ceara-65x65.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2022/03/25/268b1a146aebc4fb25bbcc38654f08b0_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/04/botafogo-65.png",
   "scouts": {
-    "rodada_id": 20,
+    "rodada_id": 21,
     "g": 0,
     "a": 0,
     "sg": 0,

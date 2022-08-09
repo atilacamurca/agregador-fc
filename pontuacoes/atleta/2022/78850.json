@@ -6,7 +6,6 @@
   "clube_id": 276,
   "posicao": "Lateral",
   "rodadas": [
-    10,
     11,
     12,
     13,
@@ -16,10 +15,10 @@
     17,
     18,
     19,
-    20
+    20,
+    21
   ],
   "pontos": [
-    4.7,
     5.8,
     -0.6,
     -3.3,
@@ -29,10 +28,10 @@
     0,
     0,
     0,
-    0
+    0,
+    0.7
   ],
   "precos": [
-    4.72,
     5.14,
     4.12,
     3.5,
@@ -42,10 +41,10 @@
     4.79,
     4.79,
     4.79,
-    4.79
+    4.79,
+    4
   ],
   "variacoes": [
-    -0.18,
     0.42,
     -1.02,
     -0.62,
@@ -55,10 +54,10 @@
     0,
     0,
     0,
-    0
+    0,
+    -0.79
   ],
   "medias": [
-    1.59,
     2.12,
     1.82,
     1.31,
@@ -68,22 +67,10 @@
     1.54,
     1.54,
     1.54,
-    1.54
+    1.54,
+    1.48
   ],
   "partidas": [
-    {
-      "rodada_id": 10,
-      "clube_casa": "Coritiba",
-      "clube_casa_id": 294,
-      "clube_visitante": "São Paulo",
-      "clube_casa_abrev": "COR",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2017/03/29/coritiba65.png",
-      "clube_visitante_id": 276,
-      "clube_visitante_abrev": "SAO",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/sao_paulo_60x60.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 11,
       "clube_casa": "São Paulo",
@@ -213,17 +200,30 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/sao_paulo_60x60.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 21,
+      "clube_casa": "São Paulo",
+      "clube_casa_id": 276,
+      "clube_visitante": "Flamengo",
+      "clube_casa_abrev": "SAO",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/sao_paulo_60x60.png",
+      "clube_visitante_id": 262,
+      "clube_visitante_abrev": "FLA",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/04/09/Flamengo-65.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2022/03/01/779ff87d6723d6c70d7caac56df86d5f_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/sao_paulo_60x60.png",
   "scouts": {
-    "rodada_id": 20,
+    "rodada_id": 21,
     "g": 1,
     "a": 1,
     "sg": 2,
     "fs": 5,
-    "ff": 5,
+    "ff": 6,
     "fd": 1,
     "ft": 0,
     "de": 0,
@@ -233,17 +233,17 @@
     "ca": 2,
     "pp": 0,
     "gs": 0,
-    "fc": 10,
+    "fc": 12,
     "i": 0,
-    "ds": 3,
-    "pi": 110,
+    "ds": 4,
+    "pi": 117,
     "pc": 0,
     "ps": 0,
-    "pontos_num": 0,
-    "preco_num": 4.79,
-    "variacao_num": 0,
-    "media_num": 1.54,
-    "jogos_num": 12,
+    "pontos_num": 0.7,
+    "preco_num": 4,
+    "variacao_num": -0.79,
+    "media_num": 1.48,
+    "jogos_num": 13,
     "posicao_abrev": "lat",
     "posicao": "Lateral"
   }

@@ -6,7 +6,6 @@
   "clube_id": 285,
   "posicao": "Lateral",
   "rodadas": [
-    10,
     11,
     12,
     13,
@@ -16,10 +15,10 @@
     17,
     18,
     19,
-    20
+    20,
+    21
   ],
   "pontos": [
-    1.6,
     4.2,
     5.2,
     9.1,
@@ -29,10 +28,10 @@
     0,
     0,
     0,
-    10
+    10,
+    1.6
   ],
   "precos": [
-    8.11,
     8.55,
     8.78,
     9.69,
@@ -42,10 +41,10 @@
     9.69,
     9.69,
     9.69,
-    9.83
+    9.83,
+    8.59
   ],
   "variacoes": [
-    -0.83,
     0.44,
     0.23,
     0.91,
@@ -55,10 +54,10 @@
     0,
     0,
     0,
-    0.14
+    0.14,
+    -1.24
   ],
   "medias": [
-    3.58,
     3.64,
     3.77,
     4.18,
@@ -68,22 +67,10 @@
     4.18,
     4.18,
     4.18,
-    4.6
+    4.6,
+    4.4
   ],
   "partidas": [
-    {
-      "rodada_id": 10,
-      "clube_casa": "Santos",
-      "clube_casa_id": 277,
-      "clube_visitante": "Internacional",
-      "clube_casa_abrev": "SAN",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/santos_60x60.png",
-      "clube_visitante_id": 285,
-      "clube_visitante_abrev": "INT",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/03/inter65.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 11,
       "clube_casa": "Internacional",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2017/11/23/Atletico-Mineiro-escudo65px.png",
       "placar_oficial_mandante": 3,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 21,
+      "clube_casa": "Fortaleza",
+      "clube_casa_id": 356,
+      "clube_visitante": "Internacional",
+      "clube_casa_abrev": "FOR",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2021/09/19/65_0000_Fortaleza-2021.png",
+      "clube_visitante_id": 285,
+      "clube_visitante_abrev": "INT",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/03/inter65.png",
+      "placar_oficial_mandante": 3,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2022/04/02/931e44ec05fa6257ecdf5e8973318115_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/03/inter65.png",
   "scouts": {
-    "rodada_id": 20,
+    "rodada_id": 21,
     "g": 1,
     "a": 2,
     "sg": 4,
@@ -233,17 +233,17 @@
     "ca": 1,
     "pp": 0,
     "gs": 0,
-    "fc": 6,
+    "fc": 7,
     "i": 1,
-    "ds": 29,
-    "pi": 126,
+    "ds": 31,
+    "pi": 131,
     "pc": 0,
     "ps": 0,
-    "pontos_num": 10,
-    "preco_num": 9.83,
-    "variacao_num": 0.14,
-    "media_num": 4.6,
-    "jogos_num": 14,
+    "pontos_num": 1.6,
+    "preco_num": 8.59,
+    "variacao_num": -1.24,
+    "media_num": 4.4,
+    "jogos_num": 15,
     "posicao_abrev": "lat",
     "posicao": "Lateral"
   }

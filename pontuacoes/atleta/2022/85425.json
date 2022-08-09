@@ -6,7 +6,6 @@
   "clube_id": 277,
   "posicao": "Goleiro",
   "rodadas": [
-    10,
     11,
     12,
     13,
@@ -16,10 +15,10 @@
     17,
     18,
     19,
-    20
+    20,
+    21
   ],
   "pontos": [
-    5.2,
     0,
     0,
     2,
@@ -29,10 +28,10 @@
     2,
     15.5,
     7.5,
-    3
+    3,
+    -1
   ],
   "precos": [
-    14.08,
     13.07,
     13.07,
     12.92,
@@ -42,10 +41,10 @@
     12.7,
     14.97,
     14.08,
-    13.4
+    13.4,
+    12.65
   ],
   "variacoes": [
-    0.39,
     -1.01,
     0,
     -0.15,
@@ -55,10 +54,10 @@
     -1.05,
     2.27,
     -0.89,
-    -0.68
+    -0.68,
+    -0.75
   ],
   "medias": [
-    4.42,
     4.02,
     4.02,
     3.85,
@@ -68,22 +67,10 @@
     3.95,
     4.67,
     4.84,
-    4.74
+    4.74,
+    4.44
   ],
   "partidas": [
-    {
-      "rodada_id": 10,
-      "clube_casa": "Santos",
-      "clube_casa_id": 277,
-      "clube_visitante": "Internacional",
-      "clube_casa_abrev": "SAN",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/santos_60x60.png",
-      "clube_visitante_id": 285,
-      "clube_visitante_abrev": "INT",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/03/inter65.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 11,
       "clube_casa": "Atlético-MG",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/fluminense_60x60.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 21,
+      "clube_casa": "Coritiba",
+      "clube_casa_id": 294,
+      "clube_visitante": "Santos",
+      "clube_casa_abrev": "COR",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2017/03/29/coritiba65.png",
+      "clube_visitante_id": 277,
+      "clube_visitante_abrev": "SAN",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/santos_60x60.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2022/03/03/9edc82b201e12a2a0b8dba4d87004195_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/santos_60x60.png",
   "scouts": {
-    "rodada_id": 20,
+    "rodada_id": 21,
     "g": 0,
     "a": 0,
     "sg": 6,
@@ -226,24 +226,24 @@
     "ff": 0,
     "fd": 0,
     "ft": 0,
-    "de": 72,
+    "de": 73,
     "dp": 0,
     "gc": 0,
     "cv": 0,
-    "ca": 3,
+    "ca": 4,
     "pp": 0,
-    "gs": 17,
+    "gs": 18,
     "fc": 0,
     "i": 0,
     "ds": 1,
     "pi": 0,
     "pc": 0,
     "ps": 0,
-    "pontos_num": 3,
-    "preco_num": 13.4,
-    "variacao_num": -0.68,
-    "media_num": 4.74,
-    "jogos_num": 18,
+    "pontos_num": -1,
+    "preco_num": 12.65,
+    "variacao_num": -0.75,
+    "media_num": 4.44,
+    "jogos_num": 19,
     "posicao_abrev": "gol",
     "posicao": "Goleiro"
   }
