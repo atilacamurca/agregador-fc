@@ -6,7 +6,6 @@
   "clube_id": 327,
   "posicao": "Lateral",
   "rodadas": [
-    11,
     12,
     13,
     14,
@@ -16,10 +15,10 @@
     18,
     19,
     20,
-    21
+    21,
+    22
   ],
   "pontos": [
-    1.3,
     6.9,
     8.1,
     1.6,
@@ -29,10 +28,10 @@
     0,
     9.5,
     0,
-    0
+    0,
+    14
   ],
   "precos": [
-    3.22,
     4.3,
     4.86,
     3.99,
@@ -42,10 +41,10 @@
     4.12,
     5.63,
     5.63,
-    5.63
+    5.63,
+    6.66
   ],
   "variacoes": [
-    -0.18,
     1.08,
     0.56,
     -0.87,
@@ -55,10 +54,10 @@
     0,
     1.51,
     0,
-    0
+    0,
+    1.03
   ],
   "medias": [
-    1.97,
     2.59,
     3.2,
     3.04,
@@ -68,22 +67,10 @@
     3.04,
     3.5,
     3.5,
-    3.5
+    3.5,
+    4.2
   ],
   "partidas": [
-    {
-      "rodada_id": 11,
-      "clube_casa": "São Paulo",
-      "clube_casa_id": 276,
-      "clube_visitante": "América-MG",
-      "clube_casa_abrev": "SAO",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/sao_paulo_60x60.png",
-      "clube_visitante_id": 327,
-      "clube_visitante_abrev": "AME",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/28/escudo65_1.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 12,
       "clube_casa": "América-MG",
@@ -213,16 +200,29 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/28/escudo65_1.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 22,
+      "clube_casa": "América-MG",
+      "clube_casa_id": 327,
+      "clube_visitante": "Santos",
+      "clube_casa_abrev": "AME",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/28/escudo65_1.png",
+      "clube_visitante_id": 277,
+      "clube_visitante_abrev": "SAN",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/santos_60x60.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2022/02/25/d945a3ac1fe38c28ea612a9d62b68a37_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/28/escudo65_1.png",
   "scouts": {
-    "rodada_id": 21,
+    "rodada_id": 22,
     "g": 0,
-    "a": 0,
-    "sg": 3,
-    "fs": 16,
+    "a": 1,
+    "sg": 4,
+    "fs": 17,
     "ff": 10,
     "fd": 2,
     "ft": 0,
@@ -233,17 +233,17 @@
     "ca": 3,
     "pp": 0,
     "gs": 0,
-    "fc": 17,
+    "fc": 20,
     "i": 0,
-    "ds": 32,
-    "pi": 116,
+    "ds": 36,
+    "pi": 120,
     "pc": 0,
     "ps": 0,
-    "pontos_num": 0,
-    "preco_num": 5.63,
-    "variacao_num": 0,
-    "media_num": 3.5,
-    "jogos_num": 14,
+    "pontos_num": 14,
+    "preco_num": 6.66,
+    "variacao_num": 1.03,
+    "media_num": 4.2,
+    "jogos_num": 15,
     "posicao_abrev": "lat",
     "posicao": "Lateral"
   }
