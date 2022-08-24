@@ -6,7 +6,6 @@
   "clube_id": 290,
   "posicao": "Meia",
   "rodadas": [
-    12,
     13,
     14,
     15,
@@ -16,10 +15,10 @@
     19,
     20,
     21,
-    22
+    22,
+    23
   ],
   "pontos": [
-    1.7,
     1.1,
     -0.1,
     1.1,
@@ -29,10 +28,10 @@
     0,
     0.7,
     2.2,
-    2.3
+    2.3,
+    1.9
   ],
   "precos": [
-    3.18,
     3.11,
     2.9,
     3.09,
@@ -42,10 +41,10 @@
     2.96,
     3.05,
     3.31,
+    3.35,
     3.35
   ],
   "variacoes": [
-    -0.19,
     -0.07,
     -0.21,
     0.19,
@@ -55,10 +54,10 @@
     -0.39,
     0.09,
     0.26,
-    0.04
+    0.04,
+    0
   ],
   "medias": [
-    2.08,
     1.97,
     1.76,
     1.7,
@@ -68,22 +67,10 @@
     1.65,
     1.59,
     1.63,
-    1.67
+    1.67,
+    1.68
   ],
   "partidas": [
-    {
-      "rodada_id": 12,
-      "clube_casa": "Goiás",
-      "clube_casa_id": 290,
-      "clube_visitante": "Internacional",
-      "clube_casa_abrev": "GOI",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2021/03/01/goias-65.png",
-      "clube_visitante_id": 285,
-      "clube_visitante_abrev": "INT",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/03/inter65.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 2
-    },
     {
       "rodada_id": 13,
       "clube_casa": "Corinthians",
@@ -213,16 +200,29 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/09/04/escudo-avai-65x65.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 23,
+      "clube_casa": "Atlético-MG",
+      "clube_casa_id": 282,
+      "clube_visitante": "Goiás",
+      "clube_casa_abrev": "ATL",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2017/11/23/Atletico-Mineiro-escudo65px.png",
+      "clube_visitante_id": 290,
+      "clube_visitante_abrev": "GOI",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2021/03/01/goias-65.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2022/03/10/a34434b7c2c45f0720de34fdeaf8fca5_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2021/03/01/goias-65.png",
   "scouts": {
-    "rodada_id": 22,
+    "rodada_id": 23,
     "g": 0,
     "a": 0,
     "sg": 0,
-    "fs": 19,
+    "fs": 21,
     "ff": 4,
     "fd": 1,
     "ft": 0,
@@ -235,15 +235,15 @@
     "gs": 0,
     "fc": 28,
     "i": 1,
-    "ds": 29,
-    "pi": 48,
+    "ds": 30,
+    "pi": 51,
     "pc": 1,
     "ps": 0,
-    "pontos_num": 2.3,
+    "pontos_num": 1.9,
     "preco_num": 3.35,
-    "variacao_num": 0.04,
-    "media_num": 1.67,
-    "jogos_num": 17,
+    "variacao_num": 0,
+    "media_num": 1.68,
+    "jogos_num": 18,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }
