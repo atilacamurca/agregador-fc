@@ -6,7 +6,6 @@
   "clube_id": 314,
   "posicao": "Zagueiro",
   "rodadas": [
-    13,
     14,
     15,
     16,
@@ -16,10 +15,10 @@
     20,
     21,
     22,
-    23
+    23,
+    24
   ],
   "pontos": [
-    2.2,
     -3.7,
     0,
     0,
@@ -29,10 +28,10 @@
     0.3,
     2.1,
     -0.3,
-    -2.1
+    -2.1,
+    0
   ],
   "precos": [
-    6.61,
     5.51,
     5.51,
     5.51,
@@ -42,10 +41,10 @@
     5.81,
     6.07,
     5.62,
+    5.3,
     5.3
   ],
   "variacoes": [
-    0.27,
     -1.1,
     0,
     0,
@@ -55,10 +54,10 @@
     -0.18,
     0.26,
     -0.45,
-    -0.32
+    -0.32,
+    0
   ],
   "medias": [
-    2.68,
     2.04,
     2.04,
     2.04,
@@ -68,22 +67,10 @@
     2.04,
     2.04,
     1.88,
+    1.63,
     1.63
   ],
   "partidas": [
-    {
-      "rodada_id": 13,
-      "clube_casa": "Fluminense",
-      "clube_casa_id": 266,
-      "clube_visitante": "Avaí",
-      "clube_casa_abrev": "FLU",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/fluminense_60x60.png",
-      "clube_visitante_id": 314,
-      "clube_visitante_abrev": "AVA",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/09/04/escudo-avai-65x65.png",
-      "placar_oficial_mandante": 2,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 14,
       "clube_casa": "Avaí",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/03/inter65.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 24,
+      "clube_casa": "Coritiba",
+      "clube_casa_id": 294,
+      "clube_visitante": "Avaí",
+      "clube_casa_abrev": "COR",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2017/03/29/coritiba65.png",
+      "clube_visitante_id": 314,
+      "clube_visitante_abrev": "AVA",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/09/04/escudo-avai-65x65.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2022/03/08/0759780a94f5359aefe723b749494c0b_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2018/09/04/escudo-avai-65x65.png",
   "scouts": {
-    "rodada_id": 23,
+    "rodada_id": 24,
     "g": 0,
     "a": 0,
     "sg": 3,
@@ -239,9 +239,9 @@
     "pi": 80,
     "pc": 1,
     "ps": 0,
-    "pontos_num": -2.1,
+    "pontos_num": 0,
     "preco_num": 5.3,
-    "variacao_num": -0.32,
+    "variacao_num": 0,
     "media_num": 1.63,
     "jogos_num": 16,
     "posicao_abrev": "zag",
