@@ -6,7 +6,6 @@
   "clube_id": 373,
   "posicao": "Lateral",
   "rodadas": [
-    14,
     15,
     16,
     17,
@@ -16,10 +15,10 @@
     21,
     22,
     23,
-    24
+    24,
+    25
   ],
   "pontos": [
-    -0.6,
     2.9,
     -0.7,
     0,
@@ -29,10 +28,10 @@
     0,
     5.3,
     -0.2,
-    -2.2
+    -2.2,
+    0
   ],
   "precos": [
-    3.99,
     4.59,
     3.94,
     3.94,
@@ -42,10 +41,10 @@
     3.93,
     4.79,
     4,
+    3.59,
     3.59
   ],
   "variacoes": [
-    0.08,
     0.6,
     -0.65,
     0,
@@ -55,10 +54,10 @@
     0,
     0.86,
     -0.79,
-    -0.41
+    -0.41,
+    0
   ],
   "medias": [
-    2.77,
     2.78,
     2.51,
     2.51,
@@ -68,22 +67,10 @@
     2.38,
     2.56,
     2.4,
+    2.14,
     2.14
   ],
   "partidas": [
-    {
-      "rodada_id": 14,
-      "clube_casa": "Ceará",
-      "clube_casa_id": 354,
-      "clube_visitante": "Atlético-GO",
-      "clube_casa_abrev": "CEA",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/10/10/ceara-65x65.png",
-      "clube_visitante_id": 373,
-      "clube_visitante_abrev": "ATL",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2020/07/02/atletico-go-2020-65.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 15,
       "clube_casa": "Atlético-GO",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2020/07/02/atletico-go-2020-65.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 25,
+      "clube_casa": "Atlético-GO",
+      "clube_casa_id": 373,
+      "clube_visitante": "Atlético-MG",
+      "clube_casa_abrev": "ATL",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2020/07/02/atletico-go-2020-65.png",
+      "clube_visitante_id": 282,
+      "clube_visitante_abrev": "ATL",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2017/11/23/Atletico-Mineiro-escudo65px.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2022/04/07/f21175e4f1cb1c9ccf3df6db10da1c56_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2020/07/02/atletico-go-2020-65.png",
   "scouts": {
-    "rodada_id": 24,
+    "rodada_id": 25,
     "g": 0,
     "a": 2,
     "sg": 3,
@@ -239,9 +239,9 @@
     "pi": 128,
     "pc": 0,
     "ps": 1,
-    "pontos_num": -2.2,
+    "pontos_num": 0,
     "preco_num": 3.59,
-    "variacao_num": -0.41,
+    "variacao_num": 0,
     "media_num": 2.14,
     "jogos_num": 18,
     "posicao_abrev": "lat",

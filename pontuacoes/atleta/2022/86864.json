@@ -1,12 +1,11 @@
 {
   "ano": 2022,
   "atleta_id": 86864,
-  "apelido": "Marlon ",
+  "apelido": "Marlon",
   "clube": "América-MG",
   "clube_id": 327,
   "posicao": "Lateral",
   "rodadas": [
-    14,
     15,
     16,
     17,
@@ -16,10 +15,10 @@
     21,
     22,
     23,
-    24
+    24,
+    25
   ],
   "pontos": [
-    1.6,
     6.8,
     1.6,
     0.8,
@@ -29,10 +28,10 @@
     0,
     14,
     4.3,
-    2.7
+    2.7,
+    10.8
   ],
   "precos": [
-    3.99,
     5.02,
     4.24,
     4.12,
@@ -42,10 +41,10 @@
     5.63,
     6.66,
     5.42,
-    5.21
+    5.21,
+    6.71
   ],
   "variacoes": [
-    -0.87,
     1.03,
     -0.78,
     -0.12,
@@ -55,10 +54,10 @@
     0,
     1.03,
     -1.24,
-    -0.21
+    -0.21,
+    1.5
   ],
   "medias": [
-    3.04,
     3.38,
     3.23,
     3.04,
@@ -68,22 +67,10 @@
     3.5,
     4.2,
     4.21,
-    4.12
+    4.12,
+    4.49
   ],
   "partidas": [
-    {
-      "rodada_id": 14,
-      "clube_casa": "Flamengo",
-      "clube_casa_id": 262,
-      "clube_visitante": "América-MG",
-      "clube_casa_abrev": "FLA",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/04/09/Flamengo-65.png",
-      "clube_visitante_id": 327,
-      "clube_visitante_abrev": "AME",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/28/escudo65_1.png",
-      "placar_oficial_mandante": 3,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 15,
       "clube_casa": "América-MG",
@@ -213,37 +200,50 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2017/11/23/Atletico-Mineiro-escudo65px.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 25,
+      "clube_casa": "América-MG",
+      "clube_casa_id": 327,
+      "clube_visitante": "Coritiba",
+      "clube_casa_abrev": "AME",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/28/escudo65_1.png",
+      "clube_visitante_id": 294,
+      "clube_visitante_abrev": "COR",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2017/03/29/coritiba65.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 0
     }
   ],
-  "foto": "https://s.glbimg.com/es/sde/f/2022/02/25/d945a3ac1fe38c28ea612a9d62b68a37_140x140.png",
+  "foto": "https://storage.googleapis.com/bkt-gglobo-sde-hdg-prd-sdeadmin_prod/media/person_role/2022/02/25/d945a3ac1fe38c28ea612a9d62b68a37_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/28/escudo65_1.png",
   "scouts": {
-    "rodada_id": 24,
+    "rodada_id": 25,
     "g": 0,
     "a": 1,
-    "sg": 4,
+    "sg": 5,
     "fs": 18,
-    "ff": 11,
+    "ff": 12,
     "fd": 3,
     "ft": 0,
     "de": 0,
     "dp": 0,
     "gc": 0,
     "cv": 1,
-    "ca": 3,
+    "ca": 4,
     "pp": 0,
     "gs": 0,
-    "fc": 23,
+    "fc": 25,
     "i": 0,
-    "ds": 42,
-    "pi": 138,
+    "ds": 48,
+    "pi": 144,
     "pc": 0,
     "ps": 0,
-    "pontos_num": 2.7,
-    "preco_num": 5.21,
-    "variacao_num": -0.21,
-    "media_num": 4.12,
-    "jogos_num": 17,
+    "pontos_num": 10.8,
+    "preco_num": 6.71,
+    "variacao_num": 1.5,
+    "media_num": 4.49,
+    "jogos_num": 18,
     "posicao_abrev": "lat",
     "posicao": "Lateral"
   }

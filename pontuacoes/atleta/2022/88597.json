@@ -6,7 +6,6 @@
   "clube_id": 356,
   "posicao": "Meia",
   "rodadas": [
-    14,
     15,
     16,
     17,
@@ -16,10 +15,10 @@
     21,
     22,
     23,
-    24
+    24,
+    25
   ],
   "pontos": [
-    -0.9,
     0.7,
     2.1,
     0.7,
@@ -29,10 +28,10 @@
     9.1,
     0,
     0,
+    0,
     0
   ],
   "precos": [
-    1.92,
     2.16,
     2.39,
     2.2,
@@ -42,10 +41,10 @@
     3.77,
     3.77,
     3.77,
+    3.77,
     3.77
   ],
   "variacoes": [
-    -0.42,
     0.24,
     0.23,
     -0.19,
@@ -55,10 +54,10 @@
     1.81,
     0,
     0,
+    0,
     0
   ],
   "medias": [
-    -0.07,
     0,
     0.18,
     0.22,
@@ -68,22 +67,10 @@
     1.02,
     1.02,
     1.02,
+    1.02,
     1.02
   ],
   "partidas": [
-    {
-      "rodada_id": 14,
-      "clube_casa": "Atlético-MG",
-      "clube_casa_id": 282,
-      "clube_visitante": "Fortaleza",
-      "clube_casa_abrev": "ATL",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2017/11/23/Atletico-Mineiro-escudo65px.png",
-      "clube_visitante_id": 356,
-      "clube_visitante_abrev": "FOR",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2021/09/19/65_0000_Fortaleza-2021.png",
-      "placar_oficial_mandante": 3,
-      "placar_oficial_visitante": 2
-    },
     {
       "rodada_id": 15,
       "clube_casa": "Coritiba",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2021/09/19/65_0000_Fortaleza-2021.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 25,
+      "clube_casa": "Fortaleza",
+      "clube_casa_id": 356,
+      "clube_visitante": "Botafogo",
+      "clube_casa_abrev": "FOR",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2021/09/19/65_0000_Fortaleza-2021.png",
+      "clube_visitante_id": 263,
+      "clube_visitante_abrev": "BOT",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/04/botafogo-65.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 3
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2022/05/12/043b82cd8bbcab2108944aa3cf34372e_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2021/09/19/65_0000_Fortaleza-2021.png",
   "scouts": {
-    "rodada_id": 24,
+    "rodada_id": 25,
     "g": 1,
     "a": 1,
     "sg": 0,

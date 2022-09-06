@@ -6,7 +6,6 @@
   "clube_id": 276,
   "posicao": "Meia",
   "rodadas": [
-    14,
     15,
     16,
     17,
@@ -16,10 +15,10 @@
     21,
     22,
     23,
-    24
+    24,
+    25
   ],
   "pontos": [
-    0,
     -0.3,
     0,
     0,
@@ -29,10 +28,10 @@
     0,
     1.5,
     1,
-    0
+    0,
+    3.8
   ],
   "precos": [
-    3.68,
     3.49,
     3.49,
     3.49,
@@ -42,10 +41,10 @@
     3.26,
     3.41,
     3.38,
-    3.38
+    3.38,
+    3.86
   ],
   "variacoes": [
-    0,
     -0.19,
     0,
     0,
@@ -55,10 +54,10 @@
     0,
     0.15,
     -0.03,
-    0
+    0,
+    0.48
   ],
   "medias": [
-    1.78,
     1.36,
     1.36,
     1.36,
@@ -68,22 +67,10 @@
     0.83,
     0.91,
     0.92,
-    0.92
+    0.92,
+    1.21
   ],
   "partidas": [
-    {
-      "rodada_id": 14,
-      "clube_casa": "São Paulo",
-      "clube_casa_id": 276,
-      "clube_visitante": "Juventude",
-      "clube_casa_abrev": "SAO",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/sao_paulo_60x60.png",
-      "clube_visitante_id": 286,
-      "clube_visitante_abrev": "JUV",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2021/04/29/juventude65.png",
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 15,
       "clube_casa": "Atlético-GO",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2021/09/19/65_0000_Fortaleza-2021.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 25,
+      "clube_casa": "Cuiabá",
+      "clube_casa_id": 1371,
+      "clube_visitante": "São Paulo",
+      "clube_casa_abrev": "CUI",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/16/cuiaba65.png",
+      "clube_visitante_id": 276,
+      "clube_visitante_abrev": "SAO",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/sao_paulo_60x60.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2022/03/01/adf4c737eb27b74c772b8985d18c9044_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/sao_paulo_60x60.png",
   "scouts": {
-    "rodada_id": 24,
+    "rodada_id": 25,
     "g": 0,
     "a": 0,
     "sg": 0,
@@ -235,15 +235,15 @@
     "gs": 0,
     "fc": 11,
     "i": 0,
-    "ds": 15,
-    "pi": 29,
+    "ds": 19,
+    "pi": 39,
     "pc": 0,
     "ps": 0,
-    "pontos_num": 0,
-    "preco_num": 3.38,
-    "variacao_num": 0,
-    "media_num": 0.92,
-    "jogos_num": 9,
+    "pontos_num": 3.8,
+    "preco_num": 3.86,
+    "variacao_num": 0.48,
+    "media_num": 1.21,
+    "jogos_num": 10,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }

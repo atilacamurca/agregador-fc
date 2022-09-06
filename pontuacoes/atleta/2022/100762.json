@@ -6,7 +6,6 @@
   "clube_id": 314,
   "posicao": "Atacante",
   "rodadas": [
-    14,
     15,
     16,
     17,
@@ -16,10 +15,10 @@
     21,
     22,
     23,
-    24
+    24,
+    25
   ],
   "pontos": [
-    10.3,
     0.6,
     0.9,
     10.8,
@@ -29,10 +28,10 @@
     7.7,
     8.3,
     1.7,
-    0
+    0,
+    6.2
   ],
   "precos": [
-    9.4,
     8.02,
     7.89,
     9.64,
@@ -42,10 +41,10 @@
     9.5,
     9.72,
     8.83,
-    8.83
+    8.83,
+    9.58
   ],
   "variacoes": [
-    1.1,
     -1.38,
     -0.13,
     1.75,
@@ -55,10 +54,10 @@
     0.1,
     0.22,
     -0.89,
-    0
+    0,
+    0.75
   ],
   "medias": [
-    5.94,
     5.56,
     5.25,
     5.6,
@@ -68,22 +67,10 @@
     5.59,
     5.73,
     5.54,
-    5.54
+    5.54,
+    5.57
   ],
   "partidas": [
-    {
-      "rodada_id": 14,
-      "clube_casa": "Avaí",
-      "clube_casa_id": 314,
-      "clube_visitante": "Palmeiras",
-      "clube_casa_abrev": "AVA",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/09/04/escudo-avai-65x65.png",
-      "clube_visitante_id": 275,
-      "clube_visitante_abrev": "PAL",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
-      "placar_oficial_mandante": 2,
-      "placar_oficial_visitante": 2
-    },
     {
       "rodada_id": 15,
       "clube_casa": "Avaí",
@@ -213,13 +200,26 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/09/04/escudo-avai-65x65.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 25,
+      "clube_casa": "Juventude",
+      "clube_casa_id": 286,
+      "clube_visitante": "Avaí",
+      "clube_casa_abrev": "JUV",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2021/04/29/juventude65.png",
+      "clube_visitante_id": 314,
+      "clube_visitante_abrev": "AVA",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/09/04/escudo-avai-65x65.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2022/04/08/c60eb6c17dd46f0a98ac8d236bddbbd7_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2018/09/04/escudo-avai-65x65.png",
   "scouts": {
-    "rodada_id": 24,
-    "g": 11,
+    "rodada_id": 25,
+    "g": 12,
     "a": 0,
     "sg": 0,
     "fs": 17,
@@ -230,20 +230,20 @@
     "dp": 0,
     "gc": 0,
     "cv": 0,
-    "ca": 3,
+    "ca": 4,
     "pp": 0,
     "gs": 0,
-    "fc": 39,
+    "fc": 41,
     "i": 8,
     "ds": 14,
-    "pi": 76,
+    "pi": 78,
     "pc": 0,
     "ps": 1,
-    "pontos_num": 0,
-    "preco_num": 8.83,
-    "variacao_num": 0,
-    "media_num": 5.54,
-    "jogos_num": 21,
+    "pontos_num": 6.2,
+    "preco_num": 9.58,
+    "variacao_num": 0.75,
+    "media_num": 5.57,
+    "jogos_num": 22,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }

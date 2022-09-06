@@ -6,7 +6,6 @@
   "clube_id": 262,
   "posicao": "Meia",
   "rodadas": [
-    14,
     15,
     16,
     17,
@@ -16,10 +15,10 @@
     21,
     22,
     23,
-    24
+    24,
+    25
   ],
   "pontos": [
-    0,
     2.1,
     1.5,
     0.9,
@@ -29,10 +28,10 @@
     4.8,
     4.6,
     10,
-    0.3
+    0.3,
+    4.7
   ],
   "precos": [
-    2,
     1.89,
     1.83,
     1.77,
@@ -42,10 +41,10 @@
     3.03,
     3.12,
     4.25,
-    2.82
+    2.82,
+    3.61
   ],
   "variacoes": [
-    0,
     -0.11,
     -0.06,
     -0.06,
@@ -55,10 +54,10 @@
     -1.26,
     0.09,
     1.13,
-    -1.43
+    -1.43,
+    0.79
   ],
   "medias": [
-    0,
     2.1,
     1.8,
     1.5,
@@ -68,22 +67,10 @@
     3.57,
     3.7,
     4.4,
-    3.99
+    3.99,
+    4.05
   ],
   "partidas": [
-    {
-      "rodada_id": 14,
-      "clube_casa": "Flamengo",
-      "clube_casa_id": 262,
-      "clube_visitante": "América-MG",
-      "clube_casa_abrev": "FLA",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/04/09/Flamengo-65.png",
-      "clube_visitante_id": 327,
-      "clube_visitante_abrev": "AME",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/28/escudo65_1.png",
-      "placar_oficial_mandante": 3,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 15,
       "clube_casa": "Santos",
@@ -213,17 +200,30 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/04/09/Flamengo-65.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 25,
+      "clube_casa": "Flamengo",
+      "clube_casa_id": 262,
+      "clube_visitante": "Ceará",
+      "clube_casa_abrev": "FLA",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/04/09/Flamengo-65.png",
+      "clube_visitante_id": 354,
+      "clube_visitante_abrev": "CEA",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/10/10/ceara-65x65.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2022/04/27/fe19307b5221c38cbe407f4f65e38e0b_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2018/04/09/Flamengo-65.png",
   "scouts": {
-    "rodada_id": 24,
+    "rodada_id": 25,
     "g": 2,
     "a": 2,
     "sg": 0,
-    "fs": 6,
-    "ff": 1,
+    "fs": 7,
+    "ff": 2,
     "fd": 2,
     "ft": 0,
     "de": 0,
@@ -235,15 +235,15 @@
     "gs": 0,
     "fc": 2,
     "i": 0,
-    "ds": 9,
-    "pi": 25,
+    "ds": 12,
+    "pi": 27,
     "pc": 0,
     "ps": 0,
-    "pontos_num": 0.3,
-    "preco_num": 2.82,
-    "variacao_num": -1.43,
-    "media_num": 3.99,
-    "jogos_num": 10,
+    "pontos_num": 4.7,
+    "preco_num": 3.61,
+    "variacao_num": 0.79,
+    "media_num": 4.05,
+    "jogos_num": 11,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }
