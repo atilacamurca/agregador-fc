@@ -14,7 +14,8 @@
     22,
     23,
     24,
-    25
+    25,
+    26
   ],
   "pontos": [
     0,
@@ -25,7 +26,8 @@
     0,
     0,
     0,
-    0
+    0,
+    8
   ],
   "precos": [
     6,
@@ -36,7 +38,8 @@
     6,
     6,
     6,
-    6
+    6,
+    6.15
   ],
   "variacoes": [
     0,
@@ -47,7 +50,8 @@
     0,
     0,
     0,
-    0
+    0,
+    0.15
   ],
   "medias": [
     0,
@@ -58,7 +62,8 @@
     0,
     0,
     0,
-    0
+    0,
+    8
   ],
   "partidas": [
     {
@@ -177,24 +182,37 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2017/03/29/coritiba65.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 26,
+      "clube_casa": "Coritiba",
+      "clube_casa_id": 294,
+      "clube_visitante": "Atlético-GO",
+      "clube_casa_abrev": "COR",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2017/03/29/coritiba65.png",
+      "clube_visitante_id": 373,
+      "clube_visitante_abrev": "ATL",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2020/07/02/atletico-go-2020-65.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2022/07/12/3c4ca01b234ad722ed92a5df218fd329_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2017/03/29/coritiba65.png",
   "scouts": {
-    "rodada_id": 25,
+    "rodada_id": 26,
     "g": 0,
     "a": 0,
-    "sg": 0,
+    "sg": 1,
     "fs": 0,
     "ff": 0,
     "fd": 0,
     "ft": 0,
-    "de": 0,
+    "de": 4,
     "dp": 0,
     "gc": 0,
     "cv": 0,
-    "ca": 0,
+    "ca": 1,
     "pp": 0,
     "gs": 0,
     "fc": 0,
@@ -203,11 +221,11 @@
     "pi": 0,
     "pc": 0,
     "ps": 0,
-    "pontos_num": 0,
-    "preco_num": 6,
-    "variacao_num": 0,
-    "media_num": 0,
-    "jogos_num": 0,
+    "pontos_num": 8,
+    "preco_num": 6.15,
+    "variacao_num": 0.15,
+    "media_num": 8,
+    "jogos_num": 1,
     "posicao_abrev": "gol",
     "posicao": "Goleiro"
   }

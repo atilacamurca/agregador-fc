@@ -6,7 +6,6 @@
   "clube_id": 1371,
   "posicao": "Lateral",
   "rodadas": [
-    15,
     16,
     17,
     18,
@@ -16,10 +15,10 @@
     22,
     23,
     24,
-    25
+    25,
+    26
   ],
   "pontos": [
-    0.7,
     6.2,
     -0.4,
     1.6,
@@ -29,12 +28,13 @@
     0,
     0,
     0,
+    0,
     0
   ],
   "precos": [
-    4.08,
     5.01,
     4.02,
+    4.29,
     4.29,
     4.29,
     4.29,
@@ -45,7 +45,6 @@
     4.29
   ],
   "variacoes": [
-    0.39,
     0.93,
     -0.99,
     0.27,
@@ -55,12 +54,13 @@
     0,
     0,
     0,
+    0,
     0
   ],
   "medias": [
-    1.58,
     1.94,
     1.77,
+    1.76,
     1.76,
     1.76,
     1.76,
@@ -71,19 +71,6 @@
     1.76
   ],
   "partidas": [
-    {
-      "rodada_id": 15,
-      "clube_casa": "Avaí",
-      "clube_casa_id": 314,
-      "clube_visitante": "Cuiabá",
-      "clube_casa_abrev": "AVA",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/09/04/escudo-avai-65x65.png",
-      "clube_visitante_id": 1371,
-      "clube_visitante_abrev": "CUI",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/16/cuiaba65.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 2
-    },
     {
       "rodada_id": 16,
       "clube_casa": "Cuiabá",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/sao_paulo_60x60.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 26,
+      "clube_casa": "Internacional",
+      "clube_casa_id": 285,
+      "clube_visitante": "Cuiabá",
+      "clube_casa_abrev": "INT",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/03/inter65.png",
+      "clube_visitante_id": 1371,
+      "clube_visitante_abrev": "CUI",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/16/cuiaba65.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2022/02/23/80aa17d4669a6357c0620eb0988e839e_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/16/cuiaba65.png",
   "scouts": {
-    "rodada_id": 25,
+    "rodada_id": 26,
     "g": 0,
     "a": 1,
     "sg": 3,

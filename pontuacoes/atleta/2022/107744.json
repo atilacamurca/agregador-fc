@@ -6,7 +6,6 @@
   "clube_id": 280,
   "posicao": "Meia",
   "rodadas": [
-    15,
     16,
     17,
     18,
@@ -16,10 +15,10 @@
     22,
     23,
     24,
-    25
+    25,
+    26
   ],
   "pontos": [
-    0,
     10,
     0.6,
     0,
@@ -29,10 +28,10 @@
     0,
     -0.1,
     0,
-    0.3
+    0.3,
+    0
   ],
   "precos": [
-    7.75,
     9.26,
     7.88,
     7.88,
@@ -42,10 +41,10 @@
     8.25,
     7.66,
     7.66,
+    7.63,
     7.63
   ],
   "variacoes": [
-    0,
     1.51,
     -1.38,
     0,
@@ -55,10 +54,10 @@
     0,
     -0.59,
     0,
-    -0.03
+    -0.03,
+    0
   ],
   "medias": [
-    3.08,
     3.85,
     3.52,
     3.52,
@@ -68,22 +67,10 @@
     3.71,
     3.42,
     3.42,
+    3.2,
     3.2
   ],
   "partidas": [
-    {
-      "rodada_id": 15,
-      "clube_casa": "Bragantino",
-      "clube_casa_id": 280,
-      "clube_visitante": "Botafogo",
-      "clube_casa_abrev": "BRA",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2020/01/01/65.png",
-      "clube_visitante_id": 263,
-      "clube_visitante_abrev": "BOT",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/04/botafogo-65.png",
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 16,
       "clube_casa": "Bragantino",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 26,
+      "clube_casa": "Atlético-MG",
+      "clube_casa_id": 282,
+      "clube_visitante": "Bragantino",
+      "clube_casa_abrev": "ATL",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2017/11/23/Atletico-Mineiro-escudo65px.png",
+      "clube_visitante_id": 280,
+      "clube_visitante_abrev": "BRA",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2020/01/01/65.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2022/05/05/f8aea5d525d74bdbe77382da13d85ed2_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2020/01/01/65.png",
   "scouts": {
-    "rodada_id": 25,
+    "rodada_id": 26,
     "g": 1,
     "a": 2,
     "sg": 0,
@@ -239,9 +239,9 @@
     "pi": 43,
     "pc": 0,
     "ps": 0,
-    "pontos_num": 0.3,
+    "pontos_num": 0,
     "preco_num": 7.63,
-    "variacao_num": -0.03,
+    "variacao_num": 0,
     "media_num": 3.2,
     "jogos_num": 14,
     "posicao_abrev": "mei",

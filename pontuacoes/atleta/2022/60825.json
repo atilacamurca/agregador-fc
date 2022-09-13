@@ -6,7 +6,6 @@
   "clube_id": 327,
   "posicao": "Atacante",
   "rodadas": [
-    15,
     16,
     17,
     18,
@@ -16,10 +15,10 @@
     22,
     23,
     24,
-    25
+    25,
+    26
   ],
   "pontos": [
-    2,
     1.7,
     -0.4,
     0,
@@ -29,10 +28,10 @@
     -0.6,
     0.2,
     -0.8,
-    0.3
+    0.3,
+    2.7
   ],
   "precos": [
-    6.1,
     5.97,
     5.59,
     5.54,
@@ -42,10 +41,10 @@
     5.74,
     5.86,
     5.61,
-    5.79
+    5.79,
+    6.13
   ],
   "variacoes": [
-    0.08,
     -0.13,
     -0.38,
     -0.05,
@@ -55,10 +54,10 @@
     -0.7,
     0.12,
     -0.25,
-    0.18
+    0.18,
+    0.34
   ],
   "medias": [
-    2.42,
     2.37,
     2.2,
     2.07,
@@ -68,22 +67,10 @@
     2.37,
     2.27,
     2.14,
-    2.06
+    2.06,
+    2.09
   ],
   "partidas": [
-    {
-      "rodada_id": 15,
-      "clube_casa": "América-MG",
-      "clube_casa_id": 327,
-      "clube_visitante": "Goiás",
-      "clube_casa_abrev": "AME",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/28/escudo65_1.png",
-      "clube_visitante_id": 290,
-      "clube_visitante_abrev": "GOI",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2021/03/01/goias-65.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 16,
       "clube_casa": "Internacional",
@@ -213,17 +200,30 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2017/03/29/coritiba65.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 26,
+      "clube_casa": "Botafogo",
+      "clube_casa_id": 263,
+      "clube_visitante": "América-MG",
+      "clube_casa_abrev": "BOT",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/04/botafogo-65.png",
+      "clube_visitante_id": 327,
+      "clube_visitante_abrev": "AME",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/28/escudo65_1.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2022/02/25/32fc5d9f18e690ed6ef80d16faae95cc_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/28/escudo65_1.png",
   "scouts": {
-    "rodada_id": 25,
+    "rodada_id": 26,
     "g": 3,
     "a": 0,
     "sg": 0,
     "fs": 18,
-    "ff": 12,
+    "ff": 14,
     "fd": 6,
     "ft": 0,
     "de": 0,
@@ -233,17 +233,17 @@
     "ca": 1,
     "pp": 0,
     "gs": 0,
-    "fc": 24,
+    "fc": 25,
     "i": 2,
-    "ds": 20,
-    "pi": 130,
+    "ds": 22,
+    "pi": 140,
     "pc": 0,
     "ps": 0,
-    "pontos_num": 0.3,
-    "preco_num": 5.79,
-    "variacao_num": 0.18,
-    "media_num": 2.06,
-    "jogos_num": 24,
+    "pontos_num": 2.7,
+    "preco_num": 6.13,
+    "variacao_num": 0.34,
+    "media_num": 2.09,
+    "jogos_num": 25,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }

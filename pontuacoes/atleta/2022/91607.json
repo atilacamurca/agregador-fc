@@ -6,7 +6,6 @@
   "clube_id": 275,
   "posicao": "Atacante",
   "rodadas": [
-    15,
     16,
     17,
     18,
@@ -16,10 +15,10 @@
     22,
     23,
     24,
-    25
+    25,
+    26
   ],
   "pontos": [
-    2.8,
     2.9,
     0,
     0,
@@ -29,10 +28,10 @@
     4.7,
     1.4,
     9.6,
-    0.5
+    0.5,
+    12
   ],
   "precos": [
-    11.68,
     11.51,
     11.51,
     11.51,
@@ -42,10 +41,10 @@
     11.23,
     10.81,
     12.13,
-    10.85
+    10.85,
+    12.71
   ],
   "variacoes": [
-    -1.18,
     -0.17,
     0,
     0,
@@ -55,10 +54,10 @@
     0.74,
     -0.42,
     1.32,
-    -1.28
+    -1.28,
+    1.86
   ],
   "medias": [
-    6.13,
     5.91,
     5.91,
     5.91,
@@ -68,22 +67,10 @@
     5.45,
     5.22,
     5.45,
-    5.2
+    5.2,
+    5.52
   ],
   "partidas": [
-    {
-      "rodada_id": 15,
-      "clube_casa": "Palmeiras",
-      "clube_casa_id": 275,
-      "clube_visitante": "Athlético-PR",
-      "clube_casa_abrev": "PAL",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
-      "clube_visitante_id": 293,
-      "clube_visitante_abrev": "ATL",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/09/Athletico-PR-65x65.png",
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 2
-    },
     {
       "rodada_id": 16,
       "clube_casa": "Fortaleza",
@@ -213,18 +200,31 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 26,
+      "clube_casa": "Palmeiras",
+      "clube_casa_id": 275,
+      "clube_visitante": "Juventude",
+      "clube_casa_abrev": "PAL",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
+      "clube_visitante_id": 286,
+      "clube_visitante_abrev": "JUV",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2021/04/29/juventude65.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://storage.googleapis.com/bkt-gglobo-sde-hdg-prd-sdeadmin_prod/media/person_role/2022/02/21/a09a417ce482ea35a6c54e89437850d4_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
   "scouts": {
-    "rodada_id": 25,
-    "g": 8,
+    "rodada_id": 26,
+    "g": 9,
     "a": 0,
     "sg": 0,
     "fs": 22,
-    "ff": 21,
-    "fd": 10,
+    "ff": 22,
+    "fd": 12,
     "ft": 0,
     "de": 0,
     "dp": 0,
@@ -234,16 +234,16 @@
     "pp": 0,
     "gs": 0,
     "fc": 22,
-    "i": 18,
-    "ds": 14,
-    "pi": 68,
+    "i": 20,
+    "ds": 15,
+    "pi": 70,
     "pc": 0,
     "ps": 0,
-    "pontos_num": 0.5,
-    "preco_num": 10.85,
-    "variacao_num": -1.28,
-    "media_num": 5.2,
-    "jogos_num": 20,
+    "pontos_num": 12,
+    "preco_num": 12.71,
+    "variacao_num": 1.86,
+    "media_num": 5.52,
+    "jogos_num": 21,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }

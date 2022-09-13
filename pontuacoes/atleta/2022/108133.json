@@ -6,7 +6,6 @@
   "clube_id": 286,
   "posicao": "Atacante",
   "rodadas": [
-    15,
     16,
     17,
     18,
@@ -16,10 +15,10 @@
     22,
     23,
     24,
-    25
+    25,
+    26
   ],
   "pontos": [
-    2.7,
     0,
     3.2,
     0.5,
@@ -29,10 +28,10 @@
     0.9,
     16.7,
     0.7,
-    4.5
+    4.5,
+    -1.4
   ],
   "precos": [
-    3.51,
     3.51,
     3.61,
     3.2,
@@ -42,10 +41,10 @@
     3.73,
     6.54,
     4.19,
-    4.88
+    4.88,
+    3.92
   ],
   "variacoes": [
-    0.18,
     0,
     0.1,
     -0.41,
@@ -55,10 +54,10 @@
     -0.23,
     2.81,
     -2.35,
-    0.69
+    0.69,
+    -0.96
   ],
   "medias": [
-    1.84,
     1.84,
     1.94,
     1.84,
@@ -68,22 +67,10 @@
     2.39,
     3.14,
     3.02,
-    3.09
+    3.09,
+    2.89
   ],
   "partidas": [
-    {
-      "rodada_id": 15,
-      "clube_casa": "Juventude",
-      "clube_casa_id": 286,
-      "clube_visitante": "Atlético-MG",
-      "clube_casa_abrev": "JUV",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2021/04/29/juventude65.png",
-      "clube_visitante_id": 282,
-      "clube_visitante_abrev": "ATL",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2017/11/23/Atletico-Mineiro-escudo65px.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 2
-    },
     {
       "rodada_id": 16,
       "clube_casa": "Coritiba",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/09/04/escudo-avai-65x65.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 26,
+      "clube_casa": "Palmeiras",
+      "clube_casa_id": 275,
+      "clube_visitante": "Juventude",
+      "clube_casa_abrev": "PAL",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
+      "clube_visitante_id": 286,
+      "clube_visitante_abrev": "JUV",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2021/04/29/juventude65.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2022/04/06/d5b98eae02b3de3352cd02c6cc1b5c36_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2021/04/29/juventude65.png",
   "scouts": {
-    "rodada_id": 25,
+    "rodada_id": 26,
     "g": 4,
     "a": 0,
     "sg": 0,
@@ -233,17 +233,17 @@
     "ca": 2,
     "pp": 1,
     "gs": 0,
-    "fc": 17,
+    "fc": 18,
     "i": 11,
     "ds": 1,
-    "pi": 98,
+    "pi": 109,
     "pc": 0,
     "ps": 0,
-    "pontos_num": 4.5,
-    "preco_num": 4.88,
-    "variacao_num": 0.69,
-    "media_num": 3.09,
-    "jogos_num": 21,
+    "pontos_num": -1.4,
+    "preco_num": 3.92,
+    "variacao_num": -0.96,
+    "media_num": 2.89,
+    "jogos_num": 22,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }
