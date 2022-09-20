@@ -6,7 +6,6 @@
   "clube_id": 356,
   "posicao": "Técnico",
   "rodadas": [
-    16,
     17,
     18,
     19,
@@ -16,10 +15,10 @@
     23,
     24,
     25,
-    26
+    26,
+    27
   ],
   "pontos": [
-    4.46,
     5.27,
     2.66,
     5.23,
@@ -29,10 +28,10 @@
     6.41,
     6.97,
     3.19,
-    4.16
+    0,
+    2.2
   ],
   "precos": [
-    7.69,
     7.94,
     7.55,
     8.08,
@@ -42,10 +41,10 @@
     8.89,
     9.07,
     8.64,
-    8.78
+    8.78,
+    8.53
   ],
   "variacoes": [
-    0.25,
     0.25,
     -0.39,
     0.53,
@@ -55,10 +54,10 @@
     0.06,
     0.18,
     -0.43,
-    0.14
+    0.14,
+    -0.25
   ],
   "medias": [
-    3.47,
     3.58,
     3.53,
     3.62,
@@ -68,22 +67,10 @@
     4.22,
     4.34,
     4.29,
-    4.28
+    4.28,
+    4.2
   ],
   "partidas": [
-    {
-      "rodada_id": 16,
-      "clube_casa": "Fortaleza",
-      "clube_casa_id": 356,
-      "clube_visitante": "Palmeiras",
-      "clube_casa_abrev": "FOR",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2021/09/19/65_0000_Fortaleza-2021.png",
-      "clube_visitante_id": 275,
-      "clube_visitante_abrev": "PAL",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 17,
       "clube_casa": "Atlético-GO",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2021/09/19/65_0000_Fortaleza-2021.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 27,
+      "clube_casa": "Juventude",
+      "clube_casa_id": 286,
+      "clube_visitante": "Fortaleza",
+      "clube_casa_abrev": "JUV",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2021/04/29/juventude65.png",
+      "clube_visitante_id": 356,
+      "clube_visitante_abrev": "FOR",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2021/09/19/65_0000_Fortaleza-2021.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2021/05/04/b1ac9362e20bba2d6dc699906e1420cc_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2021/09/19/65_0000_Fortaleza-2021.png",
   "scouts": {
-    "rodada_id": 26,
+    "rodada_id": 27,
     "g": 0,
     "a": 0,
     "sg": 0,
@@ -239,11 +239,11 @@
     "pi": 0,
     "pc": 0,
     "ps": 0,
-    "pontos_num": 4.16,
-    "preco_num": 8.78,
-    "variacao_num": 0.14,
-    "media_num": 4.28,
-    "jogos_num": 25,
+    "pontos_num": 2.2,
+    "preco_num": 8.53,
+    "variacao_num": -0.25,
+    "media_num": 4.2,
+    "jogos_num": 26,
     "posicao_abrev": "tec",
     "posicao": "Técnico"
   }

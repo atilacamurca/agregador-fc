@@ -12,7 +12,8 @@
     23,
     24,
     25,
-    26
+    26,
+    27
   ],
   "pontos": [
     0,
@@ -21,7 +22,8 @@
     0.9,
     0,
     0,
-    0.8
+    0,
+    0
   ],
   "precos": [
     4,
@@ -30,6 +32,7 @@
     3.01,
     3.01,
     3.01,
+    2.8,
     2.8
   ],
   "variacoes": [
@@ -39,7 +42,8 @@
     0.11,
     0,
     0,
-    -0.21
+    -0.21,
+    0
   ],
   "medias": [
     0,
@@ -48,6 +52,7 @@
     0.35,
     0.35,
     0.35,
+    0.5,
     0.5
   ],
   "partidas": [
@@ -141,12 +146,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/09/Athletico-PR-65x65.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 27,
+      "clube_casa": "Avaí",
+      "clube_casa_id": 314,
+      "clube_visitante": "Atlético-MG",
+      "clube_casa_abrev": "AVA",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/09/04/escudo-avai-65x65.png",
+      "clube_visitante_id": 282,
+      "clube_visitante_abrev": "ATL",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2017/11/23/Atletico-Mineiro-escudo65px.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2022/07/28/c7f78fd98e40333df68d75f1e5bfe407_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2018/09/04/escudo-avai-65x65.png",
   "scouts": {
-    "rodada_id": 26,
+    "rodada_id": 27,
     "g": 0,
     "a": 0,
     "sg": 0,
@@ -167,9 +185,9 @@
     "pi": 13,
     "pc": 0,
     "ps": 0,
-    "pontos_num": 0.8,
+    "pontos_num": 0,
     "preco_num": 2.8,
-    "variacao_num": -0.21,
+    "variacao_num": 0,
     "media_num": 0.5,
     "jogos_num": 3,
     "posicao_abrev": "lat",

@@ -6,7 +6,6 @@
   "clube_id": 275,
   "posicao": "Meia",
   "rodadas": [
-    16,
     17,
     18,
     19,
@@ -16,10 +15,10 @@
     23,
     24,
     25,
-    26
+    26,
+    27
   ],
   "pontos": [
-    7,
     0.3,
     6.6,
     4.7,
@@ -29,10 +28,10 @@
     1.6,
     2.9,
     -0.3,
-    15.3
+    0,
+    4.2
   ],
   "precos": [
-    14.19,
     13.11,
     14.01,
     13.86,
@@ -42,10 +41,10 @@
     13.27,
     13.37,
     12.92,
-    15.43
+    15.43,
+    13.89
   ],
   "variacoes": [
-    0.16,
     -1.08,
     0.9,
     -0.15,
@@ -55,10 +54,10 @@
     -0.19,
     0.1,
     -0.45,
-    2.51
+    2.51,
+    -1.54
   ],
   "medias": [
-    6.17,
     5.78,
     5.83,
     5.76,
@@ -68,22 +67,10 @@
     5.15,
     5.05,
     4.82,
-    5.26
+    5.26,
+    5.22
   ],
   "partidas": [
-    {
-      "rodada_id": 16,
-      "clube_casa": "Fortaleza",
-      "clube_casa_id": 356,
-      "clube_visitante": "Palmeiras",
-      "clube_casa_abrev": "FOR",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2021/09/19/65_0000_Fortaleza-2021.png",
-      "clube_visitante_id": 275,
-      "clube_visitante_abrev": "PAL",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 17,
       "clube_casa": "Palmeiras",
@@ -213,37 +200,50 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2021/04/29/juventude65.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 27,
+      "clube_casa": "Palmeiras",
+      "clube_casa_id": 275,
+      "clube_visitante": "Santos",
+      "clube_casa_abrev": "PAL",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
+      "clube_visitante_id": 277,
+      "clube_visitante_abrev": "SAN",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/santos_60x60.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 0
     }
   ],
-  "foto": "https://s.glbimg.com/es/sde/f/2022/02/21/a9bb4a6cb2ff8e2f533bf41f37dd93dc_140x140.png",
+  "foto": "https://s.sde.globo.com/media/person_role/2022/02/21/a9bb4a6cb2ff8e2f533bf41f37dd93dc_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
   "scouts": {
-    "rodada_id": 26,
+    "rodada_id": 27,
     "g": 4,
     "a": 1,
     "sg": 0,
-    "fs": 41,
-    "ff": 18,
-    "fd": 3,
+    "fs": 44,
+    "ff": 20,
+    "fd": 4,
     "ft": 3,
     "de": 0,
     "dp": 0,
     "gc": 0,
     "cv": 0,
-    "ca": 4,
+    "ca": 5,
     "pp": 0,
     "gs": 0,
-    "fc": 33,
+    "fc": 37,
     "i": 0,
-    "ds": 54,
-    "pi": 90,
+    "ds": 56,
+    "pi": 93,
     "pc": 0,
     "ps": 0,
-    "pontos_num": 15.3,
-    "preco_num": 15.43,
-    "variacao_num": 2.51,
-    "media_num": 5.26,
-    "jogos_num": 24,
+    "pontos_num": 4.2,
+    "preco_num": 13.89,
+    "variacao_num": -1.54,
+    "media_num": 5.22,
+    "jogos_num": 25,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }
