@@ -6,7 +6,6 @@
   "clube_id": 294,
   "posicao": "Goleiro",
   "rodadas": [
-    18,
     19,
     20,
     21,
@@ -16,7 +15,8 @@
     25,
     26,
     27,
-    28
+    28,
+    29
   ],
   "pontos": [
     0,
@@ -28,8 +28,8 @@
     0,
     0,
     0,
-    0,
-    8
+    8,
+    0
   ],
   "precos": [
     6,
@@ -39,9 +39,9 @@
     6,
     6,
     6,
-    6,
     6.15,
     4.95,
+    6.31,
     6.31
   ],
   "variacoes": [
@@ -52,10 +52,10 @@
     0,
     0,
     0,
-    0,
     0.15,
     -1.2,
-    1.36
+    1.36,
+    0
   ],
   "medias": [
     0,
@@ -65,25 +65,12 @@
     0,
     0,
     0,
-    0,
     8,
     4,
+    5.33,
     5.33
   ],
   "partidas": [
-    {
-      "rodada_id": 18,
-      "clube_casa": "Corinthians",
-      "clube_casa_id": 264,
-      "clube_visitante": "Coritiba",
-      "clube_casa_abrev": "COR",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/30/Corinthians_65.png",
-      "clube_visitante_id": 294,
-      "clube_visitante_abrev": "COR",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2017/03/29/coritiba65.png",
-      "placar_oficial_mandante": 3,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 19,
       "clube_casa": "Coritiba",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/10/10/ceara-65x65.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 29,
+      "clube_casa": "São Paulo",
+      "clube_casa_id": 276,
+      "clube_visitante": "Coritiba",
+      "clube_casa_abrev": "SAO",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/sao_paulo_60x60.png",
+      "clube_visitante_id": 294,
+      "clube_visitante_abrev": "COR",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2017/03/29/coritiba65.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2022/07/12/3c4ca01b234ad722ed92a5df218fd329_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2017/03/29/coritiba65.png",
   "scouts": {
-    "rodada_id": 28,
+    "rodada_id": 29,
     "g": 0,
     "a": 0,
     "sg": 2,
@@ -239,9 +239,9 @@
     "pi": 0,
     "pc": 0,
     "ps": 0,
-    "pontos_num": 8,
+    "pontos_num": 0,
     "preco_num": 6.31,
-    "variacao_num": 1.36,
+    "variacao_num": 0,
     "media_num": 5.33,
     "jogos_num": 3,
     "posicao_abrev": "gol",
