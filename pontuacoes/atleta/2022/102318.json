@@ -6,7 +6,6 @@
   "clube_id": 266,
   "posicao": "Atacante",
   "rodadas": [
-    21,
     22,
     23,
     24,
@@ -16,10 +15,10 @@
     28,
     29,
     30,
-    31
+    31,
+    32
   ],
   "pontos": [
-    0,
     2.2,
     12,
     -0.3,
@@ -29,10 +28,10 @@
     0,
     2.1,
     -0.3,
-    1.5
+    1.5,
+    0
   ],
   "precos": [
-    4.48,
     4.61,
     6.4,
     4.55,
@@ -42,10 +41,10 @@
     4.63,
     5.02,
     4.65,
+    4.9,
     4.9
   ],
   "variacoes": [
-    0,
     0.13,
     1.79,
     -1.85,
@@ -55,10 +54,10 @@
     0,
     0.39,
     -0.37,
-    0.25
+    0.25,
+    0
   ],
   "medias": [
-    2.44,
     2.43,
     2.91,
     2.76,
@@ -68,22 +67,10 @@
     2.79,
     2.76,
     2.64,
+    2.6,
     2.6
   ],
   "partidas": [
-    {
-      "rodada_id": 21,
-      "clube_casa": "Fluminense",
-      "clube_casa_id": 266,
-      "clube_visitante": "Cuiabá",
-      "clube_casa_abrev": "FLU",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/fluminense_60x60.png",
-      "clube_visitante_id": 1371,
-      "clube_visitante_abrev": "CUI",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/16/cuiaba65.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 22,
       "clube_casa": "Internacional",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/28/escudo65_1.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 32,
+      "clube_casa": "Avaí",
+      "clube_casa_id": 314,
+      "clube_visitante": "Fluminense",
+      "clube_casa_abrev": "AVA",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/09/04/escudo-avai-65x65.png",
+      "clube_visitante_id": 266,
+      "clube_visitante_abrev": "FLU",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/fluminense_60x60.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 3
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2022/04/20/3ad79908bf278d43f6fb870ec7af5f46_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/fluminense_60x60.png",
   "scouts": {
-    "rodada_id": 31,
+    "rodada_id": 32,
     "g": 1,
     "a": 3,
     "sg": 0,
@@ -239,9 +239,9 @@
     "pi": 129,
     "pc": 0,
     "ps": 0,
-    "pontos_num": 1.5,
+    "pontos_num": 0,
     "preco_num": 4.9,
-    "variacao_num": 0.25,
+    "variacao_num": 0,
     "media_num": 2.6,
     "jogos_num": 27,
     "posicao_abrev": "ata",

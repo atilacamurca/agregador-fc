@@ -6,7 +6,6 @@
   "clube_id": 293,
   "posicao": "Atacante",
   "rodadas": [
-    21,
     22,
     23,
     24,
@@ -16,10 +15,10 @@
     28,
     29,
     30,
-    31
+    31,
+    32
   ],
   "pontos": [
-    6.3,
     1.7,
     2.1,
     0,
@@ -29,10 +28,10 @@
     0,
     -1.3,
     0.8,
-    0.4
+    0.4,
+    -0.4
   ],
   "precos": [
-    5.95,
     5.26,
     5.39,
     5.39,
@@ -42,10 +41,10 @@
     5.36,
     4.67,
     4.99,
-    4.89
+    4.89,
+    4.72
   ],
   "variacoes": [
-    0.83,
     -0.69,
     0.13,
     0,
@@ -55,10 +54,10 @@
     0,
     -0.69,
     0.32,
-    -0.1
+    -0.1,
+    -0.17
   ],
   "medias": [
-    3.17,
     3.07,
     3.01,
     3.01,
@@ -68,22 +67,10 @@
     2.78,
     2.57,
     2.48,
-    2.38
+    2.38,
+    2.25
   ],
   "partidas": [
-    {
-      "rodada_id": 21,
-      "clube_casa": "Atlético-MG",
-      "clube_casa_id": 282,
-      "clube_visitante": "Athlético-PR",
-      "clube_casa_abrev": "ATL",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2017/11/23/Atletico-Mineiro-escudo65px.png",
-      "clube_visitante_id": 293,
-      "clube_visitante_abrev": "ATL",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/09/Athletico-PR-65x65.png",
-      "placar_oficial_mandante": 2,
-      "placar_oficial_visitante": 3
-    },
     {
       "rodada_id": 22,
       "clube_casa": "Flamengo",
@@ -213,17 +200,30 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/09/Athletico-PR-65x65.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 32,
+      "clube_casa": "Athlético-PR",
+      "clube_casa_id": 293,
+      "clube_visitante": "Coritiba",
+      "clube_casa_abrev": "ATL",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/09/Athletico-PR-65x65.png",
+      "clube_visitante_id": 294,
+      "clube_visitante_abrev": "COR",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2017/03/29/coritiba65.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2022/03/30/ae776027bce5d99b2a19ab81b191f35b_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/09/Athletico-PR-65x65.png",
   "scouts": {
-    "rodada_id": 31,
+    "rodada_id": 32,
     "g": 2,
     "a": 0,
     "sg": 0,
-    "fs": 29,
-    "ff": 8,
+    "fs": 30,
+    "ff": 9,
     "fd": 2,
     "ft": 0,
     "de": 0,
@@ -233,17 +233,17 @@
     "ca": 2,
     "pp": 0,
     "gs": 0,
-    "fc": 21,
+    "fc": 25,
     "i": 3,
     "ds": 23,
-    "pi": 94,
+    "pi": 99,
     "pc": 0,
     "ps": 1,
-    "pontos_num": 0.4,
-    "preco_num": 4.89,
-    "variacao_num": -0.1,
-    "media_num": 2.38,
-    "jogos_num": 21,
+    "pontos_num": -0.4,
+    "preco_num": 4.72,
+    "variacao_num": -0.17,
+    "media_num": 2.25,
+    "jogos_num": 22,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }

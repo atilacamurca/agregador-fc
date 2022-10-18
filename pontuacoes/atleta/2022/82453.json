@@ -6,7 +6,6 @@
   "clube_id": 290,
   "posicao": "Goleiro",
   "rodadas": [
-    21,
     22,
     23,
     24,
@@ -16,10 +15,10 @@
     28,
     29,
     30,
-    31
+    31,
+    32
   ],
   "pontos": [
-    3,
     1,
     13,
     0,
@@ -29,10 +28,10 @@
     4,
     3,
     4.5,
-    3
+    3,
+    0
   ],
   "precos": [
-    8.16,
     7.78,
     9.93,
     7.94,
@@ -42,10 +41,10 @@
     8.76,
     8.72,
     9.04,
+    8.79,
     8.79
   ],
   "variacoes": [
-    -0.7,
     -0.38,
     2.15,
     -1.99,
@@ -55,10 +54,10 @@
     -0.43,
     -0.04,
     0.32,
-    -0.25
+    -0.25,
+    0
   ],
   "medias": [
-    4.32,
     4.17,
     4.55,
     4.36,
@@ -68,22 +67,10 @@
     4.53,
     4.48,
     4.48,
+    4.43,
     4.43
   ],
   "partidas": [
-    {
-      "rodada_id": 21,
-      "clube_casa": "Palmeiras",
-      "clube_casa_id": 275,
-      "clube_visitante": "Goiás",
-      "clube_casa_abrev": "PAL",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
-      "clube_visitante_id": 290,
-      "clube_visitante_abrev": "GOI",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2021/03/01/goias-65.png",
-      "placar_oficial_mandante": 3,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 22,
       "clube_casa": "Goiás",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2021/03/01/goias-65.png",
       "placar_oficial_mandante": 4,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 32,
+      "clube_casa": "Goiás",
+      "clube_casa_id": 290,
+      "clube_visitante": "Corinthians",
+      "clube_casa_abrev": "GOI",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2021/03/01/goias-65.png",
+      "clube_visitante_id": 264,
+      "clube_visitante_abrev": "COR",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/30/Corinthians_65.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2022/03/10/f9b7377addfcfa29bfa11ee96aecbdc5_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2021/03/01/goias-65.png",
   "scouts": {
-    "rodada_id": 31,
+    "rodada_id": 32,
     "g": 0,
     "a": 0,
     "sg": 6,
@@ -239,9 +239,9 @@
     "pi": 0,
     "pc": 0,
     "ps": 0,
-    "pontos_num": 3,
+    "pontos_num": 0,
     "preco_num": 8.79,
-    "variacao_num": -0.25,
+    "variacao_num": 0,
     "media_num": 4.43,
     "jogos_num": 31,
     "posicao_abrev": "gol",
