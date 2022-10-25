@@ -6,7 +6,6 @@
   "clube_id": 1371,
   "posicao": "Atacante",
   "rodadas": [
-    22,
     23,
     24,
     25,
@@ -16,7 +15,8 @@
     29,
     30,
     31,
-    32
+    32,
+    33
   ],
   "pontos": [
     0,
@@ -26,8 +26,8 @@
     0,
     0,
     0,
-    0,
     -0.4,
+    0,
     0,
     0
   ],
@@ -39,9 +39,9 @@
     3,
     3,
     3,
-    3,
     2.2,
     2.2,
+    2.21,
     2.21
   ],
   "variacoes": [
@@ -52,10 +52,10 @@
     0,
     0,
     0,
-    0,
     -0.8,
     0,
-    0.01
+    0.01,
+    0
   ],
   "medias": [
     0,
@@ -65,25 +65,12 @@
     0,
     0,
     0,
-    0,
     -0.4,
     -0.4,
+    -0.2,
     -0.2
   ],
   "partidas": [
-    {
-      "rodada_id": 22,
-      "clube_casa": "Cuiabá",
-      "clube_casa_id": 1371,
-      "clube_visitante": "Juventude",
-      "clube_casa_abrev": "CUI",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/16/cuiaba65.png",
-      "clube_visitante_id": 286,
-      "clube_visitante_abrev": "JUV",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2021/04/29/juventude65.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 23,
       "clube_casa": "Atlético-GO",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/16/cuiaba65.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 33,
+      "clube_casa": "Cuiabá",
+      "clube_casa_id": 1371,
+      "clube_visitante": "Goiás",
+      "clube_casa_abrev": "CUI",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/16/cuiaba65.png",
+      "clube_visitante_id": 290,
+      "clube_visitante_abrev": "GOI",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2021/03/01/goias-65.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2021/09/20/768f5f056c491ffcf62c7383073dfab2_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/16/cuiaba65.png",
   "scouts": {
-    "rodada_id": 32,
+    "rodada_id": 33,
     "g": 0,
     "a": 0,
     "sg": 0,
@@ -241,7 +241,7 @@
     "ps": 0,
     "pontos_num": 0,
     "preco_num": 2.21,
-    "variacao_num": 0.01,
+    "variacao_num": 0,
     "media_num": -0.2,
     "jogos_num": 2,
     "posicao_abrev": "ata",

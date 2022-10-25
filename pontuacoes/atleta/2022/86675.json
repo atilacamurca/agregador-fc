@@ -6,7 +6,6 @@
   "clube_id": 286,
   "posicao": "Lateral",
   "rodadas": [
-    22,
     23,
     24,
     25,
@@ -16,10 +15,10 @@
     29,
     30,
     31,
-    32
+    32,
+    33
   ],
   "pontos": [
-    -0.7,
     3.8,
     3,
     0,
@@ -29,10 +28,10 @@
     0.7,
     0,
     2.5,
-    0.8
+    0.8,
+    -1
   ],
   "precos": [
-    2.37,
     3.13,
     3.07,
     3.07,
@@ -42,10 +41,10 @@
     2.68,
     2.68,
     2.97,
-    2.72
+    2.72,
+    2.42
   ],
   "variacoes": [
-    -0.29,
     0.76,
     -0.06,
     0,
@@ -55,10 +54,10 @@
     0.23,
     0,
     0.29,
-    -0.25
+    -0.25,
+    -0.3
   ],
   "medias": [
-    2.05,
     2.14,
     2.18,
     2.18,
@@ -68,22 +67,10 @@
     1.87,
     1.87,
     1.89,
-    1.85
+    1.85,
+    1.75
   ],
   "partidas": [
-    {
-      "rodada_id": 22,
-      "clube_casa": "Cuiabá",
-      "clube_casa_id": 1371,
-      "clube_visitante": "Juventude",
-      "clube_casa_abrev": "CUI",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/16/cuiaba65.png",
-      "clube_visitante_id": 286,
-      "clube_visitante_abrev": "JUV",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2021/04/29/juventude65.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 23,
       "clube_casa": "Juventude",
@@ -213,37 +200,50 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2020/07/02/atletico-go-2020-65.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 33,
+      "clube_casa": "Juventude",
+      "clube_casa_id": 286,
+      "clube_visitante": "São Paulo",
+      "clube_casa_abrev": "JUV",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2021/04/29/juventude65.png",
+      "clube_visitante_id": 276,
+      "clube_visitante_abrev": "SAO",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/sao_paulo_60x60.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2022/03/03/9c3587675488eeeb0991d8754b8cee2b_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2021/04/29/juventude65.png",
   "scouts": {
-    "rodada_id": 32,
+    "rodada_id": 33,
     "g": 1,
     "a": 1,
     "sg": 4,
     "fs": 4,
-    "ff": 4,
+    "ff": 5,
     "fd": 2,
     "ft": 0,
     "de": 0,
     "dp": 0,
     "gc": 0,
     "cv": 0,
-    "ca": 3,
+    "ca": 4,
     "pp": 0,
     "gs": 0,
     "fc": 22,
     "i": 0,
     "ds": 33,
-    "pi": 205,
+    "pi": 213,
     "pc": 0,
     "ps": 0,
-    "pontos_num": 0.8,
-    "preco_num": 2.72,
-    "variacao_num": -0.25,
-    "media_num": 1.85,
-    "jogos_num": 27,
+    "pontos_num": -1,
+    "preco_num": 2.42,
+    "variacao_num": -0.3,
+    "media_num": 1.75,
+    "jogos_num": 28,
     "posicao_abrev": "lat",
     "posicao": "Lateral"
   }

@@ -6,7 +6,6 @@
   "clube_id": 356,
   "posicao": "Zagueiro",
   "rodadas": [
-    22,
     23,
     24,
     25,
@@ -16,10 +15,10 @@
     29,
     30,
     31,
-    32
+    32,
+    33
   ],
   "pontos": [
-    4.5,
     0,
     4.5,
     1.5,
@@ -29,10 +28,10 @@
     0,
     2.3,
     0,
-    0
+    0,
+    6.4
   ],
   "precos": [
-    8.01,
     8.01,
     8.08,
     7.7,
@@ -42,10 +41,10 @@
     7.14,
     7.59,
     7.59,
-    7.59
+    7.59,
+    8.17
   ],
   "variacoes": [
-    -0.3,
     0,
     0.07,
     -0.38,
@@ -55,10 +54,10 @@
     0,
     0.45,
     0,
-    0
+    0,
+    0.58
   ],
   "medias": [
-    4.11,
     4.11,
     4.13,
     4.01,
@@ -68,22 +67,10 @@
     3.59,
     3.54,
     3.54,
-    3.54
+    3.54,
+    3.65
   ],
   "partidas": [
-    {
-      "rodada_id": 22,
-      "clube_casa": "Ceará",
-      "clube_casa_id": 354,
-      "clube_visitante": "Fortaleza",
-      "clube_casa_abrev": "CEA",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/10/10/ceara-65x65.png",
-      "clube_visitante_id": 356,
-      "clube_visitante_abrev": "FOR",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2021/09/19/65_0000_Fortaleza-2021.png",
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 23,
       "clube_casa": "Fortaleza",
@@ -213,15 +200,28 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2021/09/19/65_0000_Fortaleza-2021.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 33,
+      "clube_casa": "Fortaleza",
+      "clube_casa_id": 356,
+      "clube_visitante": "Atlético-MG",
+      "clube_casa_abrev": "FOR",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2021/09/19/65_0000_Fortaleza-2021.png",
+      "clube_visitante_id": 282,
+      "clube_visitante_abrev": "ATL",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2017/11/23/Atletico-Mineiro-escudo65px.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2022/05/12/5021e3ea5f8c3db816a9537e53808b5a_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2021/09/19/65_0000_Fortaleza-2021.png",
   "scouts": {
-    "rodada_id": 32,
+    "rodada_id": 33,
     "g": 0,
     "a": 1,
-    "sg": 9,
+    "sg": 10,
     "fs": 18,
     "ff": 4,
     "fd": 6,
@@ -233,17 +233,17 @@
     "ca": 4,
     "pp": 0,
     "gs": 0,
-    "fc": 16,
+    "fc": 18,
     "i": 0,
-    "ds": 34,
-    "pi": 78,
+    "ds": 36,
+    "pi": 82,
     "pc": 2,
     "ps": 0,
-    "pontos_num": 0,
-    "preco_num": 7.59,
-    "variacao_num": 0,
-    "media_num": 3.54,
-    "jogos_num": 26,
+    "pontos_num": 6.4,
+    "preco_num": 8.17,
+    "variacao_num": 0.58,
+    "media_num": 3.65,
+    "jogos_num": 27,
     "posicao_abrev": "zag",
     "posicao": "Zagueiro"
   }

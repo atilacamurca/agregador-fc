@@ -6,7 +6,6 @@
   "clube_id": 286,
   "posicao": "Zagueiro",
   "rodadas": [
-    22,
     23,
     24,
     25,
@@ -16,13 +15,14 @@
     29,
     30,
     31,
-    32
+    32,
+    33
   ],
   "pontos": [
     0,
     0,
-    0,
     3.1,
+    0,
     0,
     0,
     0,
@@ -34,8 +34,8 @@
   "precos": [
     4,
     4,
-    4,
     3.8,
+    3.2,
     3.2,
     3.2,
     3.2,
@@ -47,9 +47,9 @@
   "variacoes": [
     0,
     0,
-    0,
     -0.2,
     -0.6,
+    0,
     0,
     0,
     0,
@@ -60,8 +60,8 @@
   "medias": [
     0,
     0,
-    0,
     3.1,
+    1.45,
     1.45,
     1.45,
     1.45,
@@ -71,19 +71,6 @@
     1.45
   ],
   "partidas": [
-    {
-      "rodada_id": 22,
-      "clube_casa": "Cuiabá",
-      "clube_casa_id": 1371,
-      "clube_visitante": "Juventude",
-      "clube_casa_abrev": "CUI",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/16/cuiaba65.png",
-      "clube_visitante_id": 286,
-      "clube_visitante_abrev": "JUV",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2021/04/29/juventude65.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 23,
       "clube_casa": "Juventude",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2020/07/02/atletico-go-2020-65.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 33,
+      "clube_casa": "Juventude",
+      "clube_casa_id": 286,
+      "clube_visitante": "São Paulo",
+      "clube_casa_abrev": "JUV",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2021/04/29/juventude65.png",
+      "clube_visitante_id": 276,
+      "clube_visitante_abrev": "SAO",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/sao_paulo_60x60.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2022/08/04/0bc83ac31c543274a27ef12ac1aae92c_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2021/04/29/juventude65.png",
   "scouts": {
-    "rodada_id": 32,
+    "rodada_id": 33,
     "g": 0,
     "a": 0,
     "sg": 0,

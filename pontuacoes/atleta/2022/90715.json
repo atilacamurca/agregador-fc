@@ -6,7 +6,6 @@
   "clube_id": 373,
   "posicao": "Atacante",
   "rodadas": [
-    22,
     23,
     24,
     25,
@@ -16,10 +15,10 @@
     29,
     30,
     31,
-    32
+    32,
+    33
   ],
   "pontos": [
-    5.7,
     3,
     7.1,
     1.9,
@@ -29,10 +28,10 @@
     7.2,
     2.9,
     2.4,
-    5.7
+    5.7,
+    -0.7
   ],
   "precos": [
-    4.76,
     4.48,
     5.22,
     4.54,
@@ -42,10 +41,10 @@
     5.66,
     5.09,
     5.02,
-    5.6
+    5.6,
+    4.61
   ],
   "variacoes": [
-    1.3,
     -0.28,
     0.74,
     -0.68,
@@ -55,10 +54,10 @@
     0.18,
     -0.57,
     -0.07,
-    0.58
+    0.58,
+    -0.99
   ],
   "medias": [
-    2.38,
     2.42,
     2.7,
     2.66,
@@ -68,22 +67,10 @@
     3.22,
     3.21,
     3.17,
-    3.28
+    3.28,
+    3.12
   ],
   "partidas": [
-    {
-      "rodada_id": 22,
-      "clube_casa": "Botafogo",
-      "clube_casa_id": 263,
-      "clube_visitante": "Atlético-GO",
-      "clube_casa_abrev": "BOT",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/04/botafogo-65.png",
-      "clube_visitante_id": 373,
-      "clube_visitante_abrev": "ATL",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2020/07/02/atletico-go-2020-65.png",
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 23,
       "clube_casa": "Atlético-GO",
@@ -213,37 +200,50 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2020/07/02/atletico-go-2020-65.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 33,
+      "clube_casa": "Atlético-GO",
+      "clube_casa_id": 373,
+      "clube_visitante": "Ceará",
+      "clube_casa_abrev": "ATL",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2020/07/02/atletico-go-2020-65.png",
+      "clube_visitante_id": 354,
+      "clube_visitante_abrev": "CEA",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/10/10/ceara-65x65.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2022/04/30/1d40d4deebb60cfac62aee9763f8e18f_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2020/07/02/atletico-go-2020-65.png",
   "scouts": {
-    "rodada_id": 32,
+    "rodada_id": 33,
     "g": 0,
     "a": 4,
     "sg": 0,
-    "fs": 31,
+    "fs": 33,
     "ff": 18,
-    "fd": 8,
+    "fd": 9,
     "ft": 2,
     "de": 0,
     "dp": 0,
     "gc": 0,
     "cv": 1,
-    "ca": 4,
+    "ca": 5,
     "pp": 0,
     "gs": 0,
-    "fc": 17,
+    "fc": 21,
     "i": 8,
     "ds": 27,
-    "pi": 69,
+    "pi": 76,
     "pc": 0,
     "ps": 0,
-    "pontos_num": 5.7,
-    "preco_num": 5.6,
-    "variacao_num": 0.58,
-    "media_num": 3.28,
-    "jogos_num": 24,
+    "pontos_num": -0.7,
+    "preco_num": 4.61,
+    "variacao_num": -0.99,
+    "media_num": 3.12,
+    "jogos_num": 25,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }
