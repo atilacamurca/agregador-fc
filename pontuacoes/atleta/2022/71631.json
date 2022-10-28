@@ -6,7 +6,6 @@
   "clube_id": 275,
   "posicao": "Goleiro",
   "rodadas": [
-    23,
     24,
     25,
     26,
@@ -16,10 +15,10 @@
     30,
     31,
     32,
-    33
+    33,
+    34
   ],
   "pontos": [
-    3.5,
     2,
     -2,
     0,
@@ -29,10 +28,10 @@
     8.5,
     1.2,
     6,
-    7
+    7,
+    0
   ],
   "precos": [
-    11.6,
     11.29,
     10.67,
     10.64,
@@ -42,10 +41,10 @@
     12.15,
     10.98,
     11.73,
+    11.96,
     11.96
   ],
   "variacoes": [
-    -0.74,
     -0.31,
     -0.62,
     -0.03,
@@ -55,10 +54,10 @@
     1.51,
     -1.17,
     0.75,
-    0.23
+    0.23,
+    0
   ],
   "medias": [
-    4.94,
     4.8,
     4.49,
     4.25,
@@ -68,22 +67,10 @@
     4.38,
     4.26,
     4.32,
+    4.41,
     4.41
   ],
   "partidas": [
-    {
-      "rodada_id": 23,
-      "clube_casa": "Palmeiras",
-      "clube_casa_id": 275,
-      "clube_visitante": "Flamengo",
-      "clube_casa_abrev": "PAL",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
-      "clube_visitante_id": 262,
-      "clube_visitante_abrev": "FLA",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/04/09/Flamengo-65.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 24,
       "clube_casa": "Fluminense",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/09/04/escudo-avai-65x65.png",
       "placar_oficial_mandante": 3,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 34,
+      "clube_casa": "Athlético-PR",
+      "clube_casa_id": 293,
+      "clube_visitante": "Palmeiras",
+      "clube_casa_abrev": "ATL",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/09/Athletico-PR-65x65.png",
+      "clube_visitante_id": 275,
+      "clube_visitante_abrev": "PAL",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 3
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2022/02/21/b9adc602abc451c8b30c8554a18970f2_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
   "scouts": {
-    "rodada_id": 33,
+    "rodada_id": 34,
     "g": 0,
     "a": 0,
     "sg": 14,
@@ -239,9 +239,9 @@
     "pi": 0,
     "pc": 0,
     "ps": 0,
-    "pontos_num": 7,
+    "pontos_num": 0,
     "preco_num": 11.96,
-    "variacao_num": 0.23,
+    "variacao_num": 0,
     "media_num": 4.41,
     "jogos_num": 29,
     "posicao_abrev": "gol",

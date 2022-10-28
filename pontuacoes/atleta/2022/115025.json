@@ -8,26 +8,31 @@
   "rodadas": [
     31,
     32,
-    33
+    33,
+    34
   ],
   "pontos": [
     1.1,
+    0,
     0,
     0
   ],
   "precos": [
     1.25,
     1.25,
+    1.04,
     1.04
   ],
   "variacoes": [
     0.25,
     0,
-    -0.21
+    -0.21,
+    0
   ],
   "medias": [
     1.1,
     1.1,
+    0.55,
     0.55
   ],
   "partidas": [
@@ -69,12 +74,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/30/Corinthians_65.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 34,
+      "clube_casa": "Flamengo",
+      "clube_casa_id": 262,
+      "clube_visitante": "Santos",
+      "clube_casa_abrev": "FLA",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/04/09/Flamengo-65.png",
+      "clube_visitante_id": 277,
+      "clube_visitante_abrev": "SAN",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/santos_60x60.png",
+      "placar_oficial_mandante": 3,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2022/04/26/dec84fd4e898099c855552a8e4016350_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/santos_60x60.png",
   "scouts": {
-    "rodada_id": 33,
+    "rodada_id": 34,
     "g": 0,
     "a": 0,
     "sg": 0,
@@ -97,7 +115,7 @@
     "ps": 0,
     "pontos_num": 0,
     "preco_num": 1.04,
-    "variacao_num": -0.21,
+    "variacao_num": 0,
     "media_num": 0.55,
     "jogos_num": 2,
     "posicao_abrev": "mei",

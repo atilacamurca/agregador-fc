@@ -6,7 +6,6 @@
   "clube_id": 277,
   "posicao": "Atacante",
   "rodadas": [
-    23,
     24,
     25,
     26,
@@ -16,10 +15,10 @@
     30,
     31,
     32,
-    33
+    33,
+    34
   ],
   "pontos": [
-    -0.5,
     -0.2,
     0,
     0,
@@ -29,10 +28,10 @@
     2,
     13.4,
     7.7,
-    -0.5
+    -0.5,
+    0
   ],
   "precos": [
-    4.77,
     4.74,
     4.74,
     4.74,
@@ -42,10 +41,10 @@
     5.02,
     6.94,
     6.24,
+    4.99,
     4.99
   ],
   "variacoes": [
-    -0.06,
     -0.03,
     0,
     0,
@@ -55,10 +54,10 @@
     0.17,
     1.92,
     -0.7,
-    -1.25
+    -1.25,
+    0
   ],
   "medias": [
-    2.17,
     2,
     2,
     2,
@@ -68,22 +67,10 @@
     1.89,
     2.5,
     2.76,
+    2.6,
     2.6
   ],
   "partidas": [
-    {
-      "rodada_id": 23,
-      "clube_casa": "Santos",
-      "clube_casa_id": 277,
-      "clube_visitante": "São Paulo",
-      "clube_casa_abrev": "SAN",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/santos_60x60.png",
-      "clube_visitante_id": 276,
-      "clube_visitante_abrev": "SAO",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/sao_paulo_60x60.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 24,
       "clube_casa": "Cuiabá",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/30/Corinthians_65.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 34,
+      "clube_casa": "Flamengo",
+      "clube_casa_id": 262,
+      "clube_visitante": "Santos",
+      "clube_casa_abrev": "FLA",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/04/09/Flamengo-65.png",
+      "clube_visitante_id": 277,
+      "clube_visitante_abrev": "SAN",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/santos_60x60.png",
+      "placar_oficial_mandante": 3,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2022/03/03/e0ca88eb8ab327b605082617a24e69fc_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/santos_60x60.png",
   "scouts": {
-    "rodada_id": 33,
+    "rodada_id": 34,
     "g": 1,
     "a": 4,
     "sg": 0,
@@ -239,9 +239,9 @@
     "pi": 103,
     "pc": 0,
     "ps": 1,
-    "pontos_num": -0.5,
+    "pontos_num": 0,
     "preco_num": 4.99,
-    "variacao_num": -1.25,
+    "variacao_num": 0,
     "media_num": 2.6,
     "jogos_num": 21,
     "posicao_abrev": "ata",

@@ -6,7 +6,6 @@
   "clube_id": 356,
   "posicao": "Meia",
   "rodadas": [
-    23,
     24,
     25,
     26,
@@ -16,10 +15,10 @@
     30,
     31,
     32,
-    33
+    33,
+    34
   ],
   "pontos": [
-    0,
     0,
     0,
     0,
@@ -29,10 +28,10 @@
     1.7,
     1,
     1.2,
-    1.1
+    1.1,
+    0
   ],
   "precos": [
-    3.77,
     3.77,
     3.77,
     3.77,
@@ -42,10 +41,10 @@
     2.81,
     2.7,
     2.74,
+    2.73,
     2.73
   ],
   "variacoes": [
-    0,
     0,
     0,
     0,
@@ -55,35 +54,23 @@
     0.28,
     -0.11,
     0.04,
-    -0.01
+    -0.01,
+    0
   ],
   "medias": [
     1.02,
     1.02,
     1.02,
     1.02,
+    0.97,
+    0.97,
+    1.01,
+    1.01,
     1.02,
-    0.97,
-    0.97,
-    1.01,
-    1.01,
     1.02,
     1.02
   ],
   "partidas": [
-    {
-      "rodada_id": 23,
-      "clube_casa": "Fortaleza",
-      "clube_casa_id": 356,
-      "clube_visitante": "Corinthians",
-      "clube_casa_abrev": "FOR",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2021/09/19/65_0000_Fortaleza-2021.png",
-      "clube_visitante_id": 264,
-      "clube_visitante_abrev": "COR",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/30/Corinthians_65.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 24,
       "clube_casa": "São Paulo",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2017/11/23/Atletico-Mineiro-escudo65px.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 34,
+      "clube_casa": "Fortaleza",
+      "clube_casa_id": 356,
+      "clube_visitante": "Coritiba",
+      "clube_casa_abrev": "FOR",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2021/09/19/65_0000_Fortaleza-2021.png",
+      "clube_visitante_id": 294,
+      "clube_visitante_abrev": "COR",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2017/03/29/coritiba65.png",
+      "placar_oficial_mandante": 3,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2022/05/12/043b82cd8bbcab2108944aa3cf34372e_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2021/09/19/65_0000_Fortaleza-2021.png",
   "scouts": {
-    "rodada_id": 33,
+    "rodada_id": 34,
     "g": 1,
     "a": 1,
     "sg": 0,
@@ -239,9 +239,9 @@
     "pi": 129,
     "pc": 0,
     "ps": 0,
-    "pontos_num": 1.1,
+    "pontos_num": 0,
     "preco_num": 2.73,
-    "variacao_num": -0.01,
+    "variacao_num": 0,
     "media_num": 1.02,
     "jogos_num": 21,
     "posicao_abrev": "mei",

@@ -6,7 +6,6 @@
   "clube_id": 280,
   "posicao": "Meia",
   "rodadas": [
-    23,
     24,
     25,
     26,
@@ -16,10 +15,10 @@
     30,
     31,
     32,
-    33
+    33,
+    34
   ],
   "pontos": [
-    -0.1,
     0,
     0.3,
     0,
@@ -29,15 +28,16 @@
     0,
     0,
     0,
+    0,
     0
   ],
   "precos": [
     7.66,
-    7.66,
     7.63,
     7.63,
     7.63,
     7.63,
+    7.37,
     7.37,
     7.37,
     7.37,
@@ -45,7 +45,6 @@
     7.37
   ],
   "variacoes": [
-    -0.59,
     0,
     -0.03,
     0,
@@ -55,15 +54,16 @@
     0,
     0,
     0,
+    0,
     0
   ],
   "medias": [
     3.42,
-    3.42,
     3.2,
     3.2,
     3.2,
     3.2,
+    3.02,
     3.02,
     3.02,
     3.02,
@@ -71,19 +71,6 @@
     3.02
   ],
   "partidas": [
-    {
-      "rodada_id": 23,
-      "clube_casa": "Bragantino",
-      "clube_casa_id": 280,
-      "clube_visitante": "Ceará",
-      "clube_casa_abrev": "BRA",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2020/01/01/65.png",
-      "clube_visitante_id": 354,
-      "clube_visitante_abrev": "CEA",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/10/10/ceara-65x65.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 24,
       "clube_casa": "Corinthians",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/09/Athletico-PR-65x65.png",
       "placar_oficial_mandante": 4,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 34,
+      "clube_casa": "Botafogo",
+      "clube_casa_id": 263,
+      "clube_visitante": "Bragantino",
+      "clube_casa_abrev": "BOT",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/04/botafogo-65.png",
+      "clube_visitante_id": 280,
+      "clube_visitante_abrev": "BRA",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2020/01/01/65.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2022/05/05/f8aea5d525d74bdbe77382da13d85ed2_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2020/01/01/65.png",
   "scouts": {
-    "rodada_id": 33,
+    "rodada_id": 34,
     "g": 1,
     "a": 2,
     "sg": 0,

@@ -6,7 +6,6 @@
   "clube_id": 266,
   "posicao": "Atacante",
   "rodadas": [
-    23,
     24,
     25,
     26,
@@ -16,10 +15,10 @@
     30,
     31,
     32,
-    33
+    33,
+    34
   ],
   "pontos": [
-    4.1,
     5.6,
     -0.1,
     0,
@@ -29,10 +28,10 @@
     9.5,
     4.2,
     12,
-    4.9
+    4.9,
+    22
   ],
   "precos": [
-    13.93,
     14.13,
     13.32,
     15.95,
@@ -42,10 +41,10 @@
     15.16,
     14.31,
     15.62,
-    14.59
+    14.59,
+    17.34
   ],
   "variacoes": [
-    0.66,
     0.2,
     -0.81,
     2.63,
@@ -55,10 +54,10 @@
     1.63,
     -0.85,
     1.31,
-    -1.03
+    -1.03,
+    2.75
   ],
   "medias": [
-    6.41,
     6.38,
     6.12,
     6.5,
@@ -68,22 +67,10 @@
     6.39,
     6.32,
     6.5,
-    6.45
+    6.45,
+    6.91
   ],
   "partidas": [
-    {
-      "rodada_id": 23,
-      "clube_casa": "Fluminense",
-      "clube_casa_id": 266,
-      "clube_visitante": "Coritiba",
-      "clube_casa_abrev": "FLU",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/fluminense_60x60.png",
-      "clube_visitante_id": 294,
-      "clube_visitante_abrev": "COR",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2017/03/29/coritiba65.png",
-      "placar_oficial_mandante": 5,
-      "placar_oficial_visitante": 2
-    },
     {
       "rodada_id": 24,
       "clube_casa": "Fluminense",
@@ -213,37 +200,50 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/04/botafogo-65.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 34,
+      "clube_casa": "Corinthians",
+      "clube_casa_id": 264,
+      "clube_visitante": "Fluminense",
+      "clube_casa_abrev": "COR",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/30/Corinthians_65.png",
+      "clube_visitante_id": 266,
+      "clube_visitante_abrev": "FLU",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/fluminense_60x60.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2022/04/20/5bb8f223990a3b79975f90d376fb341a_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/fluminense_60x60.png",
   "scouts": {
-    "rodada_id": 33,
-    "g": 18,
+    "rodada_id": 34,
+    "g": 20,
     "a": 2,
     "sg": 0,
-    "fs": 13,
-    "ff": 26,
-    "fd": 29,
+    "fs": 14,
+    "ff": 28,
+    "fd": 30,
     "ft": 3,
     "de": 0,
     "dp": 0,
     "gc": 0,
     "cv": 0,
-    "ca": 0,
+    "ca": 1,
     "pp": 0,
     "gs": 0,
-    "fc": 21,
+    "fc": 23,
     "i": 24,
-    "ds": 4,
-    "pi": 95,
+    "ds": 8,
+    "pi": 100,
     "pc": 0,
     "ps": 1,
-    "pontos_num": 4.9,
-    "preco_num": 14.59,
-    "variacao_num": -1.03,
-    "media_num": 6.45,
-    "jogos_num": 33,
+    "pontos_num": 22,
+    "preco_num": 17.34,
+    "variacao_num": 2.75,
+    "media_num": 6.91,
+    "jogos_num": 34,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }
