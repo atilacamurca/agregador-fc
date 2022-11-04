@@ -6,7 +6,6 @@
   "clube_id": 263,
   "posicao": "Goleiro",
   "rodadas": [
-    24,
     25,
     26,
     27,
@@ -16,14 +15,15 @@
     31,
     32,
     33,
-    34
+    34,
+    35
   ],
   "pontos": [
     0,
     0,
     0,
-    0,
     6,
+    0,
     0,
     0,
     0,
@@ -35,7 +35,7 @@
     4,
     4,
     4,
-    4,
+    4.36,
     4.36,
     4.36,
     4.36,
@@ -48,8 +48,8 @@
     0,
     0,
     0,
-    0,
     0.36,
+    0,
     0,
     0,
     0,
@@ -61,7 +61,7 @@
     0,
     0,
     0,
-    0,
+    6,
     6,
     6,
     6,
@@ -71,19 +71,6 @@
     6
   ],
   "partidas": [
-    {
-      "rodada_id": 24,
-      "clube_casa": "Botafogo",
-      "clube_casa_id": 263,
-      "clube_visitante": "Flamengo",
-      "clube_casa_abrev": "BOT",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/04/botafogo-65.png",
-      "clube_visitante_id": 262,
-      "clube_visitante_abrev": "FLA",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/04/09/Flamengo-65.png",
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 25,
       "clube_casa": "Fortaleza",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2020/01/01/65.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 35,
+      "clube_casa": "Botafogo",
+      "clube_casa_id": 263,
+      "clube_visitante": "Cuiabá",
+      "clube_casa_abrev": "BOT",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/04/botafogo-65.png",
+      "clube_visitante_id": 1371,
+      "clube_visitante_abrev": "CUI",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/16/cuiaba65.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2022/08/17/48fb8d037293092aeada232c3cac8c4e_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/04/botafogo-65.png",
   "scouts": {
-    "rodada_id": 34,
+    "rodada_id": 35,
     "g": 0,
     "a": 0,
     "sg": 1,

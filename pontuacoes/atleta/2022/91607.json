@@ -6,7 +6,6 @@
   "clube_id": 275,
   "posicao": "Atacante",
   "rodadas": [
-    24,
     25,
     26,
     27,
@@ -16,10 +15,10 @@
     31,
     32,
     33,
-    34
+    34,
+    35
   ],
   "pontos": [
-    9.6,
     0.5,
     0,
     0.4,
@@ -29,10 +28,10 @@
     -1.1,
     0,
     8.5,
-    0
+    0,
+    19.8
   ],
   "precos": [
-    12.13,
     10.85,
     12.71,
     10.99,
@@ -42,10 +41,10 @@
     10.66,
     10.66,
     12.1,
-    12.1
+    12.1,
+    14.01
   ],
   "variacoes": [
-    1.32,
     -1.28,
     1.86,
     -1.72,
@@ -55,10 +54,10 @@
     -1.74,
     0,
     1.44,
-    0
+    0,
+    1.91
   ],
   "medias": [
-    5.45,
     5.2,
     5.52,
     5.29,
@@ -68,22 +67,10 @@
     4.96,
     4.96,
     5.09,
-    5.09
+    5.09,
+    5.62
   ],
   "partidas": [
-    {
-      "rodada_id": 24,
-      "clube_casa": "Fluminense",
-      "clube_casa_id": 266,
-      "clube_visitante": "Palmeiras",
-      "clube_casa_abrev": "FLU",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/fluminense_60x60.png",
-      "clube_visitante_id": 275,
-      "clube_visitante_abrev": "PAL",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 25,
       "clube_casa": "Bragantino",
@@ -213,17 +200,30 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 3
+    },
+    {
+      "rodada_id": 35,
+      "clube_casa": "Palmeiras",
+      "clube_casa_id": 275,
+      "clube_visitante": "Fortaleza",
+      "clube_casa_abrev": "PAL",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
+      "clube_visitante_id": 356,
+      "clube_visitante_abrev": "FOR",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2021/09/19/65_0000_Fortaleza-2021.png",
+      "placar_oficial_mandante": 4,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2022/02/21/a09a417ce482ea35a6c54e89437850d4_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
   "scouts": {
-    "rodada_id": 34,
-    "g": 10,
+    "rodada_id": 35,
+    "g": 12,
     "a": 1,
     "sg": 0,
     "fs": 31,
-    "ff": 31,
+    "ff": 33,
     "fd": 13,
     "ft": 0,
     "de": 0,
@@ -233,17 +233,17 @@
     "ca": 2,
     "pp": 0,
     "gs": 0,
-    "fc": 32,
-    "i": 26,
-    "ds": 16,
-    "pi": 91,
+    "fc": 34,
+    "i": 28,
+    "ds": 19,
+    "pi": 97,
     "pc": 0,
     "ps": 1,
-    "pontos_num": 0,
-    "preco_num": 12.1,
-    "variacao_num": 0,
-    "media_num": 5.09,
-    "jogos_num": 27,
+    "pontos_num": 19.8,
+    "preco_num": 14.01,
+    "variacao_num": 1.91,
+    "media_num": 5.62,
+    "jogos_num": 28,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }

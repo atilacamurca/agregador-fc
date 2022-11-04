@@ -6,7 +6,6 @@
   "clube_id": 264,
   "posicao": "Meia",
   "rodadas": [
-    24,
     25,
     26,
     27,
@@ -16,10 +15,10 @@
     31,
     32,
     33,
-    34
+    34,
+    35
   ],
   "pontos": [
-    4,
     0,
     0,
     1.6,
@@ -29,10 +28,10 @@
     0,
     0,
     0,
-    0.2
+    0.2,
+    2.3
   ],
   "precos": [
-    7.02,
     7.02,
     6.46,
     6.65,
@@ -42,10 +41,10 @@
     8.47,
     8.47,
     8.47,
-    6.57
+    6.57,
+    6.92
   ],
   "variacoes": [
-    0.62,
     0,
     -0.56,
     0.19,
@@ -55,10 +54,10 @@
     0,
     0,
     0,
-    -1.9
+    -1.9,
+    0.35
   ],
   "medias": [
-    3.23,
     3.23,
     3.06,
     2.97,
@@ -68,22 +67,10 @@
     3.5,
     3.5,
     3.5,
-    3.34
+    3.34,
+    3.29
   ],
   "partidas": [
-    {
-      "rodada_id": 24,
-      "clube_casa": "Corinthians",
-      "clube_casa_id": 264,
-      "clube_visitante": "Bragantino",
-      "clube_casa_abrev": "COR",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/30/Corinthians_65.png",
-      "clube_visitante_id": 280,
-      "clube_visitante_abrev": "BRA",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2020/01/01/65.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 25,
       "clube_casa": "Corinthians",
@@ -213,18 +200,31 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/fluminense_60x60.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 35,
+      "clube_casa": "Flamengo",
+      "clube_casa_id": 262,
+      "clube_visitante": "Corinthians",
+      "clube_casa_abrev": "FLA",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/04/09/Flamengo-65.png",
+      "clube_visitante_id": 264,
+      "clube_visitante_abrev": "COR",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/30/Corinthians_65.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2022/04/27/df30c3d9066a2e16c6625e3aa0a64436_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/30/Corinthians_65.png",
   "scouts": {
-    "rodada_id": 34,
+    "rodada_id": 35,
     "g": 1,
     "a": 3,
     "sg": 0,
-    "fs": 19,
+    "fs": 20,
     "ff": 10,
-    "fd": 7,
+    "fd": 8,
     "ft": 0,
     "de": 0,
     "dp": 0,
@@ -233,17 +233,17 @@
     "ca": 0,
     "pp": 0,
     "gs": 0,
-    "fc": 12,
+    "fc": 13,
     "i": 1,
-    "ds": 29,
-    "pi": 133,
+    "ds": 30,
+    "pi": 136,
     "pc": 0,
     "ps": 0,
-    "pontos_num": 0.2,
-    "preco_num": 6.57,
-    "variacao_num": -1.9,
-    "media_num": 3.34,
-    "jogos_num": 20,
+    "pontos_num": 2.3,
+    "preco_num": 6.92,
+    "variacao_num": 0.35,
+    "media_num": 3.29,
+    "jogos_num": 21,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }

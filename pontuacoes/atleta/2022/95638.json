@@ -6,7 +6,6 @@
   "clube_id": 356,
   "posicao": "Zagueiro",
   "rodadas": [
-    24,
     25,
     26,
     27,
@@ -16,10 +15,10 @@
     31,
     32,
     33,
-    34
+    34,
+    35
   ],
   "pontos": [
-    4.5,
     1.5,
     0,
     0.7,
@@ -29,10 +28,10 @@
     0,
     0,
     6.4,
-    -0.6
+    -0.6,
+    1
   ],
   "precos": [
-    8.08,
     7.7,
     7.55,
     7.51,
@@ -42,10 +41,10 @@
     7.59,
     7.59,
     8.17,
-    7.02
+    7.02,
+    7.26
   ],
   "variacoes": [
-    0.07,
     -0.38,
     -0.15,
     -0.04,
@@ -55,10 +54,10 @@
     0,
     0,
     0.58,
-    -1.15
+    -1.15,
+    0.24
   ],
   "medias": [
-    4.13,
     4.01,
     3.88,
     3.75,
@@ -68,22 +67,10 @@
     3.54,
     3.54,
     3.65,
-    3.5
+    3.5,
+    3.41
   ],
   "partidas": [
-    {
-      "rodada_id": 24,
-      "clube_casa": "São Paulo",
-      "clube_casa_id": 276,
-      "clube_visitante": "Fortaleza",
-      "clube_casa_abrev": "SAO",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/sao_paulo_60x60.png",
-      "clube_visitante_id": 356,
-      "clube_visitante_abrev": "FOR",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2021/09/19/65_0000_Fortaleza-2021.png",
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 25,
       "clube_casa": "Fortaleza",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2017/03/29/coritiba65.png",
       "placar_oficial_mandante": 3,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 35,
+      "clube_casa": "Palmeiras",
+      "clube_casa_id": 275,
+      "clube_visitante": "Fortaleza",
+      "clube_casa_abrev": "PAL",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
+      "clube_visitante_id": 356,
+      "clube_visitante_abrev": "FOR",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2021/09/19/65_0000_Fortaleza-2021.png",
+      "placar_oficial_mandante": 4,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2022/05/12/5021e3ea5f8c3db816a9537e53808b5a_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2021/09/19/65_0000_Fortaleza-2021.png",
   "scouts": {
-    "rodada_id": 34,
+    "rodada_id": 35,
     "g": 0,
     "a": 1,
     "sg": 10,
@@ -235,15 +235,15 @@
     "gs": 0,
     "fc": 19,
     "i": 0,
-    "ds": 36,
-    "pi": 85,
+    "ds": 37,
+    "pi": 87,
     "pc": 2,
     "ps": 0,
-    "pontos_num": -0.6,
-    "preco_num": 7.02,
-    "variacao_num": -1.15,
-    "media_num": 3.5,
-    "jogos_num": 28,
+    "pontos_num": 1,
+    "preco_num": 7.26,
+    "variacao_num": 0.24,
+    "media_num": 3.41,
+    "jogos_num": 29,
     "posicao_abrev": "zag",
     "posicao": "Zagueiro"
   }
