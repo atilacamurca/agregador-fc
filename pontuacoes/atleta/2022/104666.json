@@ -6,7 +6,6 @@
   "clube_id": 356,
   "posicao": "Atacante",
   "rodadas": [
-    25,
     26,
     27,
     28,
@@ -16,10 +15,10 @@
     32,
     33,
     34,
-    35
+    35,
+    36
   ],
   "pontos": [
-    7.1,
     0,
     -0.6,
     4.6,
@@ -29,10 +28,10 @@
     -0.3,
     0.3,
     2.8,
-    0
+    0,
+    3.5
   ],
   "precos": [
-    7.78,
     6.56,
     6.51,
     7.19,
@@ -42,10 +41,10 @@
     6.48,
     6.53,
     6.86,
-    6.86
+    6.86,
+    7.05
   ],
   "variacoes": [
-    0.32,
     -1.22,
     -0.05,
     0.68,
@@ -55,10 +54,10 @@
     -0.44,
     0.05,
     0.33,
-    0
+    0,
+    0.19
   ],
   "medias": [
-    4.25,
     4.06,
     3.88,
     3.91,
@@ -68,22 +67,10 @@
     3.55,
     3.45,
     3.43,
+    3.43,
     3.43
   ],
   "partidas": [
-    {
-      "rodada_id": 25,
-      "clube_casa": "Fortaleza",
-      "clube_casa_id": 356,
-      "clube_visitante": "Botafogo",
-      "clube_casa_abrev": "FOR",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2021/09/19/65_0000_Fortaleza-2021.png",
-      "clube_visitante_id": 263,
-      "clube_visitante_abrev": "BOT",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/04/botafogo-65.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 3
-    },
     {
       "rodada_id": 26,
       "clube_casa": "Fluminense",
@@ -213,17 +200,30 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2021/09/19/65_0000_Fortaleza-2021.png",
       "placar_oficial_mandante": 4,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 36,
+      "clube_casa": "Fortaleza",
+      "clube_casa_id": 356,
+      "clube_visitante": "Atlético-GO",
+      "clube_casa_abrev": "FOR",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2021/09/19/65_0000_Fortaleza-2021.png",
+      "clube_visitante_id": 373,
+      "clube_visitante_abrev": "ATL",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2020/07/02/atletico-go-2020-65.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2022/05/12/f14daa299b1fbfb010af7e0468342ccd_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2021/09/19/65_0000_Fortaleza-2021.png",
   "scouts": {
-    "rodada_id": 35,
+    "rodada_id": 36,
     "g": 6,
     "a": 3,
     "sg": 0,
-    "fs": 18,
-    "ff": 14,
+    "fs": 20,
+    "ff": 16,
     "fd": 15,
     "ft": 0,
     "de": 0,
@@ -235,15 +235,15 @@
     "gs": 0,
     "fc": 10,
     "i": 5,
-    "ds": 23,
-    "pi": 123,
+    "ds": 24,
+    "pi": 126,
     "pc": 0,
     "ps": 0,
-    "pontos_num": 0,
-    "preco_num": 6.86,
-    "variacao_num": 0,
+    "pontos_num": 3.5,
+    "preco_num": 7.05,
+    "variacao_num": 0.19,
     "media_num": 3.43,
-    "jogos_num": 33,
+    "jogos_num": 34,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }

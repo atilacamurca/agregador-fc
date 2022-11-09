@@ -6,7 +6,6 @@
   "clube_id": 282,
   "posicao": "Lateral",
   "rodadas": [
-    25,
     26,
     27,
     28,
@@ -16,10 +15,10 @@
     32,
     33,
     34,
-    35
+    35,
+    36
   ],
   "pontos": [
-    0,
     0,
     3.4,
     0,
@@ -29,10 +28,10 @@
     2.5,
     7.3,
     10.6,
-    -0.6
+    -0.6,
+    0
   ],
   "precos": [
-    8.94,
     8.94,
     8.49,
     8.49,
@@ -42,10 +41,10 @@
     8.52,
     9.33,
     9.9,
+    8.24,
     8.24
   ],
   "variacoes": [
-    0,
     0,
     -0.45,
     0,
@@ -55,10 +54,10 @@
     -0.29,
     0.81,
     0.57,
-    -1.66
+    -1.66,
+    0
   ],
   "medias": [
-    4.79,
     4.79,
     4.67,
     4.67,
@@ -68,22 +67,10 @@
     4.86,
     5,
     5.31,
+    5,
     5
   ],
   "partidas": [
-    {
-      "rodada_id": 25,
-      "clube_casa": "Atlético-GO",
-      "clube_casa_id": 373,
-      "clube_visitante": "Atlético-MG",
-      "clube_casa_abrev": "ATL",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2020/07/02/atletico-go-2020-65.png",
-      "clube_visitante_id": 282,
-      "clube_visitante_abrev": "ATL",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2017/11/23/Atletico-Mineiro-escudo65px.png",
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 2
-    },
     {
       "rodada_id": 26,
       "clube_casa": "Atlético-MG",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2017/11/23/Atletico-Mineiro-escudo65px.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 36,
+      "clube_casa": "Atlético-MG",
+      "clube_casa_id": 282,
+      "clube_visitante": "Botafogo",
+      "clube_casa_abrev": "ATL",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2017/11/23/Atletico-Mineiro-escudo65px.png",
+      "clube_visitante_id": 263,
+      "clube_visitante_abrev": "BOT",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/04/botafogo-65.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2022/07/15/627768175034855e87f15e0a373b34b8_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2017/11/23/Atletico-Mineiro-escudo65px.png",
   "scouts": {
-    "rodada_id": 35,
+    "rodada_id": 36,
     "g": 0,
     "a": 1,
     "sg": 7,
@@ -239,9 +239,9 @@
     "pi": 171,
     "pc": 0,
     "ps": 0,
-    "pontos_num": -0.6,
+    "pontos_num": 0,
     "preco_num": 8.24,
-    "variacao_num": -1.66,
+    "variacao_num": 0,
     "media_num": 5,
     "jogos_num": 19,
     "posicao_abrev": "lat",

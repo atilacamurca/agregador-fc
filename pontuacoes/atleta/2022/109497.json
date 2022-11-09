@@ -6,7 +6,6 @@
   "clube_id": 277,
   "posicao": "Atacante",
   "rodadas": [
-    25,
     26,
     27,
     28,
@@ -16,10 +15,10 @@
     32,
     33,
     34,
-    35
+    35,
+    36
   ],
   "pontos": [
-    3.8,
     0,
     1.5,
     2.7,
@@ -29,10 +28,10 @@
     1.5,
     0.2,
     0,
-    14.3
+    14.3,
+    9.9
   ],
   "precos": [
-    12.68,
     13.58,
     12.44,
     12.33,
@@ -42,10 +41,10 @@
     12.49,
     12.23,
     12.23,
-    14.39
+    14.39,
+    13.98
   ],
   "variacoes": [
-    0.41,
     0.9,
     -1.14,
     -0.11,
@@ -55,10 +54,10 @@
     -1.4,
     -0.26,
     0,
-    2.16
+    2.16,
+    -0.41
   ],
   "medias": [
-    5.53,
     5.71,
     5.53,
     5.41,
@@ -68,22 +67,10 @@
     5.47,
     5.29,
     5.29,
-    5.59
+    5.59,
+    5.73
   ],
   "partidas": [
-    {
-      "rodada_id": 25,
-      "clube_casa": "Santos",
-      "clube_casa_id": 277,
-      "clube_visitante": "Goiás",
-      "clube_casa_abrev": "SAN",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/santos_60x60.png",
-      "clube_visitante_id": 290,
-      "clube_visitante_abrev": "GOI",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2021/03/01/goias-65.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 2
-    },
     {
       "rodada_id": 26,
       "clube_casa": "Ceará",
@@ -213,13 +200,26 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/santos_60x60.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 3
+    },
+    {
+      "rodada_id": 36,
+      "clube_casa": "Santos",
+      "clube_casa_id": 277,
+      "clube_visitante": "Avaí",
+      "clube_casa_abrev": "SAN",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/santos_60x60.png",
+      "clube_visitante_id": 314,
+      "clube_visitante_abrev": "AVA",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/09/04/escudo-avai-65x65.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://storage.googleapis.com/bkt-gglobo-sde-hdg-prd-sdeadmin_prod/media/person_role/2022/03/03/70c0680cfe4346861b4db5ebeba1fdbd_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/santos_60x60.png",
   "scouts": {
-    "rodada_id": 35,
-    "g": 11,
+    "rodada_id": 36,
+    "g": 12,
     "a": 2,
     "sg": 0,
     "fs": 77,
@@ -235,15 +235,15 @@
     "gs": 0,
     "fc": 34,
     "i": 22,
-    "ds": 8,
-    "pi": 79,
+    "ds": 9,
+    "pi": 82,
     "pc": 0,
-    "ps": 0,
-    "pontos_num": 14.3,
-    "preco_num": 14.39,
-    "variacao_num": 2.16,
-    "media_num": 5.59,
-    "jogos_num": 30,
+    "ps": 1,
+    "pontos_num": 9.9,
+    "preco_num": 13.98,
+    "variacao_num": -0.41,
+    "media_num": 5.73,
+    "jogos_num": 31,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }

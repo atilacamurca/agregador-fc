@@ -6,7 +6,6 @@
   "clube_id": 290,
   "posicao": "Zagueiro",
   "rodadas": [
-    25,
     26,
     27,
     28,
@@ -16,7 +15,8 @@
     32,
     33,
     34,
-    35
+    35,
+    36
   ],
   "pontos": [
     0,
@@ -28,8 +28,8 @@
     0,
     0,
     0,
-    0,
-    6.2
+    6.2,
+    0
   ],
   "precos": [
     2.48,
@@ -41,7 +41,7 @@
     2.48,
     2.48,
     2.48,
-    2.48,
+    3.25,
     3.25
   ],
   "variacoes": [
@@ -54,8 +54,8 @@
     0,
     0,
     0,
-    0,
-    0.77
+    0.77,
+    0
   ],
   "medias": [
     1.82,
@@ -67,23 +67,10 @@
     1.82,
     1.82,
     1.82,
-    1.82,
+    2.45,
     2.45
   ],
   "partidas": [
-    {
-      "rodada_id": 25,
-      "clube_casa": "Santos",
-      "clube_casa_id": 277,
-      "clube_visitante": "Goiás",
-      "clube_casa_abrev": "SAN",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/santos_60x60.png",
-      "clube_visitante_id": 290,
-      "clube_visitante_abrev": "GOI",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2021/03/01/goias-65.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 2
-    },
     {
       "rodada_id": 26,
       "clube_casa": "Goiás",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2021/03/01/goias-65.png",
       "placar_oficial_mandante": 3,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 36,
+      "clube_casa": "Goiás",
+      "clube_casa_id": 290,
+      "clube_visitante": "Juventude",
+      "clube_casa_abrev": "GOI",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2021/03/01/goias-65.png",
+      "clube_visitante_id": 286,
+      "clube_visitante_abrev": "JUV",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2021/04/29/juventude65.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2022/04/05/9fcc839762fbeec9574032b56e3d8717_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2021/03/01/goias-65.png",
   "scouts": {
-    "rodada_id": 35,
+    "rodada_id": 36,
     "g": 1,
     "a": 0,
     "sg": 2,
@@ -239,9 +239,9 @@
     "pi": 33,
     "pc": 3,
     "ps": 0,
-    "pontos_num": 6.2,
+    "pontos_num": 0,
     "preco_num": 3.25,
-    "variacao_num": 0.77,
+    "variacao_num": 0,
     "media_num": 2.45,
     "jogos_num": 7,
     "posicao_abrev": "zag",

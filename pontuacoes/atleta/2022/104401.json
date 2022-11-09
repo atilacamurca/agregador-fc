@@ -6,7 +6,6 @@
   "clube_id": 286,
   "posicao": "Zagueiro",
   "rodadas": [
-    25,
     26,
     27,
     28,
@@ -16,10 +15,10 @@
     32,
     33,
     34,
-    35
+    35,
+    36
   ],
   "pontos": [
-    0.6,
     0,
     -1.3,
     1.5,
@@ -29,10 +28,10 @@
     0.8,
     0.9,
     0,
-    1.5
+    1.5,
+    1.4
   ],
   "precos": [
-    4.15,
     4.48,
     3.84,
     4.18,
@@ -42,10 +41,10 @@
     4,
     4.01,
     4.01,
-    4.06
+    4.06,
+    4.09
   ],
   "variacoes": [
-    -0.22,
     0.33,
     -0.64,
     0.34,
@@ -55,10 +54,10 @@
     0.18,
     0.01,
     0,
-    0.05
+    0.05,
+    0.03
   ],
   "medias": [
-    3.6,
     3.51,
     3.07,
     2.94,
@@ -68,22 +67,10 @@
     2.51,
     2.4,
     2.4,
-    2.34
+    2.34,
+    2.28
   ],
   "partidas": [
-    {
-      "rodada_id": 25,
-      "clube_casa": "Juventude",
-      "clube_casa_id": 286,
-      "clube_visitante": "Avaí",
-      "clube_casa_abrev": "JUV",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2021/04/29/juventude65.png",
-      "clube_visitante_id": 314,
-      "clube_visitante_abrev": "AVA",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/09/04/escudo-avai-65x65.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 26,
       "clube_casa": "Palmeiras",
@@ -213,18 +200,31 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2017/03/29/coritiba65.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 36,
+      "clube_casa": "Goiás",
+      "clube_casa_id": 290,
+      "clube_visitante": "Juventude",
+      "clube_casa_abrev": "GOI",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2021/03/01/goias-65.png",
+      "clube_visitante_id": 286,
+      "clube_visitante_abrev": "JUV",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2021/04/29/juventude65.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2022/04/13/e5945941323ae30dc69b5ecb9ea3cfda_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2021/04/29/juventude65.png",
   "scouts": {
-    "rodada_id": 35,
+    "rodada_id": 36,
     "g": 1,
     "a": 0,
     "sg": 1,
     "fs": 15,
     "ff": 8,
-    "fd": 2,
+    "fd": 3,
     "ft": 0,
     "de": 0,
     "dp": 0,
@@ -233,17 +233,17 @@
     "ca": 7,
     "pp": 0,
     "gs": 0,
-    "fc": 12,
+    "fc": 14,
     "i": 0,
-    "ds": 25,
-    "pi": 71,
+    "ds": 26,
+    "pi": 75,
     "pc": 1,
     "ps": 0,
-    "pontos_num": 1.5,
-    "preco_num": 4.06,
-    "variacao_num": 0.05,
-    "media_num": 2.34,
-    "jogos_num": 16,
+    "pontos_num": 1.4,
+    "preco_num": 4.09,
+    "variacao_num": 0.03,
+    "media_num": 2.28,
+    "jogos_num": 17,
     "posicao_abrev": "zag",
     "posicao": "Zagueiro"
   }

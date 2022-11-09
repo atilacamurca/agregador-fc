@@ -6,7 +6,6 @@
   "clube_id": 354,
   "posicao": "Zagueiro",
   "rodadas": [
-    25,
     26,
     27,
     28,
@@ -16,10 +15,10 @@
     32,
     33,
     34,
-    35
+    35,
+    36
   ],
   "pontos": [
-    0.9,
     0,
     -1.8,
     0,
@@ -29,10 +28,10 @@
     3,
     1.2,
     -0.6,
+    0,
     0
   ],
   "precos": [
-    3.42,
     3.33,
     2.93,
     2.93,
@@ -42,10 +41,10 @@
     3.73,
     3.47,
     3.14,
+    3.14,
     3.14
   ],
   "variacoes": [
-    0.12,
     -0.09,
     -0.4,
     0,
@@ -55,10 +54,10 @@
     -0.37,
     -0.26,
     -0.33,
+    0,
     0
   ],
   "medias": [
-    1.42,
     1.36,
     1.17,
     1.17,
@@ -68,22 +67,10 @@
     1.46,
     1.45,
     1.36,
+    1.36,
     1.36
   ],
   "partidas": [
-    {
-      "rodada_id": 25,
-      "clube_casa": "Flamengo",
-      "clube_casa_id": 262,
-      "clube_visitante": "Ceará",
-      "clube_casa_abrev": "FLA",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/04/09/Flamengo-65.png",
-      "clube_visitante_id": 354,
-      "clube_visitante_abrev": "CEA",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/10/10/ceara-65x65.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 26,
       "clube_casa": "Ceará",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/fluminense_60x60.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 36,
+      "clube_casa": "Corinthians",
+      "clube_casa_id": 264,
+      "clube_visitante": "Ceará",
+      "clube_casa_abrev": "COR",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/30/Corinthians_65.png",
+      "clube_visitante_id": 354,
+      "clube_visitante_abrev": "CEA",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/10/10/ceara-65x65.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2022/02/22/6e64fcfbd8fd5ae5f3a9f615b801c4bd_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2019/10/10/ceara-65x65.png",
   "scouts": {
-    "rodada_id": 35,
+    "rodada_id": 36,
     "g": 0,
     "a": 0,
     "sg": 4,

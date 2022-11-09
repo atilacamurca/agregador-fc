@@ -6,7 +6,6 @@
   "clube_id": 354,
   "posicao": "Atacante",
   "rodadas": [
-    25,
     26,
     27,
     28,
@@ -16,10 +15,10 @@
     32,
     33,
     34,
-    35
+    35,
+    36
   ],
   "pontos": [
-    5.3,
     0,
     -0.1,
     1.4,
@@ -29,10 +28,10 @@
     8,
     -0.4,
     0,
-    0
+    0,
+    3
   ],
   "precos": [
-    5.38,
     5.38,
     4.54,
     4.66,
@@ -42,10 +41,10 @@
     5.74,
     4.47,
     4.47,
-    4.47
+    4.47,
+    4.97
   ],
   "variacoes": [
-    0.64,
     0,
     -0.84,
     0.12,
@@ -55,10 +54,10 @@
     1.01,
     -1.27,
     0,
-    0
+    0,
+    0.5
   ],
   "medias": [
-    3.18,
     3.18,
     2.71,
     2.55,
@@ -68,22 +67,10 @@
     2.44,
     2.22,
     2.22,
-    2.22
+    2.22,
+    2.28
   ],
   "partidas": [
-    {
-      "rodada_id": 25,
-      "clube_casa": "Flamengo",
-      "clube_casa_id": 262,
-      "clube_visitante": "Ceará",
-      "clube_casa_abrev": "FLA",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/04/09/Flamengo-65.png",
-      "clube_visitante_id": 354,
-      "clube_visitante_abrev": "CEA",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/10/10/ceara-65x65.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 26,
       "clube_casa": "Ceará",
@@ -213,18 +200,31 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/fluminense_60x60.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 36,
+      "clube_casa": "Corinthians",
+      "clube_casa_id": 264,
+      "clube_visitante": "Ceará",
+      "clube_casa_abrev": "COR",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/30/Corinthians_65.png",
+      "clube_visitante_id": 354,
+      "clube_visitante_abrev": "CEA",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/10/10/ceara-65x65.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2022/08/11/f19c59d4d6626b101ff291f3e852072d_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2019/10/10/ceara-65x65.png",
   "scouts": {
-    "rodada_id": 35,
+    "rodada_id": 36,
     "g": 3,
     "a": 0,
     "sg": 0,
-    "fs": 14,
+    "fs": 15,
     "ff": 6,
-    "fd": 7,
+    "fd": 9,
     "ft": 0,
     "de": 0,
     "dp": 0,
@@ -233,17 +233,17 @@
     "ca": 2,
     "pp": 1,
     "gs": 0,
-    "fc": 14,
-    "i": 7,
-    "ds": 3,
-    "pi": 51,
+    "fc": 16,
+    "i": 8,
+    "ds": 4,
+    "pi": 55,
     "pc": 0,
     "ps": 0,
-    "pontos_num": 0,
-    "preco_num": 4.47,
-    "variacao_num": 0,
-    "media_num": 2.22,
-    "jogos_num": 13,
+    "pontos_num": 3,
+    "preco_num": 4.97,
+    "variacao_num": 0.5,
+    "media_num": 2.28,
+    "jogos_num": 14,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }
