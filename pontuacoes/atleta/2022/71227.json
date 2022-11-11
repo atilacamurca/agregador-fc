@@ -6,7 +6,6 @@
   "clube_id": 277,
   "posicao": "Zagueiro",
   "rodadas": [
-    26,
     27,
     28,
     29,
@@ -16,10 +15,10 @@
     33,
     34,
     35,
-    36
+    36,
+    37
   ],
   "pontos": [
-    0,
     0.9,
     4.9,
     0,
@@ -29,10 +28,10 @@
     0,
     0,
     0,
-    0
+    0,
+    1.5
   ],
   "precos": [
-    11.25,
     11.29,
     11.67,
     11.67,
@@ -42,10 +41,10 @@
     11.67,
     11.67,
     11.67,
-    11.67
+    11.67,
+    10.67
   ],
   "variacoes": [
-    -0.92,
     0.04,
     0.38,
     0,
@@ -55,10 +54,10 @@
     0,
     0,
     0,
-    0
+    0,
+    -1
   ],
   "medias": [
-    3.8,
     3.65,
     3.71,
     3.71,
@@ -68,22 +67,10 @@
     3.71,
     3.71,
     3.71,
-    3.71
+    3.71,
+    3.6
   ],
   "partidas": [
-    {
-      "rodada_id": 26,
-      "clube_casa": "Ceará",
-      "clube_casa_id": 354,
-      "clube_visitante": "Santos",
-      "clube_casa_abrev": "CEA",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/10/10/ceara-65x65.png",
-      "clube_visitante_id": 277,
-      "clube_visitante_abrev": "SAN",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/santos_60x60.png",
-      "placar_oficial_mandante": 2,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 27,
       "clube_casa": "Palmeiras",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/09/04/escudo-avai-65x65.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 37,
+      "clube_casa": "Botafogo",
+      "clube_casa_id": 263,
+      "clube_visitante": "Santos",
+      "clube_casa_abrev": "BOT",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/04/botafogo-65.png",
+      "clube_visitante_id": 277,
+      "clube_visitante_abrev": "SAN",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/santos_60x60.png",
+      "placar_oficial_mandante": 3,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2022/03/14/d137592918a80391170a5d4fdc021480_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/santos_60x60.png",
   "scouts": {
-    "rodada_id": 36,
+    "rodada_id": 37,
     "g": 0,
     "a": 1,
     "sg": 7,
@@ -235,15 +235,15 @@
     "gs": 0,
     "fc": 6,
     "i": 2,
-    "ds": 31,
-    "pi": 119,
+    "ds": 33,
+    "pi": 128,
     "pc": 0,
     "ps": 0,
-    "pontos_num": 0,
-    "preco_num": 11.67,
-    "variacao_num": 0,
-    "media_num": 3.71,
-    "jogos_num": 20,
+    "pontos_num": 1.5,
+    "preco_num": 10.67,
+    "variacao_num": -1,
+    "media_num": 3.6,
+    "jogos_num": 21,
     "posicao_abrev": "zag",
     "posicao": "Zagueiro"
   }

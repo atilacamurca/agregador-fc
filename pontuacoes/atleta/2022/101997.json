@@ -6,7 +6,6 @@
   "clube_id": 285,
   "posicao": "Atacante",
   "rodadas": [
-    26,
     27,
     28,
     29,
@@ -16,10 +15,10 @@
     33,
     34,
     35,
-    36
+    36,
+    37
   ],
   "pontos": [
-    0,
     0.9,
     -0.5,
     4.3,
@@ -29,10 +28,10 @@
     0,
     3,
     0,
-    0.8
+    0.8,
+    0
   ],
   "precos": [
-    4.88,
     4.8,
     4.36,
     5.25,
@@ -42,10 +41,10 @@
     4.89,
     5.33,
     4.86,
+    4.98,
     4.98
   ],
   "variacoes": [
-    0,
     -0.08,
     -0.44,
     0.89,
@@ -55,10 +54,10 @@
     -1.27,
     0.44,
     -0.47,
-    0.12
+    0.12,
+    0
   ],
   "medias": [
-    1.08,
     1.05,
     0.86,
     1.24,
@@ -68,22 +67,10 @@
     1.8,
     1.89,
     1.75,
+    1.69,
     1.69
   ],
   "partidas": [
-    {
-      "rodada_id": 26,
-      "clube_casa": "Internacional",
-      "clube_casa_id": 285,
-      "clube_visitante": "Cuiabá",
-      "clube_casa_abrev": "INT",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/03/inter65.png",
-      "clube_visitante_id": 1371,
-      "clube_visitante_abrev": "CUI",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/16/cuiaba65.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 27,
       "clube_casa": "Atlético-GO",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/09/Athletico-PR-65x65.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 37,
+      "clube_casa": "São Paulo",
+      "clube_casa_id": 276,
+      "clube_visitante": "Internacional",
+      "clube_casa_abrev": "SAO",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/sao_paulo_60x60.png",
+      "clube_visitante_id": 285,
+      "clube_visitante_abrev": "INT",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/03/inter65.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2022/07/29/d2bcddb0a2e0d7cc5c363b5a72f8c39d_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/03/inter65.png",
   "scouts": {
-    "rodada_id": 36,
+    "rodada_id": 37,
     "g": 1,
     "a": 0,
     "sg": 0,
@@ -239,9 +239,9 @@
     "pi": 11,
     "pc": 0,
     "ps": 0,
-    "pontos_num": 0.8,
+    "pontos_num": 0,
     "preco_num": 4.98,
-    "variacao_num": 0.12,
+    "variacao_num": 0,
     "media_num": 1.69,
     "jogos_num": 15,
     "posicao_abrev": "ata",

@@ -6,7 +6,6 @@
   "clube_id": 290,
   "posicao": "Meia",
   "rodadas": [
-    26,
     27,
     28,
     29,
@@ -16,10 +15,10 @@
     33,
     34,
     35,
-    36
+    36,
+    37
   ],
   "pontos": [
-    0,
     -1,
     0.2,
     0,
@@ -29,10 +28,10 @@
     0,
     -0.4,
     0,
-    1.1
+    1.1,
+    -2.8
   ],
   "precos": [
-    3.32,
     3.13,
     3.22,
     3.22,
@@ -42,10 +41,10 @@
     3.41,
     3.13,
     3.13,
-    3.38
+    3.38,
+    2.67
   ],
   "variacoes": [
-    -0.2,
     -0.19,
     0.09,
     0,
@@ -55,10 +54,10 @@
     0,
     -0.28,
     0,
-    0.25
+    0.25,
+    -0.71
   ],
   "medias": [
-    1.67,
     1.62,
     1.55,
     1.55,
@@ -68,22 +67,10 @@
     1.66,
     1.57,
     1.57,
-    1.55
+    1.55,
+    1.38
   ],
   "partidas": [
-    {
-      "rodada_id": 26,
-      "clube_casa": "Goiás",
-      "clube_casa_id": 290,
-      "clube_visitante": "Flamengo",
-      "clube_casa_abrev": "GOI",
-      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2021/03/01/goias-65.png",
-      "clube_visitante_id": 262,
-      "clube_visitante_abrev": "FLA",
-      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2018/04/09/Flamengo-65.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 27,
       "clube_casa": "Bragantino",
@@ -213,37 +200,50 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2021/04/29/juventude65.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 37,
+      "clube_casa": "Fluminense",
+      "clube_casa_id": 266,
+      "clube_visitante": "Goiás",
+      "clube_casa_abrev": "FLU",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/fluminense_60x60.png",
+      "clube_visitante_id": 290,
+      "clube_visitante_abrev": "GOI",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2021/03/01/goias-65.png",
+      "placar_oficial_mandante": 3,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2022/03/10/4fc5c3b6693e46bf2e956854bbf5da76_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2021/03/01/goias-65.png",
   "scouts": {
-    "rodada_id": 36,
+    "rodada_id": 37,
     "g": 0,
     "a": 2,
     "sg": 0,
-    "fs": 13,
-    "ff": 11,
+    "fs": 14,
+    "ff": 12,
     "fd": 10,
     "ft": 0,
     "de": 0,
     "dp": 0,
     "gc": 0,
-    "cv": 0,
+    "cv": 1,
     "ca": 10,
     "pp": 0,
     "gs": 0,
-    "fc": 19,
+    "fc": 20,
     "i": 0,
     "ds": 22,
-    "pi": 100,
+    "pi": 108,
     "pc": 1,
     "ps": 0,
-    "pontos_num": 1.1,
-    "preco_num": 3.38,
-    "variacao_num": 0.25,
-    "media_num": 1.55,
-    "jogos_num": 24,
+    "pontos_num": -2.8,
+    "preco_num": 2.67,
+    "variacao_num": -0.71,
+    "media_num": 1.38,
+    "jogos_num": 25,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }
