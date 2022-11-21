@@ -16,7 +16,8 @@
     34,
     35,
     36,
-    37
+    37,
+    38
   ],
   "pontos": [
     0,
@@ -29,6 +30,7 @@
     0,
     0,
     6,
+    5,
     5
   ],
   "precos": [
@@ -42,7 +44,8 @@
     4.36,
     4.36,
     4.58,
-    4.52
+    4.52,
+    4.68
   ],
   "variacoes": [
     0,
@@ -55,7 +58,8 @@
     0,
     0,
     0.22,
-    -0.06
+    -0.06,
+    0.16
   ],
   "medias": [
     0,
@@ -68,7 +72,8 @@
     6,
     6,
     6,
-    5.67
+    5.67,
+    5.5
   ],
   "partidas": [
     {
@@ -213,12 +218,25 @@
       "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/santos_60x60.png",
       "placar_oficial_mandante": 3,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 38,
+      "clube_casa": "Athlético-PR",
+      "clube_casa_id": 293,
+      "clube_visitante": "Botafogo",
+      "clube_casa_abrev": "ATL",
+      "clube_casa_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/09/Athletico-PR-65x65.png",
+      "clube_visitante_id": 263,
+      "clube_visitante_abrev": "BOT",
+      "clube_visitante_escudo": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/04/botafogo-65.png",
+      "placar_oficial_mandante": 3,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.glbimg.com/es/sde/f/2022/08/17/48fb8d037293092aeada232c3cac8c4e_140x140.png",
   "escudo_60": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/04/botafogo-65.png",
   "scouts": {
-    "rodada_id": 37,
+    "rodada_id": 38,
     "g": 0,
     "a": 0,
     "sg": 3,
@@ -226,13 +244,13 @@
     "ff": 0,
     "fd": 0,
     "ft": 0,
-    "de": 3,
+    "de": 11,
     "dp": 0,
     "gc": 0,
     "cv": 0,
     "ca": 1,
     "pp": 0,
-    "gs": 0,
+    "gs": 3,
     "fc": 0,
     "i": 0,
     "ds": 0,
@@ -240,10 +258,10 @@
     "pc": 0,
     "ps": 0,
     "pontos_num": 5,
-    "preco_num": 4.52,
-    "variacao_num": -0.06,
-    "media_num": 5.67,
-    "jogos_num": 3,
+    "preco_num": 4.68,
+    "variacao_num": 0.16,
+    "media_num": 5.5,
+    "jogos_num": 4,
     "posicao_abrev": "gol",
     "posicao": "Goleiro"
   }
