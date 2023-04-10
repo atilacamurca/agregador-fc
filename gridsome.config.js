@@ -11,8 +11,8 @@ const TEMPORADA = process.env.GRIDSOME_TEMPORADA
 
 module.exports = {
   siteName: 'Agregador FC',
-  siteUrl: 'https://atilacamurca.github.io',
-  pathPrefix: '/agregador-fc',
+  siteUrl: 'https://agregador-fc-2022.netlify.app',
+  // pathPrefix: '/agregador-fc',
   siteDescription: 'Agregador FC é um site para te ajudar a decidir seu time para o Cartola FC.',
   templates: {
     DicasTemplate: '/dicas/:title'
