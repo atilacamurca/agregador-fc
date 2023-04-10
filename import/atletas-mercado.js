@@ -112,7 +112,7 @@ async function save(data) {
                 a.nome,
                 a.slug,
                 a.apelido,
-                a.foto ? a.foto.replace('FORMATO', '140x140') : 'https://via.placeholder.com/140',
+                a.foto ? a.foto.replace('FORMATO', '220x220') : 'https://via.placeholder.com/220',
                 a.clube_id,
                 a.posicao_id
             ]))
