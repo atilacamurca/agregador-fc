@@ -8,7 +8,7 @@ $BODY$
     SELECT row_to_json(t) AS json FROM (
         SELECT rodada_id, g, a, sg, fs, ff, fd,
 			ft, de, dp, gc, cv, ca,
-			pp, gs, fc, i, ds, "pi", pc, ps,
+			pp, gs, fc, i, ds, "pi", pc, ps, v,
 			pontos_num, preco_num,
 			variacao_num, media_num, jogos_num,
 			abreviacao AS posicao_abrev,
