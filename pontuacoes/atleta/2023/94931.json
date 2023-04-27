@@ -6,19 +6,24 @@
   "clube_id": 263,
   "posicao": "Meia",
   "rodadas": [
-    1
+    1,
+    2
   ],
   "pontos": [
-    0.6
+    0.6,
+    0.2
   ],
   "precos": [
-    4.9
+    4.9,
+    3.48
   ],
   "variacoes": [
-    -2.1
+    -2.1,
+    -1.42
   ],
   "medias": [
-    0.6
+    0.6,
+    0.4
   ],
   "partidas": [
     {
@@ -33,16 +38,29 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/sao_paulo_60x60.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 2,
+      "clube_casa": "Bahia",
+      "clube_casa_id": 265,
+      "clube_visitante": "Botafogo",
+      "clube_casa_abrev": "BAH",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/bahia_60x60.png",
+      "clube_visitante_id": 263,
+      "clube_visitante_abrev": "BOT",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-65.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/03/07/photo_220x220_qLLBtiS.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-65.png",
   "scouts": {
-    "rodada_id": 1,
+    "rodada_id": 2,
     "g": 0,
     "a": 0,
     "sg": 0,
-    "fs": 0,
+    "fs": 1,
     "ff": 0,
     "fd": 0,
     "ft": 0,
@@ -53,18 +71,18 @@
     "ca": 0,
     "pp": 0,
     "gs": 0,
-    "fc": 2,
+    "fc": 3,
     "i": 0,
     "ds": 1,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 0.6,
-    "preco_num": 4.9,
-    "variacao_num": -2.1,
-    "media_num": 0.6,
-    "jogos_num": 1,
+    "pontos_num": 0.2,
+    "preco_num": 3.48,
+    "variacao_num": -1.42,
+    "media_num": 0.4,
+    "jogos_num": 2,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }

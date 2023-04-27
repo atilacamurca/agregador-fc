@@ -6,19 +6,24 @@
   "clube_id": 265,
   "posicao": "Zagueiro",
   "rodadas": [
-    1
+    1,
+    2
   ],
   "pontos": [
-    0.9
+    0.9,
+    3.8
   ],
   "precos": [
-    2.52
+    2.52,
+    3.41
   ],
   "variacoes": [
-    -0.48
+    -0.48,
+    0.89
   ],
   "medias": [
-    0.9
+    0.9,
+    2.35
   ],
   "partidas": [
     {
@@ -33,18 +38,31 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/bahia_60x60.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 2,
+      "clube_casa": "Bahia",
+      "clube_casa_id": 265,
+      "clube_visitante": "Botafogo",
+      "clube_casa_abrev": "BAH",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/bahia_60x60.png",
+      "clube_visitante_id": 263,
+      "clube_visitante_abrev": "BOT",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-65.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/02/27/photo_220x220_0UPMoSl.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2014/04/14/bahia_60x60.png",
   "scouts": {
-    "rodada_id": 1,
+    "rodada_id": 2,
     "g": 0,
     "a": 0,
     "sg": 0,
-    "fs": 0,
+    "fs": 1,
     "ff": 0,
-    "fd": 0,
+    "fd": 1,
     "ft": 0,
     "de": 0,
     "dp": 0,
@@ -53,18 +71,18 @@
     "ca": 0,
     "pp": 0,
     "gs": 0,
-    "fc": 1,
+    "fc": 2,
     "i": 0,
-    "ds": 1,
+    "ds": 3,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 0.9,
-    "preco_num": 2.52,
-    "variacao_num": -0.48,
-    "media_num": 0.9,
-    "jogos_num": 1,
+    "pontos_num": 3.8,
+    "preco_num": 3.41,
+    "variacao_num": 0.89,
+    "media_num": 2.35,
+    "jogos_num": 2,
     "posicao_abrev": "zag",
     "posicao": "Zagueiro"
   }

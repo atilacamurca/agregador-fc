@@ -6,19 +6,24 @@
   "clube_id": 290,
   "posicao": "Técnico",
   "rodadas": [
-    1
+    1,
+    2
   ],
   "pontos": [
-    1.57
+    1.57,
+    6.35
   ],
   "precos": [
-    3.6
+    3.6,
+    5.32
   ],
   "variacoes": [
-    -0.4
+    -0.4,
+    1.72
   ],
   "medias": [
-    1.57
+    1.57,
+    3.96
   ],
   "partidas": [
     {
@@ -33,12 +38,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/03/01/goias-65.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 2,
+      "clube_casa": "Goiás",
+      "clube_casa_id": 290,
+      "clube_visitante": "Corinthians",
+      "clube_casa_abrev": "GOI",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2021/03/01/goias-65.png",
+      "clube_visitante_id": 264,
+      "clube_visitante_abrev": "COR",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/09/30/Corinthians_65.png",
+      "placar_oficial_mandante": 3,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/04/13/photo_220x220_dFLXQrB.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2021/03/01/goias-65.png",
   "scouts": {
-    "rodada_id": 1,
+    "rodada_id": 2,
     "g": 0,
     "a": 0,
     "sg": 0,
@@ -59,12 +77,12 @@
     "pi": 0,
     "pc": 0,
     "ps": 0,
-    "v": 0,
-    "pontos_num": 1.57,
-    "preco_num": 3.6,
-    "variacao_num": -0.4,
-    "media_num": 1.57,
-    "jogos_num": 1,
+    "v": 1,
+    "pontos_num": 6.35,
+    "preco_num": 5.32,
+    "variacao_num": 1.72,
+    "media_num": 3.96,
+    "jogos_num": 2,
     "posicao_abrev": "tec",
     "posicao": "Técnico"
   }

@@ -6,6 +6,7 @@
     "dev": "gridsome develop",
     "data:import": "./import/import.sh",
     "data:export": "./export/export.sh",
+    "data": "npm run data:import && npm run data:export",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
     "build": "gridsome build",

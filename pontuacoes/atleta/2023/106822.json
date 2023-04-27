@@ -6,19 +6,24 @@
   "clube_id": 276,
   "posicao": "Meia",
   "rodadas": [
-    1
+    1,
+    2
   ],
   "pontos": [
-    6.1
+    6.1,
+    2.2
   ],
   "precos": [
-    9.1
+    9.1,
+    8.51
   ],
   "variacoes": [
-    1.1
+    1.1,
+    -0.59
   ],
   "medias": [
-    6.1
+    6.1,
+    4.15
   ],
   "partidas": [
     {
@@ -33,16 +38,29 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/sao_paulo_60x60.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 2,
+      "clube_casa": "São Paulo",
+      "clube_casa_id": 276,
+      "clube_visitante": "América-MG",
+      "clube_casa_abrev": "SAO",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/sao_paulo_60x60.png",
+      "clube_visitante_id": 327,
+      "clube_visitante_abrev": "AME",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/02/28/escudo65_1.png",
+      "placar_oficial_mandante": 3,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2022/03/01/70f9ba85a01525e2d77c787e7efb42f7_220x220.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2014/04/14/sao_paulo_60x60.png",
   "scouts": {
-    "rodada_id": 1,
+    "rodada_id": 2,
     "g": 0,
     "a": 0,
     "sg": 0,
-    "fs": 0,
+    "fs": 1,
     "ff": 2,
     "fd": 1,
     "ft": 0,
@@ -53,18 +71,18 @@
     "ca": 0,
     "pp": 0,
     "gs": 0,
-    "fc": 1,
-    "i": 0,
-    "ds": 3,
+    "fc": 3,
+    "i": 1,
+    "ds": 5,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 6.1,
-    "preco_num": 9.1,
-    "variacao_num": 1.1,
-    "media_num": 6.1,
-    "jogos_num": 1,
+    "pontos_num": 2.2,
+    "preco_num": 8.51,
+    "variacao_num": -0.59,
+    "media_num": 4.15,
+    "jogos_num": 2,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }

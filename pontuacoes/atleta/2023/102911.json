@@ -6,19 +6,24 @@
   "clube_id": 290,
   "posicao": "Meia",
   "rodadas": [
-    1
+    1,
+    2
   ],
   "pontos": [
-    0.8
+    0.8,
+    4.8
   ],
   "precos": [
-    1.81
+    1.81,
+    3.32
   ],
   "variacoes": [
-    -0.19
+    -0.19,
+    1.51
   ],
   "medias": [
-    0.8
+    0.8,
+    2.8
   ],
   "partidas": [
     {
@@ -33,38 +38,51 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/03/01/goias-65.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 2,
+      "clube_casa": "Goiás",
+      "clube_casa_id": 290,
+      "clube_visitante": "Corinthians",
+      "clube_casa_abrev": "GOI",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2021/03/01/goias-65.png",
+      "clube_visitante_id": 264,
+      "clube_visitante_abrev": "COR",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/09/30/Corinthians_65.png",
+      "placar_oficial_mandante": 3,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/03/11/photo_220x220_h43zEak.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2021/03/01/goias-65.png",
   "scouts": {
-    "rodada_id": 1,
+    "rodada_id": 2,
     "g": 0,
     "a": 0,
     "sg": 0,
-    "fs": 1,
-    "ff": 0,
+    "fs": 4,
+    "ff": 2,
     "fd": 0,
     "ft": 0,
     "de": 0,
     "dp": 0,
     "gc": 0,
     "cv": 0,
-    "ca": 0,
+    "ca": 1,
     "pp": 0,
     "gs": 0,
-    "fc": 3,
+    "fc": 6,
     "i": 0,
-    "ds": 1,
+    "ds": 4,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 0.8,
-    "preco_num": 1.81,
-    "variacao_num": -0.19,
-    "media_num": 0.8,
-    "jogos_num": 1,
+    "pontos_num": 4.8,
+    "preco_num": 3.32,
+    "variacao_num": 1.51,
+    "media_num": 2.8,
+    "jogos_num": 2,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }

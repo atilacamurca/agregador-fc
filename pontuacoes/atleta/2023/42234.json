@@ -6,19 +6,24 @@
   "clube_id": 264,
   "posicao": "Goleiro",
   "rodadas": [
-    1
+    1,
+    2
   ],
   "pontos": [
-    0.5
+    0.5,
+    1
   ],
   "precos": [
-    11.94
+    11.94,
+    8.43
   ],
   "variacoes": [
-    -6.06
+    -6.06,
+    -3.51
   ],
   "medias": [
-    0.5
+    0.5,
+    0.75
   ],
   "partidas": [
     {
@@ -33,12 +38,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/02/13/65_cruzeiro-2021.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 2,
+      "clube_casa": "Goiás",
+      "clube_casa_id": 290,
+      "clube_visitante": "Corinthians",
+      "clube_casa_abrev": "GOI",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2021/03/01/goias-65.png",
+      "clube_visitante_id": 264,
+      "clube_visitante_abrev": "COR",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/09/30/Corinthians_65.png",
+      "placar_oficial_mandante": 3,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/03/02/photo_220x220_uEoWXC8.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2019/09/30/Corinthians_65.png",
   "scouts": {
-    "rodada_id": 1,
+    "rodada_id": 2,
     "g": 0,
     "a": 0,
     "sg": 0,
@@ -46,13 +64,13 @@
     "ff": 0,
     "fd": 0,
     "ft": 0,
-    "de": 1,
+    "de": 5,
     "dp": 0,
     "gc": 0,
     "cv": 0,
     "ca": 0,
     "pp": 0,
-    "gs": 1,
+    "gs": 4,
     "fc": 0,
     "i": 0,
     "ds": 0,
@@ -60,11 +78,11 @@
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 0.5,
-    "preco_num": 11.94,
-    "variacao_num": -6.06,
-    "media_num": 0.5,
-    "jogos_num": 1,
+    "pontos_num": 1,
+    "preco_num": 8.43,
+    "variacao_num": -3.51,
+    "media_num": 0.75,
+    "jogos_num": 2,
     "posicao_abrev": "gol",
     "posicao": "Goleiro"
   }

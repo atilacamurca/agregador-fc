@@ -6,19 +6,24 @@
   "clube_id": 262,
   "posicao": "Lateral",
   "rodadas": [
-    1
+    1,
+    2
   ],
   "pontos": [
-    15
+    15,
+    3.1
   ],
   "precos": [
-    16.77
+    16.77,
+    16.3
   ],
   "variacoes": [
-    5.77
+    5.77,
+    -0.47
   ],
   "medias": [
-    15
+    15,
+    9.05
   ],
   "partidas": [
     {
@@ -33,16 +38,29 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2017/03/29/coritiba65.png",
       "placar_oficial_mandante": 3,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 2,
+      "clube_casa": "Internacional",
+      "clube_casa_id": 285,
+      "clube_visitante": "Flamengo",
+      "clube_casa_abrev": "INT",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2016/05/03/inter65.png",
+      "clube_visitante_id": 262,
+      "clube_visitante_abrev": "FLA",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2018/04/09/Flamengo-65.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/04/11/photo_220x220_P9K1v1H.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2018/04/09/Flamengo-65.png",
   "scouts": {
-    "rodada_id": 1,
+    "rodada_id": 2,
     "g": 1,
     "a": 0,
     "sg": 1,
-    "fs": 1,
+    "fs": 3,
     "ff": 0,
     "fd": 1,
     "ft": 0,
@@ -53,18 +71,18 @@
     "ca": 0,
     "pp": 0,
     "gs": 0,
-    "fc": 3,
+    "fc": 4,
     "i": 0,
-    "ds": 1,
+    "ds": 3,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 15,
-    "preco_num": 16.77,
-    "variacao_num": 5.77,
-    "media_num": 15,
-    "jogos_num": 1,
+    "pontos_num": 3.1,
+    "preco_num": 16.3,
+    "variacao_num": -0.47,
+    "media_num": 9.05,
+    "jogos_num": 2,
     "posicao_abrev": "lat",
     "posicao": "Lateral"
   }

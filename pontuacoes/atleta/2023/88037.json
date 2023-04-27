@@ -6,19 +6,24 @@
   "clube_id": 263,
   "posicao": "Técnico",
   "rodadas": [
-    1
+    1,
+    2
   ],
   "pontos": [
-    6.12
+    6.12,
+    6.28
   ],
   "precos": [
-    9.11
+    9.11,
+    10.14
   ],
   "variacoes": [
-    1.11
+    1.11,
+    1.03
   ],
   "medias": [
-    6.12
+    6.12,
+    6.2
   ],
   "partidas": [
     {
@@ -33,12 +38,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/sao_paulo_60x60.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 2,
+      "clube_casa": "Bahia",
+      "clube_casa_id": 265,
+      "clube_visitante": "Botafogo",
+      "clube_casa_abrev": "BAH",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/bahia_60x60.png",
+      "clube_visitante_id": 263,
+      "clube_visitante_abrev": "BOT",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-65.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2022/02/21/3d4eb55c672851b1407085b09c4dfbb4_220x220.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-65.png",
   "scouts": {
-    "rodada_id": 1,
+    "rodada_id": 2,
     "g": 0,
     "a": 0,
     "sg": 0,
@@ -59,12 +77,12 @@
     "pi": 0,
     "pc": 0,
     "ps": 0,
-    "v": 1,
-    "pontos_num": 6.12,
-    "preco_num": 9.11,
-    "variacao_num": 1.11,
-    "media_num": 6.12,
-    "jogos_num": 1,
+    "v": 2,
+    "pontos_num": 6.28,
+    "preco_num": 10.14,
+    "variacao_num": 1.03,
+    "media_num": 6.2,
+    "jogos_num": 2,
     "posicao_abrev": "tec",
     "posicao": "Técnico"
   }

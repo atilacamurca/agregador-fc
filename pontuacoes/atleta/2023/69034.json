@@ -6,19 +6,24 @@
   "clube_id": 264,
   "posicao": "Meia",
   "rodadas": [
-    1
+    1,
+    2
   ],
   "pontos": [
-    0
+    0,
+    2.4
   ],
   "precos": [
-    6
+    6,
+    4.92
   ],
   "variacoes": [
-    0
+    0,
+    -1.08
   ],
   "medias": [
-    0
+    0,
+    2.4
   ],
   "partidas": [
     {
@@ -33,12 +38,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/02/13/65_cruzeiro-2021.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 2,
+      "clube_casa": "Goiás",
+      "clube_casa_id": 290,
+      "clube_visitante": "Corinthians",
+      "clube_casa_abrev": "GOI",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2021/03/01/goias-65.png",
+      "clube_visitante_id": 264,
+      "clube_visitante_abrev": "COR",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/09/30/Corinthians_65.png",
+      "placar_oficial_mandante": 3,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/03/02/photo_220x220_6LHiiMD.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2019/09/30/Corinthians_65.png",
   "scouts": {
-    "rodada_id": 1,
+    "rodada_id": 2,
     "g": 0,
     "a": 0,
     "sg": 0,
@@ -55,16 +73,16 @@
     "gs": 0,
     "fc": 0,
     "i": 0,
-    "ds": 0,
+    "ds": 2,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 0,
-    "preco_num": 6,
-    "variacao_num": 0,
-    "media_num": 0,
-    "jogos_num": 0,
+    "pontos_num": 2.4,
+    "preco_num": 4.92,
+    "variacao_num": -1.08,
+    "media_num": 2.4,
+    "jogos_num": 1,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }
