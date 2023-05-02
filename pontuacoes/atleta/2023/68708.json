@@ -7,23 +7,28 @@
   "posicao": "Meia",
   "rodadas": [
     1,
-    2
+    2,
+    3
   ],
   "pontos": [
     13.9,
-    0.4
+    0.4,
+    6.9
   ],
   "precos": [
     14.77,
-    13.61
+    13.61,
+    14.53
   ],
   "variacoes": [
     5.77,
-    -1.16
+    -1.16,
+    0.92
   ],
   "medias": [
     13.9,
-    7.15
+    7.15,
+    7.07
   ],
   "partidas": [
     {
@@ -51,16 +56,29 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-65.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 3,
+      "clube_casa": "Flamengo",
+      "clube_casa_id": 262,
+      "clube_visitante": "Botafogo",
+      "clube_casa_abrev": "FLA",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2018/04/09/Flamengo-65.png",
+      "clube_visitante_id": 263,
+      "clube_visitante_abrev": "BOT",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-65.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 3
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/03/07/photo_220x220_5IMT6Pl.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-65.png",
   "scouts": {
-    "rodada_id": 2,
+    "rodada_id": 3,
     "g": 1,
-    "a": 1,
+    "a": 2,
     "sg": 0,
-    "fs": 6,
+    "fs": 8,
     "ff": 1,
     "fd": 0,
     "ft": 0,
@@ -71,18 +89,18 @@
     "ca": 1,
     "pp": 0,
     "gs": 0,
-    "fc": 5,
+    "fc": 6,
     "i": 0,
-    "ds": 0,
+    "ds": 1,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 0.4,
-    "preco_num": 13.61,
-    "variacao_num": -1.16,
-    "media_num": 7.15,
-    "jogos_num": 2,
+    "pontos_num": 6.9,
+    "preco_num": 14.53,
+    "variacao_num": 0.92,
+    "media_num": 7.07,
+    "jogos_num": 3,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }

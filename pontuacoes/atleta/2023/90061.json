@@ -7,23 +7,28 @@
   "posicao": "Lateral",
   "rodadas": [
     1,
-    2
+    2,
+    3
   ],
   "pontos": [
     1.4,
-    10.5
+    10.5,
+    9.3
   ],
   "precos": [
     5.42,
-    8.13
+    8.13,
+    9.78
   ],
   "variacoes": [
     -1.58,
-    2.71
+    2.71,
+    1.65
   ],
   "medias": [
     1.4,
-    5.95
+    5.95,
+    7.07
   ],
   "partidas": [
     {
@@ -51,17 +56,30 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/09/19/65_0000_Fortaleza-2021.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 3
+    },
+    {
+      "rodada_id": 3,
+      "clube_casa": "Fortaleza",
+      "clube_casa_id": 356,
+      "clube_visitante": "Fluminense",
+      "clube_casa_abrev": "FOR",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2021/09/19/65_0000_Fortaleza-2021.png",
+      "clube_visitante_id": 266,
+      "clube_visitante_abrev": "FLU",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/fluminense_60x60.png",
+      "placar_oficial_mandante": 4,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/03/06/photo_220x220_b7qHVNZ.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2021/09/19/65_0000_Fortaleza-2021.png",
   "scouts": {
-    "rodada_id": 2,
+    "rodada_id": 3,
     "g": 0,
-    "a": 0,
+    "a": 1,
     "sg": 1,
-    "fs": 2,
-    "ff": 1,
+    "fs": 3,
+    "ff": 2,
     "fd": 1,
     "ft": 0,
     "de": 0,
@@ -71,18 +89,18 @@
     "ca": 0,
     "pp": 0,
     "gs": 0,
-    "fc": 3,
+    "fc": 5,
     "i": 0,
-    "ds": 4,
+    "ds": 7,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 10.5,
-    "preco_num": 8.13,
-    "variacao_num": 2.71,
-    "media_num": 5.95,
-    "jogos_num": 2,
+    "pontos_num": 9.3,
+    "preco_num": 9.78,
+    "variacao_num": 1.65,
+    "media_num": 7.07,
+    "jogos_num": 3,
     "posicao_abrev": "lat",
     "posicao": "Lateral"
   }

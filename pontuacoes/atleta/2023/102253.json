@@ -7,23 +7,28 @@
   "posicao": "Zagueiro",
   "rodadas": [
     1,
-    2
+    2,
+    3
   ],
   "pontos": [
     0,
-    7.1
+    7.1,
+    2.9
   ],
   "precos": [
     5,
-    6.13
+    6.13,
+    6.03
   ],
   "variacoes": [
     0,
-    1.13
+    1.13,
+    -0.1
   ],
   "medias": [
     0,
-    7.1
+    7.1,
+    5
   ],
   "partidas": [
     {
@@ -51,17 +56,30 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/09/30/Corinthians_65.png",
       "placar_oficial_mandante": 3,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 3,
+      "clube_casa": "Internacional",
+      "clube_casa_id": 285,
+      "clube_visitante": "Goiás",
+      "clube_casa_abrev": "INT",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2016/05/03/inter65.png",
+      "clube_visitante_id": 290,
+      "clube_visitante_abrev": "GOI",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/03/01/goias-65.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/03/11/photo_220x220_DlFIoVh.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2021/03/01/goias-65.png",
   "scouts": {
-    "rodada_id": 2,
+    "rodada_id": 3,
     "g": 1,
     "a": 0,
     "sg": 0,
     "fs": 2,
-    "ff": 0,
+    "ff": 1,
     "fd": 0,
     "ft": 0,
     "de": 0,
@@ -71,18 +89,18 @@
     "ca": 1,
     "pp": 0,
     "gs": 0,
-    "fc": 3,
+    "fc": 4,
     "i": 0,
-    "ds": 0,
+    "ds": 2,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 7.1,
-    "preco_num": 6.13,
-    "variacao_num": 1.13,
-    "media_num": 7.1,
-    "jogos_num": 1,
+    "pontos_num": 2.9,
+    "preco_num": 6.03,
+    "variacao_num": -0.1,
+    "media_num": 5,
+    "jogos_num": 2,
     "posicao_abrev": "zag",
     "posicao": "Zagueiro"
   }

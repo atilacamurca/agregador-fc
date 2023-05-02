@@ -7,23 +7,28 @@
   "posicao": "Atacante",
   "rodadas": [
     1,
-    2
+    2,
+    3
   ],
   "pontos": [
     7.1,
-    2.5
+    2.5,
+    4.2
   ],
   "precos": [
     17.48,
-    14.44
+    14.44,
+    14.02
   ],
   "variacoes": [
     -2.52,
-    -3.04
+    -3.04,
+    -0.42
   ],
   "medias": [
     7.1,
-    4.8
+    4.8,
+    4.6
   ],
   "partidas": [
     {
@@ -51,24 +56,37 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2018/04/09/Flamengo-65.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 3,
+      "clube_casa": "Flamengo",
+      "clube_casa_id": 262,
+      "clube_visitante": "Botafogo",
+      "clube_casa_abrev": "FLA",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2018/04/09/Flamengo-65.png",
+      "clube_visitante_id": 263,
+      "clube_visitante_abrev": "BOT",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-65.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 3
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/04/11/photo_220x220_mbchRWW.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2018/04/09/Flamengo-65.png",
   "scouts": {
-    "rodada_id": 2,
+    "rodada_id": 3,
     "g": 1,
     "a": 0,
     "sg": 0,
     "fs": 2,
-    "ff": 1,
-    "fd": 1,
+    "ff": 3,
+    "fd": 4,
     "ft": 0,
     "de": 0,
     "dp": 0,
     "gc": 0,
     "cv": 0,
-    "ca": 1,
+    "ca": 2,
     "pp": 0,
     "gs": 0,
     "fc": 1,
@@ -78,11 +96,11 @@
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 2.5,
-    "preco_num": 14.44,
-    "variacao_num": -3.04,
-    "media_num": 4.8,
-    "jogos_num": 2,
+    "pontos_num": 4.2,
+    "preco_num": 14.02,
+    "variacao_num": -0.42,
+    "media_num": 4.6,
+    "jogos_num": 3,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }

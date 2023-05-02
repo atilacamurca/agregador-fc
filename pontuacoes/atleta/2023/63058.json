@@ -7,23 +7,28 @@
   "posicao": "Meia",
   "rodadas": [
     1,
-    2
+    2,
+    3
   ],
   "pontos": [
     0,
-    0
+    0,
+    4.7
   ],
   "precos": [
     4,
-    2.65
+    2.65,
+    3.78
   ],
   "variacoes": [
     0,
-    -1.35
+    -1.35,
+    1.13
   ],
   "medias": [
     0,
-    0
+    0,
+    2.35
   ],
   "partidas": [
     {
@@ -51,16 +56,29 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/09/19/65_0000_Fortaleza-2021.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 3
+    },
+    {
+      "rodada_id": 3,
+      "clube_casa": "Coritiba",
+      "clube_casa_id": 294,
+      "clube_visitante": "São Paulo",
+      "clube_casa_abrev": "COR",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2017/03/29/coritiba65.png",
+      "clube_visitante_id": 276,
+      "clube_visitante_abrev": "SAO",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/sao_paulo_60x60.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/02/28/photo_220x220_FaZq8Ny.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2017/03/29/coritiba65.png",
   "scouts": {
-    "rodada_id": 2,
+    "rodada_id": 3,
     "g": 0,
     "a": 0,
     "sg": 0,
-    "fs": 0,
+    "fs": 1,
     "ff": 0,
     "fd": 0,
     "ft": 0,
@@ -71,18 +89,18 @@
     "ca": 0,
     "pp": 0,
     "gs": 0,
-    "fc": 0,
+    "fc": 2,
     "i": 0,
-    "ds": 0,
+    "ds": 4,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 0,
-    "preco_num": 2.65,
-    "variacao_num": -1.35,
-    "media_num": 0,
-    "jogos_num": 1,
+    "pontos_num": 4.7,
+    "preco_num": 3.78,
+    "variacao_num": 1.13,
+    "media_num": 2.35,
+    "jogos_num": 2,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }

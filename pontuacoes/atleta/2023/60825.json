@@ -7,23 +7,28 @@
   "posicao": "Atacante",
   "rodadas": [
     1,
-    2
+    2,
+    3
   ],
   "pontos": [
     0.8,
-    2
+    2,
+    0
   ],
   "precos": [
     5.03,
-    4.33
+    4.33,
+    3.72
   ],
   "variacoes": [
     -1.97,
-    -0.7
+    -0.7,
+    -0.61
   ],
   "medias": [
     0.8,
-    1.4
+    1.4,
+    0.93
   ],
   "partidas": [
     {
@@ -51,12 +56,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/02/28/escudo65_1.png",
       "placar_oficial_mandante": 3,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 3,
+      "clube_casa": "Santos",
+      "clube_casa_id": 277,
+      "clube_visitante": "América-MG",
+      "clube_casa_abrev": "SAN",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/santos_60x60.png",
+      "clube_visitante_id": 327,
+      "clube_visitante_abrev": "AME",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/02/28/escudo65_1.png",
+      "placar_oficial_mandante": 3,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2022/02/25/32fc5d9f18e690ed6ef80d16faae95cc_220x220.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2019/02/28/escudo65_1.png",
   "scouts": {
-    "rodada_id": 2,
+    "rodada_id": 3,
     "g": 0,
     "a": 0,
     "sg": 0,
@@ -78,11 +96,11 @@
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 2,
-    "preco_num": 4.33,
-    "variacao_num": -0.7,
-    "media_num": 1.4,
-    "jogos_num": 2,
+    "pontos_num": 0,
+    "preco_num": 3.72,
+    "variacao_num": -0.61,
+    "media_num": 0.93,
+    "jogos_num": 3,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }

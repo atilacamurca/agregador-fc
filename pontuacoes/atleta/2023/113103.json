@@ -7,22 +7,27 @@
   "posicao": "Atacante",
   "rodadas": [
     1,
-    2
+    2,
+    3
   ],
   "pontos": [
     9.7,
-    1.4
+    1.4,
+    0
   ],
   "precos": [
     9.48,
+    9.4,
     9.4
   ],
   "variacoes": [
     4.48,
-    -0.08
+    -0.08,
+    0
   ],
   "medias": [
     9.7,
+    5.55,
     5.55
   ],
   "partidas": [
@@ -51,12 +56,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/palmeiras_60x60.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 3,
+      "clube_casa": "Palmeiras",
+      "clube_casa_id": 275,
+      "clube_visitante": "Corinthians",
+      "clube_casa_abrev": "PAL",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/palmeiras_60x60.png",
+      "clube_visitante_id": 264,
+      "clube_visitante_abrev": "COR",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/09/30/Corinthians_65.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/03/15/photo_220x220_V15s07E.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2014/04/14/palmeiras_60x60.png",
   "scouts": {
-    "rodada_id": 2,
+    "rodada_id": 3,
     "g": 1,
     "a": 0,
     "sg": 0,
@@ -78,9 +96,9 @@
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 1.4,
+    "pontos_num": 0,
     "preco_num": 9.4,
-    "variacao_num": -0.08,
+    "variacao_num": 0,
     "media_num": 5.55,
     "jogos_num": 2,
     "posicao_abrev": "ata",
