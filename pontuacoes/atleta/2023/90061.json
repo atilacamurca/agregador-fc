@@ -8,27 +8,32 @@
   "rodadas": [
     1,
     2,
-    3
+    3,
+    4
   ],
   "pontos": [
     1.4,
     10.5,
-    9.3
+    9.3,
+    -0.7
   ],
   "precos": [
     5.42,
     8.13,
-    9.78
+    9.78,
+    8.18
   ],
   "variacoes": [
     -1.58,
     2.71,
-    1.65
+    1.65,
+    -1.6
   ],
   "medias": [
     1.4,
     5.95,
-    7.07
+    7.07,
+    5.13
   ],
   "partidas": [
     {
@@ -69,12 +74,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/fluminense_60x60.png",
       "placar_oficial_mandante": 4,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 4,
+      "clube_casa": "Corinthians",
+      "clube_casa_id": 264,
+      "clube_visitante": "Fortaleza",
+      "clube_casa_abrev": "COR",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2019/09/30/Corinthians_65.png",
+      "clube_visitante_id": 356,
+      "clube_visitante_abrev": "FOR",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/09/19/65_0000_Fortaleza-2021.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 1
     }
   ],
-  "foto": "https://s.sde.globo.com/media/person_role/2023/03/06/photo_220x220_b7qHVNZ.png",
+  "foto": "https://s.sde.globo.com/media/person_role/2023/05/06/photo_220x220_PYjs4Li.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2021/09/19/65_0000_Fortaleza-2021.png",
   "scouts": {
-    "rodada_id": 3,
+    "rodada_id": 4,
     "g": 0,
     "a": 1,
     "sg": 1,
@@ -86,21 +104,21 @@
     "dp": 0,
     "gc": 0,
     "cv": 0,
-    "ca": 0,
+    "ca": 1,
     "pp": 0,
     "gs": 0,
-    "fc": 5,
+    "fc": 8,
     "i": 0,
-    "ds": 7,
+    "ds": 8,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 9.3,
-    "preco_num": 9.78,
-    "variacao_num": 1.65,
-    "media_num": 7.07,
-    "jogos_num": 3,
+    "pontos_num": -0.7,
+    "preco_num": 8.18,
+    "variacao_num": -1.6,
+    "media_num": 5.13,
+    "jogos_num": 4,
     "posicao_abrev": "lat",
     "posicao": "Lateral"
   }

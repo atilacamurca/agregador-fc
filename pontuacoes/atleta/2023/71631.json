@@ -8,27 +8,32 @@
   "rodadas": [
     1,
     2,
-    3
+    3,
+    4
   ],
   "pontos": [
     2,
     -1,
-    1
+    1,
+    9
   ],
   "precos": [
     13.55,
     9.1,
-    8.26
+    8.26,
+    9.97
   ],
   "variacoes": [
     -5.45,
     -4.45,
-    -0.84
+    -0.84,
+    1.71
   ],
   "medias": [
     2,
     0.5,
-    0.67
+    0.67,
+    2.75
   ],
   "partidas": [
     {
@@ -69,20 +74,33 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/09/30/Corinthians_65.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 4,
+      "clube_casa": "Goiás",
+      "clube_casa_id": 290,
+      "clube_visitante": "Palmeiras",
+      "clube_casa_abrev": "GOI",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2021/03/01/goias-65.png",
+      "clube_visitante_id": 275,
+      "clube_visitante_abrev": "PAL",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/palmeiras_60x60.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 5
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/03/15/photo_220x220_PN9nfV7.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2014/04/14/palmeiras_60x60.png",
   "scouts": {
-    "rodada_id": 3,
+    "rodada_id": 4,
     "g": 0,
     "a": 0,
-    "sg": 0,
+    "sg": 1,
     "fs": 0,
     "ff": 0,
     "fd": 0,
     "ft": 0,
-    "de": 6,
+    "de": 10,
     "dp": 0,
     "gc": 0,
     "cv": 0,
@@ -96,11 +114,11 @@
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 1,
-    "preco_num": 8.26,
-    "variacao_num": -0.84,
-    "media_num": 0.67,
-    "jogos_num": 3,
+    "pontos_num": 9,
+    "preco_num": 9.97,
+    "variacao_num": 1.71,
+    "media_num": 2.75,
+    "jogos_num": 4,
     "posicao_abrev": "gol",
     "posicao": "Goleiro"
   }

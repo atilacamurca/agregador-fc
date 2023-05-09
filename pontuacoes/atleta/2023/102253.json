@@ -8,27 +8,32 @@
   "rodadas": [
     1,
     2,
-    3
+    3,
+    4
   ],
   "pontos": [
     0,
     7.1,
-    2.9
+    2.9,
+    -3.3
   ],
   "precos": [
     5,
     6.13,
-    6.03
+    6.03,
+    4.46
   ],
   "variacoes": [
     0,
     1.13,
-    -0.1
+    -0.1,
+    -1.57
   ],
   "medias": [
     0,
     7.1,
-    5
+    5,
+    2.23
   ],
   "partidas": [
     {
@@ -69,12 +74,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/03/01/goias-65.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 4,
+      "clube_casa": "Goiás",
+      "clube_casa_id": 290,
+      "clube_visitante": "Palmeiras",
+      "clube_casa_abrev": "GOI",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2021/03/01/goias-65.png",
+      "clube_visitante_id": 275,
+      "clube_visitante_abrev": "PAL",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/palmeiras_60x60.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 5
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/03/11/photo_220x220_DlFIoVh.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2021/03/01/goias-65.png",
   "scouts": {
-    "rodada_id": 3,
+    "rodada_id": 4,
     "g": 1,
     "a": 0,
     "sg": 0,
@@ -85,22 +103,22 @@
     "de": 0,
     "dp": 0,
     "gc": 0,
-    "cv": 0,
+    "cv": 1,
     "ca": 1,
     "pp": 0,
     "gs": 0,
-    "fc": 4,
+    "fc": 5,
     "i": 0,
     "ds": 2,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 2.9,
-    "preco_num": 6.03,
-    "variacao_num": -0.1,
-    "media_num": 5,
-    "jogos_num": 2,
+    "pontos_num": -3.3,
+    "preco_num": 4.46,
+    "variacao_num": -1.57,
+    "media_num": 2.23,
+    "jogos_num": 3,
     "posicao_abrev": "zag",
     "posicao": "Zagueiro"
   }

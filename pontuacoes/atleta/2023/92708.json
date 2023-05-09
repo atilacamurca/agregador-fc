@@ -8,27 +8,32 @@
   "rodadas": [
     1,
     2,
-    3
+    3,
+    4
   ],
   "pontos": [
     2.1,
     0.9,
-    3.7
+    3.7,
+    -0.1
   ],
   "precos": [
     5.23,
     4.37,
-    5.02
+    5.02,
+    4.3
   ],
   "variacoes": [
     -0.77,
     -0.86,
-    0.65
+    0.65,
+    -0.72
   ],
   "medias": [
     2.1,
     1.5,
-    2.23
+    2.23,
+    1.65
   ],
   "partidas": [
     {
@@ -69,12 +74,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/gremio_60x60.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 4,
+      "clube_casa": "América-MG",
+      "clube_casa_id": 327,
+      "clube_visitante": "Cuiabá",
+      "clube_casa_abrev": "AME",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2019/02/28/escudo65_1.png",
+      "clube_visitante_id": 1371,
+      "clube_visitante_abrev": "CUI",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/16/cuiaba65.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/03/06/photo_220x220_AvLd8xm.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2014/04/16/cuiaba65.png",
   "scouts": {
-    "rodada_id": 3,
+    "rodada_id": 4,
     "g": 0,
     "a": 0,
     "sg": 0,
@@ -90,17 +108,17 @@
     "pp": 0,
     "gs": 0,
     "fc": 4,
-    "i": 4,
+    "i": 5,
     "ds": 1,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 3.7,
-    "preco_num": 5.02,
-    "variacao_num": 0.65,
-    "media_num": 2.23,
-    "jogos_num": 3,
+    "pontos_num": -0.1,
+    "preco_num": 4.3,
+    "variacao_num": -0.72,
+    "media_num": 1.65,
+    "jogos_num": 4,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }

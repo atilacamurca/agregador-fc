@@ -8,27 +8,32 @@
   "rodadas": [
     1,
     2,
-    3
+    3,
+    4
   ],
   "pontos": [
     4.6,
     9.7,
-    5.5
+    5.5,
+    0.6
   ],
   "precos": [
     6.84,
     9.6,
-    10
+    10,
+    9.07
   ],
   "variacoes": [
     0.84,
     2.76,
-    0.4
+    0.4,
+    -0.93
   ],
   "medias": [
     4.6,
     7.15,
-    6.6
+    6.6,
+    5.1
   ],
   "partidas": [
     {
@@ -69,18 +74,31 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-65.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 3
+    },
+    {
+      "rodada_id": 4,
+      "clube_casa": "Botafogo",
+      "clube_casa_id": 263,
+      "clube_visitante": "Atlético-MG",
+      "clube_casa_abrev": "BOT",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-65.png",
+      "clube_visitante_id": 282,
+      "clube_visitante_abrev": "ATL",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2017/11/23/Atletico-Mineiro-escudo65px.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/03/07/photo_220x220_FytIYxJ.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-65.png",
   "scouts": {
-    "rodada_id": 3,
+    "rodada_id": 4,
     "g": 1,
     "a": 1,
     "sg": 0,
     "fs": 3,
     "ff": 1,
-    "fd": 0,
+    "fd": 1,
     "ft": 0,
     "de": 0,
     "dp": 0,
@@ -89,18 +107,18 @@
     "ca": 0,
     "pp": 0,
     "gs": 0,
-    "fc": 5,
+    "fc": 7,
     "i": 0,
     "ds": 5,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 5.5,
-    "preco_num": 10,
-    "variacao_num": 0.4,
-    "media_num": 6.6,
-    "jogos_num": 3,
+    "pontos_num": 0.6,
+    "preco_num": 9.07,
+    "variacao_num": -0.93,
+    "media_num": 5.1,
+    "jogos_num": 4,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }

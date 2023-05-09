@@ -8,27 +8,32 @@
   "rodadas": [
     1,
     2,
-    3
+    3,
+    4
   ],
   "pontos": [
     2.3,
     1.7,
-    2.1
+    2.1,
+    0.8
   ],
   "precos": [
     6,
     5.25,
-    5.25
+    5.25,
+    4.91
   ],
   "variacoes": [
     -1,
     -0.75,
-    0
+    0,
+    -0.34
   ],
   "medias": [
     2.3,
     2,
-    2.03
+    2.03,
+    1.72
   ],
   "partidas": [
     {
@@ -69,16 +74,29 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/bahia_60x60.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 4,
+      "clube_casa": "Bahia",
+      "clube_casa_id": 265,
+      "clube_visitante": "Coritiba",
+      "clube_casa_abrev": "BAH",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/bahia_60x60.png",
+      "clube_visitante_id": 294,
+      "clube_visitante_abrev": "COR",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2017/03/29/coritiba65.png",
+      "placar_oficial_mandante": 3,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/03/10/photo_220x220.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2014/04/14/bahia_60x60.png",
   "scouts": {
-    "rodada_id": 3,
+    "rodada_id": 4,
     "g": 0,
     "a": 0,
     "sg": 0,
-    "fs": 2,
+    "fs": 3,
     "ff": 0,
     "fd": 0,
     "ft": 0,
@@ -89,18 +107,18 @@
     "ca": 0,
     "pp": 0,
     "gs": 0,
-    "fc": 7,
+    "fc": 10,
     "i": 0,
-    "ds": 6,
+    "ds": 7,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 2.1,
-    "preco_num": 5.25,
-    "variacao_num": 0,
-    "media_num": 2.03,
-    "jogos_num": 3,
+    "pontos_num": 0.8,
+    "preco_num": 4.91,
+    "variacao_num": -0.34,
+    "media_num": 1.72,
+    "jogos_num": 4,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }

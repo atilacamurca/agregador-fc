@@ -8,27 +8,32 @@
   "rodadas": [
     1,
     2,
-    3
+    3,
+    4
   ],
   "pontos": [
     4,
     12,
-    -1
+    -1,
+    6
   ],
   "precos": [
     9.03,
     11.8,
-    9.73
+    9.73,
+    10.86
   ],
   "variacoes": [
     -0.97,
     2.77,
-    -2.07
+    -2.07,
+    1.13
   ],
   "medias": [
     4,
     8,
-    5
+    5,
+    5.25
   ],
   "partidas": [
     {
@@ -69,12 +74,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/fluminense_60x60.png",
       "placar_oficial_mandante": 4,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 4,
+      "clube_casa": "Corinthians",
+      "clube_casa_id": 264,
+      "clube_visitante": "Fortaleza",
+      "clube_casa_abrev": "COR",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2019/09/30/Corinthians_65.png",
+      "clube_visitante_id": 356,
+      "clube_visitante_abrev": "FOR",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/09/19/65_0000_Fortaleza-2021.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 1
     }
   ],
-  "foto": "https://s.sde.globo.com/media/person_role/2023/03/07/photo_220x220_LYpf6Gz.png",
+  "foto": "https://s.sde.globo.com/media/person_role/2023/05/06/photo_220x220_qLr4Pp0.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2021/09/19/65_0000_Fortaleza-2021.png",
   "scouts": {
-    "rodada_id": 3,
+    "rodada_id": 4,
     "g": 0,
     "a": 0,
     "sg": 1,
@@ -82,13 +100,13 @@
     "ff": 0,
     "fd": 0,
     "ft": 0,
-    "de": 13,
+    "de": 20,
     "dp": 0,
     "gc": 0,
     "cv": 0,
     "ca": 0,
     "pp": 0,
-    "gs": 3,
+    "gs": 4,
     "fc": 0,
     "i": 0,
     "ds": 0,
@@ -96,11 +114,11 @@
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": -1,
-    "preco_num": 9.73,
-    "variacao_num": -2.07,
-    "media_num": 5,
-    "jogos_num": 3,
+    "pontos_num": 6,
+    "preco_num": 10.86,
+    "variacao_num": 1.13,
+    "media_num": 5.25,
+    "jogos_num": 4,
     "posicao_abrev": "gol",
     "posicao": "Goleiro"
   }

@@ -8,27 +8,32 @@
   "rodadas": [
     1,
     2,
-    3
+    3,
+    4
   ],
   "pontos": [
     3.9,
     7.4,
-    8.8
+    8.8,
+    8.9
   ],
   "precos": [
     5.74,
     7.77,
-    9.5
+    9.5,
+    10.63
   ],
   "variacoes": [
     0.74,
     2.03,
-    1.73
+    1.73,
+    1.13
   ],
   "medias": [
     3.9,
     5.65,
-    6.7
+    6.7,
+    7.25
   ],
   "partidas": [
     {
@@ -69,16 +74,29 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/sao_paulo_60x60.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 4,
+      "clube_casa": "São Paulo",
+      "clube_casa_id": 276,
+      "clube_visitante": "Internacional",
+      "clube_casa_abrev": "SAO",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/sao_paulo_60x60.png",
+      "clube_visitante_id": 285,
+      "clube_visitante_abrev": "INT",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2016/05/03/inter65.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/01/27/photo_220x220_rRBJfVv.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2014/04/14/sao_paulo_60x60.png",
   "scouts": {
-    "rodada_id": 3,
+    "rodada_id": 4,
     "g": 0,
     "a": 1,
-    "sg": 1,
-    "fs": 6,
+    "sg": 2,
+    "fs": 9,
     "ff": 1,
     "fd": 3,
     "ft": 0,
@@ -91,16 +109,16 @@
     "gs": 0,
     "fc": 3,
     "i": 0,
-    "ds": 3,
+    "ds": 5,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 8.8,
-    "preco_num": 9.5,
-    "variacao_num": 1.73,
-    "media_num": 6.7,
-    "jogos_num": 3,
+    "pontos_num": 8.9,
+    "preco_num": 10.63,
+    "variacao_num": 1.13,
+    "media_num": 7.25,
+    "jogos_num": 4,
     "posicao_abrev": "lat",
     "posicao": "Lateral"
   }
