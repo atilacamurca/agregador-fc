@@ -9,31 +9,36 @@
     1,
     2,
     3,
-    4
+    4,
+    5
   ],
   "pontos": [
     0,
     0,
     0,
-    0
+    0,
+    -0.1
   ],
   "precos": [
     4,
     4,
     4,
-    4
+    4,
+    2.72
   ],
   "variacoes": [
     0,
     0,
     0,
-    0
+    0,
+    -1.28
   ],
   "medias": [
     0,
     0,
     0,
-    0
+    0,
+    -0.1
   ],
   "partidas": [
     {
@@ -87,12 +92,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2017/03/29/coritiba65.png",
       "placar_oficial_mandante": 3,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 5,
+      "clube_casa": "Santos",
+      "clube_casa_id": 277,
+      "clube_visitante": "Bahia",
+      "clube_casa_abrev": "SAN",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/santos_60x60.png",
+      "clube_visitante_id": 265,
+      "clube_visitante_abrev": "BAH",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/bahia_60x60.png",
+      "placar_oficial_mandante": 3,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/02/27/photo_220x220_o4R14ec.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2014/04/14/bahia_60x60.png",
   "scouts": {
-    "rodada_id": 4,
+    "rodada_id": 5,
     "g": 0,
     "a": 0,
     "sg": 0,
@@ -104,21 +122,21 @@
     "dp": 0,
     "gc": 0,
     "cv": 0,
-    "ca": 0,
+    "ca": 1,
     "pp": 0,
     "gs": 0,
-    "fc": 0,
+    "fc": 1,
     "i": 0,
-    "ds": 0,
+    "ds": 1,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 0,
-    "preco_num": 4,
-    "variacao_num": 0,
-    "media_num": 0,
-    "jogos_num": 0,
+    "pontos_num": -0.1,
+    "preco_num": 2.72,
+    "variacao_num": -1.28,
+    "media_num": -0.1,
+    "jogos_num": 1,
     "posicao_abrev": "lat",
     "posicao": "Lateral"
   }

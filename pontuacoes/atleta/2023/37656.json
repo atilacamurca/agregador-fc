@@ -9,31 +9,36 @@
     1,
     2,
     3,
-    4
+    4,
+    5
   ],
   "pontos": [
     7,
     7,
     9,
-    -1
+    -1,
+    10.5
   ],
   "precos": [
     12.9,
     13.17,
     14.36,
-    12.32
+    12.32,
+    14.08
   ],
   "variacoes": [
     -0.1,
     0.27,
     1.19,
-    -2.04
+    -2.04,
+    1.76
   ],
   "medias": [
     7,
     7,
     7.67,
-    5.5
+    5.5,
+    6.5
   ],
   "partidas": [
     {
@@ -87,24 +92,37 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/09/04/ESCUDO-VASCO-RGB_65px.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 5,
+      "clube_casa": "Cruzeiro",
+      "clube_casa_id": 283,
+      "clube_visitante": "Fluminense",
+      "clube_casa_abrev": "CRU",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2021/02/13/65_cruzeiro-2021.png",
+      "clube_visitante_id": 266,
+      "clube_visitante_abrev": "FLU",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/fluminense_60x60.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 2
     }
   ],
-  "foto": "https://s.sde.globo.com/media/person_role/2022/04/20/aeae67450f0c19a81c7d356b86382594_220x220.png",
+  "foto": "https://s.sde.globo.com/media/person_role/2023/05/09/photo_220x220_TV5Ba3v.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2014/04/14/fluminense_60x60.png",
   "scouts": {
-    "rodada_id": 4,
+    "rodada_id": 5,
     "g": 0,
     "a": 0,
-    "sg": 2,
-    "fs": 0,
+    "sg": 3,
+    "fs": 1,
     "ff": 0,
     "fd": 0,
     "ft": 0,
-    "de": 17,
+    "de": 23,
     "dp": 0,
     "gc": 0,
     "cv": 0,
-    "ca": 0,
+    "ca": 1,
     "pp": 0,
     "gs": 5,
     "fc": 0,
@@ -114,11 +132,11 @@
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": -1,
-    "preco_num": 12.32,
-    "variacao_num": -2.04,
-    "media_num": 5.5,
-    "jogos_num": 4,
+    "pontos_num": 10.5,
+    "preco_num": 14.08,
+    "variacao_num": 1.76,
+    "media_num": 6.5,
+    "jogos_num": 5,
     "posicao_abrev": "gol",
     "posicao": "Goleiro"
   }

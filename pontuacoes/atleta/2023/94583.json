@@ -9,31 +9,36 @@
     1,
     2,
     3,
-    4
+    4,
+    5
   ],
   "pontos": [
     8,
     3.4,
     3.6,
-    0
+    0,
+    8
   ],
   "precos": [
     17.42,
     14.99,
     14.33,
-    14.33
+    14.33,
+    14.12
   ],
   "variacoes": [
     -1.58,
     -2.43,
     -0.66,
-    0
+    0,
+    -0.21
   ],
   "medias": [
     8,
     5.7,
     5,
-    5
+    5,
+    5.75
   ],
   "partidas": [
     {
@@ -87,13 +92,26 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2018/04/09/Flamengo-65.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 5,
+      "clube_casa": "Flamengo",
+      "clube_casa_id": 262,
+      "clube_visitante": "Goiás",
+      "clube_casa_abrev": "FLA",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2018/04/09/Flamengo-65.png",
+      "clube_visitante_id": 290,
+      "clube_visitante_abrev": "GOI",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/03/01/goias-65.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/04/11/photo_220x220_BmbzG97.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2018/04/09/Flamengo-65.png",
   "scouts": {
-    "rodada_id": 4,
-    "g": 1,
+    "rodada_id": 5,
+    "g": 2,
     "a": 0,
     "sg": 0,
     "fs": 1,
@@ -114,11 +132,11 @@
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 0,
-    "preco_num": 14.33,
-    "variacao_num": 0,
-    "media_num": 5,
-    "jogos_num": 3,
+    "pontos_num": 8,
+    "preco_num": 14.12,
+    "variacao_num": -0.21,
+    "media_num": 5.75,
+    "jogos_num": 4,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }

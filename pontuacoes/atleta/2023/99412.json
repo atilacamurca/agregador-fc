@@ -9,31 +9,36 @@
     1,
     2,
     3,
-    4
+    4,
+    5
   ],
   "pontos": [
     2.2,
     4.3,
     0.4,
-    8.2
+    8.2,
+    4.8
   ],
   "precos": [
     3.35,
     4.51,
     4.01,
-    6
+    6,
+    5.92
   ],
   "variacoes": [
     0.35,
     1.16,
     -0.5,
-    1.99
+    1.99,
+    -0.08
   ],
   "medias": [
     2.2,
     3.25,
     2.3,
-    3.77
+    3.77,
+    3.98
   ],
   "partidas": [
     {
@@ -87,16 +92,29 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/palmeiras_60x60.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 5
+    },
+    {
+      "rodada_id": 5,
+      "clube_casa": "Flamengo",
+      "clube_casa_id": 262,
+      "clube_visitante": "Goiás",
+      "clube_casa_abrev": "FLA",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2018/04/09/Flamengo-65.png",
+      "clube_visitante_id": 290,
+      "clube_visitante_abrev": "GOI",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/03/01/goias-65.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/04/03/photo_220x220_fZnSxrr.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2021/03/01/goias-65.png",
   "scouts": {
-    "rodada_id": 4,
+    "rodada_id": 5,
     "g": 0,
     "a": 0,
     "sg": 0,
-    "fs": 9,
+    "fs": 12,
     "ff": 3,
     "fd": 0,
     "ft": 0,
@@ -107,18 +125,18 @@
     "ca": 0,
     "pp": 0,
     "gs": 0,
-    "fc": 4,
+    "fc": 5,
     "i": 2,
-    "ds": 8,
+    "ds": 11,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 8.2,
-    "preco_num": 6,
-    "variacao_num": 1.99,
-    "media_num": 3.77,
-    "jogos_num": 4,
+    "pontos_num": 4.8,
+    "preco_num": 5.92,
+    "variacao_num": -0.08,
+    "media_num": 3.98,
+    "jogos_num": 5,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }
