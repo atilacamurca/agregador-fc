@@ -10,20 +10,23 @@
     2,
     3,
     4,
-    5
+    5,
+    6
   ],
   "pontos": [
     6.1,
     2.2,
     8.7,
     2.6,
-    -0.3
+    -0.3,
+    0
   ],
   "precos": [
     9.1,
     8.51,
     10.32,
     9.58,
+    8.52,
     8.52
   ],
   "variacoes": [
@@ -31,13 +34,15 @@
     -0.59,
     1.81,
     -0.74,
-    -1.06
+    -1.06,
+    0
   ],
   "medias": [
     6.1,
     4.15,
     5.67,
     4.9,
+    3.86,
     3.86
   ],
   "partidas": [
@@ -105,12 +110,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/sao_paulo_60x60.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 6,
+      "clube_casa": "Corinthians",
+      "clube_casa_id": 264,
+      "clube_visitante": "São Paulo",
+      "clube_casa_abrev": "COR",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2019/09/30/Corinthians_65.png",
+      "clube_visitante_id": 276,
+      "clube_visitante_abrev": "SAO",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/sao_paulo_60x60.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2022/03/01/70f9ba85a01525e2d77c787e7efb42f7_220x220.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2014/04/14/sao_paulo_60x60.png",
   "scouts": {
-    "rodada_id": 5,
+    "rodada_id": 6,
     "g": 0,
     "a": 0,
     "sg": 0,
@@ -132,9 +150,9 @@
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": -0.3,
+    "pontos_num": 0,
     "preco_num": 8.52,
-    "variacao_num": -1.06,
+    "variacao_num": 0,
     "media_num": 3.86,
     "jogos_num": 5,
     "posicao_abrev": "mei",

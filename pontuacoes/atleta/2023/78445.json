@@ -10,20 +10,23 @@
     2,
     3,
     4,
-    5
+    5,
+    6
   ],
   "pontos": [
     5.9,
     3.9,
     6.7,
     4.8,
-    2.1
+    2.1,
+    0
   ],
   "precos": [
     8.32,
     8.62,
     9.73,
     9.83,
+    9.13,
     9.13
   ],
   "variacoes": [
@@ -31,13 +34,15 @@
     0.3,
     1.11,
     0.1,
-    -0.7
+    -0.7,
+    0
   ],
   "medias": [
     5.9,
     4.9,
     5.5,
     5.33,
+    4.68,
     4.68
   ],
   "partidas": [
@@ -105,12 +110,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/09/09/Athletico-PR-65x65.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 6,
+      "clube_casa": "Atlético-MG",
+      "clube_casa_id": 282,
+      "clube_visitante": "Internacional",
+      "clube_casa_abrev": "ATL",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2017/11/23/Atletico-Mineiro-escudo65px.png",
+      "clube_visitante_id": 285,
+      "clube_visitante_abrev": "INT",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2016/05/03/inter65.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2022/04/12/89131124e240b53f50f1fe351ceb880d_220x220.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2016/05/03/inter65.png",
   "scouts": {
-    "rodada_id": 5,
+    "rodada_id": 6,
     "g": 0,
     "a": 0,
     "sg": 1,
@@ -132,9 +150,9 @@
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 2.1,
+    "pontos_num": 0,
     "preco_num": 9.13,
-    "variacao_num": -0.7,
+    "variacao_num": 0,
     "media_num": 4.68,
     "jogos_num": 5,
     "posicao_abrev": "lat",

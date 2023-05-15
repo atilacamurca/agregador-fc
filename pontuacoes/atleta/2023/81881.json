@@ -10,35 +10,40 @@
     2,
     3,
     4,
-    5
+    5,
+    6
   ],
   "pontos": [
     0,
     0,
     0,
     0,
-    0
+    0,
+    11
   ],
   "precos": [
     7,
     7,
     7,
     7,
-    7
+    7,
+    7.35
   ],
   "variacoes": [
     0,
     0,
     0,
     0,
-    0
+    0,
+    0.35
   ],
   "medias": [
     0,
     0,
     0,
     0,
-    0
+    0,
+    11
   ],
   "partidas": [
     {
@@ -105,20 +110,33 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/sao_paulo_60x60.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 6,
+      "clube_casa": "Grêmio",
+      "clube_casa_id": 284,
+      "clube_visitante": "Fortaleza",
+      "clube_casa_abrev": "GRE",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/gremio_60x60.png",
+      "clube_visitante_id": 356,
+      "clube_visitante_abrev": "FOR",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/09/19/65_0000_Fortaleza-2021.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/05/06/photo_220x220_KgJZuxA.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2021/09/19/65_0000_Fortaleza-2021.png",
   "scouts": {
-    "rodada_id": 5,
+    "rodada_id": 6,
     "g": 0,
     "a": 0,
-    "sg": 0,
+    "sg": 1,
     "fs": 0,
     "ff": 0,
     "fd": 0,
     "ft": 0,
-    "de": 0,
+    "de": 6,
     "dp": 0,
     "gc": 0,
     "cv": 0,
@@ -132,11 +150,11 @@
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 0,
-    "preco_num": 7,
-    "variacao_num": 0,
-    "media_num": 0,
-    "jogos_num": 0,
+    "pontos_num": 11,
+    "preco_num": 7.35,
+    "variacao_num": 0.35,
+    "media_num": 11,
+    "jogos_num": 1,
     "posicao_abrev": "gol",
     "posicao": "Goleiro"
   }

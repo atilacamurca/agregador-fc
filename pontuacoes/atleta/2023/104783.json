@@ -10,35 +10,40 @@
     2,
     3,
     4,
-    5
+    5,
+    6
   ],
   "pontos": [
     0.5,
     3.9,
     4.6,
     -0.1,
-    2.6
+    2.6,
+    2
   ],
   "precos": [
     2.9,
     3.6,
     4.5,
     3.78,
-    4.16
+    4.16,
+    4.13
   ],
   "variacoes": [
     -1.1,
     0.7,
     0.9,
     -0.72,
-    0.38
+    0.38,
+    -0.03
   ],
   "medias": [
     0.5,
     2.2,
     3,
     2.23,
-    2.3
+    2.3,
+    2.25
   ],
   "partidas": [
     {
@@ -105,17 +110,30 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/bahia_60x60.png",
       "placar_oficial_mandante": 3,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 6,
+      "clube_casa": "Bahia",
+      "clube_casa_id": 265,
+      "clube_visitante": "Flamengo",
+      "clube_casa_abrev": "BAH",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/bahia_60x60.png",
+      "clube_visitante_id": 262,
+      "clube_visitante_abrev": "FLA",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2018/04/09/Flamengo-65.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 3
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/02/27/photo_220x220_YfjCr6b.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2014/04/14/bahia_60x60.png",
   "scouts": {
-    "rodada_id": 5,
+    "rodada_id": 6,
     "g": 0,
     "a": 0,
     "sg": 0,
     "fs": 8,
-    "ff": 1,
+    "ff": 2,
     "fd": 0,
     "ft": 0,
     "de": 0,
@@ -127,16 +145,16 @@
     "gs": 0,
     "fc": 11,
     "i": 0,
-    "ds": 10,
+    "ds": 11,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 2.6,
-    "preco_num": 4.16,
-    "variacao_num": 0.38,
-    "media_num": 2.3,
-    "jogos_num": 5,
+    "pontos_num": 2,
+    "preco_num": 4.13,
+    "variacao_num": -0.03,
+    "media_num": 2.25,
+    "jogos_num": 6,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }

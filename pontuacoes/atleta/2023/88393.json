@@ -10,35 +10,40 @@
     2,
     3,
     4,
-    5
+    5,
+    6
   ],
   "pontos": [
     15,
     3.1,
     2.9,
     3.4,
-    8.1
+    8.1,
+    1.5
   ],
   "precos": [
     16.77,
     16.3,
     15.55,
     15.17,
-    15.64
+    15.64,
+    14.27
   ],
   "variacoes": [
     5.77,
     -0.47,
     -0.75,
     -0.38,
-    0.47
+    0.47,
+    -1.37
   ],
   "medias": [
     15,
     9.05,
     7,
     6.1,
-    6.5
+    6.5,
+    5.67
   ],
   "partidas": [
     {
@@ -105,38 +110,51 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/03/01/goias-65.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 6,
+      "clube_casa": "Bahia",
+      "clube_casa_id": 265,
+      "clube_visitante": "Flamengo",
+      "clube_casa_abrev": "BAH",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/bahia_60x60.png",
+      "clube_visitante_id": 262,
+      "clube_visitante_abrev": "FLA",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2018/04/09/Flamengo-65.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 3
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/04/11/photo_220x220_P9K1v1H.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2018/04/09/Flamengo-65.png",
   "scouts": {
-    "rodada_id": 5,
+    "rodada_id": 6,
     "g": 1,
     "a": 0,
     "sg": 2,
-    "fs": 8,
-    "ff": 1,
-    "fd": 2,
+    "fs": 9,
+    "ff": 2,
+    "fd": 3,
     "ft": 0,
     "de": 0,
     "dp": 0,
     "gc": 0,
     "cv": 0,
-    "ca": 0,
+    "ca": 1,
     "pp": 0,
     "gs": 0,
-    "fc": 7,
+    "fc": 11,
     "i": 0,
-    "ds": 7,
+    "ds": 8,
     "pi": 0,
     "pc": 0,
     "ps": 1,
     "v": 0,
-    "pontos_num": 8.1,
-    "preco_num": 15.64,
-    "variacao_num": 0.47,
-    "media_num": 6.5,
-    "jogos_num": 5,
+    "pontos_num": 1.5,
+    "preco_num": 14.27,
+    "variacao_num": -1.37,
+    "media_num": 5.67,
+    "jogos_num": 6,
     "posicao_abrev": "lat",
     "posicao": "Lateral"
   }

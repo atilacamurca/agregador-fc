@@ -10,35 +10,40 @@
     2,
     3,
     4,
-    5
+    5,
+    6
   ],
   "pontos": [
     2.6,
     0,
     0,
     0,
-    0
+    0,
+    0.1
   ],
   "precos": [
     6.19,
     6.19,
     6.19,
     6.19,
-    6.19
+    6.19,
+    4.53
   ],
   "variacoes": [
     -0.81,
     0,
     0,
     0,
-    0
+    0,
+    -1.66
   ],
   "medias": [
     2.6,
     2.6,
     2.6,
     2.6,
-    2.6
+    2.6,
+    1.35
   ],
   "partidas": [
     {
@@ -105,17 +110,30 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/sao_paulo_60x60.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 6,
+      "clube_casa": "Grêmio",
+      "clube_casa_id": 284,
+      "clube_visitante": "Fortaleza",
+      "clube_casa_abrev": "GRE",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/gremio_60x60.png",
+      "clube_visitante_id": 356,
+      "clube_visitante_abrev": "FOR",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/09/19/65_0000_Fortaleza-2021.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/05/06/photo_220x220_MqRx953.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2021/09/19/65_0000_Fortaleza-2021.png",
   "scouts": {
-    "rodada_id": 5,
+    "rodada_id": 6,
     "g": 0,
     "a": 0,
     "sg": 0,
     "fs": 1,
-    "ff": 0,
+    "ff": 1,
     "fd": 0,
     "ft": 0,
     "de": 0,
@@ -125,18 +143,18 @@
     "ca": 0,
     "pp": 0,
     "gs": 0,
-    "fc": 1,
-    "i": 0,
+    "fc": 3,
+    "i": 1,
     "ds": 2,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 0,
-    "preco_num": 6.19,
-    "variacao_num": 0,
-    "media_num": 2.6,
-    "jogos_num": 1,
+    "pontos_num": 0.1,
+    "preco_num": 4.53,
+    "variacao_num": -1.66,
+    "media_num": 1.35,
+    "jogos_num": 2,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }

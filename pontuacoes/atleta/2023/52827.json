@@ -10,35 +10,40 @@
     2,
     3,
     4,
-    5
+    5,
+    6
   ],
   "pontos": [
     0,
     0,
     1.6,
     0,
-    5
+    5,
+    13.3
   ],
   "precos": [
     8,
     8,
     5.99,
     5.99,
-    6.22
+    6.22,
+    8.37
   ],
   "variacoes": [
     0,
     0,
     -2.01,
     0,
-    0.23
+    0.23,
+    2.15
   ],
   "medias": [
     0,
     0,
     1.6,
     1.6,
-    3.3
+    3.3,
+    6.63
   ],
   "partidas": [
     {
@@ -105,14 +110,27 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/03/01/goias-65.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 6,
+      "clube_casa": "Bahia",
+      "clube_casa_id": 265,
+      "clube_visitante": "Flamengo",
+      "clube_casa_abrev": "BAH",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/bahia_60x60.png",
+      "clube_visitante_id": 262,
+      "clube_visitante_abrev": "FLA",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2018/04/09/Flamengo-65.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 3
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/04/11/photo_220x220_8l0cfjh.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2018/04/09/Flamengo-65.png",
   "scouts": {
-    "rodada_id": 5,
-    "g": 0,
-    "a": 0,
+    "rodada_id": 6,
+    "g": 1,
+    "a": 1,
     "sg": 1,
     "fs": 0,
     "ff": 1,
@@ -125,18 +143,18 @@
     "ca": 1,
     "pp": 0,
     "gs": 0,
-    "fc": 2,
+    "fc": 5,
     "i": 0,
-    "ds": 1,
+    "ds": 2,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 5,
-    "preco_num": 6.22,
-    "variacao_num": 0.23,
-    "media_num": 3.3,
-    "jogos_num": 2,
+    "pontos_num": 13.3,
+    "preco_num": 8.37,
+    "variacao_num": 2.15,
+    "media_num": 6.63,
+    "jogos_num": 3,
     "posicao_abrev": "zag",
     "posicao": "Zagueiro"
   }

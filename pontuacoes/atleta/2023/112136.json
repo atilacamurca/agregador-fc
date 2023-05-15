@@ -10,35 +10,40 @@
     2,
     3,
     4,
-    5
+    5,
+    6
   ],
   "pontos": [
     0,
     6.2,
     1.7,
     7.9,
-    0
+    0,
+    1.1
   ],
   "precos": [
     4,
     5.11,
     4.79,
     6.53,
-    6.53
+    6.53,
+    5.42
   ],
   "variacoes": [
     0,
     1.11,
     -0.32,
     1.74,
-    0
+    0,
+    -1.11
   ],
   "medias": [
     0,
     6.2,
     3.95,
     5.27,
-    5.27
+    5.27,
+    4.23
   ],
   "partidas": [
     {
@@ -105,12 +110,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/sao_paulo_60x60.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 6,
+      "clube_casa": "Corinthians",
+      "clube_casa_id": 264,
+      "clube_visitante": "São Paulo",
+      "clube_casa_abrev": "COR",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2019/09/30/Corinthians_65.png",
+      "clube_visitante_id": 276,
+      "clube_visitante_abrev": "SAO",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/sao_paulo_60x60.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2022/07/22/aef0c837cb53876eb1509bd8c3eaa586_220x220.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2014/04/14/sao_paulo_60x60.png",
   "scouts": {
-    "rodada_id": 5,
+    "rodada_id": 6,
     "g": 0,
     "a": 0,
     "sg": 2,
@@ -122,21 +140,21 @@
     "dp": 0,
     "gc": 0,
     "cv": 0,
-    "ca": 0,
+    "ca": 1,
     "pp": 0,
     "gs": 0,
-    "fc": 1,
+    "fc": 2,
     "i": 0,
-    "ds": 4,
+    "ds": 6,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 0,
-    "preco_num": 6.53,
-    "variacao_num": 0,
-    "media_num": 5.27,
-    "jogos_num": 3,
+    "pontos_num": 1.1,
+    "preco_num": 5.42,
+    "variacao_num": -1.11,
+    "media_num": 4.23,
+    "jogos_num": 4,
     "posicao_abrev": "zag",
     "posicao": "Zagueiro"
   }

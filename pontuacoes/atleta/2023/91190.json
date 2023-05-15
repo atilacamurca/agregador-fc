@@ -10,20 +10,23 @@
     2,
     3,
     4,
-    5
+    5,
+    6
   ],
   "pontos": [
     4.5,
     4,
     -4.2,
     0,
-    2.5
+    2.5,
+    0
   ],
   "precos": [
     4.84,
     5.98,
     3.91,
     3.91,
+    4.29,
     4.29
   ],
   "variacoes": [
@@ -31,13 +34,15 @@
     1.14,
     -2.07,
     0,
-    0.38
+    0.38,
+    0
   ],
   "medias": [
     4.5,
     4.25,
     1.43,
     1.43,
+    1.7,
     1.7
   ],
   "partidas": [
@@ -105,12 +110,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2017/11/23/Atletico-Mineiro-escudo65px.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 4
+    },
+    {
+      "rodada_id": 6,
+      "clube_casa": "Fluminense",
+      "clube_casa_id": 266,
+      "clube_visitante": "Cuiabá",
+      "clube_casa_abrev": "FLU",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/fluminense_60x60.png",
+      "clube_visitante_id": 1371,
+      "clube_visitante_abrev": "CUI",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/16/cuiaba65.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/04/11/photo_220x220_kfJYHxI.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2014/04/16/cuiaba65.png",
   "scouts": {
-    "rodada_id": 5,
+    "rodada_id": 6,
     "g": 0,
     "a": 0,
     "sg": 0,
@@ -132,9 +150,9 @@
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 2.5,
+    "pontos_num": 0,
     "preco_num": 4.29,
-    "variacao_num": 0.38,
+    "variacao_num": 0,
     "media_num": 1.7,
     "jogos_num": 4,
     "posicao_abrev": "lat",

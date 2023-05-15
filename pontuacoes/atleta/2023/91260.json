@@ -10,35 +10,40 @@
     2,
     3,
     4,
-    5
+    5,
+    6
   ],
   "pontos": [
     5,
     3,
     9,
     6,
-    9
+    9,
+    0
   ],
   "precos": [
     7.1,
     7.21,
     9.23,
     9.51,
-    10.43
+    10.43,
+    8.93
   ],
   "variacoes": [
     1.1,
     0.11,
     2.02,
     0.28,
-    0.92
+    0.92,
+    -1.5
   ],
   "medias": [
     5,
     4,
     5.67,
     5.75,
-    6.4
+    6.4,
+    5.33
   ],
   "partidas": [
     {
@@ -105,12 +110,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/09/30/Corinthians_65.png",
       "placar_oficial_mandante": 3,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 6,
+      "clube_casa": "Goiás",
+      "clube_casa_id": 290,
+      "clube_visitante": "Botafogo",
+      "clube_casa_abrev": "GOI",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2021/03/01/goias-65.png",
+      "clube_visitante_id": 263,
+      "clube_visitante_abrev": "BOT",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-65.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/03/07/photo_220x220_83wBpb6.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-65.png",
   "scouts": {
-    "rodada_id": 5,
+    "rodada_id": 6,
     "g": 0,
     "a": 0,
     "sg": 2,
@@ -118,13 +136,13 @@
     "ff": 0,
     "fd": 0,
     "ft": 0,
-    "de": 26,
+    "de": 28,
     "dp": 0,
     "gc": 0,
     "cv": 0,
     "ca": 0,
     "pp": 0,
-    "gs": 4,
+    "gs": 6,
     "fc": 0,
     "i": 0,
     "ds": 0,
@@ -132,11 +150,11 @@
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 9,
-    "preco_num": 10.43,
-    "variacao_num": 0.92,
-    "media_num": 6.4,
-    "jogos_num": 5,
+    "pontos_num": 0,
+    "preco_num": 8.93,
+    "variacao_num": -1.5,
+    "media_num": 5.33,
+    "jogos_num": 6,
     "posicao_abrev": "gol",
     "posicao": "Goleiro"
   }

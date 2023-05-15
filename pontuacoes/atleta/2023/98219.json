@@ -10,35 +10,40 @@
     2,
     3,
     4,
-    5
+    5,
+    6
   ],
   "pontos": [
     8.2,
     2.6,
     -1.9,
     0,
-    0
+    0,
+    -0.5
   ],
   "precos": [
     9.16,
     9.26,
     7.67,
     7.67,
-    7.67
+    7.67,
+    6.41
   ],
   "variacoes": [
     3.16,
     0.1,
     -1.59,
     0,
-    0
+    0,
+    -1.26
   ],
   "medias": [
     8.2,
     5.4,
     2.97,
     2.97,
-    2.97
+    2.97,
+    2.1
   ],
   "partidas": [
     {
@@ -105,16 +110,29 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/09/09/Athletico-PR-65x65.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 6,
+      "clube_casa": "Atlético-MG",
+      "clube_casa_id": 282,
+      "clube_visitante": "Internacional",
+      "clube_casa_abrev": "ATL",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2017/11/23/Atletico-Mineiro-escudo65px.png",
+      "clube_visitante_id": 285,
+      "clube_visitante_abrev": "INT",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2016/05/03/inter65.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/03/07/photo_220x220_Ymwr1lY.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2016/05/03/inter65.png",
   "scouts": {
-    "rodada_id": 5,
+    "rodada_id": 6,
     "g": 0,
     "a": 0,
     "sg": 0,
-    "fs": 5,
+    "fs": 6,
     "ff": 3,
     "fd": 2,
     "ft": 0,
@@ -122,7 +140,7 @@
     "dp": 0,
     "gc": 0,
     "cv": 0,
-    "ca": 1,
+    "ca": 2,
     "pp": 0,
     "gs": 0,
     "fc": 7,
@@ -132,11 +150,11 @@
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 0,
-    "preco_num": 7.67,
-    "variacao_num": 0,
-    "media_num": 2.97,
-    "jogos_num": 3,
+    "pontos_num": -0.5,
+    "preco_num": 6.41,
+    "variacao_num": -1.26,
+    "media_num": 2.1,
+    "jogos_num": 4,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }

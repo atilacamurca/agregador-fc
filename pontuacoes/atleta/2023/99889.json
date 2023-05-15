@@ -10,20 +10,23 @@
     2,
     3,
     4,
-    5
+    5,
+    6
   ],
   "pontos": [
     2.1,
     0,
     0,
     0,
-    7.1
+    7.1,
+    0
   ],
   "precos": [
     5.23,
     5.23,
     5.23,
     5.23,
+    5.58,
     5.58
   ],
   "variacoes": [
@@ -31,13 +34,15 @@
     0,
     0,
     0,
-    0.35
+    0.35,
+    0
   ],
   "medias": [
     2.1,
     2.1,
     2.1,
     2.1,
+    4.6,
     4.6
   ],
   "partidas": [
@@ -105,12 +110,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/sao_paulo_60x60.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 6,
+      "clube_casa": "Corinthians",
+      "clube_casa_id": 264,
+      "clube_visitante": "São Paulo",
+      "clube_casa_abrev": "COR",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2019/09/30/Corinthians_65.png",
+      "clube_visitante_id": 276,
+      "clube_visitante_abrev": "SAO",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/sao_paulo_60x60.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/03/14/photo_220x220_Nls7aQV.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2014/04/14/sao_paulo_60x60.png",
   "scouts": {
-    "rodada_id": 5,
+    "rodada_id": 6,
     "g": 0,
     "a": 0,
     "sg": 1,
@@ -132,9 +150,9 @@
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 7.1,
+    "pontos_num": 0,
     "preco_num": 5.58,
-    "variacao_num": 0.35,
+    "variacao_num": 0,
     "media_num": 4.6,
     "jogos_num": 2,
     "posicao_abrev": "zag",

@@ -10,35 +10,40 @@
     2,
     3,
     4,
-    5
+    5,
+    6
   ],
   "pontos": [
     0,
     0,
     1.2,
     0,
-    10.6
+    10.6,
+    2
   ],
   "precos": [
     3,
     3,
     2.44,
     2.44,
-    4.62
+    4.62,
+    3.68
   ],
   "variacoes": [
     0,
     0,
     -0.56,
     0,
-    2.18
+    2.18,
+    -0.94
   ],
   "medias": [
     0,
     0,
     1.2,
     1.2,
-    5.9
+    5.9,
+    4.6
   ],
   "partidas": [
     {
@@ -105,12 +110,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/09/04/ESCUDO-VASCO-RGB_65px.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 6,
+      "clube_casa": "Vasco",
+      "clube_casa_id": 267,
+      "clube_visitante": "Santos",
+      "clube_casa_abrev": "VAS",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2021/09/04/ESCUDO-VASCO-RGB_65px.png",
+      "clube_visitante_id": 277,
+      "clube_visitante_abrev": "SAN",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/santos_60x60.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/03/14/photo_220x220_WLTp9mI.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2021/09/04/ESCUDO-VASCO-RGB_65px.png",
   "scouts": {
-    "rodada_id": 5,
+    "rodada_id": 6,
     "g": 1,
     "a": 0,
     "sg": 0,
@@ -122,21 +140,21 @@
     "dp": 0,
     "gc": 0,
     "cv": 0,
-    "ca": 0,
+    "ca": 1,
     "pp": 0,
     "gs": 0,
-    "fc": 1,
+    "fc": 3,
     "i": 0,
-    "ds": 2,
+    "ds": 5,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 10.6,
-    "preco_num": 4.62,
-    "variacao_num": 2.18,
-    "media_num": 5.9,
-    "jogos_num": 2,
+    "pontos_num": 2,
+    "preco_num": 3.68,
+    "variacao_num": -0.94,
+    "media_num": 4.6,
+    "jogos_num": 3,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }
