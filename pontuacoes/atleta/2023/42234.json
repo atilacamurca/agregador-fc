@@ -11,7 +11,8 @@
     3,
     4,
     5,
-    6
+    6,
+    7
   ],
   "pontos": [
     0.5,
@@ -19,7 +20,8 @@
     2,
     -1,
     -0.5,
-    -1
+    -1,
+    0
   ],
   "precos": [
     11.94,
@@ -27,7 +29,8 @@
     7.89,
     6.77,
     6.17,
-    5.63
+    5.63,
+    5.49
   ],
   "variacoes": [
     -6.06,
@@ -35,7 +38,8 @@
     -0.54,
     -1.12,
     -0.6,
-    -0.54
+    -0.54,
+    -0.14
   ],
   "medias": [
     0.5,
@@ -43,7 +47,8 @@
     1.17,
     0.63,
     0.4,
-    0.17
+    0.17,
+    0.15
   ],
   "partidas": [
     {
@@ -123,12 +128,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/sao_paulo_60x60.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 7,
+      "clube_casa": "Flamengo",
+      "clube_casa_id": 262,
+      "clube_visitante": "Corinthians",
+      "clube_casa_abrev": "FLA",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2018/04/09/Flamengo-65.png",
+      "clube_visitante_id": 264,
+      "clube_visitante_abrev": "COR",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/09/30/Corinthians_65.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/03/02/photo_220x220_uEoWXC8.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2019/09/30/Corinthians_65.png",
   "scouts": {
-    "rodada_id": 6,
+    "rodada_id": 7,
     "g": 0,
     "a": 0,
     "sg": 0,
@@ -136,13 +154,13 @@
     "ff": 0,
     "fd": 0,
     "ft": 0,
-    "de": 12,
+    "de": 14,
     "dp": 0,
     "gc": 0,
     "cv": 0,
-    "ca": 0,
+    "ca": 1,
     "pp": 0,
-    "gs": 11,
+    "gs": 12,
     "fc": 0,
     "i": 0,
     "ds": 0,
@@ -150,11 +168,11 @@
     "pc": 1,
     "ps": 0,
     "v": 0,
-    "pontos_num": -1,
-    "preco_num": 5.63,
-    "variacao_num": -0.54,
-    "media_num": 0.17,
-    "jogos_num": 6,
+    "pontos_num": 0,
+    "preco_num": 5.49,
+    "variacao_num": -0.14,
+    "media_num": 0.15,
+    "jogos_num": 7,
     "posicao_abrev": "gol",
     "posicao": "Goleiro"
   }

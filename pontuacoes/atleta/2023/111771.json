@@ -11,7 +11,8 @@
     3,
     4,
     5,
-    6
+    6,
+    7
   ],
   "pontos": [
     0.8,
@@ -19,7 +20,8 @@
     1.4,
     3.1,
     2.2,
-    1.7
+    1.7,
+    0
   ],
   "precos": [
     2.45,
@@ -27,7 +29,8 @@
     2.06,
     2.64,
     2.67,
-    2.68
+    2.68,
+    2.38
   ],
   "variacoes": [
     -0.55,
@@ -35,7 +38,8 @@
     0.23,
     0.58,
     0.03,
-    0.01
+    0.01,
+    -0.3
   ],
   "medias": [
     0.8,
@@ -43,7 +47,8 @@
     0.73,
     1.32,
     1.5,
-    1.53
+    1.53,
+    1.31
   ],
   "partidas": [
     {
@@ -123,12 +128,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2018/04/09/Flamengo-65.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 3
+    },
+    {
+      "rodada_id": 7,
+      "clube_casa": "Bahia",
+      "clube_casa_id": 265,
+      "clube_visitante": "Goiás",
+      "clube_casa_abrev": "BAH",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/bahia_60x60.png",
+      "clube_visitante_id": 290,
+      "clube_visitante_abrev": "GOI",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/03/01/goias-65.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/03/13/photo_220x220_OzxQsVM.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2014/04/14/bahia_60x60.png",
   "scouts": {
-    "rodada_id": 6,
+    "rodada_id": 7,
     "g": 0,
     "a": 0,
     "sg": 0,
@@ -150,11 +168,11 @@
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 1.7,
-    "preco_num": 2.68,
-    "variacao_num": 0.01,
-    "media_num": 1.53,
-    "jogos_num": 6,
+    "pontos_num": 0,
+    "preco_num": 2.38,
+    "variacao_num": -0.3,
+    "media_num": 1.31,
+    "jogos_num": 7,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }

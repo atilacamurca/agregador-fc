@@ -11,7 +11,8 @@
     3,
     4,
     5,
-    6
+    6,
+    7
   ],
   "pontos": [
     7.5,
@@ -19,7 +20,8 @@
     0,
     5.8,
     0.9,
-    3.6
+    3.6,
+    0
   ],
   "precos": [
     8.71,
@@ -27,7 +29,8 @@
     8.03,
     8.51,
     7.48,
-    7.81
+    7.81,
+    7.08
   ],
   "variacoes": [
     2.71,
@@ -35,7 +38,8 @@
     0,
     0.48,
     -1.03,
-    0.33
+    0.33,
+    -0.73
   ],
   "medias": [
     7.5,
@@ -43,7 +47,8 @@
     4.1,
     4.67,
     3.73,
-    3.7
+    3.7,
+    3.08
   ],
   "partidas": [
     {
@@ -123,12 +128,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2020/01/01/65.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 7,
+      "clube_casa": "Santos",
+      "clube_casa_id": 277,
+      "clube_visitante": "Palmeiras",
+      "clube_casa_abrev": "SAN",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/santos_60x60.png",
+      "clube_visitante_id": 275,
+      "clube_visitante_abrev": "PAL",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/palmeiras_60x60.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/03/15/photo_220x220_6tQjxwx.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2014/04/14/palmeiras_60x60.png",
   "scouts": {
-    "rodada_id": 6,
+    "rodada_id": 7,
     "g": 2,
     "a": 0,
     "sg": 0,
@@ -150,11 +168,11 @@
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 3.6,
-    "preco_num": 7.81,
-    "variacao_num": 0.33,
-    "media_num": 3.7,
-    "jogos_num": 5,
+    "pontos_num": 0,
+    "preco_num": 7.08,
+    "variacao_num": -0.73,
+    "media_num": 3.08,
+    "jogos_num": 6,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }

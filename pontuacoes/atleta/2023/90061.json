@@ -11,7 +11,8 @@
     3,
     4,
     5,
-    6
+    6,
+    7
   ],
   "pontos": [
     1.4,
@@ -19,7 +20,8 @@
     9.3,
     -0.7,
     6.3,
-    8
+    8,
+    0
   ],
   "precos": [
     5.42,
@@ -27,6 +29,7 @@
     9.78,
     8.18,
     9.22,
+    9.91,
     9.91
   ],
   "variacoes": [
@@ -35,7 +38,8 @@
     1.65,
     -1.6,
     1.04,
-    0.69
+    0.69,
+    0
   ],
   "medias": [
     1.4,
@@ -43,6 +47,7 @@
     7.07,
     5.13,
     5.36,
+    5.8,
     5.8
   ],
   "partidas": [
@@ -123,12 +128,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/09/19/65_0000_Fortaleza-2021.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 7,
+      "clube_casa": "América-MG",
+      "clube_casa_id": 327,
+      "clube_visitante": "Fortaleza",
+      "clube_casa_abrev": "AME",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2019/02/28/escudo65_1.png",
+      "clube_visitante_id": 356,
+      "clube_visitante_abrev": "FOR",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/09/19/65_0000_Fortaleza-2021.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/05/06/photo_220x220_PYjs4Li.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2021/09/19/65_0000_Fortaleza-2021.png",
   "scouts": {
-    "rodada_id": 6,
+    "rodada_id": 7,
     "g": 0,
     "a": 1,
     "sg": 3,
@@ -150,9 +168,9 @@
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 8,
+    "pontos_num": 0,
     "preco_num": 9.91,
-    "variacao_num": 0.69,
+    "variacao_num": 0,
     "media_num": 5.8,
     "jogos_num": 6,
     "posicao_abrev": "lat",

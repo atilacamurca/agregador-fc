@@ -11,7 +11,8 @@
     3,
     4,
     5,
-    6
+    6,
+    7
   ],
   "pontos": [
     8.28,
@@ -19,7 +20,8 @@
     5.2,
     5.15,
     2.68,
-    6.92
+    6.92,
+    5.72
   ],
   "precos": [
     12.44,
@@ -27,7 +29,8 @@
     12.12,
     12.26,
     11.45,
-    12.15
+    12.15,
+    12.11
   ],
   "variacoes": [
     1.44,
@@ -35,7 +38,8 @@
     0.3,
     0.14,
     -0.81,
-    0.7
+    0.7,
+    -0.04
   ],
   "medias": [
     8.28,
@@ -43,7 +47,8 @@
     5.67,
     5.54,
     4.97,
-    5.29
+    5.29,
+    5.35
   ],
   "partidas": [
     {
@@ -123,12 +128,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/09/19/65_0000_Fortaleza-2021.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 7,
+      "clube_casa": "Grêmio",
+      "clube_casa_id": 284,
+      "clube_visitante": "Internacional",
+      "clube_casa_abrev": "GRE",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/gremio_60x60.png",
+      "clube_visitante_id": 285,
+      "clube_visitante_abrev": "INT",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2016/05/03/inter65.png",
+      "placar_oficial_mandante": 3,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2021/07/12/a1f0a8f108ede4bf4ca2033148bcb547_220x220.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2014/04/14/gremio_60x60.png",
   "scouts": {
-    "rodada_id": 6,
+    "rodada_id": 7,
     "g": 0,
     "a": 0,
     "sg": 0,
@@ -149,12 +167,12 @@
     "pi": 0,
     "pc": 0,
     "ps": 0,
-    "v": 2,
-    "pontos_num": 6.92,
-    "preco_num": 12.15,
-    "variacao_num": 0.7,
-    "media_num": 5.29,
-    "jogos_num": 6,
+    "v": 3,
+    "pontos_num": 5.72,
+    "preco_num": 12.11,
+    "variacao_num": -0.04,
+    "media_num": 5.35,
+    "jogos_num": 7,
     "posicao_abrev": "tec",
     "posicao": "Técnico"
   }

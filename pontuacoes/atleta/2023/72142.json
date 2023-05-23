@@ -11,7 +11,8 @@
     3,
     4,
     5,
-    6
+    6,
+    7
   ],
   "pontos": [
     0,
@@ -19,7 +20,8 @@
     5,
     -1.6,
     2.4,
-    0
+    0,
+    0.8
   ],
   "precos": [
     4,
@@ -27,7 +29,8 @@
     4.34,
     3.12,
     3.62,
-    3.62
+    3.62,
+    3.26
   ],
   "variacoes": [
     0,
@@ -35,7 +38,8 @@
     0.34,
     -1.22,
     0.5,
-    0
+    0,
+    -0.36
   ],
   "medias": [
     0,
@@ -43,7 +47,8 @@
     5,
     1.7,
     1.93,
-    1.93
+    1.93,
+    1.65
   ],
   "partidas": [
     {
@@ -123,12 +128,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/02/13/65_cruzeiro-2021.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 4
+    },
+    {
+      "rodada_id": 7,
+      "clube_casa": "América-MG",
+      "clube_casa_id": 327,
+      "clube_visitante": "Fortaleza",
+      "clube_casa_abrev": "AME",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2019/02/28/escudo65_1.png",
+      "clube_visitante_id": 356,
+      "clube_visitante_abrev": "FOR",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/09/19/65_0000_Fortaleza-2021.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2022/04/12/2a7b85e6015605e0770fe393faf72a9a_220x220.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2019/02/28/escudo65_1.png",
   "scouts": {
-    "rodada_id": 6,
+    "rodada_id": 7,
     "g": 0,
     "a": 0,
     "sg": 0,
@@ -140,21 +158,21 @@
     "dp": 0,
     "gc": 0,
     "cv": 0,
-    "ca": 0,
+    "ca": 1,
     "pp": 0,
     "gs": 1,
-    "fc": 2,
+    "fc": 4,
     "i": 0,
-    "ds": 2,
+    "ds": 4,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 0,
-    "preco_num": 3.62,
-    "variacao_num": 0,
-    "media_num": 1.93,
-    "jogos_num": 3,
+    "pontos_num": 0.8,
+    "preco_num": 3.26,
+    "variacao_num": -0.36,
+    "media_num": 1.65,
+    "jogos_num": 4,
     "posicao_abrev": "zag",
     "posicao": "Zagueiro"
   }

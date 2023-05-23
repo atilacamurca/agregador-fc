@@ -11,7 +11,8 @@
     3,
     4,
     5,
-    6
+    6,
+    7
   ],
   "pontos": [
     0,
@@ -19,7 +20,8 @@
     0,
     7.8,
     0,
-    0
+    0,
+    3.3
   ],
   "precos": [
     3.87,
@@ -27,7 +29,8 @@
     5.5,
     6.66,
     6.66,
-    6.66
+    6.66,
+    5.95
   ],
   "variacoes": [
     -2.13,
@@ -35,7 +38,8 @@
     0,
     1.16,
     0,
-    0
+    0,
+    -0.71
   ],
   "medias": [
     0,
@@ -43,7 +47,8 @@
     3.7,
     5.07,
     5.07,
-    5.07
+    5.07,
+    4.63
   ],
   "partidas": [
     {
@@ -123,16 +128,29 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2016/05/03/inter65.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 7,
+      "clube_casa": "Grêmio",
+      "clube_casa_id": 284,
+      "clube_visitante": "Internacional",
+      "clube_casa_abrev": "GRE",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/gremio_60x60.png",
+      "clube_visitante_id": 285,
+      "clube_visitante_abrev": "INT",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2016/05/03/inter65.png",
+      "placar_oficial_mandante": 3,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/04/02/photo_220x220_Fbab3V0.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2016/05/03/inter65.png",
   "scouts": {
-    "rodada_id": 6,
+    "rodada_id": 7,
     "g": 0,
     "a": 0,
     "sg": 0,
-    "fs": 0,
+    "fs": 2,
     "ff": 0,
     "fd": 3,
     "ft": 0,
@@ -140,21 +158,21 @@
     "dp": 0,
     "gc": 0,
     "cv": 0,
-    "ca": 1,
+    "ca": 2,
     "pp": 0,
     "gs": 0,
-    "fc": 6,
+    "fc": 7,
     "i": 0,
-    "ds": 12,
+    "ds": 15,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 0,
-    "preco_num": 6.66,
-    "variacao_num": 0,
-    "media_num": 5.07,
-    "jogos_num": 3,
+    "pontos_num": 3.3,
+    "preco_num": 5.95,
+    "variacao_num": -0.71,
+    "media_num": 4.63,
+    "jogos_num": 4,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }

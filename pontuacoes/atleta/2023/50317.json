@@ -11,7 +11,8 @@
     3,
     4,
     5,
-    6
+    6,
+    7
   ],
   "pontos": [
     5,
@@ -19,7 +20,8 @@
     0,
     0,
     5,
-    5
+    5,
+    0
   ],
   "precos": [
     6.45,
@@ -27,6 +29,7 @@
     6.45,
     6.45,
     6.22,
+    6.48,
     6.48
   ],
   "variacoes": [
@@ -35,9 +38,11 @@
     0,
     0,
     -0.23,
-    0.26
+    0.26,
+    0
   ],
   "medias": [
+    5,
     5,
     5,
     5,
@@ -123,12 +128,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/16/cuiaba65.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 7,
+      "clube_casa": "Botafogo",
+      "clube_casa_id": 263,
+      "clube_visitante": "Fluminense",
+      "clube_casa_abrev": "BOT",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-65.png",
+      "clube_visitante_id": 266,
+      "clube_visitante_abrev": "FLU",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/fluminense_60x60.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/05/09/photo_220x220_kZuG4sE.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2014/04/14/fluminense_60x60.png",
   "scouts": {
-    "rodada_id": 6,
+    "rodada_id": 7,
     "g": 0,
     "a": 0,
     "sg": 3,
@@ -150,9 +168,9 @@
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 5,
+    "pontos_num": 0,
     "preco_num": 6.48,
-    "variacao_num": 0.26,
+    "variacao_num": 0,
     "media_num": 5,
     "jogos_num": 3,
     "posicao_abrev": "zag",

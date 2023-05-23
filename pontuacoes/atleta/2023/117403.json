@@ -7,23 +7,28 @@
   "posicao": "Atacante",
   "rodadas": [
     5,
-    6
+    6,
+    7
   ],
   "pontos": [
     1.1,
-    0.2
+    0.2,
+    5.4
   ],
   "precos": [
     1.14,
-    1
+    1,
+    2.4
   ],
   "variacoes": [
     0.14,
-    -0.14
+    -0.14,
+    1.4
   ],
   "medias": [
     1.1,
-    0.65
+    0.65,
+    2.23
   ],
   "partidas": [
     {
@@ -51,38 +56,51 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/02/13/65_cruzeiro-2021.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 4
+    },
+    {
+      "rodada_id": 7,
+      "clube_casa": "América-MG",
+      "clube_casa_id": 327,
+      "clube_visitante": "Fortaleza",
+      "clube_casa_abrev": "AME",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2019/02/28/escudo65_1.png",
+      "clube_visitante_id": 356,
+      "clube_visitante_abrev": "FOR",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/09/19/65_0000_Fortaleza-2021.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/05/09/photo_220x220_Xz7R3yj.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2019/02/28/escudo65_1.png",
   "scouts": {
-    "rodada_id": 6,
+    "rodada_id": 7,
     "g": 0,
-    "a": 0,
+    "a": 1,
     "sg": 0,
     "fs": 1,
-    "ff": 0,
+    "ff": 1,
     "fd": 0,
     "ft": 0,
     "de": 0,
     "dp": 0,
     "gc": 0,
     "cv": 0,
-    "ca": 0,
+    "ca": 1,
     "pp": 0,
     "gs": 0,
-    "fc": 1,
+    "fc": 3,
     "i": 1,
-    "ds": 1,
+    "ds": 2,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 0.2,
-    "preco_num": 1,
-    "variacao_num": -0.14,
-    "media_num": 0.65,
-    "jogos_num": 2,
+    "pontos_num": 5.4,
+    "preco_num": 2.4,
+    "variacao_num": 1.4,
+    "media_num": 2.23,
+    "jogos_num": 3,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }

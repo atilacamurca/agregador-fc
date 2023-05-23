@@ -7,23 +7,28 @@
   "posicao": "Atacante",
   "rodadas": [
     5,
-    6
+    6,
+    7
   ],
   "pontos": [
     3.7,
-    4.6
+    4.6,
+    3.8
   ],
   "precos": [
     2.21,
-    3.26
+    3.26,
+    3.7
   ],
   "variacoes": [
     1.21,
-    1.05
+    1.05,
+    0.44
   ],
   "medias": [
     3.7,
-    4.15
+    4.15,
+    4.03
   ],
   "partidas": [
     {
@@ -51,16 +56,29 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/sao_paulo_60x60.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 7,
+      "clube_casa": "Flamengo",
+      "clube_casa_id": 262,
+      "clube_visitante": "Corinthians",
+      "clube_casa_abrev": "FLA",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2018/04/09/Flamengo-65.png",
+      "clube_visitante_id": 264,
+      "clube_visitante_abrev": "COR",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/09/30/Corinthians_65.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2022/04/19/e9c12ff02569765cb5c876412fae8bb8_220x220.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2019/09/30/Corinthians_65.png",
   "scouts": {
-    "rodada_id": 6,
+    "rodada_id": 7,
     "g": 0,
     "a": 0,
     "sg": 0,
-    "fs": 1,
+    "fs": 2,
     "ff": 1,
     "fd": 2,
     "ft": 0,
@@ -71,18 +89,18 @@
     "ca": 0,
     "pp": 0,
     "gs": 0,
-    "fc": 0,
+    "fc": 1,
     "i": 0,
-    "ds": 3,
+    "ds": 6,
     "pi": 0,
     "pc": 0,
     "ps": 1,
     "v": 0,
-    "pontos_num": 4.6,
-    "preco_num": 3.26,
-    "variacao_num": 1.05,
-    "media_num": 4.15,
-    "jogos_num": 2,
+    "pontos_num": 3.8,
+    "preco_num": 3.7,
+    "variacao_num": 0.44,
+    "media_num": 4.03,
+    "jogos_num": 3,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }

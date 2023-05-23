@@ -11,7 +11,8 @@
     3,
     4,
     5,
-    6
+    6,
+    7
   ],
   "pontos": [
     1.2,
@@ -19,7 +20,8 @@
     3.5,
     10.6,
     0.8,
-    1.7
+    1.7,
+    3.8
   ],
   "precos": [
     4,
@@ -27,7 +29,8 @@
     4.14,
     6.49,
     5.13,
-    5.19
+    5.19,
+    5.63
   ],
   "variacoes": [
     -1,
@@ -35,7 +38,8 @@
     0.66,
     2.35,
     -1.36,
-    0.06
+    0.06,
+    0.44
   ],
   "medias": [
     1.2,
@@ -43,7 +47,8 @@
     2,
     4.15,
     3.48,
-    3.18
+    3.18,
+    3.27
   ],
   "partidas": [
     {
@@ -123,18 +128,31 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/sao_paulo_60x60.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 7,
+      "clube_casa": "São Paulo",
+      "clube_casa_id": 276,
+      "clube_visitante": "Vasco",
+      "clube_casa_abrev": "SAO",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/sao_paulo_60x60.png",
+      "clube_visitante_id": 267,
+      "clube_visitante_abrev": "VAS",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/09/04/ESCUDO-VASCO-RGB_65px.png",
+      "placar_oficial_mandante": 4,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2022/03/05/e91f0953fe782088f01eda528fd69b2f_220x220.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2014/04/14/sao_paulo_60x60.png",
   "scouts": {
-    "rodada_id": 6,
+    "rodada_id": 7,
     "g": 1,
     "a": 0,
     "sg": 0,
-    "fs": 2,
+    "fs": 3,
     "ff": 3,
-    "fd": 0,
+    "fd": 1,
     "ft": 0,
     "de": 0,
     "dp": 0,
@@ -143,18 +161,18 @@
     "ca": 1,
     "pp": 0,
     "gs": 0,
-    "fc": 11,
+    "fc": 12,
     "i": 0,
-    "ds": 10,
+    "ds": 12,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 1.7,
-    "preco_num": 5.19,
-    "variacao_num": 0.06,
-    "media_num": 3.18,
-    "jogos_num": 6,
+    "pontos_num": 3.8,
+    "preco_num": 5.63,
+    "variacao_num": 0.44,
+    "media_num": 3.27,
+    "jogos_num": 7,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }

@@ -11,7 +11,8 @@
     3,
     4,
     5,
-    6
+    6,
+    7
   ],
   "pontos": [
     0,
@@ -19,7 +20,8 @@
     7.1,
     5.4,
     0,
-    4.6
+    4.6,
+    0
   ],
   "precos": [
     7,
@@ -27,6 +29,7 @@
     7.06,
     7.39,
     6.26,
+    6.99,
     6.99
   ],
   "variacoes": [
@@ -35,7 +38,8 @@
     0.06,
     0.33,
     -1.13,
-    0.73
+    0.73,
+    0
   ],
   "medias": [
     0,
@@ -43,6 +47,7 @@
     7.1,
     6.25,
     4.17,
+    4.28,
     4.28
   ],
   "partidas": [
@@ -123,12 +128,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2016/05/03/inter65.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 7,
+      "clube_casa": "Grêmio",
+      "clube_casa_id": 284,
+      "clube_visitante": "Internacional",
+      "clube_casa_abrev": "GRE",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/gremio_60x60.png",
+      "clube_visitante_id": 285,
+      "clube_visitante_abrev": "INT",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2016/05/03/inter65.png",
+      "placar_oficial_mandante": 3,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/03/07/photo_220x220_8fg8wbo.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2016/05/03/inter65.png",
   "scouts": {
-    "rodada_id": 6,
+    "rodada_id": 7,
     "g": 0,
     "a": 0,
     "sg": 1,
@@ -150,9 +168,9 @@
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 4.6,
+    "pontos_num": 0,
     "preco_num": 6.99,
-    "variacao_num": 0.73,
+    "variacao_num": 0,
     "media_num": 4.28,
     "jogos_num": 4,
     "posicao_abrev": "lat",
