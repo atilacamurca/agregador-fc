@@ -12,7 +12,8 @@
     4,
     5,
     6,
-    7
+    7,
+    8
   ],
   "pontos": [
     0,
@@ -21,7 +22,8 @@
     0,
     0,
     0,
-    1.7
+    1.7,
+    -0.3
   ],
   "precos": [
     4,
@@ -30,7 +32,8 @@
     4,
     4,
     4,
-    3.14
+    3.14,
+    2.78
   ],
   "variacoes": [
     0,
@@ -39,7 +42,8 @@
     0,
     0,
     0,
-    -0.86
+    -0.86,
+    -0.36
   ],
   "medias": [
     0,
@@ -48,7 +52,8 @@
     0,
     0,
     0,
-    1.7
+    1.7,
+    0.7
   ],
   "partidas": [
     {
@@ -141,12 +146,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/03/01/goias-65.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 8,
+      "clube_casa": "São Paulo",
+      "clube_casa_id": 276,
+      "clube_visitante": "Goiás",
+      "clube_casa_abrev": "SAO",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/sao_paulo_60x60.png",
+      "clube_visitante_id": 290,
+      "clube_visitante_abrev": "GOI",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/03/01/goias-65.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/03/11/photo_220x220_Kdrpiw9.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2021/03/01/goias-65.png",
   "scouts": {
-    "rodada_id": 7,
+    "rodada_id": 8,
     "g": 0,
     "a": 0,
     "sg": 0,
@@ -161,18 +179,18 @@
     "ca": 0,
     "pp": 0,
     "gs": 0,
-    "fc": 0,
+    "fc": 1,
     "i": 0,
     "ds": 0,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 1.7,
-    "preco_num": 3.14,
-    "variacao_num": -0.86,
-    "media_num": 1.7,
-    "jogos_num": 1,
+    "pontos_num": -0.3,
+    "preco_num": 2.78,
+    "variacao_num": -0.36,
+    "media_num": 0.7,
+    "jogos_num": 2,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }

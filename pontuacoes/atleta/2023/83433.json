@@ -12,7 +12,8 @@
     4,
     5,
     6,
-    7
+    7,
+    8
   ],
   "pontos": [
     2.4,
@@ -21,7 +22,8 @@
     1.7,
     4.3,
     3.2,
-    0.7
+    0.7,
+    1.2
   ],
   "precos": [
     8,
@@ -30,6 +32,7 @@
     6.25,
     6.63,
     6.54,
+    6.05,
     6.05
   ],
   "variacoes": [
@@ -39,7 +42,8 @@
     -0.04,
     0.38,
     -0.09,
-    -0.49
+    -0.49,
+    0
   ],
   "medias": [
     2.4,
@@ -48,7 +52,8 @@
     1.87,
     2.36,
     2.5,
-    2.24
+    2.24,
+    2.11
   ],
   "partidas": [
     {
@@ -141,12 +146,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2017/11/23/Atletico-Mineiro-escudo65px.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 8,
+      "clube_casa": "Atlético-MG",
+      "clube_casa_id": 282,
+      "clube_visitante": "Palmeiras",
+      "clube_casa_abrev": "ATL",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2017/11/23/Atletico-Mineiro-escudo65px.png",
+      "clube_visitante_id": 275,
+      "clube_visitante_abrev": "PAL",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/palmeiras_60x60.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/03/31/photo_220x220_TvGvJD9.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2017/11/23/Atletico-Mineiro-escudo65px.png",
   "scouts": {
-    "rodada_id": 7,
+    "rodada_id": 8,
     "g": 0,
     "a": 0,
     "sg": 0,
@@ -163,16 +181,16 @@
     "gs": 0,
     "fc": 1,
     "i": 0,
-    "ds": 11,
+    "ds": 12,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 0.7,
+    "pontos_num": 1.2,
     "preco_num": 6.05,
-    "variacao_num": -0.49,
-    "media_num": 2.24,
-    "jogos_num": 7,
+    "variacao_num": 0,
+    "media_num": 2.11,
+    "jogos_num": 8,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }

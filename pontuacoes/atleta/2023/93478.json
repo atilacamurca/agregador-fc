@@ -12,7 +12,8 @@
     4,
     5,
     6,
-    7
+    7,
+    8
   ],
   "pontos": [
     9.9,
@@ -21,7 +22,8 @@
     2.2,
     0.5,
     0.5,
-    1.2
+    1.2,
+    9
   ],
   "precos": [
     10.9,
@@ -30,7 +32,8 @@
     12.88,
     11.8,
     11.24,
-    10.98
+    10.98,
+    12.42
   ],
   "variacoes": [
     3.9,
@@ -39,7 +42,8 @@
     -1.6,
     -1.08,
     -0.56,
-    -0.26
+    -0.26,
+    1.44
   ],
   "medias": [
     9.9,
@@ -48,7 +52,8 @@
     7.93,
     6.07,
     4.96,
-    4.33
+    4.33,
+    5
   ],
   "partidas": [
     {
@@ -141,16 +146,29 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2016/05/03/inter65.png",
       "placar_oficial_mandante": 3,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 8,
+      "clube_casa": "Internacional",
+      "clube_casa_id": 285,
+      "clube_visitante": "Bahia",
+      "clube_casa_abrev": "INT",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2016/05/03/inter65.png",
+      "clube_visitante_id": 265,
+      "clube_visitante_abrev": "BAH",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/bahia_60x60.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/03/07/photo_220x220_TAoUoam.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2016/05/03/inter65.png",
   "scouts": {
-    "rodada_id": 7,
-    "g": 1,
+    "rodada_id": 8,
+    "g": 2,
     "a": 1,
     "sg": 0,
-    "fs": 7,
+    "fs": 9,
     "ff": 1,
     "fd": 1,
     "ft": 0,
@@ -168,11 +186,11 @@
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 1.2,
-    "preco_num": 10.98,
-    "variacao_num": -0.26,
-    "media_num": 4.33,
-    "jogos_num": 6,
+    "pontos_num": 9,
+    "preco_num": 12.42,
+    "variacao_num": 1.44,
+    "media_num": 5,
+    "jogos_num": 7,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }

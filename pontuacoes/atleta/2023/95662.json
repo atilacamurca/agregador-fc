@@ -12,7 +12,8 @@
     4,
     5,
     6,
-    7
+    7,
+    8
   ],
   "pontos": [
     1.2,
@@ -21,7 +22,8 @@
     0,
     0,
     0,
-    -0.1
+    -0.1,
+    4.9
   ],
   "precos": [
     4.65,
@@ -30,7 +32,8 @@
     2.79,
     2.79,
     2.79,
-    2.34
+    2.34,
+    3.31
   ],
   "variacoes": [
     -1.35,
@@ -39,7 +42,8 @@
     -0.56,
     0,
     0,
-    -0.45
+    -0.45,
+    0.97
   ],
   "medias": [
     1.2,
@@ -48,7 +52,8 @@
     0.37,
     0.37,
     0.37,
-    0.25
+    0.25,
+    1.18
   ],
   "partidas": [
     {
@@ -141,17 +146,30 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/09/19/65_0000_Fortaleza-2021.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 8,
+      "clube_casa": "Botafogo",
+      "clube_casa_id": 263,
+      "clube_visitante": "América-MG",
+      "clube_casa_abrev": "BOT",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-65.png",
+      "clube_visitante_id": 327,
+      "clube_visitante_abrev": "AME",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/02/28/escudo65_1.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2022/02/24/38a9d99d34c06f3714df211deaf2bd0f_220x220.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2019/02/28/escudo65_1.png",
   "scouts": {
-    "rodada_id": 7,
+    "rodada_id": 8,
     "g": 0,
     "a": 0,
     "sg": 0,
-    "fs": 0,
-    "ff": 0,
+    "fs": 1,
+    "ff": 1,
     "fd": 1,
     "ft": 0,
     "de": 0,
@@ -163,16 +181,16 @@
     "gs": 0,
     "fc": 2,
     "i": 0,
-    "ds": 2,
+    "ds": 5,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": -0.1,
-    "preco_num": 2.34,
-    "variacao_num": -0.45,
-    "media_num": 0.25,
-    "jogos_num": 4,
+    "pontos_num": 4.9,
+    "preco_num": 3.31,
+    "variacao_num": 0.97,
+    "media_num": 1.18,
+    "jogos_num": 5,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }

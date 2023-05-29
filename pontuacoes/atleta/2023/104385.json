@@ -12,7 +12,8 @@
     4,
     5,
     6,
-    7
+    7,
+    8
   ],
   "pontos": [
     2.9,
@@ -21,7 +22,8 @@
     1.9,
     -0.5,
     0,
-    0
+    0,
+    5
   ],
   "precos": [
     3.81,
@@ -30,7 +32,8 @@
     5.91,
     5.17,
     5.17,
-    5.17
+    5.17,
+    5.75
   ],
   "variacoes": [
     0.81,
@@ -39,7 +42,8 @@
     -0.37,
     -0.74,
     0,
-    0
+    0,
+    0.58
   ],
   "medias": [
     2.9,
@@ -48,7 +52,8 @@
     3.8,
     2.94,
     2.94,
-    2.94
+    2.94,
+    3.28
   ],
   "partidas": [
     {
@@ -141,15 +146,28 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2016/05/03/inter65.png",
       "placar_oficial_mandante": 3,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 8,
+      "clube_casa": "Internacional",
+      "clube_casa_id": 285,
+      "clube_visitante": "Bahia",
+      "clube_casa_abrev": "INT",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2016/05/03/inter65.png",
+      "clube_visitante_id": 265,
+      "clube_visitante_abrev": "BAH",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/bahia_60x60.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/03/07/photo_220x220_I7Q1WEp.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2016/05/03/inter65.png",
   "scouts": {
-    "rodada_id": 7,
+    "rodada_id": 8,
     "g": 0,
     "a": 0,
-    "sg": 1,
+    "sg": 2,
     "fs": 5,
     "ff": 1,
     "fd": 1,
@@ -168,11 +186,11 @@
     "pc": 1,
     "ps": 0,
     "v": 0,
-    "pontos_num": 0,
-    "preco_num": 5.17,
-    "variacao_num": 0,
-    "media_num": 2.94,
-    "jogos_num": 5,
+    "pontos_num": 5,
+    "preco_num": 5.75,
+    "variacao_num": 0.58,
+    "media_num": 3.28,
+    "jogos_num": 6,
     "posicao_abrev": "zag",
     "posicao": "Zagueiro"
   }
