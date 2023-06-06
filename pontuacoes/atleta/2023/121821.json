@@ -13,7 +13,8 @@
     5,
     6,
     7,
-    8
+    8,
+    9
   ],
   "pontos": [
     0,
@@ -23,7 +24,8 @@
     0.5,
     3.2,
     1.2,
-    5
+    5,
+    3
   ],
   "precos": [
     1,
@@ -33,7 +35,8 @@
     0.86,
     1.5,
     1.33,
-    2.21
+    2.21,
+    2.13
   ],
   "variacoes": [
     0,
@@ -43,7 +46,8 @@
     -0.07,
     0.64,
     -0.17,
-    0.88
+    0.88,
+    -0.08
   ],
   "medias": [
     0,
@@ -53,7 +57,8 @@
     0.53,
     1.2,
     1.2,
-    1.83
+    1.83,
+    2
   ],
   "partidas": [
     {
@@ -159,18 +164,31 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/fluminense_60x60.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 9,
+      "clube_casa": "América-MG",
+      "clube_casa_id": 327,
+      "clube_visitante": "Corinthians",
+      "clube_casa_abrev": "AME",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2019/02/28/escudo65_1.png",
+      "clube_visitante_id": 264,
+      "clube_visitante_abrev": "COR",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/09/30/Corinthians_65.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/03/02/photo_220x220_dsRP9Y8.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2019/09/30/Corinthians_65.png",
   "scouts": {
-    "rodada_id": 8,
+    "rodada_id": 9,
     "g": 0,
     "a": 0,
     "sg": 1,
     "fs": 1,
     "ff": 1,
-    "fd": 0,
+    "fd": 1,
     "ft": 0,
     "de": 0,
     "dp": 0,
@@ -179,18 +197,18 @@
     "ca": 1,
     "pp": 0,
     "gs": 0,
-    "fc": 1,
+    "fc": 3,
     "i": 0,
-    "ds": 5,
+    "ds": 7,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 5,
-    "preco_num": 2.21,
-    "variacao_num": 0.88,
-    "media_num": 1.83,
-    "jogos_num": 6,
+    "pontos_num": 3,
+    "preco_num": 2.13,
+    "variacao_num": -0.08,
+    "media_num": 2,
+    "jogos_num": 7,
     "posicao_abrev": "zag",
     "posicao": "Zagueiro"
   }
