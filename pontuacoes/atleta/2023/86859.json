@@ -14,7 +14,8 @@
     6,
     7,
     8,
-    9
+    9,
+    10
   ],
   "pontos": [
     0,
@@ -25,7 +26,8 @@
     0,
     0,
     -0.6,
-    0
+    0,
+    0.9
   ],
   "precos": [
     5,
@@ -36,7 +38,8 @@
     3.4,
     3.4,
     2.71,
-    2.71
+    2.71,
+    2.78
   ],
   "variacoes": [
     0,
@@ -47,7 +50,8 @@
     0,
     0,
     -0.69,
-    0
+    0,
+    0.07
   ],
   "medias": [
     0,
@@ -58,7 +62,8 @@
     1,
     1,
     0.47,
-    0.47
+    0.47,
+    0.58
   ],
   "partidas": [
     {
@@ -177,16 +182,29 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/bahia_60x60.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 10,
+      "clube_casa": "Botafogo",
+      "clube_casa_id": 263,
+      "clube_visitante": "Fortaleza",
+      "clube_casa_abrev": "BOT",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-65.png",
+      "clube_visitante_id": 356,
+      "clube_visitante_abrev": "FOR",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/09/19/65_0000_Fortaleza-2021.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/05/06/photo_220x220_Sq4MDcU.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2021/09/19/65_0000_Fortaleza-2021.png",
   "scouts": {
-    "rodada_id": 9,
+    "rodada_id": 10,
     "g": 0,
     "a": 0,
     "sg": 0,
-    "fs": 1,
+    "fs": 3,
     "ff": 0,
     "fd": 0,
     "ft": 0,
@@ -194,21 +212,21 @@
     "dp": 0,
     "gc": 0,
     "cv": 0,
-    "ca": 0,
+    "ca": 1,
     "pp": 0,
     "gs": 0,
-    "fc": 5,
+    "fc": 6,
     "i": 0,
-    "ds": 2,
+    "ds": 3,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 0,
-    "preco_num": 2.71,
-    "variacao_num": 0,
-    "media_num": 0.47,
-    "jogos_num": 3,
+    "pontos_num": 0.9,
+    "preco_num": 2.78,
+    "variacao_num": 0.07,
+    "media_num": 0.58,
+    "jogos_num": 4,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }

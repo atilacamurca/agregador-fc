@@ -14,7 +14,8 @@
     6,
     7,
     8,
-    9
+    9,
+    10
   ],
   "pontos": [
     0.8,
@@ -25,7 +26,8 @@
     4.6,
     0,
     0,
-    -0.3
+    -0.3,
+    0.5
   ],
   "precos": [
     3.1,
@@ -36,7 +38,8 @@
     3.95,
     3.95,
     3.95,
-    3.13
+    3.13,
+    3.17
   ],
   "variacoes": [
     -0.9,
@@ -47,7 +50,8 @@
     0.89,
     0,
     0,
-    -0.82
+    -0.82,
+    0.04
   ],
   "medias": [
     0.8,
@@ -58,7 +62,8 @@
     2.08,
     2.08,
     2.08,
-    1.68
+    1.68,
+    1.51
   ],
   "partidas": [
     {
@@ -177,16 +182,29 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2017/03/29/coritiba65.png",
       "placar_oficial_mandante": 3,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 10,
+      "clube_casa": "São Paulo",
+      "clube_casa_id": 276,
+      "clube_visitante": "Palmeiras",
+      "clube_casa_abrev": "SAO",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/sao_paulo_60x60.png",
+      "clube_visitante_id": 275,
+      "clube_visitante_abrev": "PAL",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/palmeiras_60x60.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/03/15/photo_220x220_6TfTz4T.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2014/04/14/palmeiras_60x60.png",
   "scouts": {
-    "rodada_id": 9,
+    "rodada_id": 10,
     "g": 0,
     "a": 0,
     "sg": 0,
-    "fs": 3,
+    "fs": 4,
     "ff": 1,
     "fd": 0,
     "ft": 0,
@@ -204,11 +222,11 @@
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": -0.3,
-    "preco_num": 3.13,
-    "variacao_num": -0.82,
-    "media_num": 1.68,
-    "jogos_num": 6,
+    "pontos_num": 0.5,
+    "preco_num": 3.17,
+    "variacao_num": 0.04,
+    "media_num": 1.51,
+    "jogos_num": 7,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }

@@ -14,7 +14,8 @@
     6,
     7,
     8,
-    9
+    9,
+    10
   ],
   "pontos": [
     0,
@@ -25,7 +26,8 @@
     2,
     1.2,
     0,
-    0.5
+    0.5,
+    0
   ],
   "precos": [
     5,
@@ -36,7 +38,8 @@
     3.39,
     3.28,
     3.28,
-    3.06
+    3.06,
+    2.9
   ],
   "variacoes": [
     0,
@@ -47,7 +50,8 @@
     -0.08,
     -0.11,
     0,
-    -0.22
+    -0.22,
+    -0.16
   ],
   "medias": [
     0,
@@ -58,7 +62,8 @@
     1.25,
     1.24,
     1.24,
-    1.12
+    1.12,
+    0.96
   ],
   "partidas": [
     {
@@ -177,12 +182,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/bahia_60x60.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 10,
+      "clube_casa": "Botafogo",
+      "clube_casa_id": 263,
+      "clube_visitante": "Fortaleza",
+      "clube_casa_abrev": "BOT",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-65.png",
+      "clube_visitante_id": 356,
+      "clube_visitante_abrev": "FOR",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/09/19/65_0000_Fortaleza-2021.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/05/06/photo_220x220_UU97nfg.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2021/09/19/65_0000_Fortaleza-2021.png",
   "scouts": {
-    "rodada_id": 9,
+    "rodada_id": 10,
     "g": 0,
     "a": 0,
     "sg": 0,
@@ -204,11 +222,11 @@
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 0.5,
-    "preco_num": 3.06,
-    "variacao_num": -0.22,
-    "media_num": 1.12,
-    "jogos_num": 6,
+    "pontos_num": 0,
+    "preco_num": 2.9,
+    "variacao_num": -0.16,
+    "media_num": 0.96,
+    "jogos_num": 7,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }

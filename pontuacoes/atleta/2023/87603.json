@@ -14,7 +14,8 @@
     6,
     7,
     8,
-    9
+    9,
+    10
   ],
   "pontos": [
     0,
@@ -25,7 +26,8 @@
     0,
     3,
     1,
-    7.5
+    7.5,
+    0
   ],
   "precos": [
     2,
@@ -36,7 +38,8 @@
     3.23,
     2.92,
     2.69,
-    4
+    4,
+    2.95
   ],
   "variacoes": [
     0,
@@ -47,7 +50,8 @@
     0,
     -0.31,
     -0.23,
-    1.31
+    1.31,
+    -1.05
   ],
   "medias": [
     0,
@@ -58,7 +62,8 @@
     7.5,
     5.25,
     3.83,
-    4.75
+    4.75,
+    3.8
   ],
   "partidas": [
     {
@@ -177,12 +182,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/09/30/Corinthians_65.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 10,
+      "clube_casa": "América-MG",
+      "clube_casa_id": 327,
+      "clube_visitante": "Athlético-PR",
+      "clube_casa_abrev": "AME",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2019/02/28/escudo65_1.png",
+      "clube_visitante_id": 293,
+      "clube_visitante_abrev": "ATL",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/09/09/Athletico-PR-65x65.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/03/08/photo_220x220_1bOXVa7.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2019/02/28/escudo65_1.png",
   "scouts": {
-    "rodada_id": 9,
+    "rodada_id": 10,
     "g": 0,
     "a": 0,
     "sg": 1,
@@ -190,13 +208,13 @@
     "ff": 0,
     "fd": 0,
     "ft": 0,
-    "de": 18,
+    "de": 20,
     "dp": 0,
     "gc": 0,
     "cv": 0,
     "ca": 0,
     "pp": 0,
-    "gs": 5,
+    "gs": 7,
     "fc": 0,
     "i": 0,
     "ds": 0,
@@ -204,11 +222,11 @@
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 7.5,
-    "preco_num": 4,
-    "variacao_num": 1.31,
-    "media_num": 4.75,
-    "jogos_num": 4,
+    "pontos_num": 0,
+    "preco_num": 2.95,
+    "variacao_num": -1.05,
+    "media_num": 3.8,
+    "jogos_num": 5,
     "posicao_abrev": "gol",
     "posicao": "Goleiro"
   }

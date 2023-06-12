@@ -10,35 +10,40 @@
     6,
     7,
     8,
-    9
+    9,
+    10
   ],
   "pontos": [
     3.7,
     4.6,
     3.8,
     -0.3,
-    0
+    0,
+    0.5
   ],
   "precos": [
     2.21,
     3.26,
     3.7,
     3.07,
-    3.07
+    3.07,
+    2.97
   ],
   "variacoes": [
     1.21,
     1.05,
     0.44,
     -0.63,
-    0
+    0,
+    -0.1
   ],
   "medias": [
     3.7,
     4.15,
     4.03,
     2.95,
-    2.95
+    2.95,
+    2.46
   ],
   "partidas": [
     {
@@ -105,16 +110,29 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/09/30/Corinthians_65.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 10,
+      "clube_casa": "Corinthians",
+      "clube_casa_id": 264,
+      "clube_visitante": "Cuiabá",
+      "clube_casa_abrev": "COR",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2019/09/30/Corinthians_65.png",
+      "clube_visitante_id": 1371,
+      "clube_visitante_abrev": "CUI",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/16/cuiaba65.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2022/04/19/e9c12ff02569765cb5c876412fae8bb8_220x220.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2019/09/30/Corinthians_65.png",
   "scouts": {
-    "rodada_id": 9,
+    "rodada_id": 10,
     "g": 0,
     "a": 0,
     "sg": 0,
-    "fs": 2,
+    "fs": 3,
     "ff": 1,
     "fd": 2,
     "ft": 0,
@@ -132,11 +150,11 @@
     "pc": 0,
     "ps": 1,
     "v": 0,
-    "pontos_num": 0,
-    "preco_num": 3.07,
-    "variacao_num": 0,
-    "media_num": 2.95,
-    "jogos_num": 4,
+    "pontos_num": 0.5,
+    "preco_num": 2.97,
+    "variacao_num": -0.1,
+    "media_num": 2.46,
+    "jogos_num": 5,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }

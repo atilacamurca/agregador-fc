@@ -14,7 +14,8 @@
     6,
     7,
     8,
-    9
+    9,
+    10
   ],
   "pontos": [
     5.9,
@@ -25,7 +26,8 @@
     4,
     6.9,
     3.4,
-    1.1
+    1.1,
+    12.3
   ],
   "precos": [
     5.74,
@@ -36,7 +38,8 @@
     6.82,
     7.59,
     7.28,
-    6.85
+    6.85,
+    8.93
   ],
   "variacoes": [
     2.74,
@@ -47,7 +50,8 @@
     0.12,
     0.77,
     -0.31,
-    -0.43
+    -0.43,
+    2.08
   ],
   "medias": [
     5.9,
@@ -58,7 +62,8 @@
     3.42,
     3.92,
     3.86,
-    3.55
+    3.55,
+    4.42
   ],
   "partidas": [
     {
@@ -177,16 +182,29 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2018/04/09/Flamengo-65.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 4
+    },
+    {
+      "rodada_id": 10,
+      "clube_casa": "Flamengo",
+      "clube_casa_id": 262,
+      "clube_visitante": "Grêmio",
+      "clube_casa_abrev": "FLA",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2018/04/09/Flamengo-65.png",
+      "clube_visitante_id": 284,
+      "clube_visitante_abrev": "GRE",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/gremio_60x60.png",
+      "placar_oficial_mandante": 3,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/04/11/photo_220x220_FLI9Vom.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2018/04/09/Flamengo-65.png",
   "scouts": {
-    "rodada_id": 9,
+    "rodada_id": 10,
     "g": 0,
-    "a": 0,
-    "sg": 3,
-    "fs": 14,
+    "a": 1,
+    "sg": 4,
+    "fs": 15,
     "ff": 0,
     "fd": 1,
     "ft": 0,
@@ -197,18 +215,18 @@
     "ca": 0,
     "pp": 0,
     "gs": 0,
-    "fc": 18,
+    "fc": 20,
     "i": 5,
-    "ds": 13,
+    "ds": 15,
     "pi": 0,
     "pc": 1,
     "ps": 0,
     "v": 0,
-    "pontos_num": 1.1,
-    "preco_num": 6.85,
-    "variacao_num": -0.43,
-    "media_num": 3.55,
-    "jogos_num": 9,
+    "pontos_num": 12.3,
+    "preco_num": 8.93,
+    "variacao_num": 2.08,
+    "media_num": 4.42,
+    "jogos_num": 10,
     "posicao_abrev": "lat",
     "posicao": "Lateral"
   }

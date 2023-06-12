@@ -14,7 +14,8 @@
     6,
     7,
     8,
-    9
+    9,
+    10
   ],
   "pontos": [
     0.8,
@@ -25,7 +26,8 @@
     1.7,
     0,
     0,
-    0
+    0,
+    9.8
   ],
   "precos": [
     2.45,
@@ -36,7 +38,8 @@
     2.68,
     2.38,
     2.38,
-    2.38
+    2.38,
+    4.12
   ],
   "variacoes": [
     -0.55,
@@ -47,7 +50,8 @@
     0.01,
     -0.3,
     0,
-    0
+    0,
+    1.74
   ],
   "medias": [
     0.8,
@@ -58,7 +62,8 @@
     1.53,
     1.31,
     1.31,
-    1.31
+    1.31,
+    2.37
   ],
   "partidas": [
     {
@@ -177,16 +182,29 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/bahia_60x60.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 10,
+      "clube_casa": "Bahia",
+      "clube_casa_id": 265,
+      "clube_visitante": "Cruzeiro",
+      "clube_casa_abrev": "BAH",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/bahia_60x60.png",
+      "clube_visitante_id": 283,
+      "clube_visitante_abrev": "CRU",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/02/13/65_cruzeiro-2021.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/03/13/photo_220x220_OzxQsVM.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2014/04/14/bahia_60x60.png",
   "scouts": {
-    "rodada_id": 9,
-    "g": 0,
+    "rodada_id": 10,
+    "g": 1,
     "a": 0,
     "sg": 0,
-    "fs": 6,
+    "fs": 8,
     "ff": 1,
     "fd": 2,
     "ft": 0,
@@ -197,18 +215,18 @@
     "ca": 0,
     "pp": 0,
     "gs": 0,
-    "fc": 2,
-    "i": 0,
-    "ds": 3,
+    "fc": 3,
+    "i": 1,
+    "ds": 4,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 0,
-    "preco_num": 2.38,
-    "variacao_num": 0,
-    "media_num": 1.31,
-    "jogos_num": 7,
+    "pontos_num": 9.8,
+    "preco_num": 4.12,
+    "variacao_num": 1.74,
+    "media_num": 2.37,
+    "jogos_num": 8,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }

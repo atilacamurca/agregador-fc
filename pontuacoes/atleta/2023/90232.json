@@ -14,7 +14,8 @@
     6,
     7,
     8,
-    9
+    9,
+    10
   ],
   "pontos": [
     0,
@@ -25,7 +26,8 @@
     0,
     0,
     0,
-    1.8
+    1.8,
+    0
   ],
   "precos": [
     5,
@@ -36,6 +38,7 @@
     6.03,
     6.03,
     6.03,
+    5.3,
     5.3
   ],
   "variacoes": [
@@ -47,7 +50,8 @@
     0,
     0,
     0,
-    -0.73
+    -0.73,
+    0
   ],
   "medias": [
     0,
@@ -58,6 +62,7 @@
     4.67,
     4.67,
     4.67,
+    3.95,
     3.95
   ],
   "partidas": [
@@ -177,12 +182,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/sao_paulo_60x60.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 10,
+      "clube_casa": "São Paulo",
+      "clube_casa_id": 276,
+      "clube_visitante": "Palmeiras",
+      "clube_casa_abrev": "SAO",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/sao_paulo_60x60.png",
+      "clube_visitante_id": 275,
+      "clube_visitante_abrev": "PAL",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/palmeiras_60x60.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/04/15/photo_220x220_p3UWrBW.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2014/04/14/sao_paulo_60x60.png",
   "scouts": {
-    "rodada_id": 9,
+    "rodada_id": 10,
     "g": 0,
     "a": 0,
     "sg": 2,
@@ -204,9 +222,9 @@
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 1.8,
+    "pontos_num": 0,
     "preco_num": 5.3,
-    "variacao_num": -0.73,
+    "variacao_num": 0,
     "media_num": 3.95,
     "jogos_num": 4,
     "posicao_abrev": "lat",
