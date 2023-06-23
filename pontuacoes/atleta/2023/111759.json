@@ -15,7 +15,8 @@
     7,
     8,
     9,
-    10
+    10,
+    11
   ],
   "pontos": [
     0,
@@ -27,7 +28,8 @@
     0,
     0,
     0,
-    0
+    0,
+    1.7
   ],
   "precos": [
     4,
@@ -39,7 +41,8 @@
     2.99,
     2.99,
     2.99,
-    2.99
+    2.99,
+    2.64
   ],
   "variacoes": [
     0,
@@ -51,7 +54,8 @@
     0,
     0,
     0,
-    0
+    0,
+    -0.35
   ],
   "medias": [
     0,
@@ -63,7 +67,8 @@
     0.8,
     0.8,
     0.8,
-    0.8
+    0.8,
+    1.25
   ],
   "partidas": [
     {
@@ -195,16 +200,29 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/palmeiras_60x60.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 11,
+      "clube_casa": "Bahia",
+      "clube_casa_id": 265,
+      "clube_visitante": "Palmeiras",
+      "clube_casa_abrev": "BAH",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/bahia_60x60.png",
+      "clube_visitante_id": 275,
+      "clube_visitante_abrev": "PAL",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/palmeiras_60x60.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/03/15/photo_220x220_aPzreE2.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2014/04/14/palmeiras_60x60.png",
   "scouts": {
-    "rodada_id": 10,
+    "rodada_id": 11,
     "g": 0,
     "a": 0,
     "sg": 0,
-    "fs": 0,
+    "fs": 1,
     "ff": 1,
     "fd": 0,
     "ft": 0,
@@ -217,16 +235,16 @@
     "gs": 0,
     "fc": 0,
     "i": 0,
-    "ds": 0,
+    "ds": 1,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 0,
-    "preco_num": 2.99,
-    "variacao_num": 0,
-    "media_num": 0.8,
-    "jogos_num": 1,
+    "pontos_num": 1.7,
+    "preco_num": 2.64,
+    "variacao_num": -0.35,
+    "media_num": 1.25,
+    "jogos_num": 2,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }

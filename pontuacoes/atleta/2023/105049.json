@@ -15,7 +15,8 @@
     7,
     8,
     9,
-    10
+    10,
+    11
   ],
   "pontos": [
     3.2,
@@ -27,7 +28,8 @@
     1.1,
     8,
     0,
-    2
+    2,
+    1.2
   ],
   "precos": [
     4.65,
@@ -39,7 +41,8 @@
     3.94,
     5.38,
     4.21,
-    4.48
+    4.48,
+    4.39
   ],
   "variacoes": [
     0.65,
@@ -51,7 +54,8 @@
     0.02,
     1.44,
     -1.17,
-    0.27
+    0.27,
+    -0.09
   ],
   "medias": [
     3.2,
@@ -63,7 +67,8 @@
     1.27,
     2.11,
     1.88,
-    1.89
+    1.89,
+    1.83
   ],
   "partidas": [
     {
@@ -195,17 +200,30 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/09/19/65_0000_Fortaleza-2021.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 11,
+      "clube_casa": "Cuiabá",
+      "clube_casa_id": 1371,
+      "clube_visitante": "Botafogo",
+      "clube_casa_abrev": "CUI",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/16/cuiaba65.png",
+      "clube_visitante_id": 263,
+      "clube_visitante_abrev": "BOT",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-65.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/03/15/photo_220x220_XMfC6C1.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-65.png",
   "scouts": {
-    "rodada_id": 10,
+    "rodada_id": 11,
     "g": 1,
     "a": 0,
     "sg": 0,
     "fs": 2,
-    "ff": 2,
+    "ff": 3,
     "fd": 2,
     "ft": 0,
     "de": 0,
@@ -215,18 +233,18 @@
     "ca": 0,
     "pp": 0,
     "gs": 0,
-    "fc": 0,
+    "fc": 2,
     "i": 1,
     "ds": 5,
     "pi": 0,
     "pc": 0,
-    "ps": 0,
+    "ps": 1,
     "v": 0,
-    "pontos_num": 2,
-    "preco_num": 4.48,
-    "variacao_num": 0.27,
-    "media_num": 1.89,
-    "jogos_num": 10,
+    "pontos_num": 1.2,
+    "preco_num": 4.39,
+    "variacao_num": -0.09,
+    "media_num": 1.83,
+    "jogos_num": 11,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }

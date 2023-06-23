@@ -15,7 +15,8 @@
     7,
     8,
     9,
-    10
+    10,
+    11
   ],
   "pontos": [
     0,
@@ -27,7 +28,8 @@
     5.5,
     12.7,
     0,
-    1.4
+    1.4,
+    0
   ],
   "precos": [
     5,
@@ -39,6 +41,7 @@
     4.67,
     6.55,
     4.78,
+    4.91,
     4.91
   ],
   "variacoes": [
@@ -51,7 +54,8 @@
     0.64,
     1.88,
     -1.77,
-    0.13
+    0.13,
+    0
   ],
   "medias": [
     0,
@@ -63,6 +67,7 @@
     2.95,
     4.9,
     4.08,
+    3.7,
     3.7
   ],
   "partidas": [
@@ -195,12 +200,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2020/01/01/65.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 11,
+      "clube_casa": "Bragantino",
+      "clube_casa_id": 280,
+      "clube_visitante": "Flamengo",
+      "clube_casa_abrev": "BRA",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2020/01/01/65.png",
+      "clube_visitante_id": 262,
+      "clube_visitante_abrev": "FLA",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2018/04/09/Flamengo-65.png",
+      "placar_oficial_mandante": 4,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2022/05/05/495e0cd517eacede744f14fefa06d6d5_220x220.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2020/01/01/65.png",
   "scouts": {
-    "rodada_id": 10,
+    "rodada_id": 11,
     "g": 0,
     "a": 0,
     "sg": 2,
@@ -222,9 +240,9 @@
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 1.4,
+    "pontos_num": 0,
     "preco_num": 4.91,
-    "variacao_num": 0.13,
+    "variacao_num": 0,
     "media_num": 3.7,
     "jogos_num": 7,
     "posicao_abrev": "lat",

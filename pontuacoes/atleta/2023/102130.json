@@ -15,7 +15,8 @@
     7,
     8,
     9,
-    10
+    10,
+    11
   ],
   "pontos": [
     0,
@@ -27,7 +28,8 @@
     6.7,
     0,
     7.9,
-    7.6
+    7.6,
+    0
   ],
   "precos": [
     11,
@@ -39,6 +41,7 @@
     10.2,
     10.2,
     10.51,
+    10.7,
     10.7
   ],
   "variacoes": [
@@ -51,7 +54,8 @@
     0.32,
     0,
     0.31,
-    0.19
+    0.19,
+    0
   ],
   "medias": [
     0,
@@ -63,6 +67,7 @@
     5.98,
     5.98,
     6.3,
+    6.49,
     6.49
   ],
   "partidas": [
@@ -195,12 +200,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/palmeiras_60x60.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 11,
+      "clube_casa": "Bahia",
+      "clube_casa_id": 265,
+      "clube_visitante": "Palmeiras",
+      "clube_casa_abrev": "BAH",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/bahia_60x60.png",
+      "clube_visitante_id": 275,
+      "clube_visitante_abrev": "PAL",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/palmeiras_60x60.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/03/15/photo_220x220_04Y9scz.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2014/04/14/palmeiras_60x60.png",
   "scouts": {
-    "rodada_id": 10,
+    "rodada_id": 11,
     "g": 0,
     "a": 3,
     "sg": 3,
@@ -222,9 +240,9 @@
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 7.6,
+    "pontos_num": 0,
     "preco_num": 10.7,
-    "variacao_num": 0.19,
+    "variacao_num": 0,
     "media_num": 6.49,
     "jogos_num": 7,
     "posicao_abrev": "lat",

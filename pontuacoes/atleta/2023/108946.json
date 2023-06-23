@@ -15,7 +15,8 @@
     7,
     8,
     9,
-    10
+    10,
+    11
   ],
   "pontos": [
     0,
@@ -27,7 +28,8 @@
     2.8,
     3.7,
     1.2,
-    0.2
+    0.2,
+    -0.2
   ],
   "precos": [
     5,
@@ -39,7 +41,8 @@
     7.65,
     7.9,
     7.44,
-    7.11
+    7.11,
+    6.94
   ],
   "variacoes": [
     0,
@@ -51,7 +54,8 @@
     -0.01,
     0.25,
     -0.46,
-    -0.33
+    -0.33,
+    -0.17
   ],
   "medias": [
     0,
@@ -63,7 +67,8 @@
     5.68,
     5.4,
     4.88,
-    4.36
+    4.36,
+    3.9
   ],
   "partidas": [
     {
@@ -195,12 +200,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/09/19/65_0000_Fortaleza-2021.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 11,
+      "clube_casa": "Cuiabá",
+      "clube_casa_id": 1371,
+      "clube_visitante": "Botafogo",
+      "clube_casa_abrev": "CUI",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/16/cuiaba65.png",
+      "clube_visitante_id": 263,
+      "clube_visitante_abrev": "BOT",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-65.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/03/07/photo_220x220_t9xgUxE.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-65.png",
   "scouts": {
-    "rodada_id": 10,
+    "rodada_id": 11,
     "g": 1,
     "a": 0,
     "sg": 0,
@@ -212,21 +230,21 @@
     "dp": 0,
     "gc": 0,
     "cv": 0,
-    "ca": 0,
+    "ca": 1,
     "pp": 0,
     "gs": 0,
-    "fc": 9,
-    "i": 1,
-    "ds": 12,
+    "fc": 10,
+    "i": 2,
+    "ds": 13,
     "pi": 0,
     "pc": 0,
     "ps": 1,
     "v": 0,
-    "pontos_num": 0.2,
-    "preco_num": 7.11,
-    "variacao_num": -0.33,
-    "media_num": 4.36,
-    "jogos_num": 9,
+    "pontos_num": -0.2,
+    "preco_num": 6.94,
+    "variacao_num": -0.17,
+    "media_num": 3.9,
+    "jogos_num": 10,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }

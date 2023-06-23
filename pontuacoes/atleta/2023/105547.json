@@ -15,7 +15,8 @@
     7,
     8,
     9,
-    10
+    10,
+    11
   ],
   "pontos": [
     0,
@@ -27,7 +28,8 @@
     2.5,
     4.2,
     5.2,
-    11.9
+    11.9,
+    6.3
   ],
   "precos": [
     1,
@@ -39,7 +41,8 @@
     1.24,
     1.79,
     2.27,
-    3.89
+    3.89,
+    3.53
   ],
   "variacoes": [
     0,
@@ -51,7 +54,8 @@
     0.24,
     0.55,
     0.48,
-    1.62
+    1.62,
+    -0.36
   ],
   "medias": [
     0,
@@ -63,7 +67,8 @@
     2.5,
     3.35,
     3.97,
-    5.95
+    5.95,
+    6.02
   ],
   "partidas": [
     {
@@ -195,17 +200,30 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/16/cuiaba65.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 11,
+      "clube_casa": "Cuiabá",
+      "clube_casa_id": 1371,
+      "clube_visitante": "Botafogo",
+      "clube_casa_abrev": "CUI",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/16/cuiaba65.png",
+      "clube_visitante_id": 263,
+      "clube_visitante_abrev": "BOT",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-65.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/03/06/photo_220x220_FfgJEdr.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2014/04/16/cuiaba65.png",
   "scouts": {
-    "rodada_id": 10,
+    "rodada_id": 11,
     "g": 0,
     "a": 1,
     "sg": 0,
     "fs": 3,
-    "ff": 0,
+    "ff": 1,
     "fd": 0,
     "ft": 0,
     "de": 0,
@@ -215,18 +233,18 @@
     "ca": 0,
     "pp": 0,
     "gs": 0,
-    "fc": 6,
-    "i": 1,
-    "ds": 16,
+    "fc": 7,
+    "i": 3,
+    "ds": 21,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 11.9,
-    "preco_num": 3.89,
-    "variacao_num": 1.62,
-    "media_num": 5.95,
-    "jogos_num": 4,
+    "pontos_num": 6.3,
+    "preco_num": 3.53,
+    "variacao_num": -0.36,
+    "media_num": 6.02,
+    "jogos_num": 5,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }

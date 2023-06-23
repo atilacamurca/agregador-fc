@@ -15,7 +15,8 @@
     7,
     8,
     9,
-    10
+    10,
+    11
   ],
   "pontos": [
     0,
@@ -27,7 +28,8 @@
     0,
     2.2,
     -1.6,
-    0
+    0,
+    1
   ],
   "precos": [
     1,
@@ -39,7 +41,8 @@
     0.79,
     1.2,
     0.7,
-    0.7
+    0.7,
+    0.94
   ],
   "variacoes": [
     0,
@@ -51,7 +54,8 @@
     0,
     0.41,
     -0.5,
-    0
+    0,
+    0.24
   ],
   "medias": [
     0,
@@ -63,7 +67,8 @@
     0.43,
     0.87,
     0.38,
-    0.38
+    0.38,
+    0.48
   ],
   "partidas": [
     {
@@ -195,17 +200,30 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/gremio_60x60.png",
       "placar_oficial_mandante": 3,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 11,
+      "clube_casa": "Grêmio",
+      "clube_casa_id": 284,
+      "clube_visitante": "América-MG",
+      "clube_casa_abrev": "GRE",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/gremio_60x60.png",
+      "clube_visitante_id": 327,
+      "clube_visitante_abrev": "AME",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/02/28/escudo65_1.png",
+      "placar_oficial_mandante": 3,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/05/09/photo_220x220_GjZARIK.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2014/04/14/gremio_60x60.png",
   "scouts": {
-    "rodada_id": 10,
+    "rodada_id": 11,
     "g": 0,
     "a": 0,
     "sg": 0,
-    "fs": 2,
-    "ff": 1,
+    "fs": 3,
+    "ff": 2,
     "fd": 0,
     "ft": 0,
     "de": 0,
@@ -215,18 +233,18 @@
     "ca": 2,
     "pp": 0,
     "gs": 0,
-    "fc": 9,
+    "fc": 10,
     "i": 0,
     "ds": 4,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 0,
-    "preco_num": 0.7,
-    "variacao_num": 0,
-    "media_num": 0.38,
-    "jogos_num": 5,
+    "pontos_num": 1,
+    "preco_num": 0.94,
+    "variacao_num": 0.24,
+    "media_num": 0.48,
+    "jogos_num": 6,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }

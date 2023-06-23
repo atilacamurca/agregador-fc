@@ -15,7 +15,8 @@
     7,
     8,
     9,
-    10
+    10,
+    11
   ],
   "pontos": [
     1.4,
@@ -27,7 +28,8 @@
     5,
     0,
     1.2,
-    1
+    1,
+    -0.6
   ],
   "precos": [
     3.48,
@@ -39,7 +41,8 @@
     6.54,
     5.77,
     5.83,
-    5.71
+    5.71,
+    5.38
   ],
   "variacoes": [
     -0.52,
@@ -51,7 +54,8 @@
     0.21,
     -0.77,
     0.06,
-    -0.12
+    -0.12,
+    -0.33
   ],
   "medias": [
     1.4,
@@ -63,7 +67,8 @@
     3.83,
     3.35,
     3.11,
-    2.9
+    2.9,
+    2.58
   ],
   "partidas": [
     {
@@ -195,16 +200,29 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/02/13/65_cruzeiro-2021.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 11,
+      "clube_casa": "Cruzeiro",
+      "clube_casa_id": 283,
+      "clube_visitante": "Fortaleza",
+      "clube_casa_abrev": "CRU",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2021/02/13/65_cruzeiro-2021.png",
+      "clube_visitante_id": 356,
+      "clube_visitante_abrev": "FOR",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/09/19/65_0000_Fortaleza-2021.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/03/22/photo_220x220.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2021/02/13/65_cruzeiro-2021.png",
   "scouts": {
-    "rodada_id": 10,
+    "rodada_id": 11,
     "g": 0,
     "a": 0,
     "sg": 3,
-    "fs": 9,
+    "fs": 11,
     "ff": 1,
     "fd": 1,
     "ft": 0,
@@ -212,21 +230,21 @@
     "dp": 0,
     "gc": 0,
     "cv": 0,
-    "ca": 2,
+    "ca": 3,
     "pp": 0,
     "gs": 0,
-    "fc": 8,
+    "fc": 10,
     "i": 1,
     "ds": 10,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 1,
-    "preco_num": 5.71,
-    "variacao_num": -0.12,
-    "media_num": 2.9,
-    "jogos_num": 10,
+    "pontos_num": -0.6,
+    "preco_num": 5.38,
+    "variacao_num": -0.33,
+    "media_num": 2.58,
+    "jogos_num": 11,
     "posicao_abrev": "zag",
     "posicao": "Zagueiro"
   }

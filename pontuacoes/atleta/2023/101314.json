@@ -15,7 +15,8 @@
     7,
     8,
     9,
-    10
+    10,
+    11
   ],
   "pontos": [
     2.8,
@@ -27,7 +28,8 @@
     4.5,
     0.5,
     4.6,
-    0
+    0,
+    -1
   ],
   "precos": [
     5.68,
@@ -39,7 +41,8 @@
     6.05,
     5.46,
     6.15,
-    6.15
+    6.15,
+    5.17
   ],
   "variacoes": [
     -0.32,
@@ -51,7 +54,8 @@
     -0.3,
     -0.59,
     0.69,
-    0
+    0,
+    -0.98
   ],
   "medias": [
     2.8,
@@ -63,7 +67,8 @@
     3.19,
     2.85,
     3.04,
-    3.04
+    3.04,
+    2.93
   ],
   "partidas": [
     {
@@ -195,12 +200,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/02/13/65_cruzeiro-2021.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 11,
+      "clube_casa": "Bahia",
+      "clube_casa_id": 265,
+      "clube_visitante": "Palmeiras",
+      "clube_casa_abrev": "BAH",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/bahia_60x60.png",
+      "clube_visitante_id": 275,
+      "clube_visitante_abrev": "PAL",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/palmeiras_60x60.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/04/02/photo_220x220_AYMEKre.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2014/04/14/bahia_60x60.png",
   "scouts": {
-    "rodada_id": 10,
+    "rodada_id": 11,
     "g": 1,
     "a": 0,
     "sg": 0,
@@ -212,7 +230,7 @@
     "dp": 0,
     "gc": 0,
     "cv": 0,
-    "ca": 2,
+    "ca": 3,
     "pp": 0,
     "gs": 0,
     "fc": 10,
@@ -222,10 +240,10 @@
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 0,
-    "preco_num": 6.15,
-    "variacao_num": 0,
-    "media_num": 3.04,
+    "pontos_num": -1,
+    "preco_num": 5.17,
+    "variacao_num": -0.98,
+    "media_num": 2.93,
     "jogos_num": 9,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
