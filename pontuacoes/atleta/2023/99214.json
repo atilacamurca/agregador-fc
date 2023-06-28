@@ -6,7 +6,6 @@
   "clube_id": 277,
   "posicao": "Meia",
   "rodadas": [
-    1,
     2,
     3,
     4,
@@ -16,10 +15,10 @@
     8,
     9,
     10,
-    11
+    11,
+    12
   ],
   "pontos": [
-    1.1,
     3.5,
     2.2,
     2,
@@ -29,10 +28,10 @@
     0.8,
     1.6,
     0,
-    -1.6
+    -1.6,
+    9
   ],
   "precos": [
-    4.58,
     4.71,
     4.72,
     4.76,
@@ -42,10 +41,10 @@
     4.62,
     4.69,
     4.35,
-    3.97
+    3.97,
+    5.82
   ],
   "variacoes": [
-    -1.42,
     0.13,
     0.01,
     0.04,
@@ -55,10 +54,10 @@
     -0.47,
     0.07,
     -0.34,
-    -0.38
+    -0.38,
+    1.85
   ],
   "medias": [
-    1.1,
     2.3,
     2.27,
     2.2,
@@ -68,22 +67,10 @@
     2.37,
     2.27,
     2.02,
-    1.66
+    1.66,
+    2.33
   ],
   "partidas": [
-    {
-      "rodada_id": 1,
-      "clube_casa": "Grêmio",
-      "clube_casa_id": 284,
-      "clube_visitante": "Santos",
-      "clube_casa_abrev": "GRE",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/gremio_60x60.png",
-      "clube_visitante_id": 277,
-      "clube_visitante_abrev": "SAN",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/santos_60x60.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 2,
       "clube_casa": "Santos",
@@ -213,16 +200,29 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/09/30/Corinthians_65.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 12,
+      "clube_casa": "Santos",
+      "clube_casa_id": 277,
+      "clube_visitante": "Flamengo",
+      "clube_casa_abrev": "SAN",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/santos_60x60.png",
+      "clube_visitante_id": 262,
+      "clube_visitante_abrev": "FLA",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2018/04/09/Flamengo-65.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 3
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2022/03/29/6fdde8730fb97a5d12a85b4ebd9d4e93_220x220.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2014/04/14/santos_60x60.png",
   "scouts": {
-    "rodada_id": 11,
-    "g": 0,
+    "rodada_id": 12,
+    "g": 1,
     "a": 0,
     "sg": 0,
-    "fs": 4,
+    "fs": 6,
     "ff": 5,
     "fd": 1,
     "ft": 0,
@@ -233,18 +233,18 @@
     "ca": 5,
     "pp": 0,
     "gs": 0,
-    "fc": 20,
+    "fc": 24,
     "i": 0,
-    "ds": 17,
+    "ds": 18,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": -1.6,
-    "preco_num": 3.97,
-    "variacao_num": -0.38,
-    "media_num": 1.66,
-    "jogos_num": 10,
+    "pontos_num": 9,
+    "preco_num": 5.82,
+    "variacao_num": 1.85,
+    "media_num": 2.33,
+    "jogos_num": 11,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }

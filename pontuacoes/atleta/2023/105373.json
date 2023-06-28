@@ -6,7 +6,6 @@
   "clube_id": 265,
   "posicao": "Zagueiro",
   "rodadas": [
-    1,
     2,
     3,
     4,
@@ -16,10 +15,10 @@
     8,
     9,
     10,
-    11
+    11,
+    12
   ],
   "pontos": [
-    0.9,
     3.8,
     0,
     0,
@@ -29,10 +28,10 @@
     0,
     5.9,
     0,
-    7.2
+    7.2,
+    0
   ],
   "precos": [
-    2.52,
     3.41,
     3.41,
     3.41,
@@ -42,10 +41,10 @@
     3.26,
     3.96,
     3.96,
+    4.52,
     4.52
   ],
   "variacoes": [
-    -0.48,
     0.89,
     0,
     0,
@@ -55,10 +54,10 @@
     0,
     0.7,
     0,
-    0.56
+    0.56,
+    0
   ],
   "medias": [
-    0.9,
     2.35,
     2.35,
     2.35,
@@ -68,22 +67,10 @@
     2.53,
     3.37,
     3.37,
+    4.14,
     4.14
   ],
   "partidas": [
-    {
-      "rodada_id": 1,
-      "clube_casa": "Bragantino",
-      "clube_casa_id": 280,
-      "clube_visitante": "Bahia",
-      "clube_casa_abrev": "BRA",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2020/01/01/65.png",
-      "clube_visitante_id": 265,
-      "clube_visitante_abrev": "BAH",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/bahia_60x60.png",
-      "placar_oficial_mandante": 2,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 2,
       "clube_casa": "Bahia",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/palmeiras_60x60.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 12,
+      "clube_casa": "Fluminense",
+      "clube_casa_id": 266,
+      "clube_visitante": "Bahia",
+      "clube_casa_abrev": "FLU",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/fluminense_60x60.png",
+      "clube_visitante_id": 265,
+      "clube_visitante_abrev": "BAH",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/bahia_60x60.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/02/27/photo_220x220_0UPMoSl.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2014/04/14/bahia_60x60.png",
   "scouts": {
-    "rodada_id": 11,
+    "rodada_id": 12,
     "g": 0,
     "a": 0,
     "sg": 2,
@@ -240,9 +240,9 @@
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 7.2,
+    "pontos_num": 0,
     "preco_num": 4.52,
-    "variacao_num": 0.56,
+    "variacao_num": 0,
     "media_num": 4.14,
     "jogos_num": 5,
     "posicao_abrev": "zag",

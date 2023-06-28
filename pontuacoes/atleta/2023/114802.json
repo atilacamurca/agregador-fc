@@ -6,7 +6,6 @@
   "clube_id": 293,
   "posicao": "Atacante",
   "rodadas": [
-    1,
     2,
     3,
     4,
@@ -16,10 +15,10 @@
     8,
     9,
     10,
-    11
+    11,
+    12
   ],
   "pontos": [
-    2,
     1,
     10.5,
     11.7,
@@ -29,10 +28,10 @@
     12.1,
     6.1,
     12.6,
-    13.3
+    13.3,
+    12.3
   ],
   "precos": [
-    7.1,
     5.62,
     8.26,
     10.02,
@@ -42,10 +41,10 @@
     11.04,
     10.44,
     11.85,
-    12.64
+    12.64,
+    13.02
   ],
   "variacoes": [
-    -1.9,
     -1.48,
     2.64,
     1.76,
@@ -55,10 +54,10 @@
     2.32,
     -0.6,
     1.41,
-    0.79
+    0.79,
+    0.38
   ],
   "medias": [
-    2,
     1.5,
     4.5,
     6.3,
@@ -68,22 +67,10 @@
     6.15,
     6.14,
     6.79,
-    7.38
+    7.38,
+    7.79
   ],
   "partidas": [
-    {
-      "rodada_id": 1,
-      "clube_casa": "Athlético-PR",
-      "clube_casa_id": 293,
-      "clube_visitante": "Goiás",
-      "clube_casa_abrev": "ATL",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2019/09/09/Athletico-PR-65x65.png",
-      "clube_visitante_id": 290,
-      "clube_visitante_abrev": "GOI",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/03/01/goias-65.png",
-      "placar_oficial_mandante": 2,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 2,
       "clube_casa": "Fluminense",
@@ -213,38 +200,51 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/09/09/Athletico-PR-65x65.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 12,
+      "clube_casa": "Athlético-PR",
+      "clube_casa_id": 293,
+      "clube_visitante": "Corinthians",
+      "clube_casa_abrev": "ATL",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2019/09/09/Athletico-PR-65x65.png",
+      "clube_visitante_id": 264,
+      "clube_visitante_abrev": "COR",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/09/30/Corinthians_65.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/02/28/photo_220x220_0B2D0LR.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2019/09/09/Athletico-PR-65x65.png",
   "scouts": {
-    "rodada_id": 11,
-    "g": 5,
+    "rodada_id": 12,
+    "g": 6,
     "a": 2,
     "sg": 0,
-    "fs": 24,
+    "fs": 25,
     "ff": 8,
-    "fd": 4,
-    "ft": 0,
+    "fd": 6,
+    "ft": 1,
     "de": 0,
     "dp": 0,
     "gc": 0,
     "cv": 0,
-    "ca": 1,
+    "ca": 2,
     "pp": 0,
     "gs": 0,
-    "fc": 13,
+    "fc": 15,
     "i": 3,
     "ds": 11,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 13.3,
-    "preco_num": 12.64,
-    "variacao_num": 0.79,
-    "media_num": 7.38,
-    "jogos_num": 11,
+    "pontos_num": 12.3,
+    "preco_num": 13.02,
+    "variacao_num": 0.38,
+    "media_num": 7.79,
+    "jogos_num": 12,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }

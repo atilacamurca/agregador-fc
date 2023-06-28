@@ -15,7 +15,8 @@
     8,
     9,
     10,
-    11
+    11,
+    12
   ],
   "pontos": [
     0,
@@ -27,7 +28,8 @@
     3.1,
     2,
     2.9,
-    2
+    2,
+    -0.4
   ],
   "precos": [
     6,
@@ -39,7 +41,8 @@
     5.12,
     4.97,
     5.14,
-    5.08
+    5.08,
+    4.64
   ],
   "variacoes": [
     0,
@@ -51,7 +54,8 @@
     0.21,
     -0.15,
     0.17,
-    -0.06
+    -0.06,
+    -0.44
   ],
   "medias": [
     0,
@@ -63,7 +67,8 @@
     2.92,
     2.77,
     2.79,
-    2.69
+    2.69,
+    2.35
   ],
   "partidas": [
     {
@@ -195,16 +200,29 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/09/19/65_0000_Fortaleza-2021.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 12,
+      "clube_casa": "Cruzeiro",
+      "clube_casa_id": 283,
+      "clube_visitante": "São Paulo",
+      "clube_casa_abrev": "CRU",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2021/02/13/65_cruzeiro-2021.png",
+      "clube_visitante_id": 276,
+      "clube_visitante_abrev": "SAO",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/sao_paulo_60x60.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/04/22/photo_220x220_X04virK.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2021/02/13/65_cruzeiro-2021.png",
   "scouts": {
-    "rodada_id": 11,
+    "rodada_id": 12,
     "g": 1,
     "a": 0,
     "sg": 0,
-    "fs": 7,
+    "fs": 9,
     "ff": 7,
     "fd": 2,
     "ft": 1,
@@ -212,21 +230,21 @@
     "dp": 0,
     "gc": 0,
     "cv": 0,
-    "ca": 1,
+    "ca": 2,
     "pp": 0,
     "gs": 0,
-    "fc": 10,
-    "i": 6,
+    "fc": 11,
+    "i": 7,
     "ds": 3,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 2,
-    "preco_num": 5.08,
-    "variacao_num": -0.06,
-    "media_num": 2.69,
-    "jogos_num": 8,
+    "pontos_num": -0.4,
+    "preco_num": 4.64,
+    "variacao_num": -0.44,
+    "media_num": 2.35,
+    "jogos_num": 9,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }

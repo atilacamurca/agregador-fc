@@ -6,7 +6,6 @@
   "clube_id": 327,
   "posicao": "Meia",
   "rodadas": [
-    1,
     2,
     3,
     4,
@@ -16,10 +15,10 @@
     8,
     9,
     10,
-    11
+    11,
+    12
   ],
   "pontos": [
-    2.7,
     0,
     14.8,
     -1.7,
@@ -29,10 +28,10 @@
     0,
     0,
     0,
-    2.9
+    2.9,
+    -0.1
   ],
   "precos": [
-    5.61,
     5.61,
     9.06,
     6.68,
@@ -42,10 +41,10 @@
     5.81,
     5.61,
     5.61,
-    5.93
+    5.93,
+    5.42
   ],
   "variacoes": [
-    -0.39,
     0,
     3.45,
     -2.38,
@@ -55,10 +54,10 @@
     -0.17,
     -0.2,
     0,
-    0.32
+    0.32,
+    -0.51
   ],
   "medias": [
-    2.7,
     2.7,
     8.75,
     5.27,
@@ -68,22 +67,10 @@
     2.47,
     2.16,
     2.16,
-    2.24
+    2.24,
+    2.01
   ],
   "partidas": [
-    {
-      "rodada_id": 1,
-      "clube_casa": "América-MG",
-      "clube_casa_id": 327,
-      "clube_visitante": "Fluminense",
-      "clube_casa_abrev": "AME",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2019/02/28/escudo65_1.png",
-      "clube_visitante_id": 266,
-      "clube_visitante_abrev": "FLU",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/fluminense_60x60.png",
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 3
-    },
     {
       "rodada_id": 2,
       "clube_casa": "São Paulo",
@@ -213,16 +200,29 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/02/28/escudo65_1.png",
       "placar_oficial_mandante": 3,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 12,
+      "clube_casa": "América-MG",
+      "clube_casa_id": 327,
+      "clube_visitante": "Internacional",
+      "clube_casa_abrev": "AME",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2019/02/28/escudo65_1.png",
+      "clube_visitante_id": 285,
+      "clube_visitante_abrev": "INT",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2016/05/03/inter65.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/03/07/photo_220x220_BijuTNZ.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2019/02/28/escudo65_1.png",
   "scouts": {
-    "rodada_id": 11,
+    "rodada_id": 12,
     "g": 1,
     "a": 0,
     "sg": 0,
-    "fs": 7,
+    "fs": 8,
     "ff": 4,
     "fd": 0,
     "ft": 0,
@@ -233,18 +233,18 @@
     "ca": 2,
     "pp": 0,
     "gs": 0,
-    "fc": 11,
+    "fc": 13,
     "i": 0,
     "ds": 9,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 2.9,
-    "preco_num": 5.93,
-    "variacao_num": 0.32,
-    "media_num": 2.24,
-    "jogos_num": 9,
+    "pontos_num": -0.1,
+    "preco_num": 5.42,
+    "variacao_num": -0.51,
+    "media_num": 2.01,
+    "jogos_num": 10,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }

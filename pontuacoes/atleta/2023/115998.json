@@ -6,7 +6,6 @@
   "clube_id": 327,
   "posicao": "Atacante",
   "rodadas": [
-    1,
     2,
     3,
     4,
@@ -16,11 +15,12 @@
     8,
     9,
     10,
-    11
+    11,
+    12
   ],
   "pontos": [
-    0.9,
     2.4,
+    0,
     0,
     0,
     0,
@@ -32,7 +32,7 @@
     0
   ],
   "precos": [
-    1.87,
+    2.43,
     2.43,
     2.43,
     2.43,
@@ -45,8 +45,8 @@
     2.43
   ],
   "variacoes": [
-    -0.13,
     0.56,
+    0,
     0,
     0,
     0,
@@ -58,7 +58,7 @@
     0
   ],
   "medias": [
-    0.9,
+    1.65,
     1.65,
     1.65,
     1.65,
@@ -71,19 +71,6 @@
     1.65
   ],
   "partidas": [
-    {
-      "rodada_id": 1,
-      "clube_casa": "América-MG",
-      "clube_casa_id": 327,
-      "clube_visitante": "Fluminense",
-      "clube_casa_abrev": "AME",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2019/02/28/escudo65_1.png",
-      "clube_visitante_id": 266,
-      "clube_visitante_abrev": "FLU",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/fluminense_60x60.png",
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 3
-    },
     {
       "rodada_id": 2,
       "clube_casa": "São Paulo",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/02/28/escudo65_1.png",
       "placar_oficial_mandante": 3,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 12,
+      "clube_casa": "América-MG",
+      "clube_casa_id": 327,
+      "clube_visitante": "Internacional",
+      "clube_casa_abrev": "AME",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2019/02/28/escudo65_1.png",
+      "clube_visitante_id": 285,
+      "clube_visitante_abrev": "INT",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2016/05/03/inter65.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2022/02/25/816e31c3a9501bc4cafc2ef28de0e625_220x220.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2019/02/28/escudo65_1.png",
   "scouts": {
-    "rodada_id": 11,
+    "rodada_id": 12,
     "g": 0,
     "a": 0,
     "sg": 0,

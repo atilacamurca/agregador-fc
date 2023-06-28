@@ -6,7 +6,6 @@
   "clube_id": 294,
   "posicao": "Atacante",
   "rodadas": [
-    1,
     2,
     3,
     4,
@@ -16,10 +15,10 @@
     8,
     9,
     10,
-    11
+    11,
+    12
   ],
   "pontos": [
-    1.7,
     0,
     4.5,
     1.5,
@@ -29,10 +28,10 @@
     0,
     0,
     0,
-    0
+    0,
+    3.8
   ],
   "precos": [
-    3.68,
     2.89,
     4,
     3.74,
@@ -42,10 +41,10 @@
     3.58,
     3.58,
     3.58,
-    3.58
+    3.58,
+    3.74
   ],
   "variacoes": [
-    -0.32,
     -0.79,
     1.11,
     -0.26,
@@ -55,10 +54,10 @@
     0,
     0,
     0,
-    0
+    0,
+    0.16
   ],
   "medias": [
-    1.7,
     0.85,
     2.07,
     1.93,
@@ -68,22 +67,10 @@
     1.88,
     1.88,
     1.88,
-    1.88
+    1.88,
+    2.2
   ],
   "partidas": [
-    {
-      "rodada_id": 1,
-      "clube_casa": "Flamengo",
-      "clube_casa_id": 262,
-      "clube_visitante": "Coritiba",
-      "clube_casa_abrev": "FLA",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2018/04/09/Flamengo-65.png",
-      "clube_visitante_id": 294,
-      "clube_visitante_abrev": "COR",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2017/03/29/coritiba65.png",
-      "placar_oficial_mandante": 3,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 2,
       "clube_casa": "Coritiba",
@@ -213,19 +200,32 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2016/05/03/inter65.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 12,
+      "clube_casa": "Grêmio",
+      "clube_casa_id": 284,
+      "clube_visitante": "Coritiba",
+      "clube_casa_abrev": "GRE",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/gremio_60x60.png",
+      "clube_visitante_id": 294,
+      "clube_visitante_abrev": "COR",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2017/03/29/coritiba65.png",
+      "placar_oficial_mandante": 5,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/02/28/photo_220x220_28kb8HP.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2017/03/29/coritiba65.png",
   "scouts": {
-    "rodada_id": 11,
+    "rodada_id": 12,
     "g": 0,
     "a": 0,
     "sg": 0,
     "fs": 4,
-    "ff": 4,
+    "ff": 5,
     "fd": 2,
-    "ft": 0,
+    "ft": 1,
     "de": 0,
     "dp": 0,
     "gc": 0,
@@ -240,11 +240,11 @@
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 0,
-    "preco_num": 3.58,
-    "variacao_num": 0,
-    "media_num": 1.88,
-    "jogos_num": 5,
+    "pontos_num": 3.8,
+    "preco_num": 3.74,
+    "variacao_num": 0.16,
+    "media_num": 2.2,
+    "jogos_num": 6,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }
