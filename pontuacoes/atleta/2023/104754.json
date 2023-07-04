@@ -6,7 +6,6 @@
   "clube_id": 356,
   "posicao": "Técnico",
   "rodadas": [
-    2,
     3,
     4,
     5,
@@ -16,10 +15,10 @@
     9,
     10,
     11,
-    12
+    12,
+    13
   ],
   "pontos": [
-    10.06,
     8,
     4.23,
     6.02,
@@ -29,10 +28,10 @@
     4.63,
     3.37,
     7.07,
-    4.83
+    4.83,
+    2.27
   ],
   "precos": [
-    11.2,
     12.15,
     11.85,
     12.03,
@@ -42,10 +41,10 @@
     12.16,
     11.89,
     12.65,
-    12.4
+    12.4,
+    11.84
   ],
   "variacoes": [
-    2.01,
     0.95,
     -0.3,
     0.18,
@@ -55,10 +54,10 @@
     -0.46,
     -0.27,
     0.76,
-    -0.25
+    -0.25,
+    -0.56
   ],
   "medias": [
-    7.15,
     7.43,
     6.63,
     6.51,
@@ -68,22 +67,10 @@
     6,
     5.74,
     5.86,
-    5.77
+    5.77,
+    5.5
   ],
   "partidas": [
-    {
-      "rodada_id": 2,
-      "clube_casa": "Coritiba",
-      "clube_casa_id": 294,
-      "clube_visitante": "Fortaleza",
-      "clube_casa_abrev": "COR",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2017/03/29/coritiba65.png",
-      "clube_visitante_id": 356,
-      "clube_visitante_abrev": "FOR",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/09/19/65_0000_Fortaleza-2021.png",
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 3
-    },
     {
       "rodada_id": 3,
       "clube_casa": "Fortaleza",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2017/11/23/Atletico-Mineiro-escudo65px.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 13,
+      "clube_casa": "Flamengo",
+      "clube_casa_id": 262,
+      "clube_visitante": "Fortaleza",
+      "clube_casa_abrev": "FLA",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2018/04/09/Flamengo-65.png",
+      "clube_visitante_id": 356,
+      "clube_visitante_abrev": "FOR",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/09/19/65_0000_Fortaleza-2021.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/03/07/photo_220x220_UIx1Yzg.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2021/09/19/65_0000_Fortaleza-2021.png",
   "scouts": {
-    "rodada_id": 12,
+    "rodada_id": 13,
     "g": 0,
     "a": 0,
     "sg": 0,
@@ -240,11 +240,11 @@
     "pc": 0,
     "ps": 0,
     "v": 5,
-    "pontos_num": 4.83,
-    "preco_num": 12.4,
-    "variacao_num": -0.25,
-    "media_num": 5.77,
-    "jogos_num": 12,
+    "pontos_num": 2.27,
+    "preco_num": 11.84,
+    "variacao_num": -0.56,
+    "media_num": 5.5,
+    "jogos_num": 13,
     "posicao_abrev": "tec",
     "posicao": "Técnico"
   }

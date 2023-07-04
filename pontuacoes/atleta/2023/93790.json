@@ -6,7 +6,6 @@
   "clube_id": 263,
   "posicao": "Meia",
   "rodadas": [
-    2,
     3,
     4,
     5,
@@ -16,10 +15,10 @@
     9,
     10,
     11,
-    12
+    12,
+    13
   ],
   "pontos": [
-    0,
     0,
     4.5,
     3.6,
@@ -29,10 +28,10 @@
     2.6,
     0.5,
     0.9,
-    3.4
+    3.4,
+    2.9
   ],
   "precos": [
-    4.63,
     3.98,
     4.88,
     4.9,
@@ -42,10 +41,10 @@
     4.65,
     4.28,
     4.32,
-    4.77
+    4.77,
+    4.72
   ],
   "variacoes": [
-    -2.37,
     -0.65,
     0.9,
     0.02,
@@ -55,10 +54,10 @@
     0.17,
     -0.37,
     0.04,
-    0.45
+    0.45,
+    -0.05
   ],
   "medias": [
-    0,
     0,
     1.5,
     2.02,
@@ -68,22 +67,10 @@
     1.76,
     1.62,
     1.55,
-    1.72
+    1.72,
+    1.82
   ],
   "partidas": [
-    {
-      "rodada_id": 2,
-      "clube_casa": "Bahia",
-      "clube_casa_id": 265,
-      "clube_visitante": "Botafogo",
-      "clube_casa_abrev": "BAH",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/bahia_60x60.png",
-      "clube_visitante_id": 263,
-      "clube_visitante_abrev": "BOT",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-65.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 2
-    },
     {
       "rodada_id": 3,
       "clube_casa": "Flamengo",
@@ -213,17 +200,30 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-65.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 13,
+      "clube_casa": "Botafogo",
+      "clube_casa_id": 263,
+      "clube_visitante": "Vasco",
+      "clube_casa_abrev": "BOT",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-65.png",
+      "clube_visitante_id": 267,
+      "clube_visitante_abrev": "VAS",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/09/04/ESCUDO-VASCO-RGB_65px.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/03/07/photo_220x220_vbqyTPv.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-65.png",
   "scouts": {
-    "rodada_id": 12,
+    "rodada_id": 13,
     "g": 0,
     "a": 0,
     "sg": 0,
     "fs": 2,
-    "ff": 7,
+    "ff": 8,
     "fd": 4,
     "ft": 0,
     "de": 0,
@@ -233,18 +233,18 @@
     "ca": 0,
     "pp": 0,
     "gs": 0,
-    "fc": 7,
+    "fc": 8,
     "i": 0,
-    "ds": 8,
+    "ds": 10,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 3.4,
-    "preco_num": 4.77,
-    "variacao_num": 0.45,
-    "media_num": 1.72,
-    "jogos_num": 11,
+    "pontos_num": 2.9,
+    "preco_num": 4.72,
+    "variacao_num": -0.05,
+    "media_num": 1.82,
+    "jogos_num": 12,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }

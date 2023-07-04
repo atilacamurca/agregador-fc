@@ -6,7 +6,6 @@
   "clube_id": 285,
   "posicao": "Goleiro",
   "rodadas": [
-    2,
     3,
     4,
     5,
@@ -16,10 +15,10 @@
     9,
     10,
     11,
-    12
+    12,
+    13
   ],
   "pontos": [
-    0,
     7,
     0,
     0,
@@ -29,10 +28,10 @@
     0,
     2,
     7,
-    2.5
+    2.5,
+    8.5
   ],
   "precos": [
-    5.81,
     6.94,
     6.94,
     6.94,
@@ -42,10 +41,10 @@
     7.31,
     6.28,
     7.28,
-    6.7
+    6.7,
+    7.76
   ],
   "variacoes": [
-    0,
     1.13,
     0,
     0,
@@ -55,10 +54,10 @@
     0,
     -1.03,
     1,
-    -0.58
+    -0.58,
+    1.06
   ],
   "medias": [
-    4,
     5.5,
     5.5,
     5.5,
@@ -68,22 +67,10 @@
     6.67,
     5.5,
     5.8,
-    5.25
+    5.25,
+    5.71
   ],
   "partidas": [
-    {
-      "rodada_id": 2,
-      "clube_casa": "Internacional",
-      "clube_casa_id": 285,
-      "clube_visitante": "Flamengo",
-      "clube_casa_abrev": "INT",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2016/05/03/inter65.png",
-      "clube_visitante_id": 262,
-      "clube_visitante_abrev": "FLA",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2018/04/09/Flamengo-65.png",
-      "placar_oficial_mandante": 2,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 3,
       "clube_casa": "Internacional",
@@ -213,20 +200,33 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2016/05/03/inter65.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 13,
+      "clube_casa": "Internacional",
+      "clube_casa_id": 285,
+      "clube_visitante": "Cruzeiro",
+      "clube_casa_abrev": "INT",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2016/05/03/inter65.png",
+      "clube_visitante_id": 283,
+      "clube_visitante_abrev": "CRU",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/02/13/65_cruzeiro-2021.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/03/07/photo_220x220_u4LssT8.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2016/05/03/inter65.png",
   "scouts": {
-    "rodada_id": 12,
+    "rodada_id": 13,
     "g": 0,
     "a": 0,
-    "sg": 3,
-    "fs": 1,
+    "sg": 4,
+    "fs": 2,
     "ff": 0,
     "fd": 0,
     "ft": 0,
-    "de": 20,
+    "de": 23,
     "dp": 0,
     "gc": 0,
     "cv": 0,
@@ -240,11 +240,11 @@
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 2.5,
-    "preco_num": 6.7,
-    "variacao_num": -0.58,
-    "media_num": 5.25,
-    "jogos_num": 6,
+    "pontos_num": 8.5,
+    "preco_num": 7.76,
+    "variacao_num": 1.06,
+    "media_num": 5.71,
+    "jogos_num": 7,
     "posicao_abrev": "gol",
     "posicao": "Goleiro"
   }

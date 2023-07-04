@@ -6,7 +6,6 @@
   "clube_id": 356,
   "posicao": "Meia",
   "rodadas": [
-    2,
     3,
     4,
     5,
@@ -16,10 +15,10 @@
     9,
     10,
     11,
-    12
+    12,
+    13
   ],
   "pontos": [
-    -0.3,
     0.9,
     7.8,
     0,
@@ -29,10 +28,10 @@
     0,
     0,
     0,
+    0,
     0
   ],
   "precos": [
-    5.92,
     5.58,
     7.25,
     7.25,
@@ -42,10 +41,10 @@
     7.22,
     7.22,
     7.22,
+    6.08,
     6.08
   ],
   "variacoes": [
-    -1.44,
     -0.34,
     1.67,
     0,
@@ -55,10 +54,10 @@
     0,
     0,
     0,
-    -1.14
+    -1.14,
+    0
   ],
   "medias": [
-    2.05,
     1.67,
     3.2,
     3.2,
@@ -68,22 +67,10 @@
     3.88,
     3.88,
     3.88,
+    3.33,
     3.33
   ],
   "partidas": [
-    {
-      "rodada_id": 2,
-      "clube_casa": "Coritiba",
-      "clube_casa_id": 294,
-      "clube_visitante": "Fortaleza",
-      "clube_casa_abrev": "COR",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2017/03/29/coritiba65.png",
-      "clube_visitante_id": 356,
-      "clube_visitante_abrev": "FOR",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/09/19/65_0000_Fortaleza-2021.png",
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 3
-    },
     {
       "rodada_id": 3,
       "clube_casa": "Fortaleza",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2017/11/23/Atletico-Mineiro-escudo65px.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 13,
+      "clube_casa": "Flamengo",
+      "clube_casa_id": 262,
+      "clube_visitante": "Fortaleza",
+      "clube_casa_abrev": "FLA",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2018/04/09/Flamengo-65.png",
+      "clube_visitante_id": 356,
+      "clube_visitante_abrev": "FOR",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/09/19/65_0000_Fortaleza-2021.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/05/06/photo_220x220_xTyetz3.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2021/09/19/65_0000_Fortaleza-2021.png",
   "scouts": {
-    "rodada_id": 12,
+    "rodada_id": 13,
     "g": 0,
     "a": 0,
     "sg": 0,
@@ -242,7 +242,7 @@
     "v": 0,
     "pontos_num": 0,
     "preco_num": 6.08,
-    "variacao_num": -1.14,
+    "variacao_num": 0,
     "media_num": 3.33,
     "jogos_num": 7,
     "posicao_abrev": "mei",

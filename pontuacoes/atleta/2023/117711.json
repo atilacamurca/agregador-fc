@@ -6,7 +6,6 @@
   "clube_id": 280,
   "posicao": "Técnico",
   "rodadas": [
-    2,
     3,
     4,
     5,
@@ -16,10 +15,10 @@
     9,
     10,
     11,
-    12
+    12,
+    13
   ],
   "pontos": [
-    2.64,
     1.17,
     5.47,
     4.03,
@@ -29,10 +28,10 @@
     3.65,
     3.38,
     10.48,
-    9.32
+    9.32,
+    8.85
   ],
   "precos": [
-    8.21,
     7.67,
     8.57,
     8.35,
@@ -42,10 +41,10 @@
     9.38,
     9.31,
     10.77,
-    10.98
+    10.98,
+    11.1
   ],
   "variacoes": [
-    0.05,
     -0.54,
     0.9,
     -0.22,
@@ -55,10 +54,10 @@
     -0.72,
     -0.07,
     1.46,
-    0.21
+    0.21,
+    0.12
   ],
   "medias": [
-    4.64,
     3.48,
     3.98,
     3.99,
@@ -68,22 +67,10 @@
     5.02,
     4.86,
     5.37,
-    5.7
+    5.7,
+    5.94
   ],
   "partidas": [
-    {
-      "rodada_id": 2,
-      "clube_casa": "Cuiabá",
-      "clube_casa_id": 1371,
-      "clube_visitante": "Bragantino",
-      "clube_casa_abrev": "CUI",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/16/cuiaba65.png",
-      "clube_visitante_id": 280,
-      "clube_visitante_abrev": "BRA",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2020/01/01/65.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 3,
       "clube_casa": "Bragantino",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/03/01/goias-65.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 13,
+      "clube_casa": "Corinthians",
+      "clube_casa_id": 264,
+      "clube_visitante": "Bragantino",
+      "clube_casa_abrev": "COR",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2019/09/30/Corinthians_65.png",
+      "clube_visitante_id": 280,
+      "clube_visitante_abrev": "BRA",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2020/01/01/65.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/03/06/photo_220x220_LvzP4JH.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2020/01/01/65.png",
   "scouts": {
-    "rodada_id": 12,
+    "rodada_id": 13,
     "g": 0,
     "a": 0,
     "sg": 0,
@@ -239,12 +239,12 @@
     "pi": 0,
     "pc": 0,
     "ps": 0,
-    "v": 5,
-    "pontos_num": 9.32,
-    "preco_num": 10.98,
-    "variacao_num": 0.21,
-    "media_num": 5.7,
-    "jogos_num": 12,
+    "v": 6,
+    "pontos_num": 8.85,
+    "preco_num": 11.1,
+    "variacao_num": 0.12,
+    "media_num": 5.94,
+    "jogos_num": 13,
     "posicao_abrev": "tec",
     "posicao": "Técnico"
   }

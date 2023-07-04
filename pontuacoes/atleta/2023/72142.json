@@ -6,7 +6,6 @@
   "clube_id": 327,
   "posicao": "Zagueiro",
   "rodadas": [
-    2,
     3,
     4,
     5,
@@ -16,10 +15,10 @@
     9,
     10,
     11,
-    12
+    12,
+    13
   ],
   "pontos": [
-    0,
     5,
     -1.6,
     2.4,
@@ -29,10 +28,10 @@
     14.7,
     9.5,
     9.3,
-    0
+    0,
+    13.9
   ],
   "precos": [
-    4,
     4.34,
     3.12,
     3.62,
@@ -42,10 +41,10 @@
     6.1,
     5.95,
     6.45,
-    5.12
+    5.12,
+    7.56
   ],
   "variacoes": [
-    0,
     0.34,
     -1.22,
     0.5,
@@ -55,10 +54,10 @@
     2.61,
     -0.15,
     0.5,
-    -1.33
+    -1.33,
+    2.44
   ],
   "medias": [
-    0,
     5,
     1.7,
     1.93,
@@ -68,22 +67,10 @@
     3.88,
     4.68,
     5.26,
-    4.68
+    4.68,
+    5.6
   ],
   "partidas": [
-    {
-      "rodada_id": 2,
-      "clube_casa": "São Paulo",
-      "clube_casa_id": 276,
-      "clube_visitante": "América-MG",
-      "clube_casa_abrev": "SAO",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/sao_paulo_60x60.png",
-      "clube_visitante_id": 327,
-      "clube_visitante_abrev": "AME",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/02/28/escudo65_1.png",
-      "placar_oficial_mandante": 3,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 3,
       "clube_casa": "Santos",
@@ -213,18 +200,31 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2016/05/03/inter65.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 13,
+      "clube_casa": "Atlético-MG",
+      "clube_casa_id": 282,
+      "clube_visitante": "América-MG",
+      "clube_casa_abrev": "ATL",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2017/11/23/Atletico-Mineiro-escudo65px.png",
+      "clube_visitante_id": 327,
+      "clube_visitante_abrev": "AME",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/02/28/escudo65_1.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/03/08/photo_220x220_TwK8xQJ.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2019/02/28/escudo65_1.png",
   "scouts": {
-    "rodada_id": 12,
+    "rodada_id": 13,
     "g": 3,
-    "a": 0,
+    "a": 1,
     "sg": 1,
-    "fs": 5,
-    "ff": 1,
-    "fd": 3,
+    "fs": 7,
+    "ff": 3,
+    "fd": 5,
     "ft": 1,
     "de": 0,
     "dp": 0,
@@ -233,18 +233,18 @@
     "ca": 2,
     "pp": 0,
     "gs": 1,
-    "fc": 15,
+    "fc": 18,
     "i": 1,
-    "ds": 9,
+    "ds": 13,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 0,
-    "preco_num": 5.12,
-    "variacao_num": -1.33,
-    "media_num": 4.68,
-    "jogos_num": 9,
+    "pontos_num": 13.9,
+    "preco_num": 7.56,
+    "variacao_num": 2.44,
+    "media_num": 5.6,
+    "jogos_num": 10,
     "posicao_abrev": "zag",
     "posicao": "Zagueiro"
   }

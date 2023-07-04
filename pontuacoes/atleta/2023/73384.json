@@ -6,7 +6,6 @@
   "clube_id": 266,
   "posicao": "Lateral",
   "rodadas": [
-    2,
     3,
     4,
     5,
@@ -16,10 +15,10 @@
     9,
     10,
     11,
-    12
+    12,
+    13
   ],
   "pontos": [
-    8,
     0,
     -0.3,
     0,
@@ -29,10 +28,10 @@
     1.9,
     0,
     8.9,
-    2.2
+    2.2,
+    2.8
   ],
   "precos": [
-    13.22,
     13.22,
     11.17,
     11.17,
@@ -42,10 +41,10 @@
     9.83,
     9.83,
     10.9,
-    9.95
+    9.95,
+    9.89
   ],
   "variacoes": [
-    2.12,
     0,
     -2.05,
     0,
@@ -55,10 +54,10 @@
     -0.55,
     0,
     1.07,
-    -0.95
+    -0.95,
+    -0.06
   ],
   "medias": [
-    9.1,
     9.1,
     5.97,
     5.97,
@@ -68,22 +67,10 @@
     4.17,
     4.17,
     4.85,
-    4.52
+    4.52,
+    4.33
   ],
   "partidas": [
-    {
-      "rodada_id": 2,
-      "clube_casa": "Fluminense",
-      "clube_casa_id": 266,
-      "clube_visitante": "Athlético-PR",
-      "clube_casa_abrev": "FLU",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/fluminense_60x60.png",
-      "clube_visitante_id": 293,
-      "clube_visitante_abrev": "ATL",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/09/09/Athletico-PR-65x65.png",
-      "placar_oficial_mandante": 2,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 3,
       "clube_casa": "Fortaleza",
@@ -213,16 +200,29 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/bahia_60x60.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 13,
+      "clube_casa": "São Paulo",
+      "clube_casa_id": 276,
+      "clube_visitante": "Fluminense",
+      "clube_casa_abrev": "SAO",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/sao_paulo_60x60.png",
+      "clube_visitante_id": 266,
+      "clube_visitante_abrev": "FLU",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/fluminense_60x60.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/05/09/photo_220x220_GJkHCf2.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2014/04/14/fluminense_60x60.png",
   "scouts": {
-    "rodada_id": 12,
+    "rodada_id": 13,
     "g": 1,
     "a": 1,
     "sg": 2,
-    "fs": 8,
+    "fs": 9,
     "ff": 6,
     "fd": 2,
     "ft": 0,
@@ -234,17 +234,17 @@
     "pp": 0,
     "gs": 0,
     "fc": 8,
-    "i": 1,
-    "ds": 7,
+    "i": 2,
+    "ds": 9,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 2.2,
-    "preco_num": 9.95,
-    "variacao_num": -0.95,
-    "media_num": 4.52,
-    "jogos_num": 8,
+    "pontos_num": 2.8,
+    "preco_num": 9.89,
+    "variacao_num": -0.06,
+    "media_num": 4.33,
+    "jogos_num": 9,
     "posicao_abrev": "lat",
     "posicao": "Lateral"
   }

@@ -6,7 +6,6 @@
   "clube_id": 284,
   "posicao": "Atacante",
   "rodadas": [
-    2,
     3,
     4,
     5,
@@ -16,7 +15,8 @@
     9,
     10,
     11,
-    12
+    12,
+    13
   ],
   "pontos": [
     0,
@@ -29,7 +29,7 @@
     0,
     0,
     0,
-    0
+    4.9
   ],
   "precos": [
     10,
@@ -42,7 +42,7 @@
     10,
     10,
     10,
-    10
+    8.01
   ],
   "variacoes": [
     0,
@@ -55,7 +55,7 @@
     0,
     0,
     0,
-    0
+    -1.99
   ],
   "medias": [
     0,
@@ -68,22 +68,9 @@
     0,
     0,
     0,
-    0
+    4.9
   ],
   "partidas": [
-    {
-      "rodada_id": 2,
-      "clube_casa": "Cruzeiro",
-      "clube_casa_id": 283,
-      "clube_visitante": "Grêmio",
-      "clube_casa_abrev": "CRU",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2021/02/13/65_cruzeiro-2021.png",
-      "clube_visitante_id": 284,
-      "clube_visitante_abrev": "GRE",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/gremio_60x60.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 3,
       "clube_casa": "Cuiabá",
@@ -213,14 +200,27 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2017/03/29/coritiba65.png",
       "placar_oficial_mandante": 5,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 13,
+      "clube_casa": "Bahia",
+      "clube_casa_id": 265,
+      "clube_visitante": "Grêmio",
+      "clube_casa_abrev": "BAH",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/bahia_60x60.png",
+      "clube_visitante_id": 284,
+      "clube_visitante_abrev": "GRE",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/gremio_60x60.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2021/04/29/c162773146af15b4d212ad3d8e81af03_220x220.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2014/04/14/gremio_60x60.png",
   "scouts": {
-    "rodada_id": 12,
+    "rodada_id": 13,
     "g": 0,
-    "a": 0,
+    "a": 1,
     "sg": 0,
     "fs": 0,
     "ff": 0,
@@ -234,17 +234,17 @@
     "pp": 0,
     "gs": 0,
     "fc": 0,
-    "i": 0,
+    "i": 1,
     "ds": 0,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 0,
-    "preco_num": 10,
-    "variacao_num": 0,
-    "media_num": 0,
-    "jogos_num": 0,
+    "pontos_num": 4.9,
+    "preco_num": 8.01,
+    "variacao_num": -1.99,
+    "media_num": 4.9,
+    "jogos_num": 1,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }
