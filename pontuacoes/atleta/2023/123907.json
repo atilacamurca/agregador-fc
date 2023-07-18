@@ -6,7 +6,6 @@
   "clube_id": 283,
   "posicao": "Técnico",
   "rodadas": [
-    4,
     5,
     6,
     7,
@@ -16,10 +15,10 @@
     11,
     12,
     13,
-    14
+    14,
+    15
   ],
   "pontos": [
-    5.25,
     3.65,
     11.55,
     3.36,
@@ -29,10 +28,10 @@
     2.05,
     6.58,
     5.03,
-    5.2
+    5.2,
+    6.66
   ],
   "precos": [
-    10.84,
     10.44,
     12.17,
     11.11,
@@ -42,10 +41,10 @@
     10.87,
     11.65,
     11.39,
-    11.58
+    11.58,
+    11.8
   ],
   "variacoes": [
-    -0.21,
     -0.4,
     1.73,
     -1.06,
@@ -55,10 +54,10 @@
     -0.38,
     0.78,
     -0.26,
-    0.19
+    0.19,
+    0.22
   ],
   "medias": [
-    7.03,
     6.35,
     7.22,
     6.67,
@@ -68,22 +67,10 @@
     5.49,
     5.58,
     5.54,
-    5.52
+    5.52,
+    5.6
   ],
   "partidas": [
-    {
-      "rodada_id": 4,
-      "clube_casa": "Cruzeiro",
-      "clube_casa_id": 283,
-      "clube_visitante": "Santos",
-      "clube_casa_abrev": "CRU",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2021/02/13/65_cruzeiro-2021.png",
-      "clube_visitante_id": 277,
-      "clube_visitante_abrev": "SAN",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/santos_60x60.png",
-      "placar_oficial_mandante": 2,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 5,
       "clube_casa": "Cruzeiro",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/02/13/65_cruzeiro-2021.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 15,
+      "clube_casa": "Cruzeiro",
+      "clube_casa_id": 283,
+      "clube_visitante": "Coritiba",
+      "clube_casa_abrev": "CRU",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2021/02/13/65_cruzeiro-2021.png",
+      "clube_visitante_id": 294,
+      "clube_visitante_abrev": "COR",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2017/03/29/coritiba65.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/03/20/photo_220x220_o3JUWBe.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2021/02/13/65_cruzeiro-2021.png",
   "scouts": {
-    "rodada_id": 14,
+    "rodada_id": 15,
     "g": 0,
     "a": 0,
     "sg": 0,
@@ -240,11 +240,11 @@
     "pc": 0,
     "ps": 0,
     "v": 6,
-    "pontos_num": 5.2,
-    "preco_num": 11.58,
-    "variacao_num": 0.19,
-    "media_num": 5.52,
-    "jogos_num": 14,
+    "pontos_num": 6.66,
+    "preco_num": 11.8,
+    "variacao_num": 0.22,
+    "media_num": 5.6,
+    "jogos_num": 15,
     "posicao_abrev": "tec",
     "posicao": "Técnico"
   }
