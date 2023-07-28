@@ -6,7 +6,6 @@
   "clube_id": 266,
   "posicao": "Atacante",
   "rodadas": [
-    5,
     6,
     7,
     8,
@@ -16,10 +15,10 @@
     12,
     13,
     14,
-    15
+    15,
+    16
   ],
   "pontos": [
-    0.8,
     0.8,
     2.9,
     0.8,
@@ -29,10 +28,10 @@
     15.6,
     0.5,
     3.2,
-    2.7
+    2.7,
+    5.5
   ],
   "precos": [
-    10.04,
     9.59,
     9.73,
     9.27,
@@ -42,10 +41,10 @@
     11.91,
     9.62,
     10.06,
-    9.86
+    9.86,
+    10.39
   ],
   "variacoes": [
-    -0.65,
     -0.45,
     0.14,
     -0.46,
@@ -55,10 +54,10 @@
     2.62,
     -2.29,
     0.44,
-    -0.2
+    -0.2,
+    0.53
   ],
   "medias": [
-    3.2,
     2.8,
     2.81,
     2.56,
@@ -68,22 +67,10 @@
     3.88,
     3.62,
     3.59,
-    3.53
+    3.53,
+    3.65
   ],
   "partidas": [
-    {
-      "rodada_id": 5,
-      "clube_casa": "Cruzeiro",
-      "clube_casa_id": 283,
-      "clube_visitante": "Fluminense",
-      "clube_casa_abrev": "CRU",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2021/02/13/65_cruzeiro-2021.png",
-      "clube_visitante_id": 266,
-      "clube_visitante_abrev": "FLU",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/fluminense_60x60.png",
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 2
-    },
     {
       "rodada_id": 6,
       "clube_casa": "Fluminense",
@@ -213,18 +200,31 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2018/04/09/Flamengo-65.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 16,
+      "clube_casa": "Coritiba",
+      "clube_casa_id": 294,
+      "clube_visitante": "Fluminense",
+      "clube_casa_abrev": "COR",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2017/03/29/coritiba65.png",
+      "clube_visitante_id": 266,
+      "clube_visitante_abrev": "FLU",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/fluminense_60x60.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/05/09/photo_220x220_JNinp65.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2014/04/14/fluminense_60x60.png",
   "scouts": {
-    "rodada_id": 15,
+    "rodada_id": 16,
     "g": 2,
     "a": 2,
     "sg": 0,
     "fs": 5,
-    "ff": 10,
-    "fd": 10,
+    "ff": 14,
+    "fd": 11,
     "ft": 1,
     "de": 0,
     "dp": 0,
@@ -234,17 +234,17 @@
     "pp": 0,
     "gs": 0,
     "fc": 19,
-    "i": 3,
-    "ds": 7,
+    "i": 4,
+    "ds": 8,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 2.7,
-    "preco_num": 9.86,
-    "variacao_num": -0.2,
-    "media_num": 3.53,
-    "jogos_num": 15,
+    "pontos_num": 5.5,
+    "preco_num": 10.39,
+    "variacao_num": 0.53,
+    "media_num": 3.65,
+    "jogos_num": 16,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }

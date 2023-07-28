@@ -6,7 +6,6 @@
   "clube_id": 277,
   "posicao": "Técnico",
   "rodadas": [
-    5,
     6,
     7,
     8,
@@ -15,10 +14,10 @@
     12,
     13,
     14,
-    15
+    15,
+    16
   ],
   "pontos": [
-    8.22,
     8.01,
     2.39,
     3.89,
@@ -27,10 +26,10 @@
     0,
     1.03,
     7.54,
-    2.57
+    2.57,
+    4.33
   ],
   "precos": [
-    10.21,
     10.63,
     9.81,
     10.09,
@@ -39,10 +38,10 @@
     10.7,
     9.67,
     10.84,
-    10.02
+    10.02,
+    10.36
   ],
   "variacoes": [
-    0.74,
     0.42,
     -0.82,
     0.28,
@@ -51,10 +50,10 @@
     0,
     -1.03,
     1.17,
-    -0.82
+    -0.82,
+    0.34
   ],
   "medias": [
-    5.41,
     5.84,
     5.35,
     5.17,
@@ -63,22 +62,10 @@
     5.53,
     5.12,
     5.32,
-    5.11
+    5.11,
+    5.05
   ],
   "partidas": [
-    {
-      "rodada_id": 5,
-      "clube_casa": "Santos",
-      "clube_casa_id": 277,
-      "clube_visitante": "Bahia",
-      "clube_casa_abrev": "SAN",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/santos_60x60.png",
-      "clube_visitante_id": 265,
-      "clube_visitante_abrev": "BAH",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/bahia_60x60.png",
-      "placar_oficial_mandante": 3,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 6,
       "clube_casa": "Vasco",
@@ -195,12 +182,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/santos_60x60.png",
       "placar_oficial_mandante": 4,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 16,
+      "clube_casa": "Santos",
+      "clube_casa_id": 277,
+      "clube_visitante": "Botafogo",
+      "clube_casa_abrev": "SAN",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/santos_60x60.png",
+      "clube_visitante_id": 263,
+      "clube_visitante_abrev": "BOT",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-65.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/03/06/photo_220x220_L21KedQ.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2014/04/14/santos_60x60.png",
   "scouts": {
-    "rodada_id": 15,
+    "rodada_id": 16,
     "g": 0,
     "a": 0,
     "sg": 0,
@@ -222,11 +222,11 @@
     "pc": 0,
     "ps": 0,
     "v": 6,
-    "pontos_num": 2.57,
-    "preco_num": 10.02,
-    "variacao_num": -0.82,
-    "media_num": 5.11,
-    "jogos_num": 13,
+    "pontos_num": 4.33,
+    "preco_num": 10.36,
+    "variacao_num": 0.34,
+    "media_num": 5.05,
+    "jogos_num": 14,
     "posicao_abrev": "tec",
     "posicao": "Técnico"
   }

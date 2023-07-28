@@ -6,7 +6,6 @@
   "clube_id": 290,
   "posicao": "Zagueiro",
   "rodadas": [
-    5,
     6,
     7,
     8,
@@ -16,10 +15,10 @@
     12,
     13,
     14,
-    15
+    15,
+    16
   ],
   "pontos": [
-    1.7,
     0.2,
     0,
     0,
@@ -29,10 +28,10 @@
     0,
     0,
     0,
-    0
+    0,
+    5.6
   ],
   "precos": [
-    2.02,
     1.76,
     1.76,
     1.76,
@@ -42,10 +41,10 @@
     2.61,
     2.61,
     2.61,
-    2.61
+    2.61,
+    2.92
   ],
   "variacoes": [
-    0.36,
     -0.26,
     0,
     0,
@@ -55,10 +54,10 @@
     0,
     0,
     0,
-    0
+    0,
+    0.31
   ],
   "medias": [
-    0.6,
     0.5,
     0.5,
     0.5,
@@ -68,22 +67,10 @@
     1.45,
     1.45,
     1.45,
-    1.45
+    1.45,
+    2.04
   ],
   "partidas": [
-    {
-      "rodada_id": 5,
-      "clube_casa": "Flamengo",
-      "clube_casa_id": 262,
-      "clube_visitante": "Goiás",
-      "clube_casa_abrev": "FLA",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2018/04/09/Flamengo-65.png",
-      "clube_visitante_id": 290,
-      "clube_visitante_abrev": "GOI",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/03/01/goias-65.png",
-      "placar_oficial_mandante": 2,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 6,
       "clube_casa": "Goiás",
@@ -213,15 +200,28 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2017/11/23/Atletico-Mineiro-escudo65px.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 16,
+      "clube_casa": "Cruzeiro",
+      "clube_casa_id": 283,
+      "clube_visitante": "Goiás",
+      "clube_casa_abrev": "CRU",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2021/02/13/65_cruzeiro-2021.png",
+      "clube_visitante_id": 290,
+      "clube_visitante_abrev": "GOI",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/03/01/goias-65.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/03/11/photo_220x220_o9GWoGq.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2021/03/01/goias-65.png",
   "scouts": {
-    "rodada_id": 15,
+    "rodada_id": 16,
     "g": 0,
     "a": 0,
-    "sg": 1,
+    "sg": 2,
     "fs": 5,
     "ff": 2,
     "fd": 1,
@@ -233,18 +233,18 @@
     "ca": 1,
     "pp": 0,
     "gs": 0,
-    "fc": 4,
+    "fc": 6,
     "i": 0,
-    "ds": 3,
+    "ds": 4,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 0,
-    "preco_num": 2.61,
-    "variacao_num": 0,
-    "media_num": 1.45,
-    "jogos_num": 6,
+    "pontos_num": 5.6,
+    "preco_num": 2.92,
+    "variacao_num": 0.31,
+    "media_num": 2.04,
+    "jogos_num": 7,
     "posicao_abrev": "zag",
     "posicao": "Zagueiro"
   }
