@@ -6,7 +6,6 @@
   "clube_id": 266,
   "posicao": "Atacante",
   "rodadas": [
-    6,
     7,
     8,
     9,
@@ -16,10 +15,10 @@
     13,
     14,
     15,
-    16
+    16,
+    17
   ],
   "pontos": [
-    0.8,
     2.9,
     0.8,
     1.2,
@@ -29,10 +28,10 @@
     0.5,
     3.2,
     2.7,
-    5.5
+    5.5,
+    0
   ],
   "precos": [
-    9.59,
     9.73,
     9.27,
     9.09,
@@ -42,10 +41,10 @@
     9.62,
     10.06,
     9.86,
+    10.39,
     10.39
   ],
   "variacoes": [
-    -0.45,
     0.14,
     -0.46,
     -0.18,
@@ -55,10 +54,10 @@
     -2.29,
     0.44,
     -0.2,
-    0.53
+    0.53,
+    0
   ],
   "medias": [
-    2.8,
     2.81,
     2.56,
     2.41,
@@ -68,22 +67,10 @@
     3.62,
     3.59,
     3.53,
+    3.65,
     3.65
   ],
   "partidas": [
-    {
-      "rodada_id": 6,
-      "clube_casa": "Fluminense",
-      "clube_casa_id": 266,
-      "clube_visitante": "Cuiabá",
-      "clube_casa_abrev": "FLU",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/fluminense_60x60.png",
-      "clube_visitante_id": 1371,
-      "clube_visitante_abrev": "CUI",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/16/cuiaba65.png",
-      "placar_oficial_mandante": 2,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 7,
       "clube_casa": "Botafogo",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/fluminense_60x60.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 17,
+      "clube_casa": "Fluminense",
+      "clube_casa_id": 266,
+      "clube_visitante": "Santos",
+      "clube_casa_abrev": "FLU",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/fluminense_60x60.png",
+      "clube_visitante_id": 277,
+      "clube_visitante_abrev": "SAN",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/santos_60x60.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/05/09/photo_220x220_JNinp65.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2014/04/14/fluminense_60x60.png",
   "scouts": {
-    "rodada_id": 16,
+    "rodada_id": 17,
     "g": 2,
     "a": 2,
     "sg": 0,
@@ -240,9 +240,9 @@
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 5.5,
+    "pontos_num": 0,
     "preco_num": 10.39,
-    "variacao_num": 0.53,
+    "variacao_num": 0,
     "media_num": 3.65,
     "jogos_num": 16,
     "posicao_abrev": "ata",

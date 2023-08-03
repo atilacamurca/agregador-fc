@@ -6,7 +6,6 @@
   "clube_id": 356,
   "posicao": "Zagueiro",
   "rodadas": [
-    6,
     7,
     8,
     9,
@@ -16,10 +15,10 @@
     13,
     14,
     15,
-    16
+    16,
+    17
   ],
   "pontos": [
-    0,
     1.8,
     5.5,
     7.3,
@@ -29,10 +28,10 @@
     3.8,
     9.8,
     0.3,
-    -1.4
+    -1.4,
+    0
   ],
   "precos": [
-    8.19,
     7.77,
     8.49,
     9.01,
@@ -42,10 +41,10 @@
     8.56,
     9.79,
     8.29,
+    7.92,
     7.92
   ],
   "variacoes": [
-    0,
     -0.42,
     0.72,
     0.52,
@@ -55,10 +54,10 @@
     -0.44,
     1.23,
     -1.5,
-    -0.37
+    -0.37,
+    0
   ],
   "medias": [
-    4.02,
     3.65,
     3.91,
     4.33,
@@ -68,22 +67,10 @@
     4.2,
     4.67,
     4.33,
+    3.92,
     3.92
   ],
   "partidas": [
-    {
-      "rodada_id": 6,
-      "clube_casa": "Grêmio",
-      "clube_casa_id": 284,
-      "clube_visitante": "Fortaleza",
-      "clube_casa_abrev": "GRE",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/gremio_60x60.png",
-      "clube_visitante_id": 356,
-      "clube_visitante_abrev": "FOR",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/09/19/65_0000_Fortaleza-2021.png",
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 7,
       "clube_casa": "América-MG",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/09/19/65_0000_Fortaleza-2021.png",
       "placar_oficial_mandante": 3,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 17,
+      "clube_casa": "Fortaleza",
+      "clube_casa_id": 356,
+      "clube_visitante": "Bragantino",
+      "clube_casa_abrev": "FOR",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2021/09/19/65_0000_Fortaleza-2021.png",
+      "clube_visitante_id": 280,
+      "clube_visitante_abrev": "BRA",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2020/01/01/65.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 3
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/05/06/photo_220x220_qvH6Q9A.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2021/09/19/65_0000_Fortaleza-2021.png",
   "scouts": {
-    "rodada_id": 16,
+    "rodada_id": 17,
     "g": 0,
     "a": 1,
     "sg": 6,
@@ -240,9 +240,9 @@
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": -1.4,
+    "pontos_num": 0,
     "preco_num": 7.92,
-    "variacao_num": -0.37,
+    "variacao_num": 0,
     "media_num": 3.92,
     "jogos_num": 14,
     "posicao_abrev": "zag",

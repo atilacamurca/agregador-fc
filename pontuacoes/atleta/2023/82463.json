@@ -6,7 +6,6 @@
   "clube_id": 282,
   "posicao": "Meia",
   "rodadas": [
-    6,
     7,
     8,
     9,
@@ -16,10 +15,10 @@
     13,
     14,
     15,
-    16
+    16,
+    17
   ],
   "pontos": [
-    0,
     0,
     0,
     2.8,
@@ -29,10 +28,10 @@
     0,
     0,
     5.7,
-    1.4
+    1.4,
+    1.5
   ],
   "precos": [
-    4.5,
     4.5,
     4.5,
     4.13,
@@ -42,10 +41,10 @@
     4.13,
     4.13,
     4.47,
-    3.92
+    3.92,
+    3.93
   ],
   "variacoes": [
-    0,
     0,
     0,
     -0.37,
@@ -55,10 +54,10 @@
     0,
     0,
     0.34,
-    -0.55
+    -0.55,
+    0.01
   ],
   "medias": [
-    1.77,
     1.77,
     1.77,
     2.03,
@@ -68,22 +67,10 @@
     2.03,
     2.03,
     2.76,
-    2.53
+    2.53,
+    2.38
   ],
   "partidas": [
-    {
-      "rodada_id": 6,
-      "clube_casa": "Atlético-MG",
-      "clube_casa_id": 282,
-      "clube_visitante": "Internacional",
-      "clube_casa_abrev": "ATL",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2017/11/23/Atletico-Mineiro-escudo65px.png",
-      "clube_visitante_id": 285,
-      "clube_visitante_abrev": "INT",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2016/05/03/inter65.png",
-      "placar_oficial_mandante": 2,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 7,
       "clube_casa": "Coritiba",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2017/11/23/Atletico-Mineiro-escudo65px.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 17,
+      "clube_casa": "Atlético-MG",
+      "clube_casa_id": 282,
+      "clube_visitante": "Flamengo",
+      "clube_casa_abrev": "ATL",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2017/11/23/Atletico-Mineiro-escudo65px.png",
+      "clube_visitante_id": 262,
+      "clube_visitante_abrev": "FLA",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2018/04/09/Flamengo-65.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/03/31/photo_220x220_y7upQyC.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2017/11/23/Atletico-Mineiro-escudo65px.png",
   "scouts": {
-    "rodada_id": 16,
+    "rodada_id": 17,
     "g": 0,
     "a": 0,
     "sg": 0,
@@ -233,18 +233,18 @@
     "ca": 3,
     "pp": 0,
     "gs": 0,
-    "fc": 7,
+    "fc": 10,
     "i": 0,
-    "ds": 14,
+    "ds": 16,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 1.4,
-    "preco_num": 3.92,
-    "variacao_num": -0.55,
-    "media_num": 2.53,
-    "jogos_num": 6,
+    "pontos_num": 1.5,
+    "preco_num": 3.93,
+    "variacao_num": 0.01,
+    "media_num": 2.38,
+    "jogos_num": 7,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }
