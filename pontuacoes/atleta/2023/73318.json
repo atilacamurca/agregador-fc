@@ -6,7 +6,6 @@
   "clube_id": 327,
   "posicao": "Lateral",
   "rodadas": [
-    7,
     8,
     9,
     10,
@@ -16,10 +15,10 @@
     14,
     15,
     16,
-    17
+    17,
+    18
   ],
   "pontos": [
-    0,
     0,
     0,
     0,
@@ -29,10 +28,10 @@
     1.2,
     0,
     1.4,
-    1.4
+    1.4,
+    3.3
   ],
   "precos": [
-    6.39,
     6.39,
     6.39,
     6.39,
@@ -42,10 +41,10 @@
     5.06,
     5.06,
     4.98,
-    4.96
+    4.96,
+    5.31
   ],
   "variacoes": [
-    0,
     0,
     0,
     0,
@@ -55,10 +54,10 @@
     -1.33,
     0,
     -0.08,
-    -0.02
+    -0.02,
+    0.35
   ],
   "medias": [
-    5.9,
     5.9,
     5.9,
     5.9,
@@ -68,22 +67,10 @@
     3.55,
     3.55,
     2.83,
-    2.47
+    2.47,
+    2.64
   ],
   "partidas": [
-    {
-      "rodada_id": 7,
-      "clube_casa": "América-MG",
-      "clube_casa_id": 327,
-      "clube_visitante": "Fortaleza",
-      "clube_casa_abrev": "AME",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2019/02/28/escudo65_1.png",
-      "clube_visitante_id": 356,
-      "clube_visitante_abrev": "FOR",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/09/19/65_0000_Fortaleza-2021.png",
-      "placar_oficial_mandante": 2,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 8,
       "clube_casa": "Botafogo",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/palmeiras_60x60.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 4
+    },
+    {
+      "rodada_id": 18,
+      "clube_casa": "Bahia",
+      "clube_casa_id": 265,
+      "clube_visitante": "América-MG",
+      "clube_casa_abrev": "BAH",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/bahia_60x60.png",
+      "clube_visitante_id": 327,
+      "clube_visitante_abrev": "AME",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/02/28/escudo65_1.png",
+      "placar_oficial_mandante": 3,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/07/06/photo_220x220_9c2ocup.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2019/02/28/escudo65_1.png",
   "scouts": {
-    "rodada_id": 17,
+    "rodada_id": 18,
     "g": 0,
     "a": 0,
     "sg": 0,
@@ -233,18 +233,18 @@
     "ca": 1,
     "pp": 0,
     "gs": 0,
-    "fc": 5,
+    "fc": 6,
     "i": 0,
-    "ds": 6,
+    "ds": 9,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 1.4,
-    "preco_num": 4.96,
-    "variacao_num": -0.02,
-    "media_num": 2.47,
-    "jogos_num": 4,
+    "pontos_num": 3.3,
+    "preco_num": 5.31,
+    "variacao_num": 0.35,
+    "media_num": 2.64,
+    "jogos_num": 5,
     "posicao_abrev": "lat",
     "posicao": "Lateral"
   }
