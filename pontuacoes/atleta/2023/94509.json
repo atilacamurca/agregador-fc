@@ -6,7 +6,6 @@
   "clube_id": 275,
   "posicao": "Meia",
   "rodadas": [
-    8,
     9,
     10,
     11,
@@ -16,10 +15,10 @@
     15,
     16,
     17,
-    18
+    18,
+    19
   ],
   "pontos": [
-    0.9,
     0,
     1.4,
     0,
@@ -29,10 +28,10 @@
     4,
     10.9,
     7.5,
-    0
+    0,
+    8
   ],
   "precos": [
-    19.08,
     19.08,
     18.11,
     18.11,
@@ -42,10 +41,10 @@
     17.17,
     18.43,
     17.99,
-    17.99
+    17.99,
+    18.13
   ],
   "variacoes": [
-    -0.38,
     0,
     -0.97,
     0,
@@ -55,10 +54,10 @@
     -0.15,
     1.26,
     -0.44,
-    0
+    0,
+    0.14
   ],
   "medias": [
-    10.42,
     10.42,
     9.13,
     9.13,
@@ -68,22 +67,10 @@
     7.21,
     7.55,
     7.55,
-    7.55
+    7.55,
+    7.58
   ],
   "partidas": [
-    {
-      "rodada_id": 8,
-      "clube_casa": "Atlético-MG",
-      "clube_casa_id": 282,
-      "clube_visitante": "Palmeiras",
-      "clube_casa_abrev": "ATL",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2017/11/23/Atletico-Mineiro-escudo65px.png",
-      "clube_visitante_id": 275,
-      "clube_visitante_abrev": "PAL",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/palmeiras_60x60.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 9,
       "clube_casa": "Palmeiras",
@@ -213,18 +200,31 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/palmeiras_60x60.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 19,
+      "clube_casa": "Palmeiras",
+      "clube_casa_id": 275,
+      "clube_visitante": "Cruzeiro",
+      "clube_casa_abrev": "PAL",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/palmeiras_60x60.png",
+      "clube_visitante_id": 283,
+      "clube_visitante_abrev": "CRU",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/02/13/65_cruzeiro-2021.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/03/15/photo_220x220_l1kSIXt.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2014/04/14/palmeiras_60x60.png",
   "scouts": {
-    "rodada_id": 18,
+    "rodada_id": 19,
     "g": 5,
-    "a": 3,
+    "a": 4,
     "sg": 0,
-    "fs": 27,
-    "ff": 11,
-    "fd": 8,
+    "fs": 29,
+    "ff": 12,
+    "fd": 9,
     "ft": 1,
     "de": 0,
     "dp": 0,
@@ -240,11 +240,11 @@
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 0,
-    "preco_num": 17.99,
-    "variacao_num": 0,
-    "media_num": 7.55,
-    "jogos_num": 12,
+    "pontos_num": 8,
+    "preco_num": 18.13,
+    "variacao_num": 0.14,
+    "media_num": 7.58,
+    "jogos_num": 13,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }

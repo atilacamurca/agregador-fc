@@ -6,7 +6,6 @@
   "clube_id": 285,
   "posicao": "Meia",
   "rodadas": [
-    8,
     9,
     10,
     11,
@@ -16,10 +15,10 @@
     15,
     16,
     17,
-    18
+    18,
+    19
   ],
   "pontos": [
-    1.4,
     2.6,
     2.3,
     2.4,
@@ -29,10 +28,10 @@
     -0.1,
     0,
     4.3,
-    2
+    2,
+    0.9
   ],
   "precos": [
-    9.13,
     9.18,
     9.02,
     9.05,
@@ -42,10 +41,10 @@
     7.96,
     7.9,
     8.54,
-    8.23
+    8.23,
+    8.04
   ],
   "variacoes": [
-    -0.86,
     0.05,
     -0.16,
     0.03,
@@ -55,10 +54,10 @@
     -0.19,
     -0.06,
     0.64,
-    -0.31
+    -0.31,
+    -0.19
   ],
   "medias": [
-    3.35,
     3.26,
     3.15,
     3.08,
@@ -68,22 +67,10 @@
     2.48,
     2.29,
     2.43,
-    2.4
+    2.4,
+    2.31
   ],
   "partidas": [
-    {
-      "rodada_id": 8,
-      "clube_casa": "Internacional",
-      "clube_casa_id": 285,
-      "clube_visitante": "Bahia",
-      "clube_casa_abrev": "INT",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2016/05/03/inter65.png",
-      "clube_visitante_id": 265,
-      "clube_visitante_abrev": "BAH",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/bahia_60x60.png",
-      "placar_oficial_mandante": 2,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 9,
       "clube_casa": "Santos",
@@ -213,17 +200,30 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/09/30/Corinthians_65.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 19,
+      "clube_casa": "Botafogo",
+      "clube_casa_id": 263,
+      "clube_visitante": "Internacional",
+      "clube_casa_abrev": "BOT",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-65.png",
+      "clube_visitante_id": 285,
+      "clube_visitante_abrev": "INT",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2016/05/03/inter65.png",
+      "placar_oficial_mandante": 3,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/03/07/photo_220x220_M6Icp8o.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2016/05/03/inter65.png",
   "scouts": {
-    "rodada_id": 18,
+    "rodada_id": 19,
     "g": 0,
     "a": 2,
     "sg": 0,
-    "fs": 26,
-    "ff": 7,
+    "fs": 27,
+    "ff": 8,
     "fd": 4,
     "ft": 1,
     "de": 0,
@@ -233,18 +233,18 @@
     "ca": 4,
     "pp": 0,
     "gs": 0,
-    "fc": 12,
-    "i": 1,
+    "fc": 13,
+    "i": 2,
     "ds": 6,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 2,
-    "preco_num": 8.23,
-    "variacao_num": -0.31,
-    "media_num": 2.4,
-    "jogos_num": 15,
+    "pontos_num": 0.9,
+    "preco_num": 8.04,
+    "variacao_num": -0.19,
+    "media_num": 2.31,
+    "jogos_num": 16,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }

@@ -6,7 +6,6 @@
   "clube_id": 1371,
   "posicao": "Atacante",
   "rodadas": [
-    8,
     9,
     10,
     11,
@@ -16,10 +15,10 @@
     15,
     16,
     17,
-    18
+    18,
+    19
   ],
   "pontos": [
-    4.2,
     5.2,
     11.9,
     6.3,
@@ -29,10 +28,10 @@
     6.8,
     4.5,
     3,
-    3.4
+    3.4,
+    0
   ],
   "precos": [
-    1.79,
     2.27,
     3.89,
     3.53,
@@ -42,10 +41,10 @@
     4.71,
     4.57,
     4.42,
+    4.58,
     4.58
   ],
   "variacoes": [
-    0.55,
     0.48,
     1.62,
     -0.36,
@@ -55,10 +54,10 @@
     0.82,
     -0.14,
     -0.15,
-    0.16
+    0.16,
+    0
   ],
   "medias": [
-    3.35,
     3.97,
     5.95,
     6.02,
@@ -68,22 +67,10 @@
     6.26,
     6.08,
     5.8,
+    5.6,
     5.6
   ],
   "partidas": [
-    {
-      "rodada_id": 8,
-      "clube_casa": "Cuiabá",
-      "clube_casa_id": 1371,
-      "clube_visitante": "Coritiba",
-      "clube_casa_abrev": "CUI",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/16/cuiaba65.png",
-      "clube_visitante_id": 294,
-      "clube_visitante_abrev": "COR",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2017/03/29/coritiba65.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 9,
       "clube_casa": "Goiás",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2018/04/09/Flamengo-65.png",
       "placar_oficial_mandante": 3,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 19,
+      "clube_casa": "Athlético-PR",
+      "clube_casa_id": 293,
+      "clube_visitante": "Cuiabá",
+      "clube_casa_abrev": "ATL",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2019/09/09/Athletico-PR-65x65.png",
+      "clube_visitante_id": 1371,
+      "clube_visitante_abrev": "CUI",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/16/cuiaba65.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/03/06/photo_220x220_FfgJEdr.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2014/04/16/cuiaba65.png",
   "scouts": {
-    "rodada_id": 18,
+    "rodada_id": 19,
     "g": 1,
     "a": 1,
     "sg": 0,
@@ -240,9 +240,9 @@
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 3.4,
+    "pontos_num": 0,
     "preco_num": 4.58,
-    "variacao_num": 0.16,
+    "variacao_num": 0,
     "media_num": 5.6,
     "jogos_num": 12,
     "posicao_abrev": "ata",
