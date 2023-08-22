@@ -6,7 +6,6 @@
   "clube_id": 276,
   "posicao": "Lateral",
   "rodadas": [
-    9,
     10,
     11,
     12,
@@ -16,10 +15,10 @@
     16,
     17,
     18,
-    19
+    19,
+    20
   ],
   "pontos": [
-    0,
     0.5,
     -0.3,
     -0.4,
@@ -29,10 +28,10 @@
     0,
     8.2,
     0.8,
-    0
+    0,
+    -1
   ],
   "precos": [
-    7.55,
     6.83,
     6.61,
     6.44,
@@ -42,10 +41,10 @@
     7.3,
     8.15,
     7.11,
-    7.11
+    7.11,
+    6.67
   ],
   "variacoes": [
-    0,
     -0.72,
     -0.22,
     -0.17,
@@ -55,10 +54,10 @@
     0,
     0.85,
     -1.04,
-    0
+    0,
+    -0.44
   ],
   "medias": [
-    4.73,
     4.2,
     3.7,
     3.29,
@@ -68,22 +67,10 @@
     3.9,
     4.23,
     3.99,
-    3.99
+    3.99,
+    3.92
   ],
   "partidas": [
-    {
-      "rodada_id": 9,
-      "clube_casa": "Grêmio",
-      "clube_casa_id": 284,
-      "clube_visitante": "São Paulo",
-      "clube_casa_abrev": "GRE",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/gremio_60x60.png",
-      "clube_visitante_id": 276,
-      "clube_visitante_abrev": "SAO",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/sao_paulo_60x60.png",
-      "placar_oficial_mandante": 2,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 10,
       "clube_casa": "São Paulo",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/sao_paulo_60x60.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 20,
+      "clube_casa": "São Paulo",
+      "clube_casa_id": 276,
+      "clube_visitante": "Botafogo",
+      "clube_casa_abrev": "SAO",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/sao_paulo_60x60.png",
+      "clube_visitante_id": 263,
+      "clube_visitante_abrev": "BOT",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-65.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2022/03/01/de7df71bb9091a8547f8d8bd0212b549_220x220.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2014/04/14/sao_paulo_60x60.png",
   "scouts": {
-    "rodada_id": 19,
+    "rodada_id": 20,
     "g": 0,
     "a": 1,
     "sg": 4,
@@ -230,7 +230,7 @@
     "dp": 0,
     "gc": 1,
     "cv": 0,
-    "ca": 3,
+    "ca": 4,
     "pp": 0,
     "gs": 0,
     "fc": 10,
@@ -240,10 +240,10 @@
     "pc": 1,
     "ps": 0,
     "v": 0,
-    "pontos_num": 0,
-    "preco_num": 7.11,
-    "variacao_num": 0,
-    "media_num": 3.99,
+    "pontos_num": -1,
+    "preco_num": 6.67,
+    "variacao_num": -0.44,
+    "media_num": 3.92,
     "jogos_num": 14,
     "posicao_abrev": "lat",
     "posicao": "Lateral"

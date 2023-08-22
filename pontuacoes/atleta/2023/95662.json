@@ -6,7 +6,6 @@
   "clube_id": 327,
   "posicao": "Meia",
   "rodadas": [
-    9,
     10,
     11,
     12,
@@ -16,10 +15,10 @@
     16,
     17,
     18,
-    19
+    19,
+    20
   ],
   "pontos": [
-    0,
     -0.6,
     1.2,
     0.6,
@@ -29,10 +28,10 @@
     0,
     0,
     0,
+    0,
     0
   ],
   "precos": [
-    2.6,
     2.4,
     2.67,
     2.57,
@@ -42,10 +41,10 @@
     2.11,
     2.16,
     2.16,
+    2.12,
     2.12
   ],
   "variacoes": [
-    -0.71,
     -0.2,
     0.27,
     -0.1,
@@ -55,10 +54,10 @@
     0,
     0.05,
     0,
-    -0.04
+    -0.04,
+    0
   ],
   "medias": [
-    0.98,
     0.75,
     0.81,
     0.79,
@@ -68,22 +67,10 @@
     0.45,
     0.41,
     0.41,
+    0.38,
     0.38
   ],
   "partidas": [
-    {
-      "rodada_id": 9,
-      "clube_casa": "América-MG",
-      "clube_casa_id": 327,
-      "clube_visitante": "Corinthians",
-      "clube_casa_abrev": "AME",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2019/02/28/escudo65_1.png",
-      "clube_visitante_id": 264,
-      "clube_visitante_abrev": "COR",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/09/30/Corinthians_65.png",
-      "placar_oficial_mandante": 2,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 10,
       "clube_casa": "América-MG",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/03/01/goias-65.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 20,
+      "clube_casa": "Fluminense",
+      "clube_casa_id": 266,
+      "clube_visitante": "América-MG",
+      "clube_casa_abrev": "FLU",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/fluminense_60x60.png",
+      "clube_visitante_id": 327,
+      "clube_visitante_abrev": "AME",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/02/28/escudo65_1.png",
+      "placar_oficial_mandante": 3,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2022/02/24/38a9d99d34c06f3714df211deaf2bd0f_220x220.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2019/02/28/escudo65_1.png",
   "scouts": {
-    "rodada_id": 19,
+    "rodada_id": 20,
     "g": 0,
     "a": 0,
     "sg": 0,
@@ -242,7 +242,7 @@
     "v": 0,
     "pontos_num": 0,
     "preco_num": 2.12,
-    "variacao_num": -0.04,
+    "variacao_num": 0,
     "media_num": 0.38,
     "jogos_num": 13,
     "posicao_abrev": "mei",

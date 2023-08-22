@@ -9,31 +9,36 @@
     16,
     17,
     18,
-    19
+    19,
+    20
   ],
   "pontos": [
     0,
     0,
     4.2,
-    0
+    0,
+    0.5
   ],
   "precos": [
     4,
     4,
     4.33,
-    4.33
+    4.33,
+    3.66
   ],
   "variacoes": [
     0,
     0,
     0.33,
-    0
+    0,
+    -0.67
   ],
   "medias": [
     0,
     0,
     4.2,
-    4.2
+    4.2,
+    2.35
   ],
   "partidas": [
     {
@@ -87,17 +92,30 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/03/01/goias-65.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 20,
+      "clube_casa": "Fluminense",
+      "clube_casa_id": 266,
+      "clube_visitante": "América-MG",
+      "clube_casa_abrev": "FLU",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/fluminense_60x60.png",
+      "clube_visitante_id": 327,
+      "clube_visitante_abrev": "AME",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/02/28/escudo65_1.png",
+      "placar_oficial_mandante": 3,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/07/25/photo_220x220_k6Nutl7.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2019/02/28/escudo65_1.png",
   "scouts": {
-    "rodada_id": 19,
+    "rodada_id": 20,
     "g": 0,
     "a": 0,
     "sg": 0,
     "fs": 0,
-    "ff": 0,
+    "ff": 1,
     "fd": 0,
     "ft": 0,
     "de": 0,
@@ -107,18 +125,18 @@
     "ca": 0,
     "pp": 0,
     "gs": 0,
-    "fc": 2,
+    "fc": 3,
     "i": 0,
     "ds": 4,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 0,
-    "preco_num": 4.33,
-    "variacao_num": 0,
-    "media_num": 4.2,
-    "jogos_num": 1,
+    "pontos_num": 0.5,
+    "preco_num": 3.66,
+    "variacao_num": -0.67,
+    "media_num": 2.35,
+    "jogos_num": 2,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }

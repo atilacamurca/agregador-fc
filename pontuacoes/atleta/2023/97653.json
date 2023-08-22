@@ -6,7 +6,6 @@
   "clube_id": 275,
   "posicao": "Zagueiro",
   "rodadas": [
-    9,
     10,
     11,
     12,
@@ -16,10 +15,10 @@
     16,
     17,
     18,
-    19
+    19,
+    20
   ],
   "pontos": [
-    0,
     0,
     0,
     0,
@@ -29,10 +28,10 @@
     1.7,
     8.9,
     0,
-    9.1
+    9.1,
+    4.6
   ],
   "precos": [
-    11.05,
     11.05,
     11.05,
     11.05,
@@ -42,10 +41,10 @@
     8.61,
     9.83,
     9.83,
-    10.11
+    10.11,
+    9.51
   ],
   "variacoes": [
-    0,
     0,
     0,
     0,
@@ -55,10 +54,10 @@
     -0.5,
     1.22,
     0,
-    0.28
+    0.28,
+    -0.6
   ],
   "medias": [
-    3.77,
     3.77,
     3.77,
     3.77,
@@ -68,22 +67,10 @@
     2.97,
     3.71,
     3.71,
-    4.31
+    4.31,
+    4.34
   ],
   "partidas": [
-    {
-      "rodada_id": 9,
-      "clube_casa": "Palmeiras",
-      "clube_casa_id": 275,
-      "clube_visitante": "Coritiba",
-      "clube_casa_abrev": "PAL",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/palmeiras_60x60.png",
-      "clube_visitante_id": 294,
-      "clube_visitante_abrev": "COR",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2017/03/29/coritiba65.png",
-      "placar_oficial_mandante": 3,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 10,
       "clube_casa": "São Paulo",
@@ -213,38 +200,51 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/02/13/65_cruzeiro-2021.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 20,
+      "clube_casa": "Cuiabá",
+      "clube_casa_id": 1371,
+      "clube_visitante": "Palmeiras",
+      "clube_casa_abrev": "CUI",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/16/cuiaba65.png",
+      "clube_visitante_id": 275,
+      "clube_visitante_abrev": "PAL",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/palmeiras_60x60.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/03/15/photo_220x220_gy90S45.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2014/04/14/palmeiras_60x60.png",
   "scouts": {
-    "rodada_id": 19,
+    "rodada_id": 20,
     "g": 2,
     "a": 0,
-    "sg": 2,
+    "sg": 3,
     "fs": 5,
     "ff": 0,
-    "fd": 1,
+    "fd": 2,
     "ft": 0,
     "de": 0,
     "dp": 0,
     "gc": 0,
     "cv": 0,
-    "ca": 1,
+    "ca": 2,
     "pp": 0,
     "gs": 0,
-    "fc": 10,
+    "fc": 12,
     "i": 1,
     "ds": 11,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 9.1,
-    "preco_num": 10.11,
-    "variacao_num": 0.28,
-    "media_num": 4.31,
-    "jogos_num": 9,
+    "pontos_num": 4.6,
+    "preco_num": 9.51,
+    "variacao_num": -0.6,
+    "media_num": 4.34,
+    "jogos_num": 10,
     "posicao_abrev": "zag",
     "posicao": "Zagueiro"
   }

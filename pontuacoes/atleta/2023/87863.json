@@ -6,7 +6,6 @@
   "clube_id": 262,
   "posicao": "Meia",
   "rodadas": [
-    9,
     10,
     11,
     12,
@@ -16,10 +15,10 @@
     16,
     17,
     18,
-    19
+    19,
+    20
   ],
   "pontos": [
-    13.3,
     2.2,
     3.8,
     0.3,
@@ -29,10 +28,10 @@
     4.2,
     13.9,
     0,
-    1.2
+    1.2,
+    10.7
   ],
   "precos": [
-    14.35,
     12.67,
     12.92,
     12.22,
@@ -42,10 +41,10 @@
     13.54,
     15.23,
     15.23,
-    13.38
+    13.38,
+    14.9
   ],
   "variacoes": [
-    0.89,
     -1.68,
     0.25,
     -0.7,
@@ -55,10 +54,10 @@
     0.14,
     1.69,
     0,
-    -1.85
+    -1.85,
+    1.52
   ],
   "medias": [
-    6.27,
     5.46,
     5.18,
     4.48,
@@ -68,22 +67,10 @@
     6.07,
     6.72,
     6.72,
-    6.3
+    6.3,
+    6.61
   ],
   "partidas": [
-    {
-      "rodada_id": 9,
-      "clube_casa": "Vasco",
-      "clube_casa_id": 267,
-      "clube_visitante": "Flamengo",
-      "clube_casa_abrev": "VAS",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2021/09/04/ESCUDO-VASCO-RGB_65px.png",
-      "clube_visitante_id": 262,
-      "clube_visitante_abrev": "FLA",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2018/04/09/Flamengo-65.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 4
-    },
     {
       "rodada_id": 10,
       "clube_casa": "Flamengo",
@@ -213,17 +200,30 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/sao_paulo_60x60.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 20,
+      "clube_casa": "Coritiba",
+      "clube_casa_id": 294,
+      "clube_visitante": "Flamengo",
+      "clube_casa_abrev": "COR",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2017/03/29/coritiba65.png",
+      "clube_visitante_id": 262,
+      "clube_visitante_abrev": "FLA",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2018/04/09/Flamengo-65.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 3
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/04/11/photo_220x220_CaSgg7s.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2018/04/09/Flamengo-65.png",
   "scouts": {
-    "rodada_id": 19,
-    "g": 3,
+    "rodada_id": 20,
+    "g": 4,
     "a": 5,
     "sg": 0,
-    "fs": 17,
-    "ff": 8,
+    "fs": 19,
+    "ff": 9,
     "fd": 4,
     "ft": 2,
     "de": 0,
@@ -233,18 +233,18 @@
     "ca": 3,
     "pp": 0,
     "gs": 0,
-    "fc": 16,
+    "fc": 17,
     "i": 3,
-    "ds": 12,
+    "ds": 13,
     "pi": 0,
     "pc": 0,
     "ps": 1,
     "v": 0,
-    "pontos_num": 1.2,
-    "preco_num": 13.38,
-    "variacao_num": -1.85,
-    "media_num": 6.3,
-    "jogos_num": 13,
+    "pontos_num": 10.7,
+    "preco_num": 14.9,
+    "variacao_num": 1.52,
+    "media_num": 6.61,
+    "jogos_num": 14,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }

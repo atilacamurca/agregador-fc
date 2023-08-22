@@ -6,7 +6,6 @@
   "clube_id": 275,
   "posicao": "Meia",
   "rodadas": [
-    9,
     10,
     11,
     12,
@@ -16,10 +15,10 @@
     16,
     17,
     18,
-    19
+    19,
+    20
   ],
   "pontos": [
-    0,
     1.4,
     0,
     1.1,
@@ -29,10 +28,10 @@
     10.9,
     7.5,
     0,
-    8
+    8,
+    12.1
   ],
   "precos": [
-    19.08,
     18.11,
     18.11,
     17.53,
@@ -42,10 +41,10 @@
     18.43,
     17.99,
     17.99,
-    18.13
+    18.13,
+    18.88
   ],
   "variacoes": [
-    0,
     -0.97,
     0,
     -0.58,
@@ -55,10 +54,10 @@
     1.26,
     -0.44,
     0,
-    0.14
+    0.14,
+    0.75
   ],
   "medias": [
-    10.42,
     9.13,
     9.13,
     8.13,
@@ -68,22 +67,10 @@
     7.55,
     7.55,
     7.55,
-    7.58
+    7.58,
+    7.9
   ],
   "partidas": [
-    {
-      "rodada_id": 9,
-      "clube_casa": "Palmeiras",
-      "clube_casa_id": 275,
-      "clube_visitante": "Coritiba",
-      "clube_casa_abrev": "PAL",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/palmeiras_60x60.png",
-      "clube_visitante_id": 294,
-      "clube_visitante_abrev": "COR",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2017/03/29/coritiba65.png",
-      "placar_oficial_mandante": 3,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 10,
       "clube_casa": "São Paulo",
@@ -213,38 +200,51 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/02/13/65_cruzeiro-2021.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 20,
+      "clube_casa": "Cuiabá",
+      "clube_casa_id": 1371,
+      "clube_visitante": "Palmeiras",
+      "clube_casa_abrev": "CUI",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/16/cuiaba65.png",
+      "clube_visitante_id": 275,
+      "clube_visitante_abrev": "PAL",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/palmeiras_60x60.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/03/15/photo_220x220_l1kSIXt.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2014/04/14/palmeiras_60x60.png",
   "scouts": {
-    "rodada_id": 19,
-    "g": 5,
+    "rodada_id": 20,
+    "g": 6,
     "a": 4,
     "sg": 0,
-    "fs": 29,
-    "ff": 12,
+    "fs": 32,
+    "ff": 14,
     "fd": 9,
-    "ft": 1,
+    "ft": 2,
     "de": 0,
     "dp": 0,
     "gc": 0,
     "cv": 0,
-    "ca": 3,
+    "ca": 4,
     "pp": 1,
     "gs": 0,
-    "fc": 18,
-    "i": 2,
+    "fc": 21,
+    "i": 3,
     "ds": 11,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 8,
-    "preco_num": 18.13,
-    "variacao_num": 0.14,
-    "media_num": 7.58,
-    "jogos_num": 13,
+    "pontos_num": 12.1,
+    "preco_num": 18.88,
+    "variacao_num": 0.75,
+    "media_num": 7.9,
+    "jogos_num": 14,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }

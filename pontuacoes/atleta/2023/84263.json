@@ -6,7 +6,6 @@
   "clube_id": 282,
   "posicao": "Zagueiro",
   "rodadas": [
-    9,
     10,
     11,
     12,
@@ -16,10 +15,10 @@
     16,
     17,
     18,
-    19
+    19,
+    20
   ],
   "pontos": [
-    5.6,
     1.4,
     2,
     1.2,
@@ -29,10 +28,10 @@
     0,
     2.2,
     5.1,
-    4.7
+    4.7,
+    1.1
   ],
   "precos": [
-    8.32,
     7.65,
     7.73,
     7.55,
@@ -42,10 +41,10 @@
     8.44,
     7.69,
     8.23,
-    8.28
+    8.28,
+    7.71
   ],
   "variacoes": [
-    0.87,
     -0.67,
     0.08,
     -0.18,
@@ -55,10 +54,10 @@
     0,
     -0.75,
     0.54,
-    0.05
+    0.05,
+    -0.57
   ],
   "medias": [
-    3.33,
     3.12,
     3.01,
     2.85,
@@ -68,22 +67,10 @@
     3.05,
     2.99,
     3.12,
-    3.21
+    3.21,
+    3.09
   ],
   "partidas": [
-    {
-      "rodada_id": 9,
-      "clube_casa": "Cruzeiro",
-      "clube_casa_id": 283,
-      "clube_visitante": "Atlético-MG",
-      "clube_casa_abrev": "CRU",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2021/02/13/65_cruzeiro-2021.png",
-      "clube_visitante_id": 282,
-      "clube_visitante_abrev": "ATL",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2017/11/23/Atletico-Mineiro-escudo65px.png",
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 10,
       "clube_casa": "Atlético-MG",
@@ -213,16 +200,29 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/bahia_60x60.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 20,
+      "clube_casa": "Vasco",
+      "clube_casa_id": 267,
+      "clube_visitante": "Atlético-MG",
+      "clube_casa_abrev": "VAS",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2021/09/04/ESCUDO-VASCO-RGB_65px.png",
+      "clube_visitante_id": 282,
+      "clube_visitante_abrev": "ATL",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2017/11/23/Atletico-Mineiro-escudo65px.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/03/31/photo_220x220_LiuUOj2.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2017/11/23/Atletico-Mineiro-escudo65px.png",
   "scouts": {
-    "rodada_id": 19,
+    "rodada_id": 20,
     "g": 0,
     "a": 1,
     "sg": 7,
-    "fs": 8,
+    "fs": 11,
     "ff": 2,
     "fd": 1,
     "ft": 0,
@@ -230,21 +230,21 @@
     "dp": 0,
     "gc": 0,
     "cv": 0,
-    "ca": 4,
+    "ca": 5,
     "pp": 0,
     "gs": 0,
-    "fc": 21,
+    "fc": 23,
     "i": 1,
-    "ds": 15,
+    "ds": 16,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 4.7,
-    "preco_num": 8.28,
-    "variacao_num": 0.05,
-    "media_num": 3.21,
-    "jogos_num": 17,
+    "pontos_num": 1.1,
+    "preco_num": 7.71,
+    "variacao_num": -0.57,
+    "media_num": 3.09,
+    "jogos_num": 18,
     "posicao_abrev": "zag",
     "posicao": "Zagueiro"
   }
