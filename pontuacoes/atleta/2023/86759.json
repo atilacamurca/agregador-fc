@@ -10,13 +10,15 @@
     17,
     18,
     19,
-    20
+    20,
+    21
   ],
   "pontos": [
     0,
     0,
     0,
     1.2,
+    0,
     0
   ],
   "precos": [
@@ -24,21 +26,24 @@
     5,
     5,
     4,
-    4
+    4,
+    3.47
   ],
   "variacoes": [
     0,
     0,
     0,
     -1,
-    0
+    0,
+    -0.53
   ],
   "medias": [
     0,
     0,
     0,
     1.2,
-    1.2
+    1.2,
+    0.6
   ],
   "partidas": [
     {
@@ -105,12 +110,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/gremio_60x60.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 21,
+      "clube_casa": "Grêmio",
+      "clube_casa_id": 284,
+      "clube_visitante": "Cruzeiro",
+      "clube_casa_abrev": "GRE",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/gremio_60x60.png",
+      "clube_visitante_id": 283,
+      "clube_visitante_abrev": "CRU",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/02/13/65_cruzeiro-2021.png",
+      "placar_oficial_mandante": 3,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/08/01/photo_220x220_wWoVCQJ.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2014/04/14/gremio_60x60.png",
   "scouts": {
-    "rodada_id": 20,
+    "rodada_id": 21,
     "g": 0,
     "a": 0,
     "sg": 0,
@@ -133,10 +151,10 @@
     "ps": 0,
     "v": 0,
     "pontos_num": 0,
-    "preco_num": 4,
-    "variacao_num": 0,
-    "media_num": 1.2,
-    "jogos_num": 1,
+    "preco_num": 3.47,
+    "variacao_num": -0.53,
+    "media_num": 0.6,
+    "jogos_num": 2,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }

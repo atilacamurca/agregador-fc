@@ -6,7 +6,6 @@
   "clube_id": 263,
   "posicao": "Atacante",
   "rodadas": [
-    10,
     11,
     12,
     13,
@@ -16,10 +15,10 @@
     17,
     18,
     19,
-    20
+    20,
+    21
   ],
   "pontos": [
-    0.5,
     -0.3,
     0.2,
     2.9,
@@ -29,10 +28,10 @@
     2.4,
     2,
     1.7,
-    1.7
+    1.7,
+    0
   ],
   "precos": [
-    7.15,
     6.92,
     6.87,
     7.18,
@@ -42,10 +41,10 @@
     7.09,
     7.06,
     7.02,
+    6.99,
     6.99
   ],
   "variacoes": [
-    -0.07,
     -0.23,
     -0.05,
     0.31,
@@ -55,10 +54,10 @@
     -0.03,
     -0.03,
     -0.04,
-    -0.03
+    -0.03,
+    0
   ],
   "medias": [
-    4.02,
     3.63,
     3.34,
     3.31,
@@ -68,22 +67,10 @@
     3.03,
     2.97,
     2.9,
+    2.84,
     2.84
   ],
   "partidas": [
-    {
-      "rodada_id": 10,
-      "clube_casa": "Botafogo",
-      "clube_casa_id": 263,
-      "clube_visitante": "Fortaleza",
-      "clube_casa_abrev": "BOT",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-65.png",
-      "clube_visitante_id": 356,
-      "clube_visitante_abrev": "FOR",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/09/19/65_0000_Fortaleza-2021.png",
-      "placar_oficial_mandante": 2,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 11,
       "clube_casa": "Cuiabá",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-65.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 21,
+      "clube_casa": "Botafogo",
+      "clube_casa_id": 263,
+      "clube_visitante": "Bahia",
+      "clube_casa_abrev": "BOT",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-65.png",
+      "clube_visitante_id": 265,
+      "clube_visitante_abrev": "BAH",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/bahia_60x60.png",
+      "placar_oficial_mandante": 3,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/03/31/photo_220x220_20JkUu3.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-65.png",
   "scouts": {
-    "rodada_id": 20,
+    "rodada_id": 21,
     "g": 2,
     "a": 0,
     "sg": 0,
@@ -240,9 +240,9 @@
     "pc": 0,
     "ps": 1,
     "v": 0,
-    "pontos_num": 1.7,
+    "pontos_num": 0,
     "preco_num": 6.99,
-    "variacao_num": -0.03,
+    "variacao_num": 0,
     "media_num": 2.84,
     "jogos_num": 20,
     "posicao_abrev": "ata",

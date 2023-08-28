@@ -6,7 +6,6 @@
   "clube_id": 285,
   "posicao": "Zagueiro",
   "rodadas": [
-    10,
     11,
     12,
     13,
@@ -16,10 +15,10 @@
     17,
     18,
     19,
-    20
+    20,
+    21
   ],
   "pontos": [
-    0,
     0,
     2.9,
     0,
@@ -29,11 +28,11 @@
     0,
     3.4,
     0,
-    7.5
+    7.5,
+    7.4
   ],
   "precos": [
     5.05,
-    5.05,
     5.25,
     5.25,
     5.25,
@@ -42,10 +41,10 @@
     5.25,
     5.15,
     5.15,
-    5.9
+    5.9,
+    6.07
   ],
   "variacoes": [
-    0,
     0,
     0.2,
     0,
@@ -55,7 +54,8 @@
     0,
     -0.1,
     0,
-    0.75
+    0.75,
+    0.17
   ],
   "medias": [
     2.88,
@@ -65,25 +65,12 @@
     2.88,
     2.88,
     2.88,
-    2.88,
     2.94,
     2.94,
-    3.4
+    3.4,
+    3.76
   ],
   "partidas": [
-    {
-      "rodada_id": 10,
-      "clube_casa": "Internacional",
-      "clube_casa_id": 285,
-      "clube_visitante": "Vasco",
-      "clube_casa_abrev": "INT",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2016/05/03/inter65.png",
-      "clube_visitante_id": 267,
-      "clube_visitante_abrev": "VAS",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/09/04/ESCUDO-VASCO-RGB_65px.png",
-      "placar_oficial_mandante": 2,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 11,
       "clube_casa": "Coritiba",
@@ -213,15 +200,28 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/09/19/65_0000_Fortaleza-2021.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 21,
+      "clube_casa": "Flamengo",
+      "clube_casa_id": 262,
+      "clube_visitante": "Internacional",
+      "clube_casa_abrev": "FLA",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2018/04/09/Flamengo-65.png",
+      "clube_visitante_id": 285,
+      "clube_visitante_abrev": "INT",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2016/05/03/inter65.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/03/07/photo_220x220_I7Q1WEp.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2016/05/03/inter65.png",
   "scouts": {
-    "rodada_id": 20,
+    "rodada_id": 21,
     "g": 0,
     "a": 0,
-    "sg": 2,
+    "sg": 3,
     "fs": 10,
     "ff": 3,
     "fd": 1,
@@ -235,16 +235,16 @@
     "gs": 0,
     "fc": 6,
     "i": 0,
-    "ds": 16,
+    "ds": 18,
     "pi": 0,
     "pc": 1,
     "ps": 0,
     "v": 0,
-    "pontos_num": 7.5,
-    "preco_num": 5.9,
-    "variacao_num": 0.75,
-    "media_num": 3.4,
-    "jogos_num": 10,
+    "pontos_num": 7.4,
+    "preco_num": 6.07,
+    "variacao_num": 0.17,
+    "media_num": 3.76,
+    "jogos_num": 11,
     "posicao_abrev": "zag",
     "posicao": "Zagueiro"
   }

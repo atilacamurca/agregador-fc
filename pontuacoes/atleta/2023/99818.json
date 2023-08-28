@@ -6,7 +6,6 @@
   "clube_id": 282,
   "posicao": "Atacante",
   "rodadas": [
-    10,
     11,
     12,
     13,
@@ -16,10 +15,10 @@
     17,
     18,
     19,
-    20
+    20,
+    21
   ],
   "pontos": [
-    12.8,
     5.5,
     1.2,
     0,
@@ -29,10 +28,10 @@
     12.9,
     3.4,
     14.2,
-    5.2
+    5.2,
+    21.3
   ],
   "precos": [
-    11.77,
     11.02,
     10.32,
     10.32,
@@ -42,10 +41,10 @@
     11.95,
     10.69,
     12.64,
-    11.41
+    11.41,
+    14.25
   ],
   "variacoes": [
-    1.7,
     -0.75,
     -0.7,
     0,
@@ -55,10 +54,10 @@
     1.7,
     -1.26,
     1.95,
-    -1.23
+    -1.23,
+    2.84
   ],
   "medias": [
-    6.13,
     6.07,
     5.63,
     5.63,
@@ -68,22 +67,10 @@
     5.5,
     5.37,
     5.89,
-    5.85
+    5.85,
+    6.66
   ],
   "partidas": [
-    {
-      "rodada_id": 10,
-      "clube_casa": "Atlético-MG",
-      "clube_casa_id": 282,
-      "clube_visitante": "Bragantino",
-      "clube_casa_abrev": "ATL",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2017/11/23/Atletico-Mineiro-escudo65px.png",
-      "clube_visitante_id": 280,
-      "clube_visitante_abrev": "BRA",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2020/01/01/65.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 11,
       "clube_casa": "Fluminense",
@@ -213,18 +200,31 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2017/11/23/Atletico-Mineiro-escudo65px.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 21,
+      "clube_casa": "Atlético-MG",
+      "clube_casa_id": 282,
+      "clube_visitante": "Santos",
+      "clube_casa_abrev": "ATL",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2017/11/23/Atletico-Mineiro-escudo65px.png",
+      "clube_visitante_id": 277,
+      "clube_visitante_abrev": "SAN",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/santos_60x60.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/03/31/photo_220x220_6AtAEsy.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2017/11/23/Atletico-Mineiro-escudo65px.png",
   "scouts": {
-    "rodada_id": 20,
-    "g": 5,
+    "rodada_id": 21,
+    "g": 7,
     "a": 0,
     "sg": 0,
     "fs": 12,
-    "ff": 12,
-    "fd": 16,
+    "ff": 13,
+    "fd": 17,
     "ft": 0,
     "de": 0,
     "dp": 0,
@@ -233,18 +233,18 @@
     "ca": 0,
     "pp": 0,
     "gs": 0,
-    "fc": 13,
+    "fc": 14,
     "i": 4,
-    "ds": 29,
+    "ds": 32,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 5.2,
-    "preco_num": 11.41,
-    "variacao_num": -1.23,
-    "media_num": 5.85,
-    "jogos_num": 18,
+    "pontos_num": 21.3,
+    "preco_num": 14.25,
+    "variacao_num": 2.84,
+    "media_num": 6.66,
+    "jogos_num": 19,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }

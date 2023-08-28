@@ -6,7 +6,6 @@
   "clube_id": 262,
   "posicao": "Técnico",
   "rodadas": [
-    10,
     11,
     12,
     13,
@@ -16,10 +15,10 @@
     17,
     18,
     19,
-    20
+    20,
+    21
   ],
   "pontos": [
-    10.75,
     2.14,
     6.16,
     9.25,
@@ -29,10 +28,10 @@
     5.41,
     1.55,
     3.75,
-    6.14
+    6.14,
+    5.17
   ],
   "precos": [
-    12.19,
     11.04,
     11.73,
     12.31,
@@ -42,10 +41,10 @@
     11.94,
     11.39,
     11.73,
-    12.12
+    12.12,
+    12.02
   ],
   "variacoes": [
-    0.71,
     -1.15,
     0.69,
     0.58,
@@ -55,10 +54,10 @@
     0.14,
     -0.55,
     0.34,
-    0.39
+    0.39,
+    -0.1
   ],
   "medias": [
-    6.54,
     6.1,
     6.11,
     6.37,
@@ -68,22 +67,10 @@
     5.92,
     5.66,
     5.55,
-    5.58
+    5.58,
+    5.56
   ],
   "partidas": [
-    {
-      "rodada_id": 10,
-      "clube_casa": "Flamengo",
-      "clube_casa_id": 262,
-      "clube_visitante": "Grêmio",
-      "clube_casa_abrev": "FLA",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2018/04/09/Flamengo-65.png",
-      "clube_visitante_id": 284,
-      "clube_visitante_abrev": "GRE",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/gremio_60x60.png",
-      "placar_oficial_mandante": 3,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 11,
       "clube_casa": "Bragantino",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2018/04/09/Flamengo-65.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 3
+    },
+    {
+      "rodada_id": 21,
+      "clube_casa": "Flamengo",
+      "clube_casa_id": 262,
+      "clube_visitante": "Internacional",
+      "clube_casa_abrev": "FLA",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2018/04/09/Flamengo-65.png",
+      "clube_visitante_id": 285,
+      "clube_visitante_abrev": "INT",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2016/05/03/inter65.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/04/17/photo_220x220_Fp5qEri.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2018/04/09/Flamengo-65.png",
   "scouts": {
-    "rodada_id": 20,
+    "rodada_id": 21,
     "g": 0,
     "a": 0,
     "sg": 0,
@@ -240,11 +240,11 @@
     "pc": 0,
     "ps": 0,
     "v": 9,
-    "pontos_num": 6.14,
-    "preco_num": 12.12,
-    "variacao_num": 0.39,
-    "media_num": 5.58,
-    "jogos_num": 19,
+    "pontos_num": 5.17,
+    "preco_num": 12.02,
+    "variacao_num": -0.1,
+    "media_num": 5.56,
+    "jogos_num": 20,
     "posicao_abrev": "tec",
     "posicao": "Técnico"
   }

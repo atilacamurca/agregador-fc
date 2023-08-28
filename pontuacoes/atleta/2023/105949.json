@@ -11,7 +11,8 @@
     17,
     18,
     19,
-    20
+    20,
+    21
   ],
   "pontos": [
     0,
@@ -19,7 +20,8 @@
     1,
     -1.5,
     4.5,
-    -1
+    -1,
+    0
   ],
   "precos": [
     7,
@@ -27,6 +29,7 @@
     6.88,
     6.02,
     7.03,
+    5.96,
     5.96
   ],
   "variacoes": [
@@ -35,7 +38,8 @@
     -1.18,
     -0.86,
     1.01,
-    -1.07
+    -1.07,
+    0
   ],
   "medias": [
     0,
@@ -43,6 +47,7 @@
     5,
     2.83,
     3.25,
+    2.4,
     2.4
   ],
   "partidas": [
@@ -123,12 +128,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/09/19/65_0000_Fortaleza-2021.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 21,
+      "clube_casa": "Flamengo",
+      "clube_casa_id": 262,
+      "clube_visitante": "Internacional",
+      "clube_casa_abrev": "FLA",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2018/04/09/Flamengo-65.png",
+      "clube_visitante_id": 285,
+      "clube_visitante_abrev": "INT",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2016/05/03/inter65.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/07/14/photo_220x220_AtGShUT.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2016/05/03/inter65.png",
   "scouts": {
-    "rodada_id": 20,
+    "rodada_id": 21,
     "g": 0,
     "a": 0,
     "sg": 1,
@@ -150,9 +168,9 @@
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": -1,
+    "pontos_num": 0,
     "preco_num": 5.96,
-    "variacao_num": -1.07,
+    "variacao_num": 0,
     "media_num": 2.4,
     "jogos_num": 5,
     "posicao_abrev": "gol",

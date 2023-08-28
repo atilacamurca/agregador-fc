@@ -6,7 +6,6 @@
   "clube_id": 276,
   "posicao": "Zagueiro",
   "rodadas": [
-    10,
     11,
     12,
     13,
@@ -16,10 +15,10 @@
     17,
     18,
     19,
-    20
+    20,
+    21
   ],
   "pontos": [
-    6.2,
     0,
     1.7,
     4.9,
@@ -29,10 +28,10 @@
     10.2,
     0,
     0,
-    8.2
+    8.2,
+    -3
   ],
   "precos": [
-    9.27,
     9.27,
     8.55,
     8.99,
@@ -42,10 +41,10 @@
     10.07,
     10.07,
     10.07,
-    9.94
+    9.94,
+    8.16
   ],
   "variacoes": [
-    0.5,
     0,
     -0.72,
     0.44,
@@ -55,10 +54,10 @@
     1.35,
     0,
     0,
-    -0.13
+    -0.13,
+    -1.78
   ],
   "medias": [
-    5,
     5,
     4.53,
     4.58,
@@ -68,22 +67,10 @@
     4.69,
     4.69,
     4.69,
-    4.96
+    4.96,
+    4.73
   ],
   "partidas": [
-    {
-      "rodada_id": 10,
-      "clube_casa": "São Paulo",
-      "clube_casa_id": 276,
-      "clube_visitante": "Palmeiras",
-      "clube_casa_abrev": "SAO",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/sao_paulo_60x60.png",
-      "clube_visitante_id": 275,
-      "clube_visitante_abrev": "PAL",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/palmeiras_60x60.png",
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 2
-    },
     {
       "rodada_id": 11,
       "clube_casa": "São Paulo",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-65.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 21,
+      "clube_casa": "América-MG",
+      "clube_casa_id": 327,
+      "clube_visitante": "São Paulo",
+      "clube_casa_abrev": "AME",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2019/02/28/escudo65_1.png",
+      "clube_visitante_id": 276,
+      "clube_visitante_abrev": "SAO",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/sao_paulo_60x60.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2022/03/01/a2548066433583acdc68badc1f1e35bf_220x220.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2014/04/14/sao_paulo_60x60.png",
   "scouts": {
-    "rodada_id": 20,
+    "rodada_id": 21,
     "g": 0,
     "a": 0,
     "sg": 6,
@@ -229,7 +229,7 @@
     "de": 0,
     "dp": 0,
     "gc": 0,
-    "cv": 0,
+    "cv": 1,
     "ca": 0,
     "pp": 0,
     "gs": 0,
@@ -240,10 +240,10 @@
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 8.2,
-    "preco_num": 9.94,
-    "variacao_num": -0.13,
-    "media_num": 4.96,
+    "pontos_num": -3,
+    "preco_num": 8.16,
+    "variacao_num": -1.78,
+    "media_num": 4.73,
     "jogos_num": 13,
     "posicao_abrev": "zag",
     "posicao": "Zagueiro"

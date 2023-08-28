@@ -6,64 +6,51 @@
   "clube_id": 290,
   "posicao": "Meia",
   "rodadas": [
-    10,
     11,
     12,
     13,
     14,
     15,
-    20
+    20,
+    21
   ],
   "pontos": [
-    7,
     -0.6,
     -0.5,
     1.4,
     1.2,
     0,
+    0,
     0
   ],
   "precos": [
-    6.79,
     5.68,
     5.56,
     5.72,
     5.71,
     5.71,
+    5.18,
     5.18
   ],
   "variacoes": [
-    0.58,
     -1.11,
     -0.12,
     0.16,
     -0.01,
     0,
-    -0.53
+    -0.53,
+    0
   ],
   "medias": [
-    3.97,
     3.51,
     3.15,
     3,
     2.86,
     2.86,
+    2.66,
     2.66
   ],
   "partidas": [
-    {
-      "rodada_id": 10,
-      "clube_casa": "Goiás",
-      "clube_casa_id": 290,
-      "clube_visitante": "Fluminense",
-      "clube_casa_abrev": "GOI",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2021/03/01/goias-65.png",
-      "clube_visitante_id": 266,
-      "clube_visitante_abrev": "FLU",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/fluminense_60x60.png",
-      "placar_oficial_mandante": 2,
-      "placar_oficial_visitante": 2
-    },
     {
       "rodada_id": 11,
       "clube_casa": "Vasco",
@@ -141,12 +128,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/09/09/Athletico-PR-65x65.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 21,
+      "clube_casa": "Corinthians",
+      "clube_casa_id": 264,
+      "clube_visitante": "Goiás",
+      "clube_casa_abrev": "COR",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2019/09/30/Corinthians_65.png",
+      "clube_visitante_id": 290,
+      "clube_visitante_abrev": "GOI",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/03/01/goias-65.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/03/11/photo_220x220_C8xKUgn.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2021/03/01/goias-65.png",
   "scouts": {
-    "rodada_id": 20,
+    "rodada_id": 21,
     "g": 0,
     "a": 1,
     "sg": 0,
@@ -170,7 +170,7 @@
     "v": 0,
     "pontos_num": 0,
     "preco_num": 5.18,
-    "variacao_num": -0.53,
+    "variacao_num": 0,
     "media_num": 2.66,
     "jogos_num": 14,
     "posicao_abrev": "mei",

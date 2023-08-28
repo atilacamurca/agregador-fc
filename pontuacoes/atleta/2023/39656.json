@@ -13,7 +13,8 @@
     17,
     18,
     19,
-    20
+    20,
+    21
   ],
   "pontos": [
     0,
@@ -23,7 +24,8 @@
     0.6,
     0,
     1.8,
-    0
+    0,
+    1.1
   ],
   "precos": [
     5,
@@ -33,7 +35,8 @@
     3.42,
     3.22,
     3.5,
-    3.5
+    3.5,
+    3.32
   ],
   "variacoes": [
     0,
@@ -43,7 +46,8 @@
     -0.29,
     -0.2,
     0.28,
-    0
+    0,
+    -0.18
   ],
   "medias": [
     0,
@@ -53,7 +57,8 @@
     0.55,
     0.37,
     0.73,
-    0.73
+    0.73,
+    0.8
   ],
   "partidas": [
     {
@@ -159,16 +164,29 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2017/11/23/Atletico-Mineiro-escudo65px.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 21,
+      "clube_casa": "Atlético-MG",
+      "clube_casa_id": 282,
+      "clube_visitante": "Santos",
+      "clube_casa_abrev": "ATL",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2017/11/23/Atletico-Mineiro-escudo65px.png",
+      "clube_visitante_id": 277,
+      "clube_visitante_abrev": "SAN",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/santos_60x60.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2021/05/02/fdebad6783b5559cac6ed2d7d429e802_220x220.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2017/11/23/Atletico-Mineiro-escudo65px.png",
   "scouts": {
-    "rodada_id": 20,
+    "rodada_id": 21,
     "g": 0,
     "a": 0,
     "sg": 0,
-    "fs": 0,
+    "fs": 1,
     "ff": 0,
     "fd": 0,
     "ft": 0,
@@ -179,18 +197,18 @@
     "ca": 1,
     "pp": 0,
     "gs": 0,
-    "fc": 7,
+    "fc": 9,
     "i": 0,
-    "ds": 5,
+    "ds": 6,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 0,
-    "preco_num": 3.5,
-    "variacao_num": 0,
-    "media_num": 0.73,
-    "jogos_num": 4,
+    "pontos_num": 1.1,
+    "preco_num": 3.32,
+    "variacao_num": -0.18,
+    "media_num": 0.8,
+    "jogos_num": 5,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }

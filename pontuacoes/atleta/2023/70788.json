@@ -15,7 +15,8 @@
     17,
     18,
     19,
-    20
+    20,
+    21
   ],
   "pontos": [
     0,
@@ -27,7 +28,8 @@
     3.6,
     4.7,
     2.2,
-    0
+    0,
+    -0.5
   ],
   "precos": [
     12,
@@ -39,7 +41,8 @@
     9.27,
     9.56,
     9.17,
-    9.17
+    9.17,
+    8.38
   ],
   "variacoes": [
     0,
@@ -51,7 +54,8 @@
     -0.67,
     0.29,
     -0.39,
-    0
+    0,
+    -0.79
   ],
   "medias": [
     0,
@@ -63,7 +67,8 @@
     3.55,
     3.78,
     3.52,
-    3.52
+    3.52,
+    2.95
   ],
   "partidas": [
     {
@@ -195,16 +200,29 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/09/19/65_0000_Fortaleza-2021.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 21,
+      "clube_casa": "Flamengo",
+      "clube_casa_id": 262,
+      "clube_visitante": "Internacional",
+      "clube_casa_abrev": "FLA",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2018/04/09/Flamengo-65.png",
+      "clube_visitante_id": 285,
+      "clube_visitante_abrev": "INT",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2016/05/03/inter65.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/06/12/photo_220x220_M7ylRRT.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2016/05/03/inter65.png",
   "scouts": {
-    "rodada_id": 20,
+    "rodada_id": 21,
     "g": 0,
     "a": 1,
     "sg": 0,
-    "fs": 11,
+    "fs": 13,
     "ff": 5,
     "fd": 2,
     "ft": 1,
@@ -212,21 +230,21 @@
     "dp": 0,
     "gc": 0,
     "cv": 0,
-    "ca": 0,
+    "ca": 1,
     "pp": 0,
     "gs": 0,
-    "fc": 6,
-    "i": 6,
+    "fc": 7,
+    "i": 8,
     "ds": 3,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 0,
-    "preco_num": 9.17,
-    "variacao_num": 0,
-    "media_num": 3.52,
-    "jogos_num": 6,
+    "pontos_num": -0.5,
+    "preco_num": 8.38,
+    "variacao_num": -0.79,
+    "media_num": 2.95,
+    "jogos_num": 7,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }
