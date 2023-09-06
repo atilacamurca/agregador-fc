@@ -6,7 +6,6 @@
   "clube_id": 263,
   "posicao": "Zagueiro",
   "rodadas": [
-    11,
     12,
     13,
     14,
@@ -16,10 +15,10 @@
     18,
     19,
     20,
-    21
+    21,
+    22
   ],
   "pontos": [
-    6.7,
     6.7,
     10,
     4.6,
@@ -29,10 +28,10 @@
     5.5,
     2.8,
     5,
-    5.5
+    5.5,
+    0.9
   ],
   "precos": [
-    10.2,
     10.41,
     11.1,
     10.53,
@@ -42,10 +41,10 @@
     10.81,
     10.45,
     10.79,
-    10.92
+    10.92,
+    10.29
   ],
   "variacoes": [
-    -0.03,
     0.21,
     0.69,
     -0.57,
@@ -55,10 +54,10 @@
     0.13,
     -0.36,
     0.34,
-    0.13
+    0.13,
+    -0.63
   ],
   "medias": [
-    6.18,
     6.23,
     6.54,
     6.39,
@@ -68,22 +67,10 @@
     6.22,
     6.02,
     5.96,
-    5.94
+    5.94,
+    5.69
   ],
   "partidas": [
-    {
-      "rodada_id": 11,
-      "clube_casa": "Cuiabá",
-      "clube_casa_id": 1371,
-      "clube_visitante": "Botafogo",
-      "clube_casa_abrev": "CUI",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/16/cuiaba65.png",
-      "clube_visitante_id": 263,
-      "clube_visitante_abrev": "BOT",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-65.png",
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 12,
       "clube_casa": "Palmeiras",
@@ -213,16 +200,29 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/bahia_60x60.png",
       "placar_oficial_mandante": 3,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 22,
+      "clube_casa": "Botafogo",
+      "clube_casa_id": 263,
+      "clube_visitante": "Flamengo",
+      "clube_casa_abrev": "BOT",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-65.png",
+      "clube_visitante_id": 262,
+      "clube_visitante_abrev": "FLA",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2018/04/09/Flamengo-65.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/03/07/photo_220x220_iLUMfpx.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-65.png",
   "scouts": {
-    "rodada_id": 21,
+    "rodada_id": 22,
     "g": 1,
     "a": 1,
     "sg": 13,
-    "fs": 10,
+    "fs": 12,
     "ff": 6,
     "fd": 2,
     "ft": 1,
@@ -230,21 +230,21 @@
     "dp": 0,
     "gc": 0,
     "cv": 0,
-    "ca": 6,
+    "ca": 7,
     "pp": 0,
     "gs": 0,
-    "fc": 14,
+    "fc": 15,
     "i": 1,
-    "ds": 25,
+    "ds": 26,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 5.5,
-    "preco_num": 10.92,
-    "variacao_num": 0.13,
-    "media_num": 5.94,
-    "jogos_num": 19,
+    "pontos_num": 0.9,
+    "preco_num": 10.29,
+    "variacao_num": -0.63,
+    "media_num": 5.69,
+    "jogos_num": 20,
     "posicao_abrev": "zag",
     "posicao": "Zagueiro"
   }

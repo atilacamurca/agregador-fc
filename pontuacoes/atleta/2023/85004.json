@@ -6,7 +6,6 @@
   "clube_id": 265,
   "posicao": "Goleiro",
   "rodadas": [
-    11,
     12,
     13,
     14,
@@ -16,10 +15,10 @@
     18,
     19,
     20,
-    21
+    21,
+    22
   ],
   "pontos": [
-    8,
     0,
     2,
     4.5,
@@ -29,10 +28,10 @@
     3,
     2,
     12,
+    -1,
     -1
   ],
   "precos": [
-    7.28,
     7.28,
     6.37,
     6.88,
@@ -42,10 +41,10 @@
     7.45,
     7.33,
     9.05,
-    7.1
+    7.1,
+    7.06
   ],
   "variacoes": [
-    1.07,
     0,
     -0.91,
     0.51,
@@ -55,10 +54,10 @@
     -1.73,
     -0.12,
     1.72,
-    -1.95
+    -1.95,
+    -0.04
   ],
   "medias": [
-    3.23,
     3.23,
     3.13,
     3.24,
@@ -68,22 +67,10 @@
     4.13,
     4.01,
     4.43,
-    4.16
+    4.16,
+    3.91
   ],
   "partidas": [
-    {
-      "rodada_id": 11,
-      "clube_casa": "Bahia",
-      "clube_casa_id": 265,
-      "clube_visitante": "Palmeiras",
-      "clube_casa_abrev": "BAH",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/bahia_60x60.png",
-      "clube_visitante_id": 275,
-      "clube_visitante_abrev": "PAL",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/palmeiras_60x60.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 12,
       "clube_casa": "Fluminense",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/bahia_60x60.png",
       "placar_oficial_mandante": 3,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 22,
+      "clube_casa": "Bahia",
+      "clube_casa_id": 265,
+      "clube_visitante": "Vasco",
+      "clube_casa_abrev": "BAH",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/bahia_60x60.png",
+      "clube_visitante_id": 267,
+      "clube_visitante_abrev": "VAS",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/09/04/ESCUDO-VASCO-RGB_65px.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/02/27/photo_220x220_kJmHr1X.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2014/04/14/bahia_60x60.png",
   "scouts": {
-    "rodada_id": 21,
+    "rodada_id": 22,
     "g": 0,
     "a": 0,
     "sg": 6,
@@ -232,7 +232,7 @@
     "cv": 0,
     "ca": 0,
     "pp": 0,
-    "gs": 26,
+    "gs": 27,
     "fc": 0,
     "i": 0,
     "ds": 0,
@@ -241,10 +241,10 @@
     "ps": 0,
     "v": 0,
     "pontos_num": -1,
-    "preco_num": 7.1,
-    "variacao_num": -1.95,
-    "media_num": 4.16,
-    "jogos_num": 20,
+    "preco_num": 7.06,
+    "variacao_num": -0.04,
+    "media_num": 3.91,
+    "jogos_num": 21,
     "posicao_abrev": "gol",
     "posicao": "Goleiro"
   }

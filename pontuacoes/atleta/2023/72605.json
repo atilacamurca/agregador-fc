@@ -6,7 +6,6 @@
   "clube_id": 265,
   "posicao": "Zagueiro",
   "rodadas": [
-    11,
     12,
     13,
     14,
@@ -16,10 +15,10 @@
     18,
     19,
     20,
-    21
+    21,
+    22
   ],
   "pontos": [
-    4.7,
     1.9,
     1.7,
     0.5,
@@ -29,10 +28,10 @@
     4,
     5,
     16.6,
-    2.4
+    2.4,
+    1.1
   ],
   "precos": [
-    5.93,
     5.56,
     5.46,
     5.28,
@@ -42,10 +41,10 @@
     5.91,
     6.19,
     8.32,
-    6.33
+    6.33,
+    6.18
   ],
   "variacoes": [
-    0.51,
     -0.37,
     -0.1,
     -0.18,
@@ -55,10 +54,10 @@
     -0.3,
     0.28,
     2.13,
-    -1.99
+    -1.99,
+    -0.15
   ],
   "medias": [
-    2.66,
     2.57,
     2.47,
     2.27,
@@ -68,22 +67,10 @@
     2.81,
     2.98,
     3.95,
-    3.85
+    3.85,
+    3.68
   ],
   "partidas": [
-    {
-      "rodada_id": 11,
-      "clube_casa": "Bahia",
-      "clube_casa_id": 265,
-      "clube_visitante": "Palmeiras",
-      "clube_casa_abrev": "BAH",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/bahia_60x60.png",
-      "clube_visitante_id": 275,
-      "clube_visitante_abrev": "PAL",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/palmeiras_60x60.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 12,
       "clube_casa": "Fluminense",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/bahia_60x60.png",
       "placar_oficial_mandante": 3,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 22,
+      "clube_casa": "Bahia",
+      "clube_casa_id": 265,
+      "clube_visitante": "Vasco",
+      "clube_casa_abrev": "BAH",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/bahia_60x60.png",
+      "clube_visitante_id": 267,
+      "clube_visitante_abrev": "VAS",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/09/04/ESCUDO-VASCO-RGB_65px.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/04/14/photo_220x220_HuEb513.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2014/04/14/bahia_60x60.png",
   "scouts": {
-    "rodada_id": 21,
+    "rodada_id": 22,
     "g": 1,
     "a": 0,
     "sg": 4,
@@ -230,21 +230,21 @@
     "dp": 0,
     "gc": 0,
     "cv": 0,
-    "ca": 2,
+    "ca": 3,
     "pp": 0,
     "gs": 0,
-    "fc": 13,
+    "fc": 14,
     "i": 0,
-    "ds": 22,
+    "ds": 24,
     "pi": 0,
     "pc": 1,
     "ps": 0,
     "v": 0,
-    "pontos_num": 2.4,
-    "preco_num": 6.33,
-    "variacao_num": -1.99,
-    "media_num": 3.85,
-    "jogos_num": 15,
+    "pontos_num": 1.1,
+    "preco_num": 6.18,
+    "variacao_num": -0.15,
+    "media_num": 3.68,
+    "jogos_num": 16,
     "posicao_abrev": "zag",
     "posicao": "Zagueiro"
   }

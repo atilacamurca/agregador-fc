@@ -6,7 +6,6 @@
   "clube_id": 262,
   "posicao": "Meia",
   "rodadas": [
-    11,
     12,
     13,
     14,
@@ -16,10 +15,10 @@
     18,
     19,
     20,
-    21
+    21,
+    22
   ],
   "pontos": [
-    0.8,
     2.6,
     0,
     -0.3,
@@ -29,10 +28,10 @@
     3.6,
     3.7,
     6.2,
-    2.2
+    2.2,
+    3.1
   ],
   "precos": [
-    5.67,
     5.95,
     5.44,
     5.33,
@@ -42,10 +41,10 @@
     6.22,
     6.32,
     6.81,
-    6.24
+    6.24,
+    6.47
   ],
   "variacoes": [
-    0.07,
     0.28,
     -0.51,
     -0.11,
@@ -55,10 +54,10 @@
     0.44,
     0.1,
     0.49,
-    -0.57
+    -0.57,
+    0.23
   ],
   "medias": [
-    2.24,
     2.27,
     2.08,
     1.9,
@@ -68,22 +67,10 @@
     2.41,
     2.48,
     2.68,
-    2.66
+    2.66,
+    2.68
   ],
   "partidas": [
-    {
-      "rodada_id": 11,
-      "clube_casa": "Bragantino",
-      "clube_casa_id": 280,
-      "clube_visitante": "Flamengo",
-      "clube_casa_abrev": "BRA",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2020/01/01/65.png",
-      "clube_visitante_id": 262,
-      "clube_visitante_abrev": "FLA",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2018/04/09/Flamengo-65.png",
-      "placar_oficial_mandante": 4,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 12,
       "clube_casa": "Santos",
@@ -213,16 +200,29 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2016/05/03/inter65.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 22,
+      "clube_casa": "Botafogo",
+      "clube_casa_id": 263,
+      "clube_visitante": "Flamengo",
+      "clube_casa_abrev": "BOT",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-65.png",
+      "clube_visitante_id": 262,
+      "clube_visitante_abrev": "FLA",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2018/04/09/Flamengo-65.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/04/11/photo_220x220_nUR0WYM.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2018/04/09/Flamengo-65.png",
   "scouts": {
-    "rodada_id": 21,
+    "rodada_id": 22,
     "g": 1,
     "a": 2,
     "sg": 0,
-    "fs": 17,
+    "fs": 19,
     "ff": 5,
     "fd": 2,
     "ft": 0,
@@ -233,18 +233,18 @@
     "ca": 1,
     "pp": 0,
     "gs": 0,
-    "fc": 5,
+    "fc": 6,
     "i": 1,
-    "ds": 19,
+    "ds": 21,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 2.2,
-    "preco_num": 6.24,
-    "variacao_num": -0.57,
-    "media_num": 2.66,
-    "jogos_num": 20,
+    "pontos_num": 3.1,
+    "preco_num": 6.47,
+    "variacao_num": 0.23,
+    "media_num": 2.68,
+    "jogos_num": 21,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }

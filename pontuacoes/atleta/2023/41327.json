@@ -6,7 +6,6 @@
   "clube_id": 264,
   "posicao": "Técnico",
   "rodadas": [
-    11,
     12,
     13,
     14,
@@ -16,10 +15,10 @@
     18,
     19,
     20,
-    21
+    21,
+    22
   ],
   "pontos": [
-    7.91,
     2.48,
     3.45,
     8.15,
@@ -29,10 +28,10 @@
     4.27,
     7.5,
     4.02,
-    3.58
+    3.58,
+    5.34
   ],
   "precos": [
-    7.77,
     7.07,
     7.19,
     8.22,
@@ -42,10 +41,10 @@
     8.09,
     8.77,
     8.32,
-    8.29
+    8.29,
+    8.71
   ],
   "variacoes": [
-    1.07,
     -0.7,
     0.12,
     1.03,
@@ -55,10 +54,10 @@
     -0.23,
     0.68,
     -0.45,
-    -0.03
+    -0.03,
+    0.42
   ],
   "medias": [
-    4.37,
     4.16,
     4.09,
     4.46,
@@ -68,22 +67,10 @@
     4.73,
     4.91,
     4.85,
-    4.78
+    4.78,
+    4.81
   ],
   "partidas": [
-    {
-      "rodada_id": 11,
-      "clube_casa": "Santos",
-      "clube_casa_id": 277,
-      "clube_visitante": "Corinthians",
-      "clube_casa_abrev": "SAN",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/santos_60x60.png",
-      "clube_visitante_id": 264,
-      "clube_visitante_abrev": "COR",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/09/30/Corinthians_65.png",
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 2
-    },
     {
       "rodada_id": 12,
       "clube_casa": "Athlético-PR",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/03/01/goias-65.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 22,
+      "clube_casa": "Corinthians",
+      "clube_casa_id": 264,
+      "clube_visitante": "Palmeiras",
+      "clube_casa_abrev": "COR",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2019/09/30/Corinthians_65.png",
+      "clube_visitante_id": 275,
+      "clube_visitante_abrev": "PAL",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/palmeiras_60x60.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/05/02/photo_220x220_53uYX2K.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2019/09/30/Corinthians_65.png",
   "scouts": {
-    "rodada_id": 21,
+    "rodada_id": 22,
     "g": 0,
     "a": 0,
     "sg": 0,
@@ -240,11 +240,11 @@
     "pc": 0,
     "ps": 0,
     "v": 5,
-    "pontos_num": 3.58,
-    "preco_num": 8.29,
-    "variacao_num": -0.03,
-    "media_num": 4.78,
-    "jogos_num": 17,
+    "pontos_num": 5.34,
+    "preco_num": 8.71,
+    "variacao_num": 0.42,
+    "media_num": 4.81,
+    "jogos_num": 18,
     "posicao_abrev": "tec",
     "posicao": "Técnico"
   }

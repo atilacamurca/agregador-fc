@@ -6,7 +6,6 @@
   "clube_id": 293,
   "posicao": "Meia",
   "rodadas": [
-    11,
     12,
     13,
     14,
@@ -16,10 +15,10 @@
     18,
     19,
     20,
-    21
+    21,
+    22
   ],
   "pontos": [
-    9.7,
     3.7,
     11.7,
     0,
@@ -29,10 +28,10 @@
     -1.1,
     0,
     0,
-    0
+    0,
+    4.6
   ],
   "precos": [
-    7.89,
     7.18,
     8.66,
     8.66,
@@ -42,10 +41,10 @@
     7.01,
     7.01,
     7.01,
-    6.91
+    6.91,
+    7.71
   ],
   "variacoes": [
-    1.01,
     -0.71,
     1.48,
     0,
@@ -55,10 +54,10 @@
     -0.49,
     0,
     0,
-    -0.1
+    -0.1,
+    0.8
   ],
   "medias": [
-    4.18,
     4.13,
     4.89,
     4.89,
@@ -68,22 +67,10 @@
     4.27,
     4.27,
     4.27,
-    3.99
+    3.99,
+    4.03
   ],
   "partidas": [
-    {
-      "rodada_id": 11,
-      "clube_casa": "São Paulo",
-      "clube_casa_id": 276,
-      "clube_visitante": "Athlético-PR",
-      "clube_casa_abrev": "SAO",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/sao_paulo_60x60.png",
-      "clube_visitante_id": 293,
-      "clube_visitante_abrev": "ATL",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/09/09/Athletico-PR-65x65.png",
-      "placar_oficial_mandante": 2,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 12,
       "clube_casa": "Athlético-PR",
@@ -213,18 +200,31 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/fluminense_60x60.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 22,
+      "clube_casa": "Athlético-PR",
+      "clube_casa_id": 293,
+      "clube_visitante": "Atlético-MG",
+      "clube_casa_abrev": "ATL",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2019/09/09/Athletico-PR-65x65.png",
+      "clube_visitante_id": 282,
+      "clube_visitante_abrev": "ATL",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2017/11/23/Atletico-Mineiro-escudo65px.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/02/28/photo_220x220_Vn5DBCR.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2019/09/09/Athletico-PR-65x65.png",
   "scouts": {
-    "rodada_id": 21,
+    "rodada_id": 22,
     "g": 2,
     "a": 3,
     "sg": 0,
-    "fs": 18,
-    "ff": 9,
-    "fd": 6,
+    "fs": 19,
+    "ff": 10,
+    "fd": 8,
     "ft": 2,
     "de": 0,
     "dp": 0,
@@ -233,18 +233,18 @@
     "ca": 5,
     "pp": 0,
     "gs": 0,
-    "fc": 9,
+    "fc": 10,
     "i": 2,
-    "ds": 6,
+    "ds": 7,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 0,
-    "preco_num": 6.91,
-    "variacao_num": -0.1,
-    "media_num": 3.99,
-    "jogos_num": 15,
+    "pontos_num": 4.6,
+    "preco_num": 7.71,
+    "variacao_num": 0.8,
+    "media_num": 4.03,
+    "jogos_num": 16,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }

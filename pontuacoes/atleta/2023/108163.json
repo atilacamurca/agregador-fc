@@ -11,7 +11,8 @@
     18,
     19,
     20,
-    21
+    21,
+    22
   ],
   "pontos": [
     0,
@@ -19,7 +20,8 @@
     4.2,
     0,
     0.5,
-    0
+    0,
+    2.1
   ],
   "precos": [
     4,
@@ -27,7 +29,8 @@
     4.33,
     4.33,
     3.66,
-    3.66
+    3.66,
+    3.83
   ],
   "variacoes": [
     0,
@@ -35,7 +38,8 @@
     0.33,
     0,
     -0.67,
-    0
+    0,
+    0.17
   ],
   "medias": [
     0,
@@ -43,7 +47,8 @@
     4.2,
     4.2,
     2.35,
-    2.35
+    2.35,
+    2.27
   ],
   "partidas": [
     {
@@ -123,16 +128,29 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/sao_paulo_60x60.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 22,
+      "clube_casa": "América-MG",
+      "clube_casa_id": 327,
+      "clube_visitante": "Santos",
+      "clube_casa_abrev": "AME",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2019/02/28/escudo65_1.png",
+      "clube_visitante_id": 277,
+      "clube_visitante_abrev": "SAN",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/santos_60x60.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 0
     }
   ],
-  "foto": "https://s.sde.globo.com/media/person_role/2023/07/25/photo_220x220_k6Nutl7.png",
+  "foto": "https://s.sde.globo.com/media/person_role/2023/09/05/photo_220x220_OpOrXfl.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2019/02/28/escudo65_1.png",
   "scouts": {
-    "rodada_id": 21,
+    "rodada_id": 22,
     "g": 0,
     "a": 0,
     "sg": 0,
-    "fs": 0,
+    "fs": 2,
     "ff": 1,
     "fd": 0,
     "ft": 0,
@@ -140,21 +158,21 @@
     "dp": 0,
     "gc": 0,
     "cv": 0,
-    "ca": 0,
+    "ca": 1,
     "pp": 0,
     "gs": 0,
-    "fc": 3,
+    "fc": 4,
     "i": 0,
-    "ds": 4,
+    "ds": 6,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 0,
-    "preco_num": 3.66,
-    "variacao_num": 0,
-    "media_num": 2.35,
-    "jogos_num": 2,
+    "pontos_num": 2.1,
+    "preco_num": 3.83,
+    "variacao_num": 0.17,
+    "media_num": 2.27,
+    "jogos_num": 3,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }
