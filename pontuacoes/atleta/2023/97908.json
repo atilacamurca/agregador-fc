@@ -14,7 +14,8 @@
     19,
     20,
     21,
-    22
+    22,
+    23
   ],
   "pontos": [
     0.9,
@@ -25,7 +26,8 @@
     0,
     0,
     0,
-    0.9
+    0.9,
+    0
   ],
   "precos": [
     4.7,
@@ -36,6 +38,7 @@
     5.19,
     5.19,
     5.19,
+    4.31,
     4.31
   ],
   "variacoes": [
@@ -47,7 +50,8 @@
     0,
     0,
     0,
-    -0.88
+    -0.88,
+    0
   ],
   "medias": [
     0.9,
@@ -58,6 +62,7 @@
     2.25,
     2.25,
     2.25,
+    1.8,
     1.8
   ],
   "partidas": [
@@ -177,12 +182,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2016/05/03/inter65.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 23,
+      "clube_casa": "Palmeiras",
+      "clube_casa_id": 275,
+      "clube_visitante": "Goiás",
+      "clube_casa_abrev": "PAL",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/palmeiras_60x60.png",
+      "clube_visitante_id": 290,
+      "clube_visitante_abrev": "GOI",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/03/01/goias-65.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/07/15/photo_220x220_GSUk6aP.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2021/03/01/goias-65.png",
   "scouts": {
-    "rodada_id": 22,
+    "rodada_id": 23,
     "g": 0,
     "a": 0,
     "sg": 0,
@@ -204,9 +222,9 @@
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 0.9,
+    "pontos_num": 0,
     "preco_num": 4.31,
-    "variacao_num": -0.88,
+    "variacao_num": 0,
     "media_num": 1.8,
     "jogos_num": 3,
     "posicao_abrev": "mei",
