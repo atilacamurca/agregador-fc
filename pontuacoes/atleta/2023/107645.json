@@ -11,7 +11,8 @@
     20,
     21,
     22,
-    23
+    23,
+    24
   ],
   "pontos": [
     0,
@@ -19,6 +20,7 @@
     3.27,
     5.01,
     9.33,
+    0,
     0
   ],
   "precos": [
@@ -27,6 +29,7 @@
     6.86,
     7.48,
     9.06,
+    8.3,
     8.3
   ],
   "variacoes": [
@@ -35,7 +38,8 @@
     0.14,
     0.62,
     1.58,
-    -0.76
+    -0.76,
+    0
   ],
   "medias": [
     0,
@@ -43,6 +47,7 @@
     3.01,
     3.68,
     5.09,
+    4.69,
     4.69
   ],
   "partidas": [
@@ -123,12 +128,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/02/28/escudo65_1.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 24,
+      "clube_casa": "América-MG",
+      "clube_casa_id": 327,
+      "clube_visitante": "Bragantino",
+      "clube_casa_abrev": "AME",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2019/02/28/escudo65_1.png",
+      "clube_visitante_id": 280,
+      "clube_visitante_abrev": "BRA",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2020/01/01/65.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/08/08/photo_220x220_W6FrqMf.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2019/02/28/escudo65_1.png",
   "scouts": {
-    "rodada_id": 23,
+    "rodada_id": 24,
     "g": 0,
     "a": 0,
     "sg": 0,
@@ -152,7 +170,7 @@
     "v": 2,
     "pontos_num": 0,
     "preco_num": 8.3,
-    "variacao_num": -0.76,
+    "variacao_num": 0,
     "media_num": 4.69,
     "jogos_num": 5,
     "posicao_abrev": "tec",

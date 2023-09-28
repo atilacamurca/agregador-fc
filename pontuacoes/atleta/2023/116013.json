@@ -6,7 +6,6 @@
   "clube_id": 262,
   "posicao": "Meia",
   "rodadas": [
-    13,
     14,
     15,
     16,
@@ -16,10 +15,10 @@
     20,
     21,
     22,
-    23
+    23,
+    24
   ],
   "pontos": [
-    0,
     0,
     0,
     0,
@@ -29,23 +28,23 @@
     0,
     0,
     0,
-    0
+    0,
+    -0.8
   ],
   "precos": [
     2.52,
     2.52,
     2.52,
     2.52,
-    2.52,
     2.07,
     2.07,
     2.07,
     2.07,
     2.07,
-    2.23
+    2.23,
+    1.77
   ],
   "variacoes": [
-    0,
     0,
     0,
     0,
@@ -55,35 +54,23 @@
     0,
     0,
     0,
-    0.16
+    0.16,
+    -0.46
   ],
   "medias": [
     1.9,
     1.9,
     1.9,
     1.9,
-    1.9,
     1.45,
     1.45,
     1.45,
     1.45,
     1.45,
-    1.7
+    1.7,
+    1.08
   ],
   "partidas": [
-    {
-      "rodada_id": 13,
-      "clube_casa": "Flamengo",
-      "clube_casa_id": 262,
-      "clube_visitante": "Fortaleza",
-      "clube_casa_abrev": "FLA",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2018/04/09/Flamengo-65.png",
-      "clube_visitante_id": 356,
-      "clube_visitante_abrev": "FOR",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/09/19/65_0000_Fortaleza-2021.png",
-      "placar_oficial_mandante": 2,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 14,
       "clube_casa": "Palmeiras",
@@ -213,38 +200,51 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/09/09/Athletico-PR-65x65.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 3
+    },
+    {
+      "rodada_id": 24,
+      "clube_casa": "Goiás",
+      "clube_casa_id": 290,
+      "clube_visitante": "Flamengo",
+      "clube_casa_abrev": "GOI",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2021/03/01/goias-65.png",
+      "clube_visitante_id": 262,
+      "clube_visitante_abrev": "FLA",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2018/04/09/Flamengo-65.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/04/11/photo_220x220_fA4Y3X6.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2018/04/09/Flamengo-65.png",
   "scouts": {
-    "rodada_id": 23,
+    "rodada_id": 24,
     "g": 0,
     "a": 0,
     "sg": 0,
     "fs": 4,
-    "ff": 2,
+    "ff": 3,
     "fd": 0,
     "ft": 0,
     "de": 0,
     "dp": 0,
     "gc": 0,
     "cv": 0,
-    "ca": 0,
+    "ca": 1,
     "pp": 0,
     "gs": 0,
-    "fc": 3,
+    "fc": 5,
     "i": 0,
     "ds": 2,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 0,
-    "preco_num": 2.23,
-    "variacao_num": 0.16,
-    "media_num": 1.7,
-    "jogos_num": 3,
+    "pontos_num": -0.8,
+    "preco_num": 1.77,
+    "variacao_num": -0.46,
+    "media_num": 1.08,
+    "jogos_num": 4,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }

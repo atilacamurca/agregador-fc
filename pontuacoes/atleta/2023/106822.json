@@ -6,7 +6,6 @@
   "clube_id": 276,
   "posicao": "Meia",
   "rodadas": [
-    13,
     14,
     15,
     16,
@@ -16,10 +15,10 @@
     20,
     21,
     22,
-    23
+    23,
+    24
   ],
   "pontos": [
-    3.1,
     0.2,
     5.5,
     -0.6,
@@ -29,10 +28,10 @@
     0,
     0,
     0,
+    0,
     0
   ],
   "precos": [
-    8.53,
     8.07,
     8.83,
     7.9,
@@ -42,10 +41,10 @@
     7.93,
     7.93,
     7.93,
+    7.67,
     7.67
   ],
   "variacoes": [
-    0.27,
     -0.46,
     0.76,
     -0.93,
@@ -55,10 +54,10 @@
     0,
     0,
     0,
-    -0.26
+    -0.26,
+    0
   ],
   "medias": [
-    3.79,
     3.46,
     3.63,
     3.3,
@@ -68,22 +67,10 @@
     3.23,
     3.23,
     3.23,
+    3.02,
     3.02
   ],
   "partidas": [
-    {
-      "rodada_id": 13,
-      "clube_casa": "São Paulo",
-      "clube_casa_id": 276,
-      "clube_visitante": "Fluminense",
-      "clube_casa_abrev": "SAO",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/sao_paulo_60x60.png",
-      "clube_visitante_id": 266,
-      "clube_visitante_abrev": "FLU",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/fluminense_60x60.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 14,
       "clube_casa": "Bragantino",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/sao_paulo_60x60.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 24,
+      "clube_casa": "São Paulo",
+      "clube_casa_id": 276,
+      "clube_visitante": "Fortaleza",
+      "clube_casa_abrev": "SAO",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/sao_paulo_60x60.png",
+      "clube_visitante_id": 356,
+      "clube_visitante_abrev": "FOR",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/09/19/65_0000_Fortaleza-2021.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2022/03/01/70f9ba85a01525e2d77c787e7efb42f7_220x220.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2014/04/14/sao_paulo_60x60.png",
   "scouts": {
-    "rodada_id": 23,
+    "rodada_id": 24,
     "g": 1,
     "a": 1,
     "sg": 0,
@@ -242,7 +242,7 @@
     "v": 0,
     "pontos_num": 0,
     "preco_num": 7.67,
-    "variacao_num": -0.26,
+    "variacao_num": 0,
     "media_num": 3.02,
     "jogos_num": 17,
     "posicao_abrev": "mei",
