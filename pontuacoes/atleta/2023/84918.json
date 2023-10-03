@@ -14,7 +14,8 @@
     21,
     22,
     23,
-    24
+    24,
+    25
   ],
   "pontos": [
     0,
@@ -25,7 +26,8 @@
     2.5,
     8.6,
     0,
-    0
+    0,
+    5
   ],
   "precos": [
     6,
@@ -36,7 +38,8 @@
     7.96,
     9.44,
     9.74,
-    9.74
+    9.74,
+    9.41
   ],
   "variacoes": [
     0,
@@ -47,7 +50,8 @@
     -0.13,
     1.48,
     0.3,
-    0
+    0,
+    -0.33
   ],
   "medias": [
     0,
@@ -58,7 +62,8 @@
     4.88,
     5.5,
     5.83,
-    5.83
+    5.83,
+    5.73
   ],
   "partidas": [
     {
@@ -177,18 +182,31 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/santos_60x60.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 25,
+      "clube_casa": "Flamengo",
+      "clube_casa_id": 262,
+      "clube_visitante": "Bahia",
+      "clube_casa_abrev": "FLA",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2018/04/09/Flamengo-65.png",
+      "clube_visitante_id": 265,
+      "clube_visitante_abrev": "BAH",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/bahia_60x60.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/07/26/photo_220x220_q8xm0Ax.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2014/04/14/bahia_60x60.png",
   "scouts": {
-    "rodada_id": 24,
+    "rodada_id": 25,
     "g": 2,
     "a": 0,
     "sg": 0,
     "fs": 9,
-    "ff": 5,
-    "fd": 4,
+    "ff": 6,
+    "fd": 6,
     "ft": 0,
     "de": 0,
     "dp": 0,
@@ -197,18 +215,18 @@
     "ca": 1,
     "pp": 0,
     "gs": 0,
-    "fc": 6,
+    "fc": 8,
     "i": 1,
-    "ds": 12,
+    "ds": 14,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 0,
-    "preco_num": 9.74,
-    "variacao_num": 0,
-    "media_num": 5.83,
-    "jogos_num": 7,
+    "pontos_num": 5,
+    "preco_num": 9.41,
+    "variacao_num": -0.33,
+    "media_num": 5.73,
+    "jogos_num": 8,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }

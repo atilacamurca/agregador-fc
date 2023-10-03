@@ -6,7 +6,6 @@
   "clube_id": 266,
   "posicao": "Zagueiro",
   "rodadas": [
-    14,
     15,
     16,
     17,
@@ -16,10 +15,10 @@
     21,
     22,
     23,
-    24
+    24,
+    25
   ],
   "pontos": [
-    6.6,
     6.2,
     1,
     5.6,
@@ -29,10 +28,10 @@
     0,
     0,
     0,
-    4.9
+    4.9,
+    0
   ],
   "precos": [
-    12.47,
     12.38,
     11.61,
     12.29,
@@ -42,10 +41,10 @@
     11.22,
     11.22,
     11.09,
+    11.73,
     11.73
   ],
   "variacoes": [
-    1.21,
     -0.09,
     -0.77,
     0.68,
@@ -55,10 +54,10 @@
     0,
     0,
     -0.13,
-    0.64
+    0.64,
+    0
   ],
   "medias": [
-    4.18,
     4.32,
     4.1,
     4.19,
@@ -68,22 +67,10 @@
     3.73,
     3.73,
     3.6,
+    3.66,
     3.66
   ],
   "partidas": [
-    {
-      "rodada_id": 14,
-      "clube_casa": "Fluminense",
-      "clube_casa_id": 266,
-      "clube_visitante": "Internacional",
-      "clube_casa_abrev": "FLU",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/fluminense_60x60.png",
-      "clube_visitante_id": 285,
-      "clube_visitante_abrev": "INT",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2016/05/03/inter65.png",
-      "placar_oficial_mandante": 2,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 15,
       "clube_casa": "Fluminense",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/02/13/65_cruzeiro-2021.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 25,
+      "clube_casa": "Cuiabá",
+      "clube_casa_id": 1371,
+      "clube_visitante": "Fluminense",
+      "clube_casa_abrev": "CUI",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/16/cuiaba65.png",
+      "clube_visitante_id": 266,
+      "clube_visitante_abrev": "FLU",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/fluminense_60x60.png",
+      "placar_oficial_mandante": 3,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/05/09/photo_220x220_U5c1E7V.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2014/04/14/fluminense_60x60.png",
   "scouts": {
-    "rodada_id": 24,
+    "rodada_id": 25,
     "g": 2,
     "a": 0,
     "sg": 8,
@@ -240,9 +240,9 @@
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 4.9,
+    "pontos_num": 0,
     "preco_num": 11.73,
-    "variacao_num": 0.64,
+    "variacao_num": 0,
     "media_num": 3.66,
     "jogos_num": 20,
     "posicao_abrev": "zag",

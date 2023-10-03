@@ -6,7 +6,6 @@
   "clube_id": 293,
   "posicao": "Meia",
   "rodadas": [
-    14,
     15,
     16,
     17,
@@ -16,10 +15,10 @@
     21,
     22,
     23,
-    24
+    24,
+    25
   ],
   "pontos": [
-    0,
     1.8,
     8.5,
     1.7,
@@ -29,10 +28,10 @@
     0,
     4.6,
     0,
-    1.9
+    1.9,
+    0
   ],
   "precos": [
-    8.66,
     7.26,
     8.48,
     7.5,
@@ -42,10 +41,10 @@
     6.91,
     7.71,
     9,
+    7.61,
     7.61
   ],
   "variacoes": [
-    0,
     -1.4,
     1.22,
     -0.98,
@@ -55,10 +54,10 @@
     -0.1,
     0.8,
     1.29,
-    -1.39
+    -1.39,
+    0
   ],
   "medias": [
-    4.89,
     4.61,
     4.93,
     4.68,
@@ -68,22 +67,10 @@
     3.99,
     4.03,
     4.49,
+    4.35,
     4.35
   ],
   "partidas": [
-    {
-      "rodada_id": 14,
-      "clube_casa": "Fortaleza",
-      "clube_casa_id": 356,
-      "clube_visitante": "Athlético-PR",
-      "clube_casa_abrev": "FOR",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2021/09/19/65_0000_Fortaleza-2021.png",
-      "clube_visitante_id": 293,
-      "clube_visitante_abrev": "ATL",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/09/09/Athletico-PR-65x65.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 15,
       "clube_casa": "Athlético-PR",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2016/05/03/inter65.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 25,
+      "clube_casa": "Coritiba",
+      "clube_casa_id": 294,
+      "clube_visitante": "Athlético-PR",
+      "clube_casa_abrev": "COR",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2017/03/29/coritiba65.png",
+      "clube_visitante_id": 293,
+      "clube_visitante_abrev": "ATL",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/09/09/Athletico-PR-65x65.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/02/28/photo_220x220_Vn5DBCR.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2019/09/09/Athletico-PR-65x65.png",
   "scouts": {
-    "rodada_id": 24,
+    "rodada_id": 25,
     "g": 3,
     "a": 3,
     "sg": 0,
@@ -240,9 +240,9 @@
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 1.9,
+    "pontos_num": 0,
     "preco_num": 7.61,
-    "variacao_num": -1.39,
+    "variacao_num": 0,
     "media_num": 4.35,
     "jogos_num": 18,
     "posicao_abrev": "mei",

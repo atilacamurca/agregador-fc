@@ -6,7 +6,6 @@
   "clube_id": 262,
   "posicao": "Zagueiro",
   "rodadas": [
-    14,
     15,
     16,
     17,
@@ -16,10 +15,10 @@
     21,
     22,
     23,
-    24
+    24,
+    25
   ],
   "pontos": [
-    0,
     6.5,
     5.6,
     -0.8,
@@ -29,10 +28,10 @@
     6.7,
     7.9,
     0,
-    0
+    0,
+    6.8
   ],
   "precos": [
-    14.37,
     14.43,
     14.43,
     13.3,
@@ -42,10 +41,10 @@
     14.09,
     14.51,
     13.73,
-    13.73
+    13.73,
+    14.23
   ],
   "variacoes": [
-    0,
     0.06,
     0,
     -1.13,
@@ -55,10 +54,10 @@
     0.89,
     0.42,
     -0.78,
-    0
+    0,
+    0.5
   ],
   "medias": [
-    6.24,
     6.26,
     6.21,
     5.74,
@@ -68,22 +67,10 @@
     5.29,
     5.43,
     5.32,
-    5.32
+    5.32,
+    5.39
   ],
   "partidas": [
-    {
-      "rodada_id": 14,
-      "clube_casa": "Palmeiras",
-      "clube_casa_id": 275,
-      "clube_visitante": "Flamengo",
-      "clube_casa_abrev": "PAL",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/palmeiras_60x60.png",
-      "clube_visitante_id": 262,
-      "clube_visitante_abrev": "FLA",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2018/04/09/Flamengo-65.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 15,
       "clube_casa": "Fluminense",
@@ -213,15 +200,28 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2018/04/09/Flamengo-65.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 25,
+      "clube_casa": "Flamengo",
+      "clube_casa_id": 262,
+      "clube_visitante": "Bahia",
+      "clube_casa_abrev": "FLA",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2018/04/09/Flamengo-65.png",
+      "clube_visitante_id": 265,
+      "clube_visitante_abrev": "BAH",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/bahia_60x60.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/04/11/photo_220x220_Wclql1X.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2018/04/09/Flamengo-65.png",
   "scouts": {
-    "rodada_id": 24,
+    "rodada_id": 25,
     "g": 3,
     "a": 1,
-    "sg": 7,
+    "sg": 8,
     "fs": 16,
     "ff": 5,
     "fd": 1,
@@ -233,18 +233,18 @@
     "ca": 2,
     "pp": 0,
     "gs": 0,
-    "fc": 11,
+    "fc": 13,
     "i": 1,
-    "ds": 29,
+    "ds": 31,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 0,
-    "preco_num": 13.73,
-    "variacao_num": 0,
-    "media_num": 5.32,
-    "jogos_num": 20,
+    "pontos_num": 6.8,
+    "preco_num": 14.23,
+    "variacao_num": 0.5,
+    "media_num": 5.39,
+    "jogos_num": 21,
     "posicao_abrev": "zag",
     "posicao": "Zagueiro"
   }

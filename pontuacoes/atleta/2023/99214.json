@@ -6,7 +6,6 @@
   "clube_id": 277,
   "posicao": "Meia",
   "rodadas": [
-    14,
     15,
     16,
     17,
@@ -16,10 +15,10 @@
     21,
     22,
     23,
-    24
+    24,
+    25
   ],
   "pontos": [
-    3.5,
     0,
     2.4,
     1.1,
@@ -29,10 +28,10 @@
     1.5,
     0.9,
     0,
-    0
+    0,
+    -3
   ],
   "precos": [
-    5.04,
     5.04,
     4.86,
     4.65,
@@ -42,10 +41,10 @@
     4.68,
     4.62,
     4.71,
-    4.71
+    4.71,
+    3.89
   ],
   "variacoes": [
-    0.73,
     0,
     -0.18,
     -0.21,
@@ -55,10 +54,10 @@
     0.18,
     -0.06,
     0.09,
-    0
+    0,
+    -0.82
   ],
   "medias": [
-    2.17,
     2.17,
     2.19,
     2.12,
@@ -68,22 +67,10 @@
     1.91,
     1.86,
     1.85,
-    1.85
+    1.85,
+    1.71
   ],
   "partidas": [
-    {
-      "rodada_id": 14,
-      "clube_casa": "Santos",
-      "clube_casa_id": 277,
-      "clube_visitante": "Goiás",
-      "clube_casa_abrev": "SAN",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/santos_60x60.png",
-      "clube_visitante_id": 290,
-      "clube_visitante_abrev": "GOI",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/03/01/goias-65.png",
-      "placar_oficial_mandante": 4,
-      "placar_oficial_visitante": 3
-    },
     {
       "rodada_id": 15,
       "clube_casa": "São Paulo",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/santos_60x60.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 25,
+      "clube_casa": "Santos",
+      "clube_casa_id": 277,
+      "clube_visitante": "Vasco",
+      "clube_casa_abrev": "SAN",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/santos_60x60.png",
+      "clube_visitante_id": 267,
+      "clube_visitante_abrev": "VAS",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/09/04/ESCUDO-VASCO-RGB_65px.png",
+      "placar_oficial_mandante": 4,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2022/03/29/6fdde8730fb97a5d12a85b4ebd9d4e93_220x220.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2014/04/14/santos_60x60.png",
   "scouts": {
-    "rodada_id": 24,
+    "rodada_id": 25,
     "g": 1,
     "a": 0,
     "sg": 0,
@@ -229,7 +229,7 @@
     "de": 0,
     "dp": 0,
     "gc": 0,
-    "cv": 0,
+    "cv": 1,
     "ca": 9,
     "pp": 0,
     "gs": 0,
@@ -240,10 +240,10 @@
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 0,
-    "preco_num": 4.71,
-    "variacao_num": 0,
-    "media_num": 1.85,
+    "pontos_num": -3,
+    "preco_num": 3.89,
+    "variacao_num": -0.82,
+    "media_num": 1.71,
     "jogos_num": 21,
     "posicao_abrev": "mei",
     "posicao": "Meia"
