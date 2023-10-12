@@ -6,7 +6,6 @@
   "clube_id": 285,
   "posicao": "Meia",
   "rodadas": [
-    15,
     16,
     17,
     18,
@@ -16,10 +15,10 @@
     22,
     23,
     24,
-    25
+    25,
+    26
   ],
   "pontos": [
-    -0.1,
     0,
     4.3,
     2,
@@ -29,10 +28,10 @@
     3.1,
     0,
     0.5,
-    0
+    0,
+    10.6
   ],
   "precos": [
-    7.96,
     7.9,
     8.54,
     8.23,
@@ -42,10 +41,10 @@
     8.28,
     9.18,
     8.03,
-    7.85
+    7.85,
+    9.58
   ],
   "variacoes": [
-    -0.19,
     -0.06,
     0.64,
     -0.31,
@@ -55,10 +54,10 @@
     0.34,
     0.9,
     -1.15,
-    -0.18
+    -0.18,
+    1.73
   ],
   "medias": [
-    2.48,
     2.29,
     2.43,
     2.4,
@@ -68,22 +67,10 @@
     2.18,
     2.5,
     2.4,
-    2.29
+    2.29,
+    2.65
   ],
   "partidas": [
-    {
-      "rodada_id": 15,
-      "clube_casa": "Internacional",
-      "clube_casa_id": 285,
-      "clube_visitante": "Palmeiras",
-      "clube_casa_abrev": "INT",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2016/05/03/inter65.png",
-      "clube_visitante_id": 275,
-      "clube_visitante_abrev": "PAL",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/palmeiras_60x60.png",
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 16,
       "clube_casa": "Bragantino",
@@ -213,16 +200,29 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2017/11/23/Atletico-Mineiro-escudo65px.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 26,
+      "clube_casa": "Internacional",
+      "clube_casa_id": 285,
+      "clube_visitante": "Grêmio",
+      "clube_casa_abrev": "INT",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2016/05/03/inter65.png",
+      "clube_visitante_id": 284,
+      "clube_visitante_abrev": "GRE",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/gremio_60x60.png",
+      "placar_oficial_mandante": 3,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/03/07/photo_220x220_M6Icp8o.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2016/05/03/inter65.png",
   "scouts": {
-    "rodada_id": 25,
-    "g": 0,
+    "rodada_id": 26,
+    "g": 1,
     "a": 3,
     "sg": 0,
-    "fs": 32,
+    "fs": 38,
     "ff": 11,
     "fd": 4,
     "ft": 1,
@@ -233,18 +233,18 @@
     "ca": 4,
     "pp": 0,
     "gs": 0,
-    "fc": 17,
-    "i": 2,
+    "fc": 18,
+    "i": 3,
     "ds": 10,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 0,
-    "preco_num": 7.85,
-    "variacao_num": -0.18,
-    "media_num": 2.29,
-    "jogos_num": 22,
+    "pontos_num": 10.6,
+    "preco_num": 9.58,
+    "variacao_num": 1.73,
+    "media_num": 2.65,
+    "jogos_num": 23,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }

@@ -6,7 +6,6 @@
   "clube_id": 283,
   "posicao": "Atacante",
   "rodadas": [
-    15,
     16,
     17,
     18,
@@ -16,10 +15,10 @@
     22,
     23,
     24,
-    25
+    25,
+    26
   ],
   "pontos": [
-    0,
     0,
     18.1,
     0.5,
@@ -29,10 +28,10 @@
     0.9,
     0,
     5,
-    4
+    4,
+    0
   ],
   "precos": [
-    5,
     5,
     8.82,
     6.56,
@@ -42,10 +41,10 @@
     6.49,
     6.08,
     7.06,
+    7,
     7
   ],
   "variacoes": [
-    0,
     0,
     3.82,
     -2.26,
@@ -55,10 +54,10 @@
     -0.23,
     -0.41,
     0.98,
-    -0.06
+    -0.06,
+    0
   ],
   "medias": [
-    0,
     0,
     18.1,
     9.3,
@@ -68,22 +67,10 @@
     4.33,
     3.64,
     3.81,
+    3.83,
     3.83
   ],
   "partidas": [
-    {
-      "rodada_id": 15,
-      "clube_casa": "Cruzeiro",
-      "clube_casa_id": 283,
-      "clube_visitante": "Coritiba",
-      "clube_casa_abrev": "CRU",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2021/02/13/65_cruzeiro-2021.png",
-      "clube_visitante_id": 294,
-      "clube_visitante_abrev": "COR",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2017/03/29/coritiba65.png",
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 16,
       "clube_casa": "Cruzeiro",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/02/28/escudo65_1.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 26,
+      "clube_casa": "Cuiabá",
+      "clube_casa_id": 1371,
+      "clube_visitante": "Cruzeiro",
+      "clube_casa_abrev": "CUI",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/16/cuiaba65.png",
+      "clube_visitante_id": 283,
+      "clube_visitante_abrev": "CRU",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/02/13/65_cruzeiro-2021.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/07/15/photo_220x220_4DHfVWg.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2021/02/13/65_cruzeiro-2021.png",
   "scouts": {
-    "rodada_id": 25,
+    "rodada_id": 26,
     "g": 2,
     "a": 0,
     "sg": 0,
@@ -240,9 +240,9 @@
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 4,
+    "pontos_num": 0,
     "preco_num": 7,
-    "variacao_num": -0.06,
+    "variacao_num": 0,
     "media_num": 3.83,
     "jogos_num": 9,
     "posicao_abrev": "ata",

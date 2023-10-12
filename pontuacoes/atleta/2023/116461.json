@@ -6,7 +6,6 @@
   "clube_id": 294,
   "posicao": "Lateral",
   "rodadas": [
-    15,
     16,
     17,
     18,
@@ -16,10 +15,10 @@
     22,
     23,
     24,
-    25
+    25,
+    26
   ],
   "pontos": [
-    7.3,
     7.1,
     2.4,
     1.6,
@@ -29,10 +28,10 @@
     0,
     0,
     0.4,
+    5,
     5
   ],
   "precos": [
-    7.07,
     7.3,
     6.65,
     6.56,
@@ -42,10 +41,10 @@
     6.39,
     6.25,
     6.31,
-    7.02
+    7.02,
+    7.09
   ],
   "variacoes": [
-    0.37,
     0.23,
     -0.65,
     -0.09,
@@ -55,10 +54,10 @@
     0,
     -0.14,
     0.06,
-    0.71
+    0.71,
+    0.07
   ],
   "medias": [
-    3.12,
     3.39,
     3.33,
     3.23,
@@ -68,22 +67,10 @@
     3.26,
     3.09,
     2.96,
-    3.05
+    3.05,
+    3.13
   ],
   "partidas": [
-    {
-      "rodada_id": 15,
-      "clube_casa": "Cruzeiro",
-      "clube_casa_id": 283,
-      "clube_visitante": "Coritiba",
-      "clube_casa_abrev": "CRU",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2021/02/13/65_cruzeiro-2021.png",
-      "clube_visitante_id": 294,
-      "clube_visitante_abrev": "COR",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2017/03/29/coritiba65.png",
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 16,
       "clube_casa": "Coritiba",
@@ -213,14 +200,27 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/09/09/Athletico-PR-65x65.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 26,
+      "clube_casa": "Atlético-MG",
+      "clube_casa_id": 282,
+      "clube_visitante": "Coritiba",
+      "clube_casa_abrev": "ATL",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2017/11/23/Atletico-Mineiro-escudo65px.png",
+      "clube_visitante_id": 294,
+      "clube_visitante_abrev": "COR",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2017/03/29/coritiba65.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/09/14/photo_220x220_vdcH1tF.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2017/03/29/coritiba65.png",
   "scouts": {
-    "rodada_id": 25,
+    "rodada_id": 26,
     "g": 0,
-    "a": 0,
+    "a": 1,
     "sg": 4,
     "fs": 9,
     "ff": 6,
@@ -241,10 +241,10 @@
     "ps": 0,
     "v": 0,
     "pontos_num": 5,
-    "preco_num": 7.02,
-    "variacao_num": 0.71,
-    "media_num": 3.05,
-    "jogos_num": 22,
+    "preco_num": 7.09,
+    "variacao_num": 0.07,
+    "media_num": 3.13,
+    "jogos_num": 23,
     "posicao_abrev": "lat",
     "posicao": "Lateral"
   }

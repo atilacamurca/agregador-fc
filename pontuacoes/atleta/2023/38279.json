@@ -6,7 +6,6 @@
   "clube_id": 327,
   "posicao": "Atacante",
   "rodadas": [
-    15,
     16,
     17,
     18,
@@ -16,16 +15,17 @@
     22,
     23,
     24,
-    25
+    25,
+    26
   ],
   "pontos": [
-    0,
     0,
     0,
     0,
     1.2,
     0,
     -3,
+    0,
     0,
     0,
     0,
@@ -37,15 +37,14 @@
     3.4,
     3.4,
     3.4,
-    3.4,
     2.63,
     2.63,
     2.63,
     2.63,
-    2.63
+    2.63,
+    2.88
   ],
   "variacoes": [
-    0,
     0,
     0,
     0,
@@ -55,35 +54,23 @@
     0,
     0,
     0,
-    0
+    0,
+    0.25
   ],
   "medias": [
     1.62,
     1.62,
     1.62,
-    1.62,
     1.56,
     1.56,
     1.13,
     1.13,
     1.13,
     1.13,
-    1.13
+    1.13,
+    0.99
   ],
   "partidas": [
-    {
-      "rodada_id": 15,
-      "clube_casa": "América-MG",
-      "clube_casa_id": 327,
-      "clube_visitante": "Vasco",
-      "clube_casa_abrev": "AME",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2019/02/28/escudo65_1.png",
-      "clube_visitante_id": 267,
-      "clube_visitante_abrev": "VAS",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/09/04/ESCUDO-VASCO-RGB_65px.png",
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 16,
       "clube_casa": "Flamengo",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/02/28/escudo65_1.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 26,
+      "clube_casa": "Fortaleza",
+      "clube_casa_id": 356,
+      "clube_visitante": "América-MG",
+      "clube_casa_abrev": "FOR",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2021/09/19/65_0000_Fortaleza-2021.png",
+      "clube_visitante_id": 327,
+      "clube_visitante_abrev": "AME",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/02/28/escudo65_1.png",
+      "placar_oficial_mandante": 3,
+      "placar_oficial_visitante": 2
     }
   ],
-  "foto": "https://s.sde.globo.com/media/person_role/2023/03/08/photo_220x220_8mUcFok.png",
+  "foto": "https://s.sde.globo.com/media/person_role/2023/10/10/photo_220x220_XcRG22X.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2019/02/28/escudo65_1.png",
   "scouts": {
-    "rodada_id": 25,
+    "rodada_id": 26,
     "g": 1,
     "a": 0,
     "sg": 0,
@@ -241,10 +241,10 @@
     "ps": 0,
     "v": 0,
     "pontos_num": 0,
-    "preco_num": 2.63,
-    "variacao_num": 0,
-    "media_num": 1.13,
-    "jogos_num": 7,
+    "preco_num": 2.88,
+    "variacao_num": 0.25,
+    "media_num": 0.99,
+    "jogos_num": 8,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }

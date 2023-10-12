@@ -6,7 +6,6 @@
   "clube_id": 277,
   "posicao": "Zagueiro",
   "rodadas": [
-    15,
     16,
     17,
     18,
@@ -16,10 +15,10 @@
     22,
     23,
     24,
-    25
+    25,
+    26
   ],
   "pontos": [
-    -2.6,
     1.4,
     2.4,
     0,
@@ -29,10 +28,10 @@
     3.1,
     0,
     0,
-    2.4
+    2.4,
+    6.8
   ],
   "precos": [
-    7.39,
     7.93,
     8.04,
     8.04,
@@ -42,10 +41,10 @@
     8.18,
     8.18,
     8.18,
-    7.94
+    7.94,
+    8.67
   ],
   "variacoes": [
-    -1.15,
     0.54,
     0.11,
     0,
@@ -55,10 +54,10 @@
     -0.18,
     0,
     0,
-    -0.24
+    -0.24,
+    0.73
   ],
   "medias": [
-    3.58,
     3.41,
     3.34,
     3.34,
@@ -68,22 +67,10 @@
     3.33,
     3.33,
     3.33,
-    3.28
+    3.28,
+    3.47
   ],
   "partidas": [
-    {
-      "rodada_id": 15,
-      "clube_casa": "São Paulo",
-      "clube_casa_id": 276,
-      "clube_visitante": "Santos",
-      "clube_casa_abrev": "SAO",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/sao_paulo_60x60.png",
-      "clube_visitante_id": 277,
-      "clube_visitante_abrev": "SAN",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/santos_60x60.png",
-      "placar_oficial_mandante": 4,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 16,
       "clube_casa": "Santos",
@@ -213,14 +200,27 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/09/04/ESCUDO-VASCO-RGB_65px.png",
       "placar_oficial_mandante": 4,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 26,
+      "clube_casa": "Palmeiras",
+      "clube_casa_id": 275,
+      "clube_visitante": "Santos",
+      "clube_casa_abrev": "PAL",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/palmeiras_60x60.png",
+      "clube_visitante_id": 277,
+      "clube_visitante_abrev": "SAN",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/santos_60x60.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/03/14/photo_220x220_KiHaTyd.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2014/04/14/santos_60x60.png",
   "scouts": {
-    "rodada_id": 25,
+    "rodada_id": 26,
     "g": 0,
-    "a": 0,
+    "a": 1,
     "sg": 4,
     "fs": 9,
     "ff": 5,
@@ -233,18 +233,18 @@
     "ca": 3,
     "pp": 0,
     "gs": 0,
-    "fc": 13,
+    "fc": 15,
     "i": 0,
-    "ds": 27,
+    "ds": 29,
     "pi": 0,
     "pc": 1,
     "ps": 1,
     "v": 0,
-    "pontos_num": 2.4,
-    "preco_num": 7.94,
-    "variacao_num": -0.24,
-    "media_num": 3.28,
-    "jogos_num": 18,
+    "pontos_num": 6.8,
+    "preco_num": 8.67,
+    "variacao_num": 0.73,
+    "media_num": 3.47,
+    "jogos_num": 19,
     "posicao_abrev": "zag",
     "posicao": "Zagueiro"
   }

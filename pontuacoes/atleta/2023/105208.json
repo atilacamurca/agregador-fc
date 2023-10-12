@@ -6,7 +6,6 @@
   "clube_id": 293,
   "posicao": "Goleiro",
   "rodadas": [
-    15,
     16,
     17,
     18,
@@ -16,10 +15,10 @@
     22,
     23,
     24,
-    25
+    25,
+    26
   ],
   "pontos": [
-    11,
     7,
     -1,
     0,
@@ -29,10 +28,10 @@
     0,
     0,
     0,
-    -1
+    -1,
+    1
   ],
   "precos": [
-    11.31,
     10.99,
     9.69,
     9.75,
@@ -42,10 +41,10 @@
     9.79,
     9.79,
     9.79,
-    9.03
+    9.03,
+    9.25
   ],
   "variacoes": [
-    1.19,
     -0.32,
     -1.3,
     0.06,
@@ -55,10 +54,10 @@
     0,
     0,
     0,
-    -0.76
+    -0.76,
+    0.22
   ],
   "medias": [
-    4.78,
     4.93,
     4.56,
     4.29,
@@ -68,22 +67,10 @@
     4.13,
     4.13,
     4.13,
-    3.86
+    3.86,
+    3.72
   ],
   "partidas": [
-    {
-      "rodada_id": 15,
-      "clube_casa": "Athlético-PR",
-      "clube_casa_id": 293,
-      "clube_visitante": "Bahia",
-      "clube_casa_abrev": "ATL",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2019/09/09/Athletico-PR-65x65.png",
-      "clube_visitante_id": 265,
-      "clube_visitante_abrev": "BAH",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/bahia_60x60.png",
-      "placar_oficial_mandante": 2,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 16,
       "clube_casa": "Vasco",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/09/09/Athletico-PR-65x65.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 26,
+      "clube_casa": "Athlético-PR",
+      "clube_casa_id": 293,
+      "clube_visitante": "Bragantino",
+      "clube_casa_abrev": "ATL",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2019/09/09/Athletico-PR-65x65.png",
+      "clube_visitante_id": 280,
+      "clube_visitante_abrev": "BRA",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2020/01/01/65.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/02/28/photo_220x220_7ROEp8B.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2019/09/09/Athletico-PR-65x65.png",
   "scouts": {
-    "rodada_id": 25,
+    "rodada_id": 26,
     "g": 0,
     "a": 1,
     "sg": 6,
@@ -226,13 +226,13 @@
     "ff": 0,
     "fd": 0,
     "ft": 0,
-    "de": 57,
+    "de": 59,
     "dp": 1,
     "gc": 0,
     "cv": 0,
     "ca": 3,
     "pp": 0,
-    "gs": 23,
+    "gs": 24,
     "fc": 2,
     "i": 0,
     "ds": 0,
@@ -240,11 +240,11 @@
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": -1,
-    "preco_num": 9.03,
-    "variacao_num": -0.76,
-    "media_num": 3.86,
-    "jogos_num": 19,
+    "pontos_num": 1,
+    "preco_num": 9.25,
+    "variacao_num": 0.22,
+    "media_num": 3.72,
+    "jogos_num": 20,
     "posicao_abrev": "gol",
     "posicao": "Goleiro"
   }

@@ -6,7 +6,6 @@
   "clube_id": 280,
   "posicao": "Lateral",
   "rodadas": [
-    15,
     16,
     17,
     18,
@@ -16,10 +15,10 @@
     22,
     23,
     24,
-    25
+    25,
+    26
   ],
   "pontos": [
-    0,
     0,
     0,
     4.4,
@@ -29,10 +28,10 @@
     9.5,
     0,
     0,
-    2.9
+    2.9,
+    0.7
   ],
   "precos": [
-    9.85,
     9.85,
     9.85,
     8.82,
@@ -42,10 +41,10 @@
     9.73,
     8.81,
     8.81,
-    8.72
+    8.72,
+    8.33
   ],
   "variacoes": [
-    0,
     0,
     0,
     -1.03,
@@ -55,10 +54,10 @@
     0.82,
     -0.92,
     0,
-    -0.09
+    -0.09,
+    -0.39
   ],
   "medias": [
-    5.42,
     5.42,
     5.42,
     5.32,
@@ -68,22 +67,10 @@
     4.83,
     4.73,
     4.73,
-    4.62
+    4.62,
+    4.39
   ],
   "partidas": [
-    {
-      "rodada_id": 15,
-      "clube_casa": "Botafogo",
-      "clube_casa_id": 263,
-      "clube_visitante": "Bragantino",
-      "clube_casa_abrev": "BOT",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-65.png",
-      "clube_visitante_id": 280,
-      "clube_visitante_abrev": "BRA",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2020/01/01/65.png",
-      "placar_oficial_mandante": 2,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 16,
       "clube_casa": "Bragantino",
@@ -213,38 +200,51 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/palmeiras_60x60.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 26,
+      "clube_casa": "Athlético-PR",
+      "clube_casa_id": 293,
+      "clube_visitante": "Bragantino",
+      "clube_casa_abrev": "ATL",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2019/09/09/Athletico-PR-65x65.png",
+      "clube_visitante_id": 280,
+      "clube_visitante_abrev": "BRA",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2020/01/01/65.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2022/05/05/e0f91d593be16e959e72ad0d5fc131a0_220x220.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2020/01/01/65.png",
   "scouts": {
-    "rodada_id": 25,
+    "rodada_id": 26,
     "g": 0,
     "a": 1,
     "sg": 8,
     "fs": 7,
-    "ff": 3,
+    "ff": 4,
     "fd": 0,
     "ft": 0,
     "de": 0,
     "dp": 0,
     "gc": 0,
     "cv": 1,
-    "ca": 4,
+    "ca": 5,
     "pp": 0,
     "gs": 0,
-    "fc": 25,
+    "fc": 26,
     "i": 0,
-    "ds": 32,
+    "ds": 33,
     "pi": 0,
     "pc": 1,
     "ps": 0,
     "v": 0,
-    "pontos_num": 2.9,
-    "preco_num": 8.72,
-    "variacao_num": -0.09,
-    "media_num": 4.62,
-    "jogos_num": 16,
+    "pontos_num": 0.7,
+    "preco_num": 8.33,
+    "variacao_num": -0.39,
+    "media_num": 4.39,
+    "jogos_num": 17,
     "posicao_abrev": "lat",
     "posicao": "Lateral"
   }

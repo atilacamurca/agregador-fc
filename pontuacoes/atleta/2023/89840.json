@@ -6,7 +6,6 @@
   "clube_id": 276,
   "posicao": "Atacante",
   "rodadas": [
-    15,
     16,
     17,
     18,
@@ -16,10 +15,10 @@
     22,
     23,
     24,
-    25
+    25,
+    26
   ],
   "pontos": [
-    17.8,
     0.9,
     0,
     6,
@@ -29,10 +28,10 @@
     0,
     0,
     0,
-    17.5
+    17.5,
+    0
   ],
   "precos": [
-    16.81,
     14.43,
     14.43,
     15.04,
@@ -42,10 +41,10 @@
     13.89,
     15.24,
     15.24,
+    16.64,
     16.64
   ],
   "variacoes": [
-    1.82,
     -2.38,
     0,
     0.61,
@@ -55,10 +54,10 @@
     0,
     1.35,
     0,
-    1.4
+    1.4,
+    0
   ],
   "medias": [
-    6.79,
     6.34,
     6.34,
     6.32,
@@ -68,22 +67,10 @@
     5.57,
     5.82,
     5.82,
+    6.47,
     6.47
   ],
   "partidas": [
-    {
-      "rodada_id": 15,
-      "clube_casa": "São Paulo",
-      "clube_casa_id": 276,
-      "clube_visitante": "Santos",
-      "clube_casa_abrev": "SAO",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/sao_paulo_60x60.png",
-      "clube_visitante_id": 277,
-      "clube_visitante_abrev": "SAN",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/santos_60x60.png",
-      "placar_oficial_mandante": 4,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 16,
       "clube_casa": "Cuiabá",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/09/30/Corinthians_65.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 26,
+      "clube_casa": "Vasco",
+      "clube_casa_id": 267,
+      "clube_visitante": "São Paulo",
+      "clube_casa_abrev": "VAS",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2021/09/04/ESCUDO-VASCO-RGB_65px.png",
+      "clube_visitante_id": 276,
+      "clube_visitante_abrev": "SAO",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/sao_paulo_60x60.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2022/03/01/3abaa943f1546750dd057d6cb3559ce5_220x220.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2014/04/14/sao_paulo_60x60.png",
   "scouts": {
-    "rodada_id": 25,
+    "rodada_id": 26,
     "g": 9,
     "a": 2,
     "sg": 0,
@@ -240,9 +240,9 @@
     "pc": 0,
     "ps": 2,
     "v": 0,
-    "pontos_num": 17.5,
+    "pontos_num": 0,
     "preco_num": 16.64,
-    "variacao_num": 1.4,
+    "variacao_num": 0,
     "media_num": 6.47,
     "jogos_num": 18,
     "posicao_abrev": "ata",
