@@ -15,7 +15,8 @@
     23,
     24,
     25,
-    26
+    26,
+    27
   ],
   "pontos": [
     6.4,
@@ -27,7 +28,8 @@
     0,
     1.8,
     1.4,
-    8.7
+    8.7,
+    0.3
   ],
   "precos": [
     5.65,
@@ -39,7 +41,8 @@
     4.45,
     4.49,
     4.41,
-    5.87
+    5.87,
+    4.63
   ],
   "variacoes": [
     1.65,
@@ -51,7 +54,8 @@
     0,
     0.04,
     -0.08,
-    1.46
+    1.46,
+    -1.24
   ],
   "medias": [
     6.4,
@@ -63,7 +67,8 @@
     1.92,
     1.9,
     1.83,
-    2.69
+    2.69,
+    2.42
   ],
   "partidas": [
     {
@@ -195,24 +200,37 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/bahia_60x60.png",
       "placar_oficial_mandante": 4,
       "placar_oficial_visitante": 6
+    },
+    {
+      "rodada_id": 27,
+      "clube_casa": "Goiás",
+      "clube_casa_id": 290,
+      "clube_visitante": "São Paulo",
+      "clube_casa_abrev": "GOI",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2021/03/01/goias-65.png",
+      "clube_visitante_id": 276,
+      "clube_visitante_abrev": "SAO",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/sao_paulo_60x60.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/07/30/photo_220x220_a5PwXy3.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2021/03/01/goias-65.png",
   "scouts": {
-    "rodada_id": 26,
+    "rodada_id": 27,
     "g": 2,
     "a": 0,
     "sg": 0,
-    "fs": 9,
-    "ff": 3,
+    "fs": 10,
+    "ff": 4,
     "fd": 0,
     "ft": 0,
     "de": 0,
     "dp": 0,
     "gc": 0,
     "cv": 0,
-    "ca": 2,
+    "ca": 3,
     "pp": 0,
     "gs": 0,
     "fc": 9,
@@ -222,11 +240,11 @@
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 8.7,
-    "preco_num": 5.87,
-    "variacao_num": 1.46,
-    "media_num": 2.69,
-    "jogos_num": 8,
+    "pontos_num": 0.3,
+    "preco_num": 4.63,
+    "variacao_num": -1.24,
+    "media_num": 2.42,
+    "jogos_num": 9,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }

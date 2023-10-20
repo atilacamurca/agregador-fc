@@ -6,7 +6,6 @@
   "clube_id": 266,
   "posicao": "Zagueiro",
   "rodadas": [
-    16,
     17,
     18,
     19,
@@ -16,10 +15,10 @@
     23,
     24,
     25,
-    26
+    26,
+    27
   ],
   "pontos": [
-    1,
     5.6,
     0,
     0,
@@ -29,10 +28,10 @@
     0,
     4.9,
     0,
-    -0.2
+    -0.2,
+    0
   ],
   "precos": [
-    11.61,
     12.29,
     12.29,
     11.35,
@@ -42,10 +41,10 @@
     11.09,
     11.73,
     11.73,
+    10.76,
     10.76
   ],
   "variacoes": [
-    -0.77,
     0.68,
     0,
     -0.94,
@@ -55,10 +54,10 @@
     -0.13,
     0.64,
     0,
-    -0.97
+    -0.97,
+    0
   ],
   "medias": [
-    4.1,
     4.19,
     4.19,
     3.94,
@@ -68,22 +67,10 @@
     3.6,
     3.66,
     3.66,
+    3.48,
     3.48
   ],
   "partidas": [
-    {
-      "rodada_id": 16,
-      "clube_casa": "Coritiba",
-      "clube_casa_id": 294,
-      "clube_visitante": "Fluminense",
-      "clube_casa_abrev": "COR",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2017/03/29/coritiba65.png",
-      "clube_visitante_id": 266,
-      "clube_visitante_abrev": "FLU",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/fluminense_60x60.png",
-      "placar_oficial_mandante": 2,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 17,
       "clube_casa": "Fluminense",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-65.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 27,
+      "clube_casa": "Fluminense",
+      "clube_casa_id": 266,
+      "clube_visitante": "Corinthians",
+      "clube_casa_abrev": "FLU",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/fluminense_60x60.png",
+      "clube_visitante_id": 264,
+      "clube_visitante_abrev": "COR",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/09/30/Corinthians_65.png",
+      "placar_oficial_mandante": 3,
+      "placar_oficial_visitante": 3
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/05/09/photo_220x220_U5c1E7V.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2014/04/14/fluminense_60x60.png",
   "scouts": {
-    "rodada_id": 26,
+    "rodada_id": 27,
     "g": 2,
     "a": 0,
     "sg": 8,
@@ -240,9 +240,9 @@
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": -0.2,
+    "pontos_num": 0,
     "preco_num": 10.76,
-    "variacao_num": -0.97,
+    "variacao_num": 0,
     "media_num": 3.48,
     "jogos_num": 21,
     "posicao_abrev": "zag",

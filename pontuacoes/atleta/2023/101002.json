@@ -6,7 +6,6 @@
   "clube_id": 263,
   "posicao": "Atacante",
   "rodadas": [
-    16,
     17,
     18,
     19,
@@ -16,10 +15,10 @@
     23,
     24,
     25,
-    26
+    26,
+    27
   ],
   "pontos": [
-    2.5,
     2.4,
     2,
     1.7,
@@ -29,10 +28,10 @@
     0,
     2.4,
     0.7,
-    15.9
+    15.9,
+    16.4
   ],
   "precos": [
-    7.12,
     7.09,
     7.06,
     7.02,
@@ -42,10 +41,10 @@
     7.18,
     7.07,
     6.76,
-    9.3
+    9.3,
+    9.73
   ],
   "variacoes": [
-    0.12,
     -0.03,
     -0.03,
     -0.04,
@@ -55,10 +54,10 @@
     0.48,
     -0.11,
     -0.31,
-    2.54
+    2.54,
+    0.43
   ],
   "medias": [
-    3.07,
     3.03,
     2.97,
     2.9,
@@ -68,22 +67,10 @@
     2.75,
     2.73,
     2.65,
-    3.18
+    3.18,
+    3.69
   ],
   "partidas": [
-    {
-      "rodada_id": 16,
-      "clube_casa": "Santos",
-      "clube_casa_id": 277,
-      "clube_visitante": "Botafogo",
-      "clube_casa_abrev": "SAN",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/santos_60x60.png",
-      "clube_visitante_id": 263,
-      "clube_visitante_abrev": "BOT",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-65.png",
-      "placar_oficial_mandante": 2,
-      "placar_oficial_visitante": 2
-    },
     {
       "rodada_id": 17,
       "clube_casa": "Botafogo",
@@ -213,38 +200,51 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-65.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 27,
+      "clube_casa": "América-MG",
+      "clube_casa_id": 327,
+      "clube_visitante": "Botafogo",
+      "clube_casa_abrev": "AME",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2019/02/28/escudo65_1.png",
+      "clube_visitante_id": 263,
+      "clube_visitante_abrev": "BOT",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-65.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/03/31/photo_220x220_20JkUu3.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-65.png",
   "scouts": {
-    "rodada_id": 26,
-    "g": 3,
+    "rodada_id": 27,
+    "g": 5,
     "a": 1,
     "sg": 0,
     "fs": 19,
-    "ff": 15,
+    "ff": 16,
     "fd": 9,
     "ft": 0,
     "de": 0,
     "dp": 0,
     "gc": 0,
     "cv": 0,
-    "ca": 0,
+    "ca": 1,
     "pp": 0,
     "gs": 0,
-    "fc": 25,
+    "fc": 27,
     "i": 3,
-    "ds": 21,
+    "ds": 22,
     "pi": 0,
     "pc": 0,
     "ps": 1,
     "v": 0,
-    "pontos_num": 15.9,
-    "preco_num": 9.3,
-    "variacao_num": 2.54,
-    "media_num": 3.18,
-    "jogos_num": 25,
+    "pontos_num": 16.4,
+    "preco_num": 9.73,
+    "variacao_num": 0.43,
+    "media_num": 3.69,
+    "jogos_num": 26,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }

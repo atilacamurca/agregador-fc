@@ -10,35 +10,40 @@
     23,
     24,
     25,
-    26
+    26,
+    27
   ],
   "pontos": [
     0,
     0,
     1.9,
     3.8,
-    0
+    0,
+    0.2
   ],
   "precos": [
     8,
     8,
     6.59,
     6.97,
-    6.13
+    6.13,
+    5.88
   ],
   "variacoes": [
     0,
     0,
     -1.41,
     0.38,
-    -0.84
+    -0.84,
+    -0.25
   ],
   "medias": [
     0,
     0,
     1.9,
     2.85,
-    1.9
+    1.9,
+    1.47
   ],
   "partidas": [
     {
@@ -105,16 +110,29 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/gremio_60x60.png",
       "placar_oficial_mandante": 3,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 27,
+      "clube_casa": "Bahia",
+      "clube_casa_id": 265,
+      "clube_visitante": "Internacional",
+      "clube_casa_abrev": "BAH",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/bahia_60x60.png",
+      "clube_visitante_id": 285,
+      "clube_visitante_abrev": "INT",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2016/05/03/inter65.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/09/06/photo_220x220_uXyVm0t.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2016/05/03/inter65.png",
   "scouts": {
-    "rodada_id": 26,
+    "rodada_id": 27,
     "g": 0,
     "a": 0,
     "sg": 0,
-    "fs": 2,
+    "fs": 3,
     "ff": 1,
     "fd": 0,
     "ft": 0,
@@ -125,18 +143,18 @@
     "ca": 0,
     "pp": 0,
     "gs": 0,
-    "fc": 3,
+    "fc": 4,
     "i": 0,
     "ds": 4,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 0,
-    "preco_num": 6.13,
-    "variacao_num": -0.84,
-    "media_num": 1.9,
-    "jogos_num": 3,
+    "pontos_num": 0.2,
+    "preco_num": 5.88,
+    "variacao_num": -0.25,
+    "media_num": 1.47,
+    "jogos_num": 4,
     "posicao_abrev": "lat",
     "posicao": "Lateral"
   }
