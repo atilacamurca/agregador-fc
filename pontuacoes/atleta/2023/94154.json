@@ -6,7 +6,6 @@
   "clube_id": 264,
   "posicao": "Meia",
   "rodadas": [
-    17,
     18,
     19,
     20,
@@ -16,10 +15,10 @@
     24,
     25,
     26,
-    27
+    27,
+    28
   ],
   "pontos": [
-    12.5,
     2,
     3.7,
     0,
@@ -29,10 +28,10 @@
     3,
     -0.7,
     1.2,
-    9.9
+    9.9,
+    0
   ],
   "precos": [
-    6.06,
     4.66,
     5,
     5,
@@ -42,10 +41,10 @@
     5.09,
     4.47,
     4.73,
+    6.19,
     6.19
   ],
   "variacoes": [
-    2.16,
     -1.4,
     0.34,
     0,
@@ -55,10 +54,10 @@
     0.57,
     -0.62,
     0.26,
-    1.46
+    1.46,
+    0
   ],
   "medias": [
-    2.57,
     2.53,
     2.6,
     2.6,
@@ -68,22 +67,10 @@
     2.78,
     2.61,
     2.54,
+    2.87,
     2.87
   ],
   "partidas": [
-    {
-      "rodada_id": 17,
-      "clube_casa": "Corinthians",
-      "clube_casa_id": 264,
-      "clube_visitante": "Vasco",
-      "clube_casa_abrev": "COR",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2019/09/30/Corinthians_65.png",
-      "clube_visitante_id": 267,
-      "clube_visitante_abrev": "VAS",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/09/04/ESCUDO-VASCO-RGB_65px.png",
-      "placar_oficial_mandante": 3,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 18,
       "clube_casa": "Internacional",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/09/30/Corinthians_65.png",
       "placar_oficial_mandante": 3,
       "placar_oficial_visitante": 3
+    },
+    {
+      "rodada_id": 28,
+      "clube_casa": "Corinthians",
+      "clube_casa_id": 264,
+      "clube_visitante": "América-MG",
+      "clube_casa_abrev": "COR",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2019/09/30/Corinthians_65.png",
+      "clube_visitante_id": 327,
+      "clube_visitante_abrev": "AME",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/02/28/escudo65_1.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/03/02/photo_220x220_R7Bbn2S.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2019/09/30/Corinthians_65.png",
   "scouts": {
-    "rodada_id": 27,
+    "rodada_id": 28,
     "g": 2,
     "a": 2,
     "sg": 0,
@@ -240,9 +240,9 @@
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 9.9,
+    "pontos_num": 0,
     "preco_num": 6.19,
-    "variacao_num": 1.46,
+    "variacao_num": 0,
     "media_num": 2.87,
     "jogos_num": 22,
     "posicao_abrev": "mei",

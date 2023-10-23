@@ -6,19 +6,24 @@
   "clube_id": 284,
   "posicao": "Meia",
   "rodadas": [
-    27
+    27,
+    28
   ],
   "pontos": [
-    2.1
+    2.1,
+    1.8
   ],
   "precos": [
-    1.67
+    1.67,
+    2.03
   ],
   "variacoes": [
-    0.67
+    0.67,
+    0.36
   ],
   "medias": [
-    2.1
+    2.1,
+    1.95
   ],
   "partidas": [
     {
@@ -33,16 +38,29 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/09/09/Athletico-PR-65x65.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 28,
+      "clube_casa": "São Paulo",
+      "clube_casa_id": 276,
+      "clube_visitante": "Grêmio",
+      "clube_casa_abrev": "SAO",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/sao_paulo_60x60.png",
+      "clube_visitante_id": 284,
+      "clube_visitante_abrev": "GRE",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/gremio_60x60.png",
+      "placar_oficial_mandante": 3,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/10/18/photo_220x220_NEIHiTq.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2014/04/14/gremio_60x60.png",
   "scouts": {
-    "rodada_id": 27,
+    "rodada_id": 28,
     "g": 0,
     "a": 0,
     "sg": 0,
-    "fs": 0,
+    "fs": 2,
     "ff": 0,
     "fd": 0,
     "ft": 0,
@@ -50,21 +68,21 @@
     "dp": 0,
     "gc": 0,
     "cv": 0,
-    "ca": 0,
+    "ca": 1,
     "pp": 0,
     "gs": 0,
-    "fc": 1,
+    "fc": 3,
     "i": 0,
-    "ds": 2,
+    "ds": 4,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 2.1,
-    "preco_num": 1.67,
-    "variacao_num": 0.67,
-    "media_num": 2.1,
-    "jogos_num": 1,
+    "pontos_num": 1.8,
+    "preco_num": 2.03,
+    "variacao_num": 0.36,
+    "media_num": 1.95,
+    "jogos_num": 2,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }

@@ -11,7 +11,8 @@
     24,
     25,
     26,
-    27
+    27,
+    28
   ],
   "pontos": [
     0,
@@ -19,7 +20,8 @@
     1.9,
     3.8,
     0,
-    0.2
+    0.2,
+    0
   ],
   "precos": [
     8,
@@ -27,6 +29,7 @@
     6.59,
     6.97,
     6.13,
+    5.88,
     5.88
   ],
   "variacoes": [
@@ -35,7 +38,8 @@
     -1.41,
     0.38,
     -0.84,
-    -0.25
+    -0.25,
+    0
   ],
   "medias": [
     0,
@@ -43,6 +47,7 @@
     1.9,
     2.85,
     1.9,
+    1.47,
     1.47
   ],
   "partidas": [
@@ -123,12 +128,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2016/05/03/inter65.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 28,
+      "clube_casa": "Internacional",
+      "clube_casa_id": 285,
+      "clube_visitante": "Santos",
+      "clube_casa_abrev": "INT",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2016/05/03/inter65.png",
+      "clube_visitante_id": 277,
+      "clube_visitante_abrev": "SAN",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/santos_60x60.png",
+      "placar_oficial_mandante": 7,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/09/06/photo_220x220_uXyVm0t.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2016/05/03/inter65.png",
   "scouts": {
-    "rodada_id": 27,
+    "rodada_id": 28,
     "g": 0,
     "a": 0,
     "sg": 0,
@@ -150,9 +168,9 @@
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 0.2,
+    "pontos_num": 0,
     "preco_num": 5.88,
-    "variacao_num": -0.25,
+    "variacao_num": 0,
     "media_num": 1.47,
     "jogos_num": 4,
     "posicao_abrev": "lat",
