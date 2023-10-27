@@ -6,7 +6,6 @@
   "clube_id": 283,
   "posicao": "Atacante",
   "rodadas": [
-    18,
     19,
     20,
     21,
@@ -16,10 +15,10 @@
     25,
     26,
     27,
-    28
+    28,
+    29
   ],
   "pontos": [
-    0,
     2.5,
     6.2,
     -0.3,
@@ -29,10 +28,10 @@
     -1.4,
     0,
     3.9,
-    3.5
+    3.5,
+    16
   ],
   "precos": [
-    12.8,
     12.26,
     12.83,
     11.76,
@@ -42,10 +41,10 @@
     11.59,
     11.59,
     12.21,
-    12.2
+    12.2,
+    14.26
   ],
   "variacoes": [
-    0,
     -0.54,
     0.57,
     -1.07,
@@ -55,10 +54,10 @@
     -0.45,
     0,
     0.62,
-    -0.01
+    -0.01,
+    2.06
   ],
   "medias": [
-    5.94,
     5.74,
     5.77,
     5.45,
@@ -68,22 +67,10 @@
     5.04,
     5.04,
     4.99,
-    4.93
+    4.93,
+    5.36
   ],
   "partidas": [
-    {
-      "rodada_id": 18,
-      "clube_casa": "Cruzeiro",
-      "clube_casa_id": 283,
-      "clube_visitante": "Botafogo",
-      "clube_casa_abrev": "CRU",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2021/02/13/65_cruzeiro-2021.png",
-      "clube_visitante_id": 263,
-      "clube_visitante_abrev": "BOT",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-65.png",
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 19,
       "clube_casa": "Palmeiras",
@@ -213,19 +200,32 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/02/13/65_cruzeiro-2021.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 29,
+      "clube_casa": "Cruzeiro",
+      "clube_casa_id": 283,
+      "clube_visitante": "Bahia",
+      "clube_casa_abrev": "CRU",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2021/02/13/65_cruzeiro-2021.png",
+      "clube_visitante_id": 265,
+      "clube_visitante_abrev": "BAH",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/bahia_60x60.png",
+      "placar_oficial_mandante": 3,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/03/01/photo_220x220_xfgmkoy.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2021/02/13/65_cruzeiro-2021.png",
   "scouts": {
-    "rodada_id": 28,
-    "g": 4,
+    "rodada_id": 29,
+    "g": 5,
     "a": 3,
     "sg": 0,
     "fs": 43,
-    "ff": 25,
+    "ff": 28,
     "fd": 15,
-    "ft": 1,
+    "ft": 2,
     "de": 0,
     "dp": 0,
     "gc": 0,
@@ -233,18 +233,18 @@
     "ca": 3,
     "pp": 1,
     "gs": 0,
-    "fc": 16,
-    "i": 18,
-    "ds": 22,
+    "fc": 19,
+    "i": 19,
+    "ds": 25,
     "pi": 0,
     "pc": 0,
     "ps": 1,
     "v": 0,
-    "pontos_num": 3.5,
-    "preco_num": 12.2,
-    "variacao_num": -0.01,
-    "media_num": 4.93,
-    "jogos_num": 25,
+    "pontos_num": 16,
+    "preco_num": 14.26,
+    "variacao_num": 2.06,
+    "media_num": 5.36,
+    "jogos_num": 26,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }

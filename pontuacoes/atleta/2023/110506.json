@@ -6,7 +6,6 @@
   "clube_id": 275,
   "posicao": "Técnico",
   "rodadas": [
-    18,
     19,
     20,
     21,
@@ -16,10 +15,10 @@
     25,
     26,
     27,
-    28
+    28,
+    29
   ],
   "pontos": [
-    4.55,
     7.78,
     7.95,
     7.45,
@@ -29,10 +28,10 @@
     4.29,
     4.57,
     2.2,
-    9.43
+    9.43,
+    12.09
   ],
   "precos": [
-    13.73,
     14.35,
     14.47,
     14.48,
@@ -42,10 +41,10 @@
     14.22,
     14.24,
     13.82,
-    15.05
+    15.05,
+    15.57
   ],
   "variacoes": [
-    -0.59,
     0.62,
     0.12,
     0.01,
@@ -55,10 +54,10 @@
     0.16,
     0.02,
     -0.42,
-    1.23
+    1.23,
+    0.52
   ],
   "medias": [
-    5.9,
     6,
     6.1,
     6.16,
@@ -68,22 +67,10 @@
     5.98,
     5.93,
     5.79,
-    5.92
+    5.92,
+    6.13
   ],
   "partidas": [
-    {
-      "rodada_id": 18,
-      "clube_casa": "Fluminense",
-      "clube_casa_id": 266,
-      "clube_visitante": "Palmeiras",
-      "clube_casa_abrev": "FLU",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/fluminense_60x60.png",
-      "clube_visitante_id": 275,
-      "clube_visitante_abrev": "PAL",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/palmeiras_60x60.png",
-      "placar_oficial_mandante": 2,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 19,
       "clube_casa": "Palmeiras",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/palmeiras_60x60.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 29,
+      "clube_casa": "Palmeiras",
+      "clube_casa_id": 275,
+      "clube_visitante": "São Paulo",
+      "clube_casa_abrev": "PAL",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/palmeiras_60x60.png",
+      "clube_visitante_id": 276,
+      "clube_visitante_abrev": "SAO",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/sao_paulo_60x60.png",
+      "placar_oficial_mandante": 5,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2021/04/27/574e87d52be9d06fd03fa69fefb60255_220x220.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2014/04/14/palmeiras_60x60.png",
   "scouts": {
-    "rodada_id": 28,
+    "rodada_id": 29,
     "g": 0,
     "a": 0,
     "sg": 0,
@@ -239,12 +239,12 @@
     "pi": 0,
     "pc": 0,
     "ps": 0,
-    "v": 13,
-    "pontos_num": 9.43,
-    "preco_num": 15.05,
-    "variacao_num": 1.23,
-    "media_num": 5.92,
-    "jogos_num": 28,
+    "v": 14,
+    "pontos_num": 12.09,
+    "preco_num": 15.57,
+    "variacao_num": 0.52,
+    "media_num": 6.13,
+    "jogos_num": 29,
     "posicao_abrev": "tec",
     "posicao": "Técnico"
   }

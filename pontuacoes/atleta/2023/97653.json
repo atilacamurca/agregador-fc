@@ -6,7 +6,6 @@
   "clube_id": 275,
   "posicao": "Zagueiro",
   "rodadas": [
-    18,
     19,
     20,
     21,
@@ -16,10 +15,10 @@
     25,
     26,
     27,
-    28
+    28,
+    29
   ],
   "pontos": [
-    0,
     9.1,
     4.6,
     4.9,
@@ -29,10 +28,10 @@
     0,
     0.8,
     4.5,
-    6.1
+    6.1,
+    6.7
   ],
   "precos": [
-    9.83,
     10.11,
     9.51,
     9.6,
@@ -42,10 +41,10 @@
     9.74,
     8.93,
     9.48,
-    9.83
+    9.83,
+    9.98
   ],
   "variacoes": [
-    0,
     0.28,
     -0.6,
     0.09,
@@ -55,10 +54,10 @@
     0,
     -0.81,
     0.55,
-    0.35
+    0.35,
+    0.15
   ],
   "medias": [
-    3.71,
     4.31,
     4.34,
     4.39,
@@ -68,22 +67,10 @@
     4.3,
     4.05,
     4.08,
-    4.21
+    4.21,
+    4.36
   ],
   "partidas": [
-    {
-      "rodada_id": 18,
-      "clube_casa": "Fluminense",
-      "clube_casa_id": 266,
-      "clube_visitante": "Palmeiras",
-      "clube_casa_abrev": "FLU",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/fluminense_60x60.png",
-      "clube_visitante_id": 275,
-      "clube_visitante_abrev": "PAL",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/palmeiras_60x60.png",
-      "placar_oficial_mandante": 2,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 19,
       "clube_casa": "Palmeiras",
@@ -213,16 +200,29 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/palmeiras_60x60.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 29,
+      "clube_casa": "Palmeiras",
+      "clube_casa_id": 275,
+      "clube_visitante": "São Paulo",
+      "clube_casa_abrev": "PAL",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/palmeiras_60x60.png",
+      "clube_visitante_id": 276,
+      "clube_visitante_abrev": "SAO",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/sao_paulo_60x60.png",
+      "placar_oficial_mandante": 5,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/03/15/photo_220x220_gy90S45.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2014/04/14/palmeiras_60x60.png",
   "scouts": {
-    "rodada_id": 28,
+    "rodada_id": 29,
     "g": 2,
     "a": 0,
-    "sg": 6,
-    "fs": 8,
+    "sg": 7,
+    "fs": 9,
     "ff": 1,
     "fd": 2,
     "ft": 0,
@@ -235,16 +235,16 @@
     "gs": 0,
     "fc": 20,
     "i": 1,
-    "ds": 21,
+    "ds": 22,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 6.1,
-    "preco_num": 9.83,
-    "variacao_num": 0.35,
-    "media_num": 4.21,
-    "jogos_num": 16,
+    "pontos_num": 6.7,
+    "preco_num": 9.98,
+    "variacao_num": 0.15,
+    "media_num": 4.36,
+    "jogos_num": 17,
     "posicao_abrev": "zag",
     "posicao": "Zagueiro"
   }
