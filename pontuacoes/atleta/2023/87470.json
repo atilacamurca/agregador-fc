@@ -6,7 +6,6 @@
   "clube_id": 265,
   "posicao": "Meia",
   "rodadas": [
-    19,
     20,
     21,
     22,
@@ -16,10 +15,10 @@
     26,
     27,
     28,
-    29
+    29,
+    30
   ],
   "pontos": [
-    2.1,
     4.3,
     -0.4,
     3.3,
@@ -29,10 +28,10 @@
     6.4,
     3.5,
     -0.3,
-    1.2
+    1.2,
+    0
   ],
   "precos": [
-    11.06,
     11.36,
     10.56,
     11.18,
@@ -42,10 +41,10 @@
     11.93,
     11.49,
     10.89,
+    11.01,
     11.01
   ],
   "variacoes": [
-    0.25,
     0.3,
     -0.8,
     0.62,
@@ -55,10 +54,10 @@
     -0.09,
     -0.44,
     -0.6,
-    0.12
+    0.12,
+    0
   ],
   "medias": [
-    4.56,
     4.55,
     4.3,
     4.25,
@@ -68,22 +67,10 @@
     4.75,
     4.7,
     4.51,
+    4.39,
     4.39
   ],
   "partidas": [
-    {
-      "rodada_id": 19,
-      "clube_casa": "Atlético-MG",
-      "clube_casa_id": 282,
-      "clube_visitante": "Bahia",
-      "clube_casa_abrev": "ATL",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2017/11/23/Atletico-Mineiro-escudo65px.png",
-      "clube_visitante_id": 265,
-      "clube_visitante_abrev": "BAH",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/bahia_60x60.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 20,
       "clube_casa": "Bahia",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/bahia_60x60.png",
       "placar_oficial_mandante": 3,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 30,
+      "clube_casa": "Palmeiras",
+      "clube_casa_id": 275,
+      "clube_visitante": "Bahia",
+      "clube_casa_abrev": "PAL",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/palmeiras_60x60.png",
+      "clube_visitante_id": 265,
+      "clube_visitante_abrev": "BAH",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/bahia_60x60.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/03/31/photo_220x220_dQGg2S1.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2014/04/14/bahia_60x60.png",
   "scouts": {
-    "rodada_id": 29,
+    "rodada_id": 30,
     "g": 3,
     "a": 3,
     "sg": 0,
@@ -240,9 +240,9 @@
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 1.2,
+    "pontos_num": 0,
     "preco_num": 11.01,
-    "variacao_num": 0.12,
+    "variacao_num": 0,
     "media_num": 4.39,
     "jogos_num": 27,
     "posicao_abrev": "mei",

@@ -6,7 +6,6 @@
   "clube_id": 293,
   "posicao": "Zagueiro",
   "rodadas": [
-    19,
     20,
     21,
     22,
@@ -16,10 +15,10 @@
     26,
     27,
     28,
-    29
+    29,
+    30
   ],
   "pontos": [
-    0,
     0,
     0,
     0,
@@ -29,6 +28,7 @@
     2.9,
     7,
     -0.8,
+    0,
     0
   ],
   "precos": [
@@ -38,10 +38,10 @@
     4.13,
     4.13,
     4.13,
-    4.13,
     3.67,
     4.41,
     3.25,
+    3.33,
     3.33
   ],
   "variacoes": [
@@ -51,14 +51,13 @@
     0,
     0,
     0,
-    0,
     -0.46,
     0.74,
     -1.16,
-    0.08
+    0.08,
+    0
   ],
   "medias": [
-    4.8,
     4.8,
     4.8,
     4.8,
@@ -68,22 +67,10 @@
     4.17,
     4.88,
     3.74,
+    3.12,
     3.12
   ],
   "partidas": [
-    {
-      "rodada_id": 19,
-      "clube_casa": "Athlético-PR",
-      "clube_casa_id": 293,
-      "clube_visitante": "Cuiabá",
-      "clube_casa_abrev": "ATL",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2019/09/09/Athletico-PR-65x65.png",
-      "clube_visitante_id": 1371,
-      "clube_visitante_abrev": "CUI",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/16/cuiaba65.png",
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 20,
       "clube_casa": "Goiás",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/02/28/escudo65_1.png",
       "placar_oficial_mandante": 3,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 30,
+      "clube_casa": "Athlético-PR",
+      "clube_casa_id": 293,
+      "clube_visitante": "São Paulo",
+      "clube_casa_abrev": "ATL",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2019/09/09/Athletico-PR-65x65.png",
+      "clube_visitante_id": 276,
+      "clube_visitante_abrev": "SAO",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/sao_paulo_60x60.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/02/28/photo_220x220_TAU79Yo.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2019/09/09/Athletico-PR-65x65.png",
   "scouts": {
-    "rodada_id": 29,
+    "rodada_id": 30,
     "g": 1,
     "a": 0,
     "sg": 1,
@@ -242,7 +242,7 @@
     "v": 0,
     "pontos_num": 0,
     "preco_num": 3.33,
-    "variacao_num": 0.08,
+    "variacao_num": 0,
     "media_num": 3.12,
     "jogos_num": 6,
     "posicao_abrev": "zag",
