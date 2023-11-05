@@ -6,7 +6,6 @@
   "clube_id": 282,
   "posicao": "Atacante",
   "rodadas": [
-    20,
     21,
     22,
     23,
@@ -16,11 +15,11 @@
     27,
     28,
     29,
-    30
+    30,
+    31
   ],
   "pontos": [
     0,
-    0,
     -0.3,
     0,
     0,
@@ -28,11 +27,11 @@
     0,
     0,
     -0.3,
+    0,
     0,
     0
   ],
   "precos": [
-    4.22,
     4.17,
     4.11,
     4.35,
@@ -42,10 +41,10 @@
     4.02,
     3.91,
     3.91,
+    3.91,
     3.91
   ],
   "variacoes": [
-    -0.14,
     -0.05,
     -0.06,
     0.24,
@@ -55,10 +54,10 @@
     0,
     -0.11,
     0,
+    0,
     0
   ],
   "medias": [
-    1.47,
     1.26,
     1.06,
     1.11,
@@ -68,22 +67,10 @@
     0.91,
     0.81,
     0.81,
+    0.81,
     0.81
   ],
   "partidas": [
-    {
-      "rodada_id": 20,
-      "clube_casa": "Vasco",
-      "clube_casa_id": 267,
-      "clube_visitante": "Atlético-MG",
-      "clube_casa_abrev": "VAS",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2021/09/04/ESCUDO-VASCO-RGB_65px.png",
-      "clube_visitante_id": 282,
-      "clube_visitante_abrev": "ATL",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2017/11/23/Atletico-Mineiro-escudo65px.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 21,
       "clube_casa": "Atlético-MG",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/fluminense_60x60.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 31,
+      "clube_casa": "Atlético-MG",
+      "clube_casa_id": 282,
+      "clube_visitante": "Fortaleza",
+      "clube_casa_abrev": "ATL",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2017/11/23/Atletico-Mineiro-escudo65px.png",
+      "clube_visitante_id": 356,
+      "clube_visitante_abrev": "FOR",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/09/19/65_0000_Fortaleza-2021.png",
+      "placar_oficial_mandante": 3,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/03/31/photo_220x220_vFJpxe5.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2017/11/23/Atletico-Mineiro-escudo65px.png",
   "scouts": {
-    "rodada_id": 30,
+    "rodada_id": 31,
     "g": 1,
     "a": 0,
     "sg": 0,
