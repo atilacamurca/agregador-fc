@@ -6,7 +6,6 @@
   "clube_id": 280,
   "posicao": "Meia",
   "rodadas": [
-    21,
     22,
     23,
     24,
@@ -16,14 +15,15 @@
     28,
     29,
     30,
-    31
+    31,
+    32
   ],
   "pontos": [
     0,
     0,
     0,
-    0,
     0.5,
+    0,
     0,
     0,
     0,
@@ -35,7 +35,7 @@
     8.23,
     8.23,
     8.23,
-    8.23,
+    7.96,
     7.96,
     7.96,
     7.96,
@@ -48,8 +48,8 @@
     0,
     0,
     0,
-    0,
     -0.27,
+    0,
     0,
     0,
     0,
@@ -61,7 +61,7 @@
     3.17,
     3.17,
     3.17,
-    3.17,
+    2.96,
     2.96,
     2.96,
     2.96,
@@ -71,19 +71,6 @@
     2.96
   ],
   "partidas": [
-    {
-      "rodada_id": 21,
-      "clube_casa": "Bragantino",
-      "clube_casa_id": 280,
-      "clube_visitante": "Cuiabá",
-      "clube_casa_abrev": "BRA",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2020/01/01/65.png",
-      "clube_visitante_id": 1371,
-      "clube_visitante_abrev": "CUI",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/16/cuiaba65.png",
-      "placar_oficial_mandante": 2,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 22,
       "clube_casa": "Cruzeiro",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2020/01/01/65.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 32,
+      "clube_casa": "Bragantino",
+      "clube_casa_id": 280,
+      "clube_visitante": "Corinthians",
+      "clube_casa_abrev": "BRA",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2020/01/01/65.png",
+      "clube_visitante_id": 264,
+      "clube_visitante_abrev": "COR",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/09/30/Corinthians_65.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2022/05/05/f1f155231d0b75984084fb05c52de0db_220x220.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2020/01/01/65.png",
   "scouts": {
-    "rodada_id": 31,
+    "rodada_id": 32,
     "g": 2,
     "a": 1,
     "sg": 0,

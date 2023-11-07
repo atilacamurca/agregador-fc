@@ -15,7 +15,8 @@
     28,
     29,
     30,
-    31
+    31,
+    32
   ],
   "pontos": [
     0,
@@ -27,6 +28,7 @@
     8.5,
     0.5,
     2.7,
+    0,
     0
   ],
   "precos": [
@@ -39,7 +41,8 @@
     5.89,
     4.72,
     5.12,
-    4.76
+    4.76,
+    4.56
   ],
   "variacoes": [
     0,
@@ -51,7 +54,8 @@
     1.19,
     -1.17,
     0.4,
-    -0.36
+    -0.36,
+    -0.2
   ],
   "medias": [
     0,
@@ -63,7 +67,8 @@
     6.77,
     5.2,
     4.7,
-    4.02
+    4.02,
+    3.45
   ],
   "partidas": [
     {
@@ -195,12 +200,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/santos_60x60.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 32,
+      "clube_casa": "Santos",
+      "clube_casa_id": 277,
+      "clube_visitante": "Cuiabá",
+      "clube_casa_abrev": "SAN",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/santos_60x60.png",
+      "clube_visitante_id": 1371,
+      "clube_visitante_abrev": "CUI",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/16/cuiaba65.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/08/30/photo_220x220_DYNlrRE.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2014/04/14/santos_60x60.png",
   "scouts": {
-    "rodada_id": 31,
+    "rodada_id": 32,
     "g": 1,
     "a": 1,
     "sg": 0,
@@ -223,10 +241,10 @@
     "ps": 0,
     "v": 0,
     "pontos_num": 0,
-    "preco_num": 4.76,
-    "variacao_num": -0.36,
-    "media_num": 4.02,
-    "jogos_num": 6,
+    "preco_num": 4.56,
+    "variacao_num": -0.2,
+    "media_num": 3.45,
+    "jogos_num": 7,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }

@@ -6,7 +6,6 @@
   "clube_id": 262,
   "posicao": "Meia",
   "rodadas": [
-    21,
     22,
     23,
     24,
@@ -16,10 +15,10 @@
     28,
     29,
     30,
-    31
+    31,
+    32
   ],
   "pontos": [
-    0,
     -0.3,
     0,
     1.7,
@@ -29,10 +28,10 @@
     9,
     3.2,
     0,
+    0,
     0
   ],
   "precos": [
-    11.85,
     10.61,
     10.72,
     10.79,
@@ -42,10 +41,10 @@
     12.06,
     11.18,
     11.18,
+    10.4,
     10.4
   ],
   "variacoes": [
-    0,
     -1.24,
     0.11,
     0.07,
@@ -55,10 +54,10 @@
     1.05,
     -0.88,
     0,
-    -0.78
+    -0.78,
+    0
   ],
   "medias": [
-    5.41,
     5.07,
     4.86,
     4.69,
@@ -68,22 +67,10 @@
     4.91,
     4.84,
     4.84,
+    4.59,
     4.59
   ],
   "partidas": [
-    {
-      "rodada_id": 21,
-      "clube_casa": "Flamengo",
-      "clube_casa_id": 262,
-      "clube_visitante": "Internacional",
-      "clube_casa_abrev": "FLA",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2018/04/09/Flamengo-65.png",
-      "clube_visitante_id": 285,
-      "clube_visitante_abrev": "INT",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2016/05/03/inter65.png",
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 22,
       "clube_casa": "Botafogo",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/santos_60x60.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 32,
+      "clube_casa": "Fortaleza",
+      "clube_casa_id": 356,
+      "clube_visitante": "Flamengo",
+      "clube_casa_abrev": "FOR",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2021/09/19/65_0000_Fortaleza-2021.png",
+      "clube_visitante_id": 262,
+      "clube_visitante_abrev": "FLA",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2018/04/09/Flamengo-65.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/04/11/photo_220x220_UpueHtq.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2018/04/09/Flamengo-65.png",
   "scouts": {
-    "rodada_id": 31,
+    "rodada_id": 32,
     "g": 5,
     "a": 5,
     "sg": 0,
@@ -242,7 +242,7 @@
     "v": 0,
     "pontos_num": 0,
     "preco_num": 10.4,
-    "variacao_num": -0.78,
+    "variacao_num": 0,
     "media_num": 4.59,
     "jogos_num": 25,
     "posicao_abrev": "mei",

@@ -6,7 +6,6 @@
   "clube_id": 1371,
   "posicao": "Atacante",
   "rodadas": [
-    21,
     22,
     23,
     24,
@@ -16,10 +15,10 @@
     28,
     29,
     30,
-    31
+    31,
+    32
   ],
   "pontos": [
-    3.7,
     4.1,
     0,
     2.6,
@@ -29,10 +28,10 @@
     1.2,
     3.4,
     4.3,
+    0,
     0
   ],
   "precos": [
-    8.27,
     8.46,
     9.81,
     8.54,
@@ -42,10 +41,10 @@
     8.54,
     8.85,
     9.06,
-    9.21
+    9.21,
+    8.39
   ],
   "variacoes": [
-    0.36,
     0.19,
     1.35,
     -1.27,
@@ -55,10 +54,10 @@
     -1.24,
     0.31,
     0.21,
-    0.15
+    0.15,
+    -0.82
   ],
   "medias": [
-    5.51,
     5.44,
     5.75,
     5.61,
@@ -68,22 +67,10 @@
     5.65,
     5.56,
     5.51,
-    5.49
+    5.49,
+    5.3
   ],
   "partidas": [
-    {
-      "rodada_id": 21,
-      "clube_casa": "Bragantino",
-      "clube_casa_id": 280,
-      "clube_visitante": "Cuiabá",
-      "clube_casa_abrev": "BRA",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2020/01/01/65.png",
-      "clube_visitante_id": 1371,
-      "clube_visitante_abrev": "CUI",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/16/cuiaba65.png",
-      "placar_oficial_mandante": 2,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 22,
       "clube_casa": "Grêmio",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/09/04/ESCUDO-VASCO-RGB_65px.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 32,
+      "clube_casa": "Santos",
+      "clube_casa_id": 277,
+      "clube_visitante": "Cuiabá",
+      "clube_casa_abrev": "SAN",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/santos_60x60.png",
+      "clube_visitante_id": 1371,
+      "clube_visitante_abrev": "CUI",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/16/cuiaba65.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/03/06/photo_220x220_AvLd8xm.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2014/04/16/cuiaba65.png",
   "scouts": {
-    "rodada_id": 31,
+    "rodada_id": 32,
     "g": 10,
     "a": 2,
     "sg": 0,
@@ -241,10 +241,10 @@
     "ps": 1,
     "v": 0,
     "pontos_num": 0,
-    "preco_num": 9.21,
-    "variacao_num": 0.15,
-    "media_num": 5.49,
-    "jogos_num": 28,
+    "preco_num": 8.39,
+    "variacao_num": -0.82,
+    "media_num": 5.3,
+    "jogos_num": 29,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }
