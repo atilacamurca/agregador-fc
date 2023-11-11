@@ -6,7 +6,6 @@
   "clube_id": 264,
   "posicao": "Atacante",
   "rodadas": [
-    22,
     23,
     24,
     25,
@@ -16,10 +15,10 @@
     29,
     30,
     31,
-    32
+    32,
+    33
   ],
   "pontos": [
-    4.3,
     0,
     0.5,
     0,
@@ -29,10 +28,10 @@
     3,
     5.7,
     0,
-    0.4
+    0.4,
+    8.3
   ],
   "precos": [
-    10.3,
     9.94,
     9.67,
     9.67,
@@ -42,10 +41,10 @@
     10.29,
     10.78,
     11.92,
-    10.11
+    10.11,
+    11.27
   ],
   "variacoes": [
-    -0.01,
     -0.36,
     -0.27,
     0,
@@ -55,10 +54,10 @@
     -0.02,
     0.49,
     1.14,
-    -1.81
+    -1.81,
+    1.16
   ],
   "medias": [
-    4.53,
     4.42,
     4.24,
     4.24,
@@ -68,22 +67,10 @@
     4.66,
     4.7,
     4.96,
-    4.8
+    4.8,
+    4.92
   ],
   "partidas": [
-    {
-      "rodada_id": 22,
-      "clube_casa": "Corinthians",
-      "clube_casa_id": 264,
-      "clube_visitante": "Palmeiras",
-      "clube_casa_abrev": "COR",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2019/09/30/Corinthians_65.png",
-      "clube_visitante_id": 275,
-      "clube_visitante_abrev": "PAL",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/palmeiras_60x60.png",
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 23,
       "clube_casa": "Fortaleza",
@@ -213,18 +200,31 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/09/30/Corinthians_65.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 33,
+      "clube_casa": "Corinthians",
+      "clube_casa_id": 264,
+      "clube_visitante": "Atlético-MG",
+      "clube_casa_abrev": "COR",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2019/09/30/Corinthians_65.png",
+      "clube_visitante_id": 282,
+      "clube_visitante_abrev": "ATL",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2017/11/23/Atletico-Mineiro-escudo65px.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/03/02/photo_220x220_QVzSGOZ.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2019/09/30/Corinthians_65.png",
   "scouts": {
-    "rodada_id": 32,
+    "rodada_id": 33,
     "g": 7,
     "a": 2,
     "sg": 0,
-    "fs": 56,
-    "ff": 22,
-    "fd": 15,
+    "fs": 63,
+    "ff": 24,
+    "fd": 18,
     "ft": 2,
     "de": 0,
     "dp": 0,
@@ -233,18 +233,18 @@
     "ca": 5,
     "pp": 0,
     "gs": 0,
-    "fc": 57,
-    "i": 14,
+    "fc": 58,
+    "i": 15,
     "ds": 22,
     "pi": 0,
     "pc": 0,
     "ps": 1,
     "v": 0,
-    "pontos_num": 0.4,
-    "preco_num": 10.11,
-    "variacao_num": -1.81,
-    "media_num": 4.8,
-    "jogos_num": 29,
+    "pontos_num": 8.3,
+    "preco_num": 11.27,
+    "variacao_num": 1.16,
+    "media_num": 4.92,
+    "jogos_num": 30,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }
