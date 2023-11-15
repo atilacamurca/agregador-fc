@@ -6,7 +6,6 @@
   "clube_id": 264,
   "posicao": "Atacante",
   "rodadas": [
-    23,
     24,
     25,
     26,
@@ -16,10 +15,10 @@
     30,
     31,
     32,
-    33
+    33,
+    34
   ],
   "pontos": [
-    0,
     1.7,
     9.4,
     0,
@@ -29,10 +28,10 @@
     1.9,
     0,
     1.9,
-    11.8
+    11.8,
+    15.5
   ],
   "precos": [
-    2.74,
     3.02,
     4.35,
     2.97,
@@ -42,10 +41,10 @@
     3.57,
     3.56,
     3.59,
-    5.21
+    5.21,
+    6.11
   ],
   "variacoes": [
-    -0.04,
     0.28,
     1.33,
     -1.38,
@@ -55,10 +54,10 @@
     -1.39,
     -0.01,
     0.03,
-    1.62
+    1.62,
+    0.9
   ],
   "medias": [
-    1.57,
     1.58,
     2.36,
     2.15,
@@ -68,22 +67,10 @@
     2.86,
     2.78,
     2.72,
-    3.25
+    3.25,
+    3.93
   ],
   "partidas": [
-    {
-      "rodada_id": 23,
-      "clube_casa": "Fortaleza",
-      "clube_casa_id": 356,
-      "clube_visitante": "Corinthians",
-      "clube_casa_abrev": "FOR",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2021/09/19/65_0000_Fortaleza-2021.png",
-      "clube_visitante_id": 264,
-      "clube_visitante_abrev": "COR",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/09/30/Corinthians_65.png",
-      "placar_oficial_mandante": 2,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 24,
       "clube_casa": "Corinthians",
@@ -213,38 +200,51 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2017/11/23/Atletico-Mineiro-escudo65px.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 34,
+      "clube_casa": "Grêmio",
+      "clube_casa_id": 284,
+      "clube_visitante": "Corinthians",
+      "clube_casa_abrev": "GRE",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/gremio_60x60.png",
+      "clube_visitante_id": 264,
+      "clube_visitante_abrev": "COR",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/09/30/Corinthians_65.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/03/02/photo_220x220_CufTSrv.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2019/09/30/Corinthians_65.png",
   "scouts": {
-    "rodada_id": 33,
-    "g": 3,
+    "rodada_id": 34,
+    "g": 4,
     "a": 1,
     "sg": 0,
-    "fs": 22,
-    "ff": 5,
-    "fd": 2,
+    "fs": 26,
+    "ff": 6,
+    "fd": 4,
     "ft": 0,
     "de": 0,
     "dp": 0,
     "gc": 0,
     "cv": 0,
-    "ca": 1,
+    "ca": 2,
     "pp": 0,
     "gs": 0,
-    "fc": 6,
+    "fc": 7,
     "i": 2,
-    "ds": 10,
+    "ds": 13,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 11.8,
-    "preco_num": 5.21,
-    "variacao_num": 1.62,
-    "media_num": 3.25,
-    "jogos_num": 17,
+    "pontos_num": 15.5,
+    "preco_num": 6.11,
+    "variacao_num": 0.9,
+    "media_num": 3.93,
+    "jogos_num": 18,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }

@@ -6,7 +6,6 @@
   "clube_id": 266,
   "posicao": "Zagueiro",
   "rodadas": [
-    23,
     24,
     25,
     26,
@@ -16,10 +15,10 @@
     30,
     31,
     32,
-    33
+    33,
+    34
   ],
   "pontos": [
-    0,
     5,
     0.9,
     0,
@@ -29,10 +28,10 @@
     -0.3,
     0,
     0,
-    6.4
+    6.4,
+    -0.3
   ],
   "precos": [
-    4.41,
     5.55,
     4.92,
     4.69,
@@ -42,10 +41,10 @@
     4.36,
     4.36,
     4.36,
-    5.32
+    5.32,
+    4.35
   ],
   "variacoes": [
-    -0.86,
     1.14,
     -0.63,
     -0.23,
@@ -55,10 +54,10 @@
     -0.16,
     0,
     0,
-    0.96
+    0.96,
+    -0.97
   ],
   "medias": [
-    0.85,
     1.44,
     1.37,
     1.22,
@@ -68,22 +67,10 @@
     0.86,
     0.86,
     0.86,
-    1.26
+    1.26,
+    1.16
   ],
   "partidas": [
-    {
-      "rodada_id": 23,
-      "clube_casa": "Vasco",
-      "clube_casa_id": 267,
-      "clube_visitante": "Fluminense",
-      "clube_casa_abrev": "VAS",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2021/09/04/ESCUDO-VASCO-RGB_65px.png",
-      "clube_visitante_id": 266,
-      "clube_visitante_abrev": "FLU",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/fluminense_60x60.png",
-      "placar_oficial_mandante": 4,
-      "placar_oficial_visitante": 2
-    },
     {
       "rodada_id": 24,
       "clube_casa": "Fluminense",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/fluminense_60x60.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 34,
+      "clube_casa": "Flamengo",
+      "clube_casa_id": 262,
+      "clube_visitante": "Fluminense",
+      "clube_casa_abrev": "FLA",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2018/04/09/Flamengo-65.png",
+      "clube_visitante_id": 266,
+      "clube_visitante_abrev": "FLU",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/fluminense_60x60.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/07/12/photo_220x220.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2014/04/14/fluminense_60x60.png",
   "scouts": {
-    "rodada_id": 33,
+    "rodada_id": 34,
     "g": 0,
     "a": 0,
     "sg": 3,
@@ -233,18 +233,18 @@
     "ca": 5,
     "pp": 0,
     "gs": 0,
-    "fc": 16,
+    "fc": 17,
     "i": 0,
     "ds": 8,
     "pi": 0,
     "pc": 1,
     "ps": 0,
     "v": 0,
-    "pontos_num": 6.4,
-    "preco_num": 5.32,
-    "variacao_num": 0.96,
-    "media_num": 1.26,
-    "jogos_num": 14,
+    "pontos_num": -0.3,
+    "preco_num": 4.35,
+    "variacao_num": -0.97,
+    "media_num": 1.16,
+    "jogos_num": 15,
     "posicao_abrev": "zag",
     "posicao": "Zagueiro"
   }

@@ -6,7 +6,6 @@
   "clube_id": 280,
   "posicao": "Goleiro",
   "rodadas": [
-    23,
     24,
     25,
     26,
@@ -16,10 +15,10 @@
     30,
     31,
     32,
-    33
+    33,
+    34
   ],
   "pontos": [
-    0,
     0,
     0,
     3.5,
@@ -29,10 +28,10 @@
     0,
     0,
     7,
-    3.5
+    3.5,
+    0
   ],
   "precos": [
-    7.56,
     7.56,
     6.21,
     6.75,
@@ -42,10 +41,10 @@
     6.27,
     7.69,
     7.62,
-    7.09
+    7.09,
+    6.61
   ],
   "variacoes": [
-    0.11,
     0,
     -1.35,
     0.54,
@@ -55,10 +54,10 @@
     0,
     1.42,
     -0.07,
-    -0.53
+    -0.53,
+    -0.48
   ],
   "medias": [
-    4.99,
     4.99,
     4.73,
     4.67,
@@ -68,22 +67,10 @@
     4.63,
     4.77,
     4.86,
-    4.81
+    4.81,
+    4.63
   ],
   "partidas": [
-    {
-      "rodada_id": 23,
-      "clube_casa": "Bragantino",
-      "clube_casa_id": 280,
-      "clube_visitante": "Grêmio",
-      "clube_casa_abrev": "BRA",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2020/01/01/65.png",
-      "clube_visitante_id": 284,
-      "clube_visitante_abrev": "GRE",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/gremio_60x60.png",
-      "placar_oficial_mandante": 2,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 24,
       "clube_casa": "América-MG",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2020/01/01/65.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 34,
+      "clube_casa": "Bragantino",
+      "clube_casa_id": 280,
+      "clube_visitante": "Botafogo",
+      "clube_casa_abrev": "BRA",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2020/01/01/65.png",
+      "clube_visitante_id": 263,
+      "clube_visitante_abrev": "BOT",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-65.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2022/05/05/ec4a7cb649121dc08c2869bdcf6ef984_220x220.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2020/01/01/65.png",
   "scouts": {
-    "rodada_id": 33,
+    "rodada_id": 34,
     "g": 0,
     "a": 0,
     "sg": 14,
@@ -226,13 +226,13 @@
     "ff": 0,
     "fd": 0,
     "ft": 0,
-    "de": 76,
+    "de": 78,
     "dp": 0,
     "gc": 0,
     "cv": 1,
     "ca": 5,
     "pp": 0,
-    "gs": 19,
+    "gs": 21,
     "fc": 1,
     "i": 0,
     "ds": 0,
@@ -240,11 +240,11 @@
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 3.5,
-    "preco_num": 7.09,
-    "variacao_num": -0.53,
-    "media_num": 4.81,
-    "jogos_num": 26,
+    "pontos_num": 0,
+    "preco_num": 6.61,
+    "variacao_num": -0.48,
+    "media_num": 4.63,
+    "jogos_num": 27,
     "posicao_abrev": "gol",
     "posicao": "Goleiro"
   }

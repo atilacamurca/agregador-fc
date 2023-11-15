@@ -6,7 +6,6 @@
   "clube_id": 285,
   "posicao": "Atacante",
   "rodadas": [
-    23,
     24,
     25,
     26,
@@ -16,12 +15,13 @@
     30,
     31,
     32,
-    33
+    33,
+    34
   ],
   "pontos": [
     0,
-    0,
     1.7,
+    0,
     0,
     0,
     0,
@@ -33,9 +33,9 @@
   ],
   "precos": [
     2.08,
-    2.08,
     2.11,
     2.11,
+    1.83,
     1.83,
     1.83,
     1.83,
@@ -46,10 +46,10 @@
   ],
   "variacoes": [
     0,
-    0,
     0.03,
     0,
     -0.28,
+    0,
     0,
     0,
     0,
@@ -59,9 +59,9 @@
   ],
   "medias": [
     -0.65,
-    -0.65,
     0.13,
     0.13,
+    0.1,
     0.1,
     0.1,
     0.1,
@@ -71,19 +71,6 @@
     0.1
   ],
   "partidas": [
-    {
-      "rodada_id": 23,
-      "clube_casa": "Internacional",
-      "clube_casa_id": 285,
-      "clube_visitante": "São Paulo",
-      "clube_casa_abrev": "INT",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2016/05/03/inter65.png",
-      "clube_visitante_id": 276,
-      "clube_visitante_abrev": "SAO",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/sao_paulo_60x60.png",
-      "placar_oficial_mandante": 2,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 24,
       "clube_casa": "Athlético-PR",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/fluminense_60x60.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 34,
+      "clube_casa": "Palmeiras",
+      "clube_casa_id": 275,
+      "clube_visitante": "Internacional",
+      "clube_casa_abrev": "PAL",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/palmeiras_60x60.png",
+      "clube_visitante_id": 285,
+      "clube_visitante_abrev": "INT",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2016/05/03/inter65.png",
+      "placar_oficial_mandante": 3,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/04/11/photo_220x220.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2016/05/03/inter65.png",
   "scouts": {
-    "rodada_id": 33,
+    "rodada_id": 34,
     "g": 0,
     "a": 0,
     "sg": 0,

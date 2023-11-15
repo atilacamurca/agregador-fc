@@ -6,7 +6,6 @@
   "clube_id": 327,
   "posicao": "Meia",
   "rodadas": [
-    23,
     24,
     25,
     26,
@@ -16,7 +15,8 @@
     30,
     31,
     32,
-    33
+    33,
+    34
   ],
   "pontos": [
     0,
@@ -29,7 +29,7 @@
     0,
     0,
     0,
-    0
+    0.1
   ],
   "precos": [
     2.06,
@@ -42,7 +42,7 @@
     2.06,
     2.06,
     2.06,
-    2.06
+    1.9
   ],
   "variacoes": [
     0,
@@ -55,7 +55,7 @@
     0,
     0,
     0,
-    0
+    -0.16
   ],
   "medias": [
     0.35,
@@ -68,22 +68,9 @@
     0.35,
     0.35,
     0.35,
-    0.35
+    0.33
   ],
   "partidas": [
-    {
-      "rodada_id": 23,
-      "clube_casa": "Cuiabá",
-      "clube_casa_id": 1371,
-      "clube_visitante": "América-MG",
-      "clube_casa_abrev": "CUI",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/16/cuiaba65.png",
-      "clube_visitante_id": 327,
-      "clube_visitante_abrev": "AME",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/02/28/escudo65_1.png",
-      "placar_oficial_mandante": 2,
-      "placar_oficial_visitante": 2
-    },
     {
       "rodada_id": 24,
       "clube_casa": "América-MG",
@@ -213,38 +200,51 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2017/03/29/coritiba65.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 3
+    },
+    {
+      "rodada_id": 34,
+      "clube_casa": "Vasco",
+      "clube_casa_id": 267,
+      "clube_visitante": "América-MG",
+      "clube_casa_abrev": "VAS",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2021/09/04/ESCUDO-VASCO-RGB_65px.png",
+      "clube_visitante_id": 327,
+      "clube_visitante_abrev": "AME",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/02/28/escudo65_1.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/10/10/photo_220x220_mautx9E.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2019/02/28/escudo65_1.png",
   "scouts": {
-    "rodada_id": 33,
+    "rodada_id": 34,
     "g": 0,
     "a": 0,
     "sg": 0,
-    "fs": 1,
+    "fs": 2,
     "ff": 1,
-    "fd": 1,
+    "fd": 2,
     "ft": 0,
     "de": 0,
     "dp": 0,
     "gc": 0,
     "cv": 0,
-    "ca": 3,
+    "ca": 4,
     "pp": 0,
     "gs": 0,
-    "fc": 14,
+    "fc": 16,
     "i": 0,
     "ds": 8,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 0,
-    "preco_num": 2.06,
-    "variacao_num": 0,
-    "media_num": 0.35,
-    "jogos_num": 14,
+    "pontos_num": 0.1,
+    "preco_num": 1.9,
+    "variacao_num": -0.16,
+    "media_num": 0.33,
+    "jogos_num": 15,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }

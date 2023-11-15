@@ -6,7 +6,6 @@
   "clube_id": 276,
   "posicao": "Técnico",
   "rodadas": [
-    23,
     24,
     25,
     26,
@@ -16,10 +15,10 @@
     30,
     31,
     32,
-    33
+    33,
+    34
   ],
   "pontos": [
-    0,
     2.87,
     5.35,
     4.87,
@@ -29,10 +28,10 @@
     2.91,
     0,
     0,
-    8.97
+    8.97,
+    5.83
   ],
   "precos": [
-    11.15,
     11.13,
     11.49,
     11.44,
@@ -42,10 +41,10 @@
     11.23,
     12.12,
     12.12,
-    12.14
+    12.14,
+    11.86
   ],
   "variacoes": [
-    0.06,
     -0.02,
     0.36,
     -0.05,
@@ -55,10 +54,10 @@
     0.28,
     0.89,
     0,
-    0.02
+    0.02,
+    -0.28
   ],
   "medias": [
-    4.96,
     4.87,
     4.89,
     4.89,
@@ -68,22 +67,10 @@
     4.73,
     4.85,
     4.85,
-    4.99
+    4.99,
+    5.02
   ],
   "partidas": [
-    {
-      "rodada_id": 23,
-      "clube_casa": "Internacional",
-      "clube_casa_id": 285,
-      "clube_visitante": "São Paulo",
-      "clube_casa_abrev": "INT",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2016/05/03/inter65.png",
-      "clube_visitante_id": 276,
-      "clube_visitante_abrev": "SAO",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/sao_paulo_60x60.png",
-      "placar_oficial_mandante": 2,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 24,
       "clube_casa": "São Paulo",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2020/01/01/65.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 34,
+      "clube_casa": "Santos",
+      "clube_casa_id": 277,
+      "clube_visitante": "São Paulo",
+      "clube_casa_abrev": "SAN",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/santos_60x60.png",
+      "clube_visitante_id": 276,
+      "clube_visitante_abrev": "SAO",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/sao_paulo_60x60.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/04/20/photo_220x220_Lo29Wew.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2014/04/14/sao_paulo_60x60.png",
   "scouts": {
-    "rodada_id": 33,
+    "rodada_id": 34,
     "g": 0,
     "a": 0,
     "sg": 0,
@@ -240,11 +240,11 @@
     "pc": 0,
     "ps": 0,
     "v": 11,
-    "pontos_num": 8.97,
-    "preco_num": 12.14,
-    "variacao_num": 0.02,
-    "media_num": 4.99,
-    "jogos_num": 30,
+    "pontos_num": 5.83,
+    "preco_num": 11.86,
+    "variacao_num": -0.28,
+    "media_num": 5.02,
+    "jogos_num": 31,
     "posicao_abrev": "tec",
     "posicao": "Técnico"
   }

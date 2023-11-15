@@ -6,7 +6,6 @@
   "clube_id": 282,
   "posicao": "Meia",
   "rodadas": [
-    23,
     24,
     25,
     26,
@@ -16,10 +15,10 @@
     30,
     31,
     32,
-    33
+    33,
+    34
   ],
   "pontos": [
-    0,
     0,
     3.6,
     1.2,
@@ -29,10 +28,10 @@
     5.2,
     0,
     -0.6,
-    -0.3
+    -0.3,
+    0
   ],
   "precos": [
-    3.32,
     3.32,
     3.66,
     3.32,
@@ -42,10 +41,10 @@
     4.12,
     3.23,
     3.15,
+    3.13,
     3.13
   ],
   "variacoes": [
-    0,
     0,
     0.34,
     -0.34,
@@ -55,10 +54,10 @@
     0.41,
     -0.89,
     -0.08,
-    -0.02
+    -0.02,
+    0
   ],
   "medias": [
-    0.8,
     0.8,
     1.27,
     1.26,
@@ -68,22 +67,10 @@
     1.73,
     1.54,
     1.38,
+    1.26,
     1.26
   ],
   "partidas": [
-    {
-      "rodada_id": 23,
-      "clube_casa": "Atlético-MG",
-      "clube_casa_id": 282,
-      "clube_visitante": "Botafogo",
-      "clube_casa_abrev": "ATL",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2017/11/23/Atletico-Mineiro-escudo65px.png",
-      "clube_visitante_id": 263,
-      "clube_visitante_abrev": "BOT",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-65.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 24,
       "clube_casa": "Atlético-MG",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2017/11/23/Atletico-Mineiro-escudo65px.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 34,
+      "clube_casa": "Atlético-MG",
+      "clube_casa_id": 282,
+      "clube_visitante": "Goiás",
+      "clube_casa_abrev": "ATL",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2017/11/23/Atletico-Mineiro-escudo65px.png",
+      "clube_visitante_id": 290,
+      "clube_visitante_abrev": "GOI",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/03/01/goias-65.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2021/05/02/fdebad6783b5559cac6ed2d7d429e802_220x220.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2017/11/23/Atletico-Mineiro-escudo65px.png",
   "scouts": {
-    "rodada_id": 33,
+    "rodada_id": 34,
     "g": 0,
     "a": 0,
     "sg": 0,
@@ -240,9 +240,9 @@
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": -0.3,
+    "pontos_num": 0,
     "preco_num": 3.13,
-    "variacao_num": -0.02,
+    "variacao_num": 0,
     "media_num": 1.26,
     "jogos_num": 14,
     "posicao_abrev": "mei",

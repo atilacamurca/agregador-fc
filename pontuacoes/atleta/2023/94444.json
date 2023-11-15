@@ -6,7 +6,6 @@
   "clube_id": 290,
   "posicao": "Atacante",
   "rodadas": [
-    23,
     24,
     25,
     26,
@@ -16,10 +15,10 @@
     30,
     31,
     32,
-    33
+    33,
+    34
   ],
   "pontos": [
-    0,
     1.8,
     1.4,
     8.7,
@@ -29,10 +28,10 @@
     14.4,
     0,
     4.2,
-    0.4
+    0.4,
+    1.9
   ],
   "precos": [
-    4.45,
     4.49,
     4.41,
     5.87,
@@ -42,10 +41,10 @@
     7.54,
     6.11,
     6.26,
-    5.61
+    5.61,
+    5.88
   ],
   "variacoes": [
-    0,
     0.04,
     -0.08,
     1.46,
@@ -55,10 +54,10 @@
     1.38,
     -1.43,
     0.15,
-    -0.65
+    -0.65,
+    0.27
   ],
   "medias": [
-    1.92,
     1.9,
     1.83,
     2.69,
@@ -68,22 +67,10 @@
     4.12,
     4.08,
     4.09,
-    3.83
+    3.83,
+    3.7
   ],
   "partidas": [
-    {
-      "rodada_id": 23,
-      "clube_casa": "Palmeiras",
-      "clube_casa_id": 275,
-      "clube_visitante": "Goiás",
-      "clube_casa_abrev": "PAL",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/palmeiras_60x60.png",
-      "clube_visitante_id": 290,
-      "clube_visitante_abrev": "GOI",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/03/01/goias-65.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 24,
       "clube_casa": "Goiás",
@@ -213,17 +200,30 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/santos_60x60.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 34,
+      "clube_casa": "Atlético-MG",
+      "clube_casa_id": 282,
+      "clube_visitante": "Goiás",
+      "clube_casa_abrev": "ATL",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2017/11/23/Atletico-Mineiro-escudo65px.png",
+      "clube_visitante_id": 290,
+      "clube_visitante_abrev": "GOI",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/03/01/goias-65.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/07/30/photo_220x220_a5PwXy3.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2021/03/01/goias-65.png",
   "scouts": {
-    "rodada_id": 33,
+    "rodada_id": 34,
     "g": 4,
     "a": 0,
     "sg": 0,
-    "fs": 20,
-    "ff": 8,
+    "fs": 21,
+    "ff": 10,
     "fd": 6,
     "ft": 1,
     "de": 0,
@@ -234,17 +234,17 @@
     "pp": 0,
     "gs": 0,
     "fc": 21,
-    "i": 7,
+    "i": 9,
     "ds": 5,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 0.4,
-    "preco_num": 5.61,
-    "variacao_num": -0.65,
-    "media_num": 3.83,
-    "jogos_num": 14,
+    "pontos_num": 1.9,
+    "preco_num": 5.88,
+    "variacao_num": 0.27,
+    "media_num": 3.7,
+    "jogos_num": 15,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }
