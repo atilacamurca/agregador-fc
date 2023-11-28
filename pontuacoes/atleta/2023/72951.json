@@ -6,7 +6,6 @@
   "clube_id": 285,
   "posicao": "Zagueiro",
   "rodadas": [
-    24,
     25,
     26,
     27,
@@ -16,10 +15,10 @@
     31,
     32,
     33,
-    34
+    34,
+    35
   ],
   "pontos": [
-    0,
     0,
     -0.4,
     2.6,
@@ -29,10 +28,10 @@
     0,
     0.2,
     8.1,
-    0
+    0,
+    4.6
   ],
   "precos": [
-    5.19,
     5.19,
     5,
     5.45,
@@ -42,10 +41,10 @@
     5.21,
     4.92,
     6.16,
-    6.16
+    6.16,
+    5.69
   ],
   "variacoes": [
-    0.14,
     0,
     -0.19,
     0.45,
@@ -55,10 +54,10 @@
     0.43,
     -0.29,
     1.24,
-    0
+    0,
+    -0.47
   ],
   "medias": [
-    3.08,
     3.08,
     2.86,
     2.84,
@@ -68,22 +67,10 @@
     2.44,
     2.33,
     2.59,
-    2.59
+    2.59,
+    2.68
   ],
   "partidas": [
-    {
-      "rodada_id": 24,
-      "clube_casa": "Athlético-PR",
-      "clube_casa_id": 293,
-      "clube_visitante": "Internacional",
-      "clube_casa_abrev": "ATL",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2019/09/09/Athletico-PR-65x65.png",
-      "clube_visitante_id": 285,
-      "clube_visitante_abrev": "INT",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2016/05/03/inter65.png",
-      "placar_oficial_mandante": 2,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 25,
       "clube_casa": "Internacional",
@@ -213,15 +200,28 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2016/05/03/inter65.png",
       "placar_oficial_mandante": 3,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 35,
+      "clube_casa": "Internacional",
+      "clube_casa_id": 285,
+      "clube_visitante": "Bragantino",
+      "clube_casa_abrev": "INT",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2016/05/03/inter65.png",
+      "clube_visitante_id": 280,
+      "clube_visitante_abrev": "BRA",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2020/01/01/65.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/03/07/photo_220x220_rOFNbA7.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2016/05/03/inter65.png",
   "scouts": {
-    "rodada_id": 34,
+    "rodada_id": 35,
     "g": 0,
     "a": 0,
-    "sg": 7,
+    "sg": 8,
     "fs": 10,
     "ff": 3,
     "fd": 2,
@@ -230,21 +230,21 @@
     "dp": 0,
     "gc": 0,
     "cv": 1,
-    "ca": 10,
+    "ca": 11,
     "pp": 0,
     "gs": 0,
-    "fc": 30,
+    "fc": 32,
     "i": 0,
-    "ds": 27,
+    "ds": 28,
     "pi": 0,
     "pc": 1,
     "ps": 0,
     "v": 0,
-    "pontos_num": 0,
-    "preco_num": 6.16,
-    "variacao_num": 0,
-    "media_num": 2.59,
-    "jogos_num": 22,
+    "pontos_num": 4.6,
+    "preco_num": 5.69,
+    "variacao_num": -0.47,
+    "media_num": 2.68,
+    "jogos_num": 23,
     "posicao_abrev": "zag",
     "posicao": "Zagueiro"
   }

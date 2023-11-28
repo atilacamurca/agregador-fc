@@ -6,7 +6,6 @@
   "clube_id": 294,
   "posicao": "Meia",
   "rodadas": [
-    24,
     25,
     26,
     27,
@@ -16,10 +15,10 @@
     31,
     32,
     33,
-    34
+    34,
+    35
   ],
   "pontos": [
-    0,
     0,
     0,
     0,
@@ -29,10 +28,10 @@
     0,
     -0.3,
     10.9,
-    6.4
+    6.4,
+    10.6
   ],
   "precos": [
-    9.69,
     9.69,
     9.69,
     9.69,
@@ -42,10 +41,10 @@
     9.46,
     8.98,
     10.69,
-    10.22
+    10.22,
+    10.84
   ],
   "variacoes": [
-    0,
     0,
     0,
     0,
@@ -55,10 +54,10 @@
     -0.31,
     -0.48,
     1.71,
-    -0.47
+    -0.47,
+    0.62
   ],
   "medias": [
-    4.45,
     4.45,
     4.45,
     4.45,
@@ -68,22 +67,10 @@
     4.17,
     3.99,
     4.26,
-    4.34
+    4.34,
+    4.56
   ],
   "partidas": [
-    {
-      "rodada_id": 24,
-      "clube_casa": "Vasco",
-      "clube_casa_id": 267,
-      "clube_visitante": "Coritiba",
-      "clube_casa_abrev": "VAS",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2021/09/04/ESCUDO-VASCO-RGB_65px.png",
-      "clube_visitante_id": 294,
-      "clube_visitante_abrev": "COR",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2017/03/29/coritiba65.png",
-      "placar_oficial_mandante": 5,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 25,
       "clube_casa": "Coritiba",
@@ -213,19 +200,32 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/02/13/65_cruzeiro-2021.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 35,
+      "clube_casa": "Fluminense",
+      "clube_casa_id": 266,
+      "clube_visitante": "Coritiba",
+      "clube_casa_abrev": "FLU",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/fluminense_60x60.png",
+      "clube_visitante_id": 294,
+      "clube_visitante_abrev": "COR",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2017/03/29/coritiba65.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/09/14/photo_220x220_uLOhgzA.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2017/03/29/coritiba65.png",
   "scouts": {
-    "rodada_id": 34,
+    "rodada_id": 35,
     "g": 3,
-    "a": 0,
+    "a": 1,
     "sg": 0,
-    "fs": 50,
+    "fs": 54,
     "ff": 16,
     "fd": 11,
-    "ft": 1,
+    "ft": 2,
     "de": 0,
     "dp": 0,
     "gc": 0,
@@ -233,18 +233,18 @@
     "ca": 4,
     "pp": 0,
     "gs": 0,
-    "fc": 37,
+    "fc": 39,
     "i": 2,
-    "ds": 48,
+    "ds": 49,
     "pi": 0,
     "pc": 1,
     "ps": 1,
     "v": 0,
-    "pontos_num": 6.4,
-    "preco_num": 10.22,
-    "variacao_num": -0.47,
-    "media_num": 4.34,
-    "jogos_num": 27,
+    "pontos_num": 10.6,
+    "preco_num": 10.84,
+    "variacao_num": 0.62,
+    "media_num": 4.56,
+    "jogos_num": 28,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }
