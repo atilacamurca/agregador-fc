@@ -6,8 +6,6 @@
   "clube_id": 280,
   "posicao": "Lateral",
   "rodadas": [
-    25,
-    26,
     27,
     28,
     29,
@@ -16,11 +14,10 @@
     32,
     33,
     34,
-    35
+    35,
+    37
   ],
   "pontos": [
-    0,
-    0,
     0,
     7,
     0,
@@ -29,11 +26,10 @@
     7.6,
     0,
     0,
-    1.2
+    1.2,
+    9.5
   ],
   "precos": [
-    4.87,
-    4.87,
     4.87,
     5.9,
     4.83,
@@ -42,11 +38,10 @@
     6.12,
     6.12,
     4.99,
-    5.09
+    5.09,
+    6.51
   ],
   "variacoes": [
-    0,
-    0,
     0,
     1.03,
     -1.07,
@@ -55,11 +50,10 @@
     0.35,
     0,
     -1.13,
-    0.1
+    0.1,
+    1.38
   ],
   "medias": [
-    3.5,
-    3.5,
     3.5,
     3.73,
     3.5,
@@ -68,35 +62,10 @@
     3.86,
     3.86,
     3.66,
-    3.54
+    3.54,
+    3.71
   ],
   "partidas": [
-    {
-      "rodada_id": 25,
-      "clube_casa": "Bragantino",
-      "clube_casa_id": 280,
-      "clube_visitante": "Palmeiras",
-      "clube_casa_abrev": "BRA",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2020/01/01/65.png",
-      "clube_visitante_id": 275,
-      "clube_visitante_abrev": "PAL",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/palmeiras_60x60.png",
-      "placar_oficial_mandante": 2,
-      "placar_oficial_visitante": 1
-    },
-    {
-      "rodada_id": 26,
-      "clube_casa": "Athlético-PR",
-      "clube_casa_id": 293,
-      "clube_visitante": "Bragantino",
-      "clube_casa_abrev": "ATL",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2019/09/09/Athletico-PR-65x65.png",
-      "clube_visitante_id": 280,
-      "clube_visitante_abrev": "BRA",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2020/01/01/65.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 27,
       "clube_casa": "Santos",
@@ -213,18 +182,31 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2020/01/01/65.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 37,
+      "clube_casa": "Bragantino",
+      "clube_casa_id": 280,
+      "clube_visitante": "Coritiba",
+      "clube_casa_abrev": "BRA",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2020/01/01/65.png",
+      "clube_visitante_id": 294,
+      "clube_visitante_abrev": "COR",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2017/03/29/coritiba65.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2022/05/05/495e0cd517eacede744f14fefa06d6d5_220x220.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2020/01/01/65.png",
   "scouts": {
-    "rodada_id": 35,
+    "rodada_id": 37,
     "g": 0,
     "a": 0,
-    "sg": 9,
+    "sg": 10,
     "fs": 3,
     "ff": 5,
-    "fd": 1,
+    "fd": 2,
     "ft": 0,
     "de": 0,
     "dp": 0,
@@ -233,18 +215,18 @@
     "ca": 3,
     "pp": 0,
     "gs": 0,
-    "fc": 14,
+    "fc": 15,
     "i": 2,
-    "ds": 22,
+    "ds": 26,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 1.2,
-    "preco_num": 5.09,
-    "variacao_num": 0.1,
-    "media_num": 3.54,
-    "jogos_num": 20,
+    "pontos_num": 9.5,
+    "preco_num": 6.51,
+    "variacao_num": 1.38,
+    "media_num": 3.71,
+    "jogos_num": 22,
     "posicao_abrev": "lat",
     "posicao": "Lateral"
   }

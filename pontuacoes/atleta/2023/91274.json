@@ -6,8 +6,6 @@
   "clube_id": 277,
   "posicao": "Técnico",
   "rodadas": [
-    25,
-    26,
     27,
     28,
     29,
@@ -16,11 +14,10 @@
     32,
     33,
     34,
-    35
+    35,
+    37
   ],
   "pontos": [
-    6.09,
-    5.44,
     4.71,
     2.84,
     5.79,
@@ -29,11 +26,10 @@
     4.65,
     8.65,
     5.24,
-    3.25
+    3.25,
+    2.04
   ],
   "precos": [
-    8.5,
-    8.87,
     9.02,
     8.8,
     9.45,
@@ -42,11 +38,10 @@
     9.53,
     10.37,
     10.12,
-    9.72
+    9.72,
+    9.66
   ],
   "variacoes": [
-    -0.16,
-    0.37,
     0.15,
     -0.22,
     0.65,
@@ -55,11 +50,10 @@
     0.04,
     0.84,
     -0.25,
-    -0.4
+    -0.4,
+    -0.34
   ],
   "medias": [
-    6.09,
-    5.76,
     5.41,
     4.77,
     4.97,
@@ -68,35 +62,10 @@
     4.64,
     5.09,
     5.1,
-    4.93
+    4.93,
+    4.66
   ],
   "partidas": [
-    {
-      "rodada_id": 25,
-      "clube_casa": "Santos",
-      "clube_casa_id": 277,
-      "clube_visitante": "Vasco",
-      "clube_casa_abrev": "SAN",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/santos_60x60.png",
-      "clube_visitante_id": 267,
-      "clube_visitante_abrev": "VAS",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/09/04/ESCUDO-VASCO-RGB_65px.png",
-      "placar_oficial_mandante": 4,
-      "placar_oficial_visitante": 1
-    },
-    {
-      "rodada_id": 26,
-      "clube_casa": "Palmeiras",
-      "clube_casa_id": 275,
-      "clube_visitante": "Santos",
-      "clube_casa_abrev": "PAL",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/palmeiras_60x60.png",
-      "clube_visitante_id": 277,
-      "clube_visitante_abrev": "SAN",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/santos_60x60.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 2
-    },
     {
       "rodada_id": 27,
       "clube_casa": "Santos",
@@ -213,12 +182,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/santos_60x60.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 37,
+      "clube_casa": "Athlético-PR",
+      "clube_casa_id": 293,
+      "clube_visitante": "Santos",
+      "clube_casa_abrev": "ATL",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2019/09/09/Athletico-PR-65x65.png",
+      "clube_visitante_id": 277,
+      "clube_visitante_abrev": "SAN",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/santos_60x60.png",
+      "placar_oficial_mandante": 3,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2021/04/27/7f50feb3c2bff8d96ced4bd8a038efad_220x220.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2014/04/14/santos_60x60.png",
   "scouts": {
-    "rodada_id": 35,
+    "rodada_id": 37,
     "g": 0,
     "a": 0,
     "sg": 0,
@@ -240,11 +222,11 @@
     "pc": 0,
     "ps": 0,
     "v": 5,
-    "pontos_num": 3.25,
-    "preco_num": 9.72,
-    "variacao_num": -0.4,
-    "media_num": 4.93,
-    "jogos_num": 11,
+    "pontos_num": 2.04,
+    "preco_num": 9.66,
+    "variacao_num": -0.34,
+    "media_num": 4.66,
+    "jogos_num": 13,
     "posicao_abrev": "tec",
     "posicao": "Técnico"
   }

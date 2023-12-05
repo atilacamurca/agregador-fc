@@ -6,8 +6,6 @@
   "clube_id": 290,
   "posicao": "Atacante",
   "rodadas": [
-    25,
-    26,
     27,
     28,
     29,
@@ -16,11 +14,10 @@
     32,
     33,
     34,
-    35
+    35,
+    37
   ],
   "pontos": [
-    3.1,
-    14.2,
     2.2,
     -0.9,
     0,
@@ -29,11 +26,10 @@
     0,
     0,
     2,
+    0,
     0
   ],
   "precos": [
-    5.62,
-    7.79,
     6.12,
     5.58,
     5.58,
@@ -42,11 +38,10 @@
     5.33,
     5.23,
     5.58,
+    5.58,
     5.58
   ],
   "variacoes": [
-    0.18,
-    2.17,
     -1.67,
     -0.54,
     0,
@@ -55,11 +50,10 @@
     -0.08,
     -0.1,
     0.35,
+    0,
     0
   ],
   "medias": [
-    2.88,
-    3.82,
     3.7,
     3.37,
     3.37,
@@ -68,35 +62,10 @@
     2.68,
     2.53,
     2.5,
+    2.5,
     2.5
   ],
   "partidas": [
-    {
-      "rodada_id": 25,
-      "clube_casa": "Botafogo",
-      "clube_casa_id": 263,
-      "clube_visitante": "Goiás",
-      "clube_casa_abrev": "BOT",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-65.png",
-      "clube_visitante_id": 290,
-      "clube_visitante_abrev": "GOI",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/03/01/goias-65.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 1
-    },
-    {
-      "rodada_id": 26,
-      "clube_casa": "Goiás",
-      "clube_casa_id": 290,
-      "clube_visitante": "Bahia",
-      "clube_casa_abrev": "GOI",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2021/03/01/goias-65.png",
-      "clube_visitante_id": 265,
-      "clube_visitante_abrev": "BAH",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/bahia_60x60.png",
-      "placar_oficial_mandante": 4,
-      "placar_oficial_visitante": 6
-    },
     {
       "rodada_id": 27,
       "clube_casa": "Goiás",
@@ -213,12 +182,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/02/13/65_cruzeiro-2021.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 37,
+      "clube_casa": "Fortaleza",
+      "clube_casa_id": 356,
+      "clube_visitante": "Goiás",
+      "clube_casa_abrev": "FOR",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2021/09/19/65_0000_Fortaleza-2021.png",
+      "clube_visitante_id": 290,
+      "clube_visitante_abrev": "GOI",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/03/01/goias-65.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/07/06/photo_220x220_QhpyCZL.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2021/03/01/goias-65.png",
   "scouts": {
-    "rodada_id": 35,
+    "rodada_id": 37,
     "g": 3,
     "a": 1,
     "sg": 0,

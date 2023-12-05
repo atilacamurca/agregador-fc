@@ -6,8 +6,6 @@
   "clube_id": 262,
   "posicao": "Atacante",
   "rodadas": [
-    25,
-    26,
     27,
     28,
     29,
@@ -16,11 +14,10 @@
     32,
     33,
     34,
-    35
+    35,
+    37
   ],
   "pontos": [
-    10.4,
-    3,
     12.1,
     0.9,
     -0.3,
@@ -29,11 +26,10 @@
     8,
     17.5,
     1.4,
-    13.4
+    13.4,
+    8.8
   ],
   "precos": [
-    12.87,
-    11.78,
     13.28,
     11.65,
     11.34,
@@ -42,11 +38,10 @@
     12.69,
     14.25,
     12,
-    13.76
+    13.76,
+    13.39
   ],
   "variacoes": [
-    1.51,
-    -1.09,
     1.5,
     -1.63,
     -0.31,
@@ -55,11 +50,10 @@
     -0.31,
     1.56,
     -2.25,
-    1.76
+    1.76,
+    0.64
   ],
   "medias": [
-    3.85,
-    3.81,
     4.17,
     4.03,
     3.86,
@@ -68,35 +62,10 @@
     4.25,
     4.72,
     4.61,
-    4.9
+    4.9,
+    5.04
   ],
   "partidas": [
-    {
-      "rodada_id": 25,
-      "clube_casa": "Flamengo",
-      "clube_casa_id": 262,
-      "clube_visitante": "Bahia",
-      "clube_casa_abrev": "FLA",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2018/04/09/Flamengo-65.png",
-      "clube_visitante_id": 265,
-      "clube_visitante_abrev": "BAH",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/bahia_60x60.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 0
-    },
-    {
-      "rodada_id": 26,
-      "clube_casa": "Corinthians",
-      "clube_casa_id": 264,
-      "clube_visitante": "Flamengo",
-      "clube_casa_abrev": "COR",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2019/09/30/Corinthians_65.png",
-      "clube_visitante_id": 262,
-      "clube_visitante_abrev": "FLA",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2018/04/09/Flamengo-65.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 27,
       "clube_casa": "Cruzeiro",
@@ -213,18 +182,31 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2018/04/09/Flamengo-65.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 3
+    },
+    {
+      "rodada_id": 37,
+      "clube_casa": "Flamengo",
+      "clube_casa_id": 262,
+      "clube_visitante": "Cuiabá",
+      "clube_casa_abrev": "FLA",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2018/04/09/Flamengo-65.png",
+      "clube_visitante_id": 1371,
+      "clube_visitante_abrev": "CUI",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/16/cuiaba65.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/04/11/photo_220x220_BmbzG97.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2018/04/09/Flamengo-65.png",
   "scouts": {
-    "rodada_id": 35,
-    "g": 12,
+    "rodada_id": 37,
+    "g": 13,
     "a": 0,
     "sg": 0,
-    "fs": 17,
-    "ff": 19,
-    "fd": 15,
+    "fs": 18,
+    "ff": 22,
+    "fd": 16,
     "ft": 0,
     "de": 0,
     "dp": 0,
@@ -233,18 +215,18 @@
     "ca": 1,
     "pp": 0,
     "gs": 0,
-    "fc": 16,
+    "fc": 17,
     "i": 2,
-    "ds": 12,
+    "ds": 14,
     "pi": 0,
     "pc": 0,
     "ps": 1,
     "v": 0,
-    "pontos_num": 13.4,
-    "preco_num": 13.76,
-    "variacao_num": 1.76,
-    "media_num": 4.9,
-    "jogos_num": 30,
+    "pontos_num": 8.8,
+    "preco_num": 13.39,
+    "variacao_num": 0.64,
+    "media_num": 5.04,
+    "jogos_num": 32,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }

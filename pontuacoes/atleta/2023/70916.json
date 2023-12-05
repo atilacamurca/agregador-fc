@@ -6,8 +6,6 @@
   "clube_id": 266,
   "posicao": "Lateral",
   "rodadas": [
-    25,
-    26,
     27,
     28,
     29,
@@ -16,11 +14,10 @@
     32,
     33,
     34,
-    35
+    35,
+    37
   ],
   "pontos": [
-    1.4,
-    0.8,
     0,
     4.7,
     5,
@@ -29,11 +26,10 @@
     0,
     5.8,
     1.2,
+    0,
     0
   ],
   "precos": [
-    6.93,
-    6.8,
     6.8,
     7.39,
     7.48,
@@ -42,11 +38,10 @@
     7.34,
     7.57,
     6.96,
-    6.65
+    6.65,
+    6.9
   ],
   "variacoes": [
-    -0.64,
-    -0.13,
     0,
     0.59,
     0.09,
@@ -55,11 +50,10 @@
     0,
     0.23,
     -0.61,
-    -0.31
+    -0.31,
+    -1.89
   ],
   "medias": [
-    3.2,
-    3.04,
     3.04,
     3.14,
     3.25,
@@ -68,35 +62,10 @@
     3.27,
     3.4,
     3.29,
-    3.13
+    3.13,
+    3.41
   ],
   "partidas": [
-    {
-      "rodada_id": 25,
-      "clube_casa": "Cuiabá",
-      "clube_casa_id": 1371,
-      "clube_visitante": "Fluminense",
-      "clube_casa_abrev": "CUI",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/16/cuiaba65.png",
-      "clube_visitante_id": 266,
-      "clube_visitante_abrev": "FLU",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/fluminense_60x60.png",
-      "placar_oficial_mandante": 3,
-      "placar_oficial_visitante": 0
-    },
-    {
-      "rodada_id": 26,
-      "clube_casa": "Fluminense",
-      "clube_casa_id": 266,
-      "clube_visitante": "Botafogo",
-      "clube_casa_abrev": "FLU",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/fluminense_60x60.png",
-      "clube_visitante_id": 263,
-      "clube_visitante_abrev": "BOT",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-65.png",
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 2
-    },
     {
       "rodada_id": 27,
       "clube_casa": "Fluminense",
@@ -213,16 +182,29 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2017/03/29/coritiba65.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 37,
+      "clube_casa": "Palmeiras",
+      "clube_casa_id": 275,
+      "clube_visitante": "Fluminense",
+      "clube_casa_abrev": "PAL",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/palmeiras_60x60.png",
+      "clube_visitante_id": 266,
+      "clube_visitante_abrev": "FLU",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/fluminense_60x60.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/06/23/photo_220x220.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2014/04/14/fluminense_60x60.png",
   "scouts": {
-    "rodada_id": 35,
+    "rodada_id": 37,
     "g": 1,
-    "a": 1,
-    "sg": 5,
-    "fs": 17,
+    "a": 2,
+    "sg": 6,
+    "fs": 21,
     "ff": 3,
     "fd": 1,
     "ft": 0,
@@ -233,18 +215,18 @@
     "ca": 2,
     "pp": 0,
     "gs": 0,
-    "fc": 7,
+    "fc": 8,
     "i": 4,
-    "ds": 17,
+    "ds": 18,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
     "pontos_num": 0,
-    "preco_num": 6.65,
-    "variacao_num": -0.31,
-    "media_num": 3.13,
-    "jogos_num": 21,
+    "preco_num": 6.9,
+    "variacao_num": -1.89,
+    "media_num": 3.41,
+    "jogos_num": 23,
     "posicao_abrev": "lat",
     "posicao": "Lateral"
   }

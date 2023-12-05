@@ -6,8 +6,6 @@
   "clube_id": 267,
   "posicao": "Meia",
   "rodadas": [
-    25,
-    26,
     27,
     28,
     29,
@@ -16,11 +14,10 @@
     32,
     33,
     34,
-    35
+    35,
+    37
   ],
   "pontos": [
-    2,
-    2.2,
     8.5,
     2.2,
     0.5,
@@ -29,11 +26,10 @@
     0,
     0,
     10.3,
-    0.5
+    0.5,
+    1
   ],
   "precos": [
-    9.53,
-    9.42,
     10.65,
     9.75,
     9.29,
@@ -42,11 +38,10 @@
     9.11,
     9.11,
     10.46,
-    8.84
+    8.84,
+    8.82
   ],
   "variacoes": [
-    -0.53,
-    -0.11,
     1.23,
     -0.9,
     -0.46,
@@ -55,11 +50,10 @@
     0,
     0,
     1.35,
-    -1.62
+    -1.62,
+    -0.02
   ],
   "medias": [
-    2.28,
-    2.26,
     3.3,
     3.14,
     2.81,
@@ -68,35 +62,10 @@
     2.39,
     2.39,
     3.11,
-    2.89
+    2.89,
+    2.74
   ],
   "partidas": [
-    {
-      "rodada_id": 25,
-      "clube_casa": "Santos",
-      "clube_casa_id": 277,
-      "clube_visitante": "Vasco",
-      "clube_casa_abrev": "SAN",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/santos_60x60.png",
-      "clube_visitante_id": 267,
-      "clube_visitante_abrev": "VAS",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/09/04/ESCUDO-VASCO-RGB_65px.png",
-      "placar_oficial_mandante": 4,
-      "placar_oficial_visitante": 1
-    },
-    {
-      "rodada_id": 26,
-      "clube_casa": "Vasco",
-      "clube_casa_id": 267,
-      "clube_visitante": "São Paulo",
-      "clube_casa_abrev": "VAS",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2021/09/04/ESCUDO-VASCO-RGB_65px.png",
-      "clube_visitante_id": 276,
-      "clube_visitante_abrev": "SAO",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/sao_paulo_60x60.png",
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 27,
       "clube_casa": "Vasco",
@@ -213,16 +182,29 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/09/04/ESCUDO-VASCO-RGB_65px.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 37,
+      "clube_casa": "Grêmio",
+      "clube_casa_id": 284,
+      "clube_visitante": "Vasco",
+      "clube_casa_abrev": "GRE",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/gremio_60x60.png",
+      "clube_visitante_id": 267,
+      "clube_visitante_abrev": "VAS",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/09/04/ESCUDO-VASCO-RGB_65px.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/08/16/photo_220x220_p9gc9dj.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2021/09/04/ESCUDO-VASCO-RGB_65px.png",
   "scouts": {
-    "rodada_id": 35,
+    "rodada_id": 37,
     "g": 2,
     "a": 1,
     "sg": 0,
-    "fs": 15,
+    "fs": 17,
     "ff": 3,
     "fd": 1,
     "ft": 0,
@@ -240,11 +222,11 @@
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 0.5,
-    "preco_num": 8.84,
-    "variacao_num": -1.62,
-    "media_num": 2.89,
-    "jogos_num": 12,
+    "pontos_num": 1,
+    "preco_num": 8.82,
+    "variacao_num": -0.02,
+    "media_num": 2.74,
+    "jogos_num": 13,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }

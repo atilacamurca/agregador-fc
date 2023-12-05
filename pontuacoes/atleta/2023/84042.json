@@ -6,8 +6,6 @@
   "clube_id": 263,
   "posicao": "Atacante",
   "rodadas": [
-    25,
-    26,
     27,
     28,
     29,
@@ -16,11 +14,10 @@
     32,
     33,
     34,
-    35
+    35,
+    37
   ],
   "pontos": [
-    8.3,
-    8.5,
     1.9,
     13.7,
     0,
@@ -29,11 +26,10 @@
     2.3,
     0,
     -0.3,
-    0.3
+    0.3,
+    3.2
   ],
   "precos": [
-    19.54,
-    19.61,
     18.52,
     20.49,
     20.49,
@@ -42,11 +38,10 @@
     18.47,
     18.47,
     17.89,
-    17.63
+    17.63,
+    18.34
   ],
   "variacoes": [
-    0.7,
-    0.07,
     -1.09,
     1.97,
     0,
@@ -55,11 +50,10 @@
     -0.13,
     0,
     -0.58,
-    -0.26
+    -0.26,
+    -1.26
   ],
   "medias": [
-    8.2,
-    8.21,
     7.94,
     8.18,
     8.18,
@@ -68,35 +62,10 @@
     7.57,
     7.57,
     7.29,
-    7.05
+    7.05,
+    7.09
   ],
   "partidas": [
-    {
-      "rodada_id": 25,
-      "clube_casa": "Botafogo",
-      "clube_casa_id": 263,
-      "clube_visitante": "Goiás",
-      "clube_casa_abrev": "BOT",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-65.png",
-      "clube_visitante_id": 290,
-      "clube_visitante_abrev": "GOI",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/03/01/goias-65.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 1
-    },
-    {
-      "rodada_id": 26,
-      "clube_casa": "Fluminense",
-      "clube_casa_id": 266,
-      "clube_visitante": "Botafogo",
-      "clube_casa_abrev": "FLU",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/fluminense_60x60.png",
-      "clube_visitante_id": 263,
-      "clube_visitante_abrev": "BOT",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-65.png",
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 2
-    },
     {
       "rodada_id": 27,
       "clube_casa": "América-MG",
@@ -213,38 +182,51 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/santos_60x60.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 37,
+      "clube_casa": "Botafogo",
+      "clube_casa_id": 263,
+      "clube_visitante": "Cruzeiro",
+      "clube_casa_abrev": "BOT",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-65.png",
+      "clube_visitante_id": 283,
+      "clube_visitante_abrev": "CRU",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/02/13/65_cruzeiro-2021.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/03/07/photo_220x220_TbDAa67.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-65.png",
   "scouts": {
-    "rodada_id": 35,
-    "g": 16,
+    "rodada_id": 37,
+    "g": 17,
     "a": 4,
     "sg": 0,
-    "fs": 75,
-    "ff": 26,
-    "fd": 13,
+    "fs": 80,
+    "ff": 30,
+    "fd": 15,
     "ft": 0,
     "de": 0,
     "dp": 0,
     "gc": 0,
     "cv": 0,
-    "ca": 9,
+    "ca": 10,
     "pp": 2,
     "gs": 0,
-    "fc": 44,
-    "i": 13,
-    "ds": 11,
+    "fc": 47,
+    "i": 15,
+    "ds": 12,
     "pi": 0,
     "pc": 0,
     "ps": 1,
     "v": 0,
-    "pontos_num": 0.3,
-    "preco_num": 17.63,
-    "variacao_num": -0.26,
-    "media_num": 7.05,
-    "jogos_num": 29,
+    "pontos_num": 3.2,
+    "preco_num": 18.34,
+    "variacao_num": -1.26,
+    "media_num": 7.09,
+    "jogos_num": 31,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }

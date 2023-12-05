@@ -6,8 +6,6 @@
   "clube_id": 263,
   "posicao": "Lateral",
   "rodadas": [
-    25,
-    26,
     27,
     28,
     29,
@@ -16,11 +14,10 @@
     32,
     33,
     34,
-    35
+    35,
+    37
   ],
   "pontos": [
-    3.8,
-    4.1,
     2.3,
     0,
     0,
@@ -29,11 +26,10 @@
     1.4,
     9.1,
     1.7,
-    0
+    0,
+    7
   ],
   "precos": [
-    6.94,
-    7.03,
     6.77,
     6.77,
     6.77,
@@ -42,11 +38,10 @@
     6.48,
     7.69,
     6.68,
-    6.68
+    6.68,
+    7.51
   ],
   "variacoes": [
-    0.44,
-    0.09,
     -0.26,
     0,
     0,
@@ -55,11 +50,10 @@
     -0.06,
     1.21,
     -1.01,
-    0
+    0,
+    0.87
   ],
   "medias": [
-    6.9,
-    6.68,
     6.37,
     6.37,
     6.37,
@@ -68,35 +62,10 @@
     5.74,
     5.94,
     5.7,
-    5.7
+    5.7,
+    5.58
   ],
   "partidas": [
-    {
-      "rodada_id": 25,
-      "clube_casa": "Botafogo",
-      "clube_casa_id": 263,
-      "clube_visitante": "Goiás",
-      "clube_casa_abrev": "BOT",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-65.png",
-      "clube_visitante_id": 290,
-      "clube_visitante_abrev": "GOI",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/03/01/goias-65.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 1
-    },
-    {
-      "rodada_id": 26,
-      "clube_casa": "Fluminense",
-      "clube_casa_id": 266,
-      "clube_visitante": "Botafogo",
-      "clube_casa_abrev": "FLU",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/fluminense_60x60.png",
-      "clube_visitante_id": 263,
-      "clube_visitante_abrev": "BOT",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-65.png",
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 2
-    },
     {
       "rodada_id": 27,
       "clube_casa": "América-MG",
@@ -213,18 +182,31 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/santos_60x60.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 37,
+      "clube_casa": "Botafogo",
+      "clube_casa_id": 263,
+      "clube_visitante": "Cruzeiro",
+      "clube_casa_abrev": "BOT",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-65.png",
+      "clube_visitante_id": 283,
+      "clube_visitante_abrev": "CRU",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/02/13/65_cruzeiro-2021.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/03/07/photo_220x220_8tyq2bR.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-65.png",
   "scouts": {
-    "rodada_id": 35,
+    "rodada_id": 37,
     "g": 0,
     "a": 2,
-    "sg": 9,
-    "fs": 12,
-    "ff": 3,
-    "fd": 1,
+    "sg": 10,
+    "fs": 13,
+    "ff": 5,
+    "fd": 2,
     "ft": 0,
     "de": 0,
     "dp": 0,
@@ -233,18 +215,18 @@
     "ca": 1,
     "pp": 0,
     "gs": 0,
-    "fc": 26,
+    "fc": 28,
     "i": 0,
-    "ds": 39,
+    "ds": 40,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 0,
-    "preco_num": 6.68,
-    "variacao_num": 0,
-    "media_num": 5.7,
-    "jogos_num": 18,
+    "pontos_num": 7,
+    "preco_num": 7.51,
+    "variacao_num": 0.87,
+    "media_num": 5.58,
+    "jogos_num": 20,
     "posicao_abrev": "lat",
     "posicao": "Lateral"
   }

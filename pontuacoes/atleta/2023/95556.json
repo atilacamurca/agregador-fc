@@ -6,8 +6,6 @@
   "clube_id": 1371,
   "posicao": "Meia",
   "rodadas": [
-    25,
-    26,
     27,
     28,
     29,
@@ -16,11 +14,10 @@
     32,
     33,
     34,
-    35
+    35,
+    37
   ],
   "pontos": [
-    5.1,
-    0,
     13.9,
     6.2,
     6.3,
@@ -29,11 +26,10 @@
     0,
     5.1,
     4.6,
-    2.4
+    2.4,
+    1.7
   ],
   "precos": [
-    12.42,
-    12.42,
     13.83,
     12.83,
     12.87,
@@ -42,11 +38,10 @@
     11.63,
     12.39,
     12.46,
-    11.96
+    11.96,
+    11.95
   ],
   "variacoes": [
-    0.17,
-    0,
     1.41,
     -1,
     0.04,
@@ -55,11 +50,10 @@
     0,
     0.76,
     0.07,
-    -0.5
+    -0.5,
+    -0.21
   ],
   "medias": [
-    5.1,
-    5.1,
     5.48,
     5.51,
     5.54,
@@ -68,35 +62,10 @@
     5.19,
     5.19,
     5.17,
-    5.08
+    5.08,
+    4.92
   ],
   "partidas": [
-    {
-      "rodada_id": 25,
-      "clube_casa": "Cuiabá",
-      "clube_casa_id": 1371,
-      "clube_visitante": "Fluminense",
-      "clube_casa_abrev": "CUI",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/16/cuiaba65.png",
-      "clube_visitante_id": 266,
-      "clube_visitante_abrev": "FLU",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/fluminense_60x60.png",
-      "placar_oficial_mandante": 3,
-      "placar_oficial_visitante": 0
-    },
-    {
-      "rodada_id": 26,
-      "clube_casa": "Cuiabá",
-      "clube_casa_id": 1371,
-      "clube_visitante": "Cruzeiro",
-      "clube_casa_abrev": "CUI",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/16/cuiaba65.png",
-      "clube_visitante_id": 283,
-      "clube_visitante_abrev": "CRU",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/02/13/65_cruzeiro-2021.png",
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 27,
       "clube_casa": "Coritiba",
@@ -213,38 +182,51 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/16/cuiaba65.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 37,
+      "clube_casa": "Flamengo",
+      "clube_casa_id": 262,
+      "clube_visitante": "Cuiabá",
+      "clube_casa_abrev": "FLA",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2018/04/09/Flamengo-65.png",
+      "clube_visitante_id": 1371,
+      "clube_visitante_abrev": "CUI",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/16/cuiaba65.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/03/31/photo_220x220_j6biYTV.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2014/04/16/cuiaba65.png",
   "scouts": {
-    "rodada_id": 35,
+    "rodada_id": 37,
     "g": 3,
     "a": 1,
     "sg": 0,
-    "fs": 57,
-    "ff": 19,
-    "fd": 11,
+    "fs": 60,
+    "ff": 20,
+    "fd": 12,
     "ft": 1,
     "de": 0,
     "dp": 0,
     "gc": 0,
     "cv": 0,
-    "ca": 9,
+    "ca": 10,
     "pp": 0,
     "gs": 0,
     "fc": 35,
     "i": 1,
-    "ds": 70,
+    "ds": 72,
     "pi": 0,
     "pc": 1,
     "ps": 0,
     "v": 0,
-    "pontos_num": 2.4,
-    "preco_num": 11.96,
-    "variacao_num": -0.5,
-    "media_num": 5.08,
-    "jogos_num": 30,
+    "pontos_num": 1.7,
+    "preco_num": 11.95,
+    "variacao_num": -0.21,
+    "media_num": 4.92,
+    "jogos_num": 32,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }
