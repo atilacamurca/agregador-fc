@@ -15,7 +15,8 @@
     33,
     34,
     35,
-    37
+    37,
+    38
   ],
   "pontos": [
     1.9,
@@ -27,7 +28,8 @@
     0,
     -0.3,
     0.3,
-    3.2
+    3.2,
+    0.5
   ],
   "precos": [
     18.52,
@@ -39,7 +41,8 @@
     18.47,
     17.89,
     17.63,
-    18.34
+    18.34,
+    17.88
   ],
   "variacoes": [
     -1.09,
@@ -51,7 +54,8 @@
     0,
     -0.58,
     -0.26,
-    -1.26
+    -1.26,
+    -0.46
   ],
   "medias": [
     7.94,
@@ -63,7 +67,8 @@
     7.57,
     7.29,
     7.05,
-    7.09
+    7.09,
+    6.88
   ],
   "partidas": [
     {
@@ -195,16 +200,29 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/02/13/65_cruzeiro-2021.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 38,
+      "clube_casa": "Internacional",
+      "clube_casa_id": 285,
+      "clube_visitante": "Botafogo",
+      "clube_casa_abrev": "INT",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2016/05/03/inter65.png",
+      "clube_visitante_id": 263,
+      "clube_visitante_abrev": "BOT",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-65.png",
+      "placar_oficial_mandante": 3,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/03/07/photo_220x220_TbDAa67.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-65.png",
   "scouts": {
-    "rodada_id": 37,
+    "rodada_id": 38,
     "g": 17,
     "a": 4,
     "sg": 0,
-    "fs": 80,
+    "fs": 81,
     "ff": 30,
     "fd": 15,
     "ft": 0,
@@ -222,11 +240,11 @@
     "pc": 0,
     "ps": 1,
     "v": 0,
-    "pontos_num": 3.2,
-    "preco_num": 18.34,
-    "variacao_num": -1.26,
-    "media_num": 7.09,
-    "jogos_num": 31,
+    "pontos_num": 0.5,
+    "preco_num": 17.88,
+    "variacao_num": -0.46,
+    "media_num": 6.88,
+    "jogos_num": 32,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }

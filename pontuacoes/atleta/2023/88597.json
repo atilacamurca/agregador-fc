@@ -15,7 +15,8 @@
     33,
     34,
     35,
-    37
+    37,
+    38
   ],
   "pontos": [
     0,
@@ -27,6 +28,7 @@
     1.5,
     0,
     2.4,
+    0,
     0
   ],
   "precos": [
@@ -39,7 +41,8 @@
     3.47,
     3.47,
     3.6,
-    3.26
+    3.26,
+    3.24
   ],
   "variacoes": [
     0,
@@ -51,7 +54,8 @@
     -0.26,
     0,
     0.13,
-    -0.34
+    -0.34,
+    -0.02
   ],
   "medias": [
     1.25,
@@ -63,7 +67,8 @@
     1.24,
     1.24,
     1.32,
-    1.23
+    1.23,
+    1.15
   ],
   "partidas": [
     {
@@ -195,12 +200,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/03/01/goias-65.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 38,
+      "clube_casa": "Santos",
+      "clube_casa_id": 277,
+      "clube_visitante": "Fortaleza",
+      "clube_casa_abrev": "SAN",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/santos_60x60.png",
+      "clube_visitante_id": 356,
+      "clube_visitante_abrev": "FOR",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/09/19/65_0000_Fortaleza-2021.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/05/06/photo_220x220_EvxhSX5.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2021/09/19/65_0000_Fortaleza-2021.png",
   "scouts": {
-    "rodada_id": 37,
+    "rodada_id": 38,
     "g": 0,
     "a": 0,
     "sg": 0,
@@ -223,10 +241,10 @@
     "ps": 0,
     "v": 0,
     "pontos_num": 0,
-    "preco_num": 3.26,
-    "variacao_num": -0.34,
-    "media_num": 1.23,
-    "jogos_num": 15,
+    "preco_num": 3.24,
+    "variacao_num": -0.02,
+    "media_num": 1.15,
+    "jogos_num": 16,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }

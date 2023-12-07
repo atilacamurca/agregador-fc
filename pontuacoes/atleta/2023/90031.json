@@ -15,7 +15,8 @@
     33,
     34,
     35,
-    37
+    37,
+    38
   ],
   "pontos": [
     5,
@@ -27,6 +28,7 @@
     1.8,
     0,
     1.7,
+    0,
     0
   ],
   "precos": [
@@ -39,6 +41,7 @@
     12.15,
     12.15,
     11.98,
+    11.85,
     11.85
   ],
   "variacoes": [
@@ -51,7 +54,8 @@
     0.04,
     0,
     -0.17,
-    -0.92
+    -0.92,
+    0
   ],
   "medias": [
     5.82,
@@ -63,6 +67,7 @@
     5.12,
     5.12,
     4.98,
+    4.83,
     4.83
   ],
   "partidas": [
@@ -195,12 +200,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/santos_60x60.png",
       "placar_oficial_mandante": 3,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 38,
+      "clube_casa": "Santos",
+      "clube_casa_id": 277,
+      "clube_visitante": "Fortaleza",
+      "clube_casa_abrev": "SAN",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/santos_60x60.png",
+      "clube_visitante_id": 356,
+      "clube_visitante_abrev": "FOR",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/09/19/65_0000_Fortaleza-2021.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/02/28/photo_220x220_fdX9HMF.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2014/04/14/santos_60x60.png",
   "scouts": {
-    "rodada_id": 37,
+    "rodada_id": 38,
     "g": 6,
     "a": 2,
     "sg": 0,
@@ -224,7 +242,7 @@
     "v": 0,
     "pontos_num": 0,
     "preco_num": 11.85,
-    "variacao_num": -0.92,
+    "variacao_num": 0,
     "media_num": 4.83,
     "jogos_num": 26,
     "posicao_abrev": "ata",

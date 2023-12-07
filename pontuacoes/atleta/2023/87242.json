@@ -15,7 +15,8 @@
     33,
     34,
     35,
-    37
+    37,
+    38
   ],
   "pontos": [
     0,
@@ -27,6 +28,7 @@
     0,
     0,
     0.5,
+    0,
     0
   ],
   "precos": [
@@ -39,6 +41,7 @@
     6.45,
     6.47,
     6.43,
+    6.35,
     6.35
   ],
   "variacoes": [
@@ -51,7 +54,8 @@
     -0.46,
     0.02,
     -0.04,
-    0.03
+    0.03,
+    0
   ],
   "medias": [
     2.75,
@@ -63,6 +67,7 @@
     2.27,
     2.18,
     2.11,
+    1.95,
     1.95
   ],
   "partidas": [
@@ -195,12 +200,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2016/05/03/inter65.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 38,
+      "clube_casa": "Internacional",
+      "clube_casa_id": 285,
+      "clube_visitante": "Botafogo",
+      "clube_casa_abrev": "INT",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2016/05/03/inter65.png",
+      "clube_visitante_id": 263,
+      "clube_visitante_abrev": "BOT",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-65.png",
+      "placar_oficial_mandante": 3,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/03/07/photo_220x220_8NTSnKt.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2016/05/03/inter65.png",
   "scouts": {
-    "rodada_id": 37,
+    "rodada_id": 38,
     "g": 2,
     "a": 0,
     "sg": 0,
@@ -224,7 +242,7 @@
     "v": 0,
     "pontos_num": 0,
     "preco_num": 6.35,
-    "variacao_num": 0.03,
+    "variacao_num": 0,
     "media_num": 1.95,
     "jogos_num": 27,
     "posicao_abrev": "mei",

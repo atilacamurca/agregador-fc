@@ -15,7 +15,8 @@
     33,
     34,
     35,
-    37
+    37,
+    38
   ],
   "pontos": [
     0,
@@ -27,7 +28,8 @@
     2.8,
     0,
     1.2,
-    8.2
+    8.2,
+    0.5
   ],
   "precos": [
     0.76,
@@ -39,7 +41,8 @@
     1.38,
     1.38,
     1.17,
-    2.38
+    2.38,
+    1.26
   ],
   "variacoes": [
     0,
@@ -51,7 +54,8 @@
     -0.08,
     0,
     -0.21,
-    1.32
+    1.32,
+    -1.12
   ],
   "medias": [
     0.3,
@@ -63,7 +67,8 @@
     2.13,
     2.13,
     2.01,
-    2.47
+    2.47,
+    2.29
   ],
   "partidas": [
     {
@@ -195,16 +200,29 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/09/04/ESCUDO-VASCO-RGB_65px.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 38,
+      "clube_casa": "Fluminense",
+      "clube_casa_id": 266,
+      "clube_visitante": "Grêmio",
+      "clube_casa_abrev": "FLU",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/fluminense_60x60.png",
+      "clube_visitante_id": 284,
+      "clube_visitante_abrev": "GRE",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/gremio_60x60.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 3
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/11/30/photo_220x220_3LOUtyA.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2014/04/14/gremio_60x60.png",
   "scouts": {
-    "rodada_id": 37,
+    "rodada_id": 38,
     "g": 1,
     "a": 1,
     "sg": 0,
-    "fs": 8,
+    "fs": 9,
     "ff": 5,
     "fd": 5,
     "ft": 0,
@@ -222,11 +240,11 @@
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 8.2,
-    "preco_num": 2.38,
-    "variacao_num": 1.32,
-    "media_num": 2.47,
-    "jogos_num": 10,
+    "pontos_num": 0.5,
+    "preco_num": 1.26,
+    "variacao_num": -1.12,
+    "media_num": 2.29,
+    "jogos_num": 11,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }
