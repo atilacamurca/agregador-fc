@@ -9,6 +9,8 @@
     "data": "npm run data:import && npm run data:export",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
+    "predeploy-netlify": "npm run build",
+    "deploy-netlify": "netlify deploy --dir=dist --prod",
     "build": "gridsome build",
     "explore": "gridsome explore",
     "webdash": "webdash serve"
@@ -26,6 +28,7 @@
     "fuse.js": "^3.4.5",
     "gridsome": "^0.7.23",
     "lodash.find": "^4.6.0",
+    "netlify-cli": "^17.21.2",
     "v-debounce": "^0.1.2",
     "vue-chartjs": "^3.5.1",
     "vue-feather-icons": "^5.1.0"
