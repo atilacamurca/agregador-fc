@@ -1,27 +1,5 @@
 <template>
   <Layout>
-    <b-row v-if="$page.rodada.rodada <= 4">
-      <b-col
-        md="10"
-        lg="10"
-        offset-md="1"
-      >
-        <div
-          class="alert alert-info"
-          role="alert"
-        >
-          <h4 class="alert-heading">
-            Sabia que a rodada {{ $page.rodada.rodada }} possui regras especiais?
-          </h4>
-          <hr />
-          <g-link
-            :to="`/dicas/rodada-${$page.rodada.rodada}`"
-            class="alert-link"
-          >Saiba mais</g-link>
-        </div>
-      </b-col>
-    </b-row>
-
     <b-row>
       <b-col
         cols="8"

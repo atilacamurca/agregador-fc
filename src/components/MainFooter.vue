@@ -12,6 +12,12 @@
         <div class="col-md-2 col-lg-2 col-xl-2 mx-auto mb-4">
           <h6 class="text-uppercase font-weight-bold border-bottom pb-3">Temporadas</h6>
           <p>
+            <a href="https://agregador-fc-2023.netlify.app/"
+             target="_blank" rel="noopener noreferrer" class="text-white">2023</a>
+          </p>
+        </div>
+        <div class="col-md-2 col-lg-2 col-xl-2 mx-auto mb-4">
+          <p>
             <a href="https://agregador-fc-2022.netlify.app/"
              target="_blank" rel="noopener noreferrer" class="text-white">2022</a>
           </p>
