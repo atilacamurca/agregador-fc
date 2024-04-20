@@ -6,19 +6,24 @@
   "clube_id": 286,
   "posicao": "Técnico",
   "rodadas": [
-    1
+    1,
+    2
   ],
   "pontos": [
-    0
+    0,
+    9.55
   ],
   "precos": [
-    4
+    4,
+    6.47
   ],
   "variacoes": [
-    0
+    0,
+    2
   ],
   "medias": [
-    0
+    0,
+    6.45
   ],
   "partidas": [
     {
@@ -27,18 +32,31 @@
       "clube_casa_id": 288,
       "clube_visitante": "Juventude",
       "clube_casa_abrev": "CRI",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/criciuma_60x60.png",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2024/03/28/criciuma-65.png",
       "clube_visitante_id": 286,
       "clube_visitante_abrev": "JUV",
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/04/29/juventude65.png",
-      "placar_oficial_mandante": 0,
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 2,
+      "clube_casa": "Juventude",
+      "clube_casa_id": 286,
+      "clube_visitante": "Corinthians",
+      "clube_casa_abrev": "JUV",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2021/04/29/juventude65.png",
+      "clube_visitante_id": 264,
+      "clube_visitante_abrev": "COR",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/09/30/Corinthians_65.png",
+      "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2021/04/27/ec1e7e490c3a05088fd967b9e2468216_220x220.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2021/04/29/juventude65.png",
   "scouts": {
-    "rodada_id": 1,
+    "rodada_id": 2,
     "g": 0,
     "a": 0,
     "sg": 0,
@@ -59,12 +77,12 @@
     "pi": 0,
     "pc": 0,
     "ps": 0,
-    "v": 0,
-    "pontos_num": 0,
-    "preco_num": 4,
-    "variacao_num": 0,
-    "media_num": 0,
-    "jogos_num": 0,
+    "v": 1,
+    "pontos_num": 9.55,
+    "preco_num": 6.47,
+    "variacao_num": 2,
+    "media_num": 6.45,
+    "jogos_num": 2,
     "posicao_abrev": "tec",
     "posicao": "Técnico"
   }

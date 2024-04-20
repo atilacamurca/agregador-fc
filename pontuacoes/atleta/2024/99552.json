@@ -6,19 +6,24 @@
   "clube_id": 262,
   "posicao": "Goleiro",
   "rodadas": [
-    1
+    1,
+    2
   ],
   "pontos": [
+    0,
     0
   ],
   "precos": [
-    9
+    9,
+    6.84
   ],
   "variacoes": [
-    0
+    0,
+    -1.27
   ],
   "medias": [
-    0
+    0,
+    1
   ],
   "partidas": [
     {
@@ -31,14 +36,27 @@
       "clube_visitante_id": 262,
       "clube_visitante_abrev": "FLA",
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2018/04/09/Flamengo-65.png",
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 0
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 2,
+      "clube_casa": "Flamengo",
+      "clube_casa_id": 262,
+      "clube_visitante": "São Paulo",
+      "clube_casa_abrev": "FLA",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2018/04/09/Flamengo-65.png",
+      "clube_visitante_id": 276,
+      "clube_visitante_abrev": "SAO",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/sao_paulo_60x60.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/02/26/photo_220x220_sM4o3AF.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2018/04/09/Flamengo-65.png",
   "scouts": {
-    "rodada_id": 1,
+    "rodada_id": 2,
     "g": 0,
     "a": 0,
     "sg": 0,
@@ -46,13 +64,13 @@
     "ff": 0,
     "fd": 0,
     "ft": 0,
-    "de": 0,
+    "de": 4,
     "dp": 0,
     "gc": 0,
     "cv": 0,
     "ca": 0,
     "pp": 0,
-    "gs": 0,
+    "gs": 2,
     "fc": 0,
     "i": 0,
     "ds": 0,
@@ -61,10 +79,10 @@
     "ps": 0,
     "v": 0,
     "pontos_num": 0,
-    "preco_num": 9,
-    "variacao_num": 0,
-    "media_num": 0,
-    "jogos_num": 0,
+    "preco_num": 6.84,
+    "variacao_num": -1.27,
+    "media_num": 1,
+    "jogos_num": 2,
     "posicao_abrev": "gol",
     "posicao": "Goleiro"
   }

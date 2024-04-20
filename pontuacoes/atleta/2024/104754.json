@@ -6,19 +6,24 @@
   "clube_id": 356,
   "posicao": "Técnico",
   "rodadas": [
-    1
+    1,
+    2
   ],
   "pontos": [
-    0
+    0,
+    3.35
   ],
   "precos": [
-    9
+    9,
+    9.12
   ],
   "variacoes": [
-    0
+    0,
+    -0.21
   ],
   "medias": [
-    0
+    0,
+    4.42
   ],
   "partidas": [
     {
@@ -31,14 +36,27 @@
       "clube_visitante_id": 356,
       "clube_visitante_abrev": "FOR",
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/09/19/65_0000_Fortaleza-2021.png",
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 0
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 2,
+      "clube_casa": "Fortaleza",
+      "clube_casa_id": 356,
+      "clube_visitante": "Cruzeiro",
+      "clube_casa_abrev": "FOR",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2021/09/19/65_0000_Fortaleza-2021.png",
+      "clube_visitante_id": 283,
+      "clube_visitante_abrev": "CRU",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/02/13/65_cruzeiro-2021.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/03/07/photo_220x220_UIx1Yzg.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2021/09/19/65_0000_Fortaleza-2021.png",
   "scouts": {
-    "rodada_id": 1,
+    "rodada_id": 2,
     "g": 0,
     "a": 0,
     "sg": 0,
@@ -59,12 +77,12 @@
     "pi": 0,
     "pc": 0,
     "ps": 0,
-    "v": 0,
-    "pontos_num": 0,
-    "preco_num": 9,
-    "variacao_num": 0,
-    "media_num": 0,
-    "jogos_num": 0,
+    "v": 1,
+    "pontos_num": 3.35,
+    "preco_num": 9.12,
+    "variacao_num": -0.21,
+    "media_num": 4.42,
+    "jogos_num": 2,
     "posicao_abrev": "tec",
     "posicao": "Técnico"
   }

@@ -6,19 +6,24 @@
   "clube_id": 285,
   "posicao": "Zagueiro",
   "rodadas": [
-    1
+    1,
+    2
   ],
   "pontos": [
-    0
+    0,
+    5
   ],
   "precos": [
-    6
+    6,
+    6.43
   ],
   "variacoes": [
-    0
+    0,
+    0.43
   ],
   "medias": [
-    0
+    0,
+    5
   ],
   "partidas": [
     {
@@ -31,17 +36,30 @@
       "clube_visitante_id": 265,
       "clube_visitante_abrev": "BAH",
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/bahia_60x60.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 2,
+      "clube_casa": "Palmeiras",
+      "clube_casa_id": 275,
+      "clube_visitante": "Internacional",
+      "clube_casa_abrev": "PAL",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/palmeiras_60x60.png",
+      "clube_visitante_id": 285,
+      "clube_visitante_abrev": "INT",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2016/05/03/inter65.png",
       "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 0
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/03/01/photo_220x220_cScwdGd.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2016/05/03/inter65.png",
   "scouts": {
-    "rodada_id": 1,
+    "rodada_id": 2,
     "g": 0,
     "a": 0,
-    "sg": 0,
+    "sg": 1,
     "fs": 0,
     "ff": 0,
     "fd": 0,
@@ -60,11 +78,11 @@
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 0,
-    "preco_num": 6,
-    "variacao_num": 0,
-    "media_num": 0,
-    "jogos_num": 0,
+    "pontos_num": 5,
+    "preco_num": 6.43,
+    "variacao_num": 0.43,
+    "media_num": 5,
+    "jogos_num": 1,
     "posicao_abrev": "zag",
     "posicao": "Zagueiro"
   }

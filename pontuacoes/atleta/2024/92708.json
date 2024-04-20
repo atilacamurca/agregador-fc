@@ -6,19 +6,24 @@
   "clube_id": 1371,
   "posicao": "Atacante",
   "rodadas": [
-    1
+    1,
+    2
   ],
   "pontos": [
+    0,
     0
   ],
   "precos": [
-    8
+    8,
+    8.09
   ],
   "variacoes": [
+    0,
     0
   ],
   "medias": [
-    0
+    0,
+    4.3
   ],
   "partidas": [
     {
@@ -31,6 +36,19 @@
       "clube_visitante_id": 1371,
       "clube_visitante_abrev": "CUI",
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/16/cuiaba65.png",
+      "placar_oficial_mandante": 4,
+      "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 2,
+      "clube_casa": "Cuiabá",
+      "clube_casa_id": 1371,
+      "clube_visitante": "Vitória",
+      "clube_casa_abrev": "CUI",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/16/cuiaba65.png",
+      "clube_visitante_id": 287,
+      "clube_visitante_abrev": "VIT",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2024/04/09/escudo-vitoria-65x65-69284.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 0
     }
@@ -38,13 +56,13 @@
   "foto": "https://s.sde.globo.com/media/person_role/2024/02/29/photo_220x220_K9KAkJa.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2014/04/16/cuiaba65.png",
   "scouts": {
-    "rodada_id": 1,
+    "rodada_id": 2,
     "g": 0,
     "a": 0,
     "sg": 0,
-    "fs": 0,
+    "fs": 4,
     "ff": 0,
-    "fd": 0,
+    "fd": 1,
     "ft": 0,
     "de": 0,
     "dp": 0,
@@ -54,17 +72,17 @@
     "pp": 0,
     "gs": 0,
     "fc": 0,
-    "i": 0,
-    "ds": 0,
+    "i": 1,
+    "ds": 1,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
     "pontos_num": 0,
-    "preco_num": 8,
+    "preco_num": 8.09,
     "variacao_num": 0,
-    "media_num": 0,
-    "jogos_num": 0,
+    "media_num": 4.3,
+    "jogos_num": 1,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }

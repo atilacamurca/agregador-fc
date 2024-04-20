@@ -6,19 +6,24 @@
   "clube_id": 283,
   "posicao": "Atacante",
   "rodadas": [
-    1
-  ],
-  "pontos": [
-    0
-  ],
-  "precos": [
+    1,
     2
   ],
+  "pontos": [
+    0,
+    5
+  ],
+  "precos": [
+    2,
+    3.27
+  ],
   "variacoes": [
-    0
+    0,
+    1.27
   ],
   "medias": [
-    0
+    0,
+    5
   ],
   "partidas": [
     {
@@ -31,16 +36,29 @@
       "clube_visitante_id": 263,
       "clube_visitante_abrev": "BOT",
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-65.png",
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 0
+      "placar_oficial_mandante": 3,
+      "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 2,
+      "clube_casa": "Fortaleza",
+      "clube_casa_id": 356,
+      "clube_visitante": "Cruzeiro",
+      "clube_casa_abrev": "FOR",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2021/09/19/65_0000_Fortaleza-2021.png",
+      "clube_visitante_id": 283,
+      "clube_visitante_abrev": "CRU",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/02/13/65_cruzeiro-2021.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/03/02/photo_220x220_0Vl4WfI.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2021/02/13/65_cruzeiro-2021.png",
   "scouts": {
-    "rodada_id": 1,
+    "rodada_id": 2,
     "g": 0,
-    "a": 0,
+    "a": 1,
     "sg": 0,
     "fs": 0,
     "ff": 0,
@@ -60,11 +78,11 @@
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 0,
-    "preco_num": 2,
-    "variacao_num": 0,
-    "media_num": 0,
-    "jogos_num": 0,
+    "pontos_num": 5,
+    "preco_num": 3.27,
+    "variacao_num": 1.27,
+    "media_num": 5,
+    "jogos_num": 1,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }

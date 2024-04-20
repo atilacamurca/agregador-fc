@@ -6,19 +6,24 @@
   "clube_id": 265,
   "posicao": "Técnico",
   "rodadas": [
-    1
+    1,
+    2
   ],
   "pontos": [
+    0,
     0
   ],
   "precos": [
-    10
+    10,
+    9.66
   ],
   "variacoes": [
+    0,
     0
   ],
   "medias": [
-    0
+    0,
+    4.08
   ],
   "partidas": [
     {
@@ -31,14 +36,27 @@
       "clube_visitante_id": 265,
       "clube_visitante_abrev": "BAH",
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/bahia_60x60.png",
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 0
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 2,
+      "clube_casa": "Bahia",
+      "clube_casa_id": 265,
+      "clube_visitante": "Fluminense",
+      "clube_casa_abrev": "BAH",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/bahia_60x60.png",
+      "clube_visitante_id": 266,
+      "clube_visitante_abrev": "FLU",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/fluminense_60x60.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2022/03/01/e6fac1f227854170a80b2cf3234bfa1d_220x220.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2014/04/14/bahia_60x60.png",
   "scouts": {
-    "rodada_id": 1,
+    "rodada_id": 2,
     "g": 0,
     "a": 0,
     "sg": 0,
@@ -61,10 +79,10 @@
     "ps": 0,
     "v": 0,
     "pontos_num": 0,
-    "preco_num": 10,
+    "preco_num": 9.66,
     "variacao_num": 0,
-    "media_num": 0,
-    "jogos_num": 0,
+    "media_num": 4.08,
+    "jogos_num": 1,
     "posicao_abrev": "tec",
     "posicao": "Técnico"
   }
