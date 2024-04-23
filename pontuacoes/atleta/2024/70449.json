@@ -7,23 +7,28 @@
   "posicao": "Goleiro",
   "rodadas": [
     1,
-    2
+    2,
+    3
   ],
   "pontos": [
     0,
-    7.5
+    7.5,
+    -6
   ],
   "precos": [
     4,
-    4.78
+    4.78,
+    2.82
   ],
   "variacoes": [
     0,
-    1.31
+    1.31,
+    -1.96
   ],
   "medias": [
     0,
-    4
+    4,
+    0.67
   ],
   "partidas": [
     {
@@ -51,12 +56,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/09/30/Corinthians_65.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 3,
+      "clube_casa": "Botafogo",
+      "clube_casa_id": 263,
+      "clube_visitante": "Juventude",
+      "clube_casa_abrev": "BOT",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-65.png",
+      "clube_visitante_id": 286,
+      "clube_visitante_abrev": "JUV",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/04/29/juventude65.png",
+      "placar_oficial_mandante": 5,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/03/11/photo_220x220_8qXDLkA.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2021/04/29/juventude65.png",
   "scouts": {
-    "rodada_id": 2,
+    "rodada_id": 3,
     "g": 0,
     "a": 0,
     "sg": 1,
@@ -68,9 +86,9 @@
     "dp": 0,
     "gc": 0,
     "cv": 0,
-    "ca": 1,
+    "ca": 2,
     "pp": 0,
-    "gs": 1,
+    "gs": 6,
     "fc": 0,
     "i": 0,
     "ds": 0,
@@ -78,11 +96,11 @@
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 7.5,
-    "preco_num": 4.78,
-    "variacao_num": 1.31,
-    "media_num": 4,
-    "jogos_num": 2,
+    "pontos_num": -6,
+    "preco_num": 2.82,
+    "variacao_num": -1.96,
+    "media_num": 0.67,
+    "jogos_num": 3,
     "posicao_abrev": "gol",
     "posicao": "Goleiro"
   }

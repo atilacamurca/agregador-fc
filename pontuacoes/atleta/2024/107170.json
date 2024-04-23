@@ -7,23 +7,28 @@
   "posicao": "Atacante",
   "rodadas": [
     1,
-    2
+    2,
+    3
   ],
   "pontos": [
     0,
-    3.9
+    3.9,
+    -1.9
   ],
   "precos": [
     7,
-    6.7
+    6.7,
+    5.35
   ],
   "variacoes": [
     0,
-    0.06
+    0.06,
+    -1.35
   ],
   "medias": [
     0,
-    3.2
+    3.2,
+    1.5
   ],
   "partidas": [
     {
@@ -51,12 +56,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2020/07/02/atletico-go-2020-65.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 3,
+      "clube_casa": "Botafogo",
+      "clube_casa_id": 263,
+      "clube_visitante": "Juventude",
+      "clube_casa_abrev": "BOT",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-65.png",
+      "clube_visitante_id": 286,
+      "clube_visitante_abrev": "JUV",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/04/29/juventude65.png",
+      "placar_oficial_mandante": 5,
+      "placar_oficial_visitante": 1
     }
   ],
-  "foto": "https://s.sde.globo.com/media/person_role/2022/06/16/01982dd5226684462ec07bec6dffd11b_220x220.png",
+  "foto": "https://s.sde.globo.com/media/person_role/2024/04/20/photo_220x220_jfNtXEg.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-65.png",
   "scouts": {
-    "rodada_id": 2,
+    "rodada_id": 3,
     "g": 0,
     "a": 0,
     "sg": 0,
@@ -68,21 +86,21 @@
     "dp": 0,
     "gc": 0,
     "cv": 0,
-    "ca": 0,
+    "ca": 1,
     "pp": 0,
     "gs": 0,
-    "fc": 2,
+    "fc": 5,
     "i": 0,
     "ds": 1,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 3.9,
-    "preco_num": 6.7,
-    "variacao_num": 0.06,
-    "media_num": 3.2,
-    "jogos_num": 2,
+    "pontos_num": -1.9,
+    "preco_num": 5.35,
+    "variacao_num": -1.35,
+    "media_num": 1.5,
+    "jogos_num": 3,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }

@@ -7,23 +7,28 @@
   "posicao": "Meia",
   "rodadas": [
     1,
-    2
+    2,
+    3
   ],
   "pontos": [
     0,
-    0
+    0,
+    3.7
   ],
   "precos": [
     18,
-    14.62
+    14.62,
+    13.02
   ],
   "variacoes": [
     0,
-    0
+    0,
+    -1.6
   ],
   "medias": [
     0,
-    -0.5
+    -0.5,
+    1.6
   ],
   "partidas": [
     {
@@ -51,18 +56,31 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/sao_paulo_60x60.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 3,
+      "clube_casa": "Palmeiras",
+      "clube_casa_id": 275,
+      "clube_visitante": "Flamengo",
+      "clube_casa_abrev": "PAL",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/palmeiras_60x60.png",
+      "clube_visitante_id": 262,
+      "clube_visitante_abrev": "FLA",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2018/04/09/Flamengo-65.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/03/20/photo_220x220_ehYT9k1.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2018/04/09/Flamengo-65.png",
   "scouts": {
-    "rodada_id": 2,
+    "rodada_id": 3,
     "g": 0,
     "a": 0,
     "sg": 0,
-    "fs": 0,
-    "ff": 1,
-    "fd": 0,
+    "fs": 4,
+    "ff": 2,
+    "fd": 1,
     "ft": 0,
     "de": 0,
     "dp": 0,
@@ -71,18 +89,18 @@
     "ca": 1,
     "pp": 0,
     "gs": 0,
-    "fc": 1,
+    "fc": 2,
     "i": 0,
     "ds": 0,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 0,
-    "preco_num": 14.62,
-    "variacao_num": 0,
-    "media_num": -0.5,
-    "jogos_num": 1,
+    "pontos_num": 3.7,
+    "preco_num": 13.02,
+    "variacao_num": -1.6,
+    "media_num": 1.6,
+    "jogos_num": 2,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }

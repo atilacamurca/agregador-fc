@@ -7,23 +7,28 @@
   "posicao": "Lateral",
   "rodadas": [
     1,
-    2
+    2,
+    3
   ],
   "pontos": [
+    0,
     0,
     0
   ],
   "precos": [
     5,
-    5.13
+    5.13,
+    4.62
   ],
   "variacoes": [
     0,
-    0
+    0,
+    -0.51
   ],
   "medias": [
     0,
-    2.9
+    2.9,
+    1.45
   ],
   "partidas": [
     {
@@ -51,12 +56,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/fluminense_60x60.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 3,
+      "clube_casa": "Vitória",
+      "clube_casa_id": 287,
+      "clube_visitante": "Bahia",
+      "clube_casa_abrev": "VIT",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2024/04/09/escudo-vitoria-65x65-69284.png",
+      "clube_visitante_id": 265,
+      "clube_visitante_abrev": "BAH",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/bahia_60x60.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/02/29/photo_220x220_rR1yZyw.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2014/04/14/bahia_60x60.png",
   "scouts": {
-    "rodada_id": 2,
+    "rodada_id": 3,
     "g": 0,
     "a": 0,
     "sg": 0,
@@ -79,10 +97,10 @@
     "ps": 0,
     "v": 0,
     "pontos_num": 0,
-    "preco_num": 5.13,
-    "variacao_num": 0,
-    "media_num": 2.9,
-    "jogos_num": 1,
+    "preco_num": 4.62,
+    "variacao_num": -0.51,
+    "media_num": 1.45,
+    "jogos_num": 2,
     "posicao_abrev": "lat",
     "posicao": "Lateral"
   }
