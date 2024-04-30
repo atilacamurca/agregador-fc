@@ -8,26 +8,31 @@
   "rodadas": [
     1,
     2,
-    3
+    3,
+    4
   ],
   "pontos": [
     0,
     0,
-    1.2
+    1.2,
+    0
   ],
   "precos": [
     4,
     4,
+    3.64,
     3.64
   ],
   "variacoes": [
     0,
     0,
-    -0.36
+    -0.36,
+    0
   ],
   "medias": [
     0,
     0,
+    1.2,
     1.2
   ],
   "partidas": [
@@ -69,12 +74,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/09/30/Corinthians_65.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 4,
+      "clube_casa": "Corinthians",
+      "clube_casa_id": 264,
+      "clube_visitante": "Fluminense",
+      "clube_casa_abrev": "COR",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2019/09/30/Corinthians_65.png",
+      "clube_visitante_id": 266,
+      "clube_visitante_abrev": "FLU",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/fluminense_60x60.png",
+      "placar_oficial_mandante": 3,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/02/27/photo_220x220_6EPA4gp.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2019/09/30/Corinthians_65.png",
   "scouts": {
-    "rodada_id": 3,
+    "rodada_id": 4,
     "g": 0,
     "a": 0,
     "sg": 0,
@@ -96,9 +114,9 @@
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 1.2,
+    "pontos_num": 0,
     "preco_num": 3.64,
-    "variacao_num": -0.36,
+    "variacao_num": 0,
     "media_num": 1.2,
     "jogos_num": 1,
     "posicao_abrev": "zag",

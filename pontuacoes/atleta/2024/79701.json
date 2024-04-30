@@ -8,27 +8,32 @@
   "rodadas": [
     1,
     2,
-    3
+    3,
+    4
   ],
   "pontos": [
     0,
     2.6,
-    -1.6
+    -1.6,
+    -2.5
   ],
   "precos": [
     5,
     7.66,
-    6.2
+    6.2,
+    5.02
   ],
   "variacoes": [
     0,
     0.41,
-    -1.46
+    -1.46,
+    -1.18
   ],
   "medias": [
     0,
     5.75,
-    3.3
+    3.3,
+    1.85
   ],
   "partidas": [
     {
@@ -69,22 +74,35 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/02/13/65_cruzeiro-2021.png",
       "placar_oficial_mandante": 3,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 4,
+      "clube_casa": "Cruzeiro",
+      "clube_casa_id": 283,
+      "clube_visitante": "Vitória",
+      "clube_casa_abrev": "CRU",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2021/02/13/65_cruzeiro-2021.png",
+      "clube_visitante_id": 287,
+      "clube_visitante_abrev": "VIT",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2024/04/09/escudo-vitoria-65x65-69284.png",
+      "placar_oficial_mandante": 3,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/03/01/photo_220x220_KnivRCo.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2021/02/13/65_cruzeiro-2021.png",
   "scouts": {
-    "rodada_id": 3,
+    "rodada_id": 4,
     "g": 1,
     "a": 0,
     "sg": 0,
-    "fs": 1,
+    "fs": 2,
     "ff": 0,
     "fd": 1,
     "ft": 0,
     "de": 0,
     "dp": 0,
-    "gc": 0,
+    "gc": 1,
     "cv": 0,
     "ca": 1,
     "pp": 0,
@@ -96,11 +114,11 @@
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": -1.6,
-    "preco_num": 6.2,
-    "variacao_num": -1.46,
-    "media_num": 3.3,
-    "jogos_num": 3,
+    "pontos_num": -2.5,
+    "preco_num": 5.02,
+    "variacao_num": -1.18,
+    "media_num": 1.85,
+    "jogos_num": 4,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }
