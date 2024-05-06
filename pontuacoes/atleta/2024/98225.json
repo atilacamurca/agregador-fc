@@ -9,31 +9,36 @@
     1,
     2,
     3,
-    4
+    4,
+    5
   ],
   "pontos": [
     0,
     1.4,
     0,
-    0
+    0,
+    0.6
   ],
   "precos": [
     5,
     3.57,
     3.09,
-    3.09
+    3.09,
+    2.88
   ],
   "variacoes": [
     0,
     -0.44,
     -0.48,
-    0
+    0,
+    -0.21
   ],
   "medias": [
     0,
     0.55,
     0.37,
-    0.37
+    0.37,
+    0.43
   ],
   "partidas": [
     {
@@ -87,12 +92,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/fluminense_60x60.png",
       "placar_oficial_mandante": 3,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 5,
+      "clube_casa": "Corinthians",
+      "clube_casa_id": 264,
+      "clube_visitante": "Fortaleza",
+      "clube_casa_abrev": "COR",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2019/09/30/Corinthians_65.png",
+      "clube_visitante_id": 356,
+      "clube_visitante_abrev": "FOR",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/09/19/65_0000_Fortaleza-2021.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/02/27/photo_220x220_btuS15d.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2019/09/30/Corinthians_65.png",
   "scouts": {
-    "rodada_id": 4,
+    "rodada_id": 5,
     "g": 0,
     "a": 0,
     "sg": 0,
@@ -107,18 +125,18 @@
     "ca": 0,
     "pp": 0,
     "gs": 0,
-    "fc": 2,
+    "fc": 4,
     "i": 0,
-    "ds": 0,
+    "ds": 1,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 0,
-    "preco_num": 3.09,
-    "variacao_num": 0,
-    "media_num": 0.37,
-    "jogos_num": 3,
+    "pontos_num": 0.6,
+    "preco_num": 2.88,
+    "variacao_num": -0.21,
+    "media_num": 0.43,
+    "jogos_num": 4,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }

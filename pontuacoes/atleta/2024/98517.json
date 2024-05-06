@@ -9,31 +9,36 @@
     1,
     2,
     3,
-    4
+    4,
+    5
   ],
   "pontos": [
     0,
     0,
     1,
+    4.2,
     4.2
   ],
   "precos": [
     6,
     6.55,
     6.28,
-    6.39
+    6.39,
+    6.49
   ],
   "variacoes": [
     0,
     0,
     -0.27,
-    0.11
+    0.11,
+    0.1
   ],
   "medias": [
     0,
     4.6,
     2.8,
-    3.27
+    3.27,
+    3.5
   ],
   "partidas": [
     {
@@ -87,17 +92,30 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/gremio_60x60.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 5,
+      "clube_casa": "Botafogo",
+      "clube_casa_id": 263,
+      "clube_visitante": "Bahia",
+      "clube_casa_abrev": "BOT",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-65.png",
+      "clube_visitante_id": 265,
+      "clube_visitante_abrev": "BAH",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/bahia_60x60.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/02/29/photo_220x220_Lb03bwo.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2014/04/14/bahia_60x60.png",
   "scouts": {
-    "rodada_id": 4,
+    "rodada_id": 5,
     "g": 0,
     "a": 1,
     "sg": 0,
-    "fs": 2,
-    "ff": 3,
+    "fs": 4,
+    "ff": 4,
     "fd": 1,
     "ft": 0,
     "de": 0,
@@ -109,16 +127,16 @@
     "gs": 0,
     "fc": 4,
     "i": 0,
-    "ds": 2,
+    "ds": 4,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
     "pontos_num": 4.2,
-    "preco_num": 6.39,
-    "variacao_num": 0.11,
-    "media_num": 3.27,
-    "jogos_num": 3,
+    "preco_num": 6.49,
+    "variacao_num": 0.1,
+    "media_num": 3.5,
+    "jogos_num": 4,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }
