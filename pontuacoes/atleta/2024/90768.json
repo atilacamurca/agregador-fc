@@ -10,35 +10,40 @@
     2,
     3,
     4,
-    5
+    5,
+    6
   ],
   "pontos": [
     0,
     0.9,
     6.2,
     3.2,
-    0
+    0,
+    6.2
   ],
   "precos": [
     7,
     4.37,
     5.2,
     5.02,
-    5.02
+    5.02,
+    5.81
   ],
   "variacoes": [
     0,
     -0.93,
     0.83,
     -0.18,
-    0
+    0,
+    0.79
   ],
   "medias": [
     0,
     -0.2,
     1.93,
     2.25,
-    2.25
+    2.25,
+    3.04
   ],
   "partidas": [
     {
@@ -105,15 +110,28 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2018/04/09/Flamengo-65.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 6,
+      "clube_casa": "Flamengo",
+      "clube_casa_id": 262,
+      "clube_visitante": "Corinthians",
+      "clube_casa_abrev": "FLA",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2018/04/09/Flamengo-65.png",
+      "clube_visitante_id": 264,
+      "clube_visitante_abrev": "COR",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/09/30/Corinthians_65.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/02/26/photo_220x220_lglDAms.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2018/04/09/Flamengo-65.png",
   "scouts": {
-    "rodada_id": 5,
+    "rodada_id": 6,
     "g": 0,
     "a": 0,
-    "sg": 1,
+    "sg": 2,
     "fs": 2,
     "ff": 1,
     "fd": 1,
@@ -127,16 +145,16 @@
     "gs": 0,
     "fc": 2,
     "i": 0,
-    "ds": 3,
+    "ds": 4,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 0,
-    "preco_num": 5.02,
-    "variacao_num": 0,
-    "media_num": 2.25,
-    "jogos_num": 4,
+    "pontos_num": 6.2,
+    "preco_num": 5.81,
+    "variacao_num": 0.79,
+    "media_num": 3.04,
+    "jogos_num": 5,
     "posicao_abrev": "zag",
     "posicao": "Zagueiro"
   }

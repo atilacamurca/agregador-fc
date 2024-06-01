@@ -10,35 +10,40 @@
     2,
     3,
     4,
-    5
+    5,
+    6
   ],
   "pontos": [
     0,
     0,
     4,
     0,
-    0
+    0,
+    1
   ],
   "precos": [
     3,
     3.07,
     3.8,
     3.8,
-    3.8
+    3.8,
+    3.53
   ],
   "variacoes": [
     0,
     0,
     0.73,
     0,
-    0
+    0,
+    -0.27
   ],
   "medias": [
     0,
     1.7,
     2.85,
     2.85,
-    2.85
+    2.85,
+    2.23
   ],
   "partidas": [
     {
@@ -105,17 +110,30 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/sao_paulo_60x60.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 3
+    },
+    {
+      "rodada_id": 6,
+      "clube_casa": "Vasco",
+      "clube_casa_id": 267,
+      "clube_visitante": "Vitória",
+      "clube_casa_abrev": "VAS",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2021/09/04/ESCUDO-VASCO-RGB_65px.png",
+      "clube_visitante_id": 287,
+      "clube_visitante_abrev": "VIT",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2024/04/09/escudo-vitoria-65x65-69284.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/04/12/photo_220x220_j4J1Kog.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2024/04/09/escudo-vitoria-65x65-69284.png",
   "scouts": {
-    "rodada_id": 5,
+    "rodada_id": 6,
     "g": 0,
     "a": 0,
     "sg": 0,
-    "fs": 3,
-    "ff": 0,
+    "fs": 4,
+    "ff": 1,
     "fd": 0,
     "ft": 0,
     "de": 0,
@@ -125,18 +143,18 @@
     "ca": 0,
     "pp": 0,
     "gs": 0,
-    "fc": 2,
+    "fc": 3,
     "i": 0,
     "ds": 4,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 0,
-    "preco_num": 3.8,
-    "variacao_num": 0,
-    "media_num": 2.85,
-    "jogos_num": 2,
+    "pontos_num": 1,
+    "preco_num": 3.53,
+    "variacao_num": -0.27,
+    "media_num": 2.23,
+    "jogos_num": 3,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }

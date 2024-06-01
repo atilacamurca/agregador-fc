@@ -10,13 +10,15 @@
     2,
     3,
     4,
-    5
+    5,
+    6
   ],
   "pontos": [
     0,
     0.5,
     7,
     6,
+    0,
     0
   ],
   "precos": [
@@ -24,6 +26,7 @@
     11.49,
     11.45,
     11.13,
+    9.62,
     9.62
   ],
   "variacoes": [
@@ -31,13 +34,15 @@
     -1.49,
     -0.04,
     -0.32,
-    -1.51
+    -1.51,
+    0
   ],
   "medias": [
     0,
     3.5,
     4.67,
     5,
+    4,
     4
   ],
   "partidas": [
@@ -105,12 +110,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2017/11/23/Atletico-Mineiro-escudo65px.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 6,
+      "clube_casa": "Atlético-MG",
+      "clube_casa_id": 282,
+      "clube_visitante": "Grêmio",
+      "clube_casa_abrev": "ATL",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2017/11/23/Atletico-Mineiro-escudo65px.png",
+      "clube_visitante_id": 284,
+      "clube_visitante_abrev": "GRE",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/gremio_60x60.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/03/31/photo_220x220_r7CD0SX.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2017/11/23/Atletico-Mineiro-escudo65px.png",
   "scouts": {
-    "rodada_id": 5,
+    "rodada_id": 6,
     "g": 0,
     "a": 0,
     "sg": 3,
@@ -134,7 +152,7 @@
     "v": 0,
     "pontos_num": 0,
     "preco_num": 9.62,
-    "variacao_num": -1.51,
+    "variacao_num": 0,
     "media_num": 4,
     "jogos_num": 5,
     "posicao_abrev": "gol",

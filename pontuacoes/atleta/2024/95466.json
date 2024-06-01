@@ -10,35 +10,40 @@
     2,
     3,
     4,
-    5
+    5,
+    6
   ],
   "pontos": [
     0,
     1.4,
     5.5,
     5.5,
-    12.1
+    12.1,
+    -1.6
   ],
   "precos": [
     3,
     3.76,
     4.5,
     5.03,
-    6.92
+    6.92,
+    4.93
   ],
   "variacoes": [
     0,
     0.09,
     0.74,
     0.53,
-    1.89
+    1.89,
+    -1.99
   ],
   "medias": [
     0,
     2.4,
     3.43,
     3.95,
-    5.58
+    5.58,
+    4.38
   ],
   "partidas": [
     {
@@ -105,38 +110,51 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/sao_paulo_60x60.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 3
+    },
+    {
+      "rodada_id": 6,
+      "clube_casa": "São Paulo",
+      "clube_casa_id": 276,
+      "clube_visitante": "Fluminense",
+      "clube_casa_abrev": "SAO",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/sao_paulo_60x60.png",
+      "clube_visitante_id": 266,
+      "clube_visitante_abrev": "FLU",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/fluminense_60x60.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/03/01/photo_220x220_DKQOGT2.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2014/04/14/sao_paulo_60x60.png",
   "scouts": {
-    "rodada_id": 5,
+    "rodada_id": 6,
     "g": 0,
     "a": 1,
     "sg": 2,
-    "fs": 9,
+    "fs": 12,
     "ff": 1,
     "fd": 1,
     "ft": 1,
     "de": 0,
     "dp": 0,
-    "gc": 0,
+    "gc": 1,
     "cv": 0,
-    "ca": 2,
+    "ca": 3,
     "pp": 0,
     "gs": 0,
-    "fc": 2,
+    "fc": 3,
     "i": 0,
-    "ds": 5,
+    "ds": 6,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 12.1,
-    "preco_num": 6.92,
-    "variacao_num": 1.89,
-    "media_num": 5.58,
-    "jogos_num": 5,
+    "pontos_num": -1.6,
+    "preco_num": 4.93,
+    "variacao_num": -1.99,
+    "media_num": 4.38,
+    "jogos_num": 6,
     "posicao_abrev": "lat",
     "posicao": "Lateral"
   }

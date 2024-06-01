@@ -10,35 +10,40 @@
     2,
     3,
     4,
-    5
+    5,
+    6
   ],
   "pontos": [
     0,
     1.2,
     0,
     0.8,
-    4.8
+    4.8,
+    -1
   ],
   "precos": [
     4,
     3.31,
     3.31,
     3.09,
-    3.78
+    3.78,
+    3.54
   ],
   "variacoes": [
     0,
     -0.26,
     0,
     -0.22,
-    0.69
+    0.69,
+    -0.24
   ],
   "medias": [
     0,
     1,
     1,
     0.93,
-    1.9
+    1.9,
+    1.65
   ],
   "partidas": [
     {
@@ -105,12 +110,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/09/19/65_0000_Fortaleza-2021.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 6,
+      "clube_casa": "Fortaleza",
+      "clube_casa_id": 356,
+      "clube_visitante": "Botafogo",
+      "clube_casa_abrev": "FOR",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2021/09/19/65_0000_Fortaleza-2021.png",
+      "clube_visitante_id": 263,
+      "clube_visitante_abrev": "BOT",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-65.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/02/28/photo_220x220_HXZBgqO.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2021/09/19/65_0000_Fortaleza-2021.png",
   "scouts": {
-    "rodada_id": 5,
+    "rodada_id": 6,
     "g": 0,
     "a": 0,
     "sg": 1,
@@ -122,7 +140,7 @@
     "dp": 0,
     "gc": 0,
     "cv": 0,
-    "ca": 2,
+    "ca": 3,
     "pp": 0,
     "gs": 0,
     "fc": 5,
@@ -132,10 +150,10 @@
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 4.8,
-    "preco_num": 3.78,
-    "variacao_num": 0.69,
-    "media_num": 1.9,
+    "pontos_num": -1,
+    "preco_num": 3.54,
+    "variacao_num": -0.24,
+    "media_num": 1.65,
     "jogos_num": 4,
     "posicao_abrev": "zag",
     "posicao": "Zagueiro"
