@@ -11,7 +11,8 @@
     3,
     4,
     5,
-    6
+    6,
+    7
   ],
   "pontos": [
     0,
@@ -19,6 +20,7 @@
     0,
     2.2,
     0.8,
+    0,
     0
   ],
   "precos": [
@@ -27,6 +29,7 @@
     7,
     6.52,
     6.16,
+    5.44,
     5.44
   ],
   "variacoes": [
@@ -35,7 +38,8 @@
     0,
     -0.48,
     -0.36,
-    -0.72
+    -0.72,
+    0
   ],
   "medias": [
     0,
@@ -43,6 +47,7 @@
     0,
     2.2,
     1.5,
+    1,
     1
   ],
   "partidas": [
@@ -123,12 +128,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2020/01/01/65.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 7,
+      "clube_casa": "Grêmio",
+      "clube_casa_id": 284,
+      "clube_visitante": "Bragantino",
+      "clube_casa_abrev": "GRE",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/gremio_60x60.png",
+      "clube_visitante_id": 280,
+      "clube_visitante_abrev": "BRA",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2020/01/01/65.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/02/27/photo_220x220_3jS17Nq.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2020/01/01/65.png",
   "scouts": {
-    "rodada_id": 6,
+    "rodada_id": 7,
     "g": 0,
     "a": 0,
     "sg": 0,
@@ -152,7 +170,7 @@
     "v": 0,
     "pontos_num": 0,
     "preco_num": 5.44,
-    "variacao_num": -0.72,
+    "variacao_num": 0,
     "media_num": 1,
     "jogos_num": 3,
     "posicao_abrev": "mei",

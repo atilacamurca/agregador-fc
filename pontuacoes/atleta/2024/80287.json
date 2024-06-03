@@ -11,7 +11,8 @@
     3,
     4,
     5,
-    6
+    6,
+    7
   ],
   "pontos": [
     0,
@@ -19,7 +20,8 @@
     14.4,
     8.2,
     20.2,
-    0.8
+    0.8,
+    0
   ],
   "precos": [
     11,
@@ -27,6 +29,7 @@
     10.22,
     10.28,
     13.21,
+    10.66,
     10.66
   ],
   "variacoes": [
@@ -35,7 +38,8 @@
     2.16,
     0.06,
     2.93,
-    -2.55
+    -2.55,
+    0
   ],
   "medias": [
     0,
@@ -43,6 +47,7 @@
     5.3,
     6.03,
     8.86,
+    7.52,
     7.52
   ],
   "partidas": [
@@ -123,12 +128,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/fluminense_60x60.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 7,
+      "clube_casa": "São Paulo",
+      "clube_casa_id": 276,
+      "clube_visitante": "Cruzeiro",
+      "clube_casa_abrev": "SAO",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/sao_paulo_60x60.png",
+      "clube_visitante_id": 283,
+      "clube_visitante_abrev": "CRU",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/02/13/65_cruzeiro-2021.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/03/01/photo_220x220_hqCxZF4.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2014/04/14/sao_paulo_60x60.png",
   "scouts": {
-    "rodada_id": 6,
+    "rodada_id": 7,
     "g": 3,
     "a": 0,
     "sg": 0,
@@ -150,9 +168,9 @@
     "pc": 0,
     "ps": 1,
     "v": 0,
-    "pontos_num": 0.8,
+    "pontos_num": 0,
     "preco_num": 10.66,
-    "variacao_num": -2.55,
+    "variacao_num": 0,
     "media_num": 7.52,
     "jogos_num": 6,
     "posicao_abrev": "ata",

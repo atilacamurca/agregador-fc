@@ -11,11 +11,13 @@
     3,
     4,
     5,
-    6
+    6,
+    7
   ],
   "pontos": [
     0,
     5,
+    0,
     0,
     0,
     0,
@@ -27,7 +29,8 @@
     3.27,
     3.27,
     3.27,
-    3.27
+    3.27,
+    3
   ],
   "variacoes": [
     0,
@@ -35,7 +38,8 @@
     0,
     0,
     0,
-    0
+    0,
+    -0.27
   ],
   "medias": [
     0,
@@ -43,7 +47,8 @@
     5,
     5,
     5,
-    5
+    5,
+    2.5
   ],
   "partidas": [
     {
@@ -123,12 +128,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/02/13/65_cruzeiro-2021.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 7,
+      "clube_casa": "São Paulo",
+      "clube_casa_id": 276,
+      "clube_visitante": "Cruzeiro",
+      "clube_casa_abrev": "SAO",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/sao_paulo_60x60.png",
+      "clube_visitante_id": 283,
+      "clube_visitante_abrev": "CRU",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/02/13/65_cruzeiro-2021.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/03/02/photo_220x220_0Vl4WfI.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2021/02/13/65_cruzeiro-2021.png",
   "scouts": {
-    "rodada_id": 6,
+    "rodada_id": 7,
     "g": 0,
     "a": 1,
     "sg": 0,
@@ -151,10 +169,10 @@
     "ps": 0,
     "v": 0,
     "pontos_num": 0,
-    "preco_num": 3.27,
-    "variacao_num": 0,
-    "media_num": 5,
-    "jogos_num": 1,
+    "preco_num": 3,
+    "variacao_num": -0.27,
+    "media_num": 2.5,
+    "jogos_num": 2,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }

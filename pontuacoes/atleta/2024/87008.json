@@ -11,7 +11,8 @@
     3,
     4,
     5,
-    6
+    6,
+    7
   ],
   "pontos": [
     0,
@@ -19,7 +20,8 @@
     3,
     2,
     4,
-    3
+    3,
+    6
   ],
   "precos": [
     10,
@@ -27,7 +29,8 @@
     6.66,
     6.12,
     6.15,
-    6.22
+    6.22,
+    6.78
   ],
   "variacoes": [
     0,
@@ -35,7 +38,8 @@
     -0.28,
     -0.54,
     0.03,
-    0.07
+    0.07,
+    0.56
   ],
   "medias": [
     0,
@@ -43,7 +47,8 @@
     1.33,
     1.5,
     2,
-    2.17
+    2.17,
+    2.72
   ],
   "partidas": [
     {
@@ -123,12 +128,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2024/04/09/escudo-vitoria-65x65-69284.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 7,
+      "clube_casa": "Vasco",
+      "clube_casa_id": 267,
+      "clube_visitante": "Flamengo",
+      "clube_casa_abrev": "VAS",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2021/09/04/ESCUDO-VASCO-RGB_65px.png",
+      "clube_visitante_id": 262,
+      "clube_visitante_abrev": "FLA",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2018/04/09/Flamengo-65.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 6
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/03/04/photo_220x220_goyzWhz.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2021/09/04/ESCUDO-VASCO-RGB_65px.png",
   "scouts": {
-    "rodada_id": 6,
+    "rodada_id": 7,
     "g": 0,
     "a": 0,
     "sg": 0,
@@ -136,13 +154,13 @@
     "ff": 0,
     "fd": 0,
     "ft": 0,
-    "de": 24,
+    "de": 36,
     "dp": 0,
     "gc": 0,
     "cv": 0,
     "ca": 0,
     "pp": 0,
-    "gs": 11,
+    "gs": 17,
     "fc": 0,
     "i": 0,
     "ds": 0,
@@ -150,11 +168,11 @@
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 3,
-    "preco_num": 6.22,
-    "variacao_num": 0.07,
-    "media_num": 2.17,
-    "jogos_num": 6,
+    "pontos_num": 6,
+    "preco_num": 6.78,
+    "variacao_num": 0.56,
+    "media_num": 2.72,
+    "jogos_num": 7,
     "posicao_abrev": "gol",
     "posicao": "Goleiro"
   }

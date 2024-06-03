@@ -11,7 +11,8 @@
     3,
     4,
     5,
-    6
+    6,
+    7
   ],
   "pontos": [
     0,
@@ -19,7 +20,8 @@
     0,
     0,
     -0.4,
-    1.7
+    1.7,
+    -1
   ],
   "precos": [
     9,
@@ -27,7 +29,8 @@
     9,
     9,
     7.43,
-    7.29
+    7.29,
+    6
   ],
   "variacoes": [
     0,
@@ -35,7 +38,8 @@
     0,
     0,
     -1.57,
-    -0.14
+    -0.14,
+    -1.29
   ],
   "medias": [
     0,
@@ -43,7 +47,8 @@
     0,
     0,
     -0.4,
-    0.65
+    0.65,
+    0.1
   ],
   "partidas": [
     {
@@ -123,12 +128,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/09/09/Athletico-PR-65x65.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 7,
+      "clube_casa": "Criciúma",
+      "clube_casa_id": 288,
+      "clube_visitante": "Palmeiras",
+      "clube_casa_abrev": "CRI",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2024/03/28/criciuma-65.png",
+      "clube_visitante_id": 275,
+      "clube_visitante_abrev": "PAL",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/palmeiras_60x60.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/02/27/photo_220x220_BAUllGq.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2014/04/14/palmeiras_60x60.png",
   "scouts": {
-    "rodada_id": 6,
+    "rodada_id": 7,
     "g": 0,
     "a": 0,
     "sg": 0,
@@ -140,7 +158,7 @@
     "dp": 0,
     "gc": 0,
     "cv": 0,
-    "ca": 1,
+    "ca": 2,
     "pp": 0,
     "gs": 0,
     "fc": 2,
@@ -150,11 +168,11 @@
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 1.7,
-    "preco_num": 7.29,
-    "variacao_num": -0.14,
-    "media_num": 0.65,
-    "jogos_num": 2,
+    "pontos_num": -1,
+    "preco_num": 6,
+    "variacao_num": -1.29,
+    "media_num": 0.1,
+    "jogos_num": 3,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }

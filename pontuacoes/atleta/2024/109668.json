@@ -11,7 +11,8 @@
     3,
     4,
     5,
-    6
+    6,
+    7
   ],
   "pontos": [
     0,
@@ -19,7 +20,8 @@
     5.3,
     9,
     -1,
-    0
+    0,
+    5
   ],
   "precos": [
     5,
@@ -27,7 +29,8 @@
     7.44,
     8.45,
     7.02,
-    7.02
+    7.02,
+    7.61
   ],
   "variacoes": [
     0,
@@ -35,7 +38,8 @@
     0.29,
     1.01,
     -1.43,
-    0
+    0,
+    0.59
   ],
   "medias": [
     0,
@@ -43,7 +47,8 @@
     5.8,
     6.6,
     5.08,
-    5.08
+    5.08,
+    5.07
   ],
   "partidas": [
     {
@@ -123,15 +128,28 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-65.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 7,
+      "clube_casa": "Corinthians",
+      "clube_casa_id": 264,
+      "clube_visitante": "Botafogo",
+      "clube_casa_abrev": "COR",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2019/09/30/Corinthians_65.png",
+      "clube_visitante_id": 263,
+      "clube_visitante_abrev": "BOT",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-65.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/04/20/photo_220x220_SUeVFmE.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-65.png",
   "scouts": {
-    "rodada_id": 6,
+    "rodada_id": 7,
     "g": 0,
     "a": 1,
-    "sg": 2,
+    "sg": 3,
     "fs": 5,
     "ff": 1,
     "fd": 0,
@@ -150,11 +168,11 @@
     "pc": 1,
     "ps": 0,
     "v": 0,
-    "pontos_num": 0,
-    "preco_num": 7.02,
-    "variacao_num": 0,
-    "media_num": 5.08,
-    "jogos_num": 5,
+    "pontos_num": 5,
+    "preco_num": 7.61,
+    "variacao_num": 0.59,
+    "media_num": 5.07,
+    "jogos_num": 6,
     "posicao_abrev": "lat",
     "posicao": "Lateral"
   }

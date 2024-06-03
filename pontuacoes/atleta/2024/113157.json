@@ -11,7 +11,8 @@
     3,
     4,
     5,
-    6
+    6,
+    7
   ],
   "pontos": [
     0,
@@ -19,7 +20,8 @@
     0,
     5.2,
     0.9,
-    3.3
+    3.3,
+    4.9
   ],
   "precos": [
     5,
@@ -27,7 +29,8 @@
     5,
     5.94,
     6.08,
-    6.01
+    6.01,
+    6.3
   ],
   "variacoes": [
     0,
@@ -35,7 +38,8 @@
     0,
     0.94,
     0.14,
-    -0.07
+    -0.07,
+    0.29
   ],
   "medias": [
     0,
@@ -43,7 +47,8 @@
     0,
     5.2,
     3.05,
-    3.13
+    3.13,
+    3.57
   ],
   "partidas": [
     {
@@ -123,15 +128,28 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2020/01/01/65.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 7,
+      "clube_casa": "Grêmio",
+      "clube_casa_id": 284,
+      "clube_visitante": "Bragantino",
+      "clube_casa_abrev": "GRE",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/gremio_60x60.png",
+      "clube_visitante_id": 280,
+      "clube_visitante_abrev": "BRA",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2020/01/01/65.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/02/27/photo_220x220_avgtjrS.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2020/01/01/65.png",
   "scouts": {
-    "rodada_id": 6,
+    "rodada_id": 7,
     "g": 0,
     "a": 1,
-    "sg": 0,
+    "sg": 1,
     "fs": 5,
     "ff": 0,
     "fd": 2,
@@ -140,21 +158,21 @@
     "dp": 0,
     "gc": 0,
     "cv": 0,
-    "ca": 1,
+    "ca": 2,
     "pp": 0,
     "gs": 0,
-    "fc": 2,
+    "fc": 3,
     "i": 1,
-    "ds": 1,
+    "ds": 2,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 3.3,
-    "preco_num": 6.01,
-    "variacao_num": -0.07,
-    "media_num": 3.13,
-    "jogos_num": 3,
+    "pontos_num": 4.9,
+    "preco_num": 6.3,
+    "variacao_num": 0.29,
+    "media_num": 3.57,
+    "jogos_num": 4,
     "posicao_abrev": "lat",
     "posicao": "Lateral"
   }
