@@ -12,12 +12,14 @@
     4,
     5,
     6,
-    7
+    7,
+    8
   ],
   "pontos": [
     0,
     1.9,
     -0.8,
+    0,
     0,
     0,
     0,
@@ -30,7 +32,8 @@
     3.26,
     3.26,
     3.26,
-    2.98
+    2.98,
+    2.73
   ],
   "variacoes": [
     0,
@@ -39,7 +42,8 @@
     0,
     0,
     0,
-    -0.28
+    -0.28,
+    -0.25
   ],
   "medias": [
     0,
@@ -48,7 +52,8 @@
     0.55,
     0.55,
     0.55,
-    0.37
+    0.37,
+    0.4
   ],
   "partidas": [
     {
@@ -141,27 +146,40 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2020/01/01/65.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 8,
+      "clube_casa": "Flamengo",
+      "clube_casa_id": 262,
+      "clube_visitante": "Grêmio",
+      "clube_casa_abrev": "FLA",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2018/04/09/Flamengo-65.png",
+      "clube_visitante_id": 284,
+      "clube_visitante_abrev": "GRE",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/gremio_60x60.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/03/11/photo_220x220_ywqLzxA.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2014/04/14/gremio_60x60.png",
   "scouts": {
-    "rodada_id": 7,
+    "rodada_id": 8,
     "g": 0,
     "a": 0,
     "sg": 0,
-    "fs": 2,
-    "ff": 1,
+    "fs": 4,
+    "ff": 2,
     "fd": 0,
     "ft": 0,
     "de": 0,
     "dp": 0,
     "gc": 0,
     "cv": 0,
-    "ca": 1,
+    "ca": 2,
     "pp": 0,
     "gs": 0,
-    "fc": 3,
+    "fc": 4,
     "i": 0,
     "ds": 1,
     "pi": 0,
@@ -169,10 +187,10 @@
     "ps": 0,
     "v": 0,
     "pontos_num": 0,
-    "preco_num": 2.98,
-    "variacao_num": -0.28,
-    "media_num": 0.37,
-    "jogos_num": 3,
+    "preco_num": 2.73,
+    "variacao_num": -0.25,
+    "media_num": 0.4,
+    "jogos_num": 4,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }

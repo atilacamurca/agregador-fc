@@ -12,7 +12,8 @@
     4,
     5,
     6,
-    7
+    7,
+    8
   ],
   "pontos": [
     0,
@@ -21,7 +22,8 @@
     13,
     1.1,
     2.4,
-    0.8
+    0.8,
+    0
   ],
   "precos": [
     8,
@@ -30,6 +32,7 @@
     8.73,
     7.42,
     7.29,
+    6.81,
     6.81
   ],
   "variacoes": [
@@ -39,7 +42,8 @@
     1.69,
     -1.31,
     -0.13,
-    -0.48
+    -0.48,
+    0
   ],
   "medias": [
     0,
@@ -48,6 +52,7 @@
     5.85,
     4.9,
     4.48,
+    3.95,
     3.95
   ],
   "partidas": [
@@ -141,12 +146,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-65.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 8,
+      "clube_casa": "Botafogo",
+      "clube_casa_id": 263,
+      "clube_visitante": "Fluminense",
+      "clube_casa_abrev": "BOT",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-65.png",
+      "clube_visitante_id": 266,
+      "clube_visitante_abrev": "FLU",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/fluminense_60x60.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/04/20/photo_220x220_KxKxL8O.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-65.png",
   "scouts": {
-    "rodada_id": 7,
+    "rodada_id": 8,
     "g": 2,
     "a": 1,
     "sg": 0,
@@ -168,9 +186,9 @@
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 0.8,
+    "pontos_num": 0,
     "preco_num": 6.81,
-    "variacao_num": -0.48,
+    "variacao_num": 0,
     "media_num": 3.95,
     "jogos_num": 7,
     "posicao_abrev": "ata",

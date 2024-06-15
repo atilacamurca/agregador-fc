@@ -12,7 +12,8 @@
     4,
     5,
     6,
-    7
+    7,
+    8
   ],
   "pontos": [
     0,
@@ -21,7 +22,8 @@
     11.22,
     5.88,
     2.5,
-    3.65
+    3.65,
+    0
   ],
   "precos": [
     11,
@@ -30,7 +32,8 @@
     10.55,
     10.11,
     9.52,
-    9.48
+    9.48,
+    9.4
   ],
   "variacoes": [
     0,
@@ -39,7 +42,8 @@
     1.23,
     -0.44,
     -0.59,
-    -0.04
+    -0.04,
+    -0.08
   ],
   "medias": [
     0,
@@ -48,7 +52,8 @@
     5.46,
     5.54,
     5.03,
-    4.83
+    4.83,
+    4.69
   ],
   "partidas": [
     {
@@ -141,12 +146,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-65.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 8,
+      "clube_casa": "Atlético-GO",
+      "clube_casa_id": 373,
+      "clube_visitante": "Corinthians",
+      "clube_casa_abrev": "ATL",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2020/07/02/atletico-go-2020-65.png",
+      "clube_visitante_id": 264,
+      "clube_visitante_abrev": "COR",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/09/30/Corinthians_65.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2021/04/27/21a131dcff78d521da3297e98526ce48_220x220.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2019/09/30/Corinthians_65.png",
   "scouts": {
-    "rodada_id": 7,
+    "rodada_id": 8,
     "g": 0,
     "a": 0,
     "sg": 0,
@@ -168,11 +186,11 @@
     "pc": 0,
     "ps": 0,
     "v": 1,
-    "pontos_num": 3.65,
-    "preco_num": 9.48,
-    "variacao_num": -0.04,
-    "media_num": 4.83,
-    "jogos_num": 7,
+    "pontos_num": 0,
+    "preco_num": 9.4,
+    "variacao_num": -0.08,
+    "media_num": 4.69,
+    "jogos_num": 8,
     "posicao_abrev": "tec",
     "posicao": "Técnico"
   }

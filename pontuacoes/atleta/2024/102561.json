@@ -12,7 +12,8 @@
     4,
     5,
     6,
-    7
+    7,
+    8
   ],
   "pontos": [
     0,
@@ -21,7 +22,8 @@
     0.2,
     3.3,
     0,
-    0.8
+    0.8,
+    0
   ],
   "precos": [
     7,
@@ -30,7 +32,8 @@
     6.64,
     6.65,
     6.65,
-    6.21
+    6.21,
+    10.13
   ],
   "variacoes": [
     0,
@@ -39,7 +42,8 @@
     -0.81,
     0.01,
     0,
-    -0.44
+    -0.44,
+    3.92
   ],
   "medias": [
     0,
@@ -48,7 +52,8 @@
     2.75,
     2.86,
     2.86,
-    2.52
+    2.52,
+    5.2
   ],
   "partidas": [
     {
@@ -141,19 +146,32 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/09/09/Athletico-PR-65x65.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 8,
+      "clube_casa": "Athlético-PR",
+      "clube_casa_id": 293,
+      "clube_visitante": "Criciúma",
+      "clube_casa_abrev": "ATL",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2019/09/09/Athletico-PR-65x65.png",
+      "clube_visitante_id": 288,
+      "clube_visitante_abrev": "CRI",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2024/03/28/criciuma-65.png",
+      "placar_oficial_mandante": 3,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/03/05/photo_220x220_JrvZkOm.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2019/09/09/Athletico-PR-65x65.png",
   "scouts": {
-    "rodada_id": 7,
-    "g": 1,
+    "rodada_id": 8,
+    "g": 3,
     "a": 0,
     "sg": 0,
     "fs": 3,
     "ff": 3,
-    "fd": 0,
-    "ft": 0,
+    "fd": 1,
+    "ft": 1,
     "de": 0,
     "dp": 0,
     "gc": 0,
@@ -162,17 +180,17 @@
     "pp": 0,
     "gs": 0,
     "fc": 1,
-    "i": 1,
-    "ds": 3,
+    "i": 2,
+    "ds": 4,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 0.8,
-    "preco_num": 6.21,
-    "variacao_num": -0.44,
-    "media_num": 2.52,
-    "jogos_num": 6,
+    "pontos_num": 0,
+    "preco_num": 10.13,
+    "variacao_num": 3.92,
+    "media_num": 5.2,
+    "jogos_num": 7,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }

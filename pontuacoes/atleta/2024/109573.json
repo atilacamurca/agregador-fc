@@ -12,7 +12,8 @@
     4,
     5,
     6,
-    7
+    7,
+    8
   ],
   "pontos": [
     0,
@@ -21,7 +22,8 @@
     2,
     1,
     1.4,
-    1.9
+    1.9,
+    0
   ],
   "precos": [
     6,
@@ -30,7 +32,8 @@
     7.13,
     6.59,
     6.12,
-    6.01
+    6.01,
+    6.02
   ],
   "variacoes": [
     0,
@@ -39,7 +42,8 @@
     -0.43,
     -0.54,
     -0.47,
-    -0.11
+    -0.11,
+    0.01
   ],
   "medias": [
     0,
@@ -48,7 +52,8 @@
     4.87,
     3.9,
     3.4,
-    3.15
+    3.15,
+    3.06
   ],
   "partidas": [
     {
@@ -141,16 +146,29 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/04/29/juventude65.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 8,
+      "clube_casa": "Botafogo",
+      "clube_casa_id": 263,
+      "clube_visitante": "Fluminense",
+      "clube_casa_abrev": "BOT",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-65.png",
+      "clube_visitante_id": 266,
+      "clube_visitante_abrev": "FLU",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/fluminense_60x60.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/04/09/photo_220x220_DxKpmdn.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2014/04/14/fluminense_60x60.png",
   "scouts": {
-    "rodada_id": 7,
+    "rodada_id": 8,
     "g": 1,
     "a": 0,
     "sg": 0,
-    "fs": 7,
+    "fs": 8,
     "ff": 1,
     "fd": 0,
     "ft": 0,
@@ -158,21 +176,21 @@
     "dp": 0,
     "gc": 0,
     "cv": 0,
-    "ca": 1,
+    "ca": 2,
     "pp": 0,
     "gs": 0,
-    "fc": 6,
+    "fc": 8,
     "i": 0,
-    "ds": 7,
+    "ds": 10,
     "pi": 0,
     "pc": 0,
     "ps": 1,
     "v": 0,
-    "pontos_num": 1.9,
-    "preco_num": 6.01,
-    "variacao_num": -0.11,
-    "media_num": 3.15,
-    "jogos_num": 6,
+    "pontos_num": 0,
+    "preco_num": 6.02,
+    "variacao_num": 0.01,
+    "media_num": 3.06,
+    "jogos_num": 7,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }

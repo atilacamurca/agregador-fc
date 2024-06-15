@@ -12,7 +12,8 @@
     4,
     5,
     6,
-    7
+    7,
+    8
   ],
   "pontos": [
     0,
@@ -21,7 +22,8 @@
     0.2,
     1.9,
     3.7,
-    9.9
+    9.9,
+    0
   ],
   "precos": [
     7,
@@ -30,7 +32,8 @@
     8.2,
     7.89,
     8,
-    9.17
+    9.17,
+    9.74
   ],
   "variacoes": [
     0,
@@ -39,7 +42,8 @@
     -1.54,
     -0.31,
     0.11,
-    1.17
+    1.17,
+    0.57
   ],
   "medias": [
     0,
@@ -48,7 +52,8 @@
     5.4,
     4.7,
     4.53,
-    5.3
+    5.3,
+    5.98
   ],
   "partidas": [
     {
@@ -141,19 +146,32 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-65.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 8,
+      "clube_casa": "Botafogo",
+      "clube_casa_id": 263,
+      "clube_visitante": "Fluminense",
+      "clube_casa_abrev": "BOT",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-65.png",
+      "clube_visitante_id": 266,
+      "clube_visitante_abrev": "FLU",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/fluminense_60x60.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/04/20/photo_220x220_GZeQZHl.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-65.png",
   "scouts": {
-    "rodada_id": 7,
+    "rodada_id": 8,
     "g": 2,
     "a": 2,
     "sg": 0,
-    "fs": 6,
-    "ff": 3,
-    "fd": 4,
-    "ft": 0,
+    "fs": 9,
+    "ff": 5,
+    "fd": 5,
+    "ft": 1,
     "de": 0,
     "dp": 0,
     "gc": 0,
@@ -162,17 +180,17 @@
     "pp": 0,
     "gs": 0,
     "fc": 9,
-    "i": 2,
-    "ds": 4,
+    "i": 4,
+    "ds": 7,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 9.9,
-    "preco_num": 9.17,
-    "variacao_num": 1.17,
-    "media_num": 5.3,
-    "jogos_num": 7,
+    "pontos_num": 0,
+    "preco_num": 9.74,
+    "variacao_num": 0.57,
+    "media_num": 5.98,
+    "jogos_num": 8,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }

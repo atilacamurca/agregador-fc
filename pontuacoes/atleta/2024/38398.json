@@ -12,7 +12,8 @@
     4,
     5,
     6,
-    7
+    7,
+    8
   ],
   "pontos": [
     0,
@@ -21,7 +22,8 @@
     0.7,
     9.2,
     0,
-    1.9
+    1.9,
+    0
   ],
   "precos": [
     7,
@@ -30,7 +32,8 @@
     6,
     7.78,
     7.78,
-    7.09
+    7.09,
+    6.26
   ],
   "variacoes": [
     0,
@@ -39,7 +42,8 @@
     -1,
     1.78,
     0,
-    -0.69
+    -0.69,
+    -0.83
   ],
   "medias": [
     0,
@@ -48,7 +52,8 @@
     0.7,
     4.95,
     4.95,
-    3.93
+    3.93,
+    2.95
   ],
   "partidas": [
     {
@@ -141,12 +146,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/04/29/juventude65.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 8,
+      "clube_casa": "Botafogo",
+      "clube_casa_id": 263,
+      "clube_visitante": "Fluminense",
+      "clube_casa_abrev": "BOT",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-65.png",
+      "clube_visitante_id": 266,
+      "clube_visitante_abrev": "FLU",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/fluminense_60x60.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/04/09/photo_220x220_5yW5MSp.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2014/04/14/fluminense_60x60.png",
   "scouts": {
-    "rodada_id": 7,
+    "rodada_id": 8,
     "g": 1,
     "a": 0,
     "sg": 0,
@@ -168,11 +186,11 @@
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 1.9,
-    "preco_num": 7.09,
-    "variacao_num": -0.69,
-    "media_num": 3.93,
-    "jogos_num": 3,
+    "pontos_num": 0,
+    "preco_num": 6.26,
+    "variacao_num": -0.83,
+    "media_num": 2.95,
+    "jogos_num": 4,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }

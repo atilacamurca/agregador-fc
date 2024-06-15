@@ -12,7 +12,8 @@
     4,
     5,
     6,
-    7
+    7,
+    8
   ],
   "pontos": [
     0,
@@ -21,7 +22,8 @@
     6.9,
     3.7,
     6.6,
-    1
+    1,
+    0
   ],
   "precos": [
     6,
@@ -30,6 +32,7 @@
     5.88,
     5.81,
     6.47,
+    5.58,
     5.58
   ],
   "variacoes": [
@@ -39,7 +42,8 @@
     0.9,
     -0.07,
     0.66,
-    -0.89
+    -0.89,
+    0
   ],
   "medias": [
     0,
@@ -48,6 +52,7 @@
     2.87,
     3.08,
     3.78,
+    3.32,
     3.32
   ],
   "partidas": [
@@ -141,12 +146,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/bahia_60x60.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 8,
+      "clube_casa": "Bahia",
+      "clube_casa_id": 265,
+      "clube_visitante": "Fortaleza",
+      "clube_casa_abrev": "BAH",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/bahia_60x60.png",
+      "clube_visitante_id": 356,
+      "clube_visitante_abrev": "FOR",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/09/19/65_0000_Fortaleza-2021.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/02/14/photo_220x220_GVs7NkK.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2014/04/14/bahia_60x60.png",
   "scouts": {
-    "rodada_id": 7,
+    "rodada_id": 8,
     "g": 0,
     "a": 0,
     "sg": 2,
@@ -168,9 +186,9 @@
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 1,
+    "pontos_num": 0,
     "preco_num": 5.58,
-    "variacao_num": -0.89,
+    "variacao_num": 0,
     "media_num": 3.32,
     "jogos_num": 6,
     "posicao_abrev": "lat",

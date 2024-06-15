@@ -12,7 +12,8 @@
     4,
     5,
     6,
-    7
+    7,
+    8
   ],
   "pontos": [
     0,
@@ -21,7 +22,8 @@
     0.2,
     1.2,
     1.2,
-    0.9
+    0.9,
+    0
   ],
   "precos": [
     5,
@@ -30,6 +32,7 @@
     3.34,
     3.22,
     3.25,
+    3.13,
     3.13
   ],
   "variacoes": [
@@ -39,7 +42,8 @@
     -0.52,
     -0.12,
     0.03,
-    -0.12
+    -0.12,
+    0
   ],
   "medias": [
     0,
@@ -48,7 +52,8 @@
     1.05,
     1.08,
     1.1,
-    1.07
+    1.07,
+    1.09
   ],
   "partidas": [
     {
@@ -141,12 +146,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2018/04/09/Flamengo-65.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 6
+    },
+    {
+      "rodada_id": 8,
+      "clube_casa": "Palmeiras",
+      "clube_casa_id": 275,
+      "clube_visitante": "Vasco",
+      "clube_casa_abrev": "PAL",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/palmeiras_60x60.png",
+      "clube_visitante_id": 267,
+      "clube_visitante_abrev": "VAS",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/09/04/ESCUDO-VASCO-RGB_65px.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/03/04/photo_220x220_EPoR3bv.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2021/09/04/ESCUDO-VASCO-RGB_65px.png",
   "scouts": {
-    "rodada_id": 7,
+    "rodada_id": 8,
     "g": 0,
     "a": 0,
     "sg": 0,
@@ -163,16 +181,16 @@
     "gs": 0,
     "fc": 4,
     "i": 0,
-    "ds": 5,
+    "ds": 6,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 0.9,
+    "pontos_num": 0,
     "preco_num": 3.13,
-    "variacao_num": -0.12,
-    "media_num": 1.07,
-    "jogos_num": 7,
+    "variacao_num": 0,
+    "media_num": 1.09,
+    "jogos_num": 8,
     "posicao_abrev": "zag",
     "posicao": "Zagueiro"
   }
