@@ -13,7 +13,8 @@
     5,
     6,
     7,
-    8
+    8,
+    9
   ],
   "pontos": [
     0,
@@ -23,6 +24,7 @@
     0,
     0,
     1.4,
+    0,
     0
   ],
   "precos": [
@@ -33,7 +35,8 @@
     5.75,
     5.75,
     5.72,
-    6.92
+    6.92,
+    5.51
   ],
   "variacoes": [
     0,
@@ -43,7 +46,8 @@
     0,
     0,
     -0.03,
-    1.2
+    1.2,
+    -1.41
   ],
   "medias": [
     0,
@@ -53,7 +57,8 @@
     0,
     0,
     0.7,
-    3.03
+    3.03,
+    2.27
   ],
   "partidas": [
     {
@@ -159,12 +164,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/gremio_60x60.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 9,
+      "clube_casa": "Grêmio",
+      "clube_casa_id": 284,
+      "clube_visitante": "Botafogo",
+      "clube_casa_abrev": "GRE",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/gremio_60x60.png",
+      "clube_visitante_id": 263,
+      "clube_visitante_abrev": "BOT",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-65.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/04/19/photo_220x220_TU1lzBm.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2014/04/14/gremio_60x60.png",
   "scouts": {
-    "rodada_id": 8,
+    "rodada_id": 9,
     "g": 1,
     "a": 0,
     "sg": 0,
@@ -187,10 +205,10 @@
     "ps": 0,
     "v": 0,
     "pontos_num": 0,
-    "preco_num": 6.92,
-    "variacao_num": 1.2,
-    "media_num": 3.03,
-    "jogos_num": 3,
+    "preco_num": 5.51,
+    "variacao_num": -1.41,
+    "media_num": 2.27,
+    "jogos_num": 4,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }

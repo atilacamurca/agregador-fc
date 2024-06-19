@@ -13,7 +13,8 @@
     5,
     6,
     7,
-    8
+    8,
+    9
   ],
   "pontos": [
     0,
@@ -23,7 +24,8 @@
     0,
     0,
     0,
-    0
+    0,
+    5
   ],
   "precos": [
     4,
@@ -33,7 +35,8 @@
     2.04,
     2.04,
     2.04,
-    2.04
+    2.04,
+    2.9
   ],
   "variacoes": [
     0,
@@ -43,7 +46,8 @@
     -0.31,
     0,
     0,
-    0
+    0,
+    0.86
   ],
   "medias": [
     0,
@@ -53,7 +57,8 @@
     0.1,
     0.1,
     0.1,
-    0.24
+    0.24,
+    1.03
   ],
   "partidas": [
     {
@@ -159,15 +164,28 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/16/cuiaba65.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 9,
+      "clube_casa": "Cuiabá",
+      "clube_casa_id": 1371,
+      "clube_visitante": "Fortaleza",
+      "clube_casa_abrev": "CUI",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/16/cuiaba65.png",
+      "clube_visitante_id": 356,
+      "clube_visitante_abrev": "FOR",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/09/19/65_0000_Fortaleza-2021.png",
+      "placar_oficial_mandante": 5,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/02/29/photo_220x220_yJZY7yN.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2014/04/16/cuiaba65.png",
   "scouts": {
-    "rodada_id": 8,
+    "rodada_id": 9,
     "g": 0,
     "a": 0,
-    "sg": 0,
+    "sg": 1,
     "fs": 3,
     "ff": 1,
     "fd": 0,
@@ -186,11 +204,11 @@
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 0,
-    "preco_num": 2.04,
-    "variacao_num": 0,
-    "media_num": 0.24,
-    "jogos_num": 5,
+    "pontos_num": 5,
+    "preco_num": 2.9,
+    "variacao_num": 0.86,
+    "media_num": 1.03,
+    "jogos_num": 6,
     "posicao_abrev": "zag",
     "posicao": "Zagueiro"
   }

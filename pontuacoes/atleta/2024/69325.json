@@ -13,7 +13,8 @@
     5,
     6,
     7,
-    8
+    8,
+    9
   ],
   "pontos": [
     0,
@@ -23,7 +24,8 @@
     0,
     0,
     1.1,
-    0
+    0,
+    1.5
   ],
   "precos": [
     7,
@@ -33,7 +35,8 @@
     7,
     7,
     6.71,
-    5.92
+    5.92,
+    5.58
   ],
   "variacoes": [
     0,
@@ -43,7 +46,8 @@
     0,
     0,
     -0.29,
-    -0.79
+    -0.79,
+    -0.34
   ],
   "medias": [
     0,
@@ -53,7 +57,8 @@
     0,
     0,
     1.1,
-    0.55
+    0.55,
+    0.87
   ],
   "partidas": [
     {
@@ -159,18 +164,31 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/sao_paulo_60x60.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 9,
+      "clube_casa": "Vitória",
+      "clube_casa_id": 287,
+      "clube_visitante": "Internacional",
+      "clube_casa_abrev": "VIT",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2024/04/09/escudo-vitoria-65x65-69284.png",
+      "clube_visitante_id": 285,
+      "clube_visitante_abrev": "INT",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2016/05/03/inter65.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/02/29/photo_220x220_NLgDxgG.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2016/05/03/inter65.png",
   "scouts": {
-    "rodada_id": 8,
+    "rodada_id": 9,
     "g": 0,
     "a": 0,
     "sg": 0,
     "fs": 3,
     "ff": 0,
-    "fd": 1,
+    "fd": 2,
     "ft": 0,
     "de": 0,
     "dp": 0,
@@ -179,18 +197,18 @@
     "ca": 1,
     "pp": 0,
     "gs": 0,
-    "fc": 6,
+    "fc": 9,
     "i": 0,
-    "ds": 1,
+    "ds": 2,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 0,
-    "preco_num": 5.92,
-    "variacao_num": -0.79,
-    "media_num": 0.55,
-    "jogos_num": 2,
+    "pontos_num": 1.5,
+    "preco_num": 5.58,
+    "variacao_num": -0.34,
+    "media_num": 0.87,
+    "jogos_num": 3,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }

@@ -12,9 +12,11 @@
     5,
     6,
     7,
-    8
+    8,
+    9
   ],
   "pontos": [
+    0,
     0,
     0,
     0,
@@ -30,7 +32,8 @@
     2,
     2,
     2,
-    5.67
+    5.67,
+    4.82
   ],
   "variacoes": [
     0,
@@ -39,7 +42,8 @@
     0,
     0,
     0,
-    3.67
+    3.67,
+    -0.85
   ],
   "medias": [
     0,
@@ -48,7 +52,8 @@
     0,
     0,
     0,
-    10
+    10,
+    5
   ],
   "partidas": [
     {
@@ -141,12 +146,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/sao_paulo_60x60.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 9,
+      "clube_casa": "Vitória",
+      "clube_casa_id": 287,
+      "clube_visitante": "Internacional",
+      "clube_casa_abrev": "VIT",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2024/04/09/escudo-vitoria-65x65-69284.png",
+      "clube_visitante_id": 285,
+      "clube_visitante_abrev": "INT",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2016/05/03/inter65.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/06/11/photo_220x220_zdmyueQ.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2016/05/03/inter65.png",
   "scouts": {
-    "rodada_id": 8,
+    "rodada_id": 9,
     "g": 0,
     "a": 0,
     "sg": 1,
@@ -154,13 +172,13 @@
     "ff": 0,
     "fd": 0,
     "ft": 0,
-    "de": 5,
+    "de": 7,
     "dp": 0,
     "gc": 0,
     "cv": 0,
     "ca": 0,
     "pp": 0,
-    "gs": 0,
+    "gs": 2,
     "fc": 0,
     "i": 0,
     "ds": 0,
@@ -169,10 +187,10 @@
     "ps": 0,
     "v": 0,
     "pontos_num": 0,
-    "preco_num": 5.67,
-    "variacao_num": 3.67,
-    "media_num": 10,
-    "jogos_num": 1,
+    "preco_num": 4.82,
+    "variacao_num": -0.85,
+    "media_num": 5,
+    "jogos_num": 2,
     "posicao_abrev": "gol",
     "posicao": "Goleiro"
   }

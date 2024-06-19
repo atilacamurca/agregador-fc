@@ -13,7 +13,8 @@
     5,
     6,
     7,
-    8
+    8,
+    9
   ],
   "pontos": [
     0,
@@ -23,7 +24,8 @@
     2.73,
     3.9,
     7.3,
-    0
+    0,
+    5.24
   ],
   "precos": [
     6,
@@ -33,7 +35,8 @@
     8,
     7.98,
     8.61,
-    9.03
+    9.03,
+    8.69
   ],
   "variacoes": [
     0,
@@ -43,7 +46,8 @@
     -0.53,
     -0.02,
     0.63,
-    0.42
+    0.42,
+    -0.34
   ],
   "medias": [
     0,
@@ -53,7 +57,8 @@
     5.65,
     5.36,
     5.64,
-    5.97
+    5.97,
+    5.89
   ],
   "partidas": [
     {
@@ -159,12 +164,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/fluminense_60x60.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 9,
+      "clube_casa": "Grêmio",
+      "clube_casa_id": 284,
+      "clube_visitante": "Botafogo",
+      "clube_casa_abrev": "GRE",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/gremio_60x60.png",
+      "clube_visitante_id": 263,
+      "clube_visitante_abrev": "BOT",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-65.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/04/05/photo_220x220_4pgYWQ9.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-65.png",
   "scouts": {
-    "rodada_id": 8,
+    "rodada_id": 9,
     "g": 0,
     "a": 0,
     "sg": 0,
@@ -185,12 +203,12 @@
     "pi": 0,
     "pc": 0,
     "ps": 0,
-    "v": 5,
-    "pontos_num": 0,
-    "preco_num": 9.03,
-    "variacao_num": 0.42,
-    "media_num": 5.97,
-    "jogos_num": 8,
+    "v": 6,
+    "pontos_num": 5.24,
+    "preco_num": 8.69,
+    "variacao_num": -0.34,
+    "media_num": 5.89,
+    "jogos_num": 9,
     "posicao_abrev": "tec",
     "posicao": "Técnico"
   }

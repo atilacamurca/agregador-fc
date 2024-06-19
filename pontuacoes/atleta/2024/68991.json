@@ -13,7 +13,8 @@
     5,
     6,
     7,
-    8
+    8,
+    9
   ],
   "pontos": [
     0,
@@ -23,7 +24,8 @@
     0,
     0,
     0,
-    0
+    0,
+    4.1
   ],
   "precos": [
     5,
@@ -33,7 +35,8 @@
     5.12,
     5.12,
     5.12,
-    5.12
+    5.12,
+    5.62
   ],
   "variacoes": [
     0,
@@ -43,7 +46,8 @@
     0,
     0,
     0,
-    0
+    0,
+    0.5
   ],
   "medias": [
     0,
@@ -53,7 +57,8 @@
     2.1,
     2.1,
     2.1,
-    2.1
+    2.1,
+    2.6
   ],
   "partidas": [
     {
@@ -159,16 +164,29 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/09/19/65_0000_Fortaleza-2021.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 9,
+      "clube_casa": "Cuiabá",
+      "clube_casa_id": 1371,
+      "clube_visitante": "Fortaleza",
+      "clube_casa_abrev": "CUI",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/16/cuiaba65.png",
+      "clube_visitante_id": 356,
+      "clube_visitante_abrev": "FOR",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/09/19/65_0000_Fortaleza-2021.png",
+      "placar_oficial_mandante": 5,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/02/28/photo_220x220_YNCB9SE.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2021/09/19/65_0000_Fortaleza-2021.png",
   "scouts": {
-    "rodada_id": 8,
+    "rodada_id": 9,
     "g": 0,
     "a": 0,
     "sg": 0,
-    "fs": 0,
+    "fs": 1,
     "ff": 0,
     "fd": 0,
     "ft": 0,
@@ -181,16 +199,16 @@
     "gs": 0,
     "fc": 3,
     "i": 0,
-    "ds": 6,
+    "ds": 9,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 0,
-    "preco_num": 5.12,
-    "variacao_num": 0,
-    "media_num": 2.1,
-    "jogos_num": 3,
+    "pontos_num": 4.1,
+    "preco_num": 5.62,
+    "variacao_num": 0.5,
+    "media_num": 2.6,
+    "jogos_num": 4,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }

@@ -13,7 +13,8 @@
     5,
     6,
     7,
-    8
+    8,
+    9
   ],
   "pontos": [
     0,
@@ -23,7 +24,8 @@
     0,
     0,
     0,
-    0
+    0,
+    0.9
   ],
   "precos": [
     8,
@@ -33,7 +35,8 @@
     8.63,
     8.63,
     8.63,
-    8.48
+    8.48,
+    7.63
   ],
   "variacoes": [
     0,
@@ -43,7 +46,8 @@
     0,
     0,
     0,
-    -0.15
+    -0.15,
+    -0.85
   ],
   "medias": [
     0,
@@ -53,7 +57,8 @@
     6.1,
     6.1,
     6.1,
-    5.13
+    5.13,
+    4.07
   ],
   "partidas": [
     {
@@ -159,12 +164,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/gremio_60x60.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 9,
+      "clube_casa": "Grêmio",
+      "clube_casa_id": 284,
+      "clube_visitante": "Botafogo",
+      "clube_casa_abrev": "GRE",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/gremio_60x60.png",
+      "clube_visitante_id": 263,
+      "clube_visitante_abrev": "BOT",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-65.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/03/11/photo_220x220_cVczRJH.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2014/04/14/gremio_60x60.png",
   "scouts": {
-    "rodada_id": 8,
+    "rodada_id": 9,
     "g": 0,
     "a": 1,
     "sg": 0,
@@ -179,18 +197,18 @@
     "ca": 0,
     "pp": 0,
     "gs": 0,
-    "fc": 0,
+    "fc": 1,
     "i": 0,
-    "ds": 4,
+    "ds": 5,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 0,
-    "preco_num": 8.48,
-    "variacao_num": -0.15,
-    "media_num": 5.13,
-    "jogos_num": 3,
+    "pontos_num": 0.9,
+    "preco_num": 7.63,
+    "variacao_num": -0.85,
+    "media_num": 4.07,
+    "jogos_num": 4,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }
