@@ -14,7 +14,8 @@
     6,
     7,
     8,
-    9
+    9,
+    10
   ],
   "pontos": [
     0,
@@ -25,7 +26,8 @@
     0,
     4.2,
     0,
-    1.2
+    1.2,
+    0.7
   ],
   "precos": [
     5,
@@ -36,7 +38,8 @@
     4.17,
     4.72,
     3.84,
-    3.87
+    3.87,
+    3.71
   ],
   "variacoes": [
     0,
@@ -47,7 +50,8 @@
     0,
     0.55,
     -0.88,
-    0.03
+    0.03,
+    -0.16
   ],
   "medias": [
     0,
@@ -58,7 +62,8 @@
     1.5,
     2.17,
     1.74,
-    1.65
+    1.65,
+    1.51
   ],
   "partidas": [
     {
@@ -177,17 +182,30 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/bahia_60x60.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 10,
+      "clube_casa": "Atlético-GO",
+      "clube_casa_id": 373,
+      "clube_visitante": "Criciúma",
+      "clube_casa_abrev": "ATL",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2020/07/02/atletico-go-2020-65.png",
+      "clube_visitante_id": 288,
+      "clube_visitante_abrev": "CRI",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2024/03/28/criciuma-65.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/01/16/photo_220x220_cYCP9RY.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2024/03/28/criciuma-65.png",
   "scouts": {
-    "rodada_id": 9,
+    "rodada_id": 10,
     "g": 0,
     "a": 0,
     "sg": 0,
-    "fs": 3,
-    "ff": 2,
+    "fs": 4,
+    "ff": 3,
     "fd": 3,
     "ft": 0,
     "de": 0,
@@ -197,18 +215,18 @@
     "ca": 1,
     "pp": 0,
     "gs": 0,
-    "fc": 2,
+    "fc": 4,
     "i": 0,
     "ds": 4,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 1.2,
-    "preco_num": 3.87,
-    "variacao_num": 0.03,
-    "media_num": 1.65,
-    "jogos_num": 6,
+    "pontos_num": 0.7,
+    "preco_num": 3.71,
+    "variacao_num": -0.16,
+    "media_num": 1.51,
+    "jogos_num": 7,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }

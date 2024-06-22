@@ -14,7 +14,8 @@
     6,
     7,
     8,
-    9
+    9,
+    10
   ],
   "pontos": [
     0,
@@ -25,7 +26,8 @@
     0,
     0,
     0,
-    0
+    0,
+    3
   ],
   "precos": [
     2,
@@ -36,7 +38,8 @@
     2,
     2,
     2,
-    2
+    2,
+    2.98
   ],
   "variacoes": [
     0,
@@ -47,7 +50,8 @@
     0,
     0,
     0,
-    0
+    0,
+    0.98
   ],
   "medias": [
     0,
@@ -58,7 +62,8 @@
     0,
     0,
     0,
-    0
+    0,
+    3
   ],
   "partidas": [
     {
@@ -177,12 +182,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/sao_paulo_60x60.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 10,
+      "clube_casa": "Internacional",
+      "clube_casa_id": 285,
+      "clube_visitante": "Corinthians",
+      "clube_casa_abrev": "INT",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2016/05/03/inter65.png",
+      "clube_visitante_id": 264,
+      "clube_visitante_abrev": "COR",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/09/30/Corinthians_65.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/02/27/photo_220x220_9utJF4u.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2019/09/30/Corinthians_65.png",
   "scouts": {
-    "rodada_id": 9,
+    "rodada_id": 10,
     "g": 0,
     "a": 0,
     "sg": 0,
@@ -190,13 +208,13 @@
     "ff": 0,
     "fd": 0,
     "ft": 0,
-    "de": 0,
+    "de": 4,
     "dp": 0,
     "gc": 0,
     "cv": 0,
     "ca": 0,
     "pp": 0,
-    "gs": 0,
+    "gs": 1,
     "fc": 0,
     "i": 0,
     "ds": 0,
@@ -204,11 +222,11 @@
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 0,
-    "preco_num": 2,
-    "variacao_num": 0,
-    "media_num": 0,
-    "jogos_num": 0,
+    "pontos_num": 3,
+    "preco_num": 2.98,
+    "variacao_num": 0.98,
+    "media_num": 3,
+    "jogos_num": 1,
     "posicao_abrev": "gol",
     "posicao": "Goleiro"
   }

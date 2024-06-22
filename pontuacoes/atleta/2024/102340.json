@@ -14,7 +14,8 @@
     6,
     7,
     8,
-    9
+    9,
+    10
   ],
   "pontos": [
     0,
@@ -25,7 +26,8 @@
     1.9,
     2.9,
     0,
-    -2
+    -2,
+    2.9
   ],
   "precos": [
     7,
@@ -36,7 +38,8 @@
     10.45,
     10.04,
     9.58,
-    8.23
+    8.23,
+    8.68
   ],
   "variacoes": [
     0,
@@ -47,7 +50,8 @@
     -1.72,
     -0.41,
     -0.46,
-    -1.35
+    -1.35,
+    0.45
   ],
   "medias": [
     0,
@@ -58,7 +62,8 @@
     6.77,
     5.8,
     5.28,
-    4.07
+    4.07,
+    3.9
   ],
   "partidas": [
     {
@@ -177,17 +182,30 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/sao_paulo_60x60.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 10,
+      "clube_casa": "Internacional",
+      "clube_casa_id": 285,
+      "clube_visitante": "Corinthians",
+      "clube_casa_abrev": "INT",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2016/05/03/inter65.png",
+      "clube_visitante_id": 264,
+      "clube_visitante_abrev": "COR",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/09/30/Corinthians_65.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/03/07/photo_220x220.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2019/09/30/Corinthians_65.png",
   "scouts": {
-    "rodada_id": 9,
+    "rodada_id": 10,
     "g": 1,
     "a": 1,
     "sg": 2,
-    "fs": 4,
-    "ff": 3,
+    "fs": 7,
+    "ff": 4,
     "fd": 1,
     "ft": 0,
     "de": 0,
@@ -197,18 +215,18 @@
     "ca": 0,
     "pp": 0,
     "gs": 0,
-    "fc": 6,
+    "fc": 8,
     "i": 0,
-    "ds": 3,
+    "ds": 4,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": -2,
-    "preco_num": 8.23,
-    "variacao_num": -1.35,
-    "media_num": 4.07,
-    "jogos_num": 6,
+    "pontos_num": 2.9,
+    "preco_num": 8.68,
+    "variacao_num": 0.45,
+    "media_num": 3.9,
+    "jogos_num": 7,
     "posicao_abrev": "zag",
     "posicao": "Zagueiro"
   }

@@ -14,7 +14,8 @@
     6,
     7,
     8,
-    9
+    9,
+    10
   ],
   "pontos": [
     0,
@@ -25,7 +26,8 @@
     2.5,
     8,
     0,
-    3
+    3,
+    0.2
   ],
   "precos": [
     4,
@@ -36,7 +38,8 @@
     3.51,
     4.74,
     3.43,
-    3.96
+    3.96,
+    3.53
   ],
   "variacoes": [
     0,
@@ -47,7 +50,8 @@
     -0.15,
     1.23,
     -1.31,
-    0.53
+    0.53,
+    -0.43
   ],
   "medias": [
     0,
@@ -58,7 +62,8 @@
     2.3,
     3.25,
     2.64,
-    2.69
+    2.69,
+    2.41
   ],
   "partidas": [
     {
@@ -177,38 +182,51 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2020/07/02/atletico-go-2020-65.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 10,
+      "clube_casa": "Atlético-GO",
+      "clube_casa_id": 373,
+      "clube_visitante": "Criciúma",
+      "clube_casa_abrev": "ATL",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2020/07/02/atletico-go-2020-65.png",
+      "clube_visitante_id": 288,
+      "clube_visitante_abrev": "CRI",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2024/03/28/criciuma-65.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/02/28/photo_220x220_AaiyHtB.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2020/07/02/atletico-go-2020-65.png",
   "scouts": {
-    "rodada_id": 9,
+    "rodada_id": 10,
     "g": 0,
     "a": 1,
     "sg": 1,
-    "fs": 1,
+    "fs": 2,
     "ff": 0,
     "fd": 0,
     "ft": 0,
-    "de": 23,
+    "de": 27,
     "dp": 0,
     "gc": 0,
-    "cv": 0,
+    "cv": 1,
     "ca": 1,
     "pp": 0,
-    "gs": 11,
-    "fc": 0,
+    "gs": 12,
+    "fc": 1,
     "i": 0,
     "ds": 0,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 3,
-    "preco_num": 3.96,
-    "variacao_num": 0.53,
-    "media_num": 2.69,
-    "jogos_num": 8,
+    "pontos_num": 0.2,
+    "preco_num": 3.53,
+    "variacao_num": -0.43,
+    "media_num": 2.41,
+    "jogos_num": 9,
     "posicao_abrev": "gol",
     "posicao": "Goleiro"
   }
