@@ -15,7 +15,8 @@
     7,
     8,
     9,
-    10
+    10,
+    11
   ],
   "pontos": [
     0,
@@ -27,7 +28,8 @@
     8,
     0,
     0.2,
-    -0.1
+    -0.1,
+    7
   ],
   "precos": [
     5,
@@ -39,7 +41,8 @@
     5.45,
     4.77,
     4.31,
-    4.11
+    4.11,
+    5.22
   ],
   "variacoes": [
     0,
@@ -51,7 +54,8 @@
     1.29,
     -0.68,
     -0.46,
-    -0.2
+    -0.2,
+    1.11
   ],
   "medias": [
     0,
@@ -63,7 +67,8 @@
     2.9,
     2.8,
     2.43,
-    2.11
+    2.11,
+    2.65
   ],
   "partidas": [
     {
@@ -195,18 +200,31 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/bahia_60x60.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 11,
+      "clube_casa": "Bahia",
+      "clube_casa_id": 265,
+      "clube_visitante": "Cruzeiro",
+      "clube_casa_abrev": "BAH",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/bahia_60x60.png",
+      "clube_visitante_id": 283,
+      "clube_visitante_abrev": "CRU",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/02/13/65_cruzeiro-2021.png",
+      "placar_oficial_mandante": 4,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/02/29/photo_220x220_IWREALz.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2014/04/14/bahia_60x60.png",
   "scouts": {
-    "rodada_id": 10,
+    "rodada_id": 11,
     "g": 1,
-    "a": 0,
+    "a": 1,
     "sg": 0,
     "fs": 7,
-    "ff": 1,
-    "fd": 0,
+    "ff": 2,
+    "fd": 1,
     "ft": 0,
     "de": 0,
     "dp": 0,
@@ -222,11 +240,11 @@
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": -0.1,
-    "preco_num": 4.11,
-    "variacao_num": -0.2,
-    "media_num": 2.11,
-    "jogos_num": 8,
+    "pontos_num": 7,
+    "preco_num": 5.22,
+    "variacao_num": 1.11,
+    "media_num": 2.65,
+    "jogos_num": 9,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }

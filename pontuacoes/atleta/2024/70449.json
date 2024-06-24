@@ -15,7 +15,8 @@
     7,
     8,
     9,
-    10
+    10,
+    11
   ],
   "pontos": [
     0,
@@ -27,7 +28,8 @@
     2,
     0,
     -1,
-    7
+    7,
+    3
   ],
   "precos": [
     4,
@@ -39,7 +41,8 @@
     3.6,
     3.61,
     3,
-    4.37
+    4.37,
+    3.91
   ],
   "variacoes": [
     0,
@@ -51,7 +54,8 @@
     -0.21,
     0.01,
     -0.61,
-    1.37
+    1.37,
+    -0.46
   ],
   "medias": [
     0,
@@ -63,7 +67,8 @@
     1.8,
     1.83,
     1.43,
-    2.13
+    2.13,
+    2.23
   ],
   "partidas": [
     {
@@ -195,12 +200,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/09/04/ESCUDO-VASCO-RGB_65px.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 11,
+      "clube_casa": "Palmeiras",
+      "clube_casa_id": 275,
+      "clube_visitante": "Juventude",
+      "clube_casa_abrev": "PAL",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/palmeiras_60x60.png",
+      "clube_visitante_id": 286,
+      "clube_visitante_abrev": "JUV",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/04/29/juventude65.png",
+      "placar_oficial_mandante": 3,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/03/11/photo_220x220_8qXDLkA.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2021/04/29/juventude65.png",
   "scouts": {
-    "rodada_id": 10,
+    "rodada_id": 11,
     "g": 0,
     "a": 0,
     "sg": 2,
@@ -208,13 +226,13 @@
     "ff": 0,
     "fd": 0,
     "ft": 0,
-    "de": 19,
+    "de": 26,
     "dp": 0,
     "gc": 0,
     "cv": 0,
-    "ca": 2,
+    "ca": 3,
     "pp": 0,
-    "gs": 11,
+    "gs": 14,
     "fc": 0,
     "i": 0,
     "ds": 0,
@@ -222,11 +240,11 @@
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 7,
-    "preco_num": 4.37,
-    "variacao_num": 1.37,
-    "media_num": 2.13,
-    "jogos_num": 8,
+    "pontos_num": 3,
+    "preco_num": 3.91,
+    "variacao_num": -0.46,
+    "media_num": 2.23,
+    "jogos_num": 9,
     "posicao_abrev": "gol",
     "posicao": "Goleiro"
   }

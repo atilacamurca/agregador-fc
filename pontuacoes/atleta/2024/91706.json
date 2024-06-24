@@ -15,7 +15,8 @@
     7,
     8,
     9,
-    10
+    10,
+    11
   ],
   "pontos": [
     0,
@@ -27,7 +28,8 @@
     -2.8,
     0,
     6.7,
-    7.3
+    7.3,
+    1.5
   ],
   "precos": [
     14,
@@ -39,7 +41,8 @@
     7.81,
     7.81,
     9.09,
-    9.41
+    9.41,
+    8.4
   ],
   "variacoes": [
     0,
@@ -51,7 +54,8 @@
     -1.83,
     0,
     1.28,
-    0.32
+    0.32,
+    -1.01
   ],
   "medias": [
     0,
@@ -63,7 +67,8 @@
     2.25,
     2.25,
     2.89,
-    3.44
+    3.44,
+    3.22
   ],
   "partidas": [
     {
@@ -195,12 +200,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/fluminense_60x60.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 11,
+      "clube_casa": "Bahia",
+      "clube_casa_id": 265,
+      "clube_visitante": "Cruzeiro",
+      "clube_casa_abrev": "BAH",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/bahia_60x60.png",
+      "clube_visitante_id": 283,
+      "clube_visitante_abrev": "CRU",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/02/13/65_cruzeiro-2021.png",
+      "placar_oficial_mandante": 4,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/03/02/photo_220x220_6dy9M0T.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2021/02/13/65_cruzeiro-2021.png",
   "scouts": {
-    "rodada_id": 10,
+    "rodada_id": 11,
     "g": 0,
     "a": 0,
     "sg": 3,
@@ -211,22 +229,22 @@
     "de": 0,
     "dp": 0,
     "gc": 0,
-    "cv": 1,
+    "cv": 2,
     "ca": 0,
     "pp": 0,
     "gs": 0,
-    "fc": 13,
+    "fc": 14,
     "i": 0,
-    "ds": 12,
+    "ds": 16,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 7.3,
-    "preco_num": 9.41,
-    "variacao_num": 0.32,
-    "media_num": 3.44,
-    "jogos_num": 8,
+    "pontos_num": 1.5,
+    "preco_num": 8.4,
+    "variacao_num": -1.01,
+    "media_num": 3.22,
+    "jogos_num": 9,
     "posicao_abrev": "lat",
     "posicao": "Lateral"
   }

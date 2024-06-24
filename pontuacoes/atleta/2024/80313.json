@@ -15,7 +15,8 @@
     7,
     8,
     9,
-    10
+    10,
+    11
   ],
   "pontos": [
     0,
@@ -27,7 +28,8 @@
     0,
     0,
     1.4,
-    1.5
+    1.5,
+    4.2
   ],
   "precos": [
     6,
@@ -39,7 +41,8 @@
     6,
     8.15,
     7.46,
-    7.09
+    7.09,
+    7.2
   ],
   "variacoes": [
     0,
@@ -51,7 +54,8 @@
     0,
     2.15,
     -0.69,
-    -0.37
+    -0.37,
+    0.11
   ],
   "medias": [
     0,
@@ -63,7 +67,8 @@
     0,
     7.1,
     4.25,
-    3.33
+    3.33,
+    3.55
   ],
   "partidas": [
     {
@@ -195,17 +200,30 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/bahia_60x60.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 11,
+      "clube_casa": "Bahia",
+      "clube_casa_id": 265,
+      "clube_visitante": "Cruzeiro",
+      "clube_casa_abrev": "BAH",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/bahia_60x60.png",
+      "clube_visitante_id": 283,
+      "clube_visitante_abrev": "CRU",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/02/13/65_cruzeiro-2021.png",
+      "placar_oficial_mandante": 4,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/02/29/photo_220x220_iy1T2ej.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2014/04/14/bahia_60x60.png",
   "scouts": {
-    "rodada_id": 10,
+    "rodada_id": 11,
     "g": 0,
     "a": 0,
     "sg": 1,
-    "fs": 3,
-    "ff": 0,
+    "fs": 5,
+    "ff": 1,
     "fd": 0,
     "ft": 0,
     "de": 0,
@@ -217,16 +235,16 @@
     "gs": 0,
     "fc": 4,
     "i": 1,
-    "ds": 4,
+    "ds": 6,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 1.5,
-    "preco_num": 7.09,
-    "variacao_num": -0.37,
-    "media_num": 3.33,
-    "jogos_num": 3,
+    "pontos_num": 4.2,
+    "preco_num": 7.2,
+    "variacao_num": 0.11,
+    "media_num": 3.55,
+    "jogos_num": 4,
     "posicao_abrev": "lat",
     "posicao": "Lateral"
   }

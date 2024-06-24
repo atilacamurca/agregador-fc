@@ -15,7 +15,8 @@
     7,
     8,
     9,
-    10
+    10,
+    11
   ],
   "pontos": [
     0,
@@ -27,7 +28,8 @@
     2.4,
     0,
     1.8,
-    2
+    2,
+    0.4
   ],
   "precos": [
     5,
@@ -39,7 +41,8 @@
     3.91,
     3.54,
     3.66,
-    3.71
+    3.71,
+    3.37
   ],
   "variacoes": [
     0,
@@ -51,7 +54,8 @@
     0.11,
     -0.37,
     0.12,
-    0.05
+    0.05,
+    -0.34
   ],
   "medias": [
     0,
@@ -63,7 +67,8 @@
     1.52,
     1.35,
     1.41,
-    1.48
+    1.48,
+    1.36
   ],
   "partidas": [
     {
@@ -195,12 +200,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/fluminense_60x60.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 11,
+      "clube_casa": "Bahia",
+      "clube_casa_id": 265,
+      "clube_visitante": "Cruzeiro",
+      "clube_casa_abrev": "BAH",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/bahia_60x60.png",
+      "clube_visitante_id": 283,
+      "clube_visitante_abrev": "CRU",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/02/13/65_cruzeiro-2021.png",
+      "placar_oficial_mandante": 4,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/03/02/photo_220x220_MK4CCfT.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2021/02/13/65_cruzeiro-2021.png",
   "scouts": {
-    "rodada_id": 10,
+    "rodada_id": 11,
     "g": 0,
     "a": 0,
     "sg": 0,
@@ -212,21 +230,21 @@
     "dp": 0,
     "gc": 0,
     "cv": 0,
-    "ca": 1,
+    "ca": 2,
     "pp": 0,
     "gs": 0,
-    "fc": 8,
-    "i": 0,
-    "ds": 10,
+    "fc": 11,
+    "i": 1,
+    "ds": 12,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 2,
-    "preco_num": 3.71,
-    "variacao_num": 0.05,
-    "media_num": 1.48,
-    "jogos_num": 8,
+    "pontos_num": 0.4,
+    "preco_num": 3.37,
+    "variacao_num": -0.34,
+    "media_num": 1.36,
+    "jogos_num": 9,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }

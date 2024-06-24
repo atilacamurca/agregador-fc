@@ -15,7 +15,8 @@
     7,
     8,
     9,
-    10
+    10,
+    11
   ],
   "pontos": [
     0,
@@ -27,6 +28,7 @@
     4,
     0,
     0.2,
+    5.5,
     5.5
   ],
   "precos": [
@@ -39,7 +41,8 @@
     5.81,
     5.81,
     4.89,
-    5.8
+    5.8,
+    5.96
   ],
   "variacoes": [
     0,
@@ -51,7 +54,8 @@
     0.34,
     0,
     -0.92,
-    0.91
+    0.91,
+    0.16
   ],
   "medias": [
     0,
@@ -63,7 +67,8 @@
     2.85,
     2.85,
     2.32,
-    2.85
+    2.85,
+    3.23
   ],
   "partidas": [
     {
@@ -195,16 +200,29 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/09/30/Corinthians_65.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 11,
+      "clube_casa": "Grêmio",
+      "clube_casa_id": 284,
+      "clube_visitante": "Internacional",
+      "clube_casa_abrev": "GRE",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/gremio_60x60.png",
+      "clube_visitante_id": 285,
+      "clube_visitante_abrev": "INT",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2016/05/03/inter65.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/02/29/photo_220x220_o74D2pK.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2016/05/03/inter65.png",
   "scouts": {
-    "rodada_id": 10,
+    "rodada_id": 11,
     "g": 0,
     "a": 0,
-    "sg": 3,
-    "fs": 2,
+    "sg": 4,
+    "fs": 3,
     "ff": 0,
     "fd": 0,
     "ft": 0,
@@ -223,10 +241,10 @@
     "ps": 0,
     "v": 0,
     "pontos_num": 5.5,
-    "preco_num": 5.8,
-    "variacao_num": 0.91,
-    "media_num": 2.85,
-    "jogos_num": 6,
+    "preco_num": 5.96,
+    "variacao_num": 0.16,
+    "media_num": 3.23,
+    "jogos_num": 7,
     "posicao_abrev": "zag",
     "posicao": "Zagueiro"
   }

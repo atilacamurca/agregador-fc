@@ -15,7 +15,8 @@
     7,
     8,
     9,
-    10
+    10,
+    11
   ],
   "pontos": [
     0,
@@ -27,7 +28,8 @@
     0,
     0,
     0,
-    5.6
+    5.6,
+    0
   ],
   "precos": [
     4,
@@ -39,7 +41,8 @@
     4.47,
     4.14,
     4.14,
-    5
+    5,
+    4.06
   ],
   "variacoes": [
     0,
@@ -51,7 +54,8 @@
     0,
     -0.33,
     0,
-    0.86
+    0.86,
+    -0.94
   ],
   "medias": [
     0,
@@ -63,7 +67,8 @@
     2.7,
     2.18,
     2.18,
-    2.86
+    2.86,
+    2.38
   ],
   "partidas": [
     {
@@ -195,12 +200,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/gremio_60x60.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 11,
+      "clube_casa": "Grêmio",
+      "clube_casa_id": 284,
+      "clube_visitante": "Internacional",
+      "clube_casa_abrev": "GRE",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/gremio_60x60.png",
+      "clube_visitante_id": 285,
+      "clube_visitante_abrev": "INT",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2016/05/03/inter65.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/03/11/photo_220x220_RubzI83.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2014/04/14/gremio_60x60.png",
   "scouts": {
-    "rodada_id": 10,
+    "rodada_id": 11,
     "g": 0,
     "a": 0,
     "sg": 1,
@@ -222,11 +240,11 @@
     "pc": 1,
     "ps": 0,
     "v": 0,
-    "pontos_num": 5.6,
-    "preco_num": 5,
-    "variacao_num": 0.86,
-    "media_num": 2.86,
-    "jogos_num": 5,
+    "pontos_num": 0,
+    "preco_num": 4.06,
+    "variacao_num": -0.94,
+    "media_num": 2.38,
+    "jogos_num": 6,
     "posicao_abrev": "zag",
     "posicao": "Zagueiro"
   }

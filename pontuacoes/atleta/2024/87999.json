@@ -15,7 +15,8 @@
     7,
     8,
     9,
-    10
+    10,
+    11
   ],
   "pontos": [
     0,
@@ -27,7 +28,8 @@
     2,
     0,
     1.7,
-    13.1
+    13.1,
+    8.3
   ],
   "precos": [
     13,
@@ -39,7 +41,8 @@
     11.54,
     11.45,
     10.88,
-    12.78
+    12.78,
+    12.19
   ],
   "variacoes": [
     0,
@@ -51,7 +54,8 @@
     -0.35,
     -0.09,
     -0.57,
-    1.9
+    1.9,
+    -0.59
   ],
   "medias": [
     0,
@@ -63,7 +67,8 @@
     6.02,
     5.65,
     5.16,
-    6.04
+    6.04,
+    6.27
   ],
   "partidas": [
     {
@@ -195,19 +200,32 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2017/11/23/Atletico-Mineiro-escudo65px.png",
       "placar_oficial_mandante": 4,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 11,
+      "clube_casa": "Atlético-MG",
+      "clube_casa_id": 282,
+      "clube_visitante": "Fortaleza",
+      "clube_casa_abrev": "ATL",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2017/11/23/Atletico-Mineiro-escudo65px.png",
+      "clube_visitante_id": 356,
+      "clube_visitante_abrev": "FOR",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/09/19/65_0000_Fortaleza-2021.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/03/06/photo_220x220_UXqyPlk.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2017/11/23/Atletico-Mineiro-escudo65px.png",
   "scouts": {
-    "rodada_id": 10,
+    "rodada_id": 11,
     "g": 3,
     "a": 2,
     "sg": 0,
-    "fs": 15,
+    "fs": 16,
     "ff": 4,
-    "fd": 4,
-    "ft": 0,
+    "fd": 7,
+    "ft": 1,
     "de": 0,
     "dp": 0,
     "gc": 0,
@@ -217,16 +235,16 @@
     "gs": 0,
     "fc": 5,
     "i": 1,
-    "ds": 7,
+    "ds": 8,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 13.1,
-    "preco_num": 12.78,
-    "variacao_num": 1.9,
-    "media_num": 6.04,
-    "jogos_num": 9,
+    "pontos_num": 8.3,
+    "preco_num": 12.19,
+    "variacao_num": -0.59,
+    "media_num": 6.27,
+    "jogos_num": 10,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }

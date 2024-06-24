@@ -15,7 +15,8 @@
     7,
     8,
     9,
-    10
+    10,
+    11
   ],
   "pontos": [
     0,
@@ -27,7 +28,8 @@
     0,
     0,
     0,
-    2.5
+    2.5,
+    0.9
   ],
   "precos": [
     6,
@@ -39,7 +41,8 @@
     5.37,
     4.64,
     4.64,
-    4.79
+    4.79,
+    4.4
   ],
   "variacoes": [
     0,
@@ -51,7 +54,8 @@
     0,
     -0.73,
     0,
-    0.15
+    0.15,
+    -0.39
   ],
   "medias": [
     0,
@@ -63,7 +67,8 @@
     2.43,
     1.62,
     1.62,
-    1.8
+    1.8,
+    1.65
   ],
   "partidas": [
     {
@@ -195,18 +200,31 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/gremio_60x60.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 11,
+      "clube_casa": "Grêmio",
+      "clube_casa_id": 284,
+      "clube_visitante": "Internacional",
+      "clube_casa_abrev": "GRE",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/gremio_60x60.png",
+      "clube_visitante_id": 285,
+      "clube_visitante_abrev": "INT",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2016/05/03/inter65.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/03/11/photo_220x220_yq877xk.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2014/04/14/gremio_60x60.png",
   "scouts": {
-    "rodada_id": 10,
+    "rodada_id": 11,
     "g": 0,
     "a": 0,
     "sg": 1,
     "fs": 4,
     "ff": 3,
-    "fd": 0,
+    "fd": 1,
     "ft": 0,
     "de": 0,
     "dp": 0,
@@ -215,18 +233,18 @@
     "ca": 1,
     "pp": 0,
     "gs": 0,
-    "fc": 2,
+    "fc": 3,
     "i": 0,
     "ds": 1,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 2.5,
-    "preco_num": 4.79,
-    "variacao_num": 0.15,
-    "media_num": 1.8,
-    "jogos_num": 5,
+    "pontos_num": 0.9,
+    "preco_num": 4.4,
+    "variacao_num": -0.39,
+    "media_num": 1.65,
+    "jogos_num": 6,
     "posicao_abrev": "lat",
     "posicao": "Lateral"
   }

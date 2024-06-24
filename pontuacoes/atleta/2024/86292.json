@@ -15,7 +15,8 @@
     7,
     8,
     9,
-    10
+    10,
+    11
   ],
   "pontos": [
     0,
@@ -27,6 +28,7 @@
     7,
     0,
     2.9,
+    0.2,
     0.2
   ],
   "precos": [
@@ -39,7 +41,8 @@
     8.11,
     7.67,
     7.48,
-    6.87
+    6.87,
+    6.52
   ],
   "variacoes": [
     0,
@@ -51,7 +54,8 @@
     -0.41,
     -0.44,
     -0.19,
-    -0.61
+    -0.61,
+    -0.35
   ],
   "medias": [
     0,
@@ -63,7 +67,8 @@
     7.3,
     6.48,
     5.88,
-    5.07
+    5.07,
+    4.46
   ],
   "partidas": [
     {
@@ -195,17 +200,30 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2024/03/28/criciuma-65.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 11,
+      "clube_casa": "Criciúma",
+      "clube_casa_id": 288,
+      "clube_visitante": "Botafogo",
+      "clube_casa_abrev": "CRI",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2024/03/28/criciuma-65.png",
+      "clube_visitante_id": 263,
+      "clube_visitante_abrev": "BOT",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-65.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/03/20/photo_220x220_r97hBeS.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2024/03/28/criciuma-65.png",
   "scouts": {
-    "rodada_id": 10,
+    "rodada_id": 11,
     "g": 1,
     "a": 2,
     "sg": 0,
     "fs": 7,
-    "ff": 6,
+    "ff": 7,
     "fd": 6,
     "ft": 1,
     "de": 0,
@@ -215,7 +233,7 @@
     "ca": 2,
     "pp": 0,
     "gs": 0,
-    "fc": 12,
+    "fc": 14,
     "i": 2,
     "ds": 4,
     "pi": 0,
@@ -223,10 +241,10 @@
     "ps": 0,
     "v": 0,
     "pontos_num": 0.2,
-    "preco_num": 6.87,
-    "variacao_num": -0.61,
-    "media_num": 5.07,
-    "jogos_num": 7,
+    "preco_num": 6.52,
+    "variacao_num": -0.35,
+    "media_num": 4.46,
+    "jogos_num": 8,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }

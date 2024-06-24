@@ -15,7 +15,8 @@
     7,
     8,
     9,
-    10
+    10,
+    11
   ],
   "pontos": [
     0,
@@ -27,7 +28,8 @@
     0,
     0,
     2.1,
-    2.2
+    2.2,
+    7.5
   ],
   "precos": [
     3,
@@ -39,7 +41,8 @@
     5.13,
     5.13,
     5.25,
-    5.24
+    5.24,
+    6.12
   ],
   "variacoes": [
     0,
@@ -51,7 +54,8 @@
     0,
     0,
     0.12,
-    -0.01
+    -0.01,
+    0.88
   ],
   "medias": [
     0,
@@ -63,7 +67,8 @@
     3.07,
     3.07,
     2.93,
-    2.84
+    2.84,
+    3.36
   ],
   "partidas": [
     {
@@ -195,16 +200,29 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/09/04/ESCUDO-VASCO-RGB_65px.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 11,
+      "clube_casa": "Vasco",
+      "clube_casa_id": 267,
+      "clube_visitante": "São Paulo",
+      "clube_casa_abrev": "VAS",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2021/09/04/ESCUDO-VASCO-RGB_65px.png",
+      "clube_visitante_id": 276,
+      "clube_visitante_abrev": "SAO",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/sao_paulo_60x60.png",
+      "placar_oficial_mandante": 4,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/03/04/photo_220x220_JfIekB6.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2021/09/04/ESCUDO-VASCO-RGB_65px.png",
   "scouts": {
-    "rodada_id": 10,
+    "rodada_id": 11,
     "g": 1,
     "a": 0,
     "sg": 0,
-    "fs": 6,
+    "fs": 9,
     "ff": 1,
     "fd": 2,
     "ft": 0,
@@ -215,18 +233,18 @@
     "ca": 2,
     "pp": 0,
     "gs": 0,
-    "fc": 5,
+    "fc": 9,
     "i": 0,
-    "ds": 10,
+    "ds": 16,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 2.2,
-    "preco_num": 5.24,
-    "variacao_num": -0.01,
-    "media_num": 2.84,
-    "jogos_num": 8,
+    "pontos_num": 7.5,
+    "preco_num": 6.12,
+    "variacao_num": 0.88,
+    "media_num": 3.36,
+    "jogos_num": 9,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }

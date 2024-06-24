@@ -14,7 +14,8 @@
     7,
     8,
     9,
-    10
+    10,
+    11
   ],
   "pontos": [
     0,
@@ -25,7 +26,8 @@
     5.5,
     0,
     0,
-    5.2
+    5.2,
+    2.2
   ],
   "precos": [
     6,
@@ -36,7 +38,8 @@
     6.67,
     5.8,
     5.8,
-    6.36
+    6.36,
+    5.84
   ],
   "variacoes": [
     0,
@@ -47,7 +50,8 @@
     0.56,
     -0.87,
     0,
-    0.56
+    0.56,
+    -0.52
   ],
   "medias": [
     0,
@@ -58,7 +62,8 @@
     3.57,
     2.93,
     2.93,
-    3.38
+    3.38,
+    3.18
   ],
   "partidas": [
     {
@@ -177,16 +182,29 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/gremio_60x60.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 11,
+      "clube_casa": "Atlético-MG",
+      "clube_casa_id": 282,
+      "clube_visitante": "Fortaleza",
+      "clube_casa_abrev": "ATL",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2017/11/23/Atletico-Mineiro-escudo65px.png",
+      "clube_visitante_id": 356,
+      "clube_visitante_abrev": "FOR",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/09/19/65_0000_Fortaleza-2021.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/04/19/photo_220x220_ZDljmkA.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2021/09/19/65_0000_Fortaleza-2021.png",
   "scouts": {
-    "rodada_id": 10,
+    "rodada_id": 11,
     "g": 0,
     "a": 0,
     "sg": 2,
-    "fs": 6,
+    "fs": 8,
     "ff": 0,
     "fd": 1,
     "ft": 0,
@@ -199,16 +217,16 @@
     "gs": 0,
     "fc": 3,
     "i": 0,
-    "ds": 3,
+    "ds": 4,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 5.2,
-    "preco_num": 6.36,
-    "variacao_num": 0.56,
-    "media_num": 3.38,
-    "jogos_num": 5,
+    "pontos_num": 2.2,
+    "preco_num": 5.84,
+    "variacao_num": -0.52,
+    "media_num": 3.18,
+    "jogos_num": 6,
     "posicao_abrev": "lat",
     "posicao": "Lateral"
   }

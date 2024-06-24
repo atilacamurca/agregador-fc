@@ -15,7 +15,8 @@
     7,
     8,
     9,
-    10
+    10,
+    11
   ],
   "pontos": [
     0,
@@ -27,7 +28,8 @@
     0,
     0,
     -1.6,
-    0
+    0,
+    3.7
   ],
   "precos": [
     6,
@@ -39,7 +41,8 @@
     7.32,
     6.63,
     5.76,
-    5.76
+    5.76,
+    6.38
   ],
   "variacoes": [
     0,
@@ -51,7 +54,8 @@
     0,
     -0.69,
     -0.87,
-    0
+    0,
+    0.62
   ],
   "medias": [
     0,
@@ -63,7 +67,8 @@
     4.62,
     3.94,
     3.02,
-    3.02
+    3.02,
+    3.12
   ],
   "partidas": [
     {
@@ -195,17 +200,30 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2017/11/23/Atletico-Mineiro-escudo65px.png",
       "placar_oficial_mandante": 4,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 11,
+      "clube_casa": "Atlético-MG",
+      "clube_casa_id": 282,
+      "clube_visitante": "Fortaleza",
+      "clube_casa_abrev": "ATL",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2017/11/23/Atletico-Mineiro-escudo65px.png",
+      "clube_visitante_id": 356,
+      "clube_visitante_abrev": "FOR",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/09/19/65_0000_Fortaleza-2021.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/03/31/photo_220x220_JxE36o1.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2017/11/23/Atletico-Mineiro-escudo65px.png",
   "scouts": {
-    "rodada_id": 10,
+    "rodada_id": 11,
     "g": 0,
     "a": 0,
     "sg": 3,
-    "fs": 1,
-    "ff": 0,
+    "fs": 2,
+    "ff": 1,
     "fd": 1,
     "ft": 0,
     "de": 0,
@@ -217,16 +235,16 @@
     "gs": 0,
     "fc": 4,
     "i": 0,
-    "ds": 3,
+    "ds": 5,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 0,
-    "preco_num": 5.76,
-    "variacao_num": 0,
-    "media_num": 3.02,
-    "jogos_num": 6,
+    "pontos_num": 3.7,
+    "preco_num": 6.38,
+    "variacao_num": 0.62,
+    "media_num": 3.12,
+    "jogos_num": 7,
     "posicao_abrev": "zag",
     "posicao": "Zagueiro"
   }

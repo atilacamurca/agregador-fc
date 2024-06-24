@@ -15,7 +15,8 @@
     7,
     8,
     9,
-    10
+    10,
+    11
   ],
   "pontos": [
     0,
@@ -27,7 +28,8 @@
     7,
     0,
     2,
-    7
+    7,
+    6
   ],
   "precos": [
     7,
@@ -39,7 +41,8 @@
     8.68,
     7.7,
     7.62,
-    8.45
+    8.45,
+    8.34
   ],
   "variacoes": [
     0,
@@ -51,7 +54,8 @@
     0.55,
     -0.98,
     -0.08,
-    0.83
+    0.83,
+    -0.11
   ],
   "medias": [
     0,
@@ -63,7 +67,8 @@
     5.7,
     5.03,
     4.65,
-    4.91
+    4.91,
+    5.02
   ],
   "partidas": [
     {
@@ -195,12 +200,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/gremio_60x60.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 11,
+      "clube_casa": "Atlético-MG",
+      "clube_casa_id": 282,
+      "clube_visitante": "Fortaleza",
+      "clube_casa_abrev": "ATL",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2017/11/23/Atletico-Mineiro-escudo65px.png",
+      "clube_visitante_id": 356,
+      "clube_visitante_abrev": "FOR",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/09/19/65_0000_Fortaleza-2021.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/02/28/photo_220x220_yXqoxi8.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2021/09/19/65_0000_Fortaleza-2021.png",
   "scouts": {
-    "rodada_id": 10,
+    "rodada_id": 11,
     "g": 0,
     "a": 0,
     "sg": 3,
@@ -208,13 +226,13 @@
     "ff": 0,
     "fd": 0,
     "ft": 0,
-    "de": 38,
+    "de": 45,
     "dp": 0,
     "gc": 0,
     "cv": 0,
     "ca": 0,
     "pp": 0,
-    "gs": 10,
+    "gs": 11,
     "fc": 0,
     "i": 0,
     "ds": 1,
@@ -222,11 +240,11 @@
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 7,
-    "preco_num": 8.45,
-    "variacao_num": 0.83,
-    "media_num": 4.91,
-    "jogos_num": 9,
+    "pontos_num": 6,
+    "preco_num": 8.34,
+    "variacao_num": -0.11,
+    "media_num": 5.02,
+    "jogos_num": 10,
     "posicao_abrev": "gol",
     "posicao": "Goleiro"
   }

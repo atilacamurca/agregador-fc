@@ -15,7 +15,8 @@
     7,
     8,
     9,
-    10
+    10,
+    11
   ],
   "pontos": [
     0,
@@ -27,7 +28,8 @@
     0.5,
     0,
     0,
-    -0.3
+    -0.3,
+    1.1
   ],
   "precos": [
     6,
@@ -39,7 +41,8 @@
     7.17,
     6.48,
     6.48,
-    5.72
+    5.72,
+    5.6
   ],
   "variacoes": [
     0,
@@ -51,7 +54,8 @@
     -1.13,
     -0.69,
     0,
-    -0.76
+    -0.76,
+    -0.12
   ],
   "medias": [
     0,
@@ -63,7 +67,8 @@
     3.57,
     2.73,
     2.73,
-    2.12
+    2.12,
+    1.95
   ],
   "partidas": [
     {
@@ -195,12 +200,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/09/30/Corinthians_65.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 11,
+      "clube_casa": "Grêmio",
+      "clube_casa_id": 284,
+      "clube_visitante": "Internacional",
+      "clube_casa_abrev": "GRE",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/gremio_60x60.png",
+      "clube_visitante_id": 285,
+      "clube_visitante_abrev": "INT",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2016/05/03/inter65.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/02/29/photo_220x220_OiqMDlL.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2016/05/03/inter65.png",
   "scouts": {
-    "rodada_id": 10,
+    "rodada_id": 11,
     "g": 1,
     "a": 0,
     "sg": 0,
@@ -212,21 +230,21 @@
     "dp": 0,
     "gc": 0,
     "cv": 0,
-    "ca": 2,
+    "ca": 3,
     "pp": 0,
     "gs": 0,
-    "fc": 4,
+    "fc": 5,
     "i": 0,
-    "ds": 4,
+    "ds": 6,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": -0.3,
-    "preco_num": 5.72,
-    "variacao_num": -0.76,
-    "media_num": 2.12,
-    "jogos_num": 5,
+    "pontos_num": 1.1,
+    "preco_num": 5.6,
+    "variacao_num": -0.12,
+    "media_num": 1.95,
+    "jogos_num": 6,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }

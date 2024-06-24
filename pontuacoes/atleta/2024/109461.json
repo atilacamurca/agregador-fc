@@ -15,7 +15,8 @@
     7,
     8,
     9,
-    10
+    10,
+    11
   ],
   "pontos": [
     0,
@@ -27,7 +28,8 @@
     0,
     0,
     0,
-    -0.3
+    -0.3,
+    1.2
   ],
   "precos": [
     7,
@@ -39,7 +41,8 @@
     7,
     7,
     7,
-    6.23
+    6.23,
+    5.82
   ],
   "variacoes": [
     0,
@@ -51,7 +54,8 @@
     0,
     0,
     0,
-    -0.77
+    -0.77,
+    -0.41
   ],
   "medias": [
     0,
@@ -63,7 +67,8 @@
     0,
     0,
     0,
-    -0.3
+    -0.3,
+    0.45
   ],
   "partidas": [
     {
@@ -195,12 +200,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/gremio_60x60.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 11,
+      "clube_casa": "Atlético-MG",
+      "clube_casa_id": 282,
+      "clube_visitante": "Fortaleza",
+      "clube_casa_abrev": "ATL",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2017/11/23/Atletico-Mineiro-escudo65px.png",
+      "clube_visitante_id": 356,
+      "clube_visitante_abrev": "FOR",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/09/19/65_0000_Fortaleza-2021.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/02/28/photo_220x220_zjAtk2u.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2021/09/19/65_0000_Fortaleza-2021.png",
   "scouts": {
-    "rodada_id": 10,
+    "rodada_id": 11,
     "g": 0,
     "a": 0,
     "sg": 0,
@@ -217,16 +235,16 @@
     "gs": 0,
     "fc": 2,
     "i": 0,
-    "ds": 0,
+    "ds": 1,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": -0.3,
-    "preco_num": 6.23,
-    "variacao_num": -0.77,
-    "media_num": -0.3,
-    "jogos_num": 1,
+    "pontos_num": 1.2,
+    "preco_num": 5.82,
+    "variacao_num": -0.41,
+    "media_num": 0.45,
+    "jogos_num": 2,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }

@@ -14,7 +14,8 @@
     7,
     8,
     9,
-    10
+    10,
+    11
   ],
   "pontos": [
     0.2,
@@ -25,7 +26,8 @@
     0,
     0,
     0,
-    0
+    0,
+    1.7
   ],
   "precos": [
     1.39,
@@ -36,7 +38,8 @@
     1.68,
     1.9,
     1.6,
-    1.6
+    1.6,
+    1.86
   ],
   "variacoes": [
     -0.25,
@@ -47,7 +50,8 @@
     0,
     0.22,
     -0.3,
-    0
+    0,
+    0.26
   ],
   "medias": [
     0.1,
@@ -58,7 +62,8 @@
     0.95,
     1.1,
     0.92,
-    0.92
+    0.92,
+    1.03
   ],
   "partidas": [
     {
@@ -177,18 +182,31 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/09/30/Corinthians_65.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 11,
+      "clube_casa": "Grêmio",
+      "clube_casa_id": 284,
+      "clube_visitante": "Internacional",
+      "clube_casa_abrev": "GRE",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/gremio_60x60.png",
+      "clube_visitante_id": 285,
+      "clube_visitante_abrev": "INT",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2016/05/03/inter65.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/04/03/photo_220x220_Ph1gWxf.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2016/05/03/inter65.png",
   "scouts": {
-    "rodada_id": 10,
+    "rodada_id": 11,
     "g": 0,
     "a": 0,
     "sg": 0,
     "fs": 3,
-    "ff": 2,
-    "fd": 0,
+    "ff": 3,
+    "fd": 1,
     "ft": 0,
     "de": 0,
     "dp": 0,
@@ -197,18 +215,18 @@
     "ca": 0,
     "pp": 0,
     "gs": 0,
-    "fc": 4,
+    "fc": 5,
     "i": 0,
     "ds": 3,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 0,
-    "preco_num": 1.6,
-    "variacao_num": 0,
-    "media_num": 0.92,
-    "jogos_num": 6,
+    "pontos_num": 1.7,
+    "preco_num": 1.86,
+    "variacao_num": 0.26,
+    "media_num": 1.03,
+    "jogos_num": 7,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }
