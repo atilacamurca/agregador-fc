@@ -6,7 +6,6 @@
   "clube_id": 266,
   "posicao": "Meia",
   "rodadas": [
-    2,
     3,
     4,
     5,
@@ -16,10 +15,10 @@
     9,
     10,
     11,
-    12
+    12,
+    13
   ],
   "pontos": [
-    0,
     0,
     0.2,
     0,
@@ -29,10 +28,10 @@
     0,
     0.9,
     -1.6,
-    3.7
+    3.7,
+    3.1
   ],
   "precos": [
-    7,
     7,
     5.82,
     5.07,
@@ -42,10 +41,10 @@
     4.75,
     4.33,
     3.26,
-    4.01
+    4.01,
+    4.06
   ],
   "variacoes": [
-    0,
     0,
     -1.18,
     -0.75,
@@ -55,10 +54,10 @@
     0,
     -0.42,
     -1.07,
-    0.75
+    0.75,
+    0.05
   ],
   "medias": [
-    0,
     0,
     0.2,
     0.1,
@@ -68,22 +67,10 @@
     0.23,
     0.4,
     0,
-    0.62
+    0.62,
+    0.97
   ],
   "partidas": [
-    {
-      "rodada_id": 2,
-      "clube_casa": "Bahia",
-      "clube_casa_id": 265,
-      "clube_visitante": "Fluminense",
-      "clube_casa_abrev": "BAH",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/bahia_60x60.png",
-      "clube_visitante_id": 266,
-      "clube_visitante_abrev": "FLU",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/fluminense_60x60.png",
-      "placar_oficial_mandante": 2,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 3,
       "clube_casa": "Fluminense",
@@ -213,18 +200,31 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2024/04/09/escudo-vitoria-65x65-69284.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 13,
+      "clube_casa": "Grêmio",
+      "clube_casa_id": 284,
+      "clube_visitante": "Fluminense",
+      "clube_casa_abrev": "GRE",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/gremio_60x60.png",
+      "clube_visitante_id": 266,
+      "clube_visitante_abrev": "FLU",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/fluminense_60x60.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/04/09/photo_220x220_hfdtfwn.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2014/04/14/fluminense_60x60.png",
   "scouts": {
-    "rodada_id": 12,
+    "rodada_id": 13,
     "g": 0,
     "a": 0,
     "sg": 0,
-    "fs": 3,
+    "fs": 5,
     "ff": 1,
-    "fd": 1,
+    "fd": 2,
     "ft": 0,
     "de": 0,
     "dp": 0,
@@ -233,18 +233,18 @@
     "ca": 1,
     "pp": 0,
     "gs": 0,
-    "fc": 4,
+    "fc": 5,
     "i": 0,
-    "ds": 2,
+    "ds": 3,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 3.7,
-    "preco_num": 4.01,
-    "variacao_num": 0.75,
-    "media_num": 0.62,
-    "jogos_num": 6,
+    "pontos_num": 3.1,
+    "preco_num": 4.06,
+    "variacao_num": 0.05,
+    "media_num": 0.97,
+    "jogos_num": 7,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }

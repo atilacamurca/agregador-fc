@@ -6,7 +6,6 @@
   "clube_id": 286,
   "posicao": "Técnico",
   "rodadas": [
-    2,
     3,
     4,
     5,
@@ -16,10 +15,10 @@
     9,
     10,
     11,
-    12
+    12,
+    13
   ],
   "pontos": [
-    9.55,
     2.75,
     3.96,
     0,
@@ -29,10 +28,10 @@
     3.23,
     7.5,
     4.9,
-    6.75
+    6.75,
+    3.18
   ],
   "precos": [
-    6.47,
     6.3,
     6.44,
     6.44,
@@ -42,10 +41,10 @@
     6.25,
     7.11,
     6.82,
-    7.21
+    7.21,
+    6.79
   ],
   "variacoes": [
-    2,
     -0.17,
     0.14,
     0,
@@ -55,10 +54,10 @@
     0,
     0.86,
     -0.29,
-    0.39
+    0.39,
+    -0.42
   ],
   "medias": [
-    6.45,
     5.22,
     4.91,
     4.91,
@@ -68,22 +67,10 @@
     4.16,
     4.58,
     4.62,
-    4.83
+    4.83,
+    4.68
   ],
   "partidas": [
-    {
-      "rodada_id": 2,
-      "clube_casa": "Juventude",
-      "clube_casa_id": 286,
-      "clube_visitante": "Corinthians",
-      "clube_casa_abrev": "JUV",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2021/04/29/juventude65.png",
-      "clube_visitante_id": 264,
-      "clube_visitante_abrev": "COR",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/09/30/Corinthians_65.png",
-      "placar_oficial_mandante": 2,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 3,
       "clube_casa": "Botafogo",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2018/04/09/Flamengo-65.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 13,
+      "clube_casa": "Fortaleza",
+      "clube_casa_id": 356,
+      "clube_visitante": "Juventude",
+      "clube_casa_abrev": "FOR",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2021/09/19/65_0000_Fortaleza-2021.png",
+      "clube_visitante_id": 286,
+      "clube_visitante_abrev": "JUV",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/04/29/juventude65.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2021/04/27/ec1e7e490c3a05088fd967b9e2468216_220x220.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2021/04/29/juventude65.png",
   "scouts": {
-    "rodada_id": 12,
+    "rodada_id": 13,
     "g": 0,
     "a": 0,
     "sg": 0,
@@ -240,11 +240,11 @@
     "pc": 0,
     "ps": 0,
     "v": 3,
-    "pontos_num": 6.75,
-    "preco_num": 7.21,
-    "variacao_num": 0.39,
-    "media_num": 4.83,
-    "jogos_num": 10,
+    "pontos_num": 3.18,
+    "preco_num": 6.79,
+    "variacao_num": -0.42,
+    "media_num": 4.68,
+    "jogos_num": 11,
     "posicao_abrev": "tec",
     "posicao": "Técnico"
   }
