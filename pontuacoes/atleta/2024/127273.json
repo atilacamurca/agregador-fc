@@ -6,7 +6,6 @@
   "clube_id": 263,
   "posicao": "Técnico",
   "rodadas": [
-    3,
     4,
     5,
     6,
@@ -16,10 +15,10 @@
     10,
     11,
     12,
-    13
+    13,
+    14
   ],
   "pontos": [
-    7.66,
     7.13,
     2.73,
     3.9,
@@ -29,10 +28,10 @@
     3.92,
     3.27,
     5.85,
-    2.61
+    2.61,
+    5.17
   ],
   "precos": [
-    8.1,
     8.53,
     8,
     7.98,
@@ -42,10 +41,10 @@
     8.54,
     8.3,
     8.64,
-    8.22
+    8.22,
+    8.49
   ],
   "variacoes": [
-    0.81,
     0.43,
     -0.53,
     -0.02,
@@ -55,10 +54,10 @@
     -0.15,
     -0.24,
     0.34,
-    -0.42
+    -0.42,
+    0.27
   ],
   "medias": [
-    6.13,
     6.38,
     5.65,
     5.36,
@@ -68,22 +67,10 @@
     5.69,
     5.47,
     5.5,
-    5.28
+    5.28,
+    5.27
   ],
   "partidas": [
-    {
-      "rodada_id": 3,
-      "clube_casa": "Botafogo",
-      "clube_casa_id": 263,
-      "clube_visitante": "Juventude",
-      "clube_casa_abrev": "BOT",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-65.png",
-      "clube_visitante_id": 286,
-      "clube_visitante_abrev": "JUV",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/04/29/juventude65.png",
-      "placar_oficial_mandante": 5,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 4,
       "clube_casa": "Flamengo",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-65.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 14,
+      "clube_casa": "Cuiabá",
+      "clube_casa_id": 1371,
+      "clube_visitante": "Botafogo",
+      "clube_casa_abrev": "CUI",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/16/cuiaba65.png",
+      "clube_visitante_id": 263,
+      "clube_visitante_abrev": "BOT",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-65.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/04/05/photo_220x220_4pgYWQ9.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-65.png",
   "scouts": {
-    "rodada_id": 13,
+    "rodada_id": 14,
     "g": 0,
     "a": 0,
     "sg": 0,
@@ -239,12 +239,12 @@
     "pi": 0,
     "pc": 0,
     "ps": 0,
-    "v": 7,
-    "pontos_num": 2.61,
-    "preco_num": 8.22,
-    "variacao_num": -0.42,
-    "media_num": 5.28,
-    "jogos_num": 13,
+    "v": 8,
+    "pontos_num": 5.17,
+    "preco_num": 8.49,
+    "variacao_num": 0.27,
+    "media_num": 5.27,
+    "jogos_num": 14,
     "posicao_abrev": "tec",
     "posicao": "Técnico"
   }

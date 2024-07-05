@@ -6,7 +6,6 @@
   "clube_id": 287,
   "posicao": "Atacante",
   "rodadas": [
-    3,
     4,
     5,
     6,
@@ -16,10 +15,10 @@
     10,
     11,
     12,
-    13
+    13,
+    14
   ],
   "pontos": [
-    0,
     2.6,
     1.4,
     3.9,
@@ -29,10 +28,10 @@
     0,
     0,
     7.7,
-    1.2
+    1.2,
+    3.2
   ],
   "precos": [
-    3,
     3.38,
     3.65,
     4.09,
@@ -42,10 +41,10 @@
     4.1,
     4.1,
     5.22,
-    4.38
+    4.38,
+    4.64
   ],
   "variacoes": [
-    0,
     0.38,
     0.27,
     0.44,
@@ -55,10 +54,10 @@
     0,
     0,
     1.12,
-    -0.84
+    -0.84,
+    0.26
   ],
   "medias": [
-    0,
     2.6,
     2,
     2.63,
@@ -68,22 +67,10 @@
     2.72,
     2.72,
     3.72,
-    3.3
+    3.3,
+    3.29
   ],
   "partidas": [
-    {
-      "rodada_id": 3,
-      "clube_casa": "Vitória",
-      "clube_casa_id": 287,
-      "clube_visitante": "Bahia",
-      "clube_casa_abrev": "VIT",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2024/04/09/escudo-vitoria-65x65-69284.png",
-      "clube_visitante_id": 265,
-      "clube_visitante_abrev": "BAH",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/bahia_60x60.png",
-      "placar_oficial_mandante": 2,
-      "placar_oficial_visitante": 2
-    },
     {
       "rodada_id": 4,
       "clube_casa": "Cruzeiro",
@@ -213,18 +200,31 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/09/09/Athletico-PR-65x65.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 14,
+      "clube_casa": "Corinthians",
+      "clube_casa_id": 264,
+      "clube_visitante": "Vitória",
+      "clube_casa_abrev": "COR",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2019/09/30/Corinthians_65.png",
+      "clube_visitante_id": 287,
+      "clube_visitante_abrev": "VIT",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2024/04/09/escudo-vitoria-65x65-69284.png",
+      "placar_oficial_mandante": 3,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/04/23/photo_220x220.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2024/04/09/escudo-vitoria-65x65-69284.png",
   "scouts": {
-    "rodada_id": 13,
+    "rodada_id": 14,
     "g": 1,
     "a": 0,
     "sg": 0,
     "fs": 6,
-    "ff": 4,
-    "fd": 1,
+    "ff": 5,
+    "fd": 2,
     "ft": 0,
     "de": 0,
     "dp": 0,
@@ -235,16 +235,16 @@
     "gs": 0,
     "fc": 5,
     "i": 1,
-    "ds": 5,
+    "ds": 6,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 1.2,
-    "preco_num": 4.38,
-    "variacao_num": -0.84,
-    "media_num": 3.3,
-    "jogos_num": 6,
+    "pontos_num": 3.2,
+    "preco_num": 4.64,
+    "variacao_num": 0.26,
+    "media_num": 3.29,
+    "jogos_num": 7,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }

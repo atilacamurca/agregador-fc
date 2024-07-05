@@ -6,7 +6,6 @@
   "clube_id": 373,
   "posicao": "Meia",
   "rodadas": [
-    3,
     4,
     5,
     6,
@@ -16,10 +15,10 @@
     10,
     11,
     12,
-    13
+    13,
+    14
   ],
   "pontos": [
-    -0.2,
     0,
     0,
     1.7,
@@ -29,10 +28,10 @@
     1.3,
     8.2,
     3,
-    0
+    0,
+    3.8
   ],
   "precos": [
-    3.64,
     3.64,
     3.64,
     3.81,
@@ -42,10 +41,10 @@
     4.92,
     6.05,
     5.41,
-    5.41
+    5.41,
+    5.55
   ],
   "variacoes": [
-    -0.65,
     0,
     0,
     0.17,
@@ -55,10 +54,10 @@
     -0.44,
     1.13,
     -0.64,
-    0
+    0,
+    0.14
   ],
   "medias": [
-    0.83,
     0.83,
     0.83,
     1.05,
@@ -68,22 +67,10 @@
     3.19,
     3.75,
     3.67,
-    3.67
+    3.67,
+    3.68
   ],
   "partidas": [
-    {
-      "rodada_id": 3,
-      "clube_casa": "Atlético-GO",
-      "clube_casa_id": 373,
-      "clube_visitante": "São Paulo",
-      "clube_casa_abrev": "ATL",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2020/07/02/atletico-go-2020-65.png",
-      "clube_visitante_id": 276,
-      "clube_visitante_abrev": "SAO",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/sao_paulo_60x60.png",
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 3
-    },
     {
       "rodada_id": 4,
       "clube_casa": "Internacional",
@@ -213,18 +200,31 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2020/07/02/atletico-go-2020-65.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 14,
+      "clube_casa": "Bragantino",
+      "clube_casa_id": 280,
+      "clube_visitante": "Atlético-GO",
+      "clube_casa_abrev": "BRA",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2020/01/01/65.png",
+      "clube_visitante_id": 373,
+      "clube_visitante_abrev": "ATL",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2020/07/02/atletico-go-2020-65.png",
+      "placar_oficial_mandante": 3,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/02/28/photo_220x220_5FJVKbT.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2020/07/02/atletico-go-2020-65.png",
   "scouts": {
-    "rodada_id": 13,
+    "rodada_id": 14,
     "g": 1,
     "a": 0,
     "sg": 0,
-    "fs": 3,
+    "fs": 4,
     "ff": 9,
-    "fd": 5,
+    "fd": 7,
     "ft": 0,
     "de": 0,
     "dp": 0,
@@ -233,18 +233,18 @@
     "ca": 3,
     "pp": 0,
     "gs": 0,
-    "fc": 7,
+    "fc": 8,
     "i": 1,
-    "ds": 16,
+    "ds": 17,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 0,
-    "preco_num": 5.41,
-    "variacao_num": 0,
-    "media_num": 3.67,
-    "jogos_num": 10,
+    "pontos_num": 3.8,
+    "preco_num": 5.55,
+    "variacao_num": 0.14,
+    "media_num": 3.68,
+    "jogos_num": 11,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }

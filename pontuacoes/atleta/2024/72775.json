@@ -6,7 +6,6 @@
   "clube_id": 293,
   "posicao": "Meia",
   "rodadas": [
-    3,
     4,
     5,
     6,
@@ -16,10 +15,10 @@
     10,
     11,
     12,
-    13
+    13,
+    14
   ],
   "pontos": [
-    -0.8,
     1.6,
     1.3,
     3.8,
@@ -29,10 +28,10 @@
     4,
     0,
     1.1,
-    1.4
+    1.4,
+    10.8
   ],
   "precos": [
-    7.49,
     6.99,
     6.44,
     6.86,
@@ -42,10 +41,10 @@
     7.53,
     6.73,
     6.68,
-    6.65
+    6.65,
+    8.06
   ],
   "variacoes": [
-    -1.51,
     -0.5,
     -0.55,
     0.42,
@@ -55,10 +54,10 @@
     -0.52,
     -0.8,
     -0.05,
-    -0.03
+    -0.03,
+    1.41
   ],
   "medias": [
-    3.23,
     2.82,
     2.52,
     2.73,
@@ -68,22 +67,10 @@
     3.97,
     3.57,
     3.35,
-    3.19
+    3.19,
+    3.78
   ],
   "partidas": [
-    {
-      "rodada_id": 3,
-      "clube_casa": "Athlético-PR",
-      "clube_casa_id": 293,
-      "clube_visitante": "Internacional",
-      "clube_casa_abrev": "ATL",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2019/09/09/Athletico-PR-65x65.png",
-      "clube_visitante_id": 285,
-      "clube_visitante_abrev": "INT",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2016/05/03/inter65.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 4,
       "clube_casa": "Juventude",
@@ -213,16 +200,29 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/09/09/Athletico-PR-65x65.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 14,
+      "clube_casa": "Athlético-PR",
+      "clube_casa_id": 293,
+      "clube_visitante": "São Paulo",
+      "clube_casa_abrev": "ATL",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2019/09/09/Athletico-PR-65x65.png",
+      "clube_visitante_id": 276,
+      "clube_visitante_abrev": "SAO",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/sao_paulo_60x60.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/03/01/photo_220x220_G29hOpk.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2019/09/09/Athletico-PR-65x65.png",
   "scouts": {
-    "rodada_id": 13,
-    "g": 1,
+    "rodada_id": 14,
+    "g": 2,
     "a": 2,
     "sg": 0,
-    "fs": 14,
+    "fs": 16,
     "ff": 2,
     "fd": 7,
     "ft": 0,
@@ -233,18 +233,18 @@
     "ca": 5,
     "pp": 0,
     "gs": 0,
-    "fc": 20,
+    "fc": 22,
     "i": 1,
-    "ds": 12,
+    "ds": 14,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 1.4,
-    "preco_num": 6.65,
-    "variacao_num": -0.03,
-    "media_num": 3.19,
-    "jogos_num": 12,
+    "pontos_num": 10.8,
+    "preco_num": 8.06,
+    "variacao_num": 1.41,
+    "media_num": 3.78,
+    "jogos_num": 13,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }

@@ -6,7 +6,6 @@
   "clube_id": 265,
   "posicao": "Goleiro",
   "rodadas": [
-    3,
     4,
     5,
     6,
@@ -16,10 +15,10 @@
     10,
     11,
     12,
-    13
+    13,
+    14
   ],
   "pontos": [
-    4,
     7,
     4,
     10,
@@ -29,10 +28,10 @@
     0.2,
     -1,
     1,
-    -2
+    -2,
+    6
   ],
   "precos": [
-    7.23,
     7.9,
     7.75,
     8.94,
@@ -42,10 +41,10 @@
     7.54,
     7,
     7.05,
-    6.43
+    6.43,
+    7.45
   ],
   "variacoes": [
-    0.53,
     0.67,
     -0.15,
     1.19,
@@ -55,10 +54,10 @@
     -0.39,
     -0.54,
     0.05,
-    -0.62
+    -0.62,
+    1.02
   ],
   "medias": [
-    4.5,
     5.33,
     5,
     6,
@@ -68,22 +67,10 @@
     4.86,
     4.27,
     3.97,
-    3.47
+    3.47,
+    3.66
   ],
   "partidas": [
-    {
-      "rodada_id": 3,
-      "clube_casa": "Vitória",
-      "clube_casa_id": 287,
-      "clube_visitante": "Bahia",
-      "clube_casa_abrev": "VIT",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2024/04/09/escudo-vitoria-65x65-69284.png",
-      "clube_visitante_id": 265,
-      "clube_visitante_abrev": "BAH",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/bahia_60x60.png",
-      "placar_oficial_mandante": 2,
-      "placar_oficial_visitante": 2
-    },
     {
       "rodada_id": 4,
       "clube_casa": "Bahia",
@@ -213,20 +200,33 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/bahia_60x60.png",
       "placar_oficial_mandante": 3,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 14,
+      "clube_casa": "Bahia",
+      "clube_casa_id": 265,
+      "clube_visitante": "Juventude",
+      "clube_casa_abrev": "BAH",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/bahia_60x60.png",
+      "clube_visitante_id": 286,
+      "clube_visitante_abrev": "JUV",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/04/29/juventude65.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/02/29/photo_220x220_JDJmU6R.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2014/04/14/bahia_60x60.png",
   "scouts": {
-    "rodada_id": 13,
+    "rodada_id": 14,
     "g": 0,
     "a": 0,
-    "sg": 3,
+    "sg": 4,
     "fs": 1,
     "ff": 0,
     "fd": 0,
     "ft": 0,
-    "de": 41,
+    "de": 42,
     "dp": 0,
     "gc": 0,
     "cv": 0,
@@ -240,11 +240,11 @@
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": -2,
-    "preco_num": 6.43,
-    "variacao_num": -0.62,
-    "media_num": 3.47,
-    "jogos_num": 12,
+    "pontos_num": 6,
+    "preco_num": 7.45,
+    "variacao_num": 1.02,
+    "media_num": 3.66,
+    "jogos_num": 13,
     "posicao_abrev": "gol",
     "posicao": "Goleiro"
   }

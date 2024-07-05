@@ -6,7 +6,6 @@
   "clube_id": 267,
   "posicao": "Atacante",
   "rodadas": [
-    3,
     4,
     5,
     6,
@@ -16,10 +15,10 @@
     10,
     11,
     12,
-    13
+    13,
+    14
   ],
   "pontos": [
-    11.3,
     0.2,
     0.3,
     10.6,
@@ -29,10 +28,10 @@
     0,
     3.9,
     2.7,
-    9.7
+    9.7,
+    17.6
   ],
   "precos": [
-    15.09,
     13.03,
     11.84,
     13.45,
@@ -42,10 +41,10 @@
     12.31,
     12.21,
     11.79,
-    12.88
+    12.88,
+    14.24
   ],
   "variacoes": [
-    0.76,
     -2.06,
     -1.19,
     1.61,
@@ -55,10 +54,10 @@
     0,
     -0.1,
     -0.42,
-    1.09
+    1.09,
+    1.36
   ],
   "medias": [
-    9.17,
     6.93,
     5.6,
     6.43,
@@ -68,22 +67,10 @@
     6.28,
     6.04,
     5.74,
-    6.07
+    6.07,
+    6.96
   ],
   "partidas": [
-    {
-      "rodada_id": 3,
-      "clube_casa": "Fluminense",
-      "clube_casa_id": 266,
-      "clube_visitante": "Vasco",
-      "clube_casa_abrev": "FLU",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/fluminense_60x60.png",
-      "clube_visitante_id": 267,
-      "clube_visitante_abrev": "VAS",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/09/04/ESCUDO-VASCO-RGB_65px.png",
-      "placar_oficial_mandante": 2,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 4,
       "clube_casa": "Vasco",
@@ -213,18 +200,31 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-65.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 14,
+      "clube_casa": "Vasco",
+      "clube_casa_id": 267,
+      "clube_visitante": "Fortaleza",
+      "clube_casa_abrev": "VAS",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2021/09/04/ESCUDO-VASCO-RGB_65px.png",
+      "clube_visitante_id": 356,
+      "clube_visitante_abrev": "FOR",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/09/19/65_0000_Fortaleza-2021.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/03/04/photo_220x220_fK3iFMZ.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2021/09/04/ESCUDO-VASCO-RGB_65px.png",
   "scouts": {
-    "rodada_id": 13,
-    "g": 5,
+    "rodada_id": 14,
+    "g": 6,
     "a": 0,
     "sg": 0,
-    "fs": 31,
-    "ff": 18,
-    "fd": 9,
+    "fs": 35,
+    "ff": 22,
+    "fd": 11,
     "ft": 1,
     "de": 0,
     "dp": 0,
@@ -233,18 +233,18 @@
     "ca": 3,
     "pp": 1,
     "gs": 0,
-    "fc": 17,
-    "i": 10,
-    "ds": 1,
+    "fc": 18,
+    "i": 11,
+    "ds": 3,
     "pi": 0,
     "pc": 0,
     "ps": 1,
     "v": 0,
-    "pontos_num": 9.7,
-    "preco_num": 12.88,
-    "variacao_num": 1.09,
-    "media_num": 6.07,
-    "jogos_num": 12,
+    "pontos_num": 17.6,
+    "preco_num": 14.24,
+    "variacao_num": 1.36,
+    "media_num": 6.96,
+    "jogos_num": 13,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }
