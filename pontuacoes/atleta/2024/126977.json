@@ -6,7 +6,6 @@
   "clube_id": 283,
   "posicao": "Técnico",
   "rodadas": [
-    4,
     5,
     6,
     7,
@@ -16,10 +15,10 @@
     11,
     12,
     13,
-    14
+    14,
+    15
   ],
   "pontos": [
-    6.79,
     0,
     7.46,
     2.01,
@@ -29,10 +28,10 @@
     2.25,
     9.01,
     2.55,
-    3.19
+    3.19,
+    8.76
   ],
   "precos": [
-    7.89,
     7.89,
     8.47,
     7.59,
@@ -42,10 +41,10 @@
     7.88,
     8.91,
     8.09,
-    8.04
+    8.04,
+    8.9
   ],
   "variacoes": [
-    0.59,
     0,
     0.58,
     -0.88,
@@ -55,10 +54,10 @@
     -0.85,
     1.03,
     -0.82,
-    -0.05
+    -0.05,
+    0.86
   ],
   "medias": [
-    4.49,
     4.49,
     5.08,
     4.57,
@@ -68,22 +67,10 @@
     4.86,
     5.24,
     5.02,
-    4.88
+    4.88,
+    5.16
   ],
   "partidas": [
-    {
-      "rodada_id": 4,
-      "clube_casa": "Cruzeiro",
-      "clube_casa_id": 283,
-      "clube_visitante": "Vitória",
-      "clube_casa_abrev": "CRU",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2021/02/13/65_cruzeiro-2021.png",
-      "clube_visitante_id": 287,
-      "clube_visitante_abrev": "VIT",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2024/04/09/escudo-vitoria-65x65-69284.png",
-      "placar_oficial_mandante": 3,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 5,
       "clube_casa": "Cruzeiro",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/02/13/65_cruzeiro-2021.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 15,
+      "clube_casa": "Cruzeiro",
+      "clube_casa_id": 283,
+      "clube_visitante": "Corinthians",
+      "clube_casa_abrev": "CRU",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2021/02/13/65_cruzeiro-2021.png",
+      "clube_visitante_id": 264,
+      "clube_visitante_abrev": "COR",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/09/30/Corinthians_65.png",
+      "placar_oficial_mandante": 3,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/04/09/photo_220x220_GrLAgQt.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2021/02/13/65_cruzeiro-2021.png",
   "scouts": {
-    "rodada_id": 14,
+    "rodada_id": 15,
     "g": 0,
     "a": 0,
     "sg": 0,
@@ -239,12 +239,12 @@
     "pi": 0,
     "pc": 0,
     "ps": 0,
-    "v": 6,
-    "pontos_num": 3.19,
-    "preco_num": 8.04,
-    "variacao_num": -0.05,
-    "media_num": 4.88,
-    "jogos_num": 13,
+    "v": 7,
+    "pontos_num": 8.76,
+    "preco_num": 8.9,
+    "variacao_num": 0.86,
+    "media_num": 5.16,
+    "jogos_num": 14,
     "posicao_abrev": "tec",
     "posicao": "Técnico"
   }

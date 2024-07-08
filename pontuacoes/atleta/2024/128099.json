@@ -12,7 +12,8 @@
     11,
     12,
     13,
-    14
+    14,
+    15
   ],
   "pontos": [
     0,
@@ -21,7 +22,8 @@
     0,
     0,
     -0.3,
-    1.2
+    1.2,
+    0
   ],
   "precos": [
     2,
@@ -30,6 +32,7 @@
     2,
     2,
     1.69,
+    1.83,
     1.83
   ],
   "variacoes": [
@@ -39,7 +42,8 @@
     0,
     0,
     -0.31,
-    0.14
+    0.14,
+    0
   ],
   "medias": [
     0,
@@ -48,6 +52,7 @@
     0,
     0,
     -0.3,
+    0.45,
     0.45
   ],
   "partidas": [
@@ -141,12 +146,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2020/07/02/atletico-go-2020-65.png",
       "placar_oficial_mandante": 3,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 15,
+      "clube_casa": "Atlético-GO",
+      "clube_casa_id": 373,
+      "clube_visitante": "Athlético-PR",
+      "clube_casa_abrev": "ATL",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2020/07/02/atletico-go-2020-65.png",
+      "clube_visitante_id": 293,
+      "clube_visitante_abrev": "ATL",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/09/09/Athletico-PR-65x65.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://via.placeholder.com/220",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2020/07/02/atletico-go-2020-65.png",
   "scouts": {
-    "rodada_id": 14,
+    "rodada_id": 15,
     "g": 0,
     "a": 0,
     "sg": 0,
@@ -168,9 +186,9 @@
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 1.2,
+    "pontos_num": 0,
     "preco_num": 1.83,
-    "variacao_num": 0.14,
+    "variacao_num": 0,
     "media_num": 0.45,
     "jogos_num": 2,
     "posicao_abrev": "mei",

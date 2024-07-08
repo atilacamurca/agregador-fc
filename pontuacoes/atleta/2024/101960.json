@@ -6,7 +6,6 @@
   "clube_id": 280,
   "posicao": "Atacante",
   "rodadas": [
-    4,
     5,
     6,
     7,
@@ -16,10 +15,10 @@
     11,
     12,
     13,
-    14
+    14,
+    15
   ],
   "pontos": [
-    1.7,
     2.7,
     2.8,
     3.7,
@@ -29,10 +28,10 @@
     1.7,
     5.6,
     3.7,
-    -0.4
+    -0.4,
+    2
   ],
   "precos": [
-    11.37,
     10.96,
     10.49,
     10.39,
@@ -42,10 +41,10 @@
     9.32,
     9.77,
     9.53,
-    8.7
+    8.7,
+    8.85
   ],
   "variacoes": [
-    -1.31,
     -0.41,
     -0.47,
     -0.1,
@@ -55,10 +54,10 @@
     0.08,
     0.45,
     -0.24,
-    -0.83
+    -0.83,
+    0.15
   ],
   "medias": [
-    8.77,
     7.56,
     6.77,
     6.33,
@@ -68,22 +67,10 @@
     4.9,
     4.96,
     4.86,
-    4.46
+    4.46,
+    4.28
   ],
   "partidas": [
-    {
-      "rodada_id": 4,
-      "clube_casa": "Fortaleza",
-      "clube_casa_id": 356,
-      "clube_visitante": "Bragantino",
-      "clube_casa_abrev": "FOR",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2021/09/19/65_0000_Fortaleza-2021.png",
-      "clube_visitante_id": 280,
-      "clube_visitante_abrev": "BRA",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2020/01/01/65.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 5,
       "clube_casa": "Bragantino",
@@ -213,18 +200,31 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2020/07/02/atletico-go-2020-65.png",
       "placar_oficial_mandante": 3,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 15,
+      "clube_casa": "São Paulo",
+      "clube_casa_id": 276,
+      "clube_visitante": "Bragantino",
+      "clube_casa_abrev": "SAO",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/sao_paulo_60x60.png",
+      "clube_visitante_id": 280,
+      "clube_visitante_abrev": "BRA",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2020/01/01/65.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/01/03/photo_220x220_fcyTaPY.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2020/01/01/65.png",
   "scouts": {
-    "rodada_id": 14,
+    "rodada_id": 15,
     "g": 2,
     "a": 2,
     "sg": 0,
     "fs": 10,
-    "ff": 5,
-    "fd": 6,
+    "ff": 6,
+    "fd": 7,
     "ft": 2,
     "de": 0,
     "dp": 0,
@@ -240,11 +240,11 @@
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": -0.4,
-    "preco_num": 8.7,
-    "variacao_num": -0.83,
-    "media_num": 4.46,
-    "jogos_num": 13,
+    "pontos_num": 2,
+    "preco_num": 8.85,
+    "variacao_num": 0.15,
+    "media_num": 4.28,
+    "jogos_num": 14,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }

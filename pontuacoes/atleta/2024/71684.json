@@ -6,7 +6,6 @@
   "clube_id": 275,
   "posicao": "Zagueiro",
   "rodadas": [
-    4,
     5,
     6,
     7,
@@ -16,10 +15,10 @@
     11,
     12,
     13,
-    14
+    14,
+    15
   ],
   "pontos": [
-    4.7,
     6.2,
     1.5,
     12.6,
@@ -29,10 +28,10 @@
     0,
     0,
     0,
-    0
+    0,
+    6.3
   ],
   "precos": [
-    9.8,
     9.89,
     8.79,
     10.8,
@@ -42,10 +41,10 @@
     10.8,
     10.8,
     10.8,
-    10.8
+    10.8,
+    10.11
   ],
   "variacoes": [
-    -0.21,
     0.09,
     -1.1,
     2.01,
@@ -55,10 +54,10 @@
     0,
     0,
     0,
-    0
+    0,
+    -0.69
   ],
   "medias": [
-    3.27,
     4,
     3.5,
     5.02,
@@ -68,22 +67,10 @@
     5.02,
     5.02,
     5.02,
-    5.02
+    5.02,
+    5.2
   ],
   "partidas": [
-    {
-      "rodada_id": 4,
-      "clube_casa": "São Paulo",
-      "clube_casa_id": 276,
-      "clube_visitante": "Palmeiras",
-      "clube_casa_abrev": "SAO",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/sao_paulo_60x60.png",
-      "clube_visitante_id": 275,
-      "clube_visitante_abrev": "PAL",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/palmeiras_60x60.png",
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 5,
       "clube_casa": "Cuiabá",
@@ -213,16 +200,29 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/palmeiras_60x60.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 15,
+      "clube_casa": "Palmeiras",
+      "clube_casa_id": 275,
+      "clube_visitante": "Bahia",
+      "clube_casa_abrev": "PAL",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/palmeiras_60x60.png",
+      "clube_visitante_id": 265,
+      "clube_visitante_abrev": "BAH",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/bahia_60x60.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/02/27/photo_220x220_A7Qv7sM.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2014/04/14/palmeiras_60x60.png",
   "scouts": {
-    "rodada_id": 14,
+    "rodada_id": 15,
     "g": 1,
     "a": 1,
-    "sg": 3,
-    "fs": 2,
+    "sg": 4,
+    "fs": 3,
     "ff": 4,
     "fd": 1,
     "ft": 0,
@@ -233,18 +233,18 @@
     "ca": 3,
     "pp": 0,
     "gs": 0,
-    "fc": 11,
-    "i": 2,
-    "ds": 6,
+    "fc": 12,
+    "i": 3,
+    "ds": 7,
     "pi": 0,
     "pc": 1,
     "ps": 0,
     "v": 0,
-    "pontos_num": 0,
-    "preco_num": 10.8,
-    "variacao_num": 0,
-    "media_num": 5.02,
-    "jogos_num": 6,
+    "pontos_num": 6.3,
+    "preco_num": 10.11,
+    "variacao_num": -0.69,
+    "media_num": 5.2,
+    "jogos_num": 7,
     "posicao_abrev": "zag",
     "posicao": "Zagueiro"
   }

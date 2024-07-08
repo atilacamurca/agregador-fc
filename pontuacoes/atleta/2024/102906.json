@@ -6,7 +6,6 @@
   "clube_id": 283,
   "posicao": "Goleiro",
   "rodadas": [
-    4,
     5,
     6,
     7,
@@ -16,10 +15,10 @@
     11,
     12,
     13,
-    14
+    14,
+    15
   ],
   "pontos": [
-    2,
     0,
     10,
     0,
@@ -29,10 +28,10 @@
     -1.5,
     8,
     -1,
-    4
+    4,
+    7
   ],
   "precos": [
-    1.19,
     1.19,
     3.28,
     2.01,
@@ -42,10 +41,10 @@
     2.79,
     4.26,
     3.05,
-    3.73
+    3.73,
+    4.31
   ],
   "variacoes": [
-    0.39,
     0,
     2.09,
     -1.27,
@@ -55,10 +54,10 @@
     -1.5,
     1.47,
     -1.21,
-    0.68
+    0.68,
+    0.58
   ],
   "medias": [
-    0.25,
     0.25,
     2.2,
     1.83,
@@ -68,22 +67,10 @@
     3,
     3.45,
     3.08,
-    3.15
+    3.15,
+    3.43
   ],
   "partidas": [
-    {
-      "rodada_id": 4,
-      "clube_casa": "Cruzeiro",
-      "clube_casa_id": 283,
-      "clube_visitante": "Vitória",
-      "clube_casa_abrev": "CRU",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2021/02/13/65_cruzeiro-2021.png",
-      "clube_visitante_id": 287,
-      "clube_visitante_abrev": "VIT",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2024/04/09/escudo-vitoria-65x65-69284.png",
-      "placar_oficial_mandante": 3,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 5,
       "clube_casa": "Cruzeiro",
@@ -213,20 +200,33 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/02/13/65_cruzeiro-2021.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 15,
+      "clube_casa": "Cruzeiro",
+      "clube_casa_id": 283,
+      "clube_visitante": "Corinthians",
+      "clube_casa_abrev": "CRU",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2021/02/13/65_cruzeiro-2021.png",
+      "clube_visitante_id": 264,
+      "clube_visitante_abrev": "COR",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/09/30/Corinthians_65.png",
+      "placar_oficial_mandante": 3,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/03/01/photo_220x220_pMtI9RP.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2021/02/13/65_cruzeiro-2021.png",
   "scouts": {
-    "rodada_id": 14,
+    "rodada_id": 15,
     "g": 0,
     "a": 0,
-    "sg": 4,
+    "sg": 5,
     "fs": 2,
     "ff": 0,
     "fd": 0,
     "ft": 0,
-    "de": 38,
+    "de": 40,
     "dp": 0,
     "gc": 0,
     "cv": 0,
@@ -240,11 +240,11 @@
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 4,
-    "preco_num": 3.73,
-    "variacao_num": 0.68,
-    "media_num": 3.15,
-    "jogos_num": 13,
+    "pontos_num": 7,
+    "preco_num": 4.31,
+    "variacao_num": 0.58,
+    "media_num": 3.43,
+    "jogos_num": 14,
     "posicao_abrev": "gol",
     "posicao": "Goleiro"
   }
