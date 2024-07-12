@@ -6,7 +6,6 @@
   "clube_id": 288,
   "posicao": "Atacante",
   "rodadas": [
-    5,
     6,
     7,
     8,
@@ -16,10 +15,10 @@
     12,
     13,
     14,
-    15
+    15,
+    16
   ],
   "pontos": [
-    0,
     0,
     7,
     0,
@@ -29,10 +28,10 @@
     0,
     0.8,
     10.1,
-    7.2
+    7.2,
+    1.7
   ],
   "precos": [
-    8.52,
     8.52,
     8.11,
     7.67,
@@ -42,10 +41,10 @@
     6.52,
     6.42,
     7.86,
-    7.69
+    7.69,
+    6.94
   ],
   "variacoes": [
-    0,
     0,
     -0.41,
     -0.44,
@@ -55,10 +54,10 @@
     0,
     -0.1,
     1.44,
-    -0.17
+    -0.17,
+    -0.75
   ],
   "medias": [
-    7.4,
     7.4,
     7.3,
     6.48,
@@ -68,22 +67,10 @@
     4.46,
     4.05,
     4.66,
-    4.89
+    4.89,
+    4.62
   ],
   "partidas": [
-    {
-      "rodada_id": 5,
-      "clube_casa": "Grêmio",
-      "clube_casa_id": 284,
-      "clube_visitante": "Criciúma",
-      "clube_casa_abrev": "GRE",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/gremio_60x60.png",
-      "clube_visitante_id": 288,
-      "clube_visitante_abrev": "CRI",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2024/03/28/criciuma-65.png",
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 6,
       "clube_casa": "Criciúma",
@@ -213,17 +200,30 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2024/03/28/criciuma-65.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 16,
+      "clube_casa": "Criciúma",
+      "clube_casa_id": 288,
+      "clube_visitante": "Fluminense",
+      "clube_casa_abrev": "CRI",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2024/03/28/criciuma-65.png",
+      "clube_visitante_id": 266,
+      "clube_visitante_abrev": "FLU",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/fluminense_60x60.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/03/20/photo_220x220_r97hBeS.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2024/03/28/criciuma-65.png",
   "scouts": {
-    "rodada_id": 15,
+    "rodada_id": 16,
     "g": 2,
     "a": 3,
     "sg": 0,
     "fs": 8,
-    "ff": 9,
+    "ff": 11,
     "fd": 8,
     "ft": 1,
     "de": 0,
@@ -233,18 +233,18 @@
     "ca": 2,
     "pp": 0,
     "gs": 0,
-    "fc": 16,
-    "i": 2,
-    "ds": 5,
+    "fc": 19,
+    "i": 4,
+    "ds": 6,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 7.2,
-    "preco_num": 7.69,
-    "variacao_num": -0.17,
-    "media_num": 4.89,
-    "jogos_num": 11,
+    "pontos_num": 1.7,
+    "preco_num": 6.94,
+    "variacao_num": -0.75,
+    "media_num": 4.62,
+    "jogos_num": 12,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }

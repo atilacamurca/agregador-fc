@@ -6,7 +6,6 @@
   "clube_id": 288,
   "posicao": "Meia",
   "rodadas": [
-    5,
     6,
     7,
     8,
@@ -16,10 +15,10 @@
     12,
     13,
     14,
-    15
+    15,
+    16
   ],
   "pontos": [
-    0,
     0,
     0,
     0,
@@ -29,10 +28,10 @@
     1,
     4.2,
     0.2,
-    1.2
+    1.2,
+    5.4
   ],
   "precos": [
-    9.93,
     9.93,
     9.93,
     9.93,
@@ -42,10 +41,10 @@
     7.51,
     7.92,
     7.04,
-    6.93
+    6.93,
+    7.56
   ],
   "variacoes": [
-    0,
     0,
     0,
     0,
@@ -55,10 +54,10 @@
     -0.34,
     0.41,
     -0.88,
-    -0.11
+    -0.11,
+    0.63
   ],
   "medias": [
-    9.27,
     9.27,
     9.27,
     9.27,
@@ -68,22 +67,10 @@
     5.76,
     5.5,
     4.74,
-    4.3
+    4.3,
+    4.42
   ],
   "partidas": [
-    {
-      "rodada_id": 5,
-      "clube_casa": "Grêmio",
-      "clube_casa_id": 284,
-      "clube_visitante": "Criciúma",
-      "clube_casa_abrev": "GRE",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/gremio_60x60.png",
-      "clube_visitante_id": 288,
-      "clube_visitante_abrev": "CRI",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2024/03/28/criciuma-65.png",
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 6,
       "clube_casa": "Criciúma",
@@ -213,18 +200,31 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2024/03/28/criciuma-65.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 16,
+      "clube_casa": "Criciúma",
+      "clube_casa_id": 288,
+      "clube_visitante": "Fluminense",
+      "clube_casa_abrev": "CRI",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2024/03/28/criciuma-65.png",
+      "clube_visitante_id": 266,
+      "clube_visitante_abrev": "FLU",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/fluminense_60x60.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/01/16/photo_220x220_3jr11fx.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2024/03/28/criciuma-65.png",
   "scouts": {
-    "rodada_id": 15,
+    "rodada_id": 16,
     "g": 2,
     "a": 0,
     "sg": 0,
-    "fs": 23,
-    "ff": 1,
-    "fd": 4,
+    "fs": 24,
+    "ff": 3,
+    "fd": 5,
     "ft": 0,
     "de": 0,
     "dp": 0,
@@ -233,18 +233,18 @@
     "ca": 1,
     "pp": 0,
     "gs": 0,
-    "fc": 5,
+    "fc": 6,
     "i": 0,
-    "ds": 4,
+    "ds": 6,
     "pi": 0,
     "pc": 1,
     "ps": 0,
     "v": 0,
-    "pontos_num": 1.2,
-    "preco_num": 6.93,
-    "variacao_num": -0.11,
-    "media_num": 4.3,
-    "jogos_num": 8,
+    "pontos_num": 5.4,
+    "preco_num": 7.56,
+    "variacao_num": 0.63,
+    "media_num": 4.42,
+    "jogos_num": 9,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }
