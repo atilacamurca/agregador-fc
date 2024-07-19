@@ -15,7 +15,8 @@
     13,
     14,
     15,
-    16
+    16,
+    17
   ],
   "pontos": [
     2.6,
@@ -27,7 +28,8 @@
     0.7,
     0,
     9.9,
-    7.7
+    7.7,
+    0
   ],
   "precos": [
     9.33,
@@ -39,6 +41,7 @@
     11.12,
     11.12,
     12.31,
+    12.16,
     12.16
   ],
   "variacoes": [
@@ -51,7 +54,8 @@
     -1.65,
     0,
     1.19,
-    -0.15
+    -0.15,
+    0
   ],
   "medias": [
     5.6,
@@ -63,6 +67,7 @@
     8.18,
     8.18,
     8.31,
+    8.27,
     8.27
   ],
   "partidas": [
@@ -195,12 +200,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/02/13/65_cruzeiro-2021.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 17,
+      "clube_casa": "Cruzeiro",
+      "clube_casa_id": 283,
+      "clube_visitante": "Bragantino",
+      "clube_casa_abrev": "CRU",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2021/02/13/65_cruzeiro-2021.png",
+      "clube_visitante_id": 280,
+      "clube_visitante_abrev": "BRA",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2020/01/01/65.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/03/02/photo_220x220_Wno5RKV.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2021/02/13/65_cruzeiro-2021.png",
   "scouts": {
-    "rodada_id": 16,
+    "rodada_id": 17,
     "g": 2,
     "a": 3,
     "sg": 6,
@@ -222,9 +240,9 @@
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 7.7,
+    "pontos_num": 0,
     "preco_num": 12.16,
-    "variacao_num": -0.15,
+    "variacao_num": 0,
     "media_num": 8.27,
     "jogos_num": 14,
     "posicao_abrev": "lat",

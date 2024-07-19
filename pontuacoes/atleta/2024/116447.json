@@ -15,7 +15,8 @@
     13,
     14,
     15,
-    16
+    16,
+    17
   ],
   "pontos": [
     3,
@@ -27,7 +28,8 @@
     4.5,
     -2.1,
     0,
-    1
+    1,
+    -0.8
   ],
   "precos": [
     5.56,
@@ -39,7 +41,8 @@
     5.26,
     4.2,
     4.2,
-    4.53
+    4.53,
+    4.13
   ],
   "variacoes": [
     0.34,
@@ -51,7 +54,8 @@
     0.82,
     -1.06,
     0,
-    0.33
+    0.33,
+    -0.4
   ],
   "medias": [
     3.73,
@@ -63,7 +67,8 @@
     2.71,
     2.34,
     2.34,
-    2.24
+    2.24,
+    2.04
   ],
   "partidas": [
     {
@@ -195,16 +200,29 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/09/19/65_0000_Fortaleza-2021.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 17,
+      "clube_casa": "Fortaleza",
+      "clube_casa_id": 356,
+      "clube_visitante": "Vitória",
+      "clube_casa_abrev": "FOR",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2021/09/19/65_0000_Fortaleza-2021.png",
+      "clube_visitante_id": 287,
+      "clube_visitante_abrev": "VIT",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2024/04/09/escudo-vitoria-65x65-69284.png",
+      "placar_oficial_mandante": 3,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/02/28/photo_220x220_THe8tWf.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2021/09/19/65_0000_Fortaleza-2021.png",
   "scouts": {
-    "rodada_id": 16,
+    "rodada_id": 17,
     "g": 1,
     "a": 0,
     "sg": 0,
-    "fs": 4,
+    "fs": 5,
     "ff": 3,
     "fd": 2,
     "ft": 0,
@@ -212,21 +230,21 @@
     "dp": 0,
     "gc": 0,
     "cv": 1,
-    "ca": 1,
+    "ca": 2,
     "pp": 0,
     "gs": 0,
-    "fc": 19,
+    "fc": 20,
     "i": 0,
     "ds": 22,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 1,
-    "preco_num": 4.53,
-    "variacao_num": 0.33,
-    "media_num": 2.24,
-    "jogos_num": 14,
+    "pontos_num": -0.8,
+    "preco_num": 4.13,
+    "variacao_num": -0.4,
+    "media_num": 2.04,
+    "jogos_num": 15,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }

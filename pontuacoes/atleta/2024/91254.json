@@ -15,7 +15,8 @@
     13,
     14,
     15,
-    16
+    16,
+    17
   ],
   "pontos": [
     1.5,
@@ -27,7 +28,8 @@
     -0.3,
     1.7,
     0,
-    0
+    0,
+    2
   ],
   "precos": [
     4.17,
@@ -39,7 +41,8 @@
     2.13,
     2.38,
     2.38,
-    2.38
+    2.38,
+    2.46
   ],
   "variacoes": [
     0.17,
@@ -51,7 +54,8 @@
     -0.35,
     0.25,
     0,
-    0
+    0,
+    0.08
   ],
   "medias": [
     1.5,
@@ -63,7 +67,8 @@
     0.15,
     0.37,
     0.37,
-    0.37
+    0.37,
+    0.57
   ],
   "partidas": [
     {
@@ -195,17 +200,30 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/02/13/65_cruzeiro-2021.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 17,
+      "clube_casa": "São Paulo",
+      "clube_casa_id": 276,
+      "clube_visitante": "Grêmio",
+      "clube_casa_abrev": "SAO",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/sao_paulo_60x60.png",
+      "clube_visitante_id": 284,
+      "clube_visitante_abrev": "GRE",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/gremio_60x60.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/03/11/photo_220x220_w5Qzw1m.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2014/04/14/gremio_60x60.png",
   "scouts": {
-    "rodada_id": 16,
+    "rodada_id": 17,
     "g": 0,
     "a": 0,
     "sg": 0,
     "fs": 2,
-    "ff": 0,
+    "ff": 1,
     "fd": 0,
     "ft": 0,
     "de": 0,
@@ -217,16 +235,16 @@
     "gs": 0,
     "fc": 8,
     "i": 0,
-    "ds": 5,
+    "ds": 6,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 0,
-    "preco_num": 2.38,
-    "variacao_num": 0,
-    "media_num": 0.37,
-    "jogos_num": 7,
+    "pontos_num": 2,
+    "preco_num": 2.46,
+    "variacao_num": 0.08,
+    "media_num": 0.57,
+    "jogos_num": 8,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }

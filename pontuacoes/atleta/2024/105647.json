@@ -15,7 +15,8 @@
     13,
     14,
     15,
-    16
+    16,
+    17
   ],
   "pontos": [
     1.2,
@@ -27,7 +28,8 @@
     0,
     0,
     0,
-    0
+    0,
+    1
   ],
   "precos": [
     6.27,
@@ -39,7 +41,8 @@
     6.27,
     6.27,
     6.27,
-    6.27
+    6.27,
+    5.95
   ],
   "variacoes": [
     -0.67,
@@ -51,7 +54,8 @@
     0,
     0,
     0,
-    0
+    0,
+    -0.32
   ],
   "medias": [
     2.56,
@@ -63,7 +67,8 @@
     2.56,
     2.56,
     2.56,
-    2.56
+    2.56,
+    2.3
   ],
   "partidas": [
     {
@@ -195,16 +200,29 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2020/07/02/atletico-go-2020-65.png",
       "placar_oficial_mandante": 3,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 17,
+      "clube_casa": "Botafogo",
+      "clube_casa_id": 263,
+      "clube_visitante": "Palmeiras",
+      "clube_casa_abrev": "BOT",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-65.png",
+      "clube_visitante_id": 275,
+      "clube_visitante_abrev": "PAL",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/palmeiras_60x60.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/06/28/photo_220x220_8WcVxWa.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2014/04/14/palmeiras_60x60.png",
   "scouts": {
-    "rodada_id": 16,
+    "rodada_id": 17,
     "g": 0,
     "a": 0,
     "sg": 0,
-    "fs": 6,
+    "fs": 8,
     "ff": 3,
     "fd": 2,
     "ft": 0,
@@ -222,11 +240,11 @@
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 0,
-    "preco_num": 6.27,
-    "variacao_num": 0,
-    "media_num": 2.56,
-    "jogos_num": 5,
+    "pontos_num": 1,
+    "preco_num": 5.95,
+    "variacao_num": -0.32,
+    "media_num": 2.3,
+    "jogos_num": 6,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }

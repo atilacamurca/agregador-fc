@@ -15,7 +15,8 @@
     13,
     14,
     15,
-    16
+    16,
+    17
   ],
   "pontos": [
     1.2,
@@ -27,7 +28,8 @@
     0,
     0,
     0,
-    0
+    0,
+    0.5
   ],
   "precos": [
     4.46,
@@ -39,7 +41,8 @@
     4.46,
     4.46,
     4.05,
-    4.05
+    4.05,
+    3.93
   ],
   "variacoes": [
     -1.39,
@@ -51,7 +54,8 @@
     0,
     0,
     -0.41,
-    0
+    0,
+    -0.12
   ],
   "medias": [
     2.88,
@@ -63,7 +67,8 @@
     2.88,
     2.88,
     2.4,
-    2.4
+    2.4,
+    2.13
   ],
   "partidas": [
     {
@@ -195,17 +200,30 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/sao_paulo_60x60.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 17,
+      "clube_casa": "São Paulo",
+      "clube_casa_id": 276,
+      "clube_visitante": "Grêmio",
+      "clube_casa_abrev": "SAO",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/sao_paulo_60x60.png",
+      "clube_visitante_id": 284,
+      "clube_visitante_abrev": "GRE",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/gremio_60x60.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/03/01/photo_220x220_BoNwEka.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2014/04/14/sao_paulo_60x60.png",
   "scouts": {
-    "rodada_id": 16,
+    "rodada_id": 17,
     "g": 1,
     "a": 0,
     "sg": 0,
     "fs": 0,
-    "ff": 1,
+    "ff": 2,
     "fd": 0,
     "ft": 0,
     "de": 0,
@@ -215,18 +233,18 @@
     "ca": 1,
     "pp": 0,
     "gs": 0,
-    "fc": 6,
+    "fc": 7,
     "i": 0,
     "ds": 7,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 0,
-    "preco_num": 4.05,
-    "variacao_num": 0,
-    "media_num": 2.4,
-    "jogos_num": 6,
+    "pontos_num": 0.5,
+    "preco_num": 3.93,
+    "variacao_num": -0.12,
+    "media_num": 2.13,
+    "jogos_num": 7,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }

@@ -15,7 +15,8 @@
     13,
     14,
     15,
-    16
+    16,
+    17
   ],
   "pontos": [
     0,
@@ -27,7 +28,8 @@
     0,
     0,
     0,
-    0
+    0,
+    2
   ],
   "precos": [
     5.48,
@@ -39,7 +41,8 @@
     4.36,
     4.36,
     4.36,
-    4.36
+    4.36,
+    4.46
   ],
   "variacoes": [
     0,
@@ -51,7 +54,8 @@
     0,
     0,
     0,
-    0
+    0,
+    0.1
   ],
   "medias": [
     2,
@@ -63,7 +67,8 @@
     1.4,
     1.4,
     1.4,
-    1.4
+    1.4,
+    1.47
   ],
   "partidas": [
     {
@@ -195,17 +200,30 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/sao_paulo_60x60.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 17,
+      "clube_casa": "São Paulo",
+      "clube_casa_id": 276,
+      "clube_visitante": "Grêmio",
+      "clube_casa_abrev": "SAO",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/sao_paulo_60x60.png",
+      "clube_visitante_id": 284,
+      "clube_visitante_abrev": "GRE",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/gremio_60x60.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/03/01/photo_220x220_EntLJJn.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2014/04/14/sao_paulo_60x60.png",
   "scouts": {
-    "rodada_id": 16,
+    "rodada_id": 17,
     "g": 0,
     "a": 0,
     "sg": 0,
     "fs": 5,
-    "ff": 4,
+    "ff": 5,
     "fd": 4,
     "ft": 0,
     "de": 0,
@@ -217,16 +235,16 @@
     "gs": 0,
     "fc": 7,
     "i": 0,
-    "ds": 4,
+    "ds": 5,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 0,
-    "preco_num": 4.36,
-    "variacao_num": 0,
-    "media_num": 1.4,
-    "jogos_num": 8,
+    "pontos_num": 2,
+    "preco_num": 4.46,
+    "variacao_num": 0.1,
+    "media_num": 1.47,
+    "jogos_num": 9,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }

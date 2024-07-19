@@ -15,7 +15,8 @@
     13,
     14,
     15,
-    16
+    16,
+    17
   ],
   "pontos": [
     0,
@@ -27,7 +28,8 @@
     0,
     0,
     0,
-    0.9
+    0.9,
+    0
   ],
   "precos": [
     4,
@@ -39,6 +41,7 @@
     4.42,
     4.42,
     4.42,
+    4.17,
     4.17
   ],
   "variacoes": [
@@ -51,7 +54,8 @@
     0,
     0,
     0,
-    -0.25
+    -0.25,
+    0
   ],
   "medias": [
     0,
@@ -63,6 +67,7 @@
     1.8,
     1.8,
     1.8,
+    1.57,
     1.57
   ],
   "partidas": [
@@ -195,12 +200,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/bahia_60x60.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 3
+    },
+    {
+      "rodada_id": 17,
+      "clube_casa": "Bahia",
+      "clube_casa_id": 265,
+      "clube_visitante": "Cuiabá",
+      "clube_casa_abrev": "BAH",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/bahia_60x60.png",
+      "clube_visitante_id": 1371,
+      "clube_visitante_abrev": "CUI",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/16/cuiaba65.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/02/29/photo_220x220_99whIvZ.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2014/04/14/bahia_60x60.png",
   "scouts": {
-    "rodada_id": 16,
+    "rodada_id": 17,
     "g": 0,
     "a": 0,
     "sg": 1,
@@ -222,9 +240,9 @@
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 0.9,
+    "pontos_num": 0,
     "preco_num": 4.17,
-    "variacao_num": -0.25,
+    "variacao_num": 0,
     "media_num": 1.57,
     "jogos_num": 4,
     "posicao_abrev": "lat",

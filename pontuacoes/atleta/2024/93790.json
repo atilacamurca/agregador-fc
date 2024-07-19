@@ -15,7 +15,8 @@
     13,
     14,
     15,
-    16
+    16,
+    17
   ],
   "pontos": [
     1.9,
@@ -27,7 +28,8 @@
     2.9,
     1.2,
     2.4,
-    -0.3
+    -0.3,
+    2.9
   ],
   "precos": [
     4.07,
@@ -39,7 +41,8 @@
     4.54,
     4.24,
     4.38,
-    3.96
+    3.96,
+    4.33
   ],
   "variacoes": [
     0.04,
@@ -51,7 +54,8 @@
     0.2,
     -0.3,
     0.14,
-    -0.42
+    -0.42,
+    0.37
   ],
   "medias": [
     2.27,
@@ -63,7 +67,8 @@
     2.7,
     2.58,
     2.57,
-    2.36
+    2.36,
+    2.4
   ],
   "partidas": [
     {
@@ -195,18 +200,31 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-65.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 17,
+      "clube_casa": "Botafogo",
+      "clube_casa_id": 263,
+      "clube_visitante": "Palmeiras",
+      "clube_casa_abrev": "BOT",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-65.png",
+      "clube_visitante_id": 275,
+      "clube_visitante_abrev": "PAL",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/palmeiras_60x60.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/04/20/photo_220x220_IWdTjkg.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-65.png",
   "scouts": {
-    "rodada_id": 16,
+    "rodada_id": 17,
     "g": 0,
     "a": 2,
     "sg": 0,
-    "fs": 3,
+    "fs": 4,
     "ff": 5,
-    "fd": 1,
+    "fd": 2,
     "ft": 0,
     "de": 0,
     "dp": 0,
@@ -217,16 +235,16 @@
     "gs": 0,
     "fc": 7,
     "i": 0,
-    "ds": 17,
+    "ds": 18,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": -0.3,
-    "preco_num": 3.96,
-    "variacao_num": -0.42,
-    "media_num": 2.36,
-    "jogos_num": 14,
+    "pontos_num": 2.9,
+    "preco_num": 4.33,
+    "variacao_num": 0.37,
+    "media_num": 2.4,
+    "jogos_num": 15,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }

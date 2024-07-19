@@ -15,9 +15,11 @@
     13,
     14,
     15,
-    16
+    16,
+    17
   ],
   "pontos": [
+    0,
     0,
     0,
     0,
@@ -39,7 +41,8 @@
     6.97,
     6.97,
     6.97,
-    6.97
+    6.97,
+    6.42
   ],
   "variacoes": [
     0,
@@ -51,7 +54,8 @@
     0,
     0,
     0,
-    0
+    0,
+    -0.55
   ],
   "medias": [
     4.64,
@@ -63,7 +67,8 @@
     4.64,
     4.64,
     4.64,
-    4.64
+    4.64,
+    3.87
   ],
   "partidas": [
     {
@@ -195,12 +200,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/09/30/Corinthians_65.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 17,
+      "clube_casa": "Corinthians",
+      "clube_casa_id": 264,
+      "clube_visitante": "Criciúma",
+      "clube_casa_abrev": "COR",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2019/09/30/Corinthians_65.png",
+      "clube_visitante_id": 288,
+      "clube_visitante_abrev": "CRI",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2024/03/28/criciuma-65.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/02/27/photo_220x220_ziHCmbL.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2019/09/30/Corinthians_65.png",
   "scouts": {
-    "rodada_id": 16,
+    "rodada_id": 17,
     "g": 0,
     "a": 0,
     "sg": 3,
@@ -223,10 +241,10 @@
     "ps": 0,
     "v": 0,
     "pontos_num": 0,
-    "preco_num": 6.97,
-    "variacao_num": 0,
-    "media_num": 4.64,
-    "jogos_num": 5,
+    "preco_num": 6.42,
+    "variacao_num": -0.55,
+    "media_num": 3.87,
+    "jogos_num": 6,
     "posicao_abrev": "lat",
     "posicao": "Lateral"
   }
