@@ -6,7 +6,6 @@
   "clube_id": 356,
   "posicao": "Goleiro",
   "rodadas": [
-    7,
     8,
     9,
     10,
@@ -16,10 +15,10 @@
     14,
     15,
     16,
-    17
+    17,
+    18
   ],
   "pontos": [
-    7,
     0,
     2,
     7,
@@ -29,10 +28,10 @@
     5,
     8.5,
     5,
-    1
+    1,
+    0
   ],
   "precos": [
-    8.68,
     7.7,
     7.62,
     8.45,
@@ -42,10 +41,10 @@
     8.43,
     9.02,
     8.65,
-    7.94
+    7.94,
+    7.71
   ],
   "variacoes": [
-    0.55,
     -0.98,
     -0.08,
     0.83,
@@ -55,10 +54,10 @@
     0.44,
     0.59,
     -0.37,
-    -0.71
+    -0.71,
+    -0.23
   ],
   "medias": [
-    5.7,
     5.03,
     4.65,
     4.91,
@@ -68,22 +67,10 @@
     5.24,
     5.47,
     5.44,
-    5.16
+    5.16,
+    4.86
   ],
   "partidas": [
-    {
-      "rodada_id": 7,
-      "clube_casa": "Fortaleza",
-      "clube_casa_id": 356,
-      "clube_visitante": "Athlético-PR",
-      "clube_casa_abrev": "FOR",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2021/09/19/65_0000_Fortaleza-2021.png",
-      "clube_visitante_id": 293,
-      "clube_visitante_abrev": "ATL",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/09/09/Athletico-PR-65x65.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 8,
       "clube_casa": "Bahia",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2024/04/09/escudo-vitoria-65x65-69284.png",
       "placar_oficial_mandante": 3,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 18,
+      "clube_casa": "Fortaleza",
+      "clube_casa_id": 356,
+      "clube_visitante": "Atlético-GO",
+      "clube_casa_abrev": "FOR",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2021/09/19/65_0000_Fortaleza-2021.png",
+      "clube_visitante_id": 373,
+      "clube_visitante_abrev": "ATL",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2020/07/02/atletico-go-2020-65.png",
+      "placar_oficial_mandante": 3,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/02/28/photo_220x220_yXqoxi8.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2021/09/19/65_0000_Fortaleza-2021.png",
   "scouts": {
-    "rodada_id": 17,
+    "rodada_id": 18,
     "g": 0,
     "a": 0,
     "sg": 5,
@@ -226,13 +226,13 @@
     "ff": 0,
     "fd": 0,
     "ft": 0,
-    "de": 72,
+    "de": 73,
     "dp": 0,
     "gc": 0,
     "cv": 0,
     "ca": 0,
     "pp": 0,
-    "gs": 16,
+    "gs": 17,
     "fc": 0,
     "i": 0,
     "ds": 1,
@@ -240,11 +240,11 @@
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 1,
-    "preco_num": 7.94,
-    "variacao_num": -0.71,
-    "media_num": 5.16,
-    "jogos_num": 16,
+    "pontos_num": 0,
+    "preco_num": 7.71,
+    "variacao_num": -0.23,
+    "media_num": 4.86,
+    "jogos_num": 17,
     "posicao_abrev": "gol",
     "posicao": "Goleiro"
   }

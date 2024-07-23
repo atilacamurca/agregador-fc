@@ -6,7 +6,6 @@
   "clube_id": 282,
   "posicao": "Meia",
   "rodadas": [
-    7,
     8,
     9,
     10,
@@ -16,10 +15,10 @@
     14,
     15,
     16,
-    17
+    17,
+    18
   ],
   "pontos": [
-    2.5,
     0,
     0,
     1.1,
@@ -29,10 +28,10 @@
     2.6,
     2.3,
     0.9,
-    0
+    0,
+    -0.3
   ],
   "precos": [
-    2.75,
     1.39,
     1.39,
     1.89,
@@ -42,10 +41,10 @@
     2.75,
     2.76,
     2.58,
-    2.58
+    2.58,
+    2.35
   ],
   "variacoes": [
-    0.42,
     -1.36,
     0,
     0.5,
@@ -55,10 +54,10 @@
     0.01,
     0.01,
     -0.18,
-    0
+    0,
+    -0.23
   ],
   "medias": [
-    -0.2,
     -0.78,
     -0.78,
     -0.47,
@@ -68,22 +67,10 @@
     1.17,
     1.27,
     1.24,
-    1.24
+    1.24,
+    1.12
   ],
   "partidas": [
-    {
-      "rodada_id": 7,
-      "clube_casa": "Atlético-MG",
-      "clube_casa_id": 282,
-      "clube_visitante": "Bahia",
-      "clube_casa_abrev": "ATL",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2017/11/23/Atletico-Mineiro-escudo65px.png",
-      "clube_visitante_id": 265,
-      "clube_visitante_abrev": "BAH",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/bahia_60x60.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 8,
       "clube_casa": "Bragantino",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2017/11/23/Atletico-Mineiro-escudo65px.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 18,
+      "clube_casa": "Atlético-MG",
+      "clube_casa_id": 282,
+      "clube_visitante": "Vasco",
+      "clube_casa_abrev": "ATL",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2017/11/23/Atletico-Mineiro-escudo65px.png",
+      "clube_visitante_id": 267,
+      "clube_visitante_abrev": "VAS",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/09/04/ESCUDO-VASCO-RGB_65px.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/04/13/photo_220x220_XVs5pqz.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2017/11/23/Atletico-Mineiro-escudo65px.png",
   "scouts": {
-    "rodada_id": 17,
+    "rodada_id": 18,
     "g": 0,
     "a": 0,
     "sg": 0,
@@ -233,18 +233,18 @@
     "ca": 3,
     "pp": 0,
     "gs": 0,
-    "fc": 19,
+    "fc": 20,
     "i": 0,
     "ds": 17,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 0,
-    "preco_num": 2.58,
-    "variacao_num": 0,
-    "media_num": 1.24,
-    "jogos_num": 12,
+    "pontos_num": -0.3,
+    "preco_num": 2.35,
+    "variacao_num": -0.23,
+    "media_num": 1.12,
+    "jogos_num": 13,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }
