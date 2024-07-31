@@ -8,27 +8,32 @@
   "rodadas": [
     16,
     17,
-    18
+    18,
+    20
   ],
   "pontos": [
     0,
     3.8,
-    2.9
+    2.9,
+    4.2
   ],
   "precos": [
     10,
     10.39,
-    9.97
+    9.97,
+    9.1
   ],
   "variacoes": [
     0,
     0.39,
-    -0.42
+    -0.42,
+    -0.4
   ],
   "medias": [
     0,
     3.8,
-    3.35
+    3.35,
+    3.47
   ],
   "partidas": [
     {
@@ -69,19 +74,32 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/02/13/65_cruzeiro-2021.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 20,
+      "clube_casa": "Palmeiras",
+      "clube_casa_id": 275,
+      "clube_visitante": "Vitória",
+      "clube_casa_abrev": "PAL",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/palmeiras_60x60.png",
+      "clube_visitante_id": 287,
+      "clube_visitante_abrev": "VIT",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2024/04/09/escudo-vitoria-65x65-69284.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/07/08/photo_220x220_pq8QjaQ.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2014/04/14/palmeiras_60x60.png",
   "scouts": {
-    "rodada_id": 18,
+    "rodada_id": 20,
     "g": 0,
     "a": 0,
     "sg": 0,
     "fs": 1,
     "ff": 1,
     "fd": 1,
-    "ft": 0,
+    "ft": 1,
     "de": 0,
     "dp": 0,
     "gc": 0,
@@ -89,18 +107,18 @@
     "ca": 0,
     "pp": 0,
     "gs": 0,
-    "fc": 2,
+    "fc": 4,
     "i": 0,
-    "ds": 4,
+    "ds": 8,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 2.9,
-    "preco_num": 9.97,
-    "variacao_num": -0.42,
-    "media_num": 3.35,
-    "jogos_num": 2,
+    "pontos_num": 4.2,
+    "preco_num": 9.1,
+    "variacao_num": -0.4,
+    "media_num": 3.47,
+    "jogos_num": 4,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }

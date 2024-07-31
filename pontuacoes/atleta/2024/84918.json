@@ -6,8 +6,6 @@
   "clube_id": 265,
   "posicao": "Atacante",
   "rodadas": [
-    8,
-    9,
     10,
     11,
     12,
@@ -16,7 +14,8 @@
     15,
     16,
     17,
-    18
+    18,
+    20
   ],
   "pontos": [
     0,
@@ -28,8 +27,7 @@
     0,
     0,
     0,
-    0,
-    0
+    0.2
   ],
   "precos": [
     5.14,
@@ -41,8 +39,7 @@
     5.14,
     5.14,
     5.14,
-    5.14,
-    5.14
+    4.56
   ],
   "variacoes": [
     0,
@@ -54,8 +51,7 @@
     0,
     0,
     0,
-    0,
-    0
+    -0.79
   ],
   "medias": [
     2.97,
@@ -67,36 +63,9 @@
     2.97,
     2.97,
     2.97,
-    2.97,
-    2.97
+    2.36
   ],
   "partidas": [
-    {
-      "rodada_id": 8,
-      "clube_casa": "Bahia",
-      "clube_casa_id": 265,
-      "clube_visitante": "Fortaleza",
-      "clube_casa_abrev": "BAH",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/bahia_60x60.png",
-      "clube_visitante_id": 356,
-      "clube_visitante_abrev": "FOR",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/09/19/65_0000_Fortaleza-2021.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 0
-    },
-    {
-      "rodada_id": 9,
-      "clube_casa": "Criciúma",
-      "clube_casa_id": 288,
-      "clube_visitante": "Bahia",
-      "clube_casa_abrev": "CRI",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2024/03/28/criciuma-65.png",
-      "clube_visitante_id": 265,
-      "clube_visitante_abrev": "BAH",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/bahia_60x60.png",
-      "placar_oficial_mandante": 2,
-      "placar_oficial_visitante": 2
-    },
     {
       "rodada_id": 10,
       "clube_casa": "Flamengo",
@@ -213,19 +182,32 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/09/30/Corinthians_65.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 20,
+      "clube_casa": "Bahia",
+      "clube_casa_id": 265,
+      "clube_visitante": "Internacional",
+      "clube_casa_abrev": "BAH",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/bahia_60x60.png",
+      "clube_visitante_id": 285,
+      "clube_visitante_abrev": "INT",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2016/05/03/inter65.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/07/26/photo_220x220_q8xm0Ax.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2014/04/14/bahia_60x60.png",
   "scouts": {
-    "rodada_id": 18,
+    "rodada_id": 20,
     "g": 1,
     "a": 0,
     "sg": 0,
-    "fs": 0,
+    "fs": 1,
     "ff": 0,
     "fd": 1,
-    "ft": 0,
+    "ft": 1,
     "de": 0,
     "dp": 0,
     "gc": 0,
@@ -233,18 +215,18 @@
     "ca": 0,
     "pp": 0,
     "gs": 0,
-    "fc": 1,
+    "fc": 3,
     "i": 0,
     "ds": 0,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 0,
-    "preco_num": 5.14,
-    "variacao_num": 0,
-    "media_num": 2.97,
-    "jogos_num": 3,
+    "pontos_num": 0.2,
+    "preco_num": 4.56,
+    "variacao_num": -0.79,
+    "media_num": 2.36,
+    "jogos_num": 5,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }

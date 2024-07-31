@@ -6,8 +6,6 @@
   "clube_id": 283,
   "posicao": "Atacante",
   "rodadas": [
-    8,
-    9,
     10,
     11,
     12,
@@ -16,10 +14,10 @@
     15,
     16,
     17,
-    18
+    18,
+    20
   ],
   "pontos": [
-    0,
     0,
     0,
     0,
@@ -41,8 +39,7 @@
     7,
     7,
     7,
-    7,
-    7
+    8.54
   ],
   "variacoes": [
     0,
@@ -54,8 +51,7 @@
     0,
     0,
     0,
-    0,
-    0
+    -1.42
   ],
   "medias": [
     0,
@@ -67,36 +63,9 @@
     0,
     0,
     0,
-    0,
-    0
+    4.65
   ],
   "partidas": [
-    {
-      "rodada_id": 8,
-      "clube_casa": "Cruzeiro",
-      "clube_casa_id": 283,
-      "clube_visitante": "Cuiabá",
-      "clube_casa_abrev": "CRU",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2021/02/13/65_cruzeiro-2021.png",
-      "clube_visitante_id": 1371,
-      "clube_visitante_abrev": "CUI",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/16/cuiaba65.png",
-      "placar_oficial_mandante": 2,
-      "placar_oficial_visitante": 1
-    },
-    {
-      "rodada_id": 9,
-      "clube_casa": "Vasco",
-      "clube_casa_id": 267,
-      "clube_visitante": "Cruzeiro",
-      "clube_casa_abrev": "VAS",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2021/09/04/ESCUDO-VASCO-RGB_65px.png",
-      "clube_visitante_id": 283,
-      "clube_visitante_abrev": "CRU",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/02/13/65_cruzeiro-2021.png",
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 10,
       "clube_casa": "Cruzeiro",
@@ -213,17 +182,30 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/02/13/65_cruzeiro-2021.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 20,
+      "clube_casa": "Botafogo",
+      "clube_casa_id": 263,
+      "clube_visitante": "Cruzeiro",
+      "clube_casa_abrev": "BOT",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-65.png",
+      "clube_visitante_id": 283,
+      "clube_visitante_abrev": "CRU",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/02/13/65_cruzeiro-2021.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 3
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/03/01/photo_220x220_2S2h9nH.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2021/02/13/65_cruzeiro-2021.png",
   "scouts": {
-    "rodada_id": 18,
-    "g": 0,
+    "rodada_id": 20,
+    "g": 1,
     "a": 0,
     "sg": 0,
-    "fs": 0,
-    "ff": 0,
+    "fs": 1,
+    "ff": 1,
     "fd": 0,
     "ft": 0,
     "de": 0,
@@ -241,10 +223,10 @@
     "ps": 0,
     "v": 0,
     "pontos_num": 0,
-    "preco_num": 7,
-    "variacao_num": 0,
-    "media_num": 0,
-    "jogos_num": 0,
+    "preco_num": 8.54,
+    "variacao_num": -1.42,
+    "media_num": 4.65,
+    "jogos_num": 2,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }

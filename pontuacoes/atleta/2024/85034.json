@@ -6,8 +6,6 @@
   "clube_id": 263,
   "posicao": "Meia",
   "rodadas": [
-    8,
-    9,
     10,
     11,
     12,
@@ -16,11 +14,10 @@
     15,
     16,
     17,
-    18
+    18,
+    20
   ],
   "pontos": [
-    0,
-    3.1,
     1.6,
     6.6,
     0,
@@ -29,11 +26,10 @@
     2.4,
     2.7,
     0,
-    0
+    0,
+    2.1
   ],
   "precos": [
-    6.74,
-    6.83,
     6.53,
     7.26,
     7.26,
@@ -42,11 +38,10 @@
     6.65,
     6.68,
     6.68,
-    6.68
+    6.68,
+    6.49
   ],
   "variacoes": [
-    0.03,
-    0.09,
     -0.3,
     0.73,
     0,
@@ -55,11 +50,10 @@
     0.08,
     0.03,
     0,
-    0
+    0,
+    -0.19
   ],
   "medias": [
-    3.22,
-    3.2,
     3,
     3.4,
     3.4,
@@ -68,35 +62,10 @@
     3.36,
     3.31,
     3.31,
-    3.31
+    3.31,
+    3.22
   ],
   "partidas": [
-    {
-      "rodada_id": 8,
-      "clube_casa": "Botafogo",
-      "clube_casa_id": 263,
-      "clube_visitante": "Fluminense",
-      "clube_casa_abrev": "BOT",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-65.png",
-      "clube_visitante_id": 266,
-      "clube_visitante_abrev": "FLU",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/fluminense_60x60.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 0
-    },
-    {
-      "rodada_id": 9,
-      "clube_casa": "Grêmio",
-      "clube_casa_id": 284,
-      "clube_visitante": "Botafogo",
-      "clube_casa_abrev": "GRE",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/gremio_60x60.png",
-      "clube_visitante_id": 263,
-      "clube_visitante_abrev": "BOT",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-65.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 2
-    },
     {
       "rodada_id": 10,
       "clube_casa": "Botafogo",
@@ -213,18 +182,31 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2016/05/03/inter65.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 20,
+      "clube_casa": "Botafogo",
+      "clube_casa_id": 263,
+      "clube_visitante": "Cruzeiro",
+      "clube_casa_abrev": "BOT",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-65.png",
+      "clube_visitante_id": 283,
+      "clube_visitante_abrev": "CRU",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/02/13/65_cruzeiro-2021.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 3
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/04/20/photo_220x220_oSZD8nT.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-65.png",
   "scouts": {
-    "rodada_id": 18,
+    "rodada_id": 20,
     "g": 0,
     "a": 3,
     "sg": 0,
     "fs": 12,
     "ff": 1,
-    "fd": 6,
+    "fd": 7,
     "ft": 0,
     "de": 0,
     "dp": 0,
@@ -233,18 +215,18 @@
     "ca": 4,
     "pp": 0,
     "gs": 0,
-    "fc": 8,
+    "fc": 9,
     "i": 0,
-    "ds": 17,
+    "ds": 18,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 0,
-    "preco_num": 6.68,
-    "variacao_num": 0,
-    "media_num": 3.31,
-    "jogos_num": 13,
+    "pontos_num": 2.1,
+    "preco_num": 6.49,
+    "variacao_num": -0.19,
+    "media_num": 3.22,
+    "jogos_num": 14,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }

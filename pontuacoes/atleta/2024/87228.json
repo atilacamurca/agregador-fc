@@ -6,8 +6,6 @@
   "clube_id": 282,
   "posicao": "Lateral",
   "rodadas": [
-    8,
-    9,
     10,
     11,
     12,
@@ -16,7 +14,8 @@
     15,
     16,
     17,
-    18
+    18,
+    20
   ],
   "pontos": [
     0,
@@ -25,11 +24,10 @@
     0,
     0,
     0,
-    0,
-    0,
     3.7,
     1.1,
-    0
+    0,
+    -0.1
   ],
   "precos": [
     12.32,
@@ -38,11 +36,10 @@
     12.32,
     12.32,
     12.32,
-    12.32,
-    12.32,
     12.27,
     11.42,
-    11.42
+    11.42,
+    10.83
   ],
   "variacoes": [
     0,
@@ -51,11 +48,10 @@
     0,
     0,
     0,
-    0,
-    0,
     -0.05,
     -0.85,
-    0
+    0,
+    -0.59
   ],
   "medias": [
     7.83,
@@ -64,39 +60,12 @@
     7.83,
     7.83,
     7.83,
-    7.83,
-    7.83,
     7.24,
     6.47,
-    6.47
+    6.47,
+    5.74
   ],
   "partidas": [
-    {
-      "rodada_id": 8,
-      "clube_casa": "Bragantino",
-      "clube_casa_id": 280,
-      "clube_visitante": "Atlético-MG",
-      "clube_casa_abrev": "BRA",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2020/01/01/65.png",
-      "clube_visitante_id": 282,
-      "clube_visitante_abrev": "ATL",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2017/11/23/Atletico-Mineiro-escudo65px.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 2
-    },
-    {
-      "rodada_id": 9,
-      "clube_casa": "Atlético-MG",
-      "clube_casa_id": 282,
-      "clube_visitante": "Palmeiras",
-      "clube_casa_abrev": "ATL",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2017/11/23/Atletico-Mineiro-escudo65px.png",
-      "clube_visitante_id": 275,
-      "clube_visitante_abrev": "PAL",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/palmeiras_60x60.png",
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 4
-    },
     {
       "rodada_id": 10,
       "clube_casa": "Vitória",
@@ -213,16 +182,29 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/09/04/ESCUDO-VASCO-RGB_65px.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 20,
+      "clube_casa": "Atlético-MG",
+      "clube_casa_id": 282,
+      "clube_visitante": "Corinthians",
+      "clube_casa_abrev": "ATL",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2017/11/23/Atletico-Mineiro-escudo65px.png",
+      "clube_visitante_id": 264,
+      "clube_visitante_abrev": "COR",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/09/30/Corinthians_65.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/03/06/photo_220x220_7gOybCT.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2017/11/23/Atletico-Mineiro-escudo65px.png",
   "scouts": {
-    "rodada_id": 18,
+    "rodada_id": 20,
     "g": 1,
     "a": 1,
     "sg": 3,
-    "fs": 4,
+    "fs": 5,
     "ff": 5,
     "fd": 3,
     "ft": 0,
@@ -233,18 +215,18 @@
     "ca": 3,
     "pp": 0,
     "gs": 0,
-    "fc": 6,
+    "fc": 8,
     "i": 2,
     "ds": 16,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 0,
-    "preco_num": 11.42,
-    "variacao_num": 0,
-    "media_num": 6.47,
-    "jogos_num": 8,
+    "pontos_num": -0.1,
+    "preco_num": 10.83,
+    "variacao_num": -0.59,
+    "media_num": 5.74,
+    "jogos_num": 9,
     "posicao_abrev": "lat",
     "posicao": "Lateral"
   }

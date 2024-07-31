@@ -6,8 +6,6 @@
   "clube_id": 288,
   "posicao": "Atacante",
   "rodadas": [
-    8,
-    9,
     10,
     11,
     12,
@@ -16,11 +14,10 @@
     15,
     16,
     17,
-    18
+    18,
+    20
   ],
   "pontos": [
-    0,
-    10,
     3.4,
     10.8,
     8.2,
@@ -29,11 +26,10 @@
     2.6,
     3.6,
     2.2,
-    3.3
+    3.3,
+    0
   ],
   "precos": [
-    2.28,
-    4.2,
     3.6,
     5.11,
     5.18,
@@ -42,11 +38,10 @@
     4.42,
     4.62,
     4.4,
+    4.6,
     4.6
   ],
   "variacoes": [
-    -0.18,
-    1.92,
     -0.6,
     1.51,
     0.07,
@@ -55,11 +50,10 @@
     0.22,
     0.2,
     -0.22,
-    0.2
+    0.2,
+    0
   ],
   "medias": [
-    0.48,
-    2.07,
     2.26,
     3.33,
     3.87,
@@ -68,35 +62,10 @@
     3.39,
     3.41,
     3.32,
+    3.32,
     3.32
   ],
   "partidas": [
-    {
-      "rodada_id": 8,
-      "clube_casa": "Athlético-PR",
-      "clube_casa_id": 293,
-      "clube_visitante": "Criciúma",
-      "clube_casa_abrev": "ATL",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2019/09/09/Athletico-PR-65x65.png",
-      "clube_visitante_id": 288,
-      "clube_visitante_abrev": "CRI",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2024/03/28/criciuma-65.png",
-      "placar_oficial_mandante": 3,
-      "placar_oficial_visitante": 1
-    },
-    {
-      "rodada_id": 9,
-      "clube_casa": "Criciúma",
-      "clube_casa_id": 288,
-      "clube_visitante": "Bahia",
-      "clube_casa_abrev": "CRI",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2024/03/28/criciuma-65.png",
-      "clube_visitante_id": 265,
-      "clube_visitante_abrev": "BAH",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/bahia_60x60.png",
-      "placar_oficial_mandante": 2,
-      "placar_oficial_visitante": 2
-    },
     {
       "rodada_id": 10,
       "clube_casa": "Atlético-GO",
@@ -213,12 +182,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2024/03/28/criciuma-65.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 20,
+      "clube_casa": "Juventude",
+      "clube_casa_id": 286,
+      "clube_visitante": "Criciúma",
+      "clube_casa_abrev": "JUV",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2021/04/29/juventude65.png",
+      "clube_visitante_id": 288,
+      "clube_visitante_abrev": "CRI",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2024/03/28/criciuma-65.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/04/12/photo_220x220.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2024/03/28/criciuma-65.png",
   "scouts": {
-    "rodada_id": 18,
+    "rodada_id": 20,
     "g": 3,
     "a": 0,
     "sg": 0,
@@ -240,9 +222,9 @@
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 3.3,
+    "pontos_num": 0,
     "preco_num": 4.6,
-    "variacao_num": 0.2,
+    "variacao_num": 0,
     "media_num": 3.32,
     "jogos_num": 15,
     "posicao_abrev": "ata",

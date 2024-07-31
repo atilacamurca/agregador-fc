@@ -6,8 +6,6 @@
   "clube_id": 276,
   "posicao": "Atacante",
   "rodadas": [
-    8,
-    9,
     10,
     11,
     12,
@@ -16,11 +14,10 @@
     15,
     16,
     17,
-    18
+    18,
+    20
   ],
   "pontos": [
-    0,
-    1.2,
     0.5,
     0.2,
     2.2,
@@ -29,11 +26,10 @@
     0,
     5.5,
     -0.8,
-    3
+    3,
+    2.3
   ],
   "precos": [
-    8.3,
-    8.14,
     7.75,
     7.32,
     7.39,
@@ -42,11 +38,10 @@
     9.32,
     8.73,
     7.63,
-    8.08
+    8.08,
+    8.22
   ],
   "variacoes": [
-    -1.02,
-    -0.16,
     -0.39,
     -0.43,
     0.07,
@@ -55,11 +50,10 @@
     0,
     -0.59,
     -1.1,
-    0.45
+    0.45,
+    -1.61
   ],
   "medias": [
-    4.66,
-    4.08,
     3.57,
     3.15,
     3.04,
@@ -68,35 +62,10 @@
     4.65,
     4.72,
     4.3,
-    4.21
+    4.21,
+    4.68
   ],
   "partidas": [
-    {
-      "rodada_id": 8,
-      "clube_casa": "Internacional",
-      "clube_casa_id": 285,
-      "clube_visitante": "São Paulo",
-      "clube_casa_abrev": "INT",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2016/05/03/inter65.png",
-      "clube_visitante_id": 276,
-      "clube_visitante_abrev": "SAO",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/sao_paulo_60x60.png",
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 0
-    },
-    {
-      "rodada_id": 9,
-      "clube_casa": "Corinthians",
-      "clube_casa_id": 264,
-      "clube_visitante": "São Paulo",
-      "clube_casa_abrev": "COR",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2019/09/30/Corinthians_65.png",
-      "clube_visitante_id": 276,
-      "clube_visitante_abrev": "SAO",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/sao_paulo_60x60.png",
-      "placar_oficial_mandante": 2,
-      "placar_oficial_visitante": 2
-    },
     {
       "rodada_id": 10,
       "clube_casa": "São Paulo",
@@ -213,17 +182,30 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/sao_paulo_60x60.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 20,
+      "clube_casa": "Fortaleza",
+      "clube_casa_id": 356,
+      "clube_visitante": "São Paulo",
+      "clube_casa_abrev": "FOR",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2021/09/19/65_0000_Fortaleza-2021.png",
+      "clube_visitante_id": 276,
+      "clube_visitante_abrev": "SAO",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/sao_paulo_60x60.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/03/01/photo_220x220_nPg7koa.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2014/04/14/sao_paulo_60x60.png",
   "scouts": {
-    "rodada_id": 18,
-    "g": 4,
+    "rodada_id": 20,
+    "g": 5,
     "a": 1,
     "sg": 0,
-    "fs": 18,
-    "ff": 5,
+    "fs": 24,
+    "ff": 7,
     "fd": 4,
     "ft": 0,
     "de": 0,
@@ -235,16 +217,16 @@
     "gs": 0,
     "fc": 9,
     "i": 1,
-    "ds": 9,
+    "ds": 11,
     "pi": 0,
     "pc": 0,
-    "ps": 0,
+    "ps": 1,
     "v": 0,
-    "pontos_num": 3,
-    "preco_num": 8.08,
-    "variacao_num": 0.45,
-    "media_num": 4.21,
-    "jogos_num": 14,
+    "pontos_num": 2.3,
+    "preco_num": 8.22,
+    "variacao_num": -1.61,
+    "media_num": 4.68,
+    "jogos_num": 16,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }

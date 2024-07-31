@@ -6,8 +6,6 @@
   "clube_id": 293,
   "posicao": "Zagueiro",
   "rodadas": [
-    8,
-    9,
     10,
     11,
     12,
@@ -16,11 +14,10 @@
     15,
     16,
     17,
-    18
+    18,
+    20
   ],
   "pontos": [
-    0,
-    0,
     4.2,
     2.4,
     0.9,
@@ -29,11 +26,10 @@
     0,
     -1.1,
     0,
-    0
+    0,
+    1.4
   ],
   "precos": [
-    5.6,
-    5,
     5.64,
     5.33,
     5,
@@ -42,11 +38,10 @@
     5.06,
     4.64,
     4.64,
-    4.64
+    4.64,
+    4.84
   ],
   "variacoes": [
-    0.03,
-    -0.6,
     0.64,
     -0.31,
     -0.33,
@@ -55,11 +50,10 @@
     0,
     -0.42,
     0,
-    0
+    0,
+    0.2
   ],
   "medias": [
-    2.6,
-    2.17,
     2.46,
     2.45,
     2.28,
@@ -68,35 +62,10 @@
     2.48,
     2.18,
     2.18,
-    2.18
+    2.18,
+    2.12
   ],
   "partidas": [
-    {
-      "rodada_id": 8,
-      "clube_casa": "Athlético-PR",
-      "clube_casa_id": 293,
-      "clube_visitante": "Criciúma",
-      "clube_casa_abrev": "ATL",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2019/09/09/Athletico-PR-65x65.png",
-      "clube_visitante_id": 288,
-      "clube_visitante_abrev": "CRI",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2024/03/28/criciuma-65.png",
-      "placar_oficial_mandante": 3,
-      "placar_oficial_visitante": 1
-    },
-    {
-      "rodada_id": 9,
-      "clube_casa": "Athlético-PR",
-      "clube_casa_id": 293,
-      "clube_visitante": "Flamengo",
-      "clube_casa_abrev": "ATL",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2019/09/09/Athletico-PR-65x65.png",
-      "clube_visitante_id": 262,
-      "clube_visitante_abrev": "FLA",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2018/04/09/Flamengo-65.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 10,
       "clube_casa": "Botafogo",
@@ -213,16 +182,29 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/09/09/Athletico-PR-65x65.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 20,
+      "clube_casa": "Cuiabá",
+      "clube_casa_id": 1371,
+      "clube_visitante": "Athlético-PR",
+      "clube_casa_abrev": "CUI",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/16/cuiaba65.png",
+      "clube_visitante_id": 293,
+      "clube_visitante_abrev": "ATL",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/09/09/Athletico-PR-65x65.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/03/05/photo_220x220_RN1xUpJ.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2019/09/09/Athletico-PR-65x65.png",
   "scouts": {
-    "rodada_id": 18,
+    "rodada_id": 20,
     "g": 0,
     "a": 0,
     "sg": 3,
-    "fs": 5,
+    "fs": 6,
     "ff": 3,
     "fd": 1,
     "ft": 0,
@@ -233,18 +215,18 @@
     "ca": 3,
     "pp": 0,
     "gs": 0,
-    "fc": 13,
+    "fc": 14,
     "i": 0,
-    "ds": 10,
+    "ds": 11,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 0,
-    "preco_num": 4.64,
-    "variacao_num": 0,
-    "media_num": 2.18,
-    "jogos_num": 12,
+    "pontos_num": 1.4,
+    "preco_num": 4.84,
+    "variacao_num": 0.2,
+    "media_num": 2.12,
+    "jogos_num": 13,
     "posicao_abrev": "zag",
     "posicao": "Zagueiro"
   }

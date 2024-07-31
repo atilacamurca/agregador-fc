@@ -6,8 +6,6 @@
   "clube_id": 283,
   "posicao": "Meia",
   "rodadas": [
-    8,
-    9,
     10,
     11,
     12,
@@ -16,11 +14,10 @@
     15,
     16,
     17,
-    18
+    18,
+    20
   ],
   "pontos": [
-    0,
-    1.8,
     2,
     0.4,
     0.9,
@@ -29,11 +26,10 @@
     0,
     9.1,
     0,
+    0,
     0
   ],
   "precos": [
-    3.54,
-    3.66,
     3.71,
     3.37,
     3.36,
@@ -42,11 +38,10 @@
     3.21,
     4.65,
     4.65,
-    4.65
+    4.65,
+    3.35
   ],
   "variacoes": [
-    -0.37,
-    0.12,
     0.05,
     -0.34,
     -0.01,
@@ -55,11 +50,10 @@
     -0.24,
     1.44,
     0,
-    0
+    0,
+    -0.11
   ],
   "medias": [
-    1.35,
-    1.41,
     1.48,
     1.36,
     1.31,
@@ -68,35 +62,10 @@
     1.38,
     1.93,
     1.93,
-    1.93
+    1.93,
+    1.69
   ],
   "partidas": [
-    {
-      "rodada_id": 8,
-      "clube_casa": "Cruzeiro",
-      "clube_casa_id": 283,
-      "clube_visitante": "Cuiabá",
-      "clube_casa_abrev": "CRU",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2021/02/13/65_cruzeiro-2021.png",
-      "clube_visitante_id": 1371,
-      "clube_visitante_abrev": "CUI",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/16/cuiaba65.png",
-      "placar_oficial_mandante": 2,
-      "placar_oficial_visitante": 1
-    },
-    {
-      "rodada_id": 9,
-      "clube_casa": "Vasco",
-      "clube_casa_id": 267,
-      "clube_visitante": "Cruzeiro",
-      "clube_casa_abrev": "VAS",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2021/09/04/ESCUDO-VASCO-RGB_65px.png",
-      "clube_visitante_id": 283,
-      "clube_visitante_abrev": "CRU",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/02/13/65_cruzeiro-2021.png",
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 10,
       "clube_casa": "Cruzeiro",
@@ -213,12 +182,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/02/13/65_cruzeiro-2021.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 20,
+      "clube_casa": "Botafogo",
+      "clube_casa_id": 263,
+      "clube_visitante": "Cruzeiro",
+      "clube_casa_abrev": "BOT",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-65.png",
+      "clube_visitante_id": 283,
+      "clube_visitante_abrev": "CRU",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/02/13/65_cruzeiro-2021.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 3
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/03/02/photo_220x220_MK4CCfT.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2021/02/13/65_cruzeiro-2021.png",
   "scouts": {
-    "rodada_id": 18,
+    "rodada_id": 20,
     "g": 1,
     "a": 0,
     "sg": 0,
@@ -241,10 +223,10 @@
     "ps": 0,
     "v": 0,
     "pontos_num": 0,
-    "preco_num": 4.65,
-    "variacao_num": 0,
-    "media_num": 1.93,
-    "jogos_num": 14,
+    "preco_num": 3.35,
+    "variacao_num": -0.11,
+    "media_num": 1.69,
+    "jogos_num": 16,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }
