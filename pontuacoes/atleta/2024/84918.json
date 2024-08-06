@@ -6,7 +6,6 @@
   "clube_id": 265,
   "posicao": "Atacante",
   "rodadas": [
-    10,
     11,
     12,
     13,
@@ -15,7 +14,8 @@
     16,
     17,
     18,
-    20
+    20,
+    21
   ],
   "pontos": [
     0,
@@ -26,8 +26,8 @@
     0,
     0,
     0,
-    0,
-    0.2
+    0.2,
+    2.4
   ],
   "precos": [
     5.14,
@@ -38,8 +38,8 @@
     5.14,
     5.14,
     5.14,
-    5.14,
-    4.56
+    4.56,
+    4.79
   ],
   "variacoes": [
     0,
@@ -50,8 +50,8 @@
     0,
     0,
     0,
-    0,
-    -0.79
+    -0.79,
+    0.23
   ],
   "medias": [
     2.97,
@@ -62,23 +62,10 @@
     2.97,
     2.97,
     2.97,
-    2.97,
-    2.36
+    2.36,
+    2.37
   ],
   "partidas": [
-    {
-      "rodada_id": 10,
-      "clube_casa": "Flamengo",
-      "clube_casa_id": 262,
-      "clube_visitante": "Bahia",
-      "clube_casa_abrev": "FLA",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2018/04/09/Flamengo-65.png",
-      "clube_visitante_id": 265,
-      "clube_visitante_abrev": "BAH",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/bahia_60x60.png",
-      "placar_oficial_mandante": 2,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 11,
       "clube_casa": "Bahia",
@@ -195,12 +182,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2016/05/03/inter65.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 21,
+      "clube_casa": "Fluminense",
+      "clube_casa_id": 266,
+      "clube_visitante": "Bahia",
+      "clube_casa_abrev": "FLU",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/fluminense_60x60.png",
+      "clube_visitante_id": 265,
+      "clube_visitante_abrev": "BAH",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/bahia_60x60.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/07/26/photo_220x220_q8xm0Ax.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2014/04/14/bahia_60x60.png",
   "scouts": {
-    "rodada_id": 20,
+    "rodada_id": 21,
     "g": 1,
     "a": 0,
     "sg": 0,
@@ -217,16 +217,16 @@
     "gs": 0,
     "fc": 3,
     "i": 0,
-    "ds": 0,
+    "ds": 2,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 0.2,
-    "preco_num": 4.56,
-    "variacao_num": -0.79,
-    "media_num": 2.36,
-    "jogos_num": 5,
+    "pontos_num": 2.4,
+    "preco_num": 4.79,
+    "variacao_num": 0.23,
+    "media_num": 2.37,
+    "jogos_num": 6,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }

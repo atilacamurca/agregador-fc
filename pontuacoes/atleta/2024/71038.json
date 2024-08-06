@@ -6,7 +6,6 @@
   "clube_id": 373,
   "posicao": "Zagueiro",
   "rodadas": [
-    10,
     11,
     12,
     13,
@@ -15,10 +14,10 @@
     16,
     17,
     18,
-    20
+    20,
+    21
   ],
   "pontos": [
-    -1,
     6.2,
     0,
     0,
@@ -27,10 +26,10 @@
     0,
     0,
     0,
-    -0.1
+    -0.1,
+    0
   ],
   "precos": [
-    3.18,
     4.4,
     4.4,
     4.4,
@@ -39,10 +38,10 @@
     4.4,
     4.4,
     4.4,
+    3.46,
     3.46
   ],
   "variacoes": [
-    -0.81,
     1.22,
     0,
     0,
@@ -51,10 +50,10 @@
     0,
     0,
     0,
-    -0.94
+    -0.94,
+    0
   ],
   "medias": [
-    2.12,
     2.8,
     2.8,
     2.8,
@@ -63,22 +62,10 @@
     2.8,
     2.8,
     2.8,
+    2.39,
     2.39
   ],
   "partidas": [
-    {
-      "rodada_id": 10,
-      "clube_casa": "Atlético-GO",
-      "clube_casa_id": 373,
-      "clube_visitante": "Criciúma",
-      "clube_casa_abrev": "ATL",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2020/07/02/atletico-go-2020-65.png",
-      "clube_visitante_id": 288,
-      "clube_visitante_abrev": "CRI",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2024/03/28/criciuma-65.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 2
-    },
     {
       "rodada_id": 11,
       "clube_casa": "Cuiabá",
@@ -195,12 +182,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2020/07/02/atletico-go-2020-65.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 21,
+      "clube_casa": "Atlético-GO",
+      "clube_casa_id": 373,
+      "clube_visitante": "Botafogo",
+      "clube_casa_abrev": "ATL",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2020/07/02/atletico-go-2020-65.png",
+      "clube_visitante_id": 263,
+      "clube_visitante_abrev": "BOT",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-65.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 4
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/02/28/photo_220x220_Es6RFmf.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2020/07/02/atletico-go-2020-65.png",
   "scouts": {
-    "rodada_id": 20,
+    "rodada_id": 21,
     "g": 0,
     "a": 0,
     "sg": 2,
@@ -222,9 +222,9 @@
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": -0.1,
+    "pontos_num": 0,
     "preco_num": 3.46,
-    "variacao_num": -0.94,
+    "variacao_num": 0,
     "media_num": 2.39,
     "jogos_num": 7,
     "posicao_abrev": "zag",

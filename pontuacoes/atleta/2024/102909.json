@@ -6,7 +6,6 @@
   "clube_id": 287,
   "posicao": "Meia",
   "rodadas": [
-    10,
     11,
     12,
     13,
@@ -15,10 +14,10 @@
     16,
     17,
     18,
-    20
+    20,
+    21
   ],
   "pontos": [
-    -0.1,
     -0.8,
     1.7,
     1.5,
@@ -27,10 +26,10 @@
     1.1,
     -0.5,
     0,
-    0
+    0,
+    -1.4
   ],
   "precos": [
-    2.66,
     2.35,
     2.66,
     2.66,
@@ -39,10 +38,10 @@
     2.77,
     2.46,
     2.46,
-    2.46
+    2.46,
+    2.23
   ],
   "variacoes": [
-    -0.74,
     -0.31,
     0.31,
     0,
@@ -51,10 +50,10 @@
     0.02,
     -0.31,
     0,
-    0
+    0,
+    -0.23
   ],
   "medias": [
-    0.67,
     0.46,
     0.62,
     0.72,
@@ -63,22 +62,10 @@
     1.15,
     1.02,
     1.02,
-    1.02
+    1.02,
+    0.85
   ],
   "partidas": [
-    {
-      "rodada_id": 10,
-      "clube_casa": "Vitória",
-      "clube_casa_id": 287,
-      "clube_visitante": "Atlético-MG",
-      "clube_casa_abrev": "VIT",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2024/04/09/escudo-vitoria-65x65-69284.png",
-      "clube_visitante_id": 282,
-      "clube_visitante_abrev": "ATL",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2017/11/23/Atletico-Mineiro-escudo65px.png",
-      "placar_oficial_mandante": 4,
-      "placar_oficial_visitante": 2
-    },
     {
       "rodada_id": 11,
       "clube_casa": "Bragantino",
@@ -195,16 +182,29 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2024/04/09/escudo-vitoria-65x65-69284.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 21,
+      "clube_casa": "Vitória",
+      "clube_casa_id": 287,
+      "clube_visitante": "Cuiabá",
+      "clube_casa_abrev": "VIT",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2024/04/09/escudo-vitoria-65x65-69284.png",
+      "clube_visitante_id": 1371,
+      "clube_visitante_abrev": "CUI",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/16/cuiaba65.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/04/12/photo_220x220_Zd7I4CW.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2024/04/09/escudo-vitoria-65x65-69284.png",
   "scouts": {
-    "rodada_id": 20,
+    "rodada_id": 21,
     "g": 0,
     "a": 0,
     "sg": 0,
-    "fs": 9,
+    "fs": 10,
     "ff": 3,
     "fd": 1,
     "ft": 1,
@@ -212,21 +212,21 @@
     "dp": 0,
     "gc": 0,
     "cv": 0,
-    "ca": 3,
+    "ca": 4,
     "pp": 0,
     "gs": 0,
-    "fc": 11,
+    "fc": 14,
     "i": 0,
     "ds": 7,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 0,
-    "preco_num": 2.46,
-    "variacao_num": 0,
-    "media_num": 1.02,
-    "jogos_num": 13,
+    "pontos_num": -1.4,
+    "preco_num": 2.23,
+    "variacao_num": -0.23,
+    "media_num": 0.85,
+    "jogos_num": 14,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }

@@ -6,7 +6,6 @@
   "clube_id": 275,
   "posicao": "Atacante",
   "rodadas": [
-    10,
     11,
     12,
     13,
@@ -15,10 +14,10 @@
     16,
     17,
     18,
-    20
+    20,
+    21
   ],
   "pontos": [
-    12.8,
     0.8,
     2.6,
     0,
@@ -27,10 +26,10 @@
     1.6,
     4,
     0,
-    4.6
+    4.6,
+    9
   ],
   "precos": [
-    8.68,
     6.97,
     7.09,
     7.09,
@@ -39,10 +38,10 @@
     7.03,
     7.26,
     6.67,
-    7.1
+    7.1,
+    7.81
   ],
   "variacoes": [
-    1.64,
     -1.71,
     0.12,
     0,
@@ -51,10 +50,10 @@
     -0.8,
     0.23,
     -0.59,
-    0.52
+    0.52,
+    0.71
   ],
   "medias": [
-    4.26,
     3.95,
     3.84,
     3.84,
@@ -63,22 +62,10 @@
     3.91,
     3.92,
     3.69,
-    3.55
+    3.55,
+    3.82
   ],
   "partidas": [
-    {
-      "rodada_id": 10,
-      "clube_casa": "Palmeiras",
-      "clube_casa_id": 275,
-      "clube_visitante": "Bragantino",
-      "clube_casa_abrev": "PAL",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/palmeiras_60x60.png",
-      "clube_visitante_id": 280,
-      "clube_visitante_abrev": "BRA",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2020/01/01/65.png",
-      "placar_oficial_mandante": 2,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 11,
       "clube_casa": "Palmeiras",
@@ -195,18 +182,31 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2024/04/09/escudo-vitoria-65x65-69284.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 21,
+      "clube_casa": "Internacional",
+      "clube_casa_id": 285,
+      "clube_visitante": "Palmeiras",
+      "clube_casa_abrev": "INT",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2016/05/03/inter65.png",
+      "clube_visitante_id": 275,
+      "clube_visitante_abrev": "PAL",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/palmeiras_60x60.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/02/27/photo_220x220_j8iPskd.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2014/04/14/palmeiras_60x60.png",
   "scouts": {
-    "rodada_id": 20,
-    "g": 3,
+    "rodada_id": 21,
+    "g": 4,
     "a": 0,
     "sg": 0,
     "fs": 22,
     "ff": 13,
-    "fd": 13,
+    "fd": 14,
     "ft": 0,
     "de": 0,
     "dp": 0,
@@ -216,17 +216,17 @@
     "pp": 0,
     "gs": 0,
     "fc": 19,
-    "i": 10,
+    "i": 12,
     "ds": 14,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 4.6,
-    "preco_num": 7.1,
-    "variacao_num": 0.52,
-    "media_num": 3.55,
-    "jogos_num": 19,
+    "pontos_num": 9,
+    "preco_num": 7.81,
+    "variacao_num": 0.71,
+    "media_num": 3.82,
+    "jogos_num": 20,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }

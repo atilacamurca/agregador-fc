@@ -6,7 +6,6 @@
   "clube_id": 286,
   "posicao": "Meia",
   "rodadas": [
-    10,
     11,
     12,
     13,
@@ -15,10 +14,10 @@
     16,
     17,
     18,
-    20
+    20,
+    21
   ],
   "pontos": [
-    6.1,
     1.8,
     2.4,
     2.6,
@@ -27,10 +26,10 @@
     0,
     3.3,
     1.4,
-    11.7
+    11.7,
+    6.8
   ],
   "precos": [
-    10.32,
     9.4,
     9.21,
     9.13,
@@ -39,10 +38,10 @@
     9.81,
     8.96,
     8.62,
-    10.11
+    10.11,
+    9.59
   ],
   "variacoes": [
-    0.73,
     -0.92,
     -0.19,
     -0.08,
@@ -51,10 +50,10 @@
     0,
     -0.85,
     -0.34,
-    1.49
+    1.49,
+    -0.52
   ],
   "medias": [
-    7.85,
     6.99,
     6.42,
     6,
@@ -63,22 +62,10 @@
     5.79,
     5.58,
     5.26,
-    5.72
+    5.72,
+    5.79
   ],
   "partidas": [
-    {
-      "rodada_id": 10,
-      "clube_casa": "Juventude",
-      "clube_casa_id": 286,
-      "clube_visitante": "Vasco",
-      "clube_casa_abrev": "JUV",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2021/04/29/juventude65.png",
-      "clube_visitante_id": 267,
-      "clube_visitante_abrev": "VAS",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/09/04/ESCUDO-VASCO-RGB_65px.png",
-      "placar_oficial_mandante": 2,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 11,
       "clube_casa": "Palmeiras",
@@ -195,16 +182,29 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2024/03/28/criciuma-65.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 21,
+      "clube_casa": "Corinthians",
+      "clube_casa_id": 264,
+      "clube_visitante": "Juventude",
+      "clube_casa_abrev": "COR",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2019/09/30/Corinthians_65.png",
+      "clube_visitante_id": 286,
+      "clube_visitante_abrev": "JUV",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/04/29/juventude65.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/03/11/photo_220x220_1INRw87.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2021/04/29/juventude65.png",
   "scouts": {
-    "rodada_id": 20,
+    "rodada_id": 21,
     "g": 1,
-    "a": 4,
+    "a": 5,
     "sg": 0,
-    "fs": 29,
+    "fs": 31,
     "ff": 8,
     "fd": 4,
     "ft": 0,
@@ -212,21 +212,21 @@
     "dp": 0,
     "gc": 0,
     "cv": 1,
-    "ca": 5,
+    "ca": 6,
     "pp": 0,
     "gs": 0,
-    "fc": 21,
+    "fc": 23,
     "i": 2,
-    "ds": 34,
+    "ds": 36,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 11.7,
-    "preco_num": 10.11,
-    "variacao_num": 1.49,
-    "media_num": 5.72,
-    "jogos_num": 14,
+    "pontos_num": 6.8,
+    "preco_num": 9.59,
+    "variacao_num": -0.52,
+    "media_num": 5.79,
+    "jogos_num": 15,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }

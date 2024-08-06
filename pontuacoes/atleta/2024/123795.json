@@ -6,19 +6,24 @@
   "clube_id": 265,
   "posicao": "Atacante",
   "rodadas": [
-    20
+    20,
+    21
   ],
   "pontos": [
-    2
+    2,
+    4.8
   ],
   "precos": [
-    7.04
+    7.04,
+    7.55
   ],
   "variacoes": [
-    0.04
+    0.04,
+    0.51
   ],
   "medias": [
-    2
+    2,
+    3.4
   ],
   "partidas": [
     {
@@ -33,18 +38,31 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2016/05/03/inter65.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 21,
+      "clube_casa": "Fluminense",
+      "clube_casa_id": 266,
+      "clube_visitante": "Bahia",
+      "clube_casa_abrev": "FLU",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/fluminense_60x60.png",
+      "clube_visitante_id": 265,
+      "clube_visitante_abrev": "BAH",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/bahia_60x60.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/06/14/photo_220x220_YUIQAeJ.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2014/04/14/bahia_60x60.png",
   "scouts": {
-    "rodada_id": 20,
+    "rodada_id": 21,
     "g": 0,
     "a": 0,
     "sg": 0,
-    "fs": 1,
-    "ff": 2,
-    "fd": 0,
+    "fs": 3,
+    "ff": 3,
+    "fd": 2,
     "ft": 0,
     "de": 0,
     "dp": 0,
@@ -53,18 +71,18 @@
     "ca": 0,
     "pp": 0,
     "gs": 0,
-    "fc": 0,
+    "fc": 2,
     "i": 1,
-    "ds": 0,
+    "ds": 1,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 2,
-    "preco_num": 7.04,
-    "variacao_num": 0.04,
-    "media_num": 2,
-    "jogos_num": 1,
+    "pontos_num": 4.8,
+    "preco_num": 7.55,
+    "variacao_num": 0.51,
+    "media_num": 3.4,
+    "jogos_num": 2,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }

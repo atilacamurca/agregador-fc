@@ -6,7 +6,6 @@
   "clube_id": 276,
   "posicao": "Goleiro",
   "rodadas": [
-    10,
     11,
     12,
     13,
@@ -15,10 +14,10 @@
     16,
     17,
     18,
-    20
+    20,
+    21
   ],
   "pontos": [
-    0,
     0,
     0,
     0,
@@ -27,10 +26,10 @@
     1,
     9,
     5,
-    0
+    0,
+    5
   ],
   "precos": [
-    7.52,
     7.52,
     7.52,
     7.52,
@@ -39,10 +38,10 @@
     6.5,
     7.73,
     7.36,
-    6.42
+    6.42,
+    7.09
   ],
   "variacoes": [
-    0,
     0,
     0,
     0,
@@ -51,10 +50,10 @@
     -1.02,
     1.23,
     -0.37,
-    -0.52
+    -0.52,
+    0.67
   ],
   "medias": [
-    3,
     3,
     3,
     3,
@@ -63,22 +62,10 @@
     2.75,
     3.44,
     3.6,
-    3.16
+    3.16,
+    3.3
   ],
   "partidas": [
-    {
-      "rodada_id": 10,
-      "clube_casa": "São Paulo",
-      "clube_casa_id": 276,
-      "clube_visitante": "Cuiabá",
-      "clube_casa_abrev": "SAO",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/sao_paulo_60x60.png",
-      "clube_visitante_id": 1371,
-      "clube_visitante_abrev": "CUI",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/16/cuiaba65.png",
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 11,
       "clube_casa": "Vasco",
@@ -195,15 +182,28 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/sao_paulo_60x60.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 21,
+      "clube_casa": "São Paulo",
+      "clube_casa_id": 276,
+      "clube_visitante": "Flamengo",
+      "clube_casa_abrev": "SAO",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/sao_paulo_60x60.png",
+      "clube_visitante_id": 262,
+      "clube_visitante_abrev": "FLA",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2018/04/09/Flamengo-65.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/03/01/photo_220x220_qnQnVV9.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2014/04/14/sao_paulo_60x60.png",
   "scouts": {
-    "rodada_id": 20,
+    "rodada_id": 21,
     "g": 0,
     "a": 0,
-    "sg": 5,
+    "sg": 6,
     "fs": 0,
     "ff": 0,
     "fd": 0,
@@ -222,11 +222,11 @@
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 0,
-    "preco_num": 6.42,
-    "variacao_num": -0.52,
-    "media_num": 3.16,
-    "jogos_num": 12,
+    "pontos_num": 5,
+    "preco_num": 7.09,
+    "variacao_num": 0.67,
+    "media_num": 3.3,
+    "jogos_num": 13,
     "posicao_abrev": "gol",
     "posicao": "Goleiro"
   }

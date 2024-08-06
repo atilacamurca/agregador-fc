@@ -6,7 +6,6 @@
   "clube_id": 266,
   "posicao": "Zagueiro",
   "rodadas": [
-    10,
     11,
     12,
     13,
@@ -15,7 +14,8 @@
     16,
     17,
     18,
-    20
+    20,
+    21
   ],
   "pontos": [
     0,
@@ -25,9 +25,9 @@
     0,
     0,
     0,
-    0,
     6.4,
-    6.2
+    6.2,
+    4.9
   ],
   "precos": [
     10,
@@ -37,9 +37,9 @@
     10,
     10,
     10,
-    10,
     11.47,
-    11.65
+    11.65,
+    11.15
   ],
   "variacoes": [
     0,
@@ -49,9 +49,9 @@
     0,
     0,
     0,
-    0,
     1.47,
-    -0.11
+    -0.11,
+    -0.5
   ],
   "medias": [
     0,
@@ -61,24 +61,11 @@
     0,
     0,
     0,
-    0,
     6.4,
-    6.13
+    6.13,
+    5.82
   ],
   "partidas": [
-    {
-      "rodada_id": 10,
-      "clube_casa": "Cruzeiro",
-      "clube_casa_id": 283,
-      "clube_visitante": "Fluminense",
-      "clube_casa_abrev": "CRU",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2021/02/13/65_cruzeiro-2021.png",
-      "clube_visitante_id": 266,
-      "clube_visitante_abrev": "FLU",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/fluminense_60x60.png",
-      "placar_oficial_mandante": 2,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 11,
       "clube_casa": "Fluminense",
@@ -195,15 +182,28 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/fluminense_60x60.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 21,
+      "clube_casa": "Fluminense",
+      "clube_casa_id": 266,
+      "clube_visitante": "Bahia",
+      "clube_casa_abrev": "FLU",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/fluminense_60x60.png",
+      "clube_visitante_id": 265,
+      "clube_visitante_abrev": "BAH",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/bahia_60x60.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/06/07/photo_220x220_PkPCCEl.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2014/04/14/fluminense_60x60.png",
   "scouts": {
-    "rodada_id": 20,
+    "rodada_id": 21,
     "g": 0,
     "a": 0,
-    "sg": 3,
+    "sg": 4,
     "fs": 1,
     "ff": 1,
     "fd": 1,
@@ -212,21 +212,21 @@
     "dp": 0,
     "gc": 0,
     "cv": 0,
-    "ca": 0,
+    "ca": 1,
     "pp": 0,
     "gs": 0,
-    "fc": 1,
+    "fc": 2,
     "i": 0,
-    "ds": 1,
+    "ds": 2,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 6.2,
-    "preco_num": 11.65,
-    "variacao_num": -0.11,
-    "media_num": 6.13,
-    "jogos_num": 3,
+    "pontos_num": 4.9,
+    "preco_num": 11.15,
+    "variacao_num": -0.5,
+    "media_num": 5.82,
+    "jogos_num": 4,
     "posicao_abrev": "zag",
     "posicao": "Zagueiro"
   }

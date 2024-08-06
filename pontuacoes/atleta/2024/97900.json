@@ -6,7 +6,6 @@
   "clube_id": 285,
   "posicao": "Zagueiro",
   "rodadas": [
-    10,
     11,
     12,
     13,
@@ -15,10 +14,10 @@
     16,
     17,
     18,
-    20
+    20,
+    21
   ],
   "pontos": [
-    0,
     6.2,
     4.1,
     1.7,
@@ -27,10 +26,10 @@
     0,
     0,
     0,
+    0,
     0
   ],
   "precos": [
-    4.57,
     5.64,
     5.45,
     5.13,
@@ -39,10 +38,10 @@
     5.13,
     5.13,
     5.13,
-    5.13
+    5.13,
+    4.73
   ],
   "variacoes": [
-    0,
     1.07,
     -0.19,
     -0.32,
@@ -51,10 +50,10 @@
     0,
     0,
     0,
-    0
+    0,
+    -0.4
   ],
   "medias": [
-    2.48,
     2.95,
     3.08,
     2.94,
@@ -63,22 +62,10 @@
     2.94,
     2.94,
     2.94,
-    2.94
+    2.94,
+    2.67
   ],
   "partidas": [
-    {
-      "rodada_id": 10,
-      "clube_casa": "Internacional",
-      "clube_casa_id": 285,
-      "clube_visitante": "Corinthians",
-      "clube_casa_abrev": "INT",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2016/05/03/inter65.png",
-      "clube_visitante_id": 264,
-      "clube_visitante_abrev": "COR",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/09/30/Corinthians_65.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 11,
       "clube_casa": "Grêmio",
@@ -195,12 +182,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2016/05/03/inter65.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 21,
+      "clube_casa": "Internacional",
+      "clube_casa_id": 285,
+      "clube_visitante": "Palmeiras",
+      "clube_casa_abrev": "INT",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2016/05/03/inter65.png",
+      "clube_visitante_id": 275,
+      "clube_visitante_abrev": "PAL",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/palmeiras_60x60.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/03/01/photo_220x220_cgStWK5.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2016/05/03/inter65.png",
   "scouts": {
-    "rodada_id": 20,
+    "rodada_id": 21,
     "g": 0,
     "a": 0,
     "sg": 4,
@@ -223,10 +223,10 @@
     "ps": 0,
     "v": 0,
     "pontos_num": 0,
-    "preco_num": 5.13,
-    "variacao_num": 0,
-    "media_num": 2.94,
-    "jogos_num": 10,
+    "preco_num": 4.73,
+    "variacao_num": -0.4,
+    "media_num": 2.67,
+    "jogos_num": 11,
     "posicao_abrev": "zag",
     "posicao": "Zagueiro"
   }
