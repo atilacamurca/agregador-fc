@@ -6,8 +6,6 @@
   "clube_id": 262,
   "posicao": "Meia",
   "rodadas": [
-    11,
-    12,
     13,
     14,
     15,
@@ -15,11 +13,10 @@
     17,
     18,
     20,
-    21
+    21,
+    23
   ],
   "pontos": [
-    0,
-    0,
     0,
     0.8,
     3.7,
@@ -27,11 +24,10 @@
     0,
     6.8,
     1.4,
+    0,
     0
   ],
   "precos": [
-    3.69,
-    3.69,
     3.69,
     3.4,
     3.88,
@@ -39,11 +35,10 @@
     4.12,
     4.74,
     4.01,
-    4.01
+    4.01,
+    4.21
   ],
   "variacoes": [
-    0,
-    0,
     0,
     -0.29,
     0.48,
@@ -51,11 +46,10 @@
     0,
     0.62,
     -0.73,
+    0,
     0
   ],
   "medias": [
-    0.88,
-    0.88,
     0.88,
     0.87,
     1.27,
@@ -63,35 +57,10 @@
     1.64,
     2.21,
     2.13,
-    2.13
+    2.13,
+    2.21
   ],
   "partidas": [
-    {
-      "rodada_id": 11,
-      "clube_casa": "Fluminense",
-      "clube_casa_id": 266,
-      "clube_visitante": "Flamengo",
-      "clube_casa_abrev": "FLU",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/fluminense_60x60.png",
-      "clube_visitante_id": 262,
-      "clube_visitante_abrev": "FLA",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2018/04/09/Flamengo-65.png",
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 1
-    },
-    {
-      "rodada_id": 12,
-      "clube_casa": "Juventude",
-      "clube_casa_id": 286,
-      "clube_visitante": "Flamengo",
-      "clube_casa_abrev": "JUV",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2021/04/29/juventude65.png",
-      "clube_visitante_id": 262,
-      "clube_visitante_abrev": "FLA",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2018/04/09/Flamengo-65.png",
-      "placar_oficial_mandante": 2,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 13,
       "clube_casa": "Flamengo",
@@ -195,16 +164,29 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2018/04/09/Flamengo-65.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 23,
+      "clube_casa": "Botafogo",
+      "clube_casa_id": 263,
+      "clube_visitante": "Flamengo",
+      "clube_casa_abrev": "BOT",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-65.png",
+      "clube_visitante_id": 262,
+      "clube_visitante_abrev": "FLA",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2018/04/09/Flamengo-65.png",
+      "placar_oficial_mandante": 4,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/02/26/photo_220x220_JP7R0QW.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2018/04/09/Flamengo-65.png",
   "scouts": {
-    "rodada_id": 21,
+    "rodada_id": 23,
     "g": 0,
     "a": 0,
     "sg": 0,
-    "fs": 6,
+    "fs": 8,
     "ff": 1,
     "fd": 1,
     "ft": 1,
@@ -212,21 +194,21 @@
     "dp": 0,
     "gc": 0,
     "cv": 0,
-    "ca": 2,
+    "ca": 3,
     "pp": 0,
     "gs": 0,
-    "fc": 13,
+    "fc": 15,
     "i": 0,
-    "ds": 16,
+    "ds": 19,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
     "pontos_num": 0,
-    "preco_num": 4.01,
+    "preco_num": 4.21,
     "variacao_num": 0,
-    "media_num": 2.13,
-    "jogos_num": 10,
+    "media_num": 2.21,
+    "jogos_num": 11,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }

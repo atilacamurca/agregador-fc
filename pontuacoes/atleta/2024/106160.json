@@ -6,8 +6,6 @@
   "clube_id": 280,
   "posicao": "Goleiro",
   "rodadas": [
-    11,
-    12,
     13,
     14,
     15,
@@ -15,11 +13,10 @@
     17,
     18,
     20,
-    21
+    21,
+    23
   ],
   "pontos": [
-    0,
-    1,
     0,
     0,
     0,
@@ -27,11 +24,10 @@
     0,
     11,
     1,
-    -1
+    -1,
+    0
   ],
   "precos": [
-    3.08,
-    3.01,
     3.01,
     3.01,
     3.01,
@@ -39,11 +35,10 @@
     3.01,
     5.27,
     4.01,
-    3.45
+    3.45,
+    3.75
   ],
   "variacoes": [
-    0,
-    -0.07,
     0,
     0,
     0,
@@ -51,11 +46,10 @@
     0,
     2.26,
     -1.26,
-    -0.56
+    -0.56,
+    0
   ],
   "medias": [
-    1.5,
-    1.33,
     1.33,
     1.33,
     1.33,
@@ -63,35 +57,10 @@
     1.33,
     3.75,
     3.2,
-    2.5
+    2.5,
+    2.43
   ],
   "partidas": [
-    {
-      "rodada_id": 11,
-      "clube_casa": "Bragantino",
-      "clube_casa_id": 280,
-      "clube_visitante": "Vitória",
-      "clube_casa_abrev": "BRA",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2020/01/01/65.png",
-      "clube_visitante_id": 287,
-      "clube_visitante_abrev": "VIT",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2024/04/09/escudo-vitoria-65x65-69284.png",
-      "placar_oficial_mandante": 2,
-      "placar_oficial_visitante": 1
-    },
-    {
-      "rodada_id": 12,
-      "clube_casa": "Botafogo",
-      "clube_casa_id": 263,
-      "clube_visitante": "Bragantino",
-      "clube_casa_abrev": "BOT",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-65.png",
-      "clube_visitante_id": 280,
-      "clube_visitante_abrev": "BRA",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2020/01/01/65.png",
-      "placar_oficial_mandante": 2,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 13,
       "clube_casa": "Cuiabá",
@@ -195,12 +164,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2020/01/01/65.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 23,
+      "clube_casa": "Bragantino",
+      "clube_casa_id": 280,
+      "clube_visitante": "Fortaleza",
+      "clube_casa_abrev": "BRA",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2020/01/01/65.png",
+      "clube_visitante_id": 356,
+      "clube_visitante_abrev": "FOR",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/09/19/65_0000_Fortaleza-2021.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/01/03/photo_220x220_wvc5kfv.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2020/01/01/65.png",
   "scouts": {
-    "rodada_id": 21,
+    "rodada_id": 23,
     "g": 0,
     "a": 0,
     "sg": 1,
@@ -208,13 +190,13 @@
     "ff": 0,
     "fd": 0,
     "ft": 0,
-    "de": 17,
+    "de": 21,
     "dp": 0,
     "gc": 0,
     "cv": 0,
-    "ca": 0,
+    "ca": 1,
     "pp": 0,
-    "gs": 7,
+    "gs": 8,
     "fc": 0,
     "i": 0,
     "ds": 0,
@@ -222,11 +204,11 @@
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": -1,
-    "preco_num": 3.45,
-    "variacao_num": -0.56,
-    "media_num": 2.5,
-    "jogos_num": 6,
+    "pontos_num": 0,
+    "preco_num": 3.75,
+    "variacao_num": 0,
+    "media_num": 2.43,
+    "jogos_num": 7,
     "posicao_abrev": "gol",
     "posicao": "Goleiro"
   }

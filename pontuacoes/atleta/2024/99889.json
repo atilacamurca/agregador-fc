@@ -6,8 +6,6 @@
   "clube_id": 276,
   "posicao": "Zagueiro",
   "rodadas": [
-    11,
-    12,
     13,
     14,
     15,
@@ -15,11 +13,10 @@
     17,
     18,
     20,
-    21
+    21,
+    23
   ],
   "pontos": [
-    -3.1,
-    0,
     0.9,
     2.4,
     5,
@@ -27,11 +24,10 @@
     0,
     3.4,
     -0.3,
-    6.2
+    6.2,
+    0
   ],
   "precos": [
-    6.85,
-    6.87,
     6.82,
     6.86,
     7.23,
@@ -39,11 +35,10 @@
     6.51,
     6.86,
     6.04,
-    6.95
+    6.95,
+    5.96
   ],
   "variacoes": [
-    -1.23,
-    0.02,
     -0.05,
     0.04,
     0.37,
@@ -51,11 +46,10 @@
     0,
     0.35,
     -0.25,
-    0.91
+    0.91,
+    -0.99
   ],
   "medias": [
-    4.75,
-    4.16,
     3.8,
     3.66,
     3.78,
@@ -63,35 +57,10 @@
     3.49,
     3.48,
     2.99,
-    3.19
+    3.19,
+    3
   ],
   "partidas": [
-    {
-      "rodada_id": 11,
-      "clube_casa": "Vasco",
-      "clube_casa_id": 267,
-      "clube_visitante": "São Paulo",
-      "clube_casa_abrev": "VAS",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2021/09/04/ESCUDO-VASCO-RGB_65px.png",
-      "clube_visitante_id": 276,
-      "clube_visitante_abrev": "SAO",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/sao_paulo_60x60.png",
-      "placar_oficial_mandante": 4,
-      "placar_oficial_visitante": 1
-    },
-    {
-      "rodada_id": 12,
-      "clube_casa": "São Paulo",
-      "clube_casa_id": 276,
-      "clube_visitante": "Criciúma",
-      "clube_casa_abrev": "SAO",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/sao_paulo_60x60.png",
-      "clube_visitante_id": 288,
-      "clube_visitante_abrev": "CRI",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2024/03/28/criciuma-65.png",
-      "placar_oficial_mandante": 2,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 13,
       "clube_casa": "São Paulo",
@@ -195,12 +164,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2018/04/09/Flamengo-65.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 23,
+      "clube_casa": "Palmeiras",
+      "clube_casa_id": 275,
+      "clube_visitante": "São Paulo",
+      "clube_casa_abrev": "PAL",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/palmeiras_60x60.png",
+      "clube_visitante_id": 276,
+      "clube_visitante_abrev": "SAO",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/sao_paulo_60x60.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/03/01/photo_220x220_Oa1eUuU.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2014/04/14/sao_paulo_60x60.png",
   "scouts": {
-    "rodada_id": 21,
+    "rodada_id": 23,
     "g": 0,
     "a": 1,
     "sg": 7,
@@ -222,11 +204,11 @@
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 6.2,
-    "preco_num": 6.95,
-    "variacao_num": 0.91,
-    "media_num": 3.19,
-    "jogos_num": 16,
+    "pontos_num": 0,
+    "preco_num": 5.96,
+    "variacao_num": -0.99,
+    "media_num": 3,
+    "jogos_num": 17,
     "posicao_abrev": "zag",
     "posicao": "Zagueiro"
   }

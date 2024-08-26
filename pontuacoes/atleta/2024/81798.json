@@ -6,8 +6,6 @@
   "clube_id": 267,
   "posicao": "Atacante",
   "rodadas": [
-    11,
-    12,
     13,
     14,
     15,
@@ -15,14 +13,14 @@
     17,
     18,
     20,
-    21
+    21,
+    23
   ],
   "pontos": [
-    0.9,
-    0,
     0,
     0,
     2.4,
+    0,
     0,
     0,
     0,
@@ -32,18 +30,15 @@
   "precos": [
     4.26,
     4.26,
-    4.26,
-    4.26,
     4.43,
     4.43,
     4.43,
     4.43,
     4.43,
-    4.43
+    4.43,
+    4.06
   ],
   "variacoes": [
-    -0.18,
-    0,
     0,
     0,
     0.17,
@@ -51,47 +46,21 @@
     0,
     0,
     0,
-    0
+    0,
+    -0.37
   ],
   "medias": [
     1.69,
     1.69,
-    1.69,
-    1.69,
     1.75,
     1.75,
     1.75,
     1.75,
     1.75,
-    1.75
+    1.75,
+    1.66
   ],
   "partidas": [
-    {
-      "rodada_id": 11,
-      "clube_casa": "Vasco",
-      "clube_casa_id": 267,
-      "clube_visitante": "São Paulo",
-      "clube_casa_abrev": "VAS",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2021/09/04/ESCUDO-VASCO-RGB_65px.png",
-      "clube_visitante_id": 276,
-      "clube_visitante_abrev": "SAO",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/sao_paulo_60x60.png",
-      "placar_oficial_mandante": 4,
-      "placar_oficial_visitante": 1
-    },
-    {
-      "rodada_id": 12,
-      "clube_casa": "Bahia",
-      "clube_casa_id": 265,
-      "clube_visitante": "Vasco",
-      "clube_casa_abrev": "BAH",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/bahia_60x60.png",
-      "clube_visitante_id": 267,
-      "clube_visitante_abrev": "VAS",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/09/04/ESCUDO-VASCO-RGB_65px.png",
-      "placar_oficial_mandante": 2,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 13,
       "clube_casa": "Vasco",
@@ -195,12 +164,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2020/01/01/65.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 23,
+      "clube_casa": "Criciúma",
+      "clube_casa_id": 288,
+      "clube_visitante": "Vasco",
+      "clube_casa_abrev": "CRI",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2024/03/28/criciuma-65.png",
+      "clube_visitante_id": 267,
+      "clube_visitante_abrev": "VAS",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/09/04/ESCUDO-VASCO-RGB_65px.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/03/04/photo_220x220_8UqKNri.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2021/09/04/ESCUDO-VASCO-RGB_65px.png",
   "scouts": {
-    "rodada_id": 21,
+    "rodada_id": 23,
     "g": 0,
     "a": 1,
     "sg": 0,
@@ -212,7 +194,7 @@
     "dp": 0,
     "gc": 0,
     "cv": 0,
-    "ca": 2,
+    "ca": 3,
     "pp": 0,
     "gs": 0,
     "fc": 9,
@@ -223,9 +205,9 @@
     "ps": 0,
     "v": 0,
     "pontos_num": 0,
-    "preco_num": 4.43,
-    "variacao_num": 0,
-    "media_num": 1.75,
+    "preco_num": 4.06,
+    "variacao_num": -0.37,
+    "media_num": 1.66,
     "jogos_num": 11,
     "posicao_abrev": "ata",
     "posicao": "Atacante"

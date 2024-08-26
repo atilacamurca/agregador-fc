@@ -6,8 +6,6 @@
   "clube_id": 276,
   "posicao": "Meia",
   "rodadas": [
-    11,
-    12,
     13,
     14,
     15,
@@ -15,11 +13,10 @@
     17,
     18,
     20,
-    21
+    21,
+    23
   ],
   "pontos": [
-    0.6,
-    0,
     1.2,
     0,
     0,
@@ -27,11 +24,10 @@
     0,
     0,
     0,
-    0.5
+    0.5,
+    0
   ],
   "precos": [
-    4.29,
-    4.05,
     4.16,
     4.16,
     4.16,
@@ -39,11 +35,10 @@
     4.16,
     4.16,
     4.2,
-    3.93
+    3.93,
+    3.94
   ],
   "variacoes": [
-    -0.75,
-    -0.24,
     0.11,
     0,
     0,
@@ -51,11 +46,10 @@
     0,
     0,
     0,
-    -0.27
+    -0.27,
+    0.01
   ],
   "medias": [
-    1.86,
-    1.67,
     1.63,
     1.63,
     1.63,
@@ -63,35 +57,10 @@
     1.63,
     1.63,
     1.64,
-    1.55
+    1.55,
+    1.53
   ],
   "partidas": [
-    {
-      "rodada_id": 11,
-      "clube_casa": "Vasco",
-      "clube_casa_id": 267,
-      "clube_visitante": "São Paulo",
-      "clube_casa_abrev": "VAS",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2021/09/04/ESCUDO-VASCO-RGB_65px.png",
-      "clube_visitante_id": 276,
-      "clube_visitante_abrev": "SAO",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/sao_paulo_60x60.png",
-      "placar_oficial_mandante": 4,
-      "placar_oficial_visitante": 1
-    },
-    {
-      "rodada_id": 12,
-      "clube_casa": "São Paulo",
-      "clube_casa_id": 276,
-      "clube_visitante": "Criciúma",
-      "clube_casa_abrev": "SAO",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/sao_paulo_60x60.png",
-      "clube_visitante_id": 288,
-      "clube_visitante_abrev": "CRI",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2024/03/28/criciuma-65.png",
-      "placar_oficial_mandante": 2,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 13,
       "clube_casa": "São Paulo",
@@ -195,16 +164,29 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2018/04/09/Flamengo-65.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 23,
+      "clube_casa": "Palmeiras",
+      "clube_casa_id": 275,
+      "clube_visitante": "São Paulo",
+      "clube_casa_abrev": "PAL",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/palmeiras_60x60.png",
+      "clube_visitante_id": 276,
+      "clube_visitante_abrev": "SAO",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/sao_paulo_60x60.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/03/01/photo_220x220_498ez5E.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2014/04/14/sao_paulo_60x60.png",
   "scouts": {
-    "rodada_id": 21,
+    "rodada_id": 23,
     "g": 0,
     "a": 1,
     "sg": 0,
-    "fs": 9,
+    "fs": 10,
     "ff": 4,
     "fd": 3,
     "ft": 0,
@@ -217,16 +199,16 @@
     "gs": 0,
     "fc": 9,
     "i": 0,
-    "ds": 8,
+    "ds": 10,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 0.5,
-    "preco_num": 3.93,
-    "variacao_num": -0.27,
-    "media_num": 1.55,
-    "jogos_num": 13,
+    "pontos_num": 0,
+    "preco_num": 3.94,
+    "variacao_num": 0.01,
+    "media_num": 1.53,
+    "jogos_num": 15,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }

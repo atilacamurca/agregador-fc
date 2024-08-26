@@ -10,35 +10,40 @@
     17,
     18,
     20,
-    21
+    21,
+    23
   ],
   "pontos": [
     0,
     0.3,
     3.1,
     6.5,
-    11.3
+    11.3,
+    0
   ],
   "precos": [
     4,
     3.69,
     4.16,
     4.81,
-    6.35
+    6.35,
+    6.13
   ],
   "variacoes": [
     0,
     -0.31,
     0.47,
     1.02,
-    1.54
+    1.54,
+    1.15
   ],
   "medias": [
     0,
     0.3,
     1.7,
     2.75,
-    4.46
+    4.46,
+    4.49
   ],
   "partidas": [
     {
@@ -105,18 +110,31 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-65.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 4
+    },
+    {
+      "rodada_id": 23,
+      "clube_casa": "Botafogo",
+      "clube_casa_id": 263,
+      "clube_visitante": "Flamengo",
+      "clube_casa_abrev": "BOT",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-65.png",
+      "clube_visitante_id": 262,
+      "clube_visitante_abrev": "FLA",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2018/04/09/Flamengo-65.png",
+      "placar_oficial_mandante": 4,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/07/01/photo_220x220_Scq0Epj.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-65.png",
   "scouts": {
-    "rodada_id": 21,
-    "g": 1,
+    "rodada_id": 23,
+    "g": 2,
     "a": 0,
     "sg": 0,
     "fs": 14,
     "ff": 4,
-    "fd": 5,
+    "fd": 6,
     "ft": 0,
     "de": 0,
     "dp": 0,
@@ -126,17 +144,17 @@
     "pp": 0,
     "gs": 0,
     "fc": 10,
-    "i": 3,
+    "i": 4,
     "ds": 2,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 11.3,
-    "preco_num": 6.35,
-    "variacao_num": 1.54,
-    "media_num": 4.46,
-    "jogos_num": 5,
+    "pontos_num": 0,
+    "preco_num": 6.13,
+    "variacao_num": 1.15,
+    "media_num": 4.49,
+    "jogos_num": 7,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }

@@ -6,8 +6,6 @@
   "clube_id": 293,
   "posicao": "Atacante",
   "rodadas": [
-    11,
-    12,
     13,
     14,
     15,
@@ -15,11 +13,10 @@
     17,
     18,
     20,
-    21
+    21,
+    23
   ],
   "pontos": [
-    -0.2,
-    0,
     0.5,
     0,
     9.2,
@@ -27,11 +24,10 @@
     0,
     0,
     8.5,
-    1.9
+    1.9,
+    0
   ],
   "precos": [
-    3.14,
-    3.14,
     2.9,
     2.45,
     4.23,
@@ -39,11 +35,10 @@
     5.44,
     3.9,
     5.34,
-    4.52
+    4.52,
+    4.19
   ],
   "variacoes": [
-    -0.49,
-    0,
     -0.24,
     -0.45,
     1.78,
@@ -51,11 +46,10 @@
     0,
     -1.54,
     1.44,
-    -0.82
+    -0.82,
+    -0.62
   ],
   "medias": [
-    -0.05,
-    -0.05,
     0.13,
     0.1,
     1.92,
@@ -63,35 +57,10 @@
     3.48,
     2.98,
     3.67,
-    3.47
+    3.47,
+    3.22
   ],
   "partidas": [
-    {
-      "rodada_id": 11,
-      "clube_casa": "Athlético-PR",
-      "clube_casa_id": 293,
-      "clube_visitante": "Corinthians",
-      "clube_casa_abrev": "ATL",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2019/09/09/Athletico-PR-65x65.png",
-      "clube_visitante_id": 264,
-      "clube_visitante_abrev": "COR",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/09/30/Corinthians_65.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 1
-    },
-    {
-      "rodada_id": 12,
-      "clube_casa": "Cruzeiro",
-      "clube_casa_id": 283,
-      "clube_visitante": "Athlético-PR",
-      "clube_casa_abrev": "CRU",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2021/02/13/65_cruzeiro-2021.png",
-      "clube_visitante_id": 293,
-      "clube_visitante_abrev": "ATL",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/09/09/Athletico-PR-65x65.png",
-      "placar_oficial_mandante": 2,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 13,
       "clube_casa": "Vitória",
@@ -195,18 +164,31 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/gremio_60x60.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 23,
+      "clube_casa": "Athlético-PR",
+      "clube_casa_id": 293,
+      "clube_visitante": "Juventude",
+      "clube_casa_abrev": "ATL",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2019/09/09/Athletico-PR-65x65.png",
+      "clube_visitante_id": 286,
+      "clube_visitante_abrev": "JUV",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/04/29/juventude65.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/03/01/photo_220x220_EU2wJae.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2019/09/09/Athletico-PR-65x65.png",
   "scouts": {
-    "rodada_id": 21,
+    "rodada_id": 23,
     "g": 3,
     "a": 0,
     "sg": 0,
-    "fs": 3,
-    "ff": 2,
-    "fd": 3,
+    "fs": 7,
+    "ff": 4,
+    "fd": 4,
     "ft": 0,
     "de": 0,
     "dp": 0,
@@ -215,18 +197,18 @@
     "ca": 1,
     "pp": 0,
     "gs": 0,
-    "fc": 6,
+    "fc": 8,
     "i": 2,
     "ds": 3,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 1.9,
-    "preco_num": 4.52,
-    "variacao_num": -0.82,
-    "media_num": 3.47,
-    "jogos_num": 9,
+    "pontos_num": 0,
+    "preco_num": 4.19,
+    "variacao_num": -0.62,
+    "media_num": 3.22,
+    "jogos_num": 11,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }

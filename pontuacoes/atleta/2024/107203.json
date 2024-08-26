@@ -6,8 +6,6 @@
   "clube_id": 1371,
   "posicao": "Meia",
   "rodadas": [
-    11,
-    12,
     13,
     14,
     15,
@@ -15,7 +13,8 @@
     17,
     18,
     20,
-    21
+    21,
+    23
   ],
   "pontos": [
     0,
@@ -23,11 +22,10 @@
     0,
     0,
     0,
-    0,
-    0,
     4.4,
     1.7,
-    3.3
+    3.3,
+    0
   ],
   "precos": [
     2.25,
@@ -35,15 +33,12 @@
     2.25,
     2.25,
     2.25,
-    2.25,
-    2.25,
     3.03,
     2.71,
-    3.02
+    3.02,
+    2.98
   ],
   "variacoes": [
-    -0.64,
-    0,
     0,
     0,
     0,
@@ -51,7 +46,8 @@
     0,
     0.78,
     -0.32,
-    0.31
+    0.31,
+    -0.4
   ],
   "medias": [
     1.45,
@@ -59,39 +55,12 @@
     1.45,
     1.45,
     1.45,
-    1.45,
-    1.45,
     1.87,
     1.85,
-    2.01
+    2.01,
+    2.25
   ],
   "partidas": [
-    {
-      "rodada_id": 11,
-      "clube_casa": "Cuiabá",
-      "clube_casa_id": 1371,
-      "clube_visitante": "Atlético-GO",
-      "clube_casa_abrev": "CUI",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/16/cuiaba65.png",
-      "clube_visitante_id": 373,
-      "clube_visitante_abrev": "ATL",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2020/07/02/atletico-go-2020-65.png",
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 0
-    },
-    {
-      "rodada_id": 12,
-      "clube_casa": "Corinthians",
-      "clube_casa_id": 264,
-      "clube_visitante": "Cuiabá",
-      "clube_casa_abrev": "COR",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2019/09/30/Corinthians_65.png",
-      "clube_visitante_id": 1371,
-      "clube_visitante_abrev": "CUI",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/16/cuiaba65.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 13,
       "clube_casa": "Cuiabá",
@@ -195,17 +164,30 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/16/cuiaba65.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 23,
+      "clube_casa": "Atlético-MG",
+      "clube_casa_id": 282,
+      "clube_visitante": "Cuiabá",
+      "clube_casa_abrev": "ATL",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2017/11/23/Atletico-Mineiro-escudo65px.png",
+      "clube_visitante_id": 1371,
+      "clube_visitante_abrev": "CUI",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/16/cuiaba65.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/02/29/photo_220x220_tZvTg6Z.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2014/04/16/cuiaba65.png",
   "scouts": {
-    "rodada_id": 21,
+    "rodada_id": 23,
     "g": 0,
     "a": 0,
     "sg": 0,
-    "fs": 3,
-    "ff": 7,
+    "fs": 5,
+    "ff": 8,
     "fd": 4,
     "ft": 1,
     "de": 0,
@@ -217,16 +199,16 @@
     "gs": 0,
     "fc": 2,
     "i": 0,
-    "ds": 4,
+    "ds": 8,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 3.3,
-    "preco_num": 3.02,
-    "variacao_num": 0.31,
-    "media_num": 2.01,
-    "jogos_num": 9,
+    "pontos_num": 0,
+    "preco_num": 2.98,
+    "variacao_num": -0.4,
+    "media_num": 2.25,
+    "jogos_num": 11,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }

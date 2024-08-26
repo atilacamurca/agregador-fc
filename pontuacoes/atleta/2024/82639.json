@@ -6,8 +6,6 @@
   "clube_id": 288,
   "posicao": "Lateral",
   "rodadas": [
-    11,
-    12,
     13,
     14,
     15,
@@ -15,11 +13,10 @@
     17,
     18,
     20,
-    21
+    21,
+    23
   ],
   "pontos": [
-    1.7,
-    2.7,
     4,
     6.3,
     1.2,
@@ -27,11 +24,10 @@
     2,
     0.4,
     3.9,
-    0.5
+    0.5,
+    0
   ],
   "precos": [
-    5.35,
-    5.42,
     5.68,
     6.11,
     5.38,
@@ -39,11 +35,10 @@
     5.38,
     5.1,
     5.54,
-    5.03
+    5.03,
+    5.14
   ],
   "variacoes": [
-    -0.86,
-    0.07,
     0.26,
     0.43,
     -0.73,
@@ -51,11 +46,10 @@
     -0.14,
     -0.28,
     0.44,
-    -0.51
+    -0.51,
+    0
   ],
   "medias": [
-    3.87,
-    3.72,
     3.75,
     4,
     3.75,
@@ -63,35 +57,10 @@
     3.51,
     3.29,
     3.33,
-    3.15
+    3.15,
+    3.08
   ],
   "partidas": [
-    {
-      "rodada_id": 11,
-      "clube_casa": "Criciúma",
-      "clube_casa_id": 288,
-      "clube_visitante": "Botafogo",
-      "clube_casa_abrev": "CRI",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2024/03/28/criciuma-65.png",
-      "clube_visitante_id": 263,
-      "clube_visitante_abrev": "BOT",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-65.png",
-      "placar_oficial_mandante": 2,
-      "placar_oficial_visitante": 1
-    },
-    {
-      "rodada_id": 12,
-      "clube_casa": "São Paulo",
-      "clube_casa_id": 276,
-      "clube_visitante": "Criciúma",
-      "clube_casa_abrev": "SAO",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/sao_paulo_60x60.png",
-      "clube_visitante_id": 288,
-      "clube_visitante_abrev": "CRI",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2024/03/28/criciuma-65.png",
-      "placar_oficial_mandante": 2,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 13,
       "clube_casa": "Criciúma",
@@ -195,38 +164,51 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2017/11/23/Atletico-Mineiro-escudo65px.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 23,
+      "clube_casa": "Criciúma",
+      "clube_casa_id": 288,
+      "clube_visitante": "Vasco",
+      "clube_casa_abrev": "CRI",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2024/03/28/criciuma-65.png",
+      "clube_visitante_id": 267,
+      "clube_visitante_abrev": "VAS",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/09/04/ESCUDO-VASCO-RGB_65px.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/01/16/photo_220x220_g9yt731.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2024/03/28/criciuma-65.png",
   "scouts": {
-    "rodada_id": 21,
+    "rodada_id": 23,
     "g": 1,
     "a": 1,
     "sg": 2,
-    "fs": 6,
-    "ff": 5,
+    "fs": 7,
+    "ff": 7,
     "fd": 4,
     "ft": 0,
     "de": 0,
     "dp": 0,
     "gc": 0,
     "cv": 0,
-    "ca": 2,
+    "ca": 3,
     "pp": 0,
     "gs": 0,
-    "fc": 17,
+    "fc": 18,
     "i": 0,
-    "ds": 19,
+    "ds": 20,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 0.5,
-    "preco_num": 5.03,
-    "variacao_num": -0.51,
-    "media_num": 3.15,
-    "jogos_num": 16,
+    "pontos_num": 0,
+    "preco_num": 5.14,
+    "variacao_num": 0,
+    "media_num": 3.08,
+    "jogos_num": 17,
     "posicao_abrev": "lat",
     "posicao": "Lateral"
   }

@@ -6,8 +6,6 @@
   "clube_id": 287,
   "posicao": "Lateral",
   "rodadas": [
-    11,
-    12,
     13,
     14,
     15,
@@ -15,11 +13,10 @@
     17,
     18,
     20,
-    21
+    21,
+    23
   ],
   "pontos": [
-    0,
-    7.1,
     0,
     1.1,
     0,
@@ -27,11 +24,10 @@
     4.7,
     0,
     0,
-    9.5
+    9.5,
+    0
   ],
   "precos": [
-    2.65,
-    3.97,
     3.97,
     3.21,
     3.21,
@@ -39,11 +35,10 @@
     3.68,
     3.68,
     3.04,
+    4.6,
     4.6
   ],
   "variacoes": [
-    0,
-    1.32,
     0,
     -0.76,
     0,
@@ -51,11 +46,10 @@
     0.76,
     0,
     0,
-    1.56
+    1.56,
+    0
   ],
   "medias": [
-    1.12,
-    2.32,
     2.32,
     2.12,
     2.12,
@@ -63,35 +57,10 @@
     2.16,
     2.16,
     1.92,
+    2.68,
     2.68
   ],
   "partidas": [
-    {
-      "rodada_id": 11,
-      "clube_casa": "Bragantino",
-      "clube_casa_id": 280,
-      "clube_visitante": "Vitória",
-      "clube_casa_abrev": "BRA",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2020/01/01/65.png",
-      "clube_visitante_id": 287,
-      "clube_visitante_abrev": "VIT",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2024/04/09/escudo-vitoria-65x65-69284.png",
-      "placar_oficial_mandante": 2,
-      "placar_oficial_visitante": 1
-    },
-    {
-      "rodada_id": 12,
-      "clube_casa": "Fluminense",
-      "clube_casa_id": 266,
-      "clube_visitante": "Vitória",
-      "clube_casa_abrev": "FLU",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/fluminense_60x60.png",
-      "clube_visitante_id": 287,
-      "clube_visitante_abrev": "VIT",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2024/04/09/escudo-vitoria-65x65-69284.png",
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 13,
       "clube_casa": "Vitória",
@@ -195,12 +164,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/16/cuiaba65.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 23,
+      "clube_casa": "Vitória",
+      "clube_casa_id": 287,
+      "clube_visitante": "Cruzeiro",
+      "clube_casa_abrev": "VIT",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2024/04/09/escudo-vitoria-65x65-69284.png",
+      "clube_visitante_id": 283,
+      "clube_visitante_abrev": "CRU",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/02/13/65_cruzeiro-2021.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/04/12/photo_220x220_lh9cyLQ.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2024/04/09/escudo-vitoria-65x65-69284.png",
   "scouts": {
-    "rodada_id": 21,
+    "rodada_id": 23,
     "g": 0,
     "a": 1,
     "sg": 2,
@@ -222,9 +204,9 @@
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 9.5,
+    "pontos_num": 0,
     "preco_num": 4.6,
-    "variacao_num": 1.56,
+    "variacao_num": 0,
     "media_num": 2.68,
     "jogos_num": 10,
     "posicao_abrev": "lat",

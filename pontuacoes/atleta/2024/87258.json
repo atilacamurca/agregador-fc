@@ -6,8 +6,6 @@
   "clube_id": 284,
   "posicao": "Atacante",
   "rodadas": [
-    11,
-    12,
     13,
     14,
     15,
@@ -15,11 +13,10 @@
     17,
     18,
     20,
-    21
+    21,
+    23
   ],
   "pontos": [
-    0,
-    0,
     0,
     0,
     0,
@@ -27,6 +24,7 @@
     3.5,
     11.4,
     10.9,
+    0,
     0
   ],
   "precos": [
@@ -34,16 +32,13 @@
     9.1,
     9.1,
     9.1,
-    9.1,
-    9.1,
     9.2,
     10.71,
     11.08,
-    11.08
+    11.08,
+    9.19
   ],
   "variacoes": [
-    0,
-    0,
     0,
     0,
     0,
@@ -51,11 +46,10 @@
     0.1,
     1.51,
     0.64,
-    0
+    0,
+    -1.89
   ],
   "medias": [
-    4.3,
-    4.3,
     4.3,
     4.3,
     4.3,
@@ -63,35 +57,10 @@
     4.17,
     5.2,
     6.07,
-    6.07
+    6.07,
+    5.4
   ],
   "partidas": [
-    {
-      "rodada_id": 11,
-      "clube_casa": "Grêmio",
-      "clube_casa_id": 284,
-      "clube_visitante": "Internacional",
-      "clube_casa_abrev": "GRE",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/gremio_60x60.png",
-      "clube_visitante_id": 285,
-      "clube_visitante_abrev": "INT",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2016/05/03/inter65.png",
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 1
-    },
-    {
-      "rodada_id": 12,
-      "clube_casa": "Atlético-GO",
-      "clube_casa_id": 373,
-      "clube_visitante": "Grêmio",
-      "clube_casa_abrev": "ATL",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2020/07/02/atletico-go-2020-65.png",
-      "clube_visitante_id": 284,
-      "clube_visitante_abrev": "GRE",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/gremio_60x60.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 13,
       "clube_casa": "Grêmio",
@@ -195,16 +164,29 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/gremio_60x60.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 23,
+      "clube_casa": "Grêmio",
+      "clube_casa_id": 284,
+      "clube_visitante": "Bahia",
+      "clube_casa_abrev": "GRE",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/gremio_60x60.png",
+      "clube_visitante_id": 265,
+      "clube_visitante_abrev": "BAH",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/bahia_60x60.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/03/11/photo_220x220_tv5qGBE.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2014/04/14/gremio_60x60.png",
   "scouts": {
-    "rodada_id": 21,
+    "rodada_id": 23,
     "g": 3,
     "a": 2,
     "sg": 0,
-    "fs": 14,
+    "fs": 15,
     "ff": 3,
     "fd": 4,
     "ft": 0,
@@ -212,21 +194,21 @@
     "dp": 0,
     "gc": 0,
     "cv": 0,
-    "ca": 0,
+    "ca": 1,
     "pp": 0,
     "gs": 0,
     "fc": 2,
-    "i": 1,
+    "i": 2,
     "ds": 6,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
     "pontos_num": 0,
-    "preco_num": 11.08,
-    "variacao_num": 0,
-    "media_num": 6.07,
-    "jogos_num": 9,
+    "preco_num": 9.19,
+    "variacao_num": -1.89,
+    "media_num": 5.4,
+    "jogos_num": 10,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }
