@@ -6,7 +6,6 @@
   "clube_id": 280,
   "posicao": "Zagueiro",
   "rodadas": [
-    13,
     14,
     15,
     16,
@@ -14,10 +13,10 @@
     18,
     20,
     21,
-    23
+    23,
+    24
   ],
   "pontos": [
-    0,
     0,
     0,
     0,
@@ -25,21 +24,21 @@
     6.4,
     0,
     0,
-    0
+    0,
+    1.2
   ],
   "precos": [
     3.5,
-    3.5,
     3.3,
     3.3,
     3.3,
     4.35,
     4.35,
     4.35,
-    4.31
+    4.31,
+    3.78
   ],
   "variacoes": [
-    0,
     0,
     -0.2,
     0,
@@ -47,33 +46,21 @@
     1.05,
     0,
     0,
-    -0.04
+    -0.04,
+    -0.53
   ],
   "medias": [
     1.72,
-    1.72,
     1.53,
     1.53,
     1.53,
     2.02,
     2.02,
     2.02,
-    2.32
+    2.32,
+    2.23
   ],
   "partidas": [
-    {
-      "rodada_id": 13,
-      "clube_casa": "Cuiabá",
-      "clube_casa_id": 1371,
-      "clube_visitante": "Bragantino",
-      "clube_casa_abrev": "CUI",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/16/cuiaba65.png",
-      "clube_visitante_id": 280,
-      "clube_visitante_abrev": "BRA",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2020/01/01/65.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 14,
       "clube_casa": "Bragantino",
@@ -177,12 +164,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/09/19/65_0000_Fortaleza-2021.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 24,
+      "clube_casa": "Flamengo",
+      "clube_casa_id": 262,
+      "clube_visitante": "Bragantino",
+      "clube_casa_abrev": "FLA",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2018/04/09/Flamengo-65.png",
+      "clube_visitante_id": 280,
+      "clube_visitante_abrev": "BRA",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2020/01/01/65.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/01/03/photo_220x220_wPSGjby.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2020/01/01/65.png",
   "scouts": {
-    "rodada_id": 23,
+    "rodada_id": 24,
     "g": 0,
     "a": 0,
     "sg": 2,
@@ -199,16 +199,16 @@
     "gs": 0,
     "fc": 2,
     "i": 0,
-    "ds": 12,
+    "ds": 13,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 0,
-    "preco_num": 4.31,
-    "variacao_num": -0.04,
-    "media_num": 2.32,
-    "jogos_num": 11,
+    "pontos_num": 1.2,
+    "preco_num": 3.78,
+    "variacao_num": -0.53,
+    "media_num": 2.23,
+    "jogos_num": 12,
     "posicao_abrev": "zag",
     "posicao": "Zagueiro"
   }

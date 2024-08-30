@@ -6,7 +6,6 @@
   "clube_id": 286,
   "posicao": "Atacante",
   "rodadas": [
-    13,
     14,
     15,
     16,
@@ -14,7 +13,8 @@
     18,
     20,
     21,
-    23
+    23,
+    24
   ],
   "pontos": [
     0,
@@ -22,8 +22,8 @@
     0,
     0,
     0,
-    0,
     0.8,
+    0,
     0,
     0
   ],
@@ -33,9 +33,9 @@
     3.83,
     3.83,
     3.83,
-    3.83,
     3.59,
     3.59,
+    5.62,
     5.62
   ],
   "variacoes": [
@@ -44,10 +44,10 @@
     0,
     0,
     0,
-    0,
     -0.24,
     0,
-    -0.51
+    -0.51,
+    0
   ],
   "medias": [
     2.5,
@@ -55,25 +55,12 @@
     2.5,
     2.5,
     2.5,
-    2.5,
     2.31,
     2.31,
+    4.13,
     4.13
   ],
   "partidas": [
-    {
-      "rodada_id": 13,
-      "clube_casa": "Fortaleza",
-      "clube_casa_id": 356,
-      "clube_visitante": "Juventude",
-      "clube_casa_abrev": "FOR",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2021/09/19/65_0000_Fortaleza-2021.png",
-      "clube_visitante_id": 286,
-      "clube_visitante_abrev": "JUV",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/04/29/juventude65.png",
-      "placar_oficial_mandante": 2,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 14,
       "clube_casa": "Bahia",
@@ -177,12 +164,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/04/29/juventude65.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 24,
+      "clube_casa": "Atlético-GO",
+      "clube_casa_id": 373,
+      "clube_visitante": "Juventude",
+      "clube_casa_abrev": "ATL",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2020/07/02/atletico-go-2020-65.png",
+      "clube_visitante_id": 286,
+      "clube_visitante_abrev": "JUV",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/04/29/juventude65.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/04/26/photo_220x220_1GgfZEe.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2021/04/29/juventude65.png",
   "scouts": {
-    "rodada_id": 23,
+    "rodada_id": 24,
     "g": 1,
     "a": 3,
     "sg": 0,
@@ -206,7 +206,7 @@
     "v": 0,
     "pontos_num": 0,
     "preco_num": 5.62,
-    "variacao_num": -0.51,
+    "variacao_num": 0,
     "media_num": 4.13,
     "jogos_num": 11,
     "posicao_abrev": "ata",

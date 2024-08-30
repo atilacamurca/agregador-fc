@@ -6,7 +6,6 @@
   "clube_id": 356,
   "posicao": "Atacante",
   "rodadas": [
-    13,
     14,
     15,
     16,
@@ -14,10 +13,10 @@
     18,
     20,
     21,
-    23
+    23,
+    24
   ],
   "pontos": [
-    7.7,
     1.2,
     13.7,
     11.4,
@@ -25,10 +24,10 @@
     2.6,
     0.2,
     0,
-    0
+    0,
+    7.4
   ],
   "precos": [
-    9.88,
     8.8,
     10.74,
     10.79,
@@ -36,10 +35,10 @@
     9.38,
     8.84,
     8.84,
-    8.84
+    8.84,
+    9.69
   ],
   "variacoes": [
-    -0.93,
     -1.08,
     1.94,
     0.05,
@@ -47,10 +46,10 @@
     0.14,
     -0.54,
     0,
-    0
+    0,
+    0.85
   ],
   "medias": [
-    4.82,
     4.49,
     5.26,
     5.73,
@@ -58,22 +57,10 @@
     5.2,
     4.89,
     4.89,
-    4.89
+    4.89,
+    5.04
   ],
   "partidas": [
-    {
-      "rodada_id": 13,
-      "clube_casa": "Fortaleza",
-      "clube_casa_id": 356,
-      "clube_visitante": "Juventude",
-      "clube_casa_abrev": "FOR",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2021/09/19/65_0000_Fortaleza-2021.png",
-      "clube_visitante_id": 286,
-      "clube_visitante_abrev": "JUV",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/04/29/juventude65.png",
-      "placar_oficial_mandante": 2,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 14,
       "clube_casa": "Vasco",
@@ -177,16 +164,29 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/09/19/65_0000_Fortaleza-2021.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 24,
+      "clube_casa": "Fortaleza",
+      "clube_casa_id": 356,
+      "clube_visitante": "Corinthians",
+      "clube_casa_abrev": "FOR",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2021/09/19/65_0000_Fortaleza-2021.png",
+      "clube_visitante_id": 264,
+      "clube_visitante_abrev": "COR",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/09/30/Corinthians_65.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/02/28/photo_220x220_W3SXUOe.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2021/09/19/65_0000_Fortaleza-2021.png",
   "scouts": {
-    "rodada_id": 23,
+    "rodada_id": 24,
     "g": 7,
-    "a": 0,
+    "a": 1,
     "sg": 0,
-    "fs": 17,
+    "fs": 20,
     "ff": 11,
     "fd": 9,
     "ft": 0,
@@ -197,18 +197,18 @@
     "ca": 5,
     "pp": 0,
     "gs": 0,
-    "fc": 21,
+    "fc": 22,
     "i": 5,
-    "ds": 5,
+    "ds": 6,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 0,
-    "preco_num": 8.84,
-    "variacao_num": 0,
-    "media_num": 4.89,
-    "jogos_num": 16,
+    "pontos_num": 7.4,
+    "preco_num": 9.69,
+    "variacao_num": 0.85,
+    "media_num": 5.04,
+    "jogos_num": 17,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }

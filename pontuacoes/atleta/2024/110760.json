@@ -6,7 +6,6 @@
   "clube_id": 265,
   "posicao": "Atacante",
   "rodadas": [
-    13,
     14,
     15,
     16,
@@ -14,10 +13,10 @@
     18,
     20,
     21,
-    23
+    23,
+    24
   ],
   "pontos": [
-    0.5,
     2,
     2.9,
     16.3,
@@ -25,10 +24,10 @@
     -1,
     2.2,
     3.5,
+    0,
     0
   ],
   "precos": [
-    8.24,
     8.23,
     8.26,
     10.42,
@@ -36,10 +35,10 @@
     8.42,
     8.48,
     8.6,
+    8.21,
     8.21
   ],
   "variacoes": [
-    -0.91,
     -0.01,
     0.03,
     2.16,
@@ -47,10 +46,10 @@
     -2,
     0.06,
     0.12,
+    0,
     0
   ],
   "medias": [
-    4.45,
     4.26,
     4.16,
     4.97,
@@ -58,22 +57,10 @@
     4.9,
     4.73,
     4.66,
+    4.5,
     4.5
   ],
   "partidas": [
-    {
-      "rodada_id": 13,
-      "clube_casa": "São Paulo",
-      "clube_casa_id": 276,
-      "clube_visitante": "Bahia",
-      "clube_casa_abrev": "SAO",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/sao_paulo_60x60.png",
-      "clube_visitante_id": 265,
-      "clube_visitante_abrev": "BAH",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/bahia_60x60.png",
-      "placar_oficial_mandante": 3,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 14,
       "clube_casa": "Bahia",
@@ -177,12 +164,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/bahia_60x60.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 24,
+      "clube_casa": "Bahia",
+      "clube_casa_id": 265,
+      "clube_visitante": "Botafogo",
+      "clube_casa_abrev": "BAH",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/bahia_60x60.png",
+      "clube_visitante_id": 263,
+      "clube_visitante_abrev": "BOT",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-65.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/02/29/photo_220x220_549ojOA.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2014/04/14/bahia_60x60.png",
   "scouts": {
-    "rodada_id": 23,
+    "rodada_id": 24,
     "g": 4,
     "a": 4,
     "sg": 0,

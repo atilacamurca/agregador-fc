@@ -10,13 +10,15 @@
     18,
     20,
     21,
-    23
+    23,
+    24
   ],
   "pontos": [
     0,
     0,
     0,
     10.1,
+    0,
     0
   ],
   "precos": [
@@ -24,6 +26,7 @@
     7,
     7,
     10.16,
+    8.76,
     8.76
   ],
   "variacoes": [
@@ -31,13 +34,15 @@
     0,
     0,
     3.16,
-    -0.41
+    -0.41,
+    0
   ],
   "medias": [
     0,
     0,
     0,
     10.1,
+    4.77,
     4.77
   ],
   "partidas": [
@@ -105,12 +110,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2016/05/03/inter65.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 24,
+      "clube_casa": "Atlético-GO",
+      "clube_casa_id": 373,
+      "clube_visitante": "Juventude",
+      "clube_casa_abrev": "ATL",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2020/07/02/atletico-go-2020-65.png",
+      "clube_visitante_id": 286,
+      "clube_visitante_abrev": "JUV",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/04/29/juventude65.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/07/17/photo_220x220_WdH8RPs.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2020/07/02/atletico-go-2020-65.png",
   "scouts": {
-    "rodada_id": 23,
+    "rodada_id": 24,
     "g": 1,
     "a": 0,
     "sg": 0,
@@ -134,7 +152,7 @@
     "v": 0,
     "pontos_num": 0,
     "preco_num": 8.76,
-    "variacao_num": -0.41,
+    "variacao_num": 0,
     "media_num": 4.77,
     "jogos_num": 3,
     "posicao_abrev": "ata",

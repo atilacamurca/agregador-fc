@@ -6,7 +6,6 @@
   "clube_id": 293,
   "posicao": "Atacante",
   "rodadas": [
-    13,
     14,
     15,
     16,
@@ -14,10 +13,10 @@
     18,
     20,
     21,
-    23
+    23,
+    24
   ],
   "pontos": [
-    0,
     -0.3,
     6,
     3.7,
@@ -25,12 +24,13 @@
     0,
     0,
     0,
+    0,
     0
   ],
   "precos": [
-    0.9,
     0.7,
     2.16,
+    2.38,
     2.38,
     2.38,
     2.38,
@@ -39,7 +39,6 @@
     2.38
   ],
   "variacoes": [
-    -0.1,
     -0.2,
     1.46,
     0.22,
@@ -47,12 +46,13 @@
     0,
     0,
     0,
+    0,
     0
   ],
   "medias": [
-    0,
     -0.15,
     1.9,
+    2.35,
     2.35,
     2.35,
     2.35,
@@ -61,19 +61,6 @@
     2.35
   ],
   "partidas": [
-    {
-      "rodada_id": 13,
-      "clube_casa": "Vitória",
-      "clube_casa_id": 287,
-      "clube_visitante": "Athlético-PR",
-      "clube_casa_abrev": "VIT",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2024/04/09/escudo-vitoria-65x65-69284.png",
-      "clube_visitante_id": 293,
-      "clube_visitante_abrev": "ATL",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/09/09/Athletico-PR-65x65.png",
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 14,
       "clube_casa": "Athlético-PR",
@@ -177,12 +164,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/04/29/juventude65.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 24,
+      "clube_casa": "Vasco",
+      "clube_casa_id": 267,
+      "clube_visitante": "Athlético-PR",
+      "clube_casa_abrev": "VAS",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2021/09/04/ESCUDO-VASCO-RGB_65px.png",
+      "clube_visitante_id": 293,
+      "clube_visitante_abrev": "ATL",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/09/09/Athletico-PR-65x65.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/03/01/photo_220x220_8cy9qvA.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2019/09/09/Athletico-PR-65x65.png",
   "scouts": {
-    "rodada_id": 23,
+    "rodada_id": 24,
     "g": 0,
     "a": 0,
     "sg": 0,

@@ -6,7 +6,6 @@
   "clube_id": 263,
   "posicao": "Goleiro",
   "rodadas": [
-    13,
     14,
     15,
     16,
@@ -14,10 +13,10 @@
     18,
     20,
     21,
-    23
+    23,
+    24
   ],
   "pontos": [
-    0,
     5,
     6,
     10,
@@ -25,10 +24,10 @@
     5,
     -1,
     1,
-    0
+    0,
+    11
   ],
   "precos": [
-    6.19,
     6.82,
     7.05,
     7.87,
@@ -36,10 +35,10 @@
     7.54,
     6.51,
     6.66,
-    6.54
+    6.54,
+    7.85
   ],
   "variacoes": [
-    -0.66,
     0.63,
     0.23,
     0.82,
@@ -47,10 +46,10 @@
     -0.52,
     -0.63,
     0.15,
-    0.03
+    0.03,
+    1.31
   ],
   "medias": [
-    3.12,
     3.29,
     3.52,
     4.02,
@@ -58,22 +57,10 @@
     4.49,
     4.02,
     3.85,
-    3.62
+    3.62,
+    3.97
   ],
   "partidas": [
-    {
-      "rodada_id": 13,
-      "clube_casa": "Vasco",
-      "clube_casa_id": 267,
-      "clube_visitante": "Botafogo",
-      "clube_casa_abrev": "VAS",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2021/09/04/ESCUDO-VASCO-RGB_65px.png",
-      "clube_visitante_id": 263,
-      "clube_visitante_abrev": "BOT",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-65.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 14,
       "clube_casa": "Cuiabá",
@@ -177,20 +164,33 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2018/04/09/Flamengo-65.png",
       "placar_oficial_mandante": 4,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 24,
+      "clube_casa": "Bahia",
+      "clube_casa_id": 265,
+      "clube_visitante": "Botafogo",
+      "clube_casa_abrev": "BAH",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/bahia_60x60.png",
+      "clube_visitante_id": 263,
+      "clube_visitante_abrev": "BOT",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-65.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/04/20/photo_220x220_5TQNQjS.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-65.png",
   "scouts": {
-    "rodada_id": 23,
+    "rodada_id": 24,
     "g": 0,
     "a": 0,
-    "sg": 7,
+    "sg": 8,
     "fs": 3,
     "ff": 0,
     "fd": 0,
     "ft": 0,
-    "de": 58,
+    "de": 64,
     "dp": 0,
     "gc": 0,
     "cv": 0,
@@ -204,11 +204,11 @@
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 0,
-    "preco_num": 6.54,
-    "variacao_num": 0.03,
-    "media_num": 3.62,
-    "jogos_num": 20,
+    "pontos_num": 11,
+    "preco_num": 7.85,
+    "variacao_num": 1.31,
+    "media_num": 3.97,
+    "jogos_num": 21,
     "posicao_abrev": "gol",
     "posicao": "Goleiro"
   }

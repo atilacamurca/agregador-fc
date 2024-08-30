@@ -6,7 +6,6 @@
   "clube_id": 265,
   "posicao": "Meia",
   "rodadas": [
-    13,
     14,
     15,
     16,
@@ -14,10 +13,10 @@
     18,
     20,
     21,
-    23
+    23,
+    24
   ],
   "pontos": [
-    4.5,
     6.6,
     3.1,
     -0.3,
@@ -25,10 +24,10 @@
     3.8,
     1.5,
     4.3,
-    0
+    0,
+    3.3
   ],
   "precos": [
-    9.22,
     9.48,
     8.96,
     8.37,
@@ -36,10 +35,10 @@
     8.82,
     8.28,
     8.62,
-    7.91
+    7.91,
+    8.32
   ],
   "variacoes": [
-    0.09,
     0.26,
     -0.52,
     -0.59,
@@ -47,10 +46,10 @@
     0.45,
     -0.26,
     0.34,
-    -1.43
+    -1.43,
+    0.41
   ],
   "medias": [
-    4.64,
     4.79,
     4.67,
     4.34,
@@ -58,22 +57,10 @@
     4.31,
     4.02,
     4.03,
-    4.09
+    4.09,
+    4.05
   ],
   "partidas": [
-    {
-      "rodada_id": 13,
-      "clube_casa": "São Paulo",
-      "clube_casa_id": 276,
-      "clube_visitante": "Bahia",
-      "clube_casa_abrev": "SAO",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/sao_paulo_60x60.png",
-      "clube_visitante_id": 265,
-      "clube_visitante_abrev": "BAH",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/bahia_60x60.png",
-      "placar_oficial_mandante": 3,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 14,
       "clube_casa": "Bahia",
@@ -177,16 +164,29 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/bahia_60x60.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 24,
+      "clube_casa": "Bahia",
+      "clube_casa_id": 265,
+      "clube_visitante": "Botafogo",
+      "clube_casa_abrev": "BAH",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/bahia_60x60.png",
+      "clube_visitante_id": 263,
+      "clube_visitante_abrev": "BOT",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-65.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/02/15/photo_220x220_NvwmZSj.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2014/04/14/bahia_60x60.png",
   "scouts": {
-    "rodada_id": 23,
+    "rodada_id": 24,
     "g": 1,
     "a": 4,
     "sg": 0,
-    "fs": 35,
+    "fs": 38,
     "ff": 7,
     "fd": 4,
     "ft": 0,
@@ -197,18 +197,18 @@
     "ca": 1,
     "pp": 0,
     "gs": 0,
-    "fc": 16,
+    "fc": 18,
     "i": 1,
-    "ds": 30,
+    "ds": 32,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 0,
-    "preco_num": 7.91,
-    "variacao_num": -1.43,
-    "media_num": 4.09,
-    "jogos_num": 21,
+    "pontos_num": 3.3,
+    "preco_num": 8.32,
+    "variacao_num": 0.41,
+    "media_num": 4.05,
+    "jogos_num": 22,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }
