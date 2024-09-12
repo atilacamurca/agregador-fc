@@ -6,7 +6,6 @@
   "clube_id": 356,
   "posicao": "Goleiro",
   "rodadas": [
-    14,
     15,
     16,
     17,
@@ -14,10 +13,10 @@
     20,
     21,
     23,
-    24
+    24,
+    25
   ],
   "pontos": [
-    5,
     8.5,
     5,
     1,
@@ -25,10 +24,10 @@
     6,
     4,
     0,
-    8
+    8,
+    3
   ],
   "precos": [
-    8.43,
     9.02,
     8.65,
     7.94,
@@ -36,10 +35,10 @@
     8.45,
     8.2,
     8.42,
-    8.77
+    8.77,
+    8.13
   ],
   "variacoes": [
-    0.44,
     0.59,
     -0.37,
     -0.71,
@@ -47,10 +46,10 @@
     0.74,
     -0.25,
     -0.14,
-    0.35
+    0.35,
+    -0.64
   ],
   "medias": [
-    5.24,
     5.47,
     5.44,
     5.16,
@@ -58,22 +57,10 @@
     4.92,
     4.87,
     5.03,
-    5.17
+    5.17,
+    5.08
   ],
   "partidas": [
-    {
-      "rodada_id": 14,
-      "clube_casa": "Vasco",
-      "clube_casa_id": 267,
-      "clube_visitante": "Fortaleza",
-      "clube_casa_abrev": "VAS",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2021/09/04/ESCUDO-VASCO-RGB_65px.png",
-      "clube_visitante_id": 356,
-      "clube_visitante_abrev": "FOR",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/09/19/65_0000_Fortaleza-2021.png",
-      "placar_oficial_mandante": 2,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 15,
       "clube_casa": "Fortaleza",
@@ -177,12 +164,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/09/30/Corinthians_65.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 25,
+      "clube_casa": "Botafogo",
+      "clube_casa_id": 263,
+      "clube_visitante": "Fortaleza",
+      "clube_casa_abrev": "BOT",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-65.png",
+      "clube_visitante_id": 356,
+      "clube_visitante_abrev": "FOR",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/09/19/65_0000_Fortaleza-2021.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/02/28/photo_220x220_yXqoxi8.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2021/09/19/65_0000_Fortaleza-2021.png",
   "scouts": {
-    "rodada_id": 24,
+    "rodada_id": 25,
     "g": 0,
     "a": 0,
     "sg": 8,
@@ -190,13 +190,13 @@
     "ff": 0,
     "fd": 0,
     "ft": 0,
-    "de": 92,
+    "de": 97,
     "dp": 0,
     "gc": 0,
     "cv": 0,
     "ca": 1,
     "pp": 0,
-    "gs": 19,
+    "gs": 21,
     "fc": 0,
     "i": 0,
     "ds": 1,
@@ -204,11 +204,11 @@
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 8,
-    "preco_num": 8.77,
-    "variacao_num": 0.35,
-    "media_num": 5.17,
-    "jogos_num": 22,
+    "pontos_num": 3,
+    "preco_num": 8.13,
+    "variacao_num": -0.64,
+    "media_num": 5.08,
+    "jogos_num": 23,
     "posicao_abrev": "gol",
     "posicao": "Goleiro"
   }

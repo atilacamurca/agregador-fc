@@ -6,7 +6,6 @@
   "clube_id": 286,
   "posicao": "Meia",
   "rodadas": [
-    14,
     15,
     16,
     17,
@@ -14,10 +13,10 @@
     20,
     21,
     23,
-    24
+    24,
+    25
   ],
   "pontos": [
-    0.4,
     9.3,
     0,
     3.3,
@@ -25,10 +24,10 @@
     11.7,
     6.8,
     0,
-    0
+    0,
+    4.4
   ],
   "precos": [
-    8.52,
     9.81,
     9.81,
     8.96,
@@ -36,10 +35,10 @@
     10.11,
     9.59,
     8.18,
-    8.18
+    8.18,
+    8.92
   ],
   "variacoes": [
-    -0.61,
     1.29,
     0,
     -0.85,
@@ -47,10 +46,10 @@
     1.49,
     -0.52,
     -1.11,
-    0
+    0,
+    0.74
   ],
   "medias": [
-    5.44,
     5.79,
     5.79,
     5.58,
@@ -58,22 +57,10 @@
     5.72,
     5.79,
     5.32,
-    5.32
+    5.32,
+    5.27
   ],
   "partidas": [
-    {
-      "rodada_id": 14,
-      "clube_casa": "Bahia",
-      "clube_casa_id": 265,
-      "clube_visitante": "Juventude",
-      "clube_casa_abrev": "BAH",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/bahia_60x60.png",
-      "clube_visitante_id": 286,
-      "clube_visitante_abrev": "JUV",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/04/29/juventude65.png",
-      "placar_oficial_mandante": 2,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 15,
       "clube_casa": "Juventude",
@@ -177,16 +164,29 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/04/29/juventude65.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 25,
+      "clube_casa": "Juventude",
+      "clube_casa_id": 286,
+      "clube_visitante": "Internacional",
+      "clube_casa_abrev": "JUV",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2021/04/29/juventude65.png",
+      "clube_visitante_id": 285,
+      "clube_visitante_abrev": "INT",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2016/05/03/inter65.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 3
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/03/11/photo_220x220_1INRw87.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2021/04/29/juventude65.png",
   "scouts": {
-    "rodada_id": 24,
+    "rodada_id": 25,
     "g": 1,
     "a": 5,
     "sg": 0,
-    "fs": 34,
+    "fs": 38,
     "ff": 8,
     "fd": 4,
     "ft": 0,
@@ -199,16 +199,16 @@
     "gs": 0,
     "fc": 25,
     "i": 2,
-    "ds": 39,
+    "ds": 41,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 0,
-    "preco_num": 8.18,
-    "variacao_num": 0,
-    "media_num": 5.32,
-    "jogos_num": 17,
+    "pontos_num": 4.4,
+    "preco_num": 8.92,
+    "variacao_num": 0.74,
+    "media_num": 5.27,
+    "jogos_num": 18,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }

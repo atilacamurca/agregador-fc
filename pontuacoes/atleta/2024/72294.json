@@ -6,7 +6,6 @@
   "clube_id": 282,
   "posicao": "Goleiro",
   "rodadas": [
-    14,
     15,
     16,
     17,
@@ -14,7 +13,8 @@
     20,
     21,
     23,
-    24
+    24,
+    25
   ],
   "pontos": [
     0,
@@ -24,8 +24,8 @@
     0,
     0,
     0,
-    0,
-    3
+    3,
+    0
   ],
   "precos": [
     8.14,
@@ -34,9 +34,9 @@
     8.14,
     8.14,
     8.14,
-    8.14,
     8.2,
-    8.12
+    8.12,
+    7.56
   ],
   "variacoes": [
     0,
@@ -45,9 +45,9 @@
     0,
     0,
     0,
-    0,
     -0.52,
-    -0.08
+    -0.08,
+    -0.56
   ],
   "medias": [
     2.27,
@@ -56,24 +56,11 @@
     2.27,
     2.27,
     2.27,
-    2.27,
     2.67,
-    2.7
+    2.7,
+    2.49
   ],
   "partidas": [
-    {
-      "rodada_id": 14,
-      "clube_casa": "Atlético-MG",
-      "clube_casa_id": 282,
-      "clube_visitante": "Flamengo",
-      "clube_casa_abrev": "ATL",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2017/11/23/Atletico-Mineiro-escudo65px.png",
-      "clube_visitante_id": 262,
-      "clube_visitante_abrev": "FLA",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2018/04/09/Flamengo-65.png",
-      "placar_oficial_mandante": 2,
-      "placar_oficial_visitante": 4
-    },
     {
       "rodada_id": 15,
       "clube_casa": "Botafogo",
@@ -177,12 +164,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/fluminense_60x60.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 25,
+      "clube_casa": "Grêmio",
+      "clube_casa_id": 284,
+      "clube_visitante": "Atlético-MG",
+      "clube_casa_abrev": "GRE",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/gremio_60x60.png",
+      "clube_visitante_id": 282,
+      "clube_visitante_abrev": "ATL",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2017/11/23/Atletico-Mineiro-escudo65px.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 3
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/03/31/photo_220x220_r7CD0SX.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2017/11/23/Atletico-Mineiro-escudo65px.png",
   "scouts": {
-    "rodada_id": 24,
+    "rodada_id": 25,
     "g": 0,
     "a": 0,
     "sg": 4,
@@ -190,13 +190,13 @@
     "ff": 0,
     "fd": 0,
     "ft": 0,
-    "de": 27,
+    "de": 29,
     "dp": 0,
     "gc": 0,
     "cv": 0,
     "ca": 3,
     "pp": 0,
-    "gs": 13,
+    "gs": 15,
     "fc": 0,
     "i": 0,
     "ds": 0,
@@ -204,11 +204,11 @@
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 3,
-    "preco_num": 8.12,
-    "variacao_num": -0.08,
-    "media_num": 2.7,
-    "jogos_num": 12,
+    "pontos_num": 0,
+    "preco_num": 7.56,
+    "variacao_num": -0.56,
+    "media_num": 2.49,
+    "jogos_num": 13,
     "posicao_abrev": "gol",
     "posicao": "Goleiro"
   }

@@ -6,7 +6,6 @@
   "clube_id": 356,
   "posicao": "Zagueiro",
   "rodadas": [
-    14,
     15,
     16,
     17,
@@ -14,10 +13,10 @@
     20,
     21,
     23,
-    24
+    24,
+    25
   ],
   "pontos": [
-    0,
     0,
     0,
     0,
@@ -25,10 +24,10 @@
     7.5,
     2.3,
     0,
-    7.1
+    7.1,
+    2.8
   ],
   "precos": [
-    6.99,
     6.99,
     5.31,
     5.31,
@@ -36,10 +35,10 @@
     5.91,
     5.25,
     4.85,
-    5.98
+    5.98,
+    5.46
   ],
   "variacoes": [
-    0,
     0,
     -1.68,
     0,
@@ -47,10 +46,10 @@
     1.57,
     -0.66,
     -1.03,
-    1.13
+    1.13,
+    -0.52
   ],
   "medias": [
-    5.57,
     5.57,
     4.18,
     4.18,
@@ -58,22 +57,10 @@
     3.63,
     3.44,
     3.31,
-    3.69
+    3.69,
+    3.61
   ],
   "partidas": [
-    {
-      "rodada_id": 14,
-      "clube_casa": "Vasco",
-      "clube_casa_id": 267,
-      "clube_visitante": "Fortaleza",
-      "clube_casa_abrev": "VAS",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2021/09/04/ESCUDO-VASCO-RGB_65px.png",
-      "clube_visitante_id": 356,
-      "clube_visitante_abrev": "FOR",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/09/19/65_0000_Fortaleza-2021.png",
-      "placar_oficial_mandante": 2,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 15,
       "clube_casa": "Fortaleza",
@@ -177,17 +164,30 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/09/30/Corinthians_65.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 25,
+      "clube_casa": "Botafogo",
+      "clube_casa_id": 263,
+      "clube_visitante": "Fortaleza",
+      "clube_casa_abrev": "BOT",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-65.png",
+      "clube_visitante_id": 356,
+      "clube_visitante_abrev": "FOR",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/09/19/65_0000_Fortaleza-2021.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/02/28/photo_220x220_XpAwacz.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2021/09/19/65_0000_Fortaleza-2021.png",
   "scouts": {
-    "rodada_id": 24,
+    "rodada_id": 25,
     "g": 1,
     "a": 0,
     "sg": 4,
     "fs": 3,
-    "ff": 1,
+    "ff": 3,
     "fd": 2,
     "ft": 0,
     "de": 0,
@@ -199,16 +199,16 @@
     "gs": 0,
     "fc": 8,
     "i": 2,
-    "ds": 9,
+    "ds": 10,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 7.1,
-    "preco_num": 5.98,
-    "variacao_num": 1.13,
-    "media_num": 3.69,
-    "jogos_num": 10,
+    "pontos_num": 2.8,
+    "preco_num": 5.46,
+    "variacao_num": -0.52,
+    "media_num": 3.61,
+    "jogos_num": 11,
     "posicao_abrev": "zag",
     "posicao": "Zagueiro"
   }

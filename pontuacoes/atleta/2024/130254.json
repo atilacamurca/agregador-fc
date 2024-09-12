@@ -6,7 +6,6 @@
   "clube_id": 267,
   "posicao": "Lateral",
   "rodadas": [
-    14,
     15,
     16,
     17,
@@ -14,10 +13,10 @@
     20,
     21,
     23,
-    24
+    24,
+    25
   ],
   "pontos": [
-    0,
     2.7,
     5,
     0,
@@ -25,10 +24,10 @@
     1.2,
     -0.3,
     0,
-    7.7
+    7.7,
+    5.9
   ],
   "precos": [
-    3.88,
     4.32,
     5.02,
     5.02,
@@ -36,10 +35,10 @@
     4.44,
     3.99,
     4.44,
-    5.4
+    5.4,
+    5.38
   ],
   "variacoes": [
-    0,
     0.44,
     0.7,
     0,
@@ -47,10 +46,10 @@
     -0.58,
     -0.45,
     -0.34,
-    0.96
+    0.96,
+    -0.02
   ],
   "medias": [
-    4.85,
     4.13,
     4.35,
     4.35,
@@ -58,22 +57,10 @@
     3.72,
     3.05,
     3.21,
-    3.71
+    3.71,
+    3.93
   ],
   "partidas": [
-    {
-      "rodada_id": 14,
-      "clube_casa": "Vasco",
-      "clube_casa_id": 267,
-      "clube_visitante": "Fortaleza",
-      "clube_casa_abrev": "VAS",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2021/09/04/ESCUDO-VASCO-RGB_65px.png",
-      "clube_visitante_id": 356,
-      "clube_visitante_abrev": "FOR",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/09/19/65_0000_Fortaleza-2021.png",
-      "placar_oficial_mandante": 2,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 15,
       "clube_casa": "Internacional",
@@ -177,18 +164,31 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/09/09/Athletico-PR-65x65.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 25,
+      "clube_casa": "Vitória",
+      "clube_casa_id": 287,
+      "clube_visitante": "Vasco",
+      "clube_casa_abrev": "VIT",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2024/04/09/escudo-vitoria-65x65-69284.png",
+      "clube_visitante_id": 267,
+      "clube_visitante_abrev": "VAS",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/09/04/ESCUDO-VASCO-RGB_65px.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/03/04/photo_220x220_5FEEg9Y.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2021/09/04/ESCUDO-VASCO-RGB_65px.png",
   "scouts": {
-    "rodada_id": 24,
+    "rodada_id": 25,
     "g": 1,
     "a": 1,
-    "sg": 2,
+    "sg": 3,
     "fs": 7,
     "ff": 0,
-    "fd": 0,
+    "fd": 1,
     "ft": 0,
     "de": 0,
     "dp": 0,
@@ -197,18 +197,18 @@
     "ca": 0,
     "pp": 0,
     "gs": 0,
-    "fc": 1,
+    "fc": 2,
     "i": 0,
     "ds": 6,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 7.7,
-    "preco_num": 5.4,
-    "variacao_num": 0.96,
-    "media_num": 3.71,
-    "jogos_num": 9,
+    "pontos_num": 5.9,
+    "preco_num": 5.38,
+    "variacao_num": -0.02,
+    "media_num": 3.93,
+    "jogos_num": 10,
     "posicao_abrev": "lat",
     "posicao": "Lateral"
   }
