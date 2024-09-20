@@ -6,7 +6,6 @@
   "clube_id": 264,
   "posicao": "Atacante",
   "rodadas": [
-    15,
     16,
     17,
     18,
@@ -14,10 +13,10 @@
     21,
     23,
     24,
-    25
+    25,
+    26
   ],
   "pontos": [
-    -0.1,
     1.8,
     0,
     0,
@@ -25,10 +24,10 @@
     12.2,
     0,
     0,
+    0,
     0
   ],
   "precos": [
-    4.48,
     4.63,
     4.63,
     4.63,
@@ -36,10 +35,10 @@
     6.34,
     4.75,
     4.75,
+    4.75,
     4.75
   ],
   "variacoes": [
-    -1.21,
     0.15,
     0,
     0,
@@ -47,10 +46,10 @@
     2.12,
     -0.4,
     0,
+    0,
     0
   ],
   "medias": [
-    1.84,
     1.83,
     1.83,
     1.83,
@@ -58,22 +57,10 @@
     2.9,
     2.66,
     2.66,
+    2.66,
     2.66
   ],
   "partidas": [
-    {
-      "rodada_id": 15,
-      "clube_casa": "Cruzeiro",
-      "clube_casa_id": 283,
-      "clube_visitante": "Corinthians",
-      "clube_casa_abrev": "CRU",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2021/02/13/65_cruzeiro-2021.png",
-      "clube_visitante_id": 264,
-      "clube_visitante_abrev": "COR",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/09/30/Corinthians_65.png",
-      "placar_oficial_mandante": 3,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 16,
       "clube_casa": "Vasco",
@@ -177,12 +164,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2018/04/09/Flamengo-65.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 26,
+      "clube_casa": "Botafogo",
+      "clube_casa_id": 263,
+      "clube_visitante": "Corinthians",
+      "clube_casa_abrev": "BOT",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-65.png",
+      "clube_visitante_id": 264,
+      "clube_visitante_abrev": "COR",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/09/30/Corinthians_65.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/02/27/photo_220x220_sB7v4Fv.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2019/09/30/Corinthians_65.png",
   "scouts": {
-    "rodada_id": 25,
+    "rodada_id": 26,
     "g": 1,
     "a": 1,
     "sg": 0,

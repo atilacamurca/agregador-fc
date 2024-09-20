@@ -6,7 +6,6 @@
   "clube_id": 276,
   "posicao": "Técnico",
   "rodadas": [
-    15,
     16,
     17,
     18,
@@ -14,10 +13,10 @@
     21,
     23,
     24,
-    25
+    25,
+    26
   ],
   "pontos": [
-    6.73,
     2.65,
     7.77,
     4.65,
@@ -25,10 +24,10 @@
     7.04,
     0,
     5.04,
-    2.04
+    2.04,
+    7.75
   ],
   "precos": [
-    10.2,
     9.62,
     10.25,
     9.9,
@@ -36,10 +35,10 @@
     10.05,
     9.44,
     9.66,
-    9.22
+    9.22,
+    10.04
   ],
   "variacoes": [
-    0.21,
     -0.58,
     0.63,
     -0.35,
@@ -47,10 +46,10 @@
     0.69,
     -0.72,
     0.22,
-    -0.44
+    -0.44,
+    0.82
   ],
   "medias": [
-    5.36,
     5.15,
     5.34,
     5.29,
@@ -58,22 +57,10 @@
     5.16,
     5.21,
     5.2,
-    5.06
+    5.06,
+    5.18
   ],
   "partidas": [
-    {
-      "rodada_id": 15,
-      "clube_casa": "São Paulo",
-      "clube_casa_id": 276,
-      "clube_visitante": "Bragantino",
-      "clube_casa_abrev": "SAO",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/sao_paulo_60x60.png",
-      "clube_visitante_id": 280,
-      "clube_visitante_abrev": "BRA",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2020/01/01/65.png",
-      "placar_oficial_mandante": 2,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 16,
       "clube_casa": "Atlético-MG",
@@ -177,12 +164,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/sao_paulo_60x60.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 26,
+      "clube_casa": "Cruzeiro",
+      "clube_casa_id": 283,
+      "clube_visitante": "São Paulo",
+      "clube_casa_abrev": "CRU",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2021/02/13/65_cruzeiro-2021.png",
+      "clube_visitante_id": 276,
+      "clube_visitante_abrev": "SAO",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/sao_paulo_60x60.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/08/09/photo_220x220_FZ4aNBC.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2014/04/14/sao_paulo_60x60.png",
   "scouts": {
-    "rodada_id": 25,
+    "rodada_id": 26,
     "g": 0,
     "a": 0,
     "sg": 0,
@@ -203,12 +203,12 @@
     "pi": 0,
     "pc": 0,
     "ps": 0,
-    "v": 11,
-    "pontos_num": 2.04,
-    "preco_num": 9.22,
-    "variacao_num": -0.44,
-    "media_num": 5.06,
-    "jogos_num": 22,
+    "v": 12,
+    "pontos_num": 7.75,
+    "preco_num": 10.04,
+    "variacao_num": 0.82,
+    "media_num": 5.18,
+    "jogos_num": 23,
     "posicao_abrev": "tec",
     "posicao": "Técnico"
   }

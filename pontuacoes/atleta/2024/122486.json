@@ -6,7 +6,6 @@
   "clube_id": 267,
   "posicao": "Atacante",
   "rodadas": [
-    15,
     16,
     17,
     18,
@@ -14,10 +13,10 @@
     21,
     23,
     24,
-    25
+    25,
+    26
   ],
   "pontos": [
-    0.5,
     0,
     -1.1,
     0,
@@ -25,10 +24,10 @@
     0,
     0,
     0,
-    2.9
+    2.9,
+    0.5
   ],
   "precos": [
-    2.86,
     2.86,
     2.51,
     2.51,
@@ -36,10 +35,10 @@
     2.51,
     4.39,
     2.91,
-    3.31
+    3.31,
+    2.99
   ],
   "variacoes": [
-    -0.19,
     0,
     -0.35,
     0,
@@ -47,10 +46,10 @@
     0,
     1.84,
     -1.48,
-    0.4
+    0.4,
+    -0.32
   ],
   "medias": [
-    1.5,
     1.5,
     1.26,
     1.26,
@@ -58,22 +57,10 @@
     1.26,
     1.96,
     1.82,
-    1.89
+    1.89,
+    1.8
   ],
   "partidas": [
-    {
-      "rodada_id": 15,
-      "clube_casa": "Internacional",
-      "clube_casa_id": 285,
-      "clube_visitante": "Vasco",
-      "clube_casa_abrev": "INT",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2016/05/03/inter65.png",
-      "clube_visitante_id": 267,
-      "clube_visitante_abrev": "VAS",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/09/04/ESCUDO-VASCO-RGB_65px.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 2
-    },
     {
       "rodada_id": 16,
       "clube_casa": "Vasco",
@@ -177,16 +164,29 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/09/04/ESCUDO-VASCO-RGB_65px.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 26,
+      "clube_casa": "Flamengo",
+      "clube_casa_id": 262,
+      "clube_visitante": "Vasco",
+      "clube_casa_abrev": "FLA",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2018/04/09/Flamengo-65.png",
+      "clube_visitante_id": 267,
+      "clube_visitante_abrev": "VAS",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/09/04/ESCUDO-VASCO-RGB_65px.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/03/04/photo_220x220_DAjK7yT.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2021/09/04/ESCUDO-VASCO-RGB_65px.png",
   "scouts": {
-    "rodada_id": 25,
+    "rodada_id": 26,
     "g": 1,
     "a": 0,
     "sg": 0,
-    "fs": 10,
+    "fs": 11,
     "ff": 8,
     "fd": 4,
     "ft": 0,
@@ -204,11 +204,11 @@
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 2.9,
-    "preco_num": 3.31,
-    "variacao_num": 0.4,
-    "media_num": 1.89,
-    "jogos_num": 15,
+    "pontos_num": 0.5,
+    "preco_num": 2.99,
+    "variacao_num": -0.32,
+    "media_num": 1.8,
+    "jogos_num": 16,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }

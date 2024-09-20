@@ -6,7 +6,6 @@
   "clube_id": 356,
   "posicao": "Meia",
   "rodadas": [
-    15,
     16,
     17,
     18,
@@ -14,10 +13,10 @@
     21,
     23,
     24,
-    25
+    25,
+    26
   ],
   "pontos": [
-    0.9,
     6,
     1.2,
     1.2,
@@ -25,10 +24,10 @@
     0.2,
     0,
     0,
-    0.7
+    0.7,
+    2.2
   ],
   "precos": [
-    3.48,
     4.3,
     3.64,
     3.63,
@@ -36,10 +35,10 @@
     3.37,
     3.17,
     3.12,
-    3.18
+    3.18,
+    3.4
   ],
   "variacoes": [
-    -0.24,
     0.82,
     -0.66,
     -0.01,
@@ -47,10 +46,10 @@
     -0.1,
     -0.11,
     -0.05,
-    0.06
+    0.06,
+    0.22
   ],
   "medias": [
-    2.2,
     2.49,
     2.4,
     2.32,
@@ -58,22 +57,10 @@
     2.09,
     1.88,
     1.79,
-    1.74
+    1.74,
+    1.76
   ],
   "partidas": [
-    {
-      "rodada_id": 15,
-      "clube_casa": "Fortaleza",
-      "clube_casa_id": 356,
-      "clube_visitante": "Fluminense",
-      "clube_casa_abrev": "FOR",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2021/09/19/65_0000_Fortaleza-2021.png",
-      "clube_visitante_id": 266,
-      "clube_visitante_abrev": "FLU",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/fluminense_60x60.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 16,
       "clube_casa": "Flamengo",
@@ -177,16 +164,29 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/09/19/65_0000_Fortaleza-2021.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 26,
+      "clube_casa": "Athlético-PR",
+      "clube_casa_id": 293,
+      "clube_visitante": "Fortaleza",
+      "clube_casa_abrev": "ATL",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2019/09/09/Athletico-PR-65x65.png",
+      "clube_visitante_id": 356,
+      "clube_visitante_abrev": "FOR",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/09/19/65_0000_Fortaleza-2021.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/02/28/photo_220x220_omYwNQA.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2021/09/19/65_0000_Fortaleza-2021.png",
   "scouts": {
-    "rodada_id": 25,
+    "rodada_id": 26,
     "g": 0,
     "a": 1,
     "sg": 0,
-    "fs": 19,
+    "fs": 21,
     "ff": 1,
     "fd": 2,
     "ft": 0,
@@ -199,16 +199,16 @@
     "gs": 0,
     "fc": 27,
     "i": 0,
-    "ds": 29,
+    "ds": 30,
     "pi": 0,
     "pc": 1,
     "ps": 0,
     "v": 0,
-    "pontos_num": 0.7,
-    "preco_num": 3.18,
-    "variacao_num": 0.06,
-    "media_num": 1.74,
-    "jogos_num": 21,
+    "pontos_num": 2.2,
+    "preco_num": 3.4,
+    "variacao_num": 0.22,
+    "media_num": 1.76,
+    "jogos_num": 22,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }

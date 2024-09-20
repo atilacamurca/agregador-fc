@@ -6,7 +6,6 @@
   "clube_id": 264,
   "posicao": "Zagueiro",
   "rodadas": [
-    15,
     16,
     17,
     18,
@@ -14,7 +13,8 @@
     21,
     23,
     24,
-    25
+    25,
+    26
   ],
   "pontos": [
     0,
@@ -25,7 +25,7 @@
     0,
     0,
     0,
-    0
+    0.9
   ],
   "precos": [
     3.16,
@@ -36,7 +36,7 @@
     3.16,
     3.16,
     3.16,
-    3.16
+    2.93
   ],
   "variacoes": [
     0,
@@ -47,7 +47,7 @@
     0,
     0,
     0,
-    0
+    -0.23
   ],
   "medias": [
     0.05,
@@ -58,22 +58,9 @@
     0.05,
     0.05,
     0.05,
-    0.05
+    0.22
   ],
   "partidas": [
-    {
-      "rodada_id": 15,
-      "clube_casa": "Cruzeiro",
-      "clube_casa_id": 283,
-      "clube_visitante": "Corinthians",
-      "clube_casa_abrev": "CRU",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2021/02/13/65_cruzeiro-2021.png",
-      "clube_visitante_id": 264,
-      "clube_visitante_abrev": "COR",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/09/30/Corinthians_65.png",
-      "placar_oficial_mandante": 3,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 16,
       "clube_casa": "Vasco",
@@ -177,12 +164,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2018/04/09/Flamengo-65.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 26,
+      "clube_casa": "Botafogo",
+      "clube_casa_id": 263,
+      "clube_visitante": "Corinthians",
+      "clube_casa_abrev": "BOT",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-65.png",
+      "clube_visitante_id": 264,
+      "clube_visitante_abrev": "COR",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/09/30/Corinthians_65.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/02/27/photo_220x220_fyit2aL.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2019/09/30/Corinthians_65.png",
   "scouts": {
-    "rodada_id": 25,
+    "rodada_id": 26,
     "g": 0,
     "a": 0,
     "sg": 0,
@@ -197,18 +197,18 @@
     "ca": 0,
     "pp": 0,
     "gs": 0,
-    "fc": 3,
+    "fc": 4,
     "i": 0,
-    "ds": 3,
+    "ds": 4,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 0,
-    "preco_num": 3.16,
-    "variacao_num": 0,
-    "media_num": 0.05,
-    "jogos_num": 4,
+    "pontos_num": 0.9,
+    "preco_num": 2.93,
+    "variacao_num": -0.23,
+    "media_num": 0.22,
+    "jogos_num": 5,
     "posicao_abrev": "zag",
     "posicao": "Zagueiro"
   }
