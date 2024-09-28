@@ -6,7 +6,6 @@
   "clube_id": 285,
   "posicao": "Atacante",
   "rodadas": [
-    16,
     17,
     18,
     20,
@@ -14,10 +13,10 @@
     23,
     24,
     25,
-    26
+    26,
+    27
   ],
   "pontos": [
-    0,
     0,
     0,
     6.4,
@@ -25,10 +24,10 @@
     0,
     1.2,
     1.2,
-    -0.1
+    -0.1,
+    0.5
   ],
   "precos": [
-    15.47,
     15.47,
     15.47,
     15.42,
@@ -36,10 +35,10 @@
     11.52,
     10.75,
     10.31,
-    9.75
+    9.75,
+    9.28
   ],
   "variacoes": [
-    0,
     0,
     0,
     -0.05,
@@ -47,10 +46,10 @@
     -1.08,
     -0.77,
     -0.44,
-    -0.56
+    -0.56,
+    -0.47
   ],
   "medias": [
-    0.5,
     0.5,
     0.5,
     3.45,
@@ -58,22 +57,10 @@
     3.32,
     2.97,
     2.72,
-    2.37
+    2.37,
+    2.16
   ],
   "partidas": [
-    {
-      "rodada_id": 16,
-      "clube_casa": "Bragantino",
-      "clube_casa_id": 280,
-      "clube_visitante": "Internacional",
-      "clube_casa_abrev": "BRA",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2020/01/01/65.png",
-      "clube_visitante_id": 285,
-      "clube_visitante_abrev": "INT",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2016/05/03/inter65.png",
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 17,
       "clube_casa": "Internacional",
@@ -177,16 +164,29 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/16/cuiaba65.png",
       "placar_oficial_mandante": 3,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 27,
+      "clube_casa": "São Paulo",
+      "clube_casa_id": 276,
+      "clube_visitante": "Internacional",
+      "clube_casa_abrev": "SAO",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/sao_paulo_60x60.png",
+      "clube_visitante_id": 285,
+      "clube_visitante_abrev": "INT",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2016/05/03/inter65.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 3
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/02/29/photo_220x220_KAqNvH7.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2016/05/03/inter65.png",
   "scouts": {
-    "rodada_id": 26,
+    "rodada_id": 27,
     "g": 0,
     "a": 0,
     "sg": 0,
-    "fs": 9,
+    "fs": 10,
     "ff": 4,
     "fd": 4,
     "ft": 1,
@@ -204,11 +204,11 @@
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": -0.1,
-    "preco_num": 9.75,
-    "variacao_num": -0.56,
-    "media_num": 2.37,
-    "jogos_num": 8,
+    "pontos_num": 0.5,
+    "preco_num": 9.28,
+    "variacao_num": -0.47,
+    "media_num": 2.16,
+    "jogos_num": 9,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }

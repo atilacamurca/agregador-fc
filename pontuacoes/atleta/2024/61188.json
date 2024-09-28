@@ -6,7 +6,6 @@
   "clube_id": 286,
   "posicao": "Atacante",
   "rodadas": [
-    16,
     17,
     18,
     20,
@@ -14,21 +13,21 @@
     23,
     24,
     25,
-    26
+    26,
+    27
   ],
   "pontos": [
     0,
-    0,
     0.5,
     0.5,
     0,
     0,
     0,
     0,
-    4.9
+    4.9,
+    1.5
   ],
   "precos": [
-    5.31,
     5.31,
     3.8,
     3.61,
@@ -36,10 +35,10 @@
     3.61,
     3.61,
     3.61,
-    4.24
+    4.24,
+    3.73
   ],
   "variacoes": [
-    0,
     0,
     -1.51,
     -0.08,
@@ -47,10 +46,10 @@
     0,
     0,
     0,
-    0.63
+    0.63,
+    -0.51
   ],
   "medias": [
-    2.19,
     2.19,
     2.04,
     1.78,
@@ -58,22 +57,10 @@
     1.78,
     1.78,
     1.78,
-    2
+    2,
+    1.97
   ],
   "partidas": [
-    {
-      "rodada_id": 16,
-      "clube_casa": "Cuiabá",
-      "clube_casa_id": 1371,
-      "clube_visitante": "Juventude",
-      "clube_casa_abrev": "CUI",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/16/cuiaba65.png",
-      "clube_visitante_id": 286,
-      "clube_visitante_abrev": "JUV",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/04/29/juventude65.png",
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 17,
       "clube_casa": "Juventude",
@@ -177,17 +164,30 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/fluminense_60x60.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 27,
+      "clube_casa": "Vitória",
+      "clube_casa_id": 287,
+      "clube_visitante": "Juventude",
+      "clube_casa_abrev": "VIT",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2024/04/09/escudo-vitoria-65x65-69284.png",
+      "clube_visitante_id": 286,
+      "clube_visitante_abrev": "JUV",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/04/29/juventude65.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/03/11/photo_220x220_pf8CAXv.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2021/04/29/juventude65.png",
   "scouts": {
-    "rodada_id": 26,
+    "rodada_id": 27,
     "g": 1,
     "a": 0,
     "sg": 0,
-    "fs": 7,
-    "ff": 8,
+    "fs": 9,
+    "ff": 9,
     "fd": 5,
     "ft": 1,
     "de": 0,
@@ -197,18 +197,18 @@
     "ca": 2,
     "pp": 0,
     "gs": 0,
-    "fc": 8,
+    "fc": 9,
     "i": 4,
     "ds": 5,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 4.9,
-    "preco_num": 4.24,
-    "variacao_num": 0.63,
-    "media_num": 2,
-    "jogos_num": 14,
+    "pontos_num": 1.5,
+    "preco_num": 3.73,
+    "variacao_num": -0.51,
+    "media_num": 1.97,
+    "jogos_num": 15,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }

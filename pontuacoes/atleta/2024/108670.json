@@ -8,27 +8,32 @@
   "rodadas": [
     24,
     25,
-    26
+    26,
+    27
   ],
   "pontos": [
     0,
     -1.9,
-    0
+    0,
+    10.9
   ],
   "precos": [
     8,
     6.38,
-    6.38
+    6.38,
+    8.62
   ],
   "variacoes": [
     0,
     -1.62,
-    0
+    0,
+    2.24
   ],
   "medias": [
     0,
     -1.9,
-    -1.9
+    -1.9,
+    4.5
   ],
   "partidas": [
     {
@@ -69,18 +74,31 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/09/04/ESCUDO-VASCO-RGB_65px.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 27,
+      "clube_casa": "Grêmio",
+      "clube_casa_id": 284,
+      "clube_visitante": "Flamengo",
+      "clube_casa_abrev": "GRE",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/gremio_60x60.png",
+      "clube_visitante_id": 262,
+      "clube_visitante_abrev": "FLA",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2018/04/09/Flamengo-65.png",
+      "placar_oficial_mandante": 3,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/08/28/photo_220x220_mwFvf2J.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2018/04/09/Flamengo-65.png",
   "scouts": {
-    "rodada_id": 26,
+    "rodada_id": 27,
     "g": 0,
-    "a": 0,
+    "a": 1,
     "sg": 0,
-    "fs": 0,
-    "ff": 1,
-    "fd": 0,
+    "fs": 3,
+    "ff": 2,
+    "fd": 1,
     "ft": 0,
     "de": 0,
     "dp": 0,
@@ -91,16 +109,16 @@
     "gs": 0,
     "fc": 3,
     "i": 0,
-    "ds": 1,
+    "ds": 3,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 0,
-    "preco_num": 6.38,
-    "variacao_num": 0,
-    "media_num": -1.9,
-    "jogos_num": 1,
+    "pontos_num": 10.9,
+    "preco_num": 8.62,
+    "variacao_num": 2.24,
+    "media_num": 4.5,
+    "jogos_num": 2,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }

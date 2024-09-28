@@ -8,27 +8,32 @@
   "rodadas": [
     24,
     25,
-    26
+    26,
+    27
   ],
   "pontos": [
     0,
     0,
-    14
+    14,
+    1.6
   ],
   "precos": [
     4,
     4,
-    8.93
+    8.93,
+    7.9
   ],
   "variacoes": [
     0,
     0,
-    4.93
+    4.93,
+    -1.03
   ],
   "medias": [
     0,
     0,
-    14
+    14,
+    7.8
   ],
   "partidas": [
     {
@@ -69,17 +74,30 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/fluminense_60x60.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 27,
+      "clube_casa": "Vitória",
+      "clube_casa_id": 287,
+      "clube_visitante": "Juventude",
+      "clube_casa_abrev": "VIT",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2024/04/09/escudo-vitoria-65x65-69284.png",
+      "clube_visitante_id": 286,
+      "clube_visitante_abrev": "JUV",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/04/29/juventude65.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/08/27/photo_220x220_RwR6CNh.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2021/04/29/juventude65.png",
   "scouts": {
-    "rodada_id": 26,
+    "rodada_id": 27,
     "g": 1,
     "a": 0,
     "sg": 0,
-    "fs": 0,
-    "ff": 0,
+    "fs": 1,
+    "ff": 1,
     "fd": 0,
     "ft": 0,
     "de": 0,
@@ -89,18 +107,18 @@
     "ca": 0,
     "pp": 0,
     "gs": 0,
-    "fc": 0,
+    "fc": 3,
     "i": 0,
-    "ds": 5,
+    "ds": 6,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 14,
-    "preco_num": 8.93,
-    "variacao_num": 4.93,
-    "media_num": 14,
-    "jogos_num": 1,
+    "pontos_num": 1.6,
+    "preco_num": 7.9,
+    "variacao_num": -1.03,
+    "media_num": 7.8,
+    "jogos_num": 2,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }

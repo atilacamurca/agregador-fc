@@ -6,7 +6,6 @@
   "clube_id": 267,
   "posicao": "Zagueiro",
   "rodadas": [
-    16,
     17,
     18,
     20,
@@ -14,10 +13,10 @@
     23,
     24,
     25,
-    26
+    26,
+    27
   ],
   "pontos": [
-    5.9,
     5,
     0,
     0,
@@ -25,10 +24,10 @@
     0,
     1.2,
     7.6,
-    3
+    3,
+    1.2
   ],
   "precos": [
-    4.8,
     4.75,
     4.08,
     3.97,
@@ -36,10 +35,10 @@
     4.04,
     4.01,
     4.95,
-    4.42
+    4.42,
+    4.09
   ],
   "variacoes": [
-    0.44,
     -0.05,
     -0.67,
     -0.11,
@@ -47,10 +46,10 @@
     -0.53,
     -0.03,
     0.94,
-    -0.53
+    -0.53,
+    -0.33
   ],
   "medias": [
-    2.63,
     2.79,
     2.62,
     2.47,
@@ -58,22 +57,10 @@
     2.42,
     2.36,
     2.6,
-    2.62
+    2.62,
+    2.56
   ],
   "partidas": [
-    {
-      "rodada_id": 16,
-      "clube_casa": "Vasco",
-      "clube_casa_id": 267,
-      "clube_visitante": "Corinthians",
-      "clube_casa_abrev": "VAS",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2021/09/04/ESCUDO-VASCO-RGB_65px.png",
-      "clube_visitante_id": 264,
-      "clube_visitante_abrev": "COR",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/09/30/Corinthians_65.png",
-      "placar_oficial_mandante": 2,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 17,
       "clube_casa": "Atlético-GO",
@@ -177,12 +164,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/09/04/ESCUDO-VASCO-RGB_65px.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 27,
+      "clube_casa": "Vasco",
+      "clube_casa_id": 267,
+      "clube_visitante": "Palmeiras",
+      "clube_casa_abrev": "VAS",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2021/09/04/ESCUDO-VASCO-RGB_65px.png",
+      "clube_visitante_id": 275,
+      "clube_visitante_abrev": "PAL",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/palmeiras_60x60.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/03/04/photo_220x220_zkGlvKC.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2021/09/04/ESCUDO-VASCO-RGB_65px.png",
   "scouts": {
-    "rodada_id": 26,
+    "rodada_id": 27,
     "g": 1,
     "a": 0,
     "sg": 6,
@@ -199,16 +199,16 @@
     "gs": 0,
     "fc": 11,
     "i": 1,
-    "ds": 20,
+    "ds": 21,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 3,
-    "preco_num": 4.42,
-    "variacao_num": -0.53,
-    "media_num": 2.62,
-    "jogos_num": 23,
+    "pontos_num": 1.2,
+    "preco_num": 4.09,
+    "variacao_num": -0.33,
+    "media_num": 2.56,
+    "jogos_num": 24,
     "posicao_abrev": "zag",
     "posicao": "Zagueiro"
   }

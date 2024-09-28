@@ -6,7 +6,6 @@
   "clube_id": 276,
   "posicao": "Meia",
   "rodadas": [
-    16,
     17,
     18,
     20,
@@ -14,10 +13,10 @@
     23,
     24,
     25,
-    26
+    26,
+    27
   ],
   "pontos": [
-    11.2,
     9.7,
     4.2,
     0,
@@ -25,10 +24,10 @@
     0,
     6,
     0.4,
-    0
+    0,
+    7.2
   ],
   "precos": [
-    14.84,
     14.62,
     13.86,
     16.7,
@@ -36,10 +35,10 @@
     13.38,
     14,
     13.07,
-    13.07
+    13.07,
+    13.69
   ],
   "variacoes": [
-    1.55,
     -0.22,
     -0.76,
     0,
@@ -47,10 +46,10 @@
     -1.28,
     0.62,
     -0.93,
-    0
+    0,
+    0.62
   ],
   "medias": [
-    5.81,
     6.16,
     6,
     7.19,
@@ -58,22 +57,10 @@
     6.72,
     6.67,
     6.3,
-    6.3
+    6.3,
+    6.35
   ],
   "partidas": [
-    {
-      "rodada_id": 16,
-      "clube_casa": "Atlético-MG",
-      "clube_casa_id": 282,
-      "clube_visitante": "São Paulo",
-      "clube_casa_abrev": "ATL",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2017/11/23/Atletico-Mineiro-escudo65px.png",
-      "clube_visitante_id": 276,
-      "clube_visitante_abrev": "SAO",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/sao_paulo_60x60.png",
-      "placar_oficial_mandante": 2,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 17,
       "clube_casa": "São Paulo",
@@ -177,18 +164,31 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/sao_paulo_60x60.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 27,
+      "clube_casa": "São Paulo",
+      "clube_casa_id": 276,
+      "clube_visitante": "Internacional",
+      "clube_casa_abrev": "SAO",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/sao_paulo_60x60.png",
+      "clube_visitante_id": 285,
+      "clube_visitante_abrev": "INT",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2016/05/03/inter65.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 3
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/03/01/photo_220x220_3fFiGsF.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2014/04/14/sao_paulo_60x60.png",
   "scouts": {
-    "rodada_id": 26,
+    "rodada_id": 27,
     "g": 5,
-    "a": 3,
+    "a": 4,
     "sg": 0,
-    "fs": 34,
+    "fs": 36,
     "ff": 6,
-    "fd": 7,
+    "fd": 8,
     "ft": 0,
     "de": 0,
     "dp": 0,
@@ -204,11 +204,11 @@
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 0,
-    "preco_num": 13.07,
-    "variacao_num": 0,
-    "media_num": 6.3,
-    "jogos_num": 17,
+    "pontos_num": 7.2,
+    "preco_num": 13.69,
+    "variacao_num": 0.62,
+    "media_num": 6.35,
+    "jogos_num": 18,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }
