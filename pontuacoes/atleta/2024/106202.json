@@ -6,7 +6,6 @@
   "clube_id": 285,
   "posicao": "Meia",
   "rodadas": [
-    17,
     18,
     20,
     21,
@@ -14,10 +13,10 @@
     24,
     25,
     26,
-    27
+    27,
+    28
   ],
   "pontos": [
-    0,
     2.8,
     0.5,
     0.5,
@@ -25,10 +24,10 @@
     3.3,
     4.2,
     1.7,
-    13
+    13,
+    6
   ],
   "precos": [
-    4.35,
     3.57,
     3.17,
     3.08,
@@ -36,10 +35,10 @@
     3.5,
     3.72,
     3.43,
-    5.14
+    5.14,
+    4.52
   ],
   "variacoes": [
-    0,
     -0.78,
     -0.4,
     -0.09,
@@ -47,10 +46,10 @@
     -0.05,
     0.22,
     -0.29,
-    1.71
+    1.71,
+    -0.62
   ],
   "medias": [
-    2.32,
     2.39,
     2.15,
     1.97,
@@ -58,22 +57,10 @@
     2.15,
     2.31,
     2.27,
-    2.99
+    2.99,
+    3.18
   ],
   "partidas": [
-    {
-      "rodada_id": 17,
-      "clube_casa": "Internacional",
-      "clube_casa_id": 285,
-      "clube_visitante": "Flamengo",
-      "clube_casa_abrev": "INT",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2016/05/03/inter65.png",
-      "clube_visitante_id": 262,
-      "clube_visitante_abrev": "FLA",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2018/04/09/Flamengo-65.png",
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 18,
       "clube_casa": "Botafogo",
@@ -177,16 +164,29 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2016/05/03/inter65.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 3
+    },
+    {
+      "rodada_id": 28,
+      "clube_casa": "Internacional",
+      "clube_casa_id": 285,
+      "clube_visitante": "Vitória",
+      "clube_casa_abrev": "INT",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2016/05/03/inter65.png",
+      "clube_visitante_id": 287,
+      "clube_visitante_abrev": "VIT",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2024/04/09/escudo-vitoria-65x65-69284.png",
+      "placar_oficial_mandante": 3,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/02/29/photo_220x220_sq3mb5j.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2016/05/03/inter65.png",
   "scouts": {
-    "rodada_id": 27,
+    "rodada_id": 28,
     "g": 1,
     "a": 1,
     "sg": 0,
-    "fs": 16,
+    "fs": 17,
     "ff": 5,
     "fd": 2,
     "ft": 0,
@@ -197,18 +197,18 @@
     "ca": 1,
     "pp": 0,
     "gs": 0,
-    "fc": 15,
+    "fc": 16,
     "i": 0,
-    "ds": 19,
+    "ds": 23,
     "pi": 0,
     "pc": 0,
-    "ps": 0,
+    "ps": 1,
     "v": 0,
-    "pontos_num": 13,
-    "preco_num": 5.14,
-    "variacao_num": 1.71,
-    "media_num": 2.99,
-    "jogos_num": 15,
+    "pontos_num": 6,
+    "preco_num": 4.52,
+    "variacao_num": -0.62,
+    "media_num": 3.18,
+    "jogos_num": 16,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }

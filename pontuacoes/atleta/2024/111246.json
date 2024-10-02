@@ -6,7 +6,6 @@
   "clube_id": 373,
   "posicao": "Zagueiro",
   "rodadas": [
-    17,
     18,
     20,
     21,
@@ -14,10 +13,10 @@
     24,
     25,
     26,
-    27
+    27,
+    28
   ],
   "pontos": [
-    1.7,
     -3.3,
     0,
     0,
@@ -25,10 +24,10 @@
     0,
     0,
     1.2,
-    0.8
+    0.8,
+    7.4
   ],
   "precos": [
-    1.87,
     1.06,
     1.32,
     1.32,
@@ -36,10 +35,10 @@
     1.32,
     1.32,
     1.54,
-    1.46
+    1.46,
+    2.54
   ],
   "variacoes": [
-    0.71,
     -0.81,
     0,
     0,
@@ -47,10 +46,10 @@
     0,
     0,
     0.22,
-    -0.08
+    -0.08,
+    1.08
   ],
   "medias": [
-    0.92,
     0.57,
     0.47,
     0.47,
@@ -58,22 +57,10 @@
     0.47,
     0.47,
     0.52,
-    0.54
+    0.54,
+    0.97
   ],
   "partidas": [
-    {
-      "rodada_id": 17,
-      "clube_casa": "Atlético-GO",
-      "clube_casa_id": 373,
-      "clube_visitante": "Vasco",
-      "clube_casa_abrev": "ATL",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2020/07/02/atletico-go-2020-65.png",
-      "clube_visitante_id": 267,
-      "clube_visitante_abrev": "VAS",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/09/04/ESCUDO-VASCO-RGB_65px.png",
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 18,
       "clube_casa": "Fortaleza",
@@ -177,15 +164,28 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2020/07/02/atletico-go-2020-65.png",
       "placar_oficial_mandante": 3,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 28,
+      "clube_casa": "Atlético-GO",
+      "clube_casa_id": 373,
+      "clube_visitante": "Fluminense",
+      "clube_casa_abrev": "ATL",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2020/07/02/atletico-go-2020-65.png",
+      "clube_visitante_id": 266,
+      "clube_visitante_abrev": "FLU",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/fluminense_60x60.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/02/28/photo_220x220_lm7UgU1.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2020/07/02/atletico-go-2020-65.png",
   "scouts": {
-    "rodada_id": 27,
+    "rodada_id": 28,
     "g": 0,
     "a": 0,
-    "sg": 1,
+    "sg": 2,
     "fs": 3,
     "ff": 5,
     "fd": 3,
@@ -199,16 +199,16 @@
     "gs": 0,
     "fc": 16,
     "i": 2,
-    "ds": 10,
+    "ds": 12,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 0.8,
-    "preco_num": 1.46,
-    "variacao_num": -0.08,
-    "media_num": 0.54,
-    "jogos_num": 15,
+    "pontos_num": 7.4,
+    "preco_num": 2.54,
+    "variacao_num": 1.08,
+    "media_num": 0.97,
+    "jogos_num": 16,
     "posicao_abrev": "zag",
     "posicao": "Zagueiro"
   }

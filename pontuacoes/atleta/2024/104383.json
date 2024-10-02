@@ -6,7 +6,6 @@
   "clube_id": 282,
   "posicao": "Goleiro",
   "rodadas": [
-    17,
     18,
     20,
     21,
@@ -14,10 +13,10 @@
     24,
     25,
     26,
-    27
+    27,
+    28
   ],
   "pontos": [
-    0,
     6,
     5,
     1,
@@ -25,12 +24,13 @@
     0,
     0,
     0,
+    0,
     0
   ],
   "precos": [
-    4.42,
     5.41,
     5.41,
+    4.83,
     4.83,
     4.83,
     4.83,
@@ -39,7 +39,6 @@
     4.83
   ],
   "variacoes": [
-    -0.57,
     0.99,
     0,
     -0.58,
@@ -47,12 +46,13 @@
     0,
     0,
     0,
+    0,
     0
   ],
   "medias": [
-    2.79,
     3.19,
     3.39,
+    3.15,
     3.15,
     3.15,
     3.15,
@@ -61,19 +61,6 @@
     3.15
   ],
   "partidas": [
-    {
-      "rodada_id": 17,
-      "clube_casa": "Juventude",
-      "clube_casa_id": 286,
-      "clube_visitante": "Atlético-MG",
-      "clube_casa_abrev": "JUV",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2021/04/29/juventude65.png",
-      "clube_visitante_id": 282,
-      "clube_visitante_abrev": "ATL",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2017/11/23/Atletico-Mineiro-escudo65px.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 18,
       "clube_casa": "Atlético-MG",
@@ -177,12 +164,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2020/01/01/65.png",
       "placar_oficial_mandante": 3,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 28,
+      "clube_casa": "Palmeiras",
+      "clube_casa_id": 275,
+      "clube_visitante": "Atlético-MG",
+      "clube_casa_abrev": "PAL",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/palmeiras_60x60.png",
+      "clube_visitante_id": 282,
+      "clube_visitante_abrev": "ATL",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2017/11/23/Atletico-Mineiro-escudo65px.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/03/31/photo_220x220_xQ2S67t.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2017/11/23/Atletico-Mineiro-escudo65px.png",
   "scouts": {
-    "rodada_id": 27,
+    "rodada_id": 28,
     "g": 0,
     "a": 0,
     "sg": 1,

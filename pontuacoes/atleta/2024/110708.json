@@ -6,7 +6,6 @@
   "clube_id": 373,
   "posicao": "Goleiro",
   "rodadas": [
-    17,
     18,
     20,
     21,
@@ -14,13 +13,14 @@
     24,
     25,
     26,
-    27
+    27,
+    28
   ],
   "pontos": [
     0,
+    1,
+    1,
     0,
-    1,
-    1,
     0,
     0,
     0,
@@ -29,17 +29,16 @@
   ],
   "precos": [
     4.88,
-    4.88,
     4.43,
     4.31,
     4.46,
     4.46,
     4.46,
     4.46,
+    3.85,
     3.85
   ],
   "variacoes": [
-    0,
     0,
     -0.45,
     -0.12,
@@ -47,10 +46,10 @@
     0,
     0,
     0,
-    -0.61
+    -0.61,
+    0
   ],
   "medias": [
-    8,
     8,
     4.5,
     3.33,
@@ -58,22 +57,10 @@
     3.25,
     3.25,
     3.25,
+    2.6,
     2.6
   ],
   "partidas": [
-    {
-      "rodada_id": 17,
-      "clube_casa": "Atlético-GO",
-      "clube_casa_id": 373,
-      "clube_visitante": "Vasco",
-      "clube_casa_abrev": "ATL",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2020/07/02/atletico-go-2020-65.png",
-      "clube_visitante_id": 267,
-      "clube_visitante_abrev": "VAS",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/09/04/ESCUDO-VASCO-RGB_65px.png",
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 18,
       "clube_casa": "Fortaleza",
@@ -177,12 +164,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2020/07/02/atletico-go-2020-65.png",
       "placar_oficial_mandante": 3,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 28,
+      "clube_casa": "Atlético-GO",
+      "clube_casa_id": 373,
+      "clube_visitante": "Fluminense",
+      "clube_casa_abrev": "ATL",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2020/07/02/atletico-go-2020-65.png",
+      "clube_visitante_id": 266,
+      "clube_visitante_abrev": "FLU",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/fluminense_60x60.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/04/11/photo_220x220_HAuwqG4.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2020/07/02/atletico-go-2020-65.png",
   "scouts": {
-    "rodada_id": 27,
+    "rodada_id": 28,
     "g": 0,
     "a": 0,
     "sg": 1,
@@ -206,7 +206,7 @@
     "v": 0,
     "pontos_num": 0,
     "preco_num": 3.85,
-    "variacao_num": -0.61,
+    "variacao_num": 0,
     "media_num": 2.6,
     "jogos_num": 5,
     "posicao_abrev": "gol",

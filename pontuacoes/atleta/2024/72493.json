@@ -8,27 +8,32 @@
   "rodadas": [
     25,
     26,
-    27
+    27,
+    28
   ],
   "pontos": [
     0,
     0,
-    5
+    5,
+    7.5
   ],
   "precos": [
     8,
     7.14,
-    7.56
+    7.56,
+    8.33
   ],
   "variacoes": [
     0,
     -0.86,
-    0.42
+    0.42,
+    0.77
   ],
   "medias": [
     0,
     0,
-    2.5
+    2.5,
+    4.17
   ],
   "partidas": [
     {
@@ -69,18 +74,31 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-65.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 28,
+      "clube_casa": "Botafogo",
+      "clube_casa_id": 263,
+      "clube_visitante": "Grêmio",
+      "clube_casa_abrev": "BOT",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-65.png",
+      "clube_visitante_id": 284,
+      "clube_visitante_abrev": "GRE",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/gremio_60x60.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/09/03/photo_220x220_Dy4LFfE.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-65.png",
   "scouts": {
-    "rodada_id": 27,
+    "rodada_id": 28,
     "g": 0,
     "a": 0,
-    "sg": 1,
-    "fs": 0,
-    "ff": 0,
-    "fd": 0,
+    "sg": 2,
+    "fs": 1,
+    "ff": 1,
+    "fd": 1,
     "ft": 0,
     "de": 0,
     "dp": 0,
@@ -96,11 +114,11 @@
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 5,
-    "preco_num": 7.56,
-    "variacao_num": 0.42,
-    "media_num": 2.5,
-    "jogos_num": 2,
+    "pontos_num": 7.5,
+    "preco_num": 8.33,
+    "variacao_num": 0.77,
+    "media_num": 4.17,
+    "jogos_num": 3,
     "posicao_abrev": "lat",
     "posicao": "Lateral"
   }

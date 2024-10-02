@@ -6,7 +6,6 @@
   "clube_id": 284,
   "posicao": "Meia",
   "rodadas": [
-    17,
     18,
     20,
     21,
@@ -14,10 +13,10 @@
     24,
     25,
     26,
-    27
+    27,
+    28
   ],
   "pontos": [
-    3.2,
     6.7,
     3.1,
     0,
@@ -25,10 +24,10 @@
     2.3,
     2.6,
     2.4,
-    1.9
+    1.9,
+    1.2
   ],
   "precos": [
-    8.51,
     9.11,
     9.17,
     9.17,
@@ -36,10 +35,10 @@
     8.7,
     8.64,
     8.56,
-    8.22
+    8.22,
+    8.14
   ],
   "variacoes": [
-    -0.5,
     0.6,
     -1.82,
     0,
@@ -47,10 +46,10 @@
     -0.18,
     -0.06,
     -0.08,
-    -0.34
+    -0.34,
+    -0.08
   ],
   "medias": [
-    3.58,
     3.93,
     4.97,
     4.97,
@@ -58,22 +57,10 @@
     4.57,
     4.43,
     4.29,
-    4.14
+    4.14,
+    3.97
   ],
   "partidas": [
-    {
-      "rodada_id": 17,
-      "clube_casa": "São Paulo",
-      "clube_casa_id": 276,
-      "clube_visitante": "Grêmio",
-      "clube_casa_abrev": "SAO",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/sao_paulo_60x60.png",
-      "clube_visitante_id": 284,
-      "clube_visitante_abrev": "GRE",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/gremio_60x60.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 18,
       "clube_casa": "Grêmio",
@@ -177,38 +164,51 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2018/04/09/Flamengo-65.png",
       "placar_oficial_mandante": 3,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 28,
+      "clube_casa": "Botafogo",
+      "clube_casa_id": 263,
+      "clube_visitante": "Grêmio",
+      "clube_casa_abrev": "BOT",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-65.png",
+      "clube_visitante_id": 284,
+      "clube_visitante_abrev": "GRE",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/gremio_60x60.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/03/11/photo_220x220_hHpUtkJ.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2014/04/14/gremio_60x60.png",
   "scouts": {
-    "rodada_id": 27,
+    "rodada_id": 28,
     "g": 1,
     "a": 1,
     "sg": 0,
-    "fs": 17,
-    "ff": 1,
+    "fs": 18,
+    "ff": 2,
     "fd": 3,
     "ft": 0,
     "de": 0,
     "dp": 0,
     "gc": 0,
     "cv": 0,
-    "ca": 2,
+    "ca": 3,
     "pp": 0,
     "gs": 0,
-    "fc": 23,
+    "fc": 28,
     "i": 0,
-    "ds": 41,
+    "ds": 43,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 1.9,
-    "preco_num": 8.22,
-    "variacao_num": -0.34,
-    "media_num": 4.14,
-    "jogos_num": 16,
+    "pontos_num": 1.2,
+    "preco_num": 8.14,
+    "variacao_num": -0.08,
+    "media_num": 3.97,
+    "jogos_num": 17,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }

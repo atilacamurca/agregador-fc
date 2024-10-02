@@ -10,13 +10,15 @@
     24,
     25,
     26,
-    27
+    27,
+    28
   ],
   "pontos": [
     0,
     0.5,
     7.7,
     2,
+    0,
     0
   ],
   "precos": [
@@ -24,6 +26,7 @@
     7.45,
     8.46,
     7.38,
+    6.59,
     6.59
   ],
   "variacoes": [
@@ -31,13 +34,15 @@
     -0.83,
     1.01,
     -1.08,
-    -0.79
+    -0.79,
+    0
   ],
   "medias": [
     4.65,
     3.27,
     4.38,
     3.9,
+    3.25,
     3.25
   ],
   "partidas": [
@@ -105,12 +110,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2020/07/02/atletico-go-2020-65.png",
       "placar_oficial_mandante": 3,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 28,
+      "clube_casa": "São Paulo",
+      "clube_casa_id": 276,
+      "clube_visitante": "Corinthians",
+      "clube_casa_abrev": "SAO",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/sao_paulo_60x60.png",
+      "clube_visitante_id": 264,
+      "clube_visitante_abrev": "COR",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/09/30/Corinthians_65.png",
+      "placar_oficial_mandante": 3,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/08/16/photo_220x220_vjED9BC.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2019/09/30/Corinthians_65.png",
   "scouts": {
-    "rodada_id": 27,
+    "rodada_id": 28,
     "g": 2,
     "a": 0,
     "sg": 0,
@@ -134,7 +152,7 @@
     "v": 0,
     "pontos_num": 0,
     "preco_num": 6.59,
-    "variacao_num": -0.79,
+    "variacao_num": 0,
     "media_num": 3.25,
     "jogos_num": 6,
     "posicao_abrev": "ata",

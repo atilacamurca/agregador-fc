@@ -6,7 +6,6 @@
   "clube_id": 288,
   "posicao": "Atacante",
   "rodadas": [
-    17,
     18,
     20,
     21,
@@ -14,7 +13,8 @@
     24,
     25,
     26,
-    27
+    27,
+    28
   ],
   "pontos": [
     0,
@@ -22,8 +22,8 @@
     0,
     0,
     0,
-    0,
     -0.3,
+    0,
     0,
     0
   ],
@@ -33,7 +33,7 @@
     3.44,
     3.44,
     3.44,
-    3.44,
+    2.81,
     2.81,
     2.81,
     2.81
@@ -44,8 +44,8 @@
     0,
     0,
     0,
-    0,
     -0.63,
+    0,
     0,
     0
   ],
@@ -55,25 +55,12 @@
     1.7,
     1.7,
     1.7,
-    1.7,
+    1.03,
     1.03,
     1.03,
     1.03
   ],
   "partidas": [
-    {
-      "rodada_id": 17,
-      "clube_casa": "Corinthians",
-      "clube_casa_id": 264,
-      "clube_visitante": "Criciúma",
-      "clube_casa_abrev": "COR",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2019/09/30/Corinthians_65.png",
-      "clube_visitante_id": 288,
-      "clube_visitante_abrev": "CRI",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2024/03/28/criciuma-65.png",
-      "placar_oficial_mandante": 2,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 18,
       "clube_casa": "Flamengo",
@@ -177,12 +164,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/09/09/Athletico-PR-65x65.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 28,
+      "clube_casa": "Bahia",
+      "clube_casa_id": 265,
+      "clube_visitante": "Criciúma",
+      "clube_casa_abrev": "BAH",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/bahia_60x60.png",
+      "clube_visitante_id": 288,
+      "clube_visitante_abrev": "CRI",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2024/03/28/criciuma-65.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/08/15/photo_220x220_ouzG8H9.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2024/03/28/criciuma-65.png",
   "scouts": {
-    "rodada_id": 27,
+    "rodada_id": 28,
     "g": 0,
     "a": 0,
     "sg": 0,

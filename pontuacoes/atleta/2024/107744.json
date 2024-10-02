@@ -6,7 +6,6 @@
   "clube_id": 293,
   "posicao": "Meia",
   "rodadas": [
-    17,
     18,
     20,
     21,
@@ -14,10 +13,10 @@
     24,
     25,
     26,
-    27
+    27,
+    28
   ],
   "pontos": [
-    3.7,
     1.4,
     0,
     0,
@@ -25,10 +24,10 @@
     -0.6,
     0,
     0,
-    3.2
+    3.2,
+    0.9
   ],
   "precos": [
-    3.51,
     3.22,
     3.22,
     3.22,
@@ -36,10 +35,10 @@
     2.74,
     2.74,
     2.7,
-    3.12
+    3.12,
+    2.85
   ],
   "variacoes": [
-    0.23,
     -0.29,
     0,
     0,
@@ -47,10 +46,10 @@
     -0.48,
     0,
     -0.04,
-    0.42
+    0.42,
+    -0.27
   ],
   "medias": [
-    1.04,
     1.1,
     1.1,
     1.1,
@@ -58,22 +57,10 @@
     0.86,
     0.86,
     0.75,
-    1.02
+    1.02,
+    1.01
   ],
   "partidas": [
-    {
-      "rodada_id": 17,
-      "clube_casa": "Fluminense",
-      "clube_casa_id": 266,
-      "clube_visitante": "Athlético-PR",
-      "clube_casa_abrev": "FLU",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/fluminense_60x60.png",
-      "clube_visitante_id": 293,
-      "clube_visitante_abrev": "ATL",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/09/09/Athletico-PR-65x65.png",
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 18,
       "clube_casa": "Bragantino",
@@ -177,12 +164,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/09/09/Athletico-PR-65x65.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 28,
+      "clube_casa": "Flamengo",
+      "clube_casa_id": 262,
+      "clube_visitante": "Athlético-PR",
+      "clube_casa_abrev": "FLA",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2018/04/09/Flamengo-65.png",
+      "clube_visitante_id": 293,
+      "clube_visitante_abrev": "ATL",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/09/09/Athletico-PR-65x65.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/08/24/photo_220x220_Jq0f2vP.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2019/09/09/Athletico-PR-65x65.png",
   "scouts": {
-    "rodada_id": 27,
+    "rodada_id": 28,
     "g": 0,
     "a": 0,
     "sg": 0,
@@ -197,18 +197,18 @@
     "ca": 2,
     "pp": 0,
     "gs": 0,
-    "fc": 10,
+    "fc": 11,
     "i": 0,
-    "ds": 6,
+    "ds": 7,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 3.2,
-    "preco_num": 3.12,
-    "variacao_num": 0.42,
-    "media_num": 1.02,
-    "jogos_num": 9,
+    "pontos_num": 0.9,
+    "preco_num": 2.85,
+    "variacao_num": -0.27,
+    "media_num": 1.01,
+    "jogos_num": 10,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }
