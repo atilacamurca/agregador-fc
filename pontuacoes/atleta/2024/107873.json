@@ -6,7 +6,6 @@
   "clube_id": 276,
   "posicao": "Meia",
   "rodadas": [
-    18,
     20,
     21,
     23,
@@ -14,10 +13,10 @@
     25,
     26,
     27,
-    28
+    28,
+    29
   ],
   "pontos": [
-    0.6,
     3.8,
     4.1,
     0,
@@ -25,10 +24,10 @@
     -0.7,
     0,
     7.1,
-    0.9
+    0.9,
+    0
   ],
   "precos": [
-    3.84,
     4.16,
     4.31,
     4.47,
@@ -36,10 +35,10 @@
     3.71,
     3.71,
     4.78,
-    4.05
+    4.05,
+    3.99
   ],
   "variacoes": [
-    -0.09,
     0.5,
     0.15,
     0.26,
@@ -47,10 +46,10 @@
     -0.76,
     0,
     1.07,
-    -0.73
+    -0.73,
+    -0.06
   ],
   "medias": [
-    1.94,
     1.95,
     2.15,
     2.43,
@@ -58,22 +57,10 @@
     2.21,
     2.21,
     2.54,
-    2.44
+    2.44,
+    2.35
   ],
   "partidas": [
-    {
-      "rodada_id": 18,
-      "clube_casa": "Juventude",
-      "clube_casa_id": 286,
-      "clube_visitante": "São Paulo",
-      "clube_casa_abrev": "JUV",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2021/04/29/juventude65.png",
-      "clube_visitante_id": 276,
-      "clube_visitante_abrev": "SAO",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/sao_paulo_60x60.png",
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 20,
       "clube_casa": "Fortaleza",
@@ -177,12 +164,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/09/30/Corinthians_65.png",
       "placar_oficial_mandante": 3,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 29,
+      "clube_casa": "Cuiabá",
+      "clube_casa_id": 1371,
+      "clube_visitante": "São Paulo",
+      "clube_casa_abrev": "CUI",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/16/cuiaba65.png",
+      "clube_visitante_id": 276,
+      "clube_visitante_abrev": "SAO",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/sao_paulo_60x60.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/03/01/photo_220x220_BoNwEka.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2014/04/14/sao_paulo_60x60.png",
   "scouts": {
-    "rodada_id": 28,
+    "rodada_id": 29,
     "g": 1,
     "a": 0,
     "sg": 0,
@@ -197,18 +197,18 @@
     "ca": 3,
     "pp": 0,
     "gs": 0,
-    "fc": 23,
+    "fc": 24,
     "i": 0,
-    "ds": 23,
+    "ds": 24,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 0.9,
-    "preco_num": 4.05,
-    "variacao_num": -0.73,
-    "media_num": 2.44,
-    "jogos_num": 16,
+    "pontos_num": 0,
+    "preco_num": 3.99,
+    "variacao_num": -0.06,
+    "media_num": 2.35,
+    "jogos_num": 17,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }

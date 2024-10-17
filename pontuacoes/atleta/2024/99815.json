@@ -6,7 +6,6 @@
   "clube_id": 266,
   "posicao": "Meia",
   "rodadas": [
-    18,
     20,
     21,
     23,
@@ -14,10 +13,10 @@
     25,
     26,
     27,
-    28
+    28,
+    29
   ],
   "pontos": [
-    6.9,
     1.9,
     4.2,
     0,
@@ -25,10 +24,10 @@
     3.8,
     11.4,
     8.3,
-    2.2
+    2.2,
+    0
   ],
   "precos": [
-    13.34,
     13.03,
     13.12,
     12.7,
@@ -36,10 +35,10 @@
     12.81,
     13.97,
     13.36,
-    12.64
+    12.64,
+    14.07
   ],
   "variacoes": [
-    0.38,
     -2.43,
     0.09,
     0,
@@ -47,10 +46,10 @@
     -1.31,
     1.16,
     -0.61,
-    -0.72
+    -0.72,
+    1.43
   ],
   "medias": [
-    5.57,
     6.5,
     6.27,
     6.02,
@@ -58,22 +57,10 @@
     6.41,
     6.77,
     6.87,
-    6.58
+    6.58,
+    6.93
   ],
   "partidas": [
-    {
-      "rodada_id": 18,
-      "clube_casa": "Cuiabá",
-      "clube_casa_id": 1371,
-      "clube_visitante": "Fluminense",
-      "clube_casa_abrev": "CUI",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/16/cuiaba65.png",
-      "clube_visitante_id": 266,
-      "clube_visitante_abrev": "FLU",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/fluminense_60x60.png",
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 20,
       "clube_casa": "Bragantino",
@@ -177,38 +164,51 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/fluminense_60x60.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 29,
+      "clube_casa": "Fluminense",
+      "clube_casa_id": 266,
+      "clube_visitante": "Cruzeiro",
+      "clube_casa_abrev": "FLU",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/fluminense_60x60.png",
+      "clube_visitante_id": 283,
+      "clube_visitante_abrev": "CRU",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/02/13/65_cruzeiro-2021.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/04/09/photo_220x220_RYUmTsY.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2014/04/14/fluminense_60x60.png",
   "scouts": {
-    "rodada_id": 28,
-    "g": 3,
+    "rodada_id": 29,
+    "g": 4,
     "a": 1,
     "sg": 0,
-    "fs": 45,
-    "ff": 16,
+    "fs": 48,
+    "ff": 17,
     "fd": 11,
-    "ft": 0,
+    "ft": 1,
     "de": 0,
     "dp": 0,
     "gc": 0,
     "cv": 0,
-    "ca": 3,
+    "ca": 4,
     "pp": 0,
     "gs": 0,
-    "fc": 17,
+    "fc": 20,
     "i": 1,
-    "ds": 30,
+    "ds": 31,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 2.2,
-    "preco_num": 12.64,
-    "variacao_num": -0.72,
-    "media_num": 6.58,
-    "jogos_num": 16,
+    "pontos_num": 0,
+    "preco_num": 14.07,
+    "variacao_num": 1.43,
+    "media_num": 6.93,
+    "jogos_num": 17,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }

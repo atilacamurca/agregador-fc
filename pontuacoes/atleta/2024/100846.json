@@ -6,7 +6,6 @@
   "clube_id": 287,
   "posicao": "Lateral",
   "rodadas": [
-    18,
     20,
     21,
     23,
@@ -14,10 +13,10 @@
     25,
     26,
     27,
-    28
+    28,
+    29
   ],
   "pontos": [
-    0.4,
     6.2,
     0,
     0,
@@ -25,10 +24,10 @@
     4.5,
     4.5,
     6.3,
-    7.9
+    7.9,
+    0
   ],
   "precos": [
-    3.44,
     4.17,
     4.17,
     3.79,
@@ -36,10 +35,10 @@
     3.98,
     4.06,
     4.31,
-    4.73
+    4.73,
+    4.35
   ],
   "variacoes": [
-    -0.17,
     1.02,
     0,
     0.47,
@@ -47,10 +46,10 @@
     0.38,
     0.08,
     0.25,
-    0.42
+    0.42,
+    -0.38
   ],
   "medias": [
-    2.61,
     2.6,
     2.6,
     2.53,
@@ -58,22 +57,10 @@
     2.6,
     2.69,
     2.85,
-    3.06
+    3.06,
+    3.12
   ],
   "partidas": [
-    {
-      "rodada_id": 18,
-      "clube_casa": "Grêmio",
-      "clube_casa_id": 284,
-      "clube_visitante": "Vitória",
-      "clube_casa_abrev": "GRE",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/gremio_60x60.png",
-      "clube_visitante_id": 287,
-      "clube_visitante_abrev": "VIT",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2024/04/09/escudo-vitoria-65x65-69284.png",
-      "placar_oficial_mandante": 2,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 20,
       "clube_casa": "Palmeiras",
@@ -177,19 +164,32 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2024/04/09/escudo-vitoria-65x65-69284.png",
       "placar_oficial_mandante": 3,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 29,
+      "clube_casa": "Atlético-MG",
+      "clube_casa_id": 282,
+      "clube_visitante": "Vitória",
+      "clube_casa_abrev": "ATL",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2017/11/23/Atletico-Mineiro-escudo65px.png",
+      "clube_visitante_id": 287,
+      "clube_visitante_abrev": "VIT",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2024/04/09/escudo-vitoria-65x65-69284.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/04/12/photo_220x220_Oqbbci1.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2024/04/09/escudo-vitoria-65x65-69284.png",
   "scouts": {
-    "rodada_id": 28,
+    "rodada_id": 29,
     "g": 1,
     "a": 2,
     "sg": 3,
     "fs": 19,
     "ff": 13,
     "fd": 3,
-    "ft": 0,
+    "ft": 1,
     "de": 0,
     "dp": 0,
     "gc": 0,
@@ -197,18 +197,18 @@
     "ca": 8,
     "pp": 0,
     "gs": 0,
-    "fc": 26,
+    "fc": 29,
     "i": 7,
-    "ds": 27,
+    "ds": 29,
     "pi": 0,
     "pc": 0,
     "ps": 1,
     "v": 0,
-    "pontos_num": 7.9,
-    "preco_num": 4.73,
-    "variacao_num": 0.42,
-    "media_num": 3.06,
-    "jogos_num": 24,
+    "pontos_num": 0,
+    "preco_num": 4.35,
+    "variacao_num": -0.38,
+    "media_num": 3.12,
+    "jogos_num": 25,
     "posicao_abrev": "lat",
     "posicao": "Lateral"
   }

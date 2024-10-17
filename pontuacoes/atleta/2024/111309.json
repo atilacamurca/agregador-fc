@@ -6,7 +6,6 @@
   "clube_id": 284,
   "posicao": "Zagueiro",
   "rodadas": [
-    18,
     20,
     21,
     23,
@@ -14,10 +13,10 @@
     25,
     26,
     27,
-    28
+    28,
+    29
   ],
   "pontos": [
-    0,
     0,
     16.2,
     0,
@@ -25,10 +24,10 @@
     -3.6,
     0,
     2.1,
-    9.1
+    9.1,
+    0
   ],
   "precos": [
-    5.43,
     5.43,
     7.78,
     5.54,
@@ -36,10 +35,10 @@
     4.9,
     4.9,
     5.47,
-    6.64
+    6.64,
+    5.4
   ],
   "variacoes": [
-    0,
     0,
     2.35,
     0,
@@ -47,10 +46,10 @@
     -1.33,
     0,
     0.57,
-    1.17
+    1.17,
+    -1.24
   ],
   "medias": [
-    2.32,
     2.32,
     3.58,
     3.26,
@@ -58,22 +57,10 @@
     2.89,
     2.89,
     2.84,
-    3.23
+    3.23,
+    3.04
   ],
   "partidas": [
-    {
-      "rodada_id": 18,
-      "clube_casa": "Grêmio",
-      "clube_casa_id": 284,
-      "clube_visitante": "Vitória",
-      "clube_casa_abrev": "GRE",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/gremio_60x60.png",
-      "clube_visitante_id": 287,
-      "clube_visitante_abrev": "VIT",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2024/04/09/escudo-vitoria-65x65-69284.png",
-      "placar_oficial_mandante": 2,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 20,
       "clube_casa": "Grêmio",
@@ -177,12 +164,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/gremio_60x60.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 29,
+      "clube_casa": "Grêmio",
+      "clube_casa_id": 284,
+      "clube_visitante": "Fortaleza",
+      "clube_casa_abrev": "GRE",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/gremio_60x60.png",
+      "clube_visitante_id": 356,
+      "clube_visitante_abrev": "FOR",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/09/19/65_0000_Fortaleza-2021.png",
+      "placar_oficial_mandante": 3,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/03/11/photo_220x220_0UAzL2e.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2014/04/14/gremio_60x60.png",
   "scouts": {
-    "rodada_id": 28,
+    "rodada_id": 29,
     "g": 2,
     "a": 0,
     "sg": 5,
@@ -204,11 +204,11 @@
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 9.1,
-    "preco_num": 6.64,
-    "variacao_num": 1.17,
-    "media_num": 3.23,
-    "jogos_num": 16,
+    "pontos_num": 0,
+    "preco_num": 5.4,
+    "variacao_num": -1.24,
+    "media_num": 3.04,
+    "jogos_num": 17,
     "posicao_abrev": "zag",
     "posicao": "Zagueiro"
   }

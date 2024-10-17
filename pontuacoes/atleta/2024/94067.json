@@ -6,7 +6,6 @@
   "clube_id": 280,
   "posicao": "Meia",
   "rodadas": [
-    18,
     20,
     21,
     23,
@@ -14,10 +13,10 @@
     25,
     26,
     27,
-    28
+    28,
+    29
   ],
   "pontos": [
-    -0.3,
     0,
     0,
     0,
@@ -25,7 +24,8 @@
     0,
     0,
     -1.9,
-    3.3
+    3.3,
+    0
   ],
   "precos": [
     8.68,
@@ -34,12 +34,11 @@
     8.68,
     8.68,
     8.68,
-    8.68,
     7.67,
+    8.29,
     8.29
   ],
   "variacoes": [
-    -2.12,
     0,
     0,
     0,
@@ -47,7 +46,8 @@
     0,
     0,
     -1.01,
-    0.62
+    0.62,
+    0
   ],
   "medias": [
     6.52,
@@ -56,24 +56,11 @@
     6.52,
     6.52,
     6.52,
-    6.52,
     5.32,
+    5.07,
     5.07
   ],
   "partidas": [
-    {
-      "rodada_id": 18,
-      "clube_casa": "Bragantino",
-      "clube_casa_id": 280,
-      "clube_visitante": "Athlético-PR",
-      "clube_casa_abrev": "BRA",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2020/01/01/65.png",
-      "clube_visitante_id": 293,
-      "clube_visitante_abrev": "ATL",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/09/09/Athletico-PR-65x65.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 20,
       "clube_casa": "Bragantino",
@@ -177,12 +164,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2020/01/01/65.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 29,
+      "clube_casa": "Bragantino",
+      "clube_casa_id": 280,
+      "clube_visitante": "Palmeiras",
+      "clube_casa_abrev": "BRA",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2020/01/01/65.png",
+      "clube_visitante_id": 275,
+      "clube_visitante_abrev": "PAL",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/palmeiras_60x60.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/01/03/photo_220x220_sgQrNPa.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2020/01/01/65.png",
   "scouts": {
-    "rodada_id": 28,
+    "rodada_id": 29,
     "g": 1,
     "a": 1,
     "sg": 0,
@@ -204,9 +204,9 @@
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 3.3,
+    "pontos_num": 0,
     "preco_num": 8.29,
-    "variacao_num": 0.62,
+    "variacao_num": 0,
     "media_num": 5.07,
     "jogos_num": 8,
     "posicao_abrev": "mei",

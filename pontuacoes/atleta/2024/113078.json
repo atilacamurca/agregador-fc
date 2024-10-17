@@ -11,7 +11,8 @@
     25,
     26,
     27,
-    28
+    28,
+    29
   ],
   "pontos": [
     0,
@@ -19,7 +20,8 @@
     0,
     10,
     1.5,
-    8.1
+    8.1,
+    0
   ],
   "precos": [
     4,
@@ -27,7 +29,8 @@
     4,
     7.4,
     6.62,
-    8.12
+    8.12,
+    6.97
   ],
   "variacoes": [
     0,
@@ -35,7 +38,8 @@
     0,
     3.4,
     -0.78,
-    1.5
+    1.5,
+    -1.15
   ],
   "medias": [
     0,
@@ -43,7 +47,8 @@
     0,
     10,
     5.75,
-    6.53
+    6.53,
+    5.12
   ],
   "partidas": [
     {
@@ -123,38 +128,51 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/16/cuiaba65.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 29,
+      "clube_casa": "Grêmio",
+      "clube_casa_id": 284,
+      "clube_visitante": "Fortaleza",
+      "clube_casa_abrev": "GRE",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/gremio_60x60.png",
+      "clube_visitante_id": 356,
+      "clube_visitante_abrev": "FOR",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/09/19/65_0000_Fortaleza-2021.png",
+      "placar_oficial_mandante": 3,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/08/14/photo_220x220_uJ8Vv8I.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2021/09/19/65_0000_Fortaleza-2021.png",
   "scouts": {
-    "rodada_id": 28,
+    "rodada_id": 29,
     "g": 0,
     "a": 1,
     "sg": 1,
     "fs": 2,
     "ff": 1,
-    "fd": 0,
+    "fd": 2,
     "ft": 0,
     "de": 0,
     "dp": 0,
     "gc": 0,
-    "cv": 0,
+    "cv": 1,
     "ca": 0,
     "pp": 0,
     "gs": 0,
-    "fc": 6,
+    "fc": 9,
     "i": 0,
-    "ds": 8,
+    "ds": 10,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 8.1,
-    "preco_num": 8.12,
-    "variacao_num": 1.5,
-    "media_num": 6.53,
-    "jogos_num": 3,
+    "pontos_num": 0,
+    "preco_num": 6.97,
+    "variacao_num": -1.15,
+    "media_num": 5.12,
+    "jogos_num": 4,
     "posicao_abrev": "lat",
     "posicao": "Lateral"
   }

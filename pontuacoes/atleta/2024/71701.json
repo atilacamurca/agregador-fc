@@ -6,7 +6,6 @@
   "clube_id": 265,
   "posicao": "Lateral",
   "rodadas": [
-    18,
     20,
     21,
     23,
@@ -14,10 +13,10 @@
     25,
     26,
     27,
-    28
+    28,
+    29
   ],
   "pontos": [
-    0.6,
     0,
     1.2,
     0,
@@ -25,10 +24,10 @@
     0.9,
     7.1,
     1.1,
-    12.2
+    12.2,
+    0
   ],
   "precos": [
-    5.32,
     5.14,
     5.06,
     5.65,
@@ -36,10 +35,10 @@
     5.38,
     6.32,
     5.4,
-    7.18
+    7.18,
+    6.09
   ],
   "variacoes": [
-    -0.26,
     0,
     -0.08,
     -0.31,
@@ -47,10 +46,10 @@
     -0.94,
     0.94,
     -0.92,
-    1.78
+    1.78,
+    -1.09
   ],
   "medias": [
-    2.93,
     2.63,
     2.47,
     3.05,
@@ -58,22 +57,10 @@
     3.25,
     3.52,
     3.36,
-    3.91
+    3.91,
+    3.88
   ],
   "partidas": [
-    {
-      "rodada_id": 18,
-      "clube_casa": "Bahia",
-      "clube_casa_id": 265,
-      "clube_visitante": "Corinthians",
-      "clube_casa_abrev": "BAH",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/bahia_60x60.png",
-      "clube_visitante_id": 264,
-      "clube_visitante_abrev": "COR",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/09/30/Corinthians_65.png",
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 20,
       "clube_casa": "Bahia",
@@ -177,38 +164,51 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2024/03/28/criciuma-65.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 29,
+      "clube_casa": "Bahia",
+      "clube_casa_id": 265,
+      "clube_visitante": "Flamengo",
+      "clube_casa_abrev": "BAH",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/bahia_60x60.png",
+      "clube_visitante_id": 262,
+      "clube_visitante_abrev": "FLA",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2018/04/09/Flamengo-65.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/02/14/photo_220x220_GVs7NkK.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2014/04/14/bahia_60x60.png",
   "scouts": {
-    "rodada_id": 28,
+    "rodada_id": 29,
     "g": 0,
     "a": 1,
     "sg": 7,
-    "fs": 15,
-    "ff": 4,
+    "fs": 17,
+    "ff": 5,
     "fd": 2,
     "ft": 0,
     "de": 0,
     "dp": 0,
     "gc": 0,
-    "cv": 0,
+    "cv": 1,
     "ca": 2,
     "pp": 0,
     "gs": 0,
-    "fc": 20,
-    "i": 3,
-    "ds": 15,
+    "fc": 21,
+    "i": 4,
+    "ds": 20,
     "pi": 0,
-    "pc": 0,
+    "pc": 1,
     "ps": 0,
     "v": 0,
-    "pontos_num": 12.2,
-    "preco_num": 7.18,
-    "variacao_num": 1.78,
-    "media_num": 3.91,
-    "jogos_num": 16,
+    "pontos_num": 0,
+    "preco_num": 6.09,
+    "variacao_num": -1.09,
+    "media_num": 3.88,
+    "jogos_num": 17,
     "posicao_abrev": "lat",
     "posicao": "Lateral"
   }
