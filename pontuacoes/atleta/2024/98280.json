@@ -14,7 +14,8 @@
     26,
     27,
     28,
-    29
+    29,
+    30
   ],
   "pontos": [
     0.7,
@@ -25,6 +26,7 @@
     2.1,
     5,
     4.1,
+    0,
     0
   ],
   "precos": [
@@ -36,6 +38,7 @@
     5.55,
     5.84,
     5.85,
+    5.98,
     5.98
   ],
   "variacoes": [
@@ -47,7 +50,8 @@
     -0.12,
     0.29,
     0.01,
-    0.13
+    0.13,
+    0
   ],
   "medias": [
     4.02,
@@ -58,6 +62,7 @@
     3.89,
     3.93,
     3.94,
+    3.98,
     3.98
   ],
   "partidas": [
@@ -177,12 +182,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-65.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 30,
+      "clube_casa": "Botafogo",
+      "clube_casa_id": 263,
+      "clube_visitante": "Criciúma",
+      "clube_casa_abrev": "BOT",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-65.png",
+      "clube_visitante_id": 288,
+      "clube_visitante_abrev": "CRI",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2024/03/28/criciuma-65.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/04/20/photo_220x220_sq29S9f.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-65.png",
   "scouts": {
-    "rodada_id": 29,
+    "rodada_id": 30,
     "g": 3,
     "a": 0,
     "sg": 12,
@@ -206,7 +224,7 @@
     "v": 0,
     "pontos_num": 0,
     "preco_num": 5.98,
-    "variacao_num": 0.13,
+    "variacao_num": 0,
     "media_num": 3.98,
     "jogos_num": 27,
     "posicao_abrev": "zag",

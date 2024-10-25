@@ -14,7 +14,8 @@
     26,
     27,
     28,
-    29
+    29,
+    30
   ],
   "pontos": [
     0,
@@ -25,7 +26,8 @@
     0,
     1.2,
     0,
-    0
+    0,
+    7.4
   ],
   "precos": [
     2.96,
@@ -36,7 +38,8 @@
     2.96,
     3,
     3,
-    3.63
+    3.63,
+    4.33
   ],
   "variacoes": [
     0,
@@ -47,7 +50,8 @@
     0,
     0.04,
     0,
-    0.63
+    0.63,
+    0.7
   ],
   "medias": [
     0.25,
@@ -58,7 +62,8 @@
     0.25,
     0.39,
     0.39,
-    0.9
+    0.9,
+    1.62
   ],
   "partidas": [
     {
@@ -177,15 +182,28 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/02/13/65_cruzeiro-2021.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 30,
+      "clube_casa": "Flamengo",
+      "clube_casa_id": 262,
+      "clube_visitante": "Fluminense",
+      "clube_casa_abrev": "FLA",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2018/04/09/Flamengo-65.png",
+      "clube_visitante_id": 266,
+      "clube_visitante_abrev": "FLU",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/fluminense_60x60.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/04/09/photo_220x220_pkJzHQB.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2014/04/14/fluminense_60x60.png",
   "scouts": {
-    "rodada_id": 29,
+    "rodada_id": 30,
     "g": 0,
     "a": 0,
-    "sg": 1,
+    "sg": 2,
     "fs": 3,
     "ff": 0,
     "fd": 1,
@@ -199,16 +217,16 @@
     "gs": 0,
     "fc": 7,
     "i": 0,
-    "ds": 3,
+    "ds": 5,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 0,
-    "preco_num": 3.63,
-    "variacao_num": 0.63,
-    "media_num": 0.9,
-    "jogos_num": 8,
+    "pontos_num": 7.4,
+    "preco_num": 4.33,
+    "variacao_num": 0.7,
+    "media_num": 1.62,
+    "jogos_num": 9,
     "posicao_abrev": "zag",
     "posicao": "Zagueiro"
   }

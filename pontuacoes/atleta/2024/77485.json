@@ -10,35 +10,40 @@
     26,
     27,
     28,
-    29
+    29,
+    30
   ],
   "pontos": [
     0,
     1.2,
     0.9,
     7.4,
-    0
+    0,
+    7.3
   ],
   "precos": [
     7,
     6.71,
     6.02,
     7.18,
-    6.43
+    6.43,
+    7.15
   ],
   "variacoes": [
     0,
     -0.29,
     -0.69,
     1.16,
-    -0.75
+    -0.75,
+    0.72
   ],
   "medias": [
     0,
     1.2,
     1.05,
     3.17,
-    3.08
+    3.08,
+    3.92
   ],
   "partidas": [
     {
@@ -105,18 +110,31 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2016/05/03/inter65.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 30,
+      "clube_casa": "Corinthians",
+      "clube_casa_id": 264,
+      "clube_visitante": "Athlético-PR",
+      "clube_casa_abrev": "COR",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2019/09/30/Corinthians_65.png",
+      "clube_visitante_id": 293,
+      "clube_visitante_abrev": "ATL",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/09/09/Athletico-PR-65x65.png",
+      "placar_oficial_mandante": 5,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/09/10/photo_220x220.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2019/09/30/Corinthians_65.png",
   "scouts": {
-    "rodada_id": 29,
+    "rodada_id": 30,
     "g": 0,
     "a": 1,
     "sg": 0,
-    "fs": 1,
-    "ff": 0,
-    "fd": 0,
+    "fs": 2,
+    "ff": 1,
+    "fd": 1,
     "ft": 0,
     "de": 0,
     "dp": 0,
@@ -127,16 +145,16 @@
     "gs": 0,
     "fc": 6,
     "i": 0,
-    "ds": 8,
+    "ds": 12,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 0,
-    "preco_num": 6.43,
-    "variacao_num": -0.75,
-    "media_num": 3.08,
-    "jogos_num": 4,
+    "pontos_num": 7.3,
+    "preco_num": 7.15,
+    "variacao_num": 0.72,
+    "media_num": 3.92,
+    "jogos_num": 5,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }

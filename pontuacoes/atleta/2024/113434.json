@@ -10,35 +10,40 @@
     26,
     27,
     28,
-    29
+    29,
+    30
   ],
   "pontos": [
     1.6,
     1.2,
     0.9,
     1.3,
-    0
+    0,
+    1.7
   ],
   "precos": [
     4.16,
     3.98,
     3.61,
     3.48,
-    4.19
+    4.19,
+    3.72
   ],
   "variacoes": [
     0.16,
     -0.18,
     -0.37,
     -0.13,
-    0.71
+    0.71,
+    -0.47
   ],
   "medias": [
     1.6,
     1.4,
     1.23,
     1.25,
-    2.08
+    2.08,
+    2.02
   ],
   "partidas": [
     {
@@ -105,38 +110,51 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2020/07/02/atletico-go-2020-65.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 30,
+      "clube_casa": "Atlético-GO",
+      "clube_casa_id": 373,
+      "clube_visitante": "Cuiabá",
+      "clube_casa_abrev": "ATL",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2020/07/02/atletico-go-2020-65.png",
+      "clube_visitante_id": 1371,
+      "clube_visitante_abrev": "CUI",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/16/cuiaba65.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/08/30/photo_220x220_ZNed6IC.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2020/07/02/atletico-go-2020-65.png",
   "scouts": {
-    "rodada_id": 29,
+    "rodada_id": 30,
     "g": 0,
     "a": 0,
     "sg": 0,
-    "fs": 3,
-    "ff": 4,
-    "fd": 2,
+    "fs": 4,
+    "ff": 6,
+    "fd": 3,
     "ft": 0,
     "de": 0,
     "dp": 0,
     "gc": 0,
     "cv": 0,
-    "ca": 0,
+    "ca": 1,
     "pp": 0,
     "gs": 0,
-    "fc": 5,
+    "fc": 7,
     "i": 0,
     "ds": 4,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 0,
-    "preco_num": 4.19,
-    "variacao_num": 0.71,
-    "media_num": 2.08,
-    "jogos_num": 5,
+    "pontos_num": 1.7,
+    "preco_num": 3.72,
+    "variacao_num": -0.47,
+    "media_num": 2.02,
+    "jogos_num": 6,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }

@@ -14,7 +14,8 @@
     26,
     27,
     28,
-    29
+    29,
+    30
   ],
   "pontos": [
     0,
@@ -25,7 +26,8 @@
     0,
     0,
     0,
-    0
+    0,
+    0.5
   ],
   "precos": [
     6.26,
@@ -36,7 +38,8 @@
     6.26,
     6.26,
     6.26,
-    6.26
+    6.26,
+    6.47
   ],
   "variacoes": [
     0,
@@ -47,7 +50,8 @@
     0,
     0,
     0,
-    0
+    0,
+    0.21
   ],
   "medias": [
     3.2,
@@ -58,7 +62,8 @@
     3.2,
     3.2,
     3.2,
-    3.2
+    3.2,
+    2.95
   ],
   "partidas": [
     {
@@ -177,17 +182,30 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-65.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 30,
+      "clube_casa": "Botafogo",
+      "clube_casa_id": 263,
+      "clube_visitante": "Criciúma",
+      "clube_casa_abrev": "BOT",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-65.png",
+      "clube_visitante_id": 288,
+      "clube_visitante_abrev": "CRI",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2024/03/28/criciuma-65.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/04/20/photo_220x220_oIeJUEt.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-65.png",
   "scouts": {
-    "rodada_id": 29,
+    "rodada_id": 30,
     "g": 2,
     "a": 1,
     "sg": 0,
     "fs": 9,
-    "ff": 4,
+    "ff": 5,
     "fd": 3,
     "ft": 0,
     "de": 0,
@@ -197,18 +215,18 @@
     "ca": 1,
     "pp": 1,
     "gs": 0,
-    "fc": 8,
+    "fc": 9,
     "i": 1,
     "ds": 6,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 0,
-    "preco_num": 6.26,
-    "variacao_num": 0,
-    "media_num": 3.2,
-    "jogos_num": 10,
+    "pontos_num": 0.5,
+    "preco_num": 6.47,
+    "variacao_num": 0.21,
+    "media_num": 2.95,
+    "jogos_num": 11,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }

@@ -14,7 +14,8 @@
     26,
     27,
     28,
-    29
+    29,
+    30
   ],
   "pontos": [
     0,
@@ -25,6 +26,7 @@
     1.2,
     0.8,
     7.4,
+    0,
     0
   ],
   "precos": [
@@ -36,6 +38,7 @@
     1.54,
     1.46,
     2.54,
+    1.97,
     1.97
   ],
   "variacoes": [
@@ -47,7 +50,8 @@
     0.22,
     -0.08,
     1.08,
-    -0.57
+    -0.57,
+    0
   ],
   "medias": [
     0.47,
@@ -58,6 +62,7 @@
     0.52,
     0.54,
     0.97,
+    1.05,
     1.05
   ],
   "partidas": [
@@ -177,12 +182,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2020/07/02/atletico-go-2020-65.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 30,
+      "clube_casa": "Atlético-GO",
+      "clube_casa_id": 373,
+      "clube_visitante": "Cuiabá",
+      "clube_casa_abrev": "ATL",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2020/07/02/atletico-go-2020-65.png",
+      "clube_visitante_id": 1371,
+      "clube_visitante_abrev": "CUI",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/16/cuiaba65.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/02/28/photo_220x220_lm7UgU1.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2020/07/02/atletico-go-2020-65.png",
   "scouts": {
-    "rodada_id": 29,
+    "rodada_id": 30,
     "g": 0,
     "a": 0,
     "sg": 2,
@@ -206,7 +224,7 @@
     "v": 0,
     "pontos_num": 0,
     "preco_num": 1.97,
-    "variacao_num": -0.57,
+    "variacao_num": 0,
     "media_num": 1.05,
     "jogos_num": 17,
     "posicao_abrev": "zag",

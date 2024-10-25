@@ -14,7 +14,8 @@
     26,
     27,
     28,
-    29
+    29,
+    30
   ],
   "pontos": [
     0.2,
@@ -25,6 +26,7 @@
     0,
     0,
     4.5,
+    0,
     0
   ],
   "precos": [
@@ -36,6 +38,7 @@
     2.76,
     2.76,
     3.4,
+    2.79,
     2.79
   ],
   "variacoes": [
@@ -47,7 +50,8 @@
     -0.04,
     0,
     0.64,
-    -0.61
+    -0.61,
+    0
   ],
   "medias": [
     0.92,
@@ -58,6 +62,7 @@
     0.89,
     0.89,
     1.08,
+    1.03,
     1.03
   ],
   "partidas": [
@@ -177,12 +182,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2020/07/02/atletico-go-2020-65.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 30,
+      "clube_casa": "Botafogo",
+      "clube_casa_id": 263,
+      "clube_visitante": "Criciúma",
+      "clube_casa_abrev": "BOT",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-65.png",
+      "clube_visitante_id": 288,
+      "clube_visitante_abrev": "CRI",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2024/03/28/criciuma-65.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/01/16/photo_220x220_cYCP9RY.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2024/03/28/criciuma-65.png",
   "scouts": {
-    "rodada_id": 29,
+    "rodada_id": 30,
     "g": 0,
     "a": 0,
     "sg": 0,
@@ -206,7 +224,7 @@
     "v": 0,
     "pontos_num": 0,
     "preco_num": 2.79,
-    "variacao_num": -0.61,
+    "variacao_num": 0,
     "media_num": 1.03,
     "jogos_num": 20,
     "posicao_abrev": "mei",

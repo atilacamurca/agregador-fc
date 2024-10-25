@@ -14,7 +14,8 @@
     26,
     27,
     28,
-    29
+    29,
+    30
   ],
   "pontos": [
     1.9,
@@ -25,7 +26,8 @@
     0,
     0,
     0,
-    0
+    0,
+    1.2
   ],
   "precos": [
     4.99,
@@ -36,7 +38,8 @@
     4.62,
     4.62,
     4.62,
-    4.53
+    4.53,
+    4.63
   ],
   "variacoes": [
     0,
@@ -47,7 +50,8 @@
     -0.31,
     0,
     0,
-    -0.09
+    -0.09,
+    0.1
   ],
   "medias": [
     3.59,
@@ -58,7 +62,8 @@
     3.25,
     3.25,
     3.25,
-    3.11
+    3.11,
+    3.03
   ],
   "partidas": [
     {
@@ -177,18 +182,31 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/04/29/juventude65.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 30,
+      "clube_casa": "Juventude",
+      "clube_casa_id": 286,
+      "clube_visitante": "Palmeiras",
+      "clube_casa_abrev": "JUV",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2021/04/29/juventude65.png",
+      "clube_visitante_id": 275,
+      "clube_visitante_abrev": "PAL",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/palmeiras_60x60.png",
+      "placar_oficial_mandante": 3,
+      "placar_oficial_visitante": 5
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/03/11/photo_220x220_GS948NH.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2021/04/29/juventude65.png",
   "scouts": {
-    "rodada_id": 29,
+    "rodada_id": 30,
     "g": 3,
     "a": 1,
     "sg": 0,
     "fs": 7,
     "ff": 6,
-    "fd": 10,
+    "fd": 11,
     "ft": 0,
     "de": 0,
     "dp": 0,
@@ -204,11 +222,11 @@
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 0,
-    "preco_num": 4.53,
-    "variacao_num": -0.09,
-    "media_num": 3.11,
-    "jogos_num": 23,
+    "pontos_num": 1.2,
+    "preco_num": 4.63,
+    "variacao_num": 0.1,
+    "media_num": 3.03,
+    "jogos_num": 24,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }
