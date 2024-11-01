@@ -6,7 +6,6 @@
   "clube_id": 1371,
   "posicao": "Lateral",
   "rodadas": [
-    20,
     21,
     23,
     24,
@@ -15,13 +14,14 @@
     27,
     28,
     29,
-    30
+    30,
+    31
   ],
   "pontos": [
     0,
     0,
-    0,
     1.2,
+    0,
     0,
     0,
     0,
@@ -31,8 +31,8 @@
   ],
   "precos": [
     1,
-    1,
     2.75,
+    2.48,
     2.48,
     2.48,
     2.48,
@@ -43,9 +43,9 @@
   ],
   "variacoes": [
     0,
-    0,
     1.29,
     -0.27,
+    0,
     0,
     0,
     0,
@@ -55,8 +55,8 @@
   ],
   "medias": [
     0,
-    0,
     3.4,
+    2.67,
     2.67,
     2.67,
     2.67,
@@ -66,19 +66,6 @@
     2.67
   ],
   "partidas": [
-    {
-      "rodada_id": 20,
-      "clube_casa": "Cuiabá",
-      "clube_casa_id": 1371,
-      "clube_visitante": "Athlético-PR",
-      "clube_casa_abrev": "CUI",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/16/cuiaba65.png",
-      "clube_visitante_id": 293,
-      "clube_visitante_abrev": "ATL",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/09/09/Athletico-PR-65x65.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 2
-    },
     {
       "rodada_id": 21,
       "clube_casa": "Vitória",
@@ -195,12 +182,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/16/cuiaba65.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 31,
+      "clube_casa": "Cuiabá",
+      "clube_casa_id": 1371,
+      "clube_visitante": "Corinthians",
+      "clube_casa_abrev": "CUI",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/16/cuiaba65.png",
+      "clube_visitante_id": 264,
+      "clube_visitante_abrev": "COR",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/09/30/Corinthians_65.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/05/02/photo_220x220.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2014/04/16/cuiaba65.png",
   "scouts": {
-    "rodada_id": 30,
+    "rodada_id": 31,
     "g": 0,
     "a": 0,
     "sg": 0,

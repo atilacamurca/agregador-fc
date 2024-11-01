@@ -6,7 +6,6 @@
   "clube_id": 286,
   "posicao": "Atacante",
   "rodadas": [
-    20,
     21,
     23,
     24,
@@ -15,10 +14,10 @@
     27,
     28,
     29,
-    30
+    30,
+    31
   ],
   "pontos": [
-    0,
     2.1,
     0,
     0,
@@ -27,10 +26,10 @@
     0,
     2.5,
     0,
-    10.6
+    10.6,
+    10
   ],
   "precos": [
-    2,
     2.6,
     3.02,
     3.02,
@@ -39,10 +38,10 @@
     3.38,
     3.45,
     4.73,
-    5.56
+    5.56,
+    6.02
   ],
   "variacoes": [
-    0,
     0.6,
     0.87,
     0,
@@ -51,10 +50,10 @@
     0,
     0.07,
     1.28,
-    0.83
+    0.83,
+    0.46
   ],
   "medias": [
-    0,
     2.1,
     2.03,
     2.03,
@@ -63,22 +62,10 @@
     2.7,
     2.67,
     3.53,
-    4.41
+    4.41,
+    5.03
   ],
   "partidas": [
-    {
-      "rodada_id": 20,
-      "clube_casa": "Juventude",
-      "clube_casa_id": 286,
-      "clube_visitante": "Criciúma",
-      "clube_casa_abrev": "JUV",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2021/04/29/juventude65.png",
-      "clube_visitante_id": 288,
-      "clube_visitante_abrev": "CRI",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2024/03/28/criciuma-65.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 2
-    },
     {
       "rodada_id": 21,
       "clube_casa": "Corinthians",
@@ -195,13 +182,26 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/palmeiras_60x60.png",
       "placar_oficial_mandante": 3,
       "placar_oficial_visitante": 5
+    },
+    {
+      "rodada_id": 31,
+      "clube_casa": "Flamengo",
+      "clube_casa_id": 262,
+      "clube_visitante": "Juventude",
+      "clube_casa_abrev": "FLA",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2018/04/09/Flamengo-65.png",
+      "clube_visitante_id": 286,
+      "clube_visitante_abrev": "JUV",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/04/29/juventude65.png",
+      "placar_oficial_mandante": 4,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/03/11/photo_220x220_Xv4P6TP.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2021/04/29/juventude65.png",
   "scouts": {
-    "rodada_id": 30,
-    "g": 2,
+    "rodada_id": 31,
+    "g": 3,
     "a": 1,
     "sg": 0,
     "fs": 9,
@@ -212,21 +212,21 @@
     "dp": 0,
     "gc": 0,
     "cv": 0,
-    "ca": 0,
+    "ca": 1,
     "pp": 0,
     "gs": 0,
-    "fc": 10,
+    "fc": 12,
     "i": 0,
-    "ds": 6,
+    "ds": 9,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 10.6,
-    "preco_num": 5.56,
-    "variacao_num": 0.83,
-    "media_num": 4.41,
-    "jogos_num": 8,
+    "pontos_num": 10,
+    "preco_num": 6.02,
+    "variacao_num": 0.46,
+    "media_num": 5.03,
+    "jogos_num": 9,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }

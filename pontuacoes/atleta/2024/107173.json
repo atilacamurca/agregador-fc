@@ -6,7 +6,6 @@
   "clube_id": 276,
   "posicao": "Meia",
   "rodadas": [
-    20,
     21,
     23,
     24,
@@ -15,10 +14,10 @@
     27,
     28,
     29,
-    30
+    30,
+    31
   ],
   "pontos": [
-    0,
     0.5,
     0,
     5,
@@ -27,10 +26,10 @@
     4.1,
     0,
     0,
+    0,
     0
   ],
   "precos": [
-    4.2,
     3.93,
     3.94,
     4.45,
@@ -39,10 +38,10 @@
     4.3,
     4.3,
     4.3,
+    4.3,
     4.3
   ],
   "variacoes": [
-    0,
     -0.27,
     0.01,
     0.51,
@@ -51,10 +50,10 @@
     0.37,
     0,
     0,
+    0,
     0
   ],
   "medias": [
-    1.64,
     1.55,
     1.53,
     1.75,
@@ -63,22 +62,10 @@
     1.83,
     1.83,
     1.83,
+    1.83,
     1.83
   ],
   "partidas": [
-    {
-      "rodada_id": 20,
-      "clube_casa": "Fortaleza",
-      "clube_casa_id": 356,
-      "clube_visitante": "São Paulo",
-      "clube_casa_abrev": "FOR",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2021/09/19/65_0000_Fortaleza-2021.png",
-      "clube_visitante_id": 276,
-      "clube_visitante_abrev": "SAO",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/sao_paulo_60x60.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 21,
       "clube_casa": "São Paulo",
@@ -195,12 +182,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/09/04/ESCUDO-VASCO-RGB_65px.png",
       "placar_oficial_mandante": 3,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 31,
+      "clube_casa": "Criciúma",
+      "clube_casa_id": 288,
+      "clube_visitante": "São Paulo",
+      "clube_casa_abrev": "CRI",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2024/03/28/criciuma-65.png",
+      "clube_visitante_id": 276,
+      "clube_visitante_abrev": "SAO",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/sao_paulo_60x60.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/03/01/photo_220x220_498ez5E.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2014/04/14/sao_paulo_60x60.png",
   "scouts": {
-    "rodada_id": 30,
+    "rodada_id": 31,
     "g": 0,
     "a": 1,
     "sg": 0,

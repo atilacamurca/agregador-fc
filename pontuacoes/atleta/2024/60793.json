@@ -6,7 +6,6 @@
   "clube_id": 267,
   "posicao": "Meia",
   "rodadas": [
-    20,
     21,
     23,
     24,
@@ -15,7 +14,8 @@
     27,
     28,
     29,
-    30
+    30,
+    31
   ],
   "pontos": [
     0,
@@ -27,7 +27,7 @@
     0,
     0,
     0,
-    0
+    3.5
   ],
   "precos": [
     4.69,
@@ -39,7 +39,7 @@
     4.69,
     4.69,
     4.69,
-    4.69
+    5.12
   ],
   "variacoes": [
     0,
@@ -51,7 +51,7 @@
     0,
     0,
     0,
-    0
+    0.43
   ],
   "medias": [
     0.5,
@@ -63,22 +63,9 @@
     0.5,
     0.5,
     0.5,
-    0.5
+    2
   ],
   "partidas": [
-    {
-      "rodada_id": 20,
-      "clube_casa": "Grêmio",
-      "clube_casa_id": 284,
-      "clube_visitante": "Vasco",
-      "clube_casa_abrev": "GRE",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/gremio_60x60.png",
-      "clube_visitante_id": 267,
-      "clube_visitante_abrev": "VAS",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/09/04/ESCUDO-VASCO-RGB_65px.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 21,
       "clube_casa": "Vasco",
@@ -195,12 +182,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/09/04/ESCUDO-VASCO-RGB_65px.png",
       "placar_oficial_mandante": 3,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 31,
+      "clube_casa": "Vasco",
+      "clube_casa_id": 267,
+      "clube_visitante": "Bahia",
+      "clube_casa_abrev": "VAS",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2021/09/04/ESCUDO-VASCO-RGB_65px.png",
+      "clube_visitante_id": 265,
+      "clube_visitante_abrev": "BAH",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/bahia_60x60.png",
+      "placar_oficial_mandante": 3,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2023/03/14/photo_220x220_95Ip8xR.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2021/09/04/ESCUDO-VASCO-RGB_65px.png",
   "scouts": {
-    "rodada_id": 30,
+    "rodada_id": 31,
     "g": 0,
     "a": 0,
     "sg": 0,
@@ -216,17 +216,17 @@
     "pp": 0,
     "gs": 0,
     "fc": 0,
-    "i": 0,
-    "ds": 0,
+    "i": 1,
+    "ds": 3,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 0,
-    "preco_num": 4.69,
-    "variacao_num": 0,
-    "media_num": 0.5,
-    "jogos_num": 1,
+    "pontos_num": 3.5,
+    "preco_num": 5.12,
+    "variacao_num": 0.43,
+    "media_num": 2,
+    "jogos_num": 2,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }

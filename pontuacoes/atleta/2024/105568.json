@@ -6,7 +6,6 @@
   "clube_id": 356,
   "posicao": "Atacante",
   "rodadas": [
-    20,
     21,
     23,
     24,
@@ -15,10 +14,10 @@
     27,
     28,
     29,
-    30
+    30,
+    31
   ],
   "pontos": [
-    0.2,
     0,
     0,
     7.4,
@@ -27,10 +26,10 @@
     -0.1,
     0,
     0,
-    1.6
+    1.6,
+    0
   ],
   "precos": [
-    8.84,
     8.84,
     8.84,
     9.69,
@@ -39,10 +38,10 @@
     8.19,
     8.19,
     8.1,
-    8.26
+    8.26,
+    8.01
   ],
   "variacoes": [
-    -0.54,
     0,
     0,
     0.85,
@@ -51,10 +50,10 @@
     -0.29,
     0,
     -0.09,
-    0.16
+    0.16,
+    -0.25
   ],
   "medias": [
-    4.89,
     4.89,
     4.89,
     5.04,
@@ -63,22 +62,10 @@
     4.29,
     4.29,
     4.06,
-    3.95
+    3.95,
+    3.78
   ],
   "partidas": [
-    {
-      "rodada_id": 20,
-      "clube_casa": "Fortaleza",
-      "clube_casa_id": 356,
-      "clube_visitante": "São Paulo",
-      "clube_casa_abrev": "FOR",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2021/09/19/65_0000_Fortaleza-2021.png",
-      "clube_visitante_id": 276,
-      "clube_visitante_abrev": "SAO",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/sao_paulo_60x60.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 21,
       "clube_casa": "Cruzeiro",
@@ -195,38 +182,51 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2017/11/23/Atletico-Mineiro-escudo65px.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 31,
+      "clube_casa": "Palmeiras",
+      "clube_casa_id": 275,
+      "clube_visitante": "Fortaleza",
+      "clube_casa_abrev": "PAL",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/palmeiras_60x60.png",
+      "clube_visitante_id": 356,
+      "clube_visitante_abrev": "FOR",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/09/19/65_0000_Fortaleza-2021.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/02/28/photo_220x220_W3SXUOe.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2021/09/19/65_0000_Fortaleza-2021.png",
   "scouts": {
-    "rodada_id": 30,
+    "rodada_id": 31,
     "g": 7,
     "a": 1,
     "sg": 0,
     "fs": 22,
-    "ff": 13,
+    "ff": 15,
     "fd": 11,
     "ft": 0,
     "de": 0,
     "dp": 0,
     "gc": 0,
     "cv": 0,
-    "ca": 7,
+    "ca": 8,
     "pp": 0,
     "gs": 0,
-    "fc": 28,
+    "fc": 30,
     "i": 6,
     "ds": 6,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 1.6,
-    "preco_num": 8.26,
-    "variacao_num": 0.16,
-    "media_num": 3.95,
-    "jogos_num": 22,
+    "pontos_num": 0,
+    "preco_num": 8.01,
+    "variacao_num": -0.25,
+    "media_num": 3.78,
+    "jogos_num": 23,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }

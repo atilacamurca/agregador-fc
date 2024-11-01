@@ -6,7 +6,6 @@
   "clube_id": 282,
   "posicao": "Meia",
   "rodadas": [
-    20,
     21,
     23,
     24,
@@ -15,10 +14,10 @@
     27,
     28,
     29,
-    30
+    30,
+    31
   ],
   "pontos": [
-    5.8,
     8.4,
     0,
     0,
@@ -27,10 +26,10 @@
     1.2,
     2.7,
     0,
-    0.9
+    0.9,
+    -3
   ],
   "precos": [
-    11.64,
     12.04,
     10.62,
     10.62,
@@ -39,10 +38,10 @@
     10.62,
     10.9,
     10.79,
-    10.42
+    10.42,
+    10.1
   ],
   "variacoes": [
-    -0.39,
     0.4,
     -1.02,
     0,
@@ -51,10 +50,10 @@
     -0.19,
     0.28,
     -0.11,
-    -0.37
+    -0.37,
+    -0.32
   ],
   "medias": [
-    6.13,
     6.26,
     5.94,
     5.94,
@@ -63,22 +62,10 @@
     5.92,
     5.79,
     5.67,
-    5.49
+    5.49,
+    5.37
   ],
   "partidas": [
-    {
-      "rodada_id": 20,
-      "clube_casa": "Atlético-MG",
-      "clube_casa_id": 282,
-      "clube_visitante": "Corinthians",
-      "clube_casa_abrev": "ATL",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2017/11/23/Atletico-Mineiro-escudo65px.png",
-      "clube_visitante_id": 264,
-      "clube_visitante_abrev": "COR",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/09/30/Corinthians_65.png",
-      "placar_oficial_mandante": 2,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 21,
       "clube_casa": "Criciúma",
@@ -195,12 +182,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2017/11/23/Atletico-Mineiro-escudo65px.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 31,
+      "clube_casa": "Atlético-MG",
+      "clube_casa_id": 282,
+      "clube_visitante": "Internacional",
+      "clube_casa_abrev": "ATL",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2017/11/23/Atletico-Mineiro-escudo65px.png",
+      "clube_visitante_id": 285,
+      "clube_visitante_abrev": "INT",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2016/05/03/inter65.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 3
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/03/06/photo_220x220_UXqyPlk.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2017/11/23/Atletico-Mineiro-escudo65px.png",
   "scouts": {
-    "rodada_id": 30,
+    "rodada_id": 31,
     "g": 4,
     "a": 5,
     "sg": 0,
@@ -211,7 +211,7 @@
     "de": 0,
     "dp": 0,
     "gc": 0,
-    "cv": 0,
+    "cv": 1,
     "ca": 3,
     "pp": 0,
     "gs": 0,
@@ -222,10 +222,10 @@
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 0.9,
-    "preco_num": 10.42,
-    "variacao_num": -0.37,
-    "media_num": 5.49,
+    "pontos_num": -3,
+    "preco_num": 10.1,
+    "variacao_num": -0.32,
+    "media_num": 5.37,
     "jogos_num": 26,
     "posicao_abrev": "mei",
     "posicao": "Meia"

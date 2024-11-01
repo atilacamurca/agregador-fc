@@ -6,7 +6,6 @@
   "clube_id": 288,
   "posicao": "Meia",
   "rodadas": [
-    20,
     21,
     23,
     24,
@@ -15,10 +14,10 @@
     27,
     28,
     29,
-    30
+    30,
+    31
   ],
   "pontos": [
-    0.2,
     0,
     0,
     3.6,
@@ -27,10 +26,10 @@
     0,
     4.5,
     0,
+    0,
     0
   ],
   "precos": [
-    3.01,
     2.91,
     3.03,
     3.29,
@@ -39,10 +38,10 @@
     2.76,
     3.4,
     2.79,
+    2.79,
     2.79
   ],
   "variacoes": [
-    -0.08,
     -0.1,
     0.31,
     0.26,
@@ -51,10 +50,10 @@
     0,
     0.64,
     -0.61,
+    0,
     0
   ],
   "medias": [
-    0.92,
     0.85,
     0.83,
     1,
@@ -63,22 +62,10 @@
     0.89,
     1.08,
     1.03,
+    1.03,
     1.03
   ],
   "partidas": [
-    {
-      "rodada_id": 20,
-      "clube_casa": "Juventude",
-      "clube_casa_id": 286,
-      "clube_visitante": "Criciúma",
-      "clube_casa_abrev": "JUV",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2021/04/29/juventude65.png",
-      "clube_visitante_id": 288,
-      "clube_visitante_abrev": "CRI",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2024/03/28/criciuma-65.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 2
-    },
     {
       "rodada_id": 21,
       "clube_casa": "Criciúma",
@@ -195,12 +182,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2024/03/28/criciuma-65.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 31,
+      "clube_casa": "Criciúma",
+      "clube_casa_id": 288,
+      "clube_visitante": "São Paulo",
+      "clube_casa_abrev": "CRI",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2024/03/28/criciuma-65.png",
+      "clube_visitante_id": 276,
+      "clube_visitante_abrev": "SAO",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/sao_paulo_60x60.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/01/16/photo_220x220_cYCP9RY.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2024/03/28/criciuma-65.png",
   "scouts": {
-    "rodada_id": 30,
+    "rodada_id": 31,
     "g": 0,
     "a": 0,
     "sg": 0,

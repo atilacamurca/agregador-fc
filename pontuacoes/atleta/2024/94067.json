@@ -6,7 +6,6 @@
   "clube_id": 280,
   "posicao": "Meia",
   "rodadas": [
-    20,
     21,
     23,
     24,
@@ -15,10 +14,10 @@
     27,
     28,
     29,
-    30
+    30,
+    31
   ],
   "pontos": [
-    0,
     0,
     0,
     0,
@@ -27,10 +26,10 @@
     -1.9,
     3.3,
     0,
-    0
+    0,
+    4.4
   ],
   "precos": [
-    8.68,
     8.68,
     8.68,
     8.68,
@@ -39,10 +38,10 @@
     7.67,
     8.29,
     8.29,
-    8.29
+    8.29,
+    8.43
   ],
   "variacoes": [
-    0,
     0,
     0,
     0,
@@ -51,10 +50,10 @@
     -1.01,
     0.62,
     0,
-    0
+    0,
+    0.14
   ],
   "medias": [
-    6.52,
     6.52,
     6.52,
     6.52,
@@ -63,22 +62,10 @@
     5.32,
     5.07,
     5.07,
-    5.07
+    5.07,
+    5
   ],
   "partidas": [
-    {
-      "rodada_id": 20,
-      "clube_casa": "Bragantino",
-      "clube_casa_id": 280,
-      "clube_visitante": "Fluminense",
-      "clube_casa_abrev": "BRA",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2020/01/01/65.png",
-      "clube_visitante_id": 266,
-      "clube_visitante_abrev": "FLU",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/fluminense_60x60.png",
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 21,
       "clube_casa": "Vasco",
@@ -195,17 +182,30 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2020/01/01/65.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 31,
+      "clube_casa": "Bragantino",
+      "clube_casa_id": 280,
+      "clube_visitante": "Botafogo",
+      "clube_casa_abrev": "BRA",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2020/01/01/65.png",
+      "clube_visitante_id": 263,
+      "clube_visitante_abrev": "BOT",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-65.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/01/03/photo_220x220_sgQrNPa.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2020/01/01/65.png",
   "scouts": {
-    "rodada_id": 30,
+    "rodada_id": 31,
     "g": 1,
     "a": 1,
     "sg": 0,
     "fs": 8,
-    "ff": 3,
+    "ff": 4,
     "fd": 2,
     "ft": 0,
     "de": 0,
@@ -217,16 +217,16 @@
     "gs": 0,
     "fc": 11,
     "i": 0,
-    "ds": 20,
+    "ds": 23,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 0,
-    "preco_num": 8.29,
-    "variacao_num": 0,
-    "media_num": 5.07,
-    "jogos_num": 8,
+    "pontos_num": 4.4,
+    "preco_num": 8.43,
+    "variacao_num": 0.14,
+    "media_num": 5,
+    "jogos_num": 9,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }

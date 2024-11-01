@@ -13,7 +13,8 @@
     27,
     28,
     29,
-    30
+    30,
+    31
   ],
   "pontos": [
     0,
@@ -23,7 +24,8 @@
     1.5,
     8.1,
     0,
-    0
+    0,
+    1.2
   ],
   "precos": [
     4,
@@ -33,7 +35,8 @@
     6.62,
     8.12,
     6.97,
-    6.97
+    6.97,
+    6.61
   ],
   "variacoes": [
     0,
@@ -43,7 +46,8 @@
     -0.78,
     1.5,
     -1.15,
-    0
+    0,
+    -0.36
   ],
   "medias": [
     0,
@@ -53,7 +57,8 @@
     5.75,
     6.53,
     5.12,
-    5.12
+    5.12,
+    4.34
   ],
   "partidas": [
     {
@@ -159,38 +164,51 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2017/11/23/Atletico-Mineiro-escudo65px.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 31,
+      "clube_casa": "Palmeiras",
+      "clube_casa_id": 275,
+      "clube_visitante": "Fortaleza",
+      "clube_casa_abrev": "PAL",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/palmeiras_60x60.png",
+      "clube_visitante_id": 356,
+      "clube_visitante_abrev": "FOR",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/09/19/65_0000_Fortaleza-2021.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/08/14/photo_220x220_uJ8Vv8I.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2021/09/19/65_0000_Fortaleza-2021.png",
   "scouts": {
-    "rodada_id": 30,
+    "rodada_id": 31,
     "g": 0,
     "a": 1,
     "sg": 1,
-    "fs": 2,
+    "fs": 4,
     "ff": 1,
-    "fd": 2,
+    "fd": 3,
     "ft": 0,
     "de": 0,
     "dp": 0,
     "gc": 0,
     "cv": 1,
-    "ca": 0,
+    "ca": 1,
     "pp": 0,
     "gs": 0,
-    "fc": 9,
+    "fc": 13,
     "i": 0,
-    "ds": 10,
+    "ds": 11,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 0,
-    "preco_num": 6.97,
-    "variacao_num": 0,
-    "media_num": 5.12,
-    "jogos_num": 4,
+    "pontos_num": 1.2,
+    "preco_num": 6.61,
+    "variacao_num": -0.36,
+    "media_num": 4.34,
+    "jogos_num": 5,
     "posicao_abrev": "lat",
     "posicao": "Lateral"
   }

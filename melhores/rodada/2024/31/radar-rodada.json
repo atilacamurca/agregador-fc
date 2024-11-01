@@ -51,7 +51,7 @@
       "clube_casa": "Grêmio",
       "escudo_casa": "https://s.sde.globo.com/media/organizations/2014/04/14/gremio_60x60.png",
       "clube_casa_abreviacao": "GRE",
-      "clube_casa_posicao": 13,
+      "clube_casa_posicao": 11,
       "clube_visitante_id": 373,
       "clube_visitante": "Atlético-GO",
       "escudo_visitante": "https://s.sde.globo.com/media/organizations/2020/07/02/atletico-go-2020-65.png",
@@ -108,12 +108,12 @@
       "clube_casa": "Vitória",
       "escudo_casa": "https://s.sde.globo.com/media/organizations/2024/04/09/escudo-vitoria-65x65-69284.png",
       "clube_casa_abreviacao": "VIT",
-      "clube_casa_posicao": 16,
+      "clube_casa_posicao": 14,
       "clube_visitante_id": 266,
       "clube_visitante": "Fluminense",
       "escudo_visitante": "https://s.sde.globo.com/media/organizations/2014/04/14/fluminense_60x60.png",
       "clube_visitante_abreviacao": "FLU",
-      "clube_visitante_posicao": 11
+      "clube_visitante_posicao": 13
     },
     {
       "partida_id": 317486,
@@ -170,7 +170,7 @@
       "clube_visitante": "Juventude",
       "escudo_visitante": "https://s.sde.globo.com/media/organizations/2021/04/29/juventude65.png",
       "clube_visitante_abreviacao": "JUV",
-      "clube_visitante_posicao": 15
+      "clube_visitante_posicao": 18
     },
     {
       "partida_id": 317488,
@@ -279,69 +279,12 @@
       "clube_casa": "Athlético-PR",
       "escudo_casa": "https://s.sde.globo.com/media/organizations/2019/09/09/Athletico-PR-65x65.png",
       "clube_casa_abreviacao": "ATL",
-      "clube_casa_posicao": 18,
+      "clube_casa_posicao": 16,
       "clube_visitante_id": 283,
       "clube_visitante": "Cruzeiro",
       "escudo_visitante": "https://s.sde.globo.com/media/organizations/2021/02/13/65_cruzeiro-2021.png",
       "clube_visitante_abreviacao": "CRU",
       "clube_visitante_posicao": 8
-    },
-    {
-      "partida_id": 317489,
-      "radar_casa": [
-        {
-          "pos": "gol",
-          "sum_pos": 97.7
-        },
-        {
-          "pos": "lat",
-          "sum_pos": 162.9
-        },
-        {
-          "pos": "zag",
-          "sum_pos": 211.1
-        },
-        {
-          "pos": "mei",
-          "sum_pos": 413.2
-        },
-        {
-          "pos": "ata",
-          "sum_pos": 247.3
-        }
-      ],
-      "radar_visitante": [
-        {
-          "pos": "gol",
-          "sum_pos": 131.2
-        },
-        {
-          "pos": "lat",
-          "sum_pos": 359.7
-        },
-        {
-          "pos": "zag",
-          "sum_pos": 240.5
-        },
-        {
-          "pos": "mei",
-          "sum_pos": 357.7
-        },
-        {
-          "pos": "ata",
-          "sum_pos": 568.4
-        }
-      ],
-      "clube_casa_id": 280,
-      "clube_casa": "Bragantino",
-      "escudo_casa": "https://s.sde.globo.com/media/organizations/2020/01/01/65.png",
-      "clube_casa_abreviacao": "BRA",
-      "clube_casa_posicao": 14,
-      "clube_visitante_id": 263,
-      "clube_visitante": "Botafogo",
-      "escudo_visitante": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-65.png",
-      "clube_visitante_abreviacao": "BOT",
-      "clube_visitante_posicao": 1
     },
     {
       "partida_id": 317484,
@@ -393,12 +336,69 @@
       "clube_casa": "Atlético-MG",
       "escudo_casa": "https://s.sde.globo.com/media/organizations/2017/11/23/Atletico-Mineiro-escudo65px.png",
       "clube_casa_abreviacao": "ATL",
-      "clube_casa_posicao": 9,
+      "clube_casa_posicao": 10,
       "clube_visitante_id": 285,
       "clube_visitante": "Internacional",
       "escudo_visitante": "https://s.sde.globo.com/media/organizations/2016/05/03/inter65.png",
       "clube_visitante_abreviacao": "INT",
-      "clube_visitante_posicao": 6
+      "clube_visitante_posicao": 5
+    },
+    {
+      "partida_id": 317489,
+      "radar_casa": [
+        {
+          "pos": "gol",
+          "sum_pos": 97.7
+        },
+        {
+          "pos": "lat",
+          "sum_pos": 162.9
+        },
+        {
+          "pos": "zag",
+          "sum_pos": 211.1
+        },
+        {
+          "pos": "mei",
+          "sum_pos": 413.2
+        },
+        {
+          "pos": "ata",
+          "sum_pos": 247.3
+        }
+      ],
+      "radar_visitante": [
+        {
+          "pos": "gol",
+          "sum_pos": 131.2
+        },
+        {
+          "pos": "lat",
+          "sum_pos": 359.7
+        },
+        {
+          "pos": "zag",
+          "sum_pos": 240.5
+        },
+        {
+          "pos": "mei",
+          "sum_pos": 357.7
+        },
+        {
+          "pos": "ata",
+          "sum_pos": 568.4
+        }
+      ],
+      "clube_casa_id": 280,
+      "clube_casa": "Bragantino",
+      "escudo_casa": "https://s.sde.globo.com/media/organizations/2020/01/01/65.png",
+      "clube_casa_abreviacao": "BRA",
+      "clube_casa_posicao": 17,
+      "clube_visitante_id": 263,
+      "clube_visitante": "Botafogo",
+      "escudo_visitante": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-65.png",
+      "clube_visitante_abreviacao": "BOT",
+      "clube_visitante_posicao": 1
     },
     {
       "partida_id": 317492,
@@ -455,7 +455,7 @@
       "clube_visitante": "São Paulo",
       "escudo_visitante": "https://s.sde.globo.com/media/organizations/2014/04/14/sao_paulo_60x60.png",
       "clube_visitante_abreviacao": "SAO",
-      "clube_visitante_posicao": 5
+      "clube_visitante_posicao": 6
     },
     {
       "partida_id": 317491,
@@ -512,7 +512,7 @@
       "clube_visitante": "Corinthians",
       "escudo_visitante": "https://s.sde.globo.com/media/organizations/2019/09/30/Corinthians_65.png",
       "clube_visitante_abreviacao": "COR",
-      "clube_visitante_posicao": 17
+      "clube_visitante_posicao": 15
     },
     {
       "partida_id": 317487,
@@ -564,7 +564,7 @@
       "clube_casa": "Vasco",
       "escudo_casa": "https://s.sde.globo.com/media/organizations/2021/09/04/ESCUDO-VASCO-RGB_65px.png",
       "clube_casa_abreviacao": "VAS",
-      "clube_casa_posicao": 10,
+      "clube_casa_posicao": 9,
       "clube_visitante_id": 265,
       "clube_visitante": "Bahia",
       "escudo_visitante": "https://s.sde.globo.com/media/organizations/2014/04/14/bahia_60x60.png",

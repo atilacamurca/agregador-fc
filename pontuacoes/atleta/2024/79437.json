@@ -6,7 +6,6 @@
   "clube_id": 285,
   "posicao": "Técnico",
   "rodadas": [
-    20,
     21,
     23,
     24,
@@ -15,10 +14,10 @@
     27,
     28,
     29,
-    30
+    30,
+    31
   ],
   "pontos": [
-    2.28,
     3.62,
     0,
     8.43,
@@ -27,10 +26,10 @@
     7.74,
     6.31,
     0,
-    7.77
+    7.77,
+    6.16
   ],
   "precos": [
-    6.78,
     6.95,
     6.87,
     7.58,
@@ -39,10 +38,10 @@
     7.72,
     7.73,
     7.48,
-    7.97
+    7.97,
+    7.87
   ],
   "variacoes": [
-    -0.12,
     0.17,
     -0.13,
     0.71,
@@ -51,10 +50,10 @@
     -0.26,
     0.01,
     -0.25,
-    0.49
+    0.49,
+    -0.1
   ],
   "medias": [
-    4.63,
     4.57,
     4.52,
     4.72,
@@ -63,22 +62,10 @@
     5.14,
     5.19,
     5.16,
-    5.26
+    5.26,
+    5.29
   ],
   "partidas": [
-    {
-      "rodada_id": 20,
-      "clube_casa": "Bahia",
-      "clube_casa_id": 265,
-      "clube_visitante": "Internacional",
-      "clube_casa_abrev": "BAH",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/bahia_60x60.png",
-      "clube_visitante_id": 285,
-      "clube_visitante_abrev": "INT",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2016/05/03/inter65.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 21,
       "clube_casa": "Internacional",
@@ -195,12 +182,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/gremio_60x60.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 31,
+      "clube_casa": "Atlético-MG",
+      "clube_casa_id": 282,
+      "clube_visitante": "Internacional",
+      "clube_casa_abrev": "ATL",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2017/11/23/Atletico-Mineiro-escudo65px.png",
+      "clube_visitante_id": 285,
+      "clube_visitante_abrev": "INT",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2016/05/03/inter65.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 3
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2021/04/27/ec1e7e490c3a05088fd967b9e2468216_220x220.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2016/05/03/inter65.png",
   "scouts": {
-    "rodada_id": 30,
+    "rodada_id": 31,
     "g": 0,
     "a": 0,
     "sg": 0,
@@ -221,12 +221,12 @@
     "pi": 0,
     "pc": 0,
     "ps": 0,
-    "v": 10,
-    "pontos_num": 7.77,
-    "preco_num": 7.97,
-    "variacao_num": 0.49,
-    "media_num": 5.26,
-    "jogos_num": 26,
+    "v": 11,
+    "pontos_num": 6.16,
+    "preco_num": 7.87,
+    "variacao_num": -0.1,
+    "media_num": 5.29,
+    "jogos_num": 27,
     "posicao_abrev": "tec",
     "posicao": "Técnico"
   }
