@@ -6,7 +6,6 @@
   "clube_id": 265,
   "posicao": "Técnico",
   "rodadas": [
-    21,
     23,
     24,
     25,
@@ -15,10 +14,10 @@
     28,
     29,
     30,
-    31
+    31,
+    32
   ],
   "pontos": [
-    2.96,
     0,
     5.95,
     2.53,
@@ -27,10 +26,10 @@
     7.93,
     0,
     3.35,
-    5.35
+    5.35,
+    2.46
   ],
   "precos": [
-    8.97,
     9.77,
     9.42,
     8.95,
@@ -39,10 +38,10 @@
     9.81,
     8.89,
     9.08,
-    9.41
+    9.41,
+    8.87
   ],
   "variacoes": [
-    -0.08,
     0.14,
     -0.35,
     -0.47,
@@ -51,10 +50,10 @@
     0.65,
     -0.92,
     0.19,
-    0.33
+    0.33,
+    -0.54
   ],
   "medias": [
-    4.69,
     5.07,
     5.11,
     5,
@@ -63,22 +62,10 @@
     5.3,
     5.15,
     5.09,
-    5.1
+    5.1,
+    5.01
   ],
   "partidas": [
-    {
-      "rodada_id": 21,
-      "clube_casa": "Fluminense",
-      "clube_casa_id": 266,
-      "clube_visitante": "Bahia",
-      "clube_casa_abrev": "FLU",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/fluminense_60x60.png",
-      "clube_visitante_id": 265,
-      "clube_visitante_abrev": "BAH",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/bahia_60x60.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 23,
       "clube_casa": "Grêmio",
@@ -195,12 +182,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/bahia_60x60.png",
       "placar_oficial_mandante": 3,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 32,
+      "clube_casa": "Bahia",
+      "clube_casa_id": 265,
+      "clube_visitante": "São Paulo",
+      "clube_casa_abrev": "BAH",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/bahia_60x60.png",
+      "clube_visitante_id": 276,
+      "clube_visitante_abrev": "SAO",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/sao_paulo_60x60.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 3
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2022/03/01/e6fac1f227854170a80b2cf3234bfa1d_220x220.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2014/04/14/bahia_60x60.png",
   "scouts": {
-    "rodada_id": 31,
+    "rodada_id": 32,
     "g": 0,
     "a": 0,
     "sg": 0,
@@ -222,11 +222,11 @@
     "pc": 0,
     "ps": 0,
     "v": 12,
-    "pontos_num": 5.35,
-    "preco_num": 9.41,
-    "variacao_num": 0.33,
-    "media_num": 5.1,
-    "jogos_num": 29,
+    "pontos_num": 2.46,
+    "preco_num": 8.87,
+    "variacao_num": -0.54,
+    "media_num": 5.01,
+    "jogos_num": 30,
     "posicao_abrev": "tec",
     "posicao": "Técnico"
   }

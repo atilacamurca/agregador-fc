@@ -6,7 +6,6 @@
   "clube_id": 373,
   "posicao": "Atacante",
   "rodadas": [
-    21,
     23,
     24,
     25,
@@ -15,10 +14,10 @@
     28,
     29,
     30,
-    31
+    31,
+    32
   ],
   "pontos": [
-    0,
     0,
     0,
     0,
@@ -27,10 +26,10 @@
     1.6,
     0,
     0.2,
-    0
+    0,
+    0.9
   ],
   "precos": [
-    4.21,
     6.02,
     6.02,
     6.02,
@@ -39,10 +38,10 @@
     4.72,
     4.22,
     4.17,
-    4.04
+    4.04,
+    4.02
   ],
   "variacoes": [
-    -0.44,
     1.86,
     0,
     0,
@@ -51,10 +50,10 @@
     0.02,
     -0.5,
     -0.05,
-    -0.13
+    -0.13,
+    -0.02
   ],
   "medias": [
-    0.8,
     2.8,
     2.8,
     2.8,
@@ -63,22 +62,10 @@
     2.47,
     2.12,
     1.93,
-    1.75
+    1.75,
+    1.68
   ],
   "partidas": [
-    {
-      "rodada_id": 21,
-      "clube_casa": "Atlético-GO",
-      "clube_casa_id": 373,
-      "clube_visitante": "Botafogo",
-      "clube_casa_abrev": "ATL",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2020/07/02/atletico-go-2020-65.png",
-      "clube_visitante_id": 263,
-      "clube_visitante_abrev": "BOT",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-65.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 4
-    },
     {
       "rodada_id": 23,
       "clube_casa": "Atlético-GO",
@@ -195,12 +182,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2020/07/02/atletico-go-2020-65.png",
       "placar_oficial_mandante": 3,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 32,
+      "clube_casa": "Atlético-GO",
+      "clube_casa_id": 373,
+      "clube_visitante": "Atlético-MG",
+      "clube_casa_abrev": "ATL",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2020/07/02/atletico-go-2020-65.png",
+      "clube_visitante_id": 282,
+      "clube_visitante_abrev": "ATL",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2017/11/23/Atletico-Mineiro-escudo65px.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/07/17/photo_220x220.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2020/07/02/atletico-go-2020-65.png",
   "scouts": {
-    "rodada_id": 31,
+    "rodada_id": 32,
     "g": 1,
     "a": 0,
     "sg": 0,
@@ -215,18 +215,18 @@
     "ca": 1,
     "pp": 0,
     "gs": 0,
-    "fc": 14,
+    "fc": 15,
     "i": 3,
-    "ds": 6,
+    "ds": 7,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 0,
-    "preco_num": 4.04,
-    "variacao_num": -0.13,
-    "media_num": 1.75,
-    "jogos_num": 11,
+    "pontos_num": 0.9,
+    "preco_num": 4.02,
+    "variacao_num": -0.02,
+    "media_num": 1.68,
+    "jogos_num": 12,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }

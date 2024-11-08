@@ -6,7 +6,6 @@
   "clube_id": 1371,
   "posicao": "Meia",
   "rodadas": [
-    21,
     23,
     24,
     25,
@@ -15,10 +14,10 @@
     28,
     29,
     30,
-    31
+    31,
+    32
   ],
   "pontos": [
-    -0.6,
     0,
     1.8,
     -0.9,
@@ -27,10 +26,10 @@
     -0.3,
     0,
     -1.6,
-    0
+    0,
+    0.5
   ],
   "precos": [
-    2.51,
     2.84,
     2.86,
     2.45,
@@ -39,10 +38,10 @@
     2.52,
     2.51,
     2.23,
-    2.23
+    2.23,
+    2.45
   ],
   "variacoes": [
-    -0.38,
     -0.25,
     0.02,
     -0.41,
@@ -51,10 +50,10 @@
     -0.28,
     -0.01,
     -0.28,
-    0
+    0,
+    0.22
   ],
   "medias": [
-    1.45,
     1.61,
     1.62,
     1.47,
@@ -63,22 +62,10 @@
     1.47,
     1.4,
     1.26,
-    1.26
+    1.26,
+    1.23
   ],
   "partidas": [
-    {
-      "rodada_id": 21,
-      "clube_casa": "Vitória",
-      "clube_casa_id": 287,
-      "clube_visitante": "Cuiabá",
-      "clube_casa_abrev": "VIT",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2024/04/09/escudo-vitoria-65x65-69284.png",
-      "clube_visitante_id": 1371,
-      "clube_visitante_abrev": "CUI",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/16/cuiaba65.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 23,
       "clube_casa": "Atlético-MG",
@@ -195,16 +182,29 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/09/30/Corinthians_65.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 32,
+      "clube_casa": "Bragantino",
+      "clube_casa_id": 280,
+      "clube_visitante": "Cuiabá",
+      "clube_casa_abrev": "BRA",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2020/01/01/65.png",
+      "clube_visitante_id": 1371,
+      "clube_visitante_abrev": "CUI",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/16/cuiaba65.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/02/29/photo_220x220_xH8ilrc.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2014/04/16/cuiaba65.png",
   "scouts": {
-    "rodada_id": 31,
+    "rodada_id": 32,
     "g": 0,
     "a": 0,
     "sg": 0,
-    "fs": 16,
+    "fs": 17,
     "ff": 4,
     "fd": 0,
     "ft": 0,
@@ -222,11 +222,11 @@
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 0,
-    "preco_num": 2.23,
-    "variacao_num": 0,
-    "media_num": 1.26,
-    "jogos_num": 22,
+    "pontos_num": 0.5,
+    "preco_num": 2.45,
+    "variacao_num": 0.22,
+    "media_num": 1.23,
+    "jogos_num": 23,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }
