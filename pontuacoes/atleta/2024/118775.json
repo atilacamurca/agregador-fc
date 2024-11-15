@@ -15,7 +15,8 @@
     29,
     30,
     31,
-    32
+    32,
+    33
   ],
   "pontos": [
     0,
@@ -27,7 +28,8 @@
     0,
     0,
     0,
-    1.2
+    1.2,
+    0
   ],
   "precos": [
     5.73,
@@ -39,7 +41,8 @@
     5.36,
     5.36,
     5.36,
-    5.08
+    5.08,
+    4.8
   ],
   "variacoes": [
     0,
@@ -51,6 +54,7 @@
     -0.11,
     0,
     0,
+    -0.28,
     -0.28
   ],
   "medias": [
@@ -63,7 +67,8 @@
     2.28,
     2.28,
     2.28,
-    2.18
+    2.18,
+    2
   ],
   "partidas": [
     {
@@ -195,12 +200,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2018/04/09/Flamengo-65.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 33,
+      "clube_casa": "Cruzeiro",
+      "clube_casa_id": 283,
+      "clube_visitante": "Criciúma",
+      "clube_casa_abrev": "CRU",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2021/02/13/65_cruzeiro-2021.png",
+      "clube_visitante_id": 288,
+      "clube_visitante_abrev": "CRI",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2024/03/28/criciuma-65.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/07/01/photo_220x220_UT1KNbY.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2021/02/13/65_cruzeiro-2021.png",
   "scouts": {
-    "rodada_id": 32,
+    "rodada_id": 33,
     "g": 1,
     "a": 0,
     "sg": 0,
@@ -222,11 +240,11 @@
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 1.2,
-    "preco_num": 5.08,
+    "pontos_num": 0,
+    "preco_num": 4.8,
     "variacao_num": -0.28,
-    "media_num": 2.18,
-    "jogos_num": 11,
+    "media_num": 2,
+    "jogos_num": 12,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }
