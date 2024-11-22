@@ -6,7 +6,6 @@
   "clube_id": 286,
   "posicao": "Meia",
   "rodadas": [
-    23,
     24,
     25,
     26,
@@ -16,10 +15,10 @@
     30,
     31,
     32,
-    33
+    33,
+    34
   ],
   "pontos": [
-    0,
     0,
     4.4,
     1.1,
@@ -29,10 +28,10 @@
     3.3,
     0,
     2.2,
-    4.1
+    4.1,
+    6.7
   ],
   "precos": [
-    8.18,
     8.18,
     8.92,
     8.44,
@@ -42,10 +41,10 @@
     8.44,
     8.44,
     8.19,
-    8.44
+    8.44,
+    8.83
   ],
   "variacoes": [
-    -1.11,
     0,
     0.74,
     -0.48,
@@ -55,10 +54,10 @@
     -0.08,
     0,
     -0.25,
-    0.25
+    0.25,
+    0.39
   ],
   "medias": [
-    5.32,
     5.32,
     5.27,
     5.05,
@@ -68,22 +67,10 @@
     4.69,
     4.69,
     4.59,
-    4.57
+    4.57,
+    4.65
   ],
   "partidas": [
-    {
-      "rodada_id": 23,
-      "clube_casa": "Athlético-PR",
-      "clube_casa_id": 293,
-      "clube_visitante": "Juventude",
-      "clube_casa_abrev": "ATL",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2019/09/09/Athletico-PR-65x65.png",
-      "clube_visitante_id": 286,
-      "clube_visitante_abrev": "JUV",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/04/29/juventude65.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 2
-    },
     {
       "rodada_id": 24,
       "clube_casa": "Atlético-GO",
@@ -213,16 +200,29 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/bahia_60x60.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 34,
+      "clube_casa": "Grêmio",
+      "clube_casa_id": 284,
+      "clube_visitante": "Juventude",
+      "clube_casa_abrev": "GRE",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/gremio_60x60.png",
+      "clube_visitante_id": 286,
+      "clube_visitante_abrev": "JUV",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/04/29/juventude65.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/03/11/photo_220x220_1INRw87.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2021/04/29/juventude65.png",
   "scouts": {
-    "rodada_id": 33,
+    "rodada_id": 34,
     "g": 1,
     "a": 5,
     "sg": 0,
-    "fs": 49,
+    "fs": 54,
     "ff": 9,
     "fd": 5,
     "ft": 1,
@@ -230,21 +230,21 @@
     "dp": 0,
     "gc": 0,
     "cv": 1,
-    "ca": 10,
+    "ca": 11,
     "pp": 0,
     "gs": 0,
-    "fc": 30,
+    "fc": 32,
     "i": 2,
-    "ds": 52,
+    "ds": 56,
     "pi": 0,
     "pc": 0,
-    "ps": 0,
+    "ps": 1,
     "v": 0,
-    "pontos_num": 4.1,
-    "preco_num": 8.44,
-    "variacao_num": 0.25,
-    "media_num": 4.57,
-    "jogos_num": 25,
+    "pontos_num": 6.7,
+    "preco_num": 8.83,
+    "variacao_num": 0.39,
+    "media_num": 4.65,
+    "jogos_num": 26,
     "posicao_abrev": "mei",
     "posicao": "Meia"
   }

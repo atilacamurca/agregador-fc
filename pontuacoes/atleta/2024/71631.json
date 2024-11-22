@@ -6,7 +6,6 @@
   "clube_id": 275,
   "posicao": "Goleiro",
   "rodadas": [
-    23,
     24,
     25,
     26,
@@ -16,10 +15,10 @@
     30,
     31,
     32,
-    33
+    33,
+    34
   ],
   "pontos": [
-    0,
     8,
     14.5,
     10,
@@ -29,10 +28,10 @@
     0.5,
     -0.5,
     0,
-    0
+    0,
+    3
   ],
   "precos": [
-    9.99,
     10.79,
     11.83,
     11.43,
@@ -42,10 +41,10 @@
     10.05,
     9.87,
     9.69,
-    9.69
+    9.69,
+    10.07
   ],
   "variacoes": [
-    -0.54,
     0.8,
     1.04,
     -0.4,
@@ -55,10 +54,10 @@
     -1.19,
     -0.18,
     -0.18,
-    0
+    0,
+    0.38
   ],
   "medias": [
-    4.86,
     5,
     5.4,
     5.58,
@@ -68,22 +67,10 @@
     5.43,
     5.23,
     5.06,
-    5.06
+    5.06,
+    5
   ],
   "partidas": [
-    {
-      "rodada_id": 23,
-      "clube_casa": "Palmeiras",
-      "clube_casa_id": 275,
-      "clube_visitante": "São Paulo",
-      "clube_casa_abrev": "PAL",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/palmeiras_60x60.png",
-      "clube_visitante_id": 276,
-      "clube_visitante_abrev": "SAO",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/sao_paulo_60x60.png",
-      "placar_oficial_mandante": 2,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 24,
       "clube_casa": "Palmeiras",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/gremio_60x60.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 34,
+      "clube_casa": "Bahia",
+      "clube_casa_id": 265,
+      "clube_visitante": "Palmeiras",
+      "clube_casa_abrev": "BAH",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/bahia_60x60.png",
+      "clube_visitante_id": 275,
+      "clube_visitante_abrev": "PAL",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/palmeiras_60x60.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/02/27/photo_220x220_pwFJ9Uo.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2014/04/14/palmeiras_60x60.png",
   "scouts": {
-    "rodada_id": 33,
+    "rodada_id": 34,
     "g": 0,
     "a": 1,
     "sg": 14,
@@ -226,13 +226,13 @@
     "ff": 0,
     "fd": 0,
     "ft": 0,
-    "de": 104,
+    "de": 108,
     "dp": 0,
     "gc": 0,
     "cv": 0,
     "ca": 2,
     "pp": 0,
-    "gs": 25,
+    "gs": 26,
     "fc": 0,
     "i": 0,
     "ds": 1,
@@ -240,11 +240,11 @@
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 0,
-    "preco_num": 9.69,
-    "variacao_num": 0,
-    "media_num": 5.06,
-    "jogos_num": 31,
+    "pontos_num": 3,
+    "preco_num": 10.07,
+    "variacao_num": 0.38,
+    "media_num": 5,
+    "jogos_num": 32,
     "posicao_abrev": "gol",
     "posicao": "Goleiro"
   }

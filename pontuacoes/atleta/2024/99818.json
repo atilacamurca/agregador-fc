@@ -6,7 +6,6 @@
   "clube_id": 282,
   "posicao": "Atacante",
   "rodadas": [
-    23,
     24,
     25,
     26,
@@ -16,10 +15,10 @@
     30,
     31,
     32,
-    33
+    33,
+    34
   ],
   "pontos": [
-    0,
     -1.6,
     0,
     0,
@@ -29,10 +28,10 @@
     0,
     0,
     0,
-    0
+    0,
+    0.4
   ],
   "precos": [
-    10.52,
     10.12,
     10.12,
     10.12,
@@ -42,10 +41,10 @@
     10.12,
     10.12,
     10.12,
-    10.12
+    10.12,
+    10.26
   ],
   "variacoes": [
-    -0.81,
     -0.4,
     0,
     0,
@@ -55,10 +54,10 @@
     0,
     0,
     0,
-    0
+    0,
+    0.14
   ],
   "medias": [
-    4.84,
     4.53,
     4.53,
     4.53,
@@ -68,22 +67,10 @@
     4.53,
     4.53,
     4.53,
-    4.53
+    4.53,
+    4.34
   ],
   "partidas": [
-    {
-      "rodada_id": 23,
-      "clube_casa": "Atlético-MG",
-      "clube_casa_id": 282,
-      "clube_visitante": "Cuiabá",
-      "clube_casa_abrev": "ATL",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2017/11/23/Atletico-Mineiro-escudo65px.png",
-      "clube_visitante_id": 1371,
-      "clube_visitante_abrev": "CUI",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/16/cuiaba65.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 24,
       "clube_casa": "Atlético-MG",
@@ -213,16 +200,29 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2017/11/23/Atletico-Mineiro-escudo65px.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 34,
+      "clube_casa": "Atlético-MG",
+      "clube_casa_id": 282,
+      "clube_visitante": "Botafogo",
+      "clube_casa_abrev": "ATL",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2017/11/23/Atletico-Mineiro-escudo65px.png",
+      "clube_visitante_id": 263,
+      "clube_visitante_abrev": "BOT",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-65.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/03/11/photo_220x220_XppRgGL.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2017/11/23/Atletico-Mineiro-escudo65px.png",
   "scouts": {
-    "rodada_id": 33,
+    "rodada_id": 34,
     "g": 6,
     "a": 1,
     "sg": 0,
-    "fs": 14,
+    "fs": 15,
     "ff": 8,
     "fd": 11,
     "ft": 0,
@@ -234,17 +234,17 @@
     "pp": 0,
     "gs": 0,
     "fc": 10,
-    "i": 8,
+    "i": 9,
     "ds": 20,
     "pi": 0,
     "pc": 0,
     "ps": 1,
     "v": 0,
-    "pontos_num": 0,
-    "preco_num": 10.12,
-    "variacao_num": 0,
-    "media_num": 4.53,
-    "jogos_num": 21,
+    "pontos_num": 0.4,
+    "preco_num": 10.26,
+    "variacao_num": 0.14,
+    "media_num": 4.34,
+    "jogos_num": 22,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }

@@ -6,7 +6,6 @@
   "clube_id": 265,
   "posicao": "Atacante",
   "rodadas": [
-    23,
     24,
     25,
     26,
@@ -16,10 +15,10 @@
     30,
     31,
     32,
-    33
+    33,
+    34
   ],
   "pontos": [
-    0,
     0,
     0,
     0,
@@ -29,7 +28,8 @@
     6,
     0,
     0,
-    0
+    0,
+    1
   ],
   "precos": [
     8.21,
@@ -38,14 +38,13 @@
     8.21,
     8.21,
     8.21,
-    8.21,
     8.76,
     8.76,
     8.76,
-    8.76
+    8.76,
+    8.04
   ],
   "variacoes": [
-    0,
     0,
     0,
     0,
@@ -55,7 +54,8 @@
     0.55,
     0,
     0,
-    0
+    0,
+    -0.72
   ],
   "medias": [
     4.5,
@@ -64,26 +64,13 @@
     4.5,
     4.5,
     4.5,
-    4.5,
     4.58,
     4.58,
     4.58,
-    4.58
+    4.58,
+    4.4
   ],
   "partidas": [
-    {
-      "rodada_id": 23,
-      "clube_casa": "Grêmio",
-      "clube_casa_id": 284,
-      "clube_visitante": "Bahia",
-      "clube_casa_abrev": "GRE",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/gremio_60x60.png",
-      "clube_visitante_id": 265,
-      "clube_visitante_abrev": "BAH",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/bahia_60x60.png",
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 2
-    },
     {
       "rodada_id": 24,
       "clube_casa": "Bahia",
@@ -213,17 +200,30 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/bahia_60x60.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 34,
+      "clube_casa": "Bahia",
+      "clube_casa_id": 265,
+      "clube_visitante": "Palmeiras",
+      "clube_casa_abrev": "BAH",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/bahia_60x60.png",
+      "clube_visitante_id": 275,
+      "clube_visitante_abrev": "PAL",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/palmeiras_60x60.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/02/29/photo_220x220_549ojOA.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2014/04/14/bahia_60x60.png",
   "scouts": {
-    "rodada_id": 33,
+    "rodada_id": 34,
     "g": 4,
     "a": 4,
     "sg": 0,
-    "fs": 17,
-    "ff": 8,
+    "fs": 18,
+    "ff": 9,
     "fd": 5,
     "ft": 2,
     "de": 0,
@@ -233,18 +233,18 @@
     "ca": 3,
     "pp": 0,
     "gs": 0,
-    "fc": 6,
+    "fc": 7,
     "i": 3,
     "ds": 11,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 0,
-    "preco_num": 8.76,
-    "variacao_num": 0,
-    "media_num": 4.58,
-    "jogos_num": 19,
+    "pontos_num": 1,
+    "preco_num": 8.04,
+    "variacao_num": -0.72,
+    "media_num": 4.4,
+    "jogos_num": 20,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }

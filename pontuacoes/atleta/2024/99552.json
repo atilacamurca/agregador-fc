@@ -6,7 +6,6 @@
   "clube_id": 262,
   "posicao": "Goleiro",
   "rodadas": [
-    23,
     24,
     25,
     26,
@@ -16,10 +15,10 @@
     30,
     31,
     32,
-    33
+    33,
+    34
   ],
   "pontos": [
-    0,
     0,
     0,
     0,
@@ -29,10 +28,10 @@
     5,
     -1,
     9,
-    0
+    0,
+    1
   ],
   "precos": [
-    6.11,
     5.18,
     5.11,
     5.06,
@@ -42,10 +41,10 @@
     5.89,
     5.1,
     6.38,
-    6.38
+    6.38,
+    5.38
   ],
   "variacoes": [
-    0.31,
     -0.93,
     -0.07,
     -0.05,
@@ -55,10 +54,10 @@
     -0.28,
     -0.79,
     1.28,
-    0
+    0,
+    -1
   ],
   "medias": [
-    2.64,
     2.52,
     2.41,
     2.31,
@@ -68,22 +67,10 @@
     2.78,
     2.64,
     2.86,
-    2.86
+    2.86,
+    2.8
   ],
   "partidas": [
-    {
-      "rodada_id": 23,
-      "clube_casa": "Botafogo",
-      "clube_casa_id": 263,
-      "clube_visitante": "Flamengo",
-      "clube_casa_abrev": "BOT",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-65.png",
-      "clube_visitante_id": 262,
-      "clube_visitante_abrev": "FLA",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2018/04/09/Flamengo-65.png",
-      "placar_oficial_mandante": 4,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 24,
       "clube_casa": "Flamengo",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2017/11/23/Atletico-Mineiro-escudo65px.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 34,
+      "clube_casa": "Cuiabá",
+      "clube_casa_id": 1371,
+      "clube_visitante": "Flamengo",
+      "clube_casa_abrev": "CUI",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/16/cuiaba65.png",
+      "clube_visitante_id": 262,
+      "clube_visitante_abrev": "FLA",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2018/04/09/Flamengo-65.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/02/26/photo_220x220_sM4o3AF.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2018/04/09/Flamengo-65.png",
   "scouts": {
-    "rodada_id": 33,
+    "rodada_id": 34,
     "g": 0,
     "a": 0,
     "sg": 6,
@@ -226,13 +226,13 @@
     "ff": 0,
     "fd": 0,
     "ft": 0,
-    "de": 70,
+    "de": 72,
     "dp": 2,
     "gc": 0,
     "cv": 0,
     "ca": 1,
     "pp": 0,
-    "gs": 33,
+    "gs": 34,
     "fc": 0,
     "i": 0,
     "ds": 0,
@@ -240,11 +240,11 @@
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 0,
-    "preco_num": 6.38,
-    "variacao_num": 0,
-    "media_num": 2.86,
-    "jogos_num": 29,
+    "pontos_num": 1,
+    "preco_num": 5.38,
+    "variacao_num": -1,
+    "media_num": 2.8,
+    "jogos_num": 30,
     "posicao_abrev": "gol",
     "posicao": "Goleiro"
   }
