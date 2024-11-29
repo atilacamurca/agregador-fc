@@ -6,7 +6,6 @@
   "clube_id": 284,
   "posicao": "Zagueiro",
   "rodadas": [
-    24,
     25,
     26,
     27,
@@ -16,10 +15,10 @@
     31,
     32,
     33,
-    34
+    34,
+    35
   ],
   "pontos": [
-    5,
     -3.6,
     0,
     2.1,
@@ -29,10 +28,10 @@
     0,
     0,
     0,
+    0,
     0
   ],
   "precos": [
-    6.23,
     4.9,
     4.9,
     5.47,
@@ -42,10 +41,10 @@
     5.4,
     5.4,
     5.4,
+    5.29,
     5.29
   ],
   "variacoes": [
-    0.69,
     -1.33,
     0,
     0.57,
@@ -55,10 +54,10 @@
     0,
     0,
     0,
-    -0.11
+    -0.11,
+    0
   ],
   "medias": [
-    3.39,
     2.89,
     2.89,
     2.84,
@@ -68,22 +67,10 @@
     3.04,
     3.04,
     3.04,
+    2.87,
     2.87
   ],
   "partidas": [
-    {
-      "rodada_id": 24,
-      "clube_casa": "Criciúma",
-      "clube_casa_id": 288,
-      "clube_visitante": "Grêmio",
-      "clube_casa_abrev": "CRI",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2024/03/28/criciuma-65.png",
-      "clube_visitante_id": 284,
-      "clube_visitante_abrev": "GRE",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/gremio_60x60.png",
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 25,
       "clube_casa": "Grêmio",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/04/29/juventude65.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 35,
+      "clube_casa": "Cruzeiro",
+      "clube_casa_id": 283,
+      "clube_visitante": "Grêmio",
+      "clube_casa_abrev": "CRU",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2021/02/13/65_cruzeiro-2021.png",
+      "clube_visitante_id": 284,
+      "clube_visitante_abrev": "GRE",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/gremio_60x60.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/03/11/photo_220x220_0UAzL2e.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2014/04/14/gremio_60x60.png",
   "scouts": {
-    "rodada_id": 34,
+    "rodada_id": 35,
     "g": 2,
     "a": 0,
     "sg": 5,
@@ -242,7 +242,7 @@
     "v": 0,
     "pontos_num": 0,
     "preco_num": 5.29,
-    "variacao_num": -0.11,
+    "variacao_num": 0,
     "media_num": 2.87,
     "jogos_num": 18,
     "posicao_abrev": "zag",

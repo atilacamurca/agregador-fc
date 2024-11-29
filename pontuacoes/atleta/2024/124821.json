@@ -6,7 +6,6 @@
   "clube_id": 266,
   "posicao": "Atacante",
   "rodadas": [
-    24,
     25,
     26,
     27,
@@ -16,10 +15,10 @@
     31,
     32,
     33,
-    34
+    34,
+    35
   ],
   "pontos": [
-    6.7,
     7.7,
     0.5,
     0,
@@ -29,10 +28,10 @@
     5.6,
     0,
     0,
-    0
+    0,
+    4.1
   ],
   "precos": [
-    3.95,
     4.29,
     3.38,
     3.19,
@@ -42,10 +41,10 @@
     4.19,
     4.19,
     4.19,
-    4.19
+    4.19,
+    4.07
   ],
   "variacoes": [
-    0.69,
     0.34,
     -0.91,
     -0.19,
@@ -55,10 +54,10 @@
     0.05,
     0,
     0,
-    0
+    0,
+    -0.12
   ],
   "medias": [
-    3.42,
     3.69,
     3.5,
     3.31,
@@ -68,22 +67,10 @@
     3.46,
     3.46,
     3.46,
-    3.46
+    3.46,
+    3.49
   ],
   "partidas": [
-    {
-      "rodada_id": 24,
-      "clube_casa": "Atlético-MG",
-      "clube_casa_id": 282,
-      "clube_visitante": "Fluminense",
-      "clube_casa_abrev": "ATL",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2017/11/23/Atletico-Mineiro-escudo65px.png",
-      "clube_visitante_id": 266,
-      "clube_visitante_abrev": "FLU",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/fluminense_60x60.png",
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 2
-    },
     {
       "rodada_id": 25,
       "clube_casa": "Fluminense",
@@ -213,18 +200,31 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/09/19/65_0000_Fortaleza-2021.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 35,
+      "clube_casa": "Fluminense",
+      "clube_casa_id": 266,
+      "clube_visitante": "Criciúma",
+      "clube_casa_abrev": "FLU",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/fluminense_60x60.png",
+      "clube_visitante_id": 288,
+      "clube_visitante_abrev": "CRI",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2024/03/28/criciuma-65.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/04/09/photo_220x220_UGP7Pol.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2014/04/14/fluminense_60x60.png",
   "scouts": {
-    "rodada_id": 34,
+    "rodada_id": 35,
     "g": 5,
     "a": 2,
     "sg": 0,
-    "fs": 8,
+    "fs": 9,
     "ff": 10,
-    "fd": 10,
+    "fd": 11,
     "ft": 0,
     "de": 0,
     "dp": 0,
@@ -235,16 +235,16 @@
     "gs": 0,
     "fc": 12,
     "i": 3,
-    "ds": 7,
+    "ds": 9,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 0,
-    "preco_num": 4.19,
-    "variacao_num": 0,
-    "media_num": 3.46,
-    "jogos_num": 22,
+    "pontos_num": 4.1,
+    "preco_num": 4.07,
+    "variacao_num": -0.12,
+    "media_num": 3.49,
+    "jogos_num": 23,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }

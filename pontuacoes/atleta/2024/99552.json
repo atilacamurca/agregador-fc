@@ -6,7 +6,6 @@
   "clube_id": 262,
   "posicao": "Goleiro",
   "rodadas": [
-    24,
     25,
     26,
     27,
@@ -16,10 +15,10 @@
     31,
     32,
     33,
-    34
+    34,
+    35
   ],
   "pontos": [
-    0,
     0,
     0,
     0,
@@ -29,10 +28,10 @@
     -1,
     9,
     0,
-    1
+    1,
+    6
   ],
   "precos": [
-    5.18,
     5.11,
     5.06,
     5.06,
@@ -42,10 +41,10 @@
     5.1,
     6.38,
     6.38,
-    5.38
+    5.38,
+    6.13
   ],
   "variacoes": [
-    -0.93,
     -0.07,
     -0.05,
     0,
@@ -55,10 +54,10 @@
     -0.79,
     1.28,
     0,
-    -1
+    -1,
+    0.75
   ],
   "medias": [
-    2.52,
     2.41,
     2.31,
     2.31,
@@ -68,22 +67,10 @@
     2.64,
     2.86,
     2.86,
-    2.8
+    2.8,
+    2.9
   ],
   "partidas": [
-    {
-      "rodada_id": 24,
-      "clube_casa": "Flamengo",
-      "clube_casa_id": 262,
-      "clube_visitante": "Bragantino",
-      "clube_casa_abrev": "FLA",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2018/04/09/Flamengo-65.png",
-      "clube_visitante_id": 280,
-      "clube_visitante_abrev": "BRA",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2020/01/01/65.png",
-      "placar_oficial_mandante": 2,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 25,
       "clube_casa": "Corinthians",
@@ -213,20 +200,33 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2018/04/09/Flamengo-65.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 35,
+      "clube_casa": "Fortaleza",
+      "clube_casa_id": 356,
+      "clube_visitante": "Flamengo",
+      "clube_casa_abrev": "FOR",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2021/09/19/65_0000_Fortaleza-2021.png",
+      "clube_visitante_id": 262,
+      "clube_visitante_abrev": "FLA",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2018/04/09/Flamengo-65.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/02/26/photo_220x220_sM4o3AF.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2018/04/09/Flamengo-65.png",
   "scouts": {
-    "rodada_id": 34,
+    "rodada_id": 35,
     "g": 0,
     "a": 0,
-    "sg": 6,
+    "sg": 7,
     "fs": 5,
     "ff": 0,
     "fd": 0,
     "ft": 0,
-    "de": 72,
+    "de": 73,
     "dp": 2,
     "gc": 0,
     "cv": 0,
@@ -240,11 +240,11 @@
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 1,
-    "preco_num": 5.38,
-    "variacao_num": -1,
-    "media_num": 2.8,
-    "jogos_num": 30,
+    "pontos_num": 6,
+    "preco_num": 6.13,
+    "variacao_num": 0.75,
+    "media_num": 2.9,
+    "jogos_num": 31,
     "posicao_abrev": "gol",
     "posicao": "Goleiro"
   }
