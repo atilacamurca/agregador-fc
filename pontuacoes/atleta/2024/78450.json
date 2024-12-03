@@ -6,7 +6,6 @@
   "clube_id": 288,
   "posicao": "Técnico",
   "rodadas": [
-    25,
     26,
     27,
     28,
@@ -16,10 +15,10 @@
     32,
     33,
     34,
-    35
+    35,
+    36
   ],
   "pontos": [
-    2.93,
     2.05,
     6.14,
     2.83,
@@ -29,10 +28,10 @@
     2.69,
     3.7,
     1.68,
-    6.94
+    6.94,
+    5.31
   ],
   "precos": [
-    6.21,
     6.1,
     6.54,
     6.23,
@@ -42,10 +41,10 @@
     6.26,
     6.41,
     6.14,
-    6.93
+    6.93,
+    6.77
   ],
   "variacoes": [
-    -0.1,
     -0.11,
     0.44,
     -0.31,
@@ -55,10 +54,10 @@
     -0.15,
     0.15,
     -0.27,
-    0.79
+    0.79,
+    -0.16
   ],
   "medias": [
-    4.25,
     4.15,
     4.24,
     4.18,
@@ -68,22 +67,10 @@
     4.26,
     4.24,
     4.15,
-    4.24
+    4.24,
+    4.27
   ],
   "partidas": [
-    {
-      "rodada_id": 25,
-      "clube_casa": "Cuiabá",
-      "clube_casa_id": 1371,
-      "clube_visitante": "Criciúma",
-      "clube_casa_abrev": "CUI",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/16/cuiaba65.png",
-      "clube_visitante_id": 288,
-      "clube_visitante_abrev": "CRI",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2024/03/28/criciuma-65.png",
-      "placar_oficial_mandante": 2,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 26,
       "clube_casa": "Palmeiras",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2024/03/28/criciuma-65.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 36,
+      "clube_casa": "Criciúma",
+      "clube_casa_id": 288,
+      "clube_visitante": "Corinthians",
+      "clube_casa_abrev": "CRI",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2024/03/28/criciuma-65.png",
+      "clube_visitante_id": 264,
+      "clube_visitante_abrev": "COR",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/09/30/Corinthians_65.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 4
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/03/25/photo_220x220_54lwaii.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2024/03/28/criciuma-65.png",
   "scouts": {
-    "rodada_id": 35,
+    "rodada_id": 36,
     "g": 0,
     "a": 0,
     "sg": 0,
@@ -240,11 +240,11 @@
     "pc": 0,
     "ps": 0,
     "v": 7,
-    "pontos_num": 6.94,
-    "preco_num": 6.93,
-    "variacao_num": 0.79,
-    "media_num": 4.24,
-    "jogos_num": 31,
+    "pontos_num": 5.31,
+    "preco_num": 6.77,
+    "variacao_num": -0.16,
+    "media_num": 4.27,
+    "jogos_num": 32,
     "posicao_abrev": "tec",
     "posicao": "Técnico"
   }

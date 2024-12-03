@@ -6,7 +6,6 @@
   "clube_id": 288,
   "posicao": "Atacante",
   "rodadas": [
-    25,
     26,
     27,
     28,
@@ -16,10 +15,11 @@
     32,
     33,
     34,
-    35
+    35,
+    36
   ],
   "pontos": [
-    -0.3,
+    0,
     0,
     0,
     0,
@@ -37,7 +37,7 @@
     2.81,
     2.81,
     2.81,
-    2.81,
+    2.54,
     2.54,
     2.54,
     2.54,
@@ -45,13 +45,13 @@
     2.54
   ],
   "variacoes": [
-    -0.63,
     0,
     0,
     0,
     0,
     0,
     -0.27,
+    0,
     0,
     0,
     0,
@@ -63,7 +63,7 @@
     1.03,
     1.03,
     1.03,
-    1.03,
+    0.77,
     0.77,
     0.77,
     0.77,
@@ -71,19 +71,6 @@
     0.77
   ],
   "partidas": [
-    {
-      "rodada_id": 25,
-      "clube_casa": "Cuiabá",
-      "clube_casa_id": 1371,
-      "clube_visitante": "Criciúma",
-      "clube_casa_abrev": "CUI",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/16/cuiaba65.png",
-      "clube_visitante_id": 288,
-      "clube_visitante_abrev": "CRI",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2024/03/28/criciuma-65.png",
-      "placar_oficial_mandante": 2,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 26,
       "clube_casa": "Palmeiras",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2024/03/28/criciuma-65.png",
       "placar_oficial_mandante": 0,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 36,
+      "clube_casa": "Criciúma",
+      "clube_casa_id": 288,
+      "clube_visitante": "Corinthians",
+      "clube_casa_abrev": "CRI",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2024/03/28/criciuma-65.png",
+      "clube_visitante_id": 264,
+      "clube_visitante_abrev": "COR",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/09/30/Corinthians_65.png",
+      "placar_oficial_mandante": 2,
+      "placar_oficial_visitante": 4
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/08/15/photo_220x220_ouzG8H9.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2024/03/28/criciuma-65.png",
   "scouts": {
-    "rodada_id": 35,
+    "rodada_id": 36,
     "g": 0,
     "a": 0,
     "sg": 0,
