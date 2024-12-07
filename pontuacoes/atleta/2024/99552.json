@@ -6,7 +6,6 @@
   "clube_id": 262,
   "posicao": "Goleiro",
   "rodadas": [
-    26,
     27,
     28,
     29,
@@ -16,10 +15,10 @@
     33,
     34,
     35,
-    36
+    36,
+    37
   ],
   "pontos": [
-    0,
     0,
     7,
     0,
@@ -29,10 +28,10 @@
     0,
     1,
     6,
-    2.5
+    2.5,
+    0
   ],
   "precos": [
-    5.06,
     5.06,
     6.02,
     6.17,
@@ -42,10 +41,10 @@
     6.38,
     5.38,
     6.13,
+    5.68,
     5.68
   ],
   "variacoes": [
-    -0.05,
     0,
     0.96,
     0.15,
@@ -55,10 +54,10 @@
     0,
     -1,
     0.75,
-    -0.45
+    -0.45,
+    0
   ],
   "medias": [
-    2.31,
     2.31,
     2.5,
     2.69,
@@ -68,22 +67,10 @@
     2.86,
     2.8,
     2.9,
+    2.89,
     2.89
   ],
   "partidas": [
-    {
-      "rodada_id": 26,
-      "clube_casa": "Flamengo",
-      "clube_casa_id": 262,
-      "clube_visitante": "Vasco",
-      "clube_casa_abrev": "FLA",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2018/04/09/Flamengo-65.png",
-      "clube_visitante_id": 267,
-      "clube_visitante_abrev": "VAS",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/09/04/ESCUDO-VASCO-RGB_65px.png",
-      "placar_oficial_mandante": 1,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 27,
       "clube_casa": "Grêmio",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2016/05/03/inter65.png",
       "placar_oficial_mandante": 3,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 37,
+      "clube_casa": "Criciúma",
+      "clube_casa_id": 288,
+      "clube_visitante": "Flamengo",
+      "clube_casa_abrev": "CRI",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2024/03/28/criciuma-65.png",
+      "clube_visitante_id": 262,
+      "clube_visitante_abrev": "FLA",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2018/04/09/Flamengo-65.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 3
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/02/26/photo_220x220_sM4o3AF.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2018/04/09/Flamengo-65.png",
   "scouts": {
-    "rodada_id": 36,
+    "rodada_id": 37,
     "g": 0,
     "a": 0,
     "sg": 7,
@@ -240,9 +240,9 @@
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 2.5,
+    "pontos_num": 0,
     "preco_num": 5.68,
-    "variacao_num": -0.45,
+    "variacao_num": 0,
     "media_num": 2.89,
     "jogos_num": 32,
     "posicao_abrev": "gol",

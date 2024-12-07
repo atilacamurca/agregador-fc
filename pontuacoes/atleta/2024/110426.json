@@ -6,7 +6,6 @@
   "clube_id": 285,
   "posicao": "Lateral",
   "rodadas": [
-    26,
     27,
     28,
     29,
@@ -16,10 +15,10 @@
     33,
     34,
     35,
-    36
+    36,
+    37
   ],
   "pontos": [
-    12.5,
     7.6,
     2.3,
     0,
@@ -29,10 +28,10 @@
     0,
     0,
     2.3,
-    8
+    8,
+    2.4
   ],
   "precos": [
-    7.53,
     7.11,
     6.5,
     7.18,
@@ -42,10 +41,10 @@
     8.69,
     8.69,
     8.03,
-    8.88
+    8.88,
+    8.04
   ],
   "variacoes": [
-    1.13,
     -0.42,
     -0.61,
     0.68,
@@ -55,10 +54,10 @@
     0,
     0,
     -0.66,
-    0.85
+    0.85,
+    -0.84
   ],
   "medias": [
-    5.96,
     6.17,
     5.74,
     5.84,
@@ -68,22 +67,10 @@
     7.62,
     7.62,
     7.24,
-    7.29
+    7.29,
+    6.98
   ],
   "partidas": [
-    {
-      "rodada_id": 26,
-      "clube_casa": "Internacional",
-      "clube_casa_id": 285,
-      "clube_visitante": "Cuiabá",
-      "clube_casa_abrev": "INT",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2016/05/03/inter65.png",
-      "clube_visitante_id": 1371,
-      "clube_visitante_abrev": "CUI",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/16/cuiaba65.png",
-      "placar_oficial_mandante": 3,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 27,
       "clube_casa": "São Paulo",
@@ -213,16 +200,29 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2016/05/03/inter65.png",
       "placar_oficial_mandante": 3,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 37,
+      "clube_casa": "Internacional",
+      "clube_casa_id": 285,
+      "clube_visitante": "Botafogo",
+      "clube_casa_abrev": "INT",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2016/05/03/inter65.png",
+      "clube_visitante_id": 263,
+      "clube_visitante_abrev": "BOT",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2019/02/04/botafogo-65.png",
+      "placar_oficial_mandante": 0,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/03/12/photo_220x220_muBtltt.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2016/05/03/inter65.png",
   "scouts": {
-    "rodada_id": 36,
+    "rodada_id": 37,
     "g": 3,
     "a": 3,
     "sg": 4,
-    "fs": 15,
+    "fs": 17,
     "ff": 5,
     "fd": 4,
     "ft": 1,
@@ -230,21 +230,21 @@
     "dp": 0,
     "gc": 0,
     "cv": 0,
-    "ca": 2,
+    "ca": 3,
     "pp": 0,
     "gs": 0,
-    "fc": 29,
+    "fc": 33,
     "i": 1,
-    "ds": 34,
+    "ds": 37,
     "pi": 0,
     "pc": 0,
     "ps": 1,
     "v": 0,
-    "pontos_num": 8,
-    "preco_num": 8.88,
-    "variacao_num": 0.85,
-    "media_num": 7.29,
-    "jogos_num": 15,
+    "pontos_num": 2.4,
+    "preco_num": 8.04,
+    "variacao_num": -0.84,
+    "media_num": 6.98,
+    "jogos_num": 16,
     "posicao_abrev": "lat",
     "posicao": "Lateral"
   }

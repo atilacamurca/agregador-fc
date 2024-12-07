@@ -6,7 +6,6 @@
   "clube_id": 283,
   "posicao": "Atacante",
   "rodadas": [
-    26,
     27,
     28,
     29,
@@ -16,15 +15,16 @@
     33,
     34,
     35,
-    36
+    36,
+    37
   ],
   "pontos": [
     0,
     0,
     0,
     0,
-    0,
     -3.3,
+    0,
     0,
     0,
     0,
@@ -36,7 +36,7 @@
     5.88,
     5.88,
     5.88,
-    5.88,
+    5.02,
     5.02,
     5.02,
     5.02,
@@ -49,8 +49,8 @@
     0,
     0,
     0,
-    0,
     -0.86,
+    0,
     0,
     0,
     0,
@@ -62,7 +62,7 @@
     4.04,
     4.04,
     4.04,
-    4.04,
+    3.22,
     3.22,
     3.22,
     3.22,
@@ -71,19 +71,6 @@
     3.22
   ],
   "partidas": [
-    {
-      "rodada_id": 26,
-      "clube_casa": "Cruzeiro",
-      "clube_casa_id": 283,
-      "clube_visitante": "São Paulo",
-      "clube_casa_abrev": "CRU",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2021/02/13/65_cruzeiro-2021.png",
-      "clube_visitante_id": 276,
-      "clube_visitante_abrev": "SAO",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/sao_paulo_60x60.png",
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 27,
       "clube_casa": "Cuiabá",
@@ -213,12 +200,25 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/02/13/65_cruzeiro-2021.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 37,
+      "clube_casa": "Cruzeiro",
+      "clube_casa_id": 283,
+      "clube_visitante": "Palmeiras",
+      "clube_casa_abrev": "CRU",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2021/02/13/65_cruzeiro-2021.png",
+      "clube_visitante_id": 275,
+      "clube_visitante_abrev": "PAL",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/palmeiras_60x60.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/03/02/photo_220x220_UXvdhXA.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2021/02/13/65_cruzeiro-2021.png",
   "scouts": {
-    "rodada_id": 36,
+    "rodada_id": 37,
     "g": 3,
     "a": 0,
     "sg": 0,

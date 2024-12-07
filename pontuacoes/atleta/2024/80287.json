@@ -6,7 +6,6 @@
   "clube_id": 276,
   "posicao": "Atacante",
   "rodadas": [
-    26,
     27,
     28,
     29,
@@ -16,10 +15,10 @@
     33,
     34,
     35,
-    36
+    36,
+    37
   ],
   "pontos": [
-    0,
     8.8,
     0.7,
     0,
@@ -29,10 +28,10 @@
     11,
     3.5,
     0,
-    4.6
+    4.6,
+    11
   ],
   "precos": [
-    9.75,
     10.67,
     9.72,
     9.84,
@@ -42,10 +41,10 @@
     11.16,
     10.21,
     9.76,
-    10.34
+    10.34,
+    11.15
   ],
   "variacoes": [
-    0,
     0.92,
     -0.95,
     0.12,
@@ -55,10 +54,10 @@
     0.45,
     -0.95,
     -0.45,
-    0.58
+    0.58,
+    0.81
   ],
   "medias": [
-    5.64,
     5.79,
     5.56,
     5.43,
@@ -68,22 +67,10 @@
     6,
     5.91,
     5.71,
-    5.67
+    5.67,
+    5.84
   ],
   "partidas": [
-    {
-      "rodada_id": 26,
-      "clube_casa": "Cruzeiro",
-      "clube_casa_id": 283,
-      "clube_visitante": "São Paulo",
-      "clube_casa_abrev": "CRU",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2021/02/13/65_cruzeiro-2021.png",
-      "clube_visitante_id": 276,
-      "clube_visitante_abrev": "SAO",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/sao_paulo_60x60.png",
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 1
-    },
     {
       "rodada_id": 27,
       "clube_casa": "São Paulo",
@@ -213,17 +200,30 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/sao_paulo_60x60.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 1
+    },
+    {
+      "rodada_id": 37,
+      "clube_casa": "São Paulo",
+      "clube_casa_id": 276,
+      "clube_visitante": "Juventude",
+      "clube_casa_abrev": "SAO",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/sao_paulo_60x60.png",
+      "clube_visitante_id": 286,
+      "clube_visitante_abrev": "JUV",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/04/29/juventude65.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 2
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/03/01/photo_220x220_hqCxZF4.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2014/04/14/sao_paulo_60x60.png",
   "scouts": {
-    "rodada_id": 36,
-    "g": 10,
+    "rodada_id": 37,
+    "g": 11,
     "a": 3,
     "sg": 0,
-    "fs": 39,
-    "ff": 30,
+    "fs": 41,
+    "ff": 31,
     "fd": 15,
     "ft": 4,
     "de": 0,
@@ -235,16 +235,16 @@
     "gs": 0,
     "fc": 30,
     "i": 5,
-    "ds": 23,
+    "ds": 24,
     "pi": 0,
     "pc": 0,
     "ps": 1,
     "v": 0,
-    "pontos_num": 4.6,
-    "preco_num": 10.34,
-    "variacao_num": 0.58,
-    "media_num": 5.67,
-    "jogos_num": 30,
+    "pontos_num": 11,
+    "preco_num": 11.15,
+    "variacao_num": 0.81,
+    "media_num": 5.84,
+    "jogos_num": 31,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }

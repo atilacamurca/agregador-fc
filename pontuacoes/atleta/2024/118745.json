@@ -6,7 +6,6 @@
   "clube_id": 1371,
   "posicao": "Atacante",
   "rodadas": [
-    26,
     27,
     28,
     29,
@@ -16,10 +15,10 @@
     33,
     34,
     35,
-    36
+    36,
+    37
   ],
   "pontos": [
-    0,
     1.2,
     0.5,
     0,
@@ -29,10 +28,10 @@
     0,
     0,
     0,
-    9.8
+    9.8,
+    1.2
   ],
   "precos": [
-    3.89,
     3.92,
     3.81,
     3.65,
@@ -42,10 +41,10 @@
     3.58,
     3.58,
     3.58,
-    5.11
+    5.11,
+    3.97
   ],
   "variacoes": [
-    0,
     0.03,
     -0.11,
     -0.16,
@@ -55,10 +54,10 @@
     0,
     0,
     0,
-    1.53
+    1.53,
+    -1.14
   ],
   "medias": [
-    2.15,
     2.07,
     1.95,
     1.81,
@@ -68,22 +67,10 @@
     1.69,
     1.69,
     1.69,
-    2.2
+    2.2,
+    2.14
   ],
   "partidas": [
-    {
-      "rodada_id": 26,
-      "clube_casa": "Internacional",
-      "clube_casa_id": 285,
-      "clube_visitante": "Cuiabá",
-      "clube_casa_abrev": "INT",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2016/05/03/inter65.png",
-      "clube_visitante_id": 1371,
-      "clube_visitante_abrev": "CUI",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/16/cuiaba65.png",
-      "placar_oficial_mandante": 3,
-      "placar_oficial_visitante": 0
-    },
     {
       "rodada_id": 27,
       "clube_casa": "Cuiabá",
@@ -213,16 +200,29 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/bahia_60x60.png",
       "placar_oficial_mandante": 1,
       "placar_oficial_visitante": 2
+    },
+    {
+      "rodada_id": 37,
+      "clube_casa": "Fluminense",
+      "clube_casa_id": 266,
+      "clube_visitante": "Cuiabá",
+      "clube_casa_abrev": "FLU",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/fluminense_60x60.png",
+      "clube_visitante_id": 1371,
+      "clube_visitante_abrev": "CUI",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/16/cuiaba65.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 0
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/02/29/photo_220x220_t0Fw29t.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2014/04/16/cuiaba65.png",
   "scouts": {
-    "rodada_id": 36,
+    "rodada_id": 37,
     "g": 2,
     "a": 0,
     "sg": 0,
-    "fs": 15,
+    "fs": 17,
     "ff": 5,
     "fd": 2,
     "ft": 0,
@@ -230,21 +230,21 @@
     "dp": 0,
     "gc": 0,
     "cv": 0,
-    "ca": 1,
+    "ca": 2,
     "pp": 0,
     "gs": 0,
     "fc": 3,
     "i": 1,
-    "ds": 6,
+    "ds": 7,
     "pi": 0,
     "pc": 0,
     "ps": 0,
     "v": 0,
-    "pontos_num": 9.8,
-    "preco_num": 5.11,
-    "variacao_num": 1.53,
-    "media_num": 2.2,
-    "jogos_num": 16,
+    "pontos_num": 1.2,
+    "preco_num": 3.97,
+    "variacao_num": -1.14,
+    "media_num": 2.14,
+    "jogos_num": 17,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }

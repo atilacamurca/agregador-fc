@@ -6,7 +6,6 @@
   "clube_id": 287,
   "posicao": "Atacante",
   "rodadas": [
-    26,
     27,
     28,
     29,
@@ -16,10 +15,10 @@
     33,
     34,
     35,
-    36
+    36,
+    37
   ],
   "pontos": [
-    6.4,
     0,
     3.7,
     0,
@@ -29,10 +28,10 @@
     10,
     1.7,
     9.7,
-    19.9
+    19.9,
+    10.5
   ],
   "precos": [
-    8.13,
     8.13,
     7.77,
     8.55,
@@ -42,10 +41,10 @@
     9.03,
     7.97,
     9.16,
-    10.76
+    10.76,
+    9.6
   ],
   "variacoes": [
-    0.15,
     0,
     -0.36,
     0.78,
@@ -55,10 +54,10 @@
     -0.07,
     -1.06,
     1.19,
-    1.6
+    1.6,
+    -1.16
   ],
   "medias": [
-    5.28,
     5.28,
     5.21,
     5.37,
@@ -68,22 +67,10 @@
     5.98,
     5.83,
     5.96,
-    6.41
+    6.41,
+    6.54
   ],
   "partidas": [
-    {
-      "rodada_id": 26,
-      "clube_casa": "Atlético-GO",
-      "clube_casa_id": 373,
-      "clube_visitante": "Vitória",
-      "clube_casa_abrev": "ATL",
-      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2020/07/02/atletico-go-2020-65.png",
-      "clube_visitante_id": 287,
-      "clube_visitante_abrev": "VIT",
-      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2024/04/09/escudo-vitoria-65x65-69284.png",
-      "placar_oficial_mandante": 0,
-      "placar_oficial_visitante": 2
-    },
     {
       "rodada_id": 27,
       "clube_casa": "Vitória",
@@ -213,17 +200,30 @@
       "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2021/09/19/65_0000_Fortaleza-2021.png",
       "placar_oficial_mandante": 2,
       "placar_oficial_visitante": 0
+    },
+    {
+      "rodada_id": 37,
+      "clube_casa": "Vitória",
+      "clube_casa_id": 287,
+      "clube_visitante": "Grêmio",
+      "clube_casa_abrev": "VIT",
+      "clube_casa_escudo": "https://s.sde.globo.com/media/organizations/2024/04/09/escudo-vitoria-65x65-69284.png",
+      "clube_visitante_id": 284,
+      "clube_visitante_abrev": "GRE",
+      "clube_visitante_escudo": "https://s.sde.globo.com/media/organizations/2014/04/14/gremio_60x60.png",
+      "placar_oficial_mandante": 1,
+      "placar_oficial_visitante": 1
     }
   ],
   "foto": "https://s.sde.globo.com/media/person_role/2024/04/12/photo_220x220_v6x7rRS.png",
   "escudo_60": "https://s.sde.globo.com/media/organizations/2024/04/09/escudo-vitoria-65x65-69284.png",
   "scouts": {
-    "rodada_id": 36,
-    "g": 13,
+    "rodada_id": 37,
+    "g": 14,
     "a": 4,
     "sg": 0,
-    "fs": 38,
-    "ff": 17,
+    "fs": 41,
+    "ff": 19,
     "fd": 16,
     "ft": 0,
     "de": 0,
@@ -233,18 +233,18 @@
     "ca": 4,
     "pp": 0,
     "gs": 0,
-    "fc": 23,
+    "fc": 25,
     "i": 4,
     "ds": 29,
     "pi": 0,
     "pc": 1,
     "ps": 0,
     "v": 0,
-    "pontos_num": 19.9,
-    "preco_num": 10.76,
-    "variacao_num": 1.6,
-    "media_num": 6.41,
-    "jogos_num": 31,
+    "pontos_num": 10.5,
+    "preco_num": 9.6,
+    "variacao_num": -1.16,
+    "media_num": 6.54,
+    "jogos_num": 32,
     "posicao_abrev": "ata",
     "posicao": "Atacante"
   }
